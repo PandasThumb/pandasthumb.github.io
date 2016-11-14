@@ -1,0 +1,27 @@
+# Jekyll Configuration Options
+permalink: date
+timezone: America/Phoenix
+encoding: UTF-8
+baseurl: ''
+url: //pt.cartwrig.ht
+relative_permalinks: false
+exclude: [Guardfile]
+excerpt_separator: "<!--more-->"
+
+# Site Configuration Options
+contact_email: nobody&#x002b;racartwright&#x0040; &#x0040;nowhere&#x002e;gmail&#x002e;com
+owner_link: http://cartwrig.ht/
+title: "The Panda's Thumb"
+image: /media/people/reed.jpg
+jquery: '3.1.1'
+jqueryui: '1.12.1'
+
+# Default options
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+      permalink: '/archives/:year/:month/:title.html'
+      layout: 'article'

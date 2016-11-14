@@ -1,0 +1,38 @@
+#! /bin/sh
+#
+
+# PROVIDE: webhook
+# REQUIRE: DAEMON
+# KEYWORD: shutdown
+
+#
+# Add the following lines to /etc/rc.conf to enable website_hook:
+#
+# webhook_enable="YES"
+
+. /etc/rc.subr
+
+name="webhook"
+rcvar="webhook_enable"
+
+load_rc_config $name
+
+: ${webhook_user:=www}
+: ${webhook_group:=www}
+: ${webhook_enable:=NO}
+: ${webhook_env:="WEBHOOK_SECRET=_"}
+
+pidfile="/var/run/www/webhook.pid"
+command="/usr/sbin/daemon"
+command_args=" -f -p ${pidfile} /usr/local/bin/ruby22 /usr/local/www/scripts/webhook.rb"
+procname="/usr/local/bin/ruby22"
+
+start_precmd="webhook_prestart"
+
+webhook_prestart() {
+        if [ ! -d "/var/run/www" ]; then
+                install -d -o "${webhook_user}" -g "${webhook_group}" -m 750 "/var/run/www"
+        fi
+}
+
+run_rc_command "$1"

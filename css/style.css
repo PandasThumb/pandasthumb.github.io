@@ -1,0 +1,400 @@
+* {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+.clear {
+  display: block;
+}
+
+.clear:after {
+  content: " ";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+body {
+  background: #fff;
+  font-family: 'Source Sans Pro', 'Open Sans','Helvetica Neue','Helvetica',
+    Helvetica, Arial, sans-serif;
+  text-rendering: optimizelegibility;
+  font-size: 1em;
+}
+
+code,
+blockcode {
+    font-family: 'Source Code Pro','Consolas','Monaco','Lucida Console',
+    'Liberation Mono','DejaVu Sans Mono','Bitstream Vera Sans Mono',
+    'Courier New', monospace;
+}
+
+body > header,
+body > section,
+body > footer {
+  clear: both;
+  float: left;
+  width: 100%;
+  display: block;
+}
+
+html,
+footer {
+  background: #7C76A3;
+}
+
+footer {
+  color: white;
+  text-shadow: 1px 1px 1px #000;
+}
+
+header h1 {
+  margin: 0px;
+}
+
+nav.main-nav li {
+  padding: 0px 0px;
+  margin: 0px;
+  font-size: 14px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+header nav.main-nav li {
+	display: inline-block;
+	vertical-align: middle;
+	line-height: 100%;
+}
+
+.topbar a {
+	text-decoration: none;
+	color: #fff;
+}
+
+.topbar a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+.topbar {
+  text-shadow: 1px 1px 1px #6495ed;
+  background: #000 url("/media/banner.jpg") no-repeat scroll left top;
+  line-height: 36px;
+  height: 200px;
+}
+
+.topbar h1 {
+  font-size: 24px;
+  font-weight: 200;
+}
+
+.topbar h1 a {
+  position: relative;
+}
+
+.topbar h1 a:hover:before {
+  content:"[";
+  right: 100%;
+  top: -3px;
+  position: absolute;
+  font-size: 1.5em;
+  padding-right: 2px;
+}
+
+.topbar h1 a:hover:after {
+  content:"]";
+  left: 100%;
+  top: -3px;
+  position: absolute;
+  font-size: 1.5em;
+  padding-left: 2px;
+}
+
+header nav.main-nav a {
+	padding: 0.5em 0.6em;
+	border-radius: 7px;
+}
+
+nav ul {
+  padding: 0;
+  margin: 0;
+  font-size: 0;
+}
+
+nav.main-nav ul:not(:hover) li.current a,
+nav.main-nav li:hover a {
+  color: #fff;
+  background: #6495ed;
+  text-shadow: 1px 1px 0px #000;
+}
+
+
+.title {
+  background: #7C76A3;
+}
+
+.title h1 {
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  font-size: 100px;
+  line-height: 1em;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.title h1 a {
+  display: inline-block;
+}
+
+img {
+  width: 100%;
+}
+
+h3 {
+  color: #222;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.4375em;
+  line-height: 1.4em;
+  margin: 0px;
+}
+
+p {
+  font-family: inherit;
+  font-size: 1em;
+  font-weight: normal;
+  line-height: 1.44;
+  margin-bottom: 1.25em;
+  margin-top: 0em;
+}
+
+p:last-child {
+  margin-bottom: 0em;
+}
+
+.item {
+  overflow: hidden;
+}
+
+.grid.item {
+  border-bottom: 1px solid #ccc;
+}
+
+.grid.item:last-child {
+ border-bottom-width: 0px;
+ margin-bottom: 10px;
+}
+
+.grid.item-first,
+.grid.item:first-child {
+  margin-top: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #2956b2;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a img {
+  padding: 3px;
+}
+
+a:hover img {
+  padding: 1px;
+  border: 2px solid #2956b2;
+}
+
+figure.quote {
+  border-left: 0.5em solid #6495ed;
+  background: none repeat scroll 0 0 #FFFFFF;
+  margin: 1em 0em 1em 0em;
+  padding: 0.75em 0.5em 0.75em 1em;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+  position: relative;
+}
+
+figure.quote figcaption:after {
+    color: #6495ed;
+    content: "”";
+    display: block;
+    font-size: 16em;
+    line-height: 16px;
+    height: 0px;
+	position: absolute;
+	right: -0.1em;
+	bottom: -0.1em;
+	text-align: right;
+}
+
+figure.quote > blockquote {
+  margin: 0;
+}
+
+figure.quote > figcaption {
+  margin-top: 1em;
+  margin-right: 4em;
+}
+
+.title .mu-sign {
+  float: right;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 100px;
+}
+
+code {
+    background-color: #F8F8F8;
+    border: 1px solid #DDDDDD;
+    border-radius: 3px;
+    margin: 0 2px;
+    padding: 0 5px;    
+}
+
+span.email {
+}
+
+section h1, section h2, section h3,
+section h4, section h5, section h6 {
+  position: relative;
+}
+
+a.anchor {
+  display: block;
+  margin-left: 0em;
+  padding: 0px;
+  position: absolute;
+  right: 100%;
+  color: black;
+  text-decoration: none;
+}
+
+a.anchor span.anchor-link {
+  display: none;
+}
+
+*:hover > a.anchor span.anchor-link {
+  display: inline-block;
+}
+
+a.anchor:hover {
+  color: #2956b2;
+}
+
+a.anchor span.anchor-link:before {
+  content: "∞";
+}
+
+article h2 {
+  margin-bottom: 0.5em;
+}
+
+.post-meta {
+  margin-bottom: 1em;
+}
+
+.post-category {
+  color: #fff;
+  background: #6495ed;
+  box-shadow: 0px 0px 2px #777;
+  padding: 0.2em 0.3em;
+  text-align: center;
+  margin-right: 1em;
+  text-transform: uppercase;
+}
+
+.shy-hyphens {
+  hyphens: manual;
+  -moz-hyphens: manual;
+  -ms-hyphens: manual;
+  -webkit-hyphens: manual;
+}
+
+.bodybar {
+  font-size: 1.2em;
+  line-height: 100%;
+  margin-top: -2em !important;
+  height: 2em;
+  padding-bottom: 0em;
+  padding-left: 20px;
+  text-transform: uppercase;
+  text-align: right;
+}
+
+.bodybar li {
+  display: inline-block;
+  vertical-align: middle;
+  font-weight: bold;
+}
+
+.bodybar ul {
+  padding: 0px;
+  color: #fff;
+  text-shadow: none;
+  margin: 0px;
+}
+
+.research .bodybar ul {
+  width: 450px;
+}
+
+.bodybar a {
+  display: inline-block;
+  padding: 0.5em 0.5em;
+  margin-left: -0.5em;
+  margin-right: 0.5em;
+  color: inherit;
+}
+
+.bodybar a:hover {
+  text-decoration: none;
+  color: #6495ed;
+  color: #000;
+  background: white;
+  text-shadow: none;
+}
+
+span.fetchemail:before {
+ content: "Link";
+}
+
+.blogpost header {
+  background: #2b2352 url("/media/paw2.png") no-repeat scroll left center;
+  color: #FFF;
+  margin: 0em -0.5em 0.5em -0.5em;
+  padding: 0.125em 0.5em 0.125em calc(40px + 0.5em);
+  text-shadow: 1px 1px 1px #000;
+}
+
+.blogpost header h2 {
+  margin: 0em;
+}
+
+.blogpost header a {
+  color: #FFF;
+  text-decoration: none;
+}
+
+.blogpost header a:hover {
+  color: #FFF;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 568px) {
+  .topbar {
+    background-size: 100% auto;
+  }
+
+ .title h1 {
+   font-size: 50px;
+   line-height: 1em;
+   padding-top: 15px;
+   padding-bottom: 15px;
+   text-align: center;
+ }
+}

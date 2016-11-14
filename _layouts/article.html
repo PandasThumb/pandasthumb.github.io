@@ -1,0 +1,30 @@
+---
+layout: blog
+---
+
+<article>
+  <h2><a href="{{ page.url }}" class="anchor" title="Permalink"><span class="anchor-link"></span></a>
+  {% if page.fulltitle %}
+    {{ page.fulltitle }}
+  {% else %}
+    {{ page.title }}
+  {% endif %}
+  </h2>
+  <div class="post-meta">
+    <span class="post-category">
+    {% for category in page.categories %}
+      <span class="label">{{ category }}</span>{% endfor %}</span>
+    <span class="post-date">
+      <time datetime="{{ page.date }}">{{ page.date | date: "%b %e %Y" }}</time>
+    </span>
+    &mdash;
+    <span class="post-author">
+      {{ page.author }}
+    </span>
+  </div>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+</article>
+
