@@ -40,6 +40,14 @@ body > footer {
   display: block;
 }
 
+body > section {
+	background: #ffecb7;
+}
+
+.grid {
+  background: #fff;
+}
+
 html,
 footer {
   background: #7C76A3;
