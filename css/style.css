@@ -41,10 +41,10 @@ body > footer {
 }
 
 body > section {
-	background: #ffecb7;
+  background: #ffecb7;
 }
 
-.grid {
+body > section > div.grid {
   background: #fff;
 }
 
