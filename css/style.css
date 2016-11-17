@@ -40,8 +40,17 @@ body > footer {
   display: block;
 }
 
+body {
+  background: url(/media/bamboo-1224035_1920.jpg) no-repeat center fixed;
+  background-size: cover;
+}
+
+.topbar {
+  bbackground: #000;
+}
+
 body > section {
-  background: #ffecb7;
+  bbackground: #ffecb7;
 }
 
 body > section > div.grid {
@@ -86,38 +95,25 @@ header nav.main-nav li {
   color: #fff;
 }
 
-.topbar {
-  text-shadow: 1px 1px 1px #6495ed;
-  background: #000 url("/media/banner.jpg") no-repeat scroll left top;
-  line-height: 36px;
-  height: 200px;
+.banner {
+  line-height: 0px;
+  background: #000;
 }
 
-.topbar h1 {
-  font-size: 24px;
-  font-weight: 200;
+.banner a {
+  display: block;
+  color: #FFF;
 }
 
-.topbar h1 a {
-  position: relative;
+.banner a img {
+  padding: 0px;
+  display: block-inline;
+  max-width: 800px;
 }
 
-.topbar h1 a:hover:before {
-  content:"[";
-  right: 100%;
-  top: -3px;
-  position: absolute;
-  font-size: 1.5em;
-  padding-right: 2px;
-}
-
-.topbar h1 a:hover:after {
-  content:"]";
-  left: 100%;
-  top: -3px;
-  position: absolute;
-  font-size: 1.5em;
-  padding-left: 2px;
+.banner a:hover img {
+  padding: 0px;
+  border: 0px;
 }
 
 header nav.main-nav a {
@@ -195,8 +191,7 @@ p:last-child {
  margin-bottom: 10px;
 }
 
-.grid.item-first,
-.grid.item:first-child {
+.grid.item-first {
   margin-top: 10px;
 }
 
@@ -372,32 +367,24 @@ span.fetchemail:before {
 }
 
 .blogpost header {
-  background: #2b2352 url("/media/paw2.png") no-repeat scroll left center;
-  color: #FFF;
+  background: #fff url("/media/paw.png") no-repeat scroll left center;
   margin: 0em -0.5em 0.5em -0.5em;
   padding: 0.125em 0.5em 0.125em calc(40px + 0.5em);
-  text-shadow: 1px 1px 1px #000;
+}
+
+.blogpost header,
+.blogpost header a,
+.blogpost header a:hover {
+  color: #000;
+  text-decoration: none;
+  ttext-shadow: 1px 1px 1px #ffecb7;
 }
 
 .blogpost header h2 {
   margin: 0em;
 }
 
-.blogpost header a {
-  color: #FFF;
-  text-decoration: none;
-}
-
-.blogpost header a:hover {
-  color: #FFF;
-  text-decoration: none;
-}
-
 @media screen and (max-width: 568px) {
-  .topbar {
-    background-size: 100% auto;
-  }
-
  .title h1 {
    font-size: 50px;
    line-height: 1em;
