@@ -10,11 +10,10 @@ header_title: ''
     <div class="unit whole">
       <article class="blogpost">
         <header>
-          <h2><a href="{{ post.url }}">{% if post.fulltitle %}{{ post.fulltitle }}{% else %}{{ post.title }}{% endif %}</a></h2>
+          <h1><a href="{{ site.baseurl }}{{ post.url }}">{% if post.fulltitle %}{{ post.fulltitle }}{% else %}{{ post.title }}{% endif %}</a></h1>
           <p class="byline">By {{ post.author }} on
           <time pubdate="pubdate" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%B %-d, %Y %R %Z' }}</time></p>
         </header>
-
         {{ post.excerpt }}
       </article>
     </div>

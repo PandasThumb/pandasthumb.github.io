@@ -25,3 +25,4 @@ defaults:
     values:
       permalink: '/archives/:year/:month/:title.html'
       layout: 'article'
+      comments: true
