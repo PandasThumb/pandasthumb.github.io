@@ -7,3 +7,5 @@ author: 'Prof. Steve Steve'
 # Today
 
 Hello World, it's me *Steve*.
+
+$$ 1+2 = a $$

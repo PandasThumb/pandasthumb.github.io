@@ -58,7 +58,7 @@ body > section > div.grid {
 }
 
 html,
-footer {
+body > footer > div.grid > div.unit {
   background: #7C76A3;
 }
 
@@ -186,9 +186,8 @@ p:last-child {
   border-bottom: 1px solid #ccc;
 }
 
-.grid.item:last-child {
- border-bottom-width: 0px;
- margin-bottom: 10px;
+.grid.item:first-child {
+	border-top: 1px solid #ccc;
 }
 
 .grid.item-first {
