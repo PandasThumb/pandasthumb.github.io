@@ -1,0 +1,51 @@
+---
+layout: article
+title: Ants and search
+date: '2006-02-10 18:36:52 -0700'
+mt_id: 1908
+blog_id: 2
+post_id: 1908
+basename: ants_and_search
+published: false
+---
+Now another link to a paper about intelligent agents
+
+<url href="http://www.ists.pwr.wroc.pl/~krzysiek/sinf2/ants.pdf">Emergence of Constraint in Self-Organizing Systems</url> by Stephen Guerin and Daniel Kunkle and <url href="http://www.nesh.ca/jameskay/www.fes.uwaterloo.ca/u/jjkay/pubs/Life_as/lifeas.pdf">Life as a manifestation of the Second Law of Thermodynamics</url>
+
+First the paper by Guerin et al:
+
+<quote>Three claims from nonequilibrium thermodynamics were explored in the context of an ant foraging agent-based model: (1) Constraints can be constructed from entropy producing processes, (2) Positive feedback loops are critical to structure formation, and (3) The continued presence of farfrom-equilibrium boundary conditions are required to reinforce internal constraints. We developed measures of constraint and order that illustrate these claims.</quote>
+
+The authors describe a simple algorithm for ants foraging
+The world is subdivided in squares, there is a nest and food as well as nest and food hormones. Each square can contain ants, food, nest, food or nest phermones
+
+<quote>A basic simulation is set up as follows: A nest and some amount of food are placed in the space. A fixed number of ants is initially placed at the nest. All positions have zero levels of both food and nest pheromones. The system evolves as the ants move, drop pheromone, and transport food. The model is flexible to later allow experimentation of initially placing ants at any location in the space and to allow any type of object (nests, food, ants) to be introduced at any time or position</quote>
+
+So initially the ants have no way to 'know' where the food is and at best they can chose a random direction to start their search. In other words, the ants' ignorance is highest at this point. Things change however when an ant finds a food source and the ants learn the structure of their environment. This, I argue, is not dissimilar from how evolution learns from its environment as well, more about that later.
+
+
+<quote>An ant can hold one unit of food at a time and can take one of three actions: 1) move to one of eight adjacent locations (includes diagonal moves), 2) pick up a unit of food, and 3) drop a unit of food at a nest. The following pseudocode describes what actions an ant will take on each time step:</quote>
+
+The following shows the pseudo-code. Also notice that phermones decay over time.
+
+<blockcode>
+if ant has food then
+  drop one unit of food pheromone
+  if at nest then
+    drop food
+  else
+    follow nest pheromones
+  end if
+else
+  drop one unit of nest pheromone
+  if at food then
+    pick up food
+  else
+    follow food pheromones
+  end if
+end if
+</blockcode>
+
+First the ants work in creating gradients in phermones, once the food is found a structure arises which is now maintained against the gradients. Once the food disappears, the structure dissapates and a new search starts.
+
+During the simulations, the authors kept track of two measures: total spatial entropy and and total ant ignorance.

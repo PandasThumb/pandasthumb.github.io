@@ -1,0 +1,95 @@
+---
+layout: article
+title: Of cilia and silliness (more on Behe)
+date: '2007-06-05 00:02:00 -0700'
+mt_id: 3066
+blog_id: 2
+post_id: 3066
+basename: of_cilia_and_si
+---
+<url href="http://cellbio.utmb.edu/cellbio/cilia1.jpg"><img src="http://cellbio.utmb.edu/cellbio/cilia1.jpg" width="80" height="120" place="left" /></url>Well, my own personal copy of Michael Behe's new book <i>The Edge of Evolution</i> arrived via amazon.com today, so I suppose it is fair game.  I have <url href="http://www.pandasthumb.org/archives/2007/06/best_behe_taked.html">linked</url> to a <url href="http://scienceblogs.com/goodmath/2007/05/behes_dreadful_new_book_a_revi_1.php">few</url> <url href="http://endogenousretrovirus.blogspot.com/2007/05/good-virus-bad-creationist.html">early</url> blog comments (see <url href="http://endogenousretrovirus.blogspot.com/2007/06/look-ma-no-math.html">more from ERV</url>), and Michael Ruse has a <url href="http://www.theglobeandmail.com/servlet/story/LAC.20070602.BKEVOL02/TPStory/Entertainment">short newspaper comment</url> out today.  And several other reviews are coming out in the near future in <i>Science</i>, <i>Discover</i>, etc.  None of them positive at all, but it's amazing how much attention someone can get by sacrificing scientific rigour and inserting divine intervention instead.
+
+I don't have a full review of the book and I won't for a bit since I am working on other things.  But I want to get dibs on one peripheral but particularly shocking and egregious error that Behe makes in <i>The Edge of Evolution</i>.  The error is simple but it points to what I have become convinced is the true core of the mishmash known as "intelligent design": sloppiness and wishful thinking.
+
+<!--more-->
+
+Most of <i>The Edge of Evolution</i> is engaged in trying to prove that protein-protein binding sites can't evolve without intelligent guidance, using humans vs. malaria and humans vs. HIV as his primary examples. (Yes, at the end, on p. 237, Behe writes, "Here's something to ponder long and hard: Malaria was intentionally designed.  The molecular machinery with which the parasite invades red blood cells is an exquisitely purposeful arrangement of parts."  Well, at least he's consistent.  More on this in future posts I imagine.).  Behe mostly doesn't even address the criticisms of his previous arguments, doesn't update his case, acknowledge previous errors, etc.  He doesn't explain why anyone should take him seriously when he claimed in <i>Darwin's Black Box</i> that scientists had "no answers" on the evolutionary origin of the immune system and was then shown up <url href="http://www.talkorigins.org/faqs/dover/day12pm.html">in court</url> and <url href="http://dx.doi.org/10.1038/ni0506-433">in print</url> via a massive amount of research published in top journals that showed he was wrong (see <url href="http://www.google.com/search?sourceid=navclient-ff&ie=UTF-8&rls=GGGL,GGGL:2006-36,GGGL:en&q=site:www.pandasthumb.org+immune+system+behe">PT</url> and <url href="http://www2.ncseweb.org/wp/?p=124">NCSE</url> and especially <url href="http://dx.doi.org/10.1038/ni0506-433"><i>Nature Immunology</i></url>).
+
+However, Behe does devote one chapter, chapter 5, to an update of one of his examples from <i>Darwin's Black Box</i>.  Chapter 5, "What Darwinism Can't Do," (pp. 84-102) is devoted to the eukaryotic flagellum/cilium.  (Because this apparently still confuses many, please note that the eukaryotic cilium or flagellum is entirely different from the bacterial flagellum, which is entirely different from the archaeal flagellum.  They are no more similar than insect wings and bird wings.  See <url href="http://en.wikipedia.org/wiki/Flagellum">here for a summary of the differences</url>.)
+
+In chapter 5, Behe reviews the cilium as known from a standard lab organism, the single-celled green alga <url href="http://en.wikipedia.org/wiki/Chlamydomonas"><i>Chlamydomonas</i></url>, aka Chlammy to her friends.  Starting on page 87, Behe introduces a new twist to the cilium argument, which is that since the mid-1990s scientists have discovered some fascinating new details about how cilia are assembled in the cell.  Essentially, a multiprotein system known as <url href="http://en.wikipedia.org/wiki/Intraflagellar_transport">intraflagellar transport</url>, or IFT, attaches to the cilium axonome (the 9+2 structure made of microtubules, which are made of tubulin), grabs the necessary protein subunits (like tubulin) from inside the cell, and "walks" them along the axoneme of the cilium out to the tip, where the subunits are deposited.  The IFT complex then "walks" back to the bottom of the cilium to pick up more subunits.  
+
+It is more complex than this, of course...it is much easier to just look at a diagram to get a sense of what is going on.  For example, from an online <url href="http://www.wormbook.org/chapters/www_ciliumbiogenesis/ciliumbiogenesis.html#sec4">textbook</url> on the lab nematode <i>C. elegans</i>:
+
+<html>
+<center>
+<img src="http://www.wormbook.org/chapters/www_ciliumbiogenesis/ciliafig2.jpg" width="80%" height="80%">
+</center>
+</html>
+
+(<url href="http://www.wormbook.org/chapters/www_ciliumbiogenesis/ciliafig2.jpg">full resolution</url>)
+
+You can see that kinesin motor proteins walk the cargo out to the tip, and dynein motor proteins, which were handily brought along for the ride, walk the leftovers back.  You can even see some <url href="http://www.yale.edu/rosenbaum/rosen_research.html">spiffy videos</url> on Joel Rosenbaum's website at Yale.
+
+Now, this is pretty cool stuff, and Behe plays it for all it's worth.  First, Behe points out all kinds of genetic diseases that occur in humans that are due to cilia malfunction, some of which are due to defects in IFT proteins.  Clearly, not only is the cilium irreducibly complex, so is the IFT complex that assembles it!  Behe entitles this section "IRREDUCIBLE COMPLEXITY SQUARED!"  Watch out, evolution!
+
+Behe goes for the jugular on p. 94:
+
+<quote>IFT exponetially increases the difficulty of explaining the irreducibly complex cilium.  It is clear from careful experimental work with all ciliated cells that have been examined, from alga to mice, that a functioning cilium requires a working IFT.<sup>12</sup>  The problem of the origin of the cilium is now intimately connected to the problem of the origin of IFT.  Before its discovery we could be forgiven for overlooking the problem of how a cilium was built.  Biologists could vaguely wave off the problem, knowing that some proteins fold by themselves and associate in the cell without help.  Just as a century ago Haeckel thought it would be easy for life to originate, a few decades ago one could have been excused for thinking it was probably easy to put a cilium together; the piece could probably just glom together on their own.  But now that the elegant complexity of IFT has been uncovered, we can ignore the question no longer.
+
+[...endnote 12 is on p. 285, and is quoted at the bottom of this post in footnote 1 for completeness]</quote>
+
+In the next paragraph Behe briefly dismisses a recent paper on the evolutionary origin of cilium in endnote 13 (Jekely and Arendt (2006), "<url href="http://scholar.google.com/scholar?q=Evolution+of+intraflagellar+transport+from+coated+vesicles+and+autogenous+origin+of+the+eukaryotic+cilium&hl=en&lr=&btnG=Search">Evolution of intraflagellar transport from coated vesicles and autogenous origin of the eukaryotic cilium</url>."  <i>Bioessays</i> 28:191-198) and pretends that other work doesn't exist. [See note 2]  And never mind the minor point that dynein (for example) has <url href="http://en.wikipedia.org/wiki/Dynein">cytoplasmic versions</url> with diverse transport functions in the cell apart from intraflagellar transport, including involvement in mitosis, and the fact that dynein itself is the primary motor protein of cilial motility, and that <url href="http://groups.google.com/group/talk.origins/browse_frm/thread/f480ae6e45ccc0d9/e0b170bdd8d07941?lnk=st&q=dynein+AAA+ATPase&rnum=1#e0b170bdd8d07941">dynein has widespread homologs in eukaryotes and prokaryotes</url>.  I mean, really, who could possibly care about discussing data that would be fundamental to any thorough discussion of the origins of the cilium?
+
+But the problems I mention above are details.  Expecting Behe to deal seriously with homology data is like expecting young-earth creationists to deal with <url href="http://www.talkorigins.org/indexcc/CG/CG010.html">11,000 continuous years of tree rings</url>: totally ridiculous.  But I haven't even gotten to the big problems yet.
+
+The <i>huge</i> problem with Behe's invocation of intraflagellar transport in his "IRREDUCIBLE COMPLEXITY SQUARED" section of chapter 5 is that <i>he is completely wrong when he says that intraflagellar transport is universally required for cilium construction!</i>  Anyone can see this by reading <url href="http://dx.doi.org/10.1016/j.cub.2004.07.041">this 2004 paper by Briggs <i>et al</i>. in <i>Current Biology</i></url>, which they cleverly entitled "<url href="http://dx.doi.org/10.1016/j.cub.2004.07.041">More than one way to build a flagellum</url>," presumably so that people would find out that there is...wait for it...more than one way to build a flagellum.
+
+It turns out that when you look at a number of recently-sequenced genomes, a pattern emerges: organisms with cilia have IFT genes, and organisms without cilia don't.  So far this is Behe's expected pattern.  However, as with most things in biology, there is an exception to the rule.  Check out Figure 1 of Briggs et al.:
+
+<img src="http://www.pandasthumb.org/images/Briggs_etal_2004_CB_Fig1_Plasmodium_malaria_have_no_IFT_big.jpg" place="center" />
+
+You will note that the third column in the Apicomplexans section shows that one of the parasitic apicomplexans completely lacks the IFT genes...yet makes a cilium anyway!  This reminds me of something <url href="http://bostonreview.net/BR22.1/doolittle.html">another critic of Behe once said</url>, in a different context:
+
+<quote>Contrary to claims about irreducible complexity, the entire ensemble of proteins is not needed. Music and harmony can arise from a smaller orchestra.
+
+(Note: fans of Behe's reply to Doolittle should read the PT post "<url href="http://www.pandasthumb.org/pt-archives/000884.html">Clotted rot for rotten clots</url>")</quote>
+
+Apparently what is going on is that this particular apicomplexan assembles its cilia in the cytoplasm, and therefore has ditched the elaborate IFT complex that would otherwise be needed to transport building materials out to the far-removed end of the cilium.  Not only does this one parasitic protozoan get away with this trick, apparently it also happens with <i>Drosophila</i> sperm.  Behe would have known all this if he had only carefully read the <url href="http://www3.interscience.wiley.com/cgi-bin/fulltext/112279250/PDFSTART">Jekely and Arendt (2006) cilium evolution paper</url> that he dismissed with a hand wave.  As they write on page 193,
+
+<quote>The [IFT] complex is only lacking from species that have secondarily lost their cilia, as <i>Dictyostelium</i>, yeasts and flowering plants, or from species with cilia that do not rely on IFT (in the parasite <i>Plasmodium</i> cilia assemble in the cytoplasm(48)). Cytoplasmic assembly of cilia is a derived feature that has independently evolved in <i>Drosophila</i> sperm.(49)</quote>
+
+Now, Jekely and Arendt (2006) note just before this that "IFT is ancestrally and almost universally associated with cilia," so apparently the last common ancestor of modern cilia had an IFT complex (and Jekely and Arendt base their paper on comparing IFT to homologous intracellular transport systems in eukaryotic cells).  But it really doesn't help the "irreducible complexity" argument much if Behe's favorite system, the eukaryotic cilium, and the extra-favorite "irreducible complexity squared" system, intraflagellar transport, on which he bases a <i>whole chapter</i>, is in fact <i>entirely reducible</i>.
+
+Surely, <i>someone</i> -- Behe himself, or one of the "peer-reviewers" that the IDers will probably allege the book had, should have caught this.  But if they had, Behe would have had to completely scrap chapter 5.  In real peer-review, that's the shakes, but in creationism/ID-land this sort of thing is unfortunately par for the course.  In creationism/ID, one guy's personal knowledge about a topic, usually a personal knowledge based at most on textbooks and not a thorough survey of the literature, is regularly taken to be the sum total of biological knowledge, and via this processes a whole bogus folk-creationist biology is built up about field after field.  For example with fossils, thousands of creationists/IDers think there are no transitional fossils based on a few bogus misquotes of Stephen Jay Gould about punctuated equilibria, which they almost universally mistakenly think was about something other than small transitions between closely-related species; or bacterial flagella (<url href="http://www.pandasthumb.org/archives/2006/10/luskin_intervie.html">see here</url> -- no IDer has yet acknowledged this mistake, which they are still perpetuating in print).  This gets me back to my original point: a great deal of creationism/ID boils down to sloppy claims made on insufficient information, plus wishful thinking that blocks the impulse to double-check one's claims against previous research.  Once you become alerted to this feature of ID you will see it everywhere.
+
+Oh, I almost forgot the best part: Which apicomplexan critter is it that builds cilia despite Behe's declaration that "a functioning cilium requires a working IFT"?  Why, it's <url href="http://en.wikipedia.org/wiki/Plasmodium_falciparum"><i>Plasmodium falciparum</i></url>, aka malaria, aka <b>Behe's own biggest running example used throughout <i>The Edge of Evolution</i></b>.  Yes, it's the very critter about which Behe wrote on page 237,
+
+<quote>"Here's something to ponder long and hard: Malaria was intentionally designed.  The molecular machinery with which the parasite invades red blood cells is an exquisitely purposeful arrangement of parts."</quote>
+
+But not, apparently, the parts which Behe thought were required for cilium construction.  If there is an Intelligent Designer up there, I suspect He's having a bit of a chuckle right now.
+
+
+<b>Footnotes</b>
+
+<b>Note 1.</b> Behe's endnote 12 for chapter 5:
+
+<quote>12. Berriman and coworkers write of trypanosomes: "The proteins of the flagellar axoneme appeared to be extremely well conserved.  With the exception of tektin, there are homologs in the three genomes for all previously identified structure components as well as a full complement of flagellar motoros and both complex A and complex B of the intraflagellar transport system....  Thus, the 9+2 axoneme, which arose very early in eukaryotic evolution, appears to be constructed around a core set of proteins that are conserved in organisms possessing flagella and cilia" (Berriman, M., et al. 2005.  <url href="http://www.sciencemag.org/cgi/content/abstract/309/5733/416">The genome of the African trypanosome <i>Trypanosoma brucei</i></url>.  <i>Science</i> 309: 416-22).</quote>
+
+
+<b>Note 2.</b> Work like:
+
+<quote>* David R. Mitchell (2004). "<url href="http://dx.doi.org/10.1016/j.biolcel.2004.07.004">Speculations on the evolution of 9+2 organelles and the role of central pair microtubules</url>." <i>Biology of the Cell</i>. 96, 691--696.
+
+* David R. Mitchell (2006). "<url href="http://www.upstate.edu/cdb/mitcheld/publications/Jekey_Mitchell.pdf">The Evolution of Eukaryotic Cilia and Flagella as Motile and Sensory Organelles</url>." In: <url href="http://www.eurekah.com/book/811"><i>Origins and Evolution of Eukaryotic Endomembranes and Cytoskeleton</i></url>, edited by GÃ¡spÃ¡r JÃ©kely.
+
+* Thomas Cavalier-Smith (1987). "<url href="http://scholar.google.com/scholar?hl=en&lr=&cluster=8171491757226718940">The Origin of Eukaryote and Archaebacterial Cells</url>."  <i>Annals of the New York Academy of Sciences</i>. 503, 17-54.</quote> 
+
+For Cavalier-Smith (1987), I particularly like Figure 5 and the caption on pp. 38-39.  Although it needs an update since it is 20 years old, it still provides a good big-picture view of how cilium evolution is just a piece of the evolutionary origin of mitosis. Download jpgs of <url href="http://www.pandasthumb.org/images/Cavalier-Smith_1987_Fig5_pt1_evolution_mitosis_cilium.jpg">part 1</url>, <url href="http://www.pandasthumb.org/images/Cavalier-Smith_1987_Fig5_pt2_evolution_mitosis_cilium.jpg">part 2</url>, <url href="http://www.pandasthumb.org/images/Cavalier-Smith_1987_Fig5_pt3_evolution_mitosis_cilium.jpg">part 3</url>.  
+
+You've never heard of this paper from the ID guys?  Not surprising, they've never cited it.  Cavalier-Smith pointed this out way back in his <url href="http://dx.doi.org/10.1016/S0169-5347(97)89790-X">1997 review of <i>Darwin's Black Box</i> in <i>TREE</i></url> (see Cavalier-Smith, 1997, "<url href="http://dx.doi.org/10.1016/S0169-5347(97)89790-X">The Blind Biochemist</url>," <i>Trends in Ecology and Evolution</i> 12(4), 162-163, April 1997), and I've never seen any IDer acknowledge the oversight.  Stumbling on this review while looking up <url href="http://dx.doi.org/10.1016/S0169-5347(97)89791-1">this other book review</url> is literally what got me into this whole ID thing in the first place.  I had originally thought, "Hmm, Behe might have a point about the lack of literature on the evolution of complex systems."  Then I read Cavalier-Smith's review and realized I'd been snookered.  The rest is history. 
+
+
+<b>Note 3.</b> This doesn't go with anything, but for the record, Mike Gene, perhaps the ID guru who is most respected for usually having a clue about the biology he is talking about unlike virtually all of the rest of them, made the same mistake Behe made about IFT.  See Mike Gene's "<url href="http://www.idthink.net/biot/eflag2/index.html">ASSEMBLING THE EUKARYOTIC FLAGELLUM: Another example of IC?</url>" and "<url href="http://www.idthink.net/biot/eflag/index.html">THE NEGLECTED FLAGELLUM</url>."
+
+<b>Note 4.</b> This is also not referenced in the main text, but the <url href="http://en.wikipedia.org/wiki/Intraflagellar_transport">wikipedia intraflagellar tranport page</url> also contains the "always required" mistake.

@@ -1,0 +1,25 @@
+---
+layout: article
+title: 'EvoMath 0: An Introduction'
+date: '2004-04-02 16:00:00 -0700'
+mt_id: 74
+blog_id: 2
+post_id: 74
+basename: evomath_0_an_in
+---
+Occasionally a creationist or an aideeist will make the wild assertion that biologists do not understand math/statistics and that math/statistics actually disproves evolution.  This is followed by some random math argument based on ignorance of biology.  The irony is that biologists probably understand math better than mathematicians understand biology, for the simple fact that biologists use math in their work more than mathematicians use biology in their work.
+
+<!--more-->
+
+Between undergraduate work and graduate work, biologists are usually required to take multiple mathematics and statistics courses, whereas mathematicians will probably only be require to take freshman biology and maybe one higher level course.  This is not to say that mathematicians are inherently ignorant of biology, just to point out the irony of someone accusing biologists of being inherently ignorant of biology, while thinking that mathematicians are fully knowledgeable in biology.
+
+Of all of biology, evolution is probably the best characterized mathematically.  There is so much theoretical work, that the math often precedes the empirical work.  Instead of encountering a phenomenon that cannot be explained, evolutionary biology often has competing theoretical hypotheses just waiting for the experiments and data to sort them out.
+
+Evolutionary biology has a mathematical legacy dating back over a century, the most prominent of which is the work of R.A. Fisher, J.B.S. Haldane, and Sewall Wright.  In fact, R.A. Fisher is not only one of the fathers of modern evolutionary biology but is also considered one of the fathers of modern statistics.  He invented some of the most powerful tools in statistics for the simple fact that he needed them to study evolution.
+
+With this in mind, I plan on covering much of the classical evolutionary theory for Panda's Thumb in a series of posts.
+
+*Index*
+
+# "The Hardy-Weinberg Principle":http://www.pandasthumb.org/pt-archives/000055.html
+# "Testing for Hardy-Weinberg Equilibrium":http://www.pandasthumb.org/pt-archives/000120.html

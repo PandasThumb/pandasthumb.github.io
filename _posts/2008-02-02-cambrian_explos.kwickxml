@@ -1,0 +1,62 @@
+---
+layout: article
+title: Cambrian Explosion and upward versus downward evolution
+date: '2008-02-02 16:39:25 -0700'
+mt_id: 3554
+blog_id: 2
+post_id: 3554
+basename: cambrian_explos
+published: false
+---
+Sewall Wright writes in a review of J.C. Willis "The course of evolution by differentiation or divergent mutations rather than by selection", Ecology 22, no. 3 (1941):345-347
+
+<quote>
+The difference between evolution "downward" from family to species and "upward" from species to family is not as absolute as Willis insists. Under certain circumstances, the processes considered in the statistical theory may lead to a very rapid, almost explosive, origin of higher categories. One of these is the attainment by a species of an adaptation of general importance in contrast with a specializing adaptation. Such an attainment leads to relaxation of the selective processes that have previously restrained variation in the species, selection for accessory mechanisms and diversifying selection directed towards occupation of many different ecological niches.
+
+Again, if a species reaches relatively unoccupied territory a similar very rapid evolution is to be expected. Under either of these conditions, a new higher category may arise very rapidly under statistical processes and my then evolve "downward" to lower categories in exploiting the new general adaptation of new territory.
+</quote>
+
+Marshall in a 2002 poster during the GSA annual meeting in Denver explains his position in more detail
+
+<quote>It is likely that environmental, developmental and ecological factors all played a role in the Cambrian explosion of complex animals. Less clear is the nature of the interplay between these factors, or whether one was most important. The fossil record shows that large organisms were already extant tens of millions of years prior to the Cambrian explosion, suggesting that the physical environment was already suitable for complex animals well before the Cambrian. Similarly, under the assumption that at least some Ediacaran organisms were bilaterian animals, it appears that the basic genetic tool-kit necessary to produce a diverse array of complex organisms was also in place well before the Cambrian (based on the phylogenetic distribution of key developmental genes among living animals). So if the environmental conditions and genetic tool-kit necessary for building complex animals were already present in the late Neoproterozoic, why was there a lag of tens of millions years before the Cambrian explosion actually occurred? Drawing inspiration from Karl Niklas' computer simulations of early land plant evolution, I argue that it is only with the evolution of behaviorally sophisticated interactions between animal species that the unrealized potential for building complex organisms already present in the Neoproterozoic genome could be extracted. Predation was probably the most important factor. The core of the argument is that with the increased number of selective pressures caused by the evolution predation (due to the many different ways of pursuing prey and avoiding predators), both the number of species and complexity of their morphologies dramatically increased. Under this hypothesis there is no need to invoke any fundamental changes in the genetic tool-kit used by complex Cambrian animals compared with that used by Ediacaran bilaterians, although specific genetic changes needed to develop predation were required to initiate the ecological interactions that drove the Cambrian explosion. This hypothesis suggests that we need to focus our attention not only on the genes that establish animal body plans but also on those genes crucial to ecological interactions, such as behavioral capacities, etc., and that paleoecological analysis is crucial to understanding the Cambrian explosion.</quote>
+
+Taxonomic Diversity: Number of species (or higher taxa) present in a region or assemblage
+
+Disparity aka Morphological Diversity: Some quantitative estimate of the empirical distribution of taxa in a multidimensional space (morphospace) that has axes which represent measures of morphology.
+
+Two ways to calculate: (1) Measure extent of morphospace occupation (2) measure pairwise differences across taxt
+
+Def: 1997 Roy, Kaustuv and Mike Foote (1997). Morphological approaches to measuring biodiversity. Trends in Ecology and Evolution 12:277-281
+
+
+
+Disparity: Morphological distance between genera
+
+
+<quote>I have discussed increases in morphological diversity as consistent with undirected diffusion through morphospace, but at least two other processes can cause such an increase in morphological diversity.  (1) Classic adaptive radiation, involving the (rapid) occupation of radically new adaptive zones, should lead to wide exploration and colonization of morphological space</quote>
+
+Mike Foote, Discordance and concordance between morphological and taxonomic diversity. Paleobiology; April 1993; v. 19; no. 2; p. 185-204
+
+Depending on the time behavior of diversity and disparity, different trees arise
+
+<form mt:asset-id="110" class="mt-enclosure mt-enclosure-image"><img alt="Picture 10.png" src="http://pandasthumb.org/archives/Picture%2010.png" width="459" height="299" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;"/></form>
+
+Top, Idealized diversity patterns (modiﬁed from Fig. 1 of Foote 1993: p. 192). Bottom, Predicted diversity 
+and disparity curves over time (solid line, taxonomic diversity; dashed line, morphological disparity). A, Morphologic  evolution is constrained. Taxonomic diversiﬁcation is not accompanied by morphologic diversiﬁcation. B, Morphological steps are large early in the clade’s history. Morphologic diversity may continue to increase, but steps are smaller.  Morphologic diversiﬁcation outstrips taxonomic diversiﬁcation. C, No constraint on morphological evolution, no trend  in morphological step size. Morphologic diversiﬁcation is concordant with taxonomic diversiﬁcation. 
+
+
+<!--more-->
+
+Similarly Coyne, in a comment to Davidson and Erwin's paper titled "Gene Regulatory Networks and the Evolution of Animal Body Plans" <url href="http://www.sciencemag.org/cgi/content/full/313/5788/761b">writes</a>
+
+<quote>First, Davidson and Erwin note that there has been little change in phylum- and superphylum-level body plans since the early Cambrian, but that great changes have occurred within phyla and classes—a pattern they contend demands new evolutionary processes (1). Their underlying assumption is that evolution during the Cambrian involved phylum-level changes in body plans, with all phyla emerging suddenly and no new phyla or body plans arising since then. This "top-down" view of evolution was discussed and critiqued by Dawkins (2). It seems more reasonable to assume that the speciation events that occurred during the Cambrian and thereafter did not produce new phyla but merely new species differing from each other and their ancestor in minor ways. Only over long periods of time, during which many species became extinct, did the ancestor of the distinct groups we call "phyla" acquire the traits that made them so distinct. It is hard to believe that a given speciation event could produce a taxon having a radically different group of traits—i.e., a new phylum arising in one step.</quote>
+
+In their <a href="http://www.sciencemag.org/cgi/content/full/sci;313/5788/761c">response to Coyne</a>, Davidson and Erwin seem to agree with Coyne about the origin of phyla
+
+<quote>Contrary to the claims in (1), nowhere in our paper do we suggest that a phylum arose at one step, nor that speciation in the Cambrian did not produce species (what else would be produced?). </quote>
+
+As to explaining the disparity in the Cambrian, they comment that
+
+<quote>These studies confirm that early morphological disparity is a feature of the Cambrian metazoan radiation, whether one analyzes form quantitatively or counts higher taxa. Our theory provides an answer: that regulatory apparatus underlying construction of body plans were early on canalized by the installation of kernels.</quote>
+
+As the reader may have concluded by now, there are in fact a variety of explanations proposed for the Cambrian 'explosion', ranging from environmental, developmental to ecological ones. In a 2006 review paper, "EXPLAINING THE CAMBRIAN “EXPLOSION” OF ANIMALS", Charles Marshall reviews these explanations. 

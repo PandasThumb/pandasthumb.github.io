@@ -1,0 +1,16 @@
+---
+layout: article
+title: Emergent Properties of Reduced-Genome Escherichia coli
+date: '2006-06-18 20:46:55 -0700'
+mt_id: 2295
+blog_id: 2
+post_id: 2295
+basename: emergent_proper
+published: false
+---
+With the use of synthetic biology, we reduced the Escherichia coli K-12 genome by making planned, precise deletions. The multiple-deletion series (MDS) strains, with genome reductions up to 15%, were designed by identifying nonessential genes and sequences for elimination, including recombinogenic or mobile DNA and cryptic virulence genes, while preserving good growth profiles and protein production. Genome reduction also led to unanticipated beneficial properties: high electroporation efficiency and accurate propagation of recombinant genes and plasmids that were unstable in other strains. Eradication of stress-induced transposition evidently stabilized the MDS genomes and provided some of the new properties.
+
+Science 19 May 2006:
+Vol. 312. no. 5776, pp. 1044 - 1046
+
+GyÃ¶rgy PÃ³sfai,1,2* Guy Plunkett, III,2,3,4 TamÃ¡s FehÃ©r,1 David Frisch,2,4 GÃ¼nther M. Keil,5 Kinga Umenhoffer,1 Vitaliy Kolisnychenko,1{dagger} Buffy Stahl,2 Shamik S. Sharma,6{ddagger} Monika de Arruda,2 Valerie Burland,2,3 Sarah W. Harcum,7 Frederick R. Blattner

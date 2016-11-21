@@ -1,0 +1,58 @@
+---
+layout: article
+title: Applying Behe & Snoke's equations to the DPG binding site example.
+date: '2004-09-19 06:41:32 -0700'
+mt_id: 449
+blog_id: 2
+post_id: 449
+basename: applying_behe_s
+published: false
+---
+Applying Behe & Snoke's equations to the DPG binding site example.
+
+Let's take this further and apply Behe and Snoke's own equations to the DPG binding site example. First we need to calculate lambda ([font face=symbol]l[/font]), the number of neutral nucleotide substitutions (above we were looking at amino acid substitutions) to produce a DPG binding site.
+
+To calculate [font face=symbol]l[/font] I've used two scenarios, drift from the hagfish or lamprey sequence to a known DPG binding site, or to a bony fish or a shark ATP binding site.
+
+Now, first let's chart some 1 nucleotide steps from the hagfish or lamprey sequence to HKS, a known DPG binding sequence with weak but functional (and hence selectable) DPG binding. Then let's look at the steps from that to the ATP binding sites of bony fish (HKR) and Port Jackson Shark (HKK). Again the letters are the one letter amino acid code, the number in brackets is the number of nucleotides that needs to be changed to get from one amino acid sate to the other. These are not the only paths (or possible endpoints), but they show that there are multiple possible ways to get to even a narrowly defined target. The number of nucleotide steps differs from the number of amino acid substitutions above, because in some cases you can't go directly from the code for one amino acid to the other.
+
+<blockcode>
+Hagfish to DPG binding                              Lamprey to DPG binding
+T K S                                               P S S
+N K S (1)  K K S (1) R K S (1)                      H S S (1)
+H K S (1)  N K S (1) R K S (1)                      H R S (1)
+           H K S (1) H K S (1)                      H K S (1)
+DPG to Shark
+H K S
+H K R (1) (bony fish ATP binding site)
+H K K (1)
+</blockcode>
+
+Note (a) that the maximum path length from no/very weak DPG binding to selectable binding is between 2-3 substitutions, rather than the 6 nucleotide substitutions that Behe and Snoke imply. Note also that the "neutral" substitutions N, K and R, especially basic K and R, are amino acids that are found in ATP/DGP binding haemoglobins in those positions (see above). Indeed HKR is the ATP binding motif in bony fish. So the "neutral drift" from either hagfish or lamprey to a selectable inorganic phosphate binding site is between 2 to 4 nucleotides depending on your endpoint. Thus [font face=symbol]l[/font] is between 2 and 4
+
+Next we need rho ([font face=symbol]r[/font]), this is defined as the number of null mutations divided by the [font face=symbol]l[/font]. To find the number of null mutations, we multiply the size of the gene in nucleotides by 3 (to get the number of alternative nucleotides) multiply THAT by the fraction of nucleotide replacements that are null (i.e. generate functionless peptides). For these calculations we shall use the length of the <a href=" http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=nucleotide&val=406248">lamprey gene</a> (452 nucleotides, to make things harder four ourselves as the lamprey and hagfish genes are substantially longer than the shark or bony fish genes), and contrast Behe and Snoke's null factor (0.7) with a more realistic one (0.3), which is conservative compared with the null factor of 0.26 calculated by Guo (2004). Now we are in a position to calculate time to fixation (Tf)
+
+I've used a program kindly provided by Eric calculate to calculate Tf, using Behe and Snoke's equation 4. Now using Behe and Snoke's figures of 1x10<sup>-8</sup> for the mutation rate, 0.7 for null factor, and realistic values of rho and lambda into Eric's program gives the following generations to fixation for various population sizes (N) from 10<sup>6</sup>to 10<sup>9</sup>.
+
+<html>
+<table>
+<tr><td>Lambda</td>	<td>2</td>	<td>3</td>	<td>4</td>	<td>5</td>	<td>6<t/d></tr>
+<tr><td>N        rho</td>	<td>316.4</td>	<td>210.933</td>	<td>158.2</td>	<td>126.56</td>	<td>105.467</td></tr>
+<tr><td>1.00E+06	<td>3.55E+07</td>	<td>1.48E+09</td>	<td>1.71E+11</td>	<td>1.76E+13	<td>1.57E+15</td></tr>
+<tr><td>1.00E+07	<td>1.04E+07</td>	<td>1.93E+08</td>	<td>1.72E+10</td>	<td>1.76E+12	<td>1.57E+14</td></tr>
+<tr><td>1.00E+08	<td>3.21E+06</td>	<td>5.04E+07</td>	<td>1.76E+09</td>	<td>1.76E+11	<td>1.57E+13</td></tr>
+<tr><td>1.00E+09	<td>1.01E+06</td>	<td>1.93E+07</td>	<td>2.17E+08</td>	<td>1.76E+10	<td>1.57E+12</td></tr>
+</table>
+</html>
+
+[font size=1]<b>Table:</b> Effect of realistic population sizes (N), rho and lambda (number of neutral replacements required to form the site) on time to fixation (Tf) of a DPG binding site in generations. Tf calculated from Behe and Snoke's equation 4.[/font]
+
+Now, Behe and Snoke claim in their paper for an MR site with Rho of 1000 and lambda of 6, would require 1x10<sup>22</sup> generations, a mindboggling large amount of time far longer than the age of the Universe if one generation is one year, to fix such a site in a population. They imply that these figures are applicable to the DPG binding site. However, as we can see, using a protein size that overestimates the size of the evolving haemoglobin protein and Behe and Snoke's overly conservative figures for null mutation rate, a DPG binding site could evolve quite rapidly.
+
+I'm pretty sure that there is more than 10 million hagfish or lampreys around, but as you can see from the table with a mere 10 million hagfish, assuming one generation a year they could get to the functional bony fish ATP binding site in 190 million years by Behe and Snoke's own equation. Not unrealistic considering that agnathans and elasmobrachs are separated by ~ 100 million years in the fossil record as it stands. If we use Behe and Snoke's own 100 million population cut off the hagfish to bony fish sequence could be acquired in a mere 50 million years. The lamprey to bony fish site would require around 2 billion years using Behe and Snoke's 100 million population cut off, rather long, but orders of magnitude below the 1x10<sup>22</sup> Behe and Snoke imply.
+
+Now lets look at what happens when we use the more realistic rate of 0.3. With a population of 10 million (again, realistic for vertebrates), you can get the hagfish to bony fish site in 50 Million years, and the lamprey to bony fish site in 600 million years. Using Behe and Snoke's population of 100 million, you can get the hagfish to bony fish site in 10 million years, and the lamprey to bony fish site in about 100 million years. Again, remember we are biasing our selves by using larger proteins, and assuming selectable intermediates are neutral.
+
+In the above calculations I've been using the length of the protein coding gene. That is, from translation start codon to translation stop codons, but actual genes are larger than the translation frame. So here I have looked at the effect of using the whole gene, not just the translated bits, on the time to fixation (Tf). Aside from the transcription initiation site, the rest of the gene outside the translation frame is probably neutral, so this overestimates time to fixation as well. I couldn't find the shark transcription sequence, so I used the <a href="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=nucleotide&val=406248"> Lamprey </a> for comparison. Using Behe and Snoke's population of 100 million organisms you can get the hagfish to bony fish site in 50 Million years, and the lamprey to bony fish site in 600 million years.
+
+So, plugging Behe and Snoke's own example in to Behe and Snoke's own equation gives values that are compatible with the fossil record, even assuming intermediates with known or probable function were functionless, using overestimates of protein size and using an overestimate of null mutation rate. More realistic values of the null mutation rate suggest that even systems with large lambdas can evolve in reasonable times.

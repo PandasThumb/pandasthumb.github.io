@@ -1,0 +1,61 @@
+---
+layout: article
+date: '2005-10-03 17:01:57 -0700'
+mt_id: 1466
+blog_id: 2
+post_id: 1466
+basename: _ulrich_kutsche
+published: false
+---
+ Ulrich Kutschera, Karl J. Niklas . The modern theory of biological evolution: an expanded synthesis. Naturwissenschaften, Volume 91, Number 6(June 2004), pp. 255-276,
+ http://ejournals.ebsco.com/direct.asp?ArticleID=LUGF4G118KCFLB4C5Y1R
+
+
+  	In 1858, two naturalists, Charles Darwin and Alfred Russel Wallace, independently proposed natural selection as the basic mechanism responsible for the origin of new phenotypic variants and, ultimately, new species. A large body of evidence for this hypothesis was published in Darwin's Origin of Species one year later, the appearance of which provoked other leading scientists like August Weismann to adopt and amplify Darwin's perspective. Weismann's neo-Darwinian theory of evolution was further elaborated, most notably in a series of books by Theodosius Dobzhansky, Ernst Mayr, Julian Huxley and others. In this article we first summarize the history of life on Earth and provide recent evidence demonstrating that Darwin's dilemma (the apparent missing Precambrian record of life) has been resolved. Next, the historical development and structure of the "modern synthesis" is described within the context of the following topics: paleobiology and rates of evolution, mass extinctions and species selection, macroevolution and punctuated equilibrium, sexual reproduction and recombination, sexual selection and altruism, endosymbiosis and eukaryotic cell evolution, evolutionary developmental biology, phenotypic plasticity, epigenetic inheritance and molecular evolution, experimental bacterial evolution, and computer simulations (in silico evolution of digital organisms). In addition, we discuss the expansion of the modern synthesis, embracing all branches of scientific disciplines. It is concluded that the basic tenets of the synthetic theory have survived, but in modified form. These sub-theories require continued elaboration, particularly in light of molecular biology, to answer open-ended questions concerning the mechanisms of evolution in all five kingdoms of life.
+
+
+<!--more-->
+
+Niles Eldredge, John N. Thompson, Paul M. Brakefield, Sergey Gavrilets,
+David Jablonski, Jeremy B. C. Jackson, Richard E. Lenski, Bruce S. Lieberman, Mark A. McPeek, and William Miller III
+The dynamics of evolutionary stasis
+Paleobiology, 31(2), 2005, pp. 133--145
+
+<quote>
+Abstract.---The fossil record displays remarkable stasis in many species over long time periods, yet studies of extant populations often reveal rapid phenotypic evolution and genetic differentiation among populations. Recent advances in our understanding of the fossil record and in population genetics and evolutionary ecology point to the complex geographic structure of species being fundamental to resolution of how taxa can commonly exhibit both short-term evolutionary dynamics and long-term stasis.
+</quote>
+
+Nick Barton and Willem Zuidema Evolution: The Erratic Path Towards Complexity Current Biology, Vol. 13, R649--R651, August 19, 2003
+
+
+Complex Genetic Evolution of Artiï¬cial Self-Replicators in Cellular Automata CHRIS SALZBERG AND HIROKI SAYAMA
+Complexity 10: 33--39, 2004
+
+<quote>It is widely believed that evolutionary dynamics of artiï¬cial self-replicators realized in cellular automata (CA) are limited in diversity and adaptation. Contrary to this view, we show that complex genetic evolution may occur within simple CA. The evolving self-replicating loops ("evoloops") we investigate exhibit signiï¬cant
+diversity in macro-scale morphologies and mutational biases, undergoing nontrivial genetic adaptation by maximizing colony density and enhancing sustainability against other species. Nonmutable subsequences enable genetic operations that alter ï¬tness differentials and promote long-term evolutionary exploration. These results demonstrate a unique example of genetic evolution hierarchically emerging from local interactions between elements much smaller than individual replicators. 
+</quote>
+
+http://www.nature.com/hdy/journal/v94/n1/pdf/6800608a.pdf
+
+NEWS AND COMMENTARY
+Evolutionary genetics The evolution of evolution
+G Bell
+Heredity (2005) 94, 1--2. doi:10.1038/sj.hdy.6800608
+
+Comparison of the Accuracies of Several Phylogenetic Methods
+Using Protein and DNA Sequences
+Barry G. Hall Molecular Biology and Evolution vol. 22 no. 3
+
+BRIEF COMMUNICATIONS
+Evolution, 59(1), 2005, pp. 216--220
+THE PROBABILITY OF PARALLEL EVOLUTION
+H. ALLEN ORR
+
+Abstract. How often will natural selection drive parallel evolution at the DNA sequence level? More precisely, what
+is the probability that selection will cause two populations that live in identical environments to substitute the same
+beneficial mutation? Here I show that, under fairly general conditions, the answer is simple: if a wild-type sequence
+can mutate to n different beneficial mutations, replicate populations will on average fix the same mutation with
+probability P 5 2/(n 1 1). This probability, which is derived using extreme value theory, is independent of most
+biological details, including the length of the gene in question and the precise distribution of fitness effects among
+alleles. I conclude that the probability of parallel evolution under natural selection is nearly twice as large as that
+under neutrality.

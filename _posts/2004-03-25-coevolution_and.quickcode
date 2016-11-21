@@ -1,0 +1,36 @@
+---
+layout: article
+title: Coevolution and Dynamic Fitness Functions
+date: '2004-03-25 18:45:26 -0700'
+mt_id: 32
+blog_id: 2
+post_id: 32
+basename: coevolution_and
+---
+Work in evolutionary computing, evolutionary algorithms, and genetic algorithms seems to be a thorn in ID's side.  In a number of places William Dembski has argued that various computer simulations of evolutionary processes tell us nothing useful about biological evolution.  By modest extension, of course, computer modeling in any science is tossed out.  (Too bad for the physicists in the crowd.)  But Dembski's argument fails once again, for a familiar reason: profound ignorance of the relevant literature.
+
+<!--more-->
+
+For example, in section 4.10 of <i>No Free Lunch</i> Dembski argued that genetic algorithms are inappropriate models for undirected biological evolution because (he claims) the fitness function in a GA must be "fine tuned" by the programmer.  <a href="http://www.talkreason.org/articles/choc_nfl.cfm#evoalgs">Richard Wein</a> ably rebutted Dembski's argument in "Not a Free Lunch But a Box of Chocolates," and <a href="http://www.talkreason.org/articles/jello.cfm">David Wolpert</a>, in "William Dembski's treatment of the No Free Lunch theorems is written in jello," specifically invoked coevolution in his critique of Dembski's misuse of the NFL theorems.
+
+More recently, in what appears to be a <a href="http://www.designinference.com/UT_2004.htm">nascent blog</a>, Dembski made the same claim about the lack of utility of GAs in understanding biological evolution, though he based it on a different foundation.  He recounts a conversation with John Koza, a pioneer in evolutionary computing, in which he asked Koza whether he knew of any research in evolutionary computing using dynamic fitness functions.  According to Dembski, Koza replied "No."
+
+That's very hard to believe, because work on dynamic fitness functions in evolutionary algorithms has been around for years and Koza knows it.
+
+The question is important for biology because biological evolution occurs in a context in which what is "fit" often changes over time.  For example, in a coevolutionary arms race between predators and prey, as prey adapt to predators, predators adapt to the prey's adaptations in a continuous cross-linked battle of adaptations.  Parasites and hosts engage in adaptive warfare, each adapting to the other's adaptations.  Pollinators and flowers coevolve, each shaping and reshaping the fitness landscape on which the other evolves. 
+
+What is fit at one stage of the predator/prey arms race may be hopelessly unfit generations later.  The "Red Queen" effect names this phenomenon: one has to keep running as fast as one can in order to stay even.  Fitness landscapes deform as populations coevolve and as non-biological selective variables change values.  Predators get more efficient, and the climate changes.  
+
+Dembski concluded from Koza's answer that<quote>The fact that fitness/objective functions that vary over time are not employed in biologically inspired computing, especially after all these years of genetic algorithms hype, tells me that they are not the key to solving interesting engineering problems. And if they can't do it in the engineering context, there's no reason to think they can do it in biological contexts.</quote>Unfortunately for Demsbki's conclusion, there are a number of 'pure' and applied research programs in evolutionary computing in general, and genetic algorithms in particular, in which questions about dynamic fitness functions are studied.  
+
+To look just at the applied side, at the University of Oslo a project in Evolvable Hardware studied how to evolve an <a href="http://www.springerlink.com/app/home/contribution.asp?wasp=h7e8jf21gn0tvgc0bj13&referrer=parent&backto=issue,27,33;journal,692,1505;linkingpublicationresults,id:105633,1">adaptive controller</a> for a prosthetic hand.  In order to increase the likelihood that the evolved controller would generalize to novel situations the EA utilized a varying fitness function in training.
+
+Workers at the University of Plymouth have devised design techniques that utilize evolutionary algorithms in the preliminary stages of solving engineering design problems.  They have developed a novel approach to using genetic algorithms that they call an <a href="http://www.ad-comtech.co.uk/AACH-TAMS-BIL-96.ps">Inductive Genetic Algorithm</a> that employs an implicitly dynamic fitness function.
+
+A review of applications of evolutionary algorithms in <a href="http://www.cs.kent.ac.uk/people/staff/aaf/pub_papers.dir/EA-e-com.pdf">e-commerce</a> describes coevolutionary models, and coevolution, of course, implies a dynamic fitness function:<quote>To summarize this important conclusion: dynamic fitness functions - either competitive ones in a co-evolution framework or interactive ones - tend to have an important role in several e-commerce applications, due to the inherently dynamic nature of this kind of application.</quote>A very interesting fact, as <a href="http://www.arn.org/ubb/ultimatebb.php?ubb=get_topic;f=14;t=000748#000003">John Wendt</a> pointed out on ARN recently, is that Koza himself holds a 1992 <a href="http://www.41soft.com/KozaPatent_8513.pdf=patent">patent </a> on problem solving using coevolving populations.  Again, coevolution implies a dynamic fitness function.
+
+And finally I'll just briefly mention the GAs my firm builds to model the complex adaptive system of world markets.  <i>There's</i> a fitness landscape that changes through time!
+
+So there's all kinds of work in evolutionary computing utilizing dynamic fitness functions.  Dembski's claim fails.  Either Dembski misunderstood Koza's answer, or Koza misunderstood Dembski's question.  Nevertheless, based on a brief anecdote (and a sample of just one anecdote at that), and without bothering to do even a cursory literature search, Dembski reaches a flatly false conclusion about what happens in biological evolution.
+
+Richard B. Hoppe

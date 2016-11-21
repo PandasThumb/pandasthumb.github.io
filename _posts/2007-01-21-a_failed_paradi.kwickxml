@@ -1,0 +1,50 @@
+---
+layout: article
+title: A failed paradigm
+date: '2007-01-21 19:32:24 -0700'
+mt_id: 2751
+blog_id: 2
+post_id: 2751
+basename: a_failed_paradi
+published: false
+---
+While reading the interesting website <url href="http://www.codefun.com/Genetic.htm">Rafiki</url>, I ran across a reminder which made me realize that we may take the nucleotides to codons to amino-acids as a given without appreciating that there are several intermediate steps involved. And these intermediate steps invariably should not be ignored.
+
+<quote>Codons do not specify amino acids!</quote>
+
+<img alt="image002.jpg" src="http://www.pandasthumb.org/images/image002.jpg" width="479" height="319" />
+
+In order to understand how DNA ends up as proteins, it's time for Biology 101. 
+
+<!--more-->
+
+First of all, codons do not specify amino acids, codons specify mRNA (messenger RNA) and messenger RNA  is then transformed by removing intron. The messenger RNA is transfered out of the nucleus and then together with the ribosome and transfer RNA (tRNA), a protein is built.
+
+<img alt="cloverleaf.gif" src="http://www.pandasthumb.org/cloverleaf.gif" width="420" height="410" />
+
+<img alt="DNA1.gif" src="http://www.pandasthumb.org/DNA1.gif" width="478" height="223" />
+
+
+<img alt="img001.gif" src="http://www.pandasthumb.org/img001.gif" width="352" height="94" />
+
+
+<url href="http://faculty.clintoncc.suny.edu/faculty/Michael.Gregory/files/Bio%20101/Bio%20101%20Lectures/Protein%20Synthesis/protein.htm">See this link</url>
+
+
+
+
+Genetic information is stored in the cell (in the nucleus of eukaryotes) by DNA. This information is transcribed into messenger RNA (mRNA) and transported out of the nucleus into the cytoplasm. The information is translated into polypeptides by a mechanism that involves mRNA, transfer RNA (tRNA), ribosomes (rRNA) and amino acids.
+
+
+Codons do not specify amino acids!
+
+
+Genetic information has more than one degree of freedom in translation from nucleotides to proteins. The function that translates genetic information and converts primary sequences into proteins is not linear or one-dimensional. Codons are inherently ambiguous with anticodons, and this is informative during translation. In other words, there is more to making a protein than just sequencing amino acids. In short, synonymous codons aren't entirely synonymous.
+
+Any complete view of genetic translation must include the information added to the process by tRNA.
+
+Just as molecules and molecular information assume an ideal form, so too do the rules of molecular translation. Information has structure, and the translation of information has structure as well. The ideal form of genetic translation is a dodecahedron.
+
+* Life must constantly find new and diverse sets of protein morphologies on the landscape of all possible protein morphologies. The genetic code serves as a search engine in that task. The search cannot become stuck in isolated regions of the protein landscape, so it is optimized to perform a robust and efficient search for new protein forms. Genomes and the genetic code are both full of symmetries. These symmetries are co-adapted, like hand-in-glove, to execute an optimized search of protein morphologies.
+
+* Symmetry lays the foundation for all of life. It is the starting point for all molecular processes, and organic molecules are no different. Symmetry lays the foundation, but it is symmetry breaking that actually defines organic information.

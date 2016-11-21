@@ -1,0 +1,227 @@
+---
+layout: article
+title: Report on the 2005 Creation Mega Conference, Part Five
+date: '2005-07-26 19:18:01 -0700'
+mt_id: 1179
+blog_id: 2
+post_id: 1179
+basename: report_on_the_2_4
+---
+<font size=+1><b>Tuesday, July 19.  Morning.</b></font>
+
+<p>I had survived my first full day of the conference without calling too much attention to myself.  That would change on the second day.</p>
+
+<p>It was only with tremendous effort that I dragged myself out of bed in time for the first talk of the day, at 8:50 in the morning.  I skipped the morning devotional entirely.  I'm not naturally a morning person, you see, and the thought of going forth into the ridiculous Lynchburg heat at that hour was not appealing.  Nonetheless, since the conference schedule promised a true embarrassment of riches, I dragged myself out of bed anyway.  The basic track was offering &ldquo;Fearfully and Wonderfully Made,&rdquo; by David Menton.  The advanced track had &ldquo;Two Hundred Years of Christian Compromise on the Age of the Earth,&rdquo; by Terry Mortenson.  I chose the latter.</p>
+
+
+
+<!--more-->
+
+<p>I trudged into the classroom just as Mortenson was beginning.  He opened with a prayer, then got down to business.  No science this time around, just a rogue's gallery of confused Christians unwilling to tow the party line on the age of the Earth.  After a brief history of geology from 1770 to 1830, Mortenson rattled off a list of pioneer compromisers.  These were the scamps who paved the way for the modern heresies so many modern Christians claim to believe.</p>
+
+<p>There was Thomas Chalmers, who fathered the &ldquo;Gap Theory&rdquo;, and George Stanley Faber, who concocted the &ldquo;Day-Age Theory&rdquo;.  There were people who argued for a local, as opposed to global, flood, like John Pye Smith, and those like William Buckland and Adam Sedgwick who argued for a global, but geologically limited flood.</p>
+
+<p>A particularly noteworthy example here was John Fleming, who apparently wrote about a &ldquo;tranquil flood&rdquo; and once claimed that the flood left no evidence.  The geology mavens in the audience had a good laugh at that one.</p>
+
+<p>Actually, the audience reactions were the most interesting part of this talk.  At one point Mortenson put up the following quote from Charles Lyell:</p>
+
+<blockquote>
+<p>I have always been strongly impressed with the weight of an observation of an excellent writer and skillful geologist who said that for the sake of revelation as well as of science - of truth in every form - the physical part of Geological inquiry ought to be conducted as if the Scriptures were not in existence.</p>
+</blockquote>
+
+<p>This brought loud groans from the audience.  Incidentally, the source for this quotation was an article by M. J. S. Rudwick in the <i>British Journal for the History of Science</i>.  It's another example of using secondary rather than primary sources, as I remarked upon in a previous entry in this series.</p>
+
+<p>Also bringing groans was a reference to Charles Templeton, who was a Christian evangelist who fell away from the faith and ultimately wrote a book called, &ldquo;Farewell to God,&rdquo; and a statistic that one third of Anglican ministers don't believe in God.  My esteem for the Anglican church went up when I heard that, but mine was not the typical reaction.</p>
+
+<p>I had a hard time getting worked up over this one; Christians can argue all they want among themselves about this sort of trivia.  I was already psyching myself up for Werner Gitt's talk, &ldquo;In the Beginning was Information.&rdquo;  The alternative was &ldquo;Fossils, the Flood and the Age of the Earth,&rdquo; by Tas Walker.</p>
+
+<p>Gitt was kind enough to provide extensive notes to accompany his talk.  Here is the introduction from those notes:</p>
+
+<blockquote>
+<p>We will set out in a new direction, by seeking a definition of information with which it is possible to formulate laws of nature about it.  Information is a nonmaterial entity and this is the first time that a law of nature has been formulated for a mental concept.  First, we will describe the dstinguishing attributes of information, formulate its definition, state the laws themselves and draw six strong conclusions.  Since we have successfully discovered and formulated 10 laws of nature about information, we will refer to this definition of information as Laws of Nature about Information (LNI).</p>
+</blockquote>
+
+<p>While you're trying to figure out what any of that means, consider the strong conclusions Witt is going to draw from his model:
+
+<ol>
+<li>God Exists; Refutation of atheism.
+<li>There is only one God, who is all-knowing and eternal.
+<li>God is immensely powerful.
+<li>God is spirit.
+<li>No human being without a soul; Refutation of materialism.
+<li>No evolution.
+</ol>
+</p>
+
+<p>Those are copied verbatim from the notes he provided.  Now, we really could stop here and dismiss Witt as a crank.  There is simply no way any bit of armchair theorizing or abstract modelling could possibly lead to the breathtaking conclusions Gitt is trying to draw.  Nonetheless, let us consider some of his specifics.</p>
+
+<p>Witt began by answering the question, &ldquo;What is a Law of Nature?&rdquo;  He writes,
+
+<blockquote>
+Laws of nature describe events, phenomena and occurrences which consistently and repeatedly take place.  They are thus universally valid laws.  They can be formulated in science, hence laws of nature for <i>material</i> entities in physics and chemistry (e.g. energy, momentum, electrical current, chemical reactions) and <i>non-material entities</i> (e.g. information, consciousness).  Due to their explanatory power, and their correspondence to reality, laws of nature represent the highest level of significance in science.  The following points about laws of nature are especially significant:
+<ul>
+<li>Laws of nature know no exceptions.
+<li>Laws of nature are unchanging in time (past, present or future).
+<li>Laws of nature can tell us whether a process being contemplated is even possible or not.
+<li>Laws of nature exist prior to, and independent of, their discovery and formulation.
+<li>Laws of nature can always be successfully applied to unknown situations.
+</ul>
+(Emphasis in original)
+</blockquote>
+</p>
+
+<p>There is an awful lot to discuss here, but actually I think the subtext is more important than the text.  I suspect most scientists are instinctively uncomfortable with the sorts of sweeping generalizations Gitt is making here.  To the extent that scientists talk about natural laws at all, they really just mean certain generalizations that have consistently been successful in predicting the results of experiments.  The key criterion is usefulness, not capital-T, metaphysical truth.  Science is a way of bringing order and predictability to the observations we make about nature.  We need a word to describe those theories and models that have consistently proven themelves to be useful, and the word that is chosen for that purpose is &ldquo;true.&rdquo;</p>
+
+<p>But that's too wishy-washy for creationists.  They don't care about &ldquo;generalizations scientists find useful.&rdquo;  Not at all.  They want Truth.  Like the Bible provides.  As I have mentioned previously, the only reason they ever talk about science is that society requires that of them if they are to receive any hearing at all for their ideas.  This is why they are so unreceptive to the perfectly sensible argument that hypotheses about God's actions in the world are not scientific because they don't lead to anything scientists can use to further their work.</p>  
+
+<p>That is why Gitt, and his supporters, are so happy to talk in such sweeping terms.  They're not trying to further scientific research.  They're trying to justify their faith in terms that won't get them laughed at.</p>
+
+<p>Okay, back to the talk.  Gitt provides the following &ldquo;Natural Law Definition of Information&rdquo;:
+
+<blockquote>
+Information is an encoded, symbolic representation of material realities or conceptual relationships conveying expected action and intended purpose.  Information is always present when, in an observable system, all of the following five hierarchical levels (or attributes) are present: Statistics, syntax (code), semantics (meaning), pragmatics (action) and apobetics (purpose).
+</blockquote>
+</p>
+
+<p>For completeness, let me list his ten laws of nature about information:
+
+<ol>
+<li>A purely material entity cannot generate a non-material entity.
+<li>Information is a non-material fundamental entity.
+<li>Information is the non-material foundation for all program-directed technological systems and all biological systems.
+<li>There can be no information without a code.
+<li>Every code is the result of a freely-willed convention.
+<li>There can be no new information without an intelligent, purposeful sender.
+<li>Allocating meaning to a set of symbols by a sender, and determining meaning from a set of symbols by a recipient, are mental processes requiring intelligence.
+<li>Information cannot originate in statistical processes.
+<li>The storage and transmission of information requires a material medium.
+</ol>
+</p>
+
+<p>Where did these laws come from?  According to Gitt they are generalizations from scientific observations.</p>  
+
+<p>There's a lot to criticize in those &ldquo;laws&rdquo; but let's stay big picture for the moment.  What sorts of things does Gitt have in mind in formulating his definition?  Well, certainly human languages.  And computer programming languages, or things like Morse code would no doubt fit his definition.  But since those are all things that human beings constructed themselves, it is not surprising that they have no existence without the input of intelligence.  In fact, by building meaning and purpose into his definition of information, it's hard to see how information could possibly exist without intelligent agents to perceive it.</p>
+
+<p>Anything else?  I think we all know what Gitt is building up to here.  He's going to claim that the genetic code fits his definition of information.  Indeed, in justifying the first of his six conclusions, he writes,
+
+<blockquote>
+Because all forms of life contain a code (DNA, RNA), as well as all the other levels of information, we are within the definition domain of information.  We can therefore conclude that: <i>There must be an intelligent Sender</i>.  (Emphasis in original)
+</blockquote>
+</p>
+
+<p>Whoa!  Stop the presses!  Does the information encoded in our genes really possess the properties Gitt requires?  Is Gitt really attributing to genes meaning and purpose?  What could this possibly mean?  He might say that the purpose of genes is to produce proteins.  But is that the genes' purpose, or is that simply what genes do?</p>
+
+<p>Or consider Gitt's explanation of what constitutes &ldquo;Pragmatics (Action): &ldquo;Information invites action.  Every transmission of information is nevertheless associated with the intention, from the side of the sender, of generating a particular result or effect on the receiver.&rdquo;</p>  
+
+<p>Who is the sender and who is the receiver in the case of DNA?</p>
+
+<p>Our genes, after all, do not know that human observers are attributing to them the property of containing informaion.  They, and the associated cellular machinery that transforms them into proteins, are simply doing whatever it is that they do, governed by various principles of physics and chemistry.  Describing them with terms generally reserved for the actions of intelligent agents can never be anything more than a vague analogy.</p>
+
+<p>Which brings us to the most fundamental problem of all with what Gitt is doing here.  He was constantly talking about the information content of our genes.  He would talk about the quantity of information increasing or decreasing in some context or other.  He would say things like the cell contains more information than the Encyclopedia Brittanica.  <i>But at no point did he ever tell us how to measure information!</i></p>
+
+<p>That's right.  His constant challenge to evolutionists was to produce a natural nechanism that could increase the information content of our genome.  But there's no hope of answering that question until we know precisely how to measure information.</p>
+
+<p>During the talk Gitt explicitly differentiated what he was doing from Shannon's conception of information.  He pointed out that Shannon's theory deals adequately with the &ldquo;Statistical&rdquo; level of information (the number of symbols in the message).  This has the advantage of allowing a mathematical formulation of information, but it sacrifices many aspects of the everyday meaning of the word (like, well, meaning). </p> 
+
+<p>He also distinguished himself from William Dembski's ideas about complex specificed information.  He said that Dembski's definition had the virtue of being easy to understand, but that his ideas had no clear domain of definition and that no strong conclusions are possible from it.</p>
+
+<p>Gitt even said explicitly in his talk that his notion of information does not admit any mathematical formulation.</p>
+
+<p>We will revisit this point momentarily.</p>
+
+<p>Gitt concluded his talk.  The collisseum erupted into enthusiastic applause.  Before long, everyone except me was standing.  Ken Ham took the stage and boasted that this was one of the most powerful apologetic arguments he had ever heard.</p>  
+
+<p>So I decided to hang around for the Q and A.  I was more aggressive this time, and worked my through the crowd.  I was standing pretty close to Dr. Gitt, part of a crowd of about forty or so people.  The questions being asked were the usual fawning silliness, until Gitt got to the person standing next to me.  Though he was clearly a supporter of AiG and Gitt, he asked what I thought was a very perceptive question.</p>
+
+<p>He asked Gitt what his peers (by which he meant other scientists) thought about his natural laws of information.  He pointed out that something like the law of gravity could claim universal acceptance among scientists.  Could the same be said for his natural laws of information?</p>
+
+<p>Gitt, incredibly, replied that his ideas have wide acceptance among scientists.  He boasted of various seminars at which he had spoken in mainstream universities and talked about the enthusiastic response he generally got.  He claimed to have published this material in secular journals.</p>  
+
+<p>He then started gushing about how all it would take to refute his ideas is for a scientist to produce a single natural mechanism that could increase the information content of the geneome.  That's it!  Just one!  That's all it would take!  But they couldn't do it!!</p>
+
+<p>That was all I could stands, I couldn't stands no more.  So I said, loudly enough for everyone to hear (which, as those of you who have heard me speak can attest, means I was speaking in my normal tone of voice),  &ldquo;What effect does a genetic mutation have on the information content of the genome?&rdquo;</p>
+
+<p>Silence as forty pairs of eyes turned towards me.  I swallowed hard and continued, &ldquo;As I'm sure you're aware, genes mutate all the time.  Before I can answer your challenge I need to have a better understanding of your notion of information.  So tell me how a simple point mutation changes the information content of the gene.&rdquo;</p>
+
+<p>He gave the standard response that genetic mutation invariably leads to a loss or degradation of information.  So I went in for the kill.  &ldquo;You keep talking about information going up or information going down.  You talked about the cell containing more information than an encyclopedia.  But at no point did you tell us how to measure information.  And without such a measure it's not even meaningful to talk about information content increasing or decreasing.&rdquo;  I went on to say &rdquo;Now, usually when scientists talk about information they have in mind Shannon's concept.  When it comes time to measure information, is that what you have in mind?&rdquo;</p>
+
+<p>There was a high school student standing next to Gitt who was not amused by my question.  He told me, rather condescendingly, that I should consult <i>The Answers Book</i>, by which he meant a specfic book on sale in the bookstore, which, he assured me, would answer my question.</p>
+
+<p>It's useful to be very well read when you attend one of these conferences.  As it happened, I had read the book the student was referring to and knew that it did not address the point that I was making.  So I flashed him my most withering look and said, &ldquo;I've read that book and it does not answer my question.  Now if you don't mind I'd like to hear what Dr. Gitt has to say.&rdquo;  That shut him up quickly.</p>
+
+<p>He hemmed and hawed a bit but eventually conceded that information can only be quantified at the &ldquo;Statistical&rdquo; level and that for the purposes of measuring information that is what was important.</p>
+
+<p>So I replied, &ldquo;If that is what you mean, then there are several well-known mechanisms that can lead to an increase in information content.  Here's one.  A gene can duplicate, leaving two copies of the same gene.  One of those genes can then mutate, leading to two different genes.  If you are measuring information in Shannon's sense, then it's a simple calculation to show that you now have more information than you started with.  You can find this process described in any genetics textbook.  Why is this not an andequate response to your challenge?&rdquo;</p>
+
+<p>He replied with the standard creationist evasion at this point: He argued that duplicating a gene does not produce new information.  Phillip Johnson said the same thing in addressing this point in his book, <i>The Wedge of Truth.</i>  It's a jaw-dropping reply, since it simply ignores the part where the duplicate gene subsequently mutates.</p>
+
+<p>Anyway, we went at it for several minutes.  His answers always came down to either misunderstanding the process I was describing, or changing what it meant to measure information.  At one point he started talking about computer programs, and argued, typically, that if you mutate a computer program that will almost certainly crash the program.  He argued that this was analogous to what happens when a gene mutates.</p>
+
+<p>Alas, in the heat of the moment I didn't think to mention that programs mutating and producing new and better programs is exactly what happens in artificial life experiments.  Instead I simply replied that likening genes to computer programs was a bad analogy in this context.  When you mutate computer code you will almost certainly produce something that is not meaningful in the particular computer language you are using.  That's not the case with DNA.  Every three-letter DNA &ldquo;word&rdquo; codes for some protein or other, making it very difficult to speak in general terms about what happens to the information content of the gene as the result of a mutation.  He shrugged and agreed that was a good point.  (!!)</p>
+
+<p>At this point I felt my mission had been accomplished.  I knew there was litle hope of actually winning the argument, but I made it clear that there are answers to the idiotic arguments he made in his talk, and everyone had a chance to see that there were people who were totally unintimidated by the great Dr. Gitt.  There was still a large crowd of people gathered around him waiting to ask questions, so I decided this was a good time to bow out of the conversation.</p>
+
+<p>Nonetheless, I couldn't resist one parting shot.  &ldquo;There is one more point I wanted to raise before I go,&rdquo; I said.  &ldquo;In your reply to the previous gentleman you said that your ideas about information are well-received by other scientists.  But even you would have to agree that evolution is the dominant paradigm among scientists.  Since you made it quite clear in your talk that your ideas absolutely rule out the possibility of evolution, I don't think it's really true that scientists agree with you here.&rdquo;</p>
+
+<p>At this point Amazing Thing Number One happened.  He replied that there was no contradiction here because you could accept both God and evolution.  That was definitely not the party line at this conference, and I saw some definite frowns among the poeple gathered around.</p>
+
+<p>I pressed on.  But we're not talking about believing in God and evolution.  We're talking about accepting your particular theories about information on the one hand and evolution on the other.  You said explicitly that that was impossible.  So you were being disingenuous when you told the other fellow that scientists accept your ideas.</p>
+
+<p>And this is where Amazing Thing Number Two happened.  He shrugged and looked down at the floor.  He actually looked abashed!  Since I didn't think creationists were capable of shame, I considered this a major victory.</p>
+
+<p>So I shook his hand, thanked him for his time and started to walk away.  I was mentally patting myself on the back for a job well-done, and I was thinking about how badly I wanted another one of those delicious fajita burritos.  The sun was shining, the birds were chirping, and all was right with the universe.</p>
+
+<p>And that was when I heard this skanky, malodorous she-hag say, &ldquo;You're really very ignorant about biology.  You should learn a bit more before you start talking about it.&rdquo;</p>
+
+<p>Pause.</p>
+
+<p>Pause.</p>
+
+<p>Those of you who only know me through my writing may find this hard to believe, but I'm actually capable of great tact when I feel the situation calls for it.  So I resisted the temptation to damage her physically in some way.  I likewise resisted the temptation to unleash upon her a barrage of profanity so disgusting it would have made her ears melt right off her head.  No.  All I did was approach her casually, and in my most winning and charming manner (which is <i>very</i> winning and <i>very</i> charming, if I do say so myself)  say, &ldquo;Really, how so?&rdquo;</p>
+
+<p>I don't recall her precise answer, but I do recall that it was deeply stupid.  She had completely missed my point about needing a way to measure information before you can talk about information increase or decrease.  I tried to explain it to her.  At times she seemed to get it, but then moments later it would be lost.</p>  
+
+<p>At one point we got hung up on the distinction between a new gene, and a merely different gene.  I pointed out, again, that even a simple point mutation results in the production of a different gene, and I asked, again, how that changed the its information content.  My point was that if she couldn't even make a statement about the information change that occurs as the result of one of the simplest genetic processes there is, how could she make sweeping generalizations about what could and could not happen in the course of evolution?</p>
+
+<p>That wasn't what she heard.  She thought it was a big concession that I had said different this time, whereas earlier I had referred to the production of a new gene.  So I said that the gene produced by a mutation is new in the sense that it wasn't there a minute ago.  But she was too busy congratulating herself on her cleverness to bother understanding this point.</p>
+
+<p>Actually, though, she was not the only one I was talking to.  Her son, who I would guess was about eleven or twelve, was listening as well.  In fact, he was listening intently.  He even threw in an occasional comment that was far more intelligent than anything his mother was saying.</p>
+
+<p>While we were having this conversation several other people wandered over and joined the fray, all of them trying to come up with the zinger that would make me shut up.  At one point, in response to a comment I made about mutations, one gentleman made the usual creationist remark that mutations always lead to the loss or degradation of information, and therefore couldn't lead to information increase.  To seal the deal he gave me an example.</p>
+
+<p>The example was the mutation that leads to sickle cell anemia.</p>
+
+<p>Ugh.  I rolled my eyes and said that actually the sickle cell anemia mutation was a perfect illustration of the point I was making.  Increasing the risk for sickle cell anemia is only one effect of that particular gene.  Another effect is to confer a resistance to malaria.  So, in some vague sense, you can say that you have lost information regarding the proper formation of red blood cells.  But you have also gained information with respect to avoiding malaria.</p>
+
+<p>He agreed and replied that it was a trade-off.  Exactly, I replied.  So what was the net change in information as the result of that particular mutation?  He shrugged and said he didn't know.  I said,  &ldquo;And yet just moments ago you told me that this mutation led to a loss of information.  What basis did you have for making that statement?&rdquo;</p>
+
+<p>Somewhere in here another fellow came over and asked what I meant by Shannon information.  I proceeded to launch into a non-technical explanation of the concept that was so clear and easy to follow, you'd have thought no one could have been confused at the end of it.  He shot back with, &ldquo;Oh, that's just an assumption you are making.&rdquo;</p>
+
+<p>Pause.  Deep breath.</p>
+
+<p>No, I said, that's a definition, not an assumption.</p>
+
+<p>But you're assuming that's a good way to measure information.  I replied that it's a way that scientists have found useful in a variety of different contexts, and that if he had something else in mind it was for him to tell me what he meant.</p>
+
+<p>This went on for quite some time, but I still haven't come to the most surreal part of the argument.  That occurred when sickle-cell guy conceded the point that natural mechanisms could increase information content in the Shannon sense, but that really Gitt was talking about complex, specified information (CSI).</p>
+
+<p>Ah, you're talking about William Dembski's idea, right?  He replied that he was.  I pointed out that Gitt said specifically in his talk that what he was doing was different from what Dembski was doing.  Sickle-cell guy shrugged.</p>  
+
+<p>Now, I happen to believe that Dembski's notion of CSI is a lot of nonsense.  Establishing that information is complex in his sense requires that we carry out probability calculations that in any practical situation can not be carried out.  Establishing that some given information is specified requires that we match it up to some recognizable pattern, but there is no method for doing that in a non-arbitrary way.  Perhaps I should simply have said that.</p>
+
+<p>Instead I replied that since Dembski was the one claiming that something was fundamentally impossible (natural mechanisms increasing CSI) it was really for him to justify that claim.  Sickle-cell guy then came back with his own version of Dembski's arguments, and that's where things totally entered the Twilight Zone.</p>
+
+<p>His description of Dembski's work was ridiculous, you see.  Somehow he had gotten it into his head that in Dembski's world, all information was complex specified information (leaving its origin as the only mystery), and that information was intimately linked with the idea of communicating a message instead of merely being related to certain probability calculations.</p>
+
+<p>So I now spent about ten minutes having to explain what Dembski was actually saying, over sickle-cell guy's repeated objections.  That's right!  These guys are so confused they can't even parrot their own arguments properly.  And there I am trying to give a clear explanation of Dembski's nonsense, just so this nimrod will understand what it is that I am refuting.  Grrrrrrrr.</p>
+
+<p>I finally persuaded him that he had Dembski wrong by showing that the things he (sickle-cell guy) was saying were obviously wrong, whereas the things Dembski was really saying were wrong for (slightly) more subtle reasons.  I think I finally convinced him on the point.</p>
+
+<p>Anyway, we went on like this for quite a while.  I don't know if I convinced anyone of anything, but I certainly wiped the smug smile off that woman's face.  And I suspect about five years down the line, her son is going to rebel <i>hard</i>.</p>
+
+<p>We shook hands, and I walked out of the collisseum.  Drove over to the Mexican restaurant, and got another one of those most excellent fajita burritos.  The end to a perfect morning.</p>  
+
+
+Next up:  A rare point of agreement between me and the conference presenters.  The ID folks are a bunch of weenies.
+
+<font size=+1><b>To be Continued</b></font>

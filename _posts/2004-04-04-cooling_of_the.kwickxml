@@ -1,0 +1,133 @@
+---
+layout: article
+title: Cooling of the Universe
+date: '2004-04-04 15:18:35 -0700'
+mt_id: 174
+blog_id: 2
+post_id: 174
+basename: cooling_of_the
+published: false
+---
+A few days ago I received an email message which is reproduced here in its entirety:
+
+"Dr. Perakh,
+
+
+I recently picked up a copy of your Unintelligent Design and wanted to 
+alert you to some errors.  As a brief introduction, I am a graduate student 
+in Astronomy and have followed the intelligent design movement for several 
+years.  I find debunking such creationist claims an entertaining mental 
+exercise and overwhelmingly approve of the purpose of your book.
+
+
+On pages 173-178, you discuss Hugh Ross's treatment of thermodynamics in a 
+cosmological setting.  You correctly point out that Ross's treatment is not 
+overwhelming rigorous--however, his claim that the universe cools because 
+it is expanding is correct. 
+
+
+<!--more-->
+
+Ross makes the (regrettably) common slip of 
+referring to an adiabatic expansion when he really means a reversible 
+adiabatic expansion.  Because it is assumed that the universe remained in 
+thermal equilibrium throughout much of it's early history, the expansion 
+does indeed cause it to cool.
+
+
+A couple statements of yours that really need to be changed:
+on p. 177: "According to the second law, the entropy of the universe 
+increases along with the latter's expansion."  This is a misstatement.  The 
+second law says entropy increase OR stays constant.  The entropy of the 
+early universe, (and I think the latter universe) is dominated by the 
+background radiation which is expanding isentropically.  When measured on 
+cosmological scales, entropy is constant.
+
+On p. 178: "The temperature drop occurs because the initial thermal energy 
+of the universe gradually converts...into the kinetic energy of the motion 
+of those clumps of emerging matter moving away from the initial seed of the 
+universe."  Again, the cooling is indeed caused by the expansion.  The end 
+of this statement hints at some muddled thinking about how the expansion 
+proceeds--matter is not flying apart from some initial center in big bang 
+cosmology.  I have a hard time picturing how thermal energy could be 
+converted into the proper motion of galaxies--it makes a lot more sense for 
+that motion to come from gravitational collapses and cosmological torques.
+I believe Ross has very selectively gone through the scientific literature 
+to pick out bits that support his theology, but his science is usually 
+correct.
+
+
+By saying his statements are "preposterous" and that he doesn't 
+understand "elementary concepts" when his explanation is much closer to 
+correct than yours greatly undermines your credibility.
+I would recommend looking into a cosmology text for how the thermodynamics 
+are treated.  Peacock's Cosmological Physics is popular, I tend to fall 
+back on Matt Roos' Introduction to Cosmology.
+
+Peter Yoachim"
+
+The reason for writing up this piece is, of course, not so much a need to respond to Yoachim's critical remarks concerning some points in my book, as is the apparent need to clarify some points raised in his message, for a wider audience, since asseverations more or less similar to those made by Yoachim seem to be rather common.
+
+Since, however, I set out to discuss the points of Yoachim's message, I'll briefly address his critique per se. First, note the ellipsis in his quotation from my book, when he writes "universe gradually converts...into the kinetic energy of the motion of those clumps of emerging matter moving away from the initial seed of the universe."  Using ellipsis is often a device aimed at changing the contents of a quotation to fit the agenda of the critic. It also is referred to as quoting out of context (although, since Yoachim's was a personal message to me, I am not accusing him of a deliberate distortion).  
+
+The full text of the pertinent paragraph in my book, first, makes it clear that I suggest a hypothetical explanation of the universe's cooling - by stating that it occurred because the thermal energy of the universe's "seed," starting at Planck's time, converted into non-thermal forms of energy. As candidates for those non-thermal forms of energy I suggested several possible alternatives - the rest energy of the emerging masses, the kinetic energy of the moving masses, etc. I did not suggest any specific mechanism of the conversion of thermal energy into non-thermal forms, but based my explanation only on the law of energy conservation. 
+
+
+Unless we choose to discard the law of energy conservation (and I am not categorically reject the possibility of such an approach) we have no choice other than to state that thermal energy of the emerging universe converted into non-thermal forms thus resulting in universe's cooling.
+
+
+Yoachim chooses only one possible alternative among the non-thermal forms of energy I listed - the kinetic energy of the moving masses, ignoring other forms I mentioned. He writes that he has a hard time imagining such a conversion of thermal energy into kinetic energy of masses moving away from each other. This is the argument from ignorance which has no real cognitive weight. We may not know the precise mechanism of the conversion in question, but if we adhere to the law of energy conservation, the mere fact of such conversion is hardly deniable. 
+
+
+Now turn to Yoachim's defense of Ross, who, in Yoachim's view, is correct stating that universe cooled because of expansion. Let us recall how exactly Ross renders his explanation. 
+
+
+On page 135 of his book "Creation and Time" Ross writes: 
+
+
+        "When the heat energy of a system fills a greater volume, there is less     energy per unit volume to go around."  
+
+Note that Ross, in this quotation, speaks not about the universe, but rather about an abstract "system," this obviously referring not to specifically cosmological but rather to general thermodynamic concepts.
+Ross's statement does not mention such points as redshifting of photons, cosmic scale factor, or any other points that one may see discussed in the literature on cosmology. His argument is fully within the framework of classical thermodynamics.  And as such, it is egregiously wrong.
+
+
+Indeed, "heat energy" - the idiosyncratic term used by Ross, which evidently was meant to denote "thermal energy," is not a substance that can be diluted in a certain volume, so that the greater the volume the less energy density. Such a view could sound plausible before the end of the 18th century, until Rumford understood that "heat" is a form of motion. In the 19th century physics clarified that thermal energy (this concept makes sense only for macroscopic systems) is in fact kinetic energy of the motion of the particles of which the body consists. 
+
+
+Ross's statement is indeed preposterous, however strongly Yoachim wants it to be correct. Yoachim should have consulted some introductory course of thermodynamics before trying to defend Ross's indefensible view which betrays Ross's lack of comprehension of elementary thermodynamics.  
+
+
+One more point Yoachim mentions is whether or not universe's entropy is increasing.  Yoachim thinks it remains constant. 
+
+
+Let us consult, first, again with classical thermodynamics. Entropy, according to the 2nd law, can indeed remain constant but only either in reversible adiabatic processes, or in reversible cycles. Classical thermodynamics asserts, though, that all real processes in macroscopic systems are irreversible. Classical thermodynamics further asserts that in irreversible cycles the total entropy of the universe always increases rather than remaining constant. Therefore, whatever happens in the universe, its total entropy constantly increases. This led Boltzmann to his pessimistic prediction of the imminent thermal death of the universe. Boltzmann did not know about universe's expansion which negates his prediction.
+
+
+Boltzmann was very instrumental in understanding that entropy is in fact a monotonous function of the number of accessible states. As the universe expands, more accessible states emerge. According to the most commonly accepted view, at the Planck's time the universe's entropy had maximum possible value for the situation existing at that moment - the embryonic universe was completely disordered. 
+
+As the universe expanded, two tendencies came into play: gravity worked towards creating islands of order thus causing local decreases of entropy, while expansion generated new accessible states thus enabling continuing increase of the net entropy of the universe above the level it had at Planck's time. 
+
+
+Now let us go back to the universe's expansion. Is it legitimate to say that expansion caused cooling? I think such a statement is misleading even if we discard Ross's ridiculous idea of energy diluting in an increasing volume. To see why, let us recall that there are known many processes where a system expands but temperature does not drop. 
+
+First consider conventional systems, such as discussed in classical thermodynamics. Imagine a cylinder with a piston. Fill it with gas. 
+The concept of a system in thermodynamics incorporates as ineliminable parts concepts of a boundary and of the surrounding. The boundary separates the system from the surrounding. The boundary may be adiabatic - that is impervious for heat transfer to or from the surrounding. It can be diathermal which is opposite to adiabatic - it allows a free influx to or outflow from the system, of heat. It can be anything in-between. 
+
+
+Assume the gas in the cylinder expands. Does it mean gas is necessarily cooling down in the process of expansion? Not at all. The temperature of gas in the course of expansion may increase, remain constant, or decrease. It depends on what happens at the system's boundaries. If there is heat influx into the system through its boundaries (in this example through the cylinder's walls) the gas's temperature may go up despite its expansion. Expanding gas performs work against external force - in this case the weight of a load placed on the piston - at the expense of the gas's internal energy. If the amount of work exceeds the heat influx to the gas from the surrounding, gas's temperature will decrease. This decrease is though caused not by expansion as such but by the negative balance of energies: if no work is done, T will not go down. 
+
+
+Indeed, imagine a box divided by a partition into two compartments. Fill one compartment with gas at a temperature T and pressure P. Keep the other compartment vacuumed (P=0). Rapidly withdraw the partition. Gas will expand into the empty compartment and this will be a very fast process. It results in the system's entropy increase. However, gas's temperature remains the same -expansion into vacuum is an isothermal process (btw, because of its very high speed, it also is adiabatic - which negates another meaningless statement by Ross, as discussed in my book). 
+
+
+In the example with a piston in a cylinder, gas would cool down if it performs work against external forces - for example against the weight of a load placed on the piston - and if the expenditure of internal energy on doing that work is not compensated for by the heat influx from the surrounding. In the case of expansion into vacuum there are no external forces - the empty compartment dos not exert any resistance to the expanding gas, so there is no decrease of the gas's internal energy of which temperature is a measure - and T does not decrease. 
+
+
+Since expansion itself is not the cause of cooling - there are many processes where a system expands but no cooling occurs - the statement that expansion causes cooling is misleading.
+
+
+Go back to the universe. Extending classical thermodynamics to the universe is wrought with problems. Is the universe a thermodynamic system? The concept of a thermodynamic system makes no sense without the concepts of a boundary and of the surrounding. When we talk about the universe, these concepts lose their standard interpretation as used in classical thermodynamics. There supposed to be "nothing" beyond the universe - no "surrounding," and therefore no boundaries in thermodynamic sense. That is why it is often claimed that the universe is a perfect closed system - it does not exchange either matter or energy with a surrounding because there is no surrounding. Universe expands not into vacuum, as gas into an empty compartment, but into nowhere. However, there is no reason to assume that the universe's expansion <i>per se </i>causes cooling - we know that expansion as such is not a cause of cooling in thermodynamic systems - why should it be principally different for the closed system named universe? 
+
+Universe cooled in the course of expansion - but not because of expansion as such but rather because of some other processes which accompanied expansion. If we don't want to discard the law of energy conservation - which would be a rather non-parsimonious approach - we have to attribute universe's cooling to the conversion of thermal energy into non-thermal forms of energy - and there is no escape from this concept. 
+
+As to specific forms of non-thermal energies which are beneficiaries of the conversion, their relative contributions to cooling, and specific mechanisms of conversion - here there is a vast field for various hypotheses and models. 

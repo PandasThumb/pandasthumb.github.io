@@ -1,0 +1,28 @@
+---
+layout: article
+title: Tests of parallel molecular evolution in a long-term experiment with Escherichia
+  coli
+date: '2007-11-03 17:04:18 -0700'
+mt_id: 3372
+blog_id: 2
+post_id: 3372
+basename: tests_of_parall
+published: false
+---
+<url href="http://www.pnas.org/cgi/content/abstract/0602917103v1">Tests of parallel molecular evolution in a long-term experiment with Escherichia coli</url>
+
+<quote>The repeatability of evolutionary change is difficult to quantify because only a single outcome can usually be observed for any precise set of circumstances. In this study, however, we have quantified the frequency of parallel and divergent genetic changes in 12 initially identical populations of Escherichia coli that evolved in identical environments for 20,000 cell generations. Unlike previous analyses in which candidate genes were identified based on parallel phenotypic changes, here we sequenced four loci (pykF, nadR, pbpA-rodA, and hokB/sokB) in which mutations of unknown effect had been discovered in one population, and then we compared the substitution pattern in these "blind" candidate genes with the pattern found in 36 randomly chosen genes. Two candidate genes, pykF and nadR, had substitutions in all 11 other populations, and the other 2 in several populations. There were very few cases, however, in which the exact same mutations were substituted, in contrast to the findings from conceptually related work performed with evolving virus populations. No random genes had any substitutions except in four populations that evolved defects in DNA repair. Tests of four different statistical aspects of the pattern of molecular evolution all indicate that adaptation by natural selection drove the parallel changes in these candidate genes.</quote>
+
+Not to be outdone, http://www.genetics.org/cgi/content/abstract/173/4/1851 
+
+Parallel Changes in Global Protein Profiles During Long-Term Experimental Evolution in Escherichia coli
+
+<quote>
+Twelve populations of Escherichia coli evolved in and adapted to a glucose-limited environment from a common ancestor. We used two-dimensional protein electrophoresis to compare two evolved clones, isolated from independently derived populations after 20,000 generations. Exceptional parallelism was detected. We compared the observed changes in protein expression profiles with previously characterized global transcription profiles of the same clones; this is the first time such a comparison has been made in an evolutionary context where these changes are often quite subtle. The two methodologies exhibited some remarkable similarities that highlighted two different levels of parallel regulatory changes that were beneficial during the evolution experiment. First, at the higher level, both methods revealed extensive parallel changes in the same global regulatory network, reflecting the involvement of beneficial mutations in genes that control the ppGpp regulon. Second, both methods detected expression changes of identical gene sets that reflected parallel changes at a lower level of gene regulation. The protein profiles led to the discovery of beneficial mutations affecting the malT gene, with strong genetic parallelism across independently evolved populations. Functional and evolutionary analyses of these mutations revealed parallel phenotypic decreases in the maltose regulon expression and a high level of polymorphism at this locus in the evolved populations.
+</quote>
+
+<!--more-->
+
+not to be outdone<url href="http://www.genetics.org/cgi/content/full/177/1/449"> Complex Genetic Changes in Strains of Saccharomyces cerevisiae Derived by Selection in the Laboratory</url>
+
+<quote>Selection of model organisms in the laboratory has the potential to generate useful substrates for testing evolutionary theories. These studies generally employ relatively long-term selections with weak selective pressures to allow the accumulation of multiple adaptations. In contrast to this approach, we analyzed two strains of Saccharomyces cerevisiae that were selected for resistance to multiple stress challenges by a rapid selection scheme to test whether the variation between rapidly selected strains might also be useful in evolutionary studies. We found that resistance to oxidative stress is a multigene trait in these strains. Both derived strains possess the same major-effect adaptations to oxidative stress, but have distinct modifiers of the phenotype. Similarly, both derived strains have altered their global transcriptional responses to oxidative stress in similar ways, but do have at least some distinct differences in transcriptional regulation. We conclude that short-term laboratory selections can generate complex genetic variation that may be a useful substrate for testing evolutionary theories.</quote>

@@ -1,0 +1,14 @@
+---
+layout: article
+title: Mea Culpa
+date: '2005-07-02 09:32:38 -0700'
+mt_id: 1113
+blog_id: 2
+post_id: 1113
+basename: mea_culpa
+---
+The comments are now back online.  Our spam blocker no longer sees every post as inappropriate.
+
+Last night we got some specifically crafted spam that when despamed could create a rule that would match any comment submitted.  I didn't pay enough attention when I despamed it and thus the omnibus rule was added to our filter causing all comments to be rejected.
+
+I apologize for any frustration that this has caused our readers.

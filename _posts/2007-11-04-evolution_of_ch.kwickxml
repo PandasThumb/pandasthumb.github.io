@@ -1,0 +1,42 @@
+---
+layout: article
+title: Evolution of Choloroquine resistance in Plasmodium Falciparum
+date: '2007-11-04 22:34:39 -0700'
+mt_id: 3376
+blog_id: 2
+post_id: 3376
+basename: evolution_of_ch
+published: false
+---
+pfcrt gene codons  72-76 are important
+
+Worldwide                            Sensitive  C V M N K
+Southeast Asia                     Resistant C V I E T 
+Africa, South America
+South America, Southeast   Resistant S V M N T
+Asia, and India
+South America, Southeast   Resistant C V M N T
+Asia, 
+Columbia                            Resistant C V M E T
+South America                    Resistant S V M N T
+Indonesia                            Resistant C V I K T
+                                                           S V I E T
+Cambodia                           Resistant C V I D T
+                                                          C V T N T
+Guyana                              Resistant  S V M I T
+                                                           R V M N T
+
+
+
+<quote>. Our findings also suggest that P. falciparum CQR has arisen through multiple evolutionary pathways associated with pfcrt K76T.</quote>
+http://www.pnas.org/cgi/content/abstract/98/22/12689?ck=nck
+
+CMNK IC50 50 nM
+CMNT IC50  143 nM
+CIEK IC50 135 nM
+CIET IC50 151 nM
+
+http://www.ajtmh.org/cgi/content/full/75/3/381
+
+
+IC50 represents the concentration of a drug that is required for 50% inhibition in 

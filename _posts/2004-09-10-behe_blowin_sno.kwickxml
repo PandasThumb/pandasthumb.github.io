@@ -1,0 +1,125 @@
+---
+layout: article
+title: Behe blowin' Snoke (just kidding)
+date: '2004-09-10 10:10:22 -0700'
+mt_id: 436
+blog_id: 2
+post_id: 436
+basename: behe_blowin_sno
+published: false
+---
+[intro]
+
+
+<!--more-->
+
+The basic argument of the paper is as follows.  Behe and Snoke are attempting to model a scenario of gene duplication in order to discover the likelihood that a duplicate gene will evolve a new function.  In their model, they assume that the duplicate gene begins in each member of a given population, and that it changes only by point mutations (individual substitutions of DNA bases).  They also assume that in order to adopt a new function, the gene duplicate will need to experience several specific mutations, thus coding for a protein with more than one amio acid change.  They call this a "multi-residue", or MR, feature.  Furthermore, they assume that prior to the evolution of the MR feature, the gene duplicate is not under selective pressure.  In other words, it is free to accumulate mutations, some of which may destroy the ability of the protein to function.  Their model tries to assess the likelihood of evolving the MR feature before the gene is rendered non-functional by an inactivating mutation.  Behe and Snoke conclude that it would require large populations a large amount of time in order for this to occur.    
+
+Before exploring the paper in more detail, we'd like to congratulate Behe and Snoke for writing a quality paper and publishing it in a quality journal.  Critics have complained that ID advocates habitually avoid peer-reviewed scientific journals in favor of popular outlets that lack rigor and quality control.  This usually results in the obstensibly scientific arguments being obscured by unsupported (and unsupportable) factual claims, and numerous extrascientific arguments.  We feel that Behe and Snoke make an important contribution to the debate by presenting an argument that is straightforward and devoid of unnecessary rhetoric.  We appreciate this because it makes it far easier to respond to their claims on a purely scientific level. 
+
+That said, we don't feel that the conclusions drawn by Behe and Snoke (and by extension, the conclusions that their fellow ID advocates will surely attempt to draw) are warranted by the model that they set up.  We in fact believe that the model is at best orthologous to the question they attempt to answer, and at worst, meaningless in that regard.  There are a number of reasons for this, but we would like to focus on three in particular and mention the others only in passing.
+
+Here are the conclusions Behe and Snokes draw from their model, first in the abstract...
+
+<quote>We conclude that, in general, to be fixed in 10^8 generations, the production of novel protein features that require the participation of two or more amino acid residues simply by multiple point mutations in duplicated genes would entail population sizes of no less than 10^9.</quote>
+
+and finally at the end of the paper...
+
+<quote>Although large uncertainties remain, it nonetheless seems reasonable to conclude that, although gene duplication and point mutation may be an effective mechanism for exploring closely neighboring genetic space for novel functions, where single mutations produce selectable effects, this conceptually
+simple pathway for developing new functions is
+problematic when multiple mutations are required. Thus, as a rule, we should look to more complicated pathways, perhaps involving insertion, deletion, recombination, selection of intermediate states, or other mechanisms, to account for most MR protein features.</quote>
+
+Behe and Snokes are very careful to explain the limitations of their model, and readily concede that it can only apply to a simplfied scenario that may rarely, if ever occur in real life.  Yet we feel even the well qualified conclusion above is not supported by the model they use.  Here's why.
+
+[u]No intermediate steps[/u].
+
+Behe and Snoke make a major assumption that is built right into the model and stated up front:  There must be multiple mutations before the gene duplicate, which has completely relaxed selection pressure, obtains a paticular function that can be selected for.  To substantiate this, the authors rely for the most part on two examples, disulfide bonds and ligand binding.  Disulfide bonds clearly require two cysteine residues, so there is no doubt that two amino acid mutations (assuming one of the cysteines does not already exist) are required before any new disulfide bridges can be created.  However, we do not believe that disulfide bonds do not make a good example of the sort of MR features that Behe and Snokes wish to consider as a general rule (more on that later).  Concerning ligand binding, the case is not as clear cut as with disulfide bonds, because ligands can bind in a variety of ways.  However, the example that Behe and Snoke introduce, the 2,3-diphosphoglycerate binding site of hemoglobin, does not serve as a good example of an MR feature as they model it.  Given that even the canonical example that they use doesn't actually require a multi-residue change (from a hypothetical ancestral state) before obtaining function, how much confidence should we have that the model they use represents the actual state of affairs in biology?  The answer is probably not much.  While it's well known that many proteins can change function with single amino acid changes, Behe and Snoke feel that at least <i>some of the time</i> a new function will require two or more amino acid changes at once, with no selectable intermediate steps.  However, given that this isn't the case even with their own example, it's not clear that their assumption holds true for most (if any) inferred cases of novel gene evolution.
+
+[u]The "One, True Target Sequence"[/u]
+
+A second major assumption they make is more problematic.  Behe and Snoke model an MR feature as something requiring specific amino acid changes at specifc parts of the gene in question.  However, natural evolution doesn't work like that; there are no predefined targets, there is simply selection for whatever confers a relative survival and reproductive advantage.  Obviously, it's much more difficult to randomly hit a specific target than it is to hit any one of a large number of potential targets.  Behe and Snoke mention this in their discussion (page 11):
+
+<quote>Such numbers seem prohibitive.  However,we must be cautious in interpreting the calculations.  On the one hand, as discussed previously, these values can actually be considered underestimates because they neglect the time it would take a duplicated gene initially to spread in a population.  On the other hand, because the simulation looks for the production of a <i>particular</i> MR feature in a <i>particular</i> gene, the values will be overestimates of the time necessary to produce <i>some</i> MR feature in <i>some</i> duplicated gene.  In other words, the simulation takes a prospective stance, asking for a certain feature to be produced, but we look at modern proteins retrospectively.  Although we see a particular disulfide bond or binding site in a particular protein, there may have been several sites in the protein that could have evolved into disulfide bonds or binding sites,or other proteins may have fulfilled the same role.  For example, Matthews' group engineered several nonnative disulfide bonds into lysozyme that permit function (Matsumura et al.1989).  We see the modern product but not the historical possibilities.</quote>
+
+(Emphasis original)
+
+This section seemed to be added almost as an afterthought, and unfortunately Behe and Snoke do not fully explore what this means for their model.  At the very least, it biases their numbers considerably upward.  A more realistic scenario, in which <i>any</i> available target can be reached, would result in a much smaller number of generations and/or smaller required population sizes.  (To be fair, it would be difficult to model such a scenario.)  At worst, the fact that they only consider specific changes at specific locations makes their model meaningless, because it assumes a fundamentally different process than the one that occurs in nature.   
+
+Here are a few major reasons why the assumption of "One True Target Sequence" is unwarranted. 
+
+1.  There may be more than one way of achieving a given function.  The example they give (Matsumura et al., 1989) of multiple disulfide bonds able to confer stability to a protein is but one example of this.  When dealing with enzyme catalysis, or ligand binding for example, there are usually many potential sites on a protein that could be modified to confer the function.
+
+2.  A gene duplicate may acheive one of a large multitude of possible functions, rather than a specific function as assumed by Behe and Snoke.  The number of <i>possible</i> functions that a given gene duplicate can reach with a small number of mutations is undoubtedly hard to ascertain, but appears to be a common phenomenon given the existence of large, related gene families which carry out a large variety of functions.
+
+3.  There are likely to be, at any given time, a large number of duplicated genes within a population.  The odds of <i>any</i> of these genes gaining a new function is clearly higher than the chances of any one specific gene gaining a new function.  (Behe and Snoke assume one gene duplicate per member of the population at a given time.)
+
+[u]Subfunctionalization vs. Neofunctionalization[/u]
+
+As previously stated, Behe and Snoke are very conscientious to state up front most of their assumptions and explain how they affect their model.  Among other things, their model assumes only point mutations (no insertions, deletions, inversions, transpositions, etc).  It also ignores the effects of recombination, which is an important process in evolution.  Behe and Snoke justify this by noting that simplifying assumptions are necessary to make the modeling tractable, and the model is worthwhile even if it only explores the efficacy of a very simple scenario.  However, this is only the case if the scenario can be said to be plausible in and of itself. 
+
+For example their model assumes a simplified "neofunctionalization" model of novel gene evolution.  The scenario works as follows:  A gene duplicates, resulting in two copies of the same gene.  Because one copy continues to provide the ancestral function, the other copy is redundant, and thus has relaxed selective pressure.  The redundant copy is then free to accumulate mutations, either those that give the gene a new activity, or those that inactivate the gene and render it completely nonfunctional, which then results in a pseudogene.  However, as the authors explain (see page 8), this simplified scenario may be the exception to the rule.  Most gene duplicates probably experience a "subfunctionalization" or similar scenario, in which both gene copies are maintained by selection for different ancestral activities.  Since selection is opperating more or less continuously in these scenarios, null mutations should be weeded out, increasing the likelihood for a novel feature to evolve.  
+
+Behe and Snoke are not the first to conclude that the "classic" neofunctionalization model is probably insufficient to explain the observed rate of duplicate gene preservation.  Lynch and Force (2000) write, 
+
+<quote>Under the classical model of gene duplication, nonfunctionalization of one member of the pair by degenerative mutation has generally been viewed as inevitable unless the fixation of a silencing mutation is preceded by a mutation to a novel beneficial function. However, there now appear to be several plausible mechanisms for the preservation of duplicate genes (CLARK 1994 ; NOWAK et al. 1997 ; FORCE et al. 1999 ; STOLTZFUS 1999 ; WAGNER 1999 ). [...]
+
+There is, however, nothing inherent in the DDC [aka, subfunctionalization] model that denies the significance of gene duplication in the origin of evolutionary novelty.  Indeed, the subfunctionalization process may facilitate such evolution by preserving gene duplicates and maintaining their exposure to natural selection and/or by removing pleiotropic constraints.</quote>
+  
+Unfortunately, Behe and Snoke's model cannot be applied to situations other than a simplistic neofunctionalization scenario, in which a gene duplicate has completely relaxed selection up to the point where the MR feature evolves.  In fact, it may not even apply to their own examples.  Let's return to the example of the evolution of the 2,3-diphosphoglycerate binding site of hemoglobin.  The assumed scenario (which is wrong) is that the hemoglobin protein would have needed to receive 3 amino acid substitutions in order to confer 2,3-diphosphoglycerate binding.  However, unlike in the model of Behe and Snoke, where these substitutions would have needed to have occured before a null mutation rendered the protein useless, the hemoglobin protein would have been under continuous selection for it's main function while the binding site evolved.  Null mutations would have been weeded out.  
+
+It's worth noting, again, that Behe and Snoke are upfront about this problem.  This is not a case of their having overlooked an important exception, or an attempt to mislead anyone through omission.  It does, however, make one question how likely it is that their model applies to actual biological situations.  
+
+[u]Rho-Oh![/u]
+
+Finally, there is another assumption that goes into the model that directly affects the results.  This one has to do with Behe and Snoke's estimation of the frequency of null mutations.  The parameter they factor into their model is called <i>rho</i>, as in the Greek letter.  <i>Rho</i> is defined as the ratio of null mutations to "compatible" mutations that contribute to the new function.  Here they give an example:
+
+<quote>
+As an example, consider a gene of a thousand nucleotides. If a total of 2400 point mutations of those positions would yield a null allele, whereas three positions must be changed to build a new MR feature such as a disulfide bond, then [rho] would be 2400/3, or 800. (Any possible mutations which are
+neutral are ignored.)</quote>
+
+I had a hard time understanding how they got 2400 null mutations from a gene of 1000 nucleotides long.  A gene of that size has 3000 possible point mutations, since each nucleotide can change into one of the remaining three.  But thanks to the degeneracy of the <a href="http://wiki.cotch.net/index.php/Genetic_code">genetic code</a>, about 1/3 of these will be "silent", because they won't affect the amino acid sequence of the protein.  Since Behe and Snoke are ignoring neutral mutations, that should leave a maximum of about 2000 non-neutral mutations.  How are they coming up with 2400?  
+
+It seemed like such a simple miscalculation that I figured the problem had to be with me.  So I emailed Michael Behe and asked about how the 2400 number was reached.  He graciously replied the next day, but since I didn't ask permission, I won't reproduce his response here.  But he basically said that, first, that part was intended only for illustrative purposes, which is certainly fairt.  He also said that mutations in noncoding portions of the gene (which control regulation) could also render it nonfunctional, which tends to push the number upward.  However, I don't see this as being valid no matter how one looks at it; noncoding DNA wasn't taken into account <i>anywhere</i> in their model, and a new gene duplicate doesn't necessarily need regulation anyway.  Either it can be regulated by a neighbor's regulatory region (for example, its parent gene), or if its regulatory regions are nullified, it can be turned "on" constantly.  But the real kicker is that the number was based on assuming that around half of amino acid changes would result in a nonfunctional protein.  Okay... but the example uses <i>nucleotides</i>, and more importantly, the simulations they do factor in <i>nucleotide</i> changes and not amino acid changes.  For example...
+
+<quote>For example, consider a case where three nucleotide changes must be made to generate a novel feature such as a disulfide bond. In that instance, Figure 6 shows that a population size of approximately 10^11 organisms on average would be required to give rise to the feature over the course of 10^8 generations</quote>
+
+And later...
+
+<quote>The population size required to produce an MR feature consisting of three interacting residues by point mutation in a duplicated gene initially lacking those residues would depend on the number of nucleotides that had to be changed?a minimum of three and a maximum of nine. If six mutations were required then, as indicated by Figure 6, on average a population size of ~10^22 organisms would be necessary to fix the MR feature in 10^8 generations...</quote>
+
+It's clear they're using nucleotides substitutions in their model.  This is critical, because if they used amino acid changes instead, the number of changes required to produce the MR feature (what they call <i>lambda</i>) would be about half as many, and this would revise their numbers strongly downward.  On the other hand, if we use nucleotides to calculate <i>rho</i>, then that figure should be a great deal less, which also revises their numbers downward.  (My opinion is that nucleotides should be used consistently.)  It's much less likely that a nucleotide substitution will be detrimental than an amino acid substitution.  Aside from silent mutations, the genetic code favors conservative substitutions, and disruptive amino acids (like tryptophan) tend to be coded for infrequently.  Using nucleotides rather than amino acids automatically factors this in.  
+
+The simulations run by Behe and Snoke set <i>rho</i> to 1000.  
+
+
+<quote>A gene coding for a duplicate, redundant protein would contain many nucleotides. The majority of nonneutral point mutations to the gene will yield a null allele (again, by which we mean a gene coding for a nonfunctional protein) because <b>most</b> mutations that alter the amino acid sequence of a protein effectively eliminate function (Reidhaar-Olson and Sauer 1988, 1990; Bowie and Sauer 1989; Lim and Sauer 1989; Bowie et al. 1990; Reidhaar-Olson and Sauer 1990; Rennell et al. 1991; Axe et al. 1996; Huang et al. 1996; Sauer et al. 1996; Suckow et al. 1996).</quote>
+
+(emphasis added)
+
+And later they quantify what they mean by "most":
+
+<quote>An estimate of [rho] can be inferred from studies of the tolerance of proteins to amino acid substitution. Although there is variation among different positions in a protein sequence, with surface residues in general being more tolerant of substitution than buried residues, it can be calculated that on average a given position will tolerate about six different amino acid residues and still maintain function (Reidhaar-Olson and Sauer 1988, 1990; Bowie and Sauer 1989; Lim and Sauer 1989; Bowie et al. 1990; Rennell et al.1991; Axe et al. 1996; Huang et al. 1996; Sauer et al. 1996; Suckow et al. 1996). Conversely, mutations to an average of 14 residues per site will produce a null allele, that is, one coding for a nonfunctional protein. Thus, in the coding sequence for an average-sized protein domain of 200 amino acid residues, there are, on average, 2800 possible substitutions that lead to a nonfunctional protein as a result of direct effects on protein structure or function.  If several
+mutations are required to produce a new MR feature in a protein, then [rho] is roughly of the order of 1000.</quote>
+
+Here we can see that Behe and Snoke assume that about 70% of amino acid substitutions will result in a nonfunctioning protein.  But this is almost certainly a vast overestimate.  The best estimate for a protein's tolerance to random amino acid change comes from a recent paper from Guo and coworkers (2004), in which they calculate, through direct empirical investigation, that 34 +/- 6% of random amino acid changes will eliminate protein function (what they call the protein's "x factor").  They find this to be in accord with similar studies using a broad array of proteins.  In fairness to Behe and Snoke, they couldn't have known about Guo <i>et al</i> since it was published right about the time that their own paper was accepted.  But the papers that they cite don't support the 70% figure either.  Each of those studies either applies mutagenesis only to a conserved region (typically the hydrophobic core or an active site), or they mutate more than one amino acid at a time, or both.    
+
+Consider Axe <i>et al</i> 1996, which Behe and Snoke cite in support of their 70% estimate.  In this study, the researchers applied random mutagenesis to the hydrophobic core of the enzyme barnase.  They didn't just mutate one amino acid at a time, they mutated the whole lot.  Not only is the hydrophobic core expected to be much less tolerant to mutation than the protein as a whole, it's also expected that multiple amino acid changes should be less easily tolerated than single mutations.  Yet despite all that, 23% of their variants were functional, far greater than expected.  This means that 77% were nonfunctional, which would accord well with Behe and Snoke's estimate, if only this were what they were estimating.  But what they're actually estimating is the likelihood that a <i>single</i> amino acid change at a <i>random</i> location throughout the entire protein renders it nonfunctional.  Axe <i>et al</i> later did such an experiment (1998), and found that a big bad 5% of random mutations rendered barnase nonfunctional, far less than Guo's estimate of 34%.        
+
+Being off by this much wouldn't be such a big deal if not for the fact that <i>rho</i> factors prominently into Behe and Snoke's calculations.  Small changes in the value of <i>rho</i> make a large difference to the model, as the authors explain on page 11.  Behe and Snoke used a value of <i>rho</i> set at 1000 for their examples, which they explain in the quoted section above.  But now let's take their example and figure out what a more realistic value of <i>rho</i> should be.  A 200 amino acid protein will have a coding region of 600 nucleotides, which has 1800 possible point mutations.  Guo <i>et al</i> (2004) calculate a value for the nucleotide "x factor", based upon the protein "x factor, but taking into account silent mutations.  The number they get is 26%.  We can therefore assume that 26% of our 1800 mutations will be eliminate function, which gives us 486.  So [rho] should be 486 divided by the number of mutations necessary to produce the MR feature.  No matter what, it will be substantially less than the 1000 figure that Behe and Snoke use.  In the example with disulfide bonds, where the MR feature is assumed to require 3 nucleotide changes, <i>rho</i> would be 162.  In the example with DPG binding, where they assume 6 required changes, <i>rho</i> would be 81.  
+  
+
+[u]How unlikely are the evolution of MR features?[/u]
+
+Despite using assumptions that render their model <i>way</i> pessimistic, the population size and generation time that Behe and Snoke calculate is not prohibitive for the types of organisms (haploid, asexual) that it is most applicable to.  The authors conclude that population sizes of 10^9 would require at least 10^8 generations to evolve an MR feature under their model.  And while this does seem prohibitive for large, multicellular eukaryotes, it's actually easily achievable for bacteria.  A population size of 10^9 is what one would find in a very small culture growing in a lab; even small handfuls of dirt, or the average human gut, will contain popuations in excess of this number.  Bacteria reproduce quickly; under opitmal conditions for <i>E. coli</i>, 10^8 generations will occur in less than 40,000 years, a geological blink of the eye.  Given that there are about 5*10^30 bacteria on Earth (Whitman et al, 1998), we should expect the evolution of novel MR features to be an extremely common event -- an average of many times per microsecond -- even if we accept Behe and Snoke's unrealistic assumptions.  Since we can be confident that their numbers are a vast overestimate, Behe and Snoke have ironically demonstrated that the evolution of novel gene functions is highly likely, and hardly a conundrum for evolution by Darwinian means.  And yet, it has been a long standing claim of the ID movement that the evolution of "new information" simply <i>cannot happen</i>, period.  Behe and Snoke have done us the favor of disproving this bogus notion once and for all.  
+
+[u]Conclusion[/u]
+
+We'd again like to thank Behe and Snoke for 
+
+
+
+Axe, et al.  "A search for single substitutions that eliminate enzymatic function in a bacterial ribonuclease."  Biochemistry. 1998 May 19;37(20):7157-66
+
+Guo, et al.  "Protein tolerance to random amino acid change."  PNAS. 2004 Jun 22;101 (25):9205-10.
+
+Whitman, et al. "Prokaryotes: the unseen majority."  PNAS, 1998 Jun 9;95(12):6578-83.

@@ -1,0 +1,159 @@
+---
+layout: article
+title: Distributed robustness versus redundancy as causes of mutational robustness
+date: '2006-07-09 15:22:17 -0700'
+mt_id: 2340
+blog_id: 2
+post_id: 2340
+basename: distributed_rob
+published: false
+---
+Some Intelligent Design Evangelical Activists (IDEA'ers) have made the claim that the existence of robustness in organisms should count as evidence for Intelligent Design. After all, the argument goes, we know how Intelligent Designers (us) use redundancy to increase the robustness of systems against failure. As an example, Salvador Cordova (YEC), has presented the redundancy in magnetos in airplanes as an example of designed robustness.
+
+Based on this we can present the following Intelligent Design Prediction:
+
+<quote>Intelligent Design predicts that organisms while show robustness in their designs through redundant systems (backup systems)</quote>
+
+Alernate versions 
+
+<quote author="Salvador Cordova (YEC)">Redundancy or contingency designs are weakly selectable (for reasons I hope are obvious), and the "arrival of redundancy" is not easily justified as the work of a blind watchmaker because such designs are indicative of foresight to environmental conditions rather than to immediate short term organismal needs.</quote>
+
+<quote author="Salvador Cordova (YEC)>Sal: That's exactly what is wrong with the fitness view of life. Organism with redundant backup systems will allow multiple knockouts of systems with little or no effect on fitness, overlooking the obvious fact function exists!</quote>
+
+And the followign corollary
+
+<quote author="Sal">Think about the ability to knock out genes without any phenotypic effect. How do such capabilities arrive in an organism since they are not immediately visible to natural selection? This is the kind of complexity invisible to Dawkins blind watchmaker, so how could it possibly evolve? This suggests that natural selection had little to do with the origination of these capabilities.</quote>
+
+The latter 'prediction' shows once again the scientific vacuity of Intelligent Design. By narrowly focusing on selection, the larger picture of robusness is missed. As I will show, simple evolutionary mechanisms of gene duplication and preferential attachment are sufficient to explain the existence of degeneracy in nature. In addition, the degeneracy found in the genetic code, which contributes to its neutrality, can be shown to not only be essential for evolvability but can also be shown to be a selectable feature.
+
+As I will show, Intelligent Design's Prediction is contradicted by various evidences, including the observation that natural processes such as gene duplication explain redundant design and the fact that biological systems show strong evidence of degeneracy or 'distributed redundancy' and not the kind of backup systems envisioned by Intelligent Design.
+
+Note: The concepts of evolvability, neutrality, redundancy, degeneracy, scale free systems all deserve a more detailed treatment. Over time I have addressed various of these concepts and I hope to contribute a series of new postings, expanding on these concepts to show how science explains these features, and also show how Intelligent Design fails in these areas. Also another concept of convergence will be discussed, and I intend to show how evolutionary processes can help understand convergence as an inevitable outcome
+
+<!--more-->
+
+I will be relying on the recent paper by Andreas Wagner titled <b>Distributed robustness versus redundancy as causes of mutational robustness</b> published in BioEssays 27:176--188, 2005
+
+<quote>
+<b>Summary</b> A biological system is robust to mutations if it continues to function after genetic changes in its parts. Such robustness is pervasive on different levels of biological organization, from macromolecules to genetic networks and whole organisms. I here ask which of two possible causes of such robustness are more important on a genome-wide scale, for systems whose parts are genes, such as metabolic and genetic networks. The first of the two causes is redundancy of a system's parts: A gene may be dispensable if the genome contains redundant, back-up copies of the gene. The second cause, distributed robustness, is more poorly understood. It emerges from the distributed nature of many biological systems, where many (and different) parts contribute to system functions. I will here discuss evidence suggesting that distributed robustness is equally or more important for mutational robustness than gene redundancy. This evidence comes from the functional divergence of redundant genes, as well as from large-scale gene deletion studies. I also ask whether one can quantify the extent to which redundancy or distributed robustness contribute to mutational robustness.
+</quote>
+
+
+So let's first define a few of the terms used since these concepts have led to some unnecessary confusion amongst those unfamiliar with their proper scientific definitions [1]
+
+<b>Robustness</b>: A system is robust if changes to the system minimally affect the system's ability to function.
+
+<b>Redundancy</b> Identical systems perform identical functions (backup systems)
+
+<b>Distributed Redundancy</b> Dissimilar systems perform overlapping functions (aka <b>degeneracy</b>)
+
+<b>Evolvability</b>
+
+<quote author="Wagner">
+The word evolvability has two main usages [1--4]. According to the first of them 
+
+a biological system is evolvable
+
+if its properties show heritable genetic variation, and if natural selection can thus change these properties.
+
+A second usage ties evolvability to evolutionary innovations: 
+
+a biological system is evolvable
+if it can acquire novel functions through genetic change, functions that help the organism survive and reproduce.
+</quote>
+
+[1] Kirschner, M. and Gerhart, J. (1998) Evolvability. Proceedings of the National Academy of Sciences of the United States of America 95, 8420--8427.
+[2] Gerhart, J. and Kirschner, M. (1998) Cells, Embryos, and Evolution, Blackwell, Boston.
+[3] Dawkins, R. (1989) in: Artificial Life: The Proceedings of an Interdisciplinary Workshop on the Synthesis and Simulation of Living Systems (Langton, C.G., Ed.), Addison-Wesley, Redwood City, CA.
+[4] Poole, A., Phillips, M. and Penny, D. (2003) Prokaryote and eukaryote evolvability. Biosystems 69, 163--185.
+
+<b>Source: </b> Andreas Wagner, <b>Hypothesis Robustness, evolvability, and neutrality</b> <i>FEBS Letters</i> 579 (2005) 1772--1778
+
+Before I continue let me point out that the term <b>degenerate</b> has a very distinct meaning in science and should not be confused (or conflated) with the more common definitions.
+
+<quote>deÂ·genÂ·erÂ·ate   Audio pronunciation of "degenerate" ( P )  Pronunciation Key  (d-jnr-t)
+adj.
+
+   1. Having declined, as in function or nature, from a former or original state: a degenerate form of an ancient folk art.
+   2. Having fallen to an inferior or undesirable state, especially in mental or moral qualities.
+   3. Physics. Relating to two or more quantum states that share the same quantum numbers: degenerate energy levels.
+   4. Physics. Characterized by great density and consisting of atoms stripped of electrons: degenerate matter.
+   5. Medicine. Characterized by degeneration, as of tissue, a cell, or an organ.
+   6. Biology. Having lost one or more highly developed functions, characteristics, or structures through evolution: a degenerate life form.
+   7. Genetics. Having more than one codon that may code for the same amino acid.
+
+n.
+
+   1. A depraved, corrupt, or vicious person.
+   2. A person lacking or having progressively lost normative biological or psychological characteristics.
+
+</quote>
+<b>Source</b>: <url href="http://dictionary.reference.com/search?q=degenerate">Dictionary.com</url>
+
+Given the above definitions, the relevant ones are 3 and 7. 
+
+Degeneracy is a term used to describe the fact that multiple codons in the genetic code encode the same amino acid. This 'neutrality' in the genetic code will become very relevant later. Beginning with Edelman, the term degeneracy or degenerate  has come to mean 
+
+<quote author="Edelman">Degeneracy, the ability of elements that are structurally different to perform the same function or yield the same output, is a well known characteristic of the genetic code and immune systems. Here, we point out that degeneracy is a ubiquitous biological property and argue that it is a feature of complexity at genetic, cellular, system, and population levels. Furthermore, it is both necessary for, and an inevitable outcome of, natural selection.</quote>
+
+and
+
+<quote>Degeneracy is the ability of elements that are structurally different to perform the same function or yield the same output. Unlike redundancy, which occurs when the same function is performed by identical elements, degeneracy, which involves structurally different elements, may yield the same or different functions depending on the context in which it is expressed. It is a prominent property of gene networks, neural networks, and evolution itself. Indeed, there is mounting evidence that degeneracy is a ubiquitous property of biological systems at all levels of organization.</quote>
+
+<b>Source:</b> Gerald M. Edelman and Joseph A. Gally <b>Degeneracy and complexity in biological systems</b>,  PNAS | November 20, 2001 | vol. 98 | no. 24 | 13763-13768 
+
+Edelman et al point out that the terminology has been historically inexact
+
+<quote>As more and more examples of degeneracy are reported, this common property of biological systems has become a topic of interest in its own right. But, somewhat like the purloined letter in Poe's famous story, although in plain view, it often has been overlooked. For example, in some of the cases to be reviewed here, the term "functional redundancy" has been applied, usually to elements at the same level, such as duplicated genes. This usage ignores one of the critical features of degeneracy: that different structures have similar consequences. In contrast, redundancy, considered at the structural level, refers to the function of identical elements. Furthermore, the term redundancy somewhat misleadingly suggests a property selected exclusively during evolution, either for excess capacity or for fail-safe security. We take the contrary position that degeneracy is not a property simply selected by evolution, but rather is a prerequisite for and an inescapable product of the process of natural selection itself.</quote>
+
+
+The other relevant paper by Edelman is
+
+Giulio Tononidagger , Olaf Sporns, and Gerald M. Edelman, <b>Measures of degeneracy and redundancy in biological networks</b> PNAS Vol. 96, Issue 6, 3257-3262, March 16, 1999
+
+<quote>
+<b>Abstract</b>Degeneracy, the ability of elements that are structurally different to perform the same function, is a prominent property of many biological systems ranging from genes to neural networks to evolution itself. Because structurally different elements may produce different outputs in different contexts, degeneracy should be distinguished from redundancy, which occurs when the same function is performed by identical elements. However, because of ambiguities in the distinction between structure and function and because of the lack of a theoretical treatment, these two notions often are conflated. By using information theoretical concepts, we develop here functional measures of the degeneracy and redundancy of a system with respect to a set of outputs. These measures help to distinguish the concept of degeneracy from that of redundancy and make it operationally useful. Through computer simulations of neural systems differing in connectivity, we show that degeneracy is low both for systems in which each element affects the output independently and for redundant systems in which many elements can affect the output in a similar way but do not have independent effects. By contrast, degeneracy is high for systems in which many different elements can affect the output in a similar way and at the same time can have independent effects. We demonstrate that networks that have been selected for degeneracy have high values of complexity, a measure of the average mutual information between the subsets of a system. These measures promise to be useful in characterizing and understanding the functional robustness and adaptability of biological networks.</quote>
+
+The concepts of degeneracy, scale free networks, evolvability, modularity and robustness will be shown to all come together as a scientific foundation for evolutionary theory. See for instance Andreas Wagner, <b>Hypothesis: Robustness, evolvability, and neutrality</b>, FEBS Letters 579 (2005) 1772--1778
+
+<quote>
+<b>Abstract</b> Biological systems, from macromolecules to whole organisms, are robust if they continue to function, survive, or reproduce when faced with mutations, environmental change, and internal noise. I focus here on biological systems that are robust to mutations and ask whether such systems are more or less evolvable, in the sense that they can acquire novel properties. The more robust a system is, the more mutations in it are neutral,
+that is, without phenotypic effect. I argue here that such neutral change -- and thus robustness -- can be a key to future evolutionary innovation, if one accepts that neutrality is not an essential feature of a mutation. That is, a once neutral mutation may cause phenotypic effects in a changed environment or genetic background. I argue that most, if not all, neutral mutations are of this sort, and that the essentialist notion of neutrality should be abandoned. This perspective reconciles two opposing views on the forces dominating organismal evolution, natural selection and random drift: neutral mutations occur and are especially abundant in robust systems, but they do not remain neutral
+indefinitely, and eventually become visible to natural selection, where some of them lead to evolutionary innovations.</quote>
+
+
+
+Wagner has performed much research in this area, including experimental research
+
+Robustness against mutations in genetic networks of yeast. Nat Genet. 2000 Apr;24(4):355-61.
+
+<quote> There are two principal mechanisms that are responsible for the ability of an organism's physiological and developmental processes to compensate for mutations. In the first, genes have overlapping functions, and loss-of-function mutations in one gene will have little phenotypic effect if there are one or more additional genes with similar functions. The second mechanism has its origin in interactions between genes with unrelated functions, and has been documented in metabolic and regulatory gene networks. Here I analyse, on a genome-wide scale, which of these mechanisms of robustness against mutations is more prevalent. I used functional genomics data from the yeast Saccharomyces cerevisiae to test hypotheses related to the following: if gene duplications are mostly responsible for robustness, then a correlation is expected between the similarity of two duplicated genes and the effect of mutations in one of these genes. My results demonstrate that interactions among unrelated genes are the major cause of robustness against mutations. This type of robustness is probably an evolved response of genetic networks to stabilizing selection.</quote>
+
+See also Robustness it's not where you think it is by Ken Wolfe nature genetics, volume 25(1) 3-4, may 2000
+
+<hr>
+[1] Salvador Cordova on <url href="http://evolutionanddesign.blogsome.com/2006/06/30/dawkins-fails-to-deliver/#comment-413">Dawkins Fails to Deliver</url> at Evolution And Design Blog, June 30, 2006
+
+<quote author="Sal">
+<quote>    Matt wrote of my comment:
+
+    "In sum, PvM views biology as degenerate, I view it as alive and robust."
+    That's a cute soundbite 
+</quote>
+
+Why thank you.
+
+<quote author="Sal">
+Dictionary definitions of degeneracy:
+
+    1. The process of degenerating.
+
+    2. The state of being degenerate.
+
+    3. Corrupt, vulgar, vicious behavior, especially sexual perversion. 
+</quote>
+
+Progressive evolution via degeneracy. The fact this word is used by biologists to describe their field only shows their bias.
+
+Life, robustness, and intelligent design are much nicer concepts to describe biology.
+</quote>

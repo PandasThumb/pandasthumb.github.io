@@ -1,0 +1,59 @@
+---
+layout: article
+date: '2007-05-20 19:44:52 -0700'
+mt_id: 3030
+blog_id: 2
+post_id: 3030
+basename: denyse_further
+published: false
+---
+
+
+<quote>Brembs and his colleagues reasoned that if fruit flies (Drosophila melanogaster) were simply reactive robots entirely determined by their environment, in completely featureless rooms they should move completely randomly. To investigate this idea, the international team of researchers glued the insects to small copper hooks in completely uniform white surroundings, a kind of visual sensory deprivation tank. These flies could still beat their wings and attempt to turn.</quote>
+
+They found that 
+
+<quote>Specifically, their behavior seemed to match up with a mathematical algorithm called Levy's distribution, <b>commonly found in nature</b>. Flies use this procedure to find meals, as do albatrosses, monkeys and deer. Scientists have found similar patterns in the flow of e-mails, letters and money, and in the paintings of Jackson Pollock, Brembs said.</quote>
+
+<url href="http://www.msnbc.msn.com/id/18684016/">Source MSNBC</url>
+
+The first thing to understand is that 
+
+<quote>It is critical to emphasize at this point that the processes leading to behavioral indeterminacy may very well be deterministic: indeterministic output of deterministic systems is a well-known phenomenon</quote>
+
+The interesting findings showed that the distribution of flight direction and duration matched a Levy distribution not a random  Brownian motion. See <url href="http://chaos.utexas.edu/research/annulus/rwalk.html">this page</url> for some graphics showing how Levy and Brownian random walks differ.
+
+<quote>LÃ©vy flights, a special class of Markov processes, are scale invariant and often associated with power-laws described in many other systems [39]--[41]. A LÃ©vy flight can be conceptualized as a process which first chooses a direction at random and then keeps flying for a distance drawn at random from a LÃ©vy distribution [42]. The Cox process, although not working in this way, still yields a LÃ©vy distribution. It has also been proposed that systems with a large number of nonlinearly coupled subsystems also may exhibit LÃ©vy distributions [43], [44]. Clearly, "the presence of such distributions tells us nothing about the mechanisms that give rise to them" [45]. Notwithstanding, all the more common stochastic processes which can give rise to LÃ©vy distributions imply second-order (or conditional) stochastics. These processes share the property that the conditional probability distribution of the next step depends only on their current state and not on the steps in the past (i.e., no memory). The Cox process is a classic representative of this class of conditional stochastic processes.</quote>
+
+<url href="http://www.plosone.org/article/fetchArticle.action?articleURI=info:doi/10.1371/journal.pone.0000443#pone-0000443-g001">Order in Spontaneous Behavior</url>
+
+So how can science explain the 'evolution' of Levy distributions? Science provides some insight into this and makes predictions
+
+<quote>An important application involving two-species reaction-diffusion systems relates to the problem of finding the best statistical strategy for optimizing the encounter rate between organisms. We investigate the general problem of how the encounter rate depends on whether organisms move in Levy or Brownian random walks. By simulating a limiting generalized searcher-target model (e.g., predator-prey, mating partner, pollinator-flower), we find that Levy walks confer a significant advantage for increasing encounter rates when the searcher is larger or moves rapidly relative to the target, and when the target density is low.
+</quote>
+<url href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=11864054">Optimizing the encounter rate in biological interactions: Levy versus Brownian strategies.</url> Phys Rev Lett. 2002 Mar 4;88(9)
+
+
+
+In other words, Levy random walks confer an advantage for finding food, mates etc when a) the searcher is larger b) the searcher moves fast c) the target density is low.
+
+Some interesting research has shown how the switch from Brownian to Levy random walks is exactly what takes place when target densities are lowered in C. Elegans. More importantly this switch is under genetic control. What more could a scientist hope for here.
+
+<quote>
+What is the statistical foraging strategy of C. elegans? A common model to describe the foraging movements of organisms is the random walk, in which the duration and direction of the forward movement of the organism is chosen randomly. A variation on this strategy allows for taxis. For example, an organism can perform chemotaxis - biasing its motion along a chemical gradient towards an attractant or away from a repellant - by correlating the duration of forward movements with the changes in sensory input.  In the absence of any such sensory stimuli, an important question is what statistical strategy will be the most efficient? Or more specifically, from what distribution should the organism choose the duration of its forward movements? It has been suggested that for randomly distributed targets it is more efficient to perform a Levy walk than a Brownian walk. A Levy walk is a random walk in which the run lengths have a power-law distribution ( P(l) Âµ l-Î¼ , for large l, 1 < Î¼ < 3 ), and a Brownian walk is a random walk in which the run lengths have an normal distribution (Î¼ > 3). More specifically it has been shown that for sparsely distributed targets, the optimal value of Î¼ is 2. It is known that the turning frequency of C. elegans decreases as a function of time away from food. In order to quantify this behavior we are using the tracking microscope to measure trajectories of worms freely crawling on agar plates. We can show that C. elegans in the absence of food performs a Brownian walk initially (Î¼ > 3) and shifts to a Levy walk (Î¼ ~ 2) after a period of about 15 minutes. Through Monte Carlo simulations, we show that this behavior is in fact more efficient than either a Brownian walk or Levy walk alone. We also show that the statistical strategy is under genetic control. Dopamine receptor mutants, dop-2, show Brownian behavior at early and late times, while dop-3 mutants show Levy walk behavior at early and late times. We are continuing to explore how this statistical control of strategy is controlled through hormonal neurotransmitter systems of the worm.
+</quote>
+
+<url href="http://www.genomics.princeton.edu/ryulab/">Source</url>
+
+and
+
+<quote>The searching trajectories of different animals can be described with a broad class of flight length (lj) distributions with P(lj) = lj-mu. Theoretical studies have shown that changes in these distributions (i.e., different mu values) are key to optimizing the long-term encounter statistics under certain searcher-resource scenarios. In particular, they predict the advantage of Levy searching (mu approximately 2) over Brownian motion (mu > or = 3) for low-prey-density scenarios. Here, we present experimental evidence of predicted optimal changes in the flight-time distribution of a predator's walk in response to gradual density changes of its moving prey. Flight times of the dinoflagellate Oxyrrhis marina switched from an exponential to an inverse square power-law distribution when the prey (Rhodomonas sp.) decreased in abundance. Concomitantly, amplitude and frequency of the short-term helical path increased. The specific biological mechanisms involved in these searching behavioral changes are discussed. We suggest that, in a three-dimensional environment, a stronger helical component combined with a Levy walk searching strategy enhances predator's encounter rates. Our results support the idea of universality of the statistical laws in optimal searching processes despite variations in the biological details of the organisms.
+</quote>
+
+<url href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?itool=abstractplus&db=pubmed&cmd=Retrieve&dopt=abstractplus&list_uids=14566048">Helical Levy walks: adjusting searching statistics to resource availability in microzooplankton</url> Proc Natl Acad Sci U S A. 2003 Oct 28;100(22):12771-5.
+
+In the end, the researchers  conclude that for the flies
+
+<quote>Our study supports the hypothesis that the nonlinear processes underlying spontaneous behavior initiation have evolved to generate behavioral indeterminacy: The choice of what behavior to produce in the next moment is rarely determinable exactly, but only probabilistically</quote>
+
+The findings also may be relevant to Paul Nelson's claims about the unpredictable nature of 'intelligence', while indeed we can capture behavior quite accurately as probabilities (advertising, and other behavior modification or predictions are highly successful in this area), predicting the behavior of any particular intelligence is much harder. Just like weather is much harder to predict due to the inherent chaotic nature, while climate is much easier to predict on much longer time scales because of the averaging over time and space.

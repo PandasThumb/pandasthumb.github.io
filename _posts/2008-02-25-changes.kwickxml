@@ -1,0 +1,10 @@
+---
+layout: article
+title: Changes
+date: '2008-02-25 14:17:51 -0700'
+mt_id: 3598
+blog_id: 2
+post_id: 3598
+basename: changes
+---
+Sometime late this week, I'm going to do some maintenance on the server and this website.  I'm going to experiment with enabling compression again.  Last time it broke page caching on IE 6.  So if you see that this page doesn't update any next week, then try cleaning out your cache (or use ctlr-r) and see if that fixes the problem.  Hopefully, it won't occur again.

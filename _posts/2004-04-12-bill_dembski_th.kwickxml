@@ -1,0 +1,62 @@
+---
+layout: article
+title: 'Bill Dembski: The Benefits of Reinventing the Wheel'
+date: '2004-04-12 16:50:11 -0700'
+mt_id: 382
+blog_id: 2
+post_id: 382
+basename: bill_dembski_th
+published: false
+---
+According to Cosma Shalizi, the variational information measure I describe in my paper "Information as a Measure of Variation" is not new (for his criticism, see here). I never claimed to be "introducing" a "new" measure of information (do a find-command in Adobe Acrobat on these or similar terms and you'll see that confirmed). Indeed, I was fully prepared that the measure had been introduced already. That's because (a) the mathematical machinery I was using is old (I was fully aware of that) and (b) this information measure is derived very naturally. To see that I'm not making this up, on July 28, 2004 I sent Jeffrey Shallit, Wesley Elsberry, Richard Wein, Thomas Schneider, Victor Stenger, and Mark Perakh (along with other critics) the following email (please note the second to last paragraph):
+
+
+<!--more-->
+
+
+<quote>    Dear Critics,
+
+    As I indicated in the preface to No Free Lunch, "my strategy in writing this book has been to include just enough technical discussion so that experts can fill in the details." Because the experts have not done this, the burden remains on me to fill in the technical details.
+
+    To begin to redress this burden, I'm planning a series of seven articles, collected together under the rubric Mathematical Foundations of Intelligent Design. Attached is the first installment: "Information as a Measure of Variation." Subsequent planned articles are:
+
+    "Uniform Probability and Bayesian Methods"
+    "Displacement"
+    "Specification"
+    "Universal Probability Bounds"
+    "Complex Specified Information"
+    "The Law of Conservation of Information"
+
+    I expect to place some of these articles in the mainstream statistics/probability/complexity literature. Once they are all finished, I plan to collect the articles in a straight mathematical monograph (perhaps with CUP in one of their lecture note series or with the IMS). Once this monograph is done, I plan to produce a second edition of The Design Inference (the book is now dated, needs to be cleaned up, and make its mathematical underpinnings clearer). I've already been in touch with CUP about this (though, sadly, Terry Moore, my editor at CUP, recently passed away).
+
+    I'm writing you because I want your scrutiny on this project. Certainly, I want the mathematics to be correct; I don't want to reinvent the wheel; and I want to be sure that the results are not trivial or being misinterpreted (by either side!). Also, I see this as a crucial phase in the debate over my own contribution to design-detection methods: whether my program ultimately succeeds will depend on being able to fill in the technical details that till now I've only addressed in part.
+
+    Future installments will be posted on my website (www.designinference.com) as well as on the ISCID website (www.iscid.org, look under the Archives).
+
+    Best wishes,
+    Bill Dembski
+</quote>
+
+I didn't expect my usual critics (e.g., Shallit, Elsberry, Wein, Schneider, Stenger, and Perakh) to point out where the measure would have been introduced because the paper is beyond their expertise. So it was passed on to Shalizi, who does have the requisite expertise and who noted that Alfred Renyi had in fact introduced it earlier (I gave the Hilbert space, or L^2, version, but Renyi developed a more general version). Thanks to Shalizi, I'll cite Alfred Renyi in future versions of my paper.
+
+So what's the problem? "Information as a Measure of Variation" is intended to be the first chapter in a monograph on the mathematical foundations of intelligent design. This chapter is supposed to lay some conceptual groundwork. As far as I'm concerned, it continues to do that job admirably. Mark Perakh, in his book Unintelligent Design (p. 90) criticizes my identification of information with the negative logarithm to the base two of a probability as "amateurish." In "Information as a Measure of Variation" I show that my "simplistic" definition generalizes in ways that Perakh can no longer follow mathematically and that, as I intend to show in future installments, is deeply significant for science.
+
+Out steps Perakh and in steps Cosma Shalizi to mount much the same criticism, though now at a higher level of sophistication. This time the charge is that there is no new mathematics in my paper. If I thought there were new mathematics here, I would have submitted the paper to a mathematics journal. Instead, I submitted it to Complexity. As anybody who has read this journal knows, its audience is quite diverse, with articles accessible to lay readers as well as quite technical articles (mine will fall on the technical side, perhaps too technical for Complexity). At any rate, it is not a mathematics journal, and I submitted my paper there fully conscious that its significance would lie in the insights it might generate for understanding evolving natural systems.
+
+Shalizi's criticism of my paper epitomizes why I got out of research mathematics. As a postdoctoral fellow at MIT in 1988, I was struck by how much of mathematics research was spent extending and refining (usually by some very small epsilon) existing results with no regard whatsoever for why those results were significant except for extending and refining existing results. If this sounds circular, it is. Shalizi's charge amounts to: "How disgusting! Your variational information measure was developed over forty years ago, and look at all the progress since then." My interest is in using this measure, applying it as a conceptual and analytical tool for understanding certain aspects of the natural sciences.
+
+As I see it, the merit of my paper consists in the following:
+
+   1. Showing that the negative logarithm to the base two of a probability is the canonical way to conceive of information, and that what the communication engineers have done by always averaging this measure distracts from the privileged place this measure has (or should have -- see especially the quotes by Fred Dretske in my paper).
+      .
+   2. Showing how this very simple way of conceiving information generalizes naturally and canonically to a more sophisticated way of understanding information, namely, in terms of the variational information. Note that this is the canonical extension. Alfred Renyi's generalization over and beyond the variational information is not canonical. Think of a curved manifold embedded in Euclidean space. Euclidean space has a canonical metric, and that metric extends only one way to the curved manifold in terms of geodesics. Sure, other metrics exist on the manifold that preserve the topology. But to extend the metric canonically, there is only one way to go. I argue a similar point in my paper.
+      .
+   3. Introducing a canonical continuity measure (the continuity spectrum) for informational paths with respect to the variational information. The canonicity of this measure is the crucial point. The Kantorovich-Wasserstein metric, on which the continuity spectrum is based, is the only way to fully extend the metric structure on a metric space to the probability measures sitting on that metric space. I argue this in my paper and, accordingly, argue that this gives a preferred way of understanding continuity of informational paths (i.e., a preferred information geometry). Shalizi dismisses my point by simply saying that the topic of information geometry has been well-explored. But the question remains whether the information geometry that I introduced (yes, here I am claiming priority) is just reinventing the wheel. Shalizi gives no evidence of familiarity with the Kantorovich-Wasserstein metric. What's more, the article by Streater that he cites, though describing a number of information geometries, does not describe the one I developed. Further, Shalizi's claim that "the continuity spectrum seems to be nothing more than a confused (and admittedly conjectural) grope towards the idea of distance and divergence measures" seems to concede that there is something new (albeit confused) but at the same time fails to acknowledge that the continuity spectrum is a perfectly well-defined mathematical notion (i.e., for a given informational path, the continuity spectrum has a given mathematical form). At any rate, Shalizi has presented nothing like a cogent argument to show that the notion cannot have useful applications.
+
+
+In conclusion, I want to thank Cosma Shalizi for the time he devoted to criticizing my paper. In future versions of it, I'll be citing Alfred Renyi and acknowledging Shalizi for the reference. Also, I would ask Shalizi, when he has the chance, to supply me with the proof of the conjecture on page 13 of my paper (a conjecture relating to the continuity spectrum). I'll be happy to remove the conjecture and replace it with an actual theorem along with his proof (giving Shalizi full credit).
+
+Or perhaps I've proven the conjecture myself already, and am simply using it to gauge whether critics of my paper are in fact qualified to criticize it.
+
+--------------------
+Bill Dembski

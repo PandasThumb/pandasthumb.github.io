@@ -1,0 +1,189 @@
+---
+layout: article
+title: 'Vacuity of ID: Nested Hierarchies'
+date: '2005-02-05 19:03:55 -0700'
+mt_id: 732
+blog_id: 2
+post_id: 732
+basename: vacuity_of_id_n
+published: false
+---
+Since I have found the ARN discussion boards unsuitable[1] for an in-depth discussion of these issues,  I have chosen Panda's Thumb for addressing some of the ID claims where a open discussion can take place of the merrits or lack thereof of his arguments.
+
+For many more examples of the vacuity of intelligent design, I suggest the reader checks the <a href="http://intelligentdesignexposed.blogspot.com/">The Vacuity of Intelligent Design</a> blogsite.
+<h>Hierarchies and Darwinian theory</h>
+
+Despite being corrected on <a href="http://www.pandasthumb.org/pt-archives/000373.html">Panda's Thumb</a>, Salvador is still repeating his unsupported claims that <a href="http://www.arn.org/ubb/ultimatebb.php/ubb/get_topic/f/13/t/001918/p/1.html#000007">Hierarchies for a problem for Darwinism</a>. Strangely enough Sal seems to rely on a paper titled <a href="http://www.dllab.caltech.edu/cns178/handouts/Proj4.pdf"> Using Avida to Test the Effects of Natural Selection on Phylogenetic Reconstruction Methods</a> which argues that:
+
+
+
+<!--more-->
+
+<quote>
+Phylogenetic trees group organisms by their ancestral relationships. There are a number of distinct algorithms used to reconstruct these trees from molecular sequence data, but different methods sometimes give conflicting results. Since there are few precisely known phylogenies, simulations are typically used to test the quality of reconstruction algorithms. These simulations randomly evolve strings of symbols to produce a tree, and then the algorithms are run with the tree leaves as inputs. Here we use Avida to test two widely-used reconstruction
+methods, which gives us the chance to observe the effect of  natural selection on tree reconstruction. <b>We find that if the organisms undergo natural selection between branch points, the methods will be successful even on very large time scales. However these algorithms often falter when selection is absent.</b>
+</quote>
+ 
+But Sal, rather than showing how Avida can support his claims, presents some strawmen examples of small genomes without addressing the self evident fact that a hierarchical tree is all but inevitable in evolution. The problem is whether or not such a hierarchy can be successully recovered using present day genetic data. The fact that such hierarchies can be reliably recovered using various 'markers' shows that indeed such hierarchies exist. Combined with the prediction that Darwinian mechanisms would result in such hierarchies, this provides for a powerful argument.
+
+Sal recently has discovered the well known concept of saturation ("If a non-silent mutation wanders off into the conserved regions, the hierachies starts to break down.") to which Myrmecos responds
+
+<quote>
+True enough. Sounds as cogent an explanation of saturation as I've heard.
+
+However, phylogeneticists have been aware of saturation for a long time and routinely test for it in their data sets. Given that saturation is easily detectable a priori and can be adequately addressed with the use of more appropriate genes, why is this such a deal-breaker?
+
+What do you make of the observation that data sets without saturation produce strongly hierarchical patterns, while those with saturation usually produce polytomies? Does this mean that Darwinian evolution is true for unsaturated genes, and false for saturated ones?
+</quote>
+
+A classic...
+
+RBH points out that
+
+<quote>
+That paper is a study of the conditions under which one can or cannot reconstruct phylogenetic trees from the end points of lineages known to be descended from a common ancestor. What Salvador has to show is that the conditions under which that reconstruction is not possible are the same conditions that characterize biological evolution. He has not done that.
+</quote>
+
+Next argument is 'fine tuning' 
+
+<quote>
+For example, I have in my Hartle and Clark book, the troubling fact, that for these hierachies to exists, different molecular clocks have to be fine tuned for each protein. Cytochrome-c and Haemoglobin must tick at different mutation rates to achieve equidistance that we see expemplified in the Dayhoff diagram.
+</quote>
+
+I am not sure what Sal is trying to say here.
+
+<quote>
+And Denton pointed out insects like cicadas and fruit-flies. The fruit-fly regenerates 400 times faster than the cicada. Given the two branched off supposedly 50 million years ago, the fact that fruit flies and cicadas are equally distant from the vertebrates is astonishing. "Survival of the fittest" evolution, or whatever it should be called, does not strike me as needing to create such perfectly timed molecular clocks (if such clocks really exist). A clock, or watch afterall echoes Paley and not Dawkins.
+</quote>
+
+See for an actual table of distance data <a href="http://members.cox.net/ardipithecus/evol/lies/lie011.html">Equidistant Proteins Disprove Evolution?</a>
+
+Wesley Elsberry provides a good overview <a href="http://www.rtis.com/nat/user/elsberry/evobio/evc/argresp/sequence.html">here</a>
+
+the following two graphs are important
+
+<img src="http://www.rtis.com/nat/user/elsberry/evobio/evc/argresp/sequence4.gif"/>
+and
+<img src="http://www.rtis.com/nat/user/elsberry/evobio/evc/argresp/sequence5.gif"/>
+
+<quote>
+Notice how these two agree closely from Lamprey through Tetrahymena. The two do produce one anomaly, which is that the comparison to humans suggests that humans shared a more recent common ancestor with mice than with the equids, while the comparison to mice suggests that the mice shared a more recent common ancestor with equids than with the primates. However, the percent homology difference in any of these is less than 5%. It would be foolhardy to try to make definitive statements about the last common ancestor of relatively closely related groups based upon the results of looking at one highly conserved protein. In order to resolve such differences, gene sequences should be compared for several different loci, including some that are not highly constrained and some that are relatively large. The cytochrome-c protein comparisons are pretty reliable for distinguishing between changes made at long time scales, not short ones.
+</quote>
+
+<quote>
+
+The molecular clock for silent substitutions in DNA evolution does show a generation time effect.
+
+* So, in this case where mutations are expected to be neutral in fact, the neutral theory does seem to fit. 
+
+"Slightly Deleterious Mutations in the Neutral Theory"
+
+* <a href="http://www4.nationalacademies.org/nas/naspub.nsf/(urllinks)/NAS-5B2PCD?opendocument&Start=1&Count=1000&ExpandView">Ohta </a>introduced a variation called the "Nearly Neutral Theory".
+* Basically, this theory offers a friendly modification of neutral theory to correct for the generation time effect.
+* Creatures with longer generation times generally have relatively smaller population sizes.  With small population sizes, slightly deleterious mutations (which would be effectively selected against in large populations) will behave by drifting like effectively neutral mutations.  Thus as generation time increases, its effect on clock rate will be compensated by an increase in the rate of effectively neutral mutations 
+</quote>
+
+<a href="http://www.science.siu.edu/zoology/king/304/neutral.htm#Box7.2">Source</a>
+
+
+See also 
+
+
+<quote>
+In his seminal 1968 paper, Kimura used the term "nearly neutral" to describe mutations whose selective effects are sufficiently small that their fate is largely determined by random genetic drift (Kimura 1968 ). Ohta and Kimura (1971)  later invoked nearly neutral mutations as an explanation for one of the salient observations of molecular evolution, the constancy of the molecular clock. Under a purely neutral model, a constant rate of molecular evolution per unit time across diverse taxa is only expected if the mutation rate per year is constant; yet, it seems more likely that the mutation rate should be constant per generation. Ohta and Kimura (1971)  suggested a way in which this problem could be resolved under the neutral theory. They reasoned that the rate of evolution would be constant if many mutations were slightly deleterious, and there was a negative correlation between generation time and effective population size. The reason is as follows: deleterious mutations with selection coefficients lower than 1/Ne, the reciprocal of the effective population size, are subject to genetic drift and behave as effectively neutral, whereas those with selection coefficients greater than 1/Ne are selected against. Thus, organisms with large effective population sizes have a smaller proportion of effectively neutral mutations than organisms with small effective population sizes; if they also have higher mutation rates per unit time because they have shorter generation times, the resultant rate of evolution might be roughly constant per year across taxa. Ohta went on to champion the nearly neutral theory in a series of papers (Ohta 1972b,  1973 , 1976 , 1977 , 1992 ), but until recently there was little empirical evidence for the existence of nearly neutral mutations.
+</quote>
+Adam Eyre-Walker, Peter D. Keightley, Nick G. C. Smith and Daniel Gaffney <b>Quantifying the Slightly Deleterious Mutation Model of Molecular Evolution</b>  <i>Molecular Biology and Evolution</i> 19:2142-2149 (2002)
+
+<a href="http://members.aol.com/SHinrichs9/descent/descent.htm">Compelling Data for Common Descent from Matching Redundant DNA Sequences[url] by Steve Hinrichs    (Revised 6/2000)  
+
+[url=http://www.enigmas.org/aef/lib/biogen/moldist.shtml]Cytochrome C and species divergence </a>
+
+
+<a href="http://www.cbu.edu/~seisen/CytochromeC.htm">Differences in amino acid composition of the protein cytochrome c obtained from a variety of organisms on the evolutionary scale</a>
+
+<a href="http://www.sanger.ac.uk/cgi-bin/Pfam/speciesdist.pl?acc=PF00034&id=Cytochrom_C&depth=all">Species tree bsaed on Cytochrome c</a>
+
+Ohta <b><a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=47840&rendertype=abstract">An Examination of the Generation-Time Effect on Molecular Evolution</a></b> <i>Proc Natl Acad Sci U S A</i>. 1993 November 15; 90(22): 10676-10680.
+
+<quote>
+By using DNA sequences of 17 mammalian genes, the generation-time effect is estimated separately for synonymous substitutions and nonsynonymous substitutions. Star phylogenies composed of rodentia, artiodactyla, and primates are examined. The generation-time effect is found to be more conspicuous for synonymous substitutions than for non-synonymous substitutions, by using the methods of (i) Nei and Gojobori, (ii) Li, and (iii) Ina. The proportion of accepted amino acid substitutions in evolution is estimated to be about twice as large in the primate lineage as in the rodent lineage. This result is in accord with the nearly neutral theory of molecular evolution.
+</quote>
+
+Ohta, <b>Origin of the neutral and nearly neutral theories of evolution.</b>
+<i>J Biosci[/i. 2003 Jun;28(4):371-7. 	
+
+Tomoko Ohta <b><a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pubmed&pubmedid=12461171">Near-neutrality in evolution of genes and gene regulation</a></b> [i]Proc Natl Acad Sci U S A.</i>  2002 December 10; 99(25): 16134-16137.
+
+<h>Phylogenetic reconstruction</h>
+
+Do not depend on a molecular clock but once a phylogeny has been found, one can try to recover divergence times based on the assumption of rates of change being fairly constant over time.
+
+<quote>
+Molecular Clock
+
+If the rates of change of molecules over time can be considered to be fairly constant, then, once calibrated by using the fossil record, molecular phylogenies can produce predicted divergence times. This seems to be quite likely for neutral, non-adaptive changes in sequences. This has been tested by comparing molecular phylogenies with commonly accepted divergence times. It turns out that there is considerable variation in the rates of molecular change between different proteins and between different DNA sequences, and even within a
+particular protein, the rate is not constant. However, on average, the correlation between molecular change and time is quite good. So, bearing these caveats in mind, the molecular clock can be extremely useful.
+</quote>
+<a href="http://mac-huwis.lut.ac.uk/~wis/lectures/evolutionary-anatomy/Phylogenetic%20Recon.pdf">Link</a>
+
+A good overview of tree reconstruction can be found <a href="http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=genomes.section.8883">here</a>
+
+<quote>
+At one time it was thought that there might be a universal molecular clock that applied to all genes in all organisms (Ochman and Wilson, 1987). <b>Now we realize that molecular clocks are different in different organisms and are variable even within a single organism (Strauss, 1999). The differences between organisms might be the result of generation times, because a species with a short generation time is likely to accumulate DNA replication errors at a faster rate than a species with a longer generation time.</b> This probably explains the observation that rodents have a faster molecular clock than primates (Gu and Li, 1992). Within an organism the variations are as follows:
+
+    * Non-synonymous substitutions occur at a slower rate than synonymous ones. This is because a mutation that results in a change in the amino acid sequence of a protein might be deleterious to the organism, so the accumulation of non-synonymous mutations in the population is reduced by the processes of natural selection (see Box 16.3). This means that when gene sequences in two species are compared, there are usually fewer non-synonymous than synonymous substitutions.
+    * The molecular clock for mitochondrial genes is faster than that for genes in the nuclear genome. This is probably because mitochondria lack many of the DNA repair systems that operate on nuclear genes (Section 14.2; Gibbons, 1998).
+
+Despite these complications, molecular clocks have become an immensely valuable adjunct to tree reconstruction, as we will see in the next section when we look at some typical molecular phylogenetics projects
+</quote>
+
+or
+
+<quote>
+ Molecular clocks
+
+This last result has an interesting-- but extremely controversial-- consequence. If the underlying neutral mutation rate is constant, then, by definition, so is the rate of substitution. Then we have what is known as a ``molecular clock", steadily clicking off substitutions along lineages, a clock which may be calibrated to real time if we can accurately date divergence times (usually, from paleontological data) for at least one pair of lineages. Zuckerkandl and Pauling[16] first proposed this idea in 1965 after observing what appeared to be remarkably steady rates of protein evolution in cytochrome c and hemoglobingif but since then, it has become clear that, although portions of a phylogeny may exhibit clock-like behavior, it is risky to generalize this behavior too far. Rate variation among lineages is widespread, and for many phylogenetic reconstruction methods, failure to account for this variation can lead to tremendous difficulties and inaccurate conclusions. 
+</quote>
+
+<a href="http://stat-www.berkeley.edu/users/terry/Classes/s260.1998/Week13a/week13a/node11.html">Link</a>
+
+
+<quote>
+Experimental Data: Does It Support a Constant Rate of Change?
+
+Although the proposal of the molecular evolutionary clock was made initially by Zuckerkandl and Pauling (1962) and by Ingram (1961), Dickerson (1971) provided the first thorough examination of protein sequence data in relation to evolutionary time. Plots of his data appear to show a linear relationship between amino acid changes and times of divergence for cytochrome c, the globin chains, and fibrinopeptides. A replot of Dickerson's cytochrome c data on a slightly expanded scale (Figure 3) indicates that there are some points that differ markedly from linearity. For example, cytochrome c amino acid changes per 100 residues comparing primates and other mammals is given as 9.7, with a divergence date of 90 million years, while the corresponding amino acid change is 9.5 when mammals and birds are compared. However, the listed divergence date in the latter instance is 300 million years. It should be immediately evident that this would represent over a three-fold variation in the rate of change.
+
+Romero-Herrera, et al (1979) noted considerable variations in rates of changes in amino acid sequence for particular proteins. For example, myoglobin amino acid sequences of the pig and the bat differ by 9, whereas the corresponding sequences of the more closely related pig and ox differ by 28. There is no reasonable explanation for this unusual finding, which clearly contradicts the concept of a molecular evolutionary clock.
+
+Baba, Darga, Goodman and Czelusniak (1981) tabulated the changes in cytochrome c using all known sequences and the best available paleontological data. They found that nucleotide replacements per 100 codons per 100 million years for cytochrome c has varied from 1.4 to 17.3.
+
+Jukes (1987) has noted the nonconstancy of the molecular clock for cytochrome c in different species. He and Holmquist (1972) noted that the rate of replacement of amino acids was nearly twice as fast in the rattlesnake as in another reptile, the snapping turtle. Beintema and Campagne (1987) utilized amino acid sequences of insulin in 10 species of rodents to prepare phylogenetic trees. The evolutionary rate of change was comparable to that of other species in the rat, mouse and hamster. However, they found moderately increased evolutionary rates in the porcupine and chinchilla, and markedly increased evolutionary rates in the guinea pig, cuis, copyu and casiragua. The differing rates made it nearly impossible for them to produce reasonable phylogenetic trees for these rodents, and the authors present three very different rodent phylogenetic trees.
+</quote>
+<img src="http://www.asa3.org/ASA/PSCF/1994/PSCF9-94MillsFig3.jpg"/>
+<a href="http://www.asa3.org/ASA/PSCF/1994/PSCF9-94Mills.html">Link</a>
+
+<h>Generation time effects</h>
+
+From <a href="http://bip.weizmann.ac.il/course/evogen/Clocks/3.MolecularClocks.ppt">Weizmann lecture notes</a>
+
+<quote>
+A higher rate of evolution takes place in organisms with a short generation time than in organisms with a long generation time
+
+The rate of substitution is higher in monkeys than in humans and is even higher in rodents. These observations are consistent with the generation time effect hypothesis
+</quote>
+
+<hr/>
+<h>Useful resources</h>
+<list type="1"><li><a href="http://www.lifesci.sussex.ac.uk/CSE/members/lbromham/pdfs/BromhamPenny.Clock.NRG03.pdf">THE MODERN MOLECULAR CLOCK</a> by Lindell Bromham and David Penny in <i>Nature Reviews</i> 216 MARCH 2003 VOLUME 4
+</li><li>Wu et al, <a href="http://www.uchicago.edu/aff/mwc-amacad/biocomplexity/wu2.pdf">Molecular Evolution of Cytochrome c Oxidase Subunit IV: Evidence for Positive Selection in Simian Primates</a> 
+</li><li>T. Daniel Andrews and Simon Easteal <b>Evolutionary Rate Acceleration of Cytochrome c Oxidase Subunit I in Simian Primates
+</b> <i>Journal of Molecular Evolution</i> Volume 50, Number 6 June 2000, 562 - 568
+<quote>
+Abstract:
+
+Abstract. We present an analysis of the evolutionary rates of the cytochrome c oxidase subunit I genes of primates and other mammals. Five primate genes were sequenced, and this information was combined with published data from other species. The sequences from simian primates show approximately twofold increases in their nonsynonymous substitution rate compared to those from other primates and other mammals. The species range and the overall magnitude of this rate increase are similar to those previously identified for the cytochrome c oxidase subunit II and cytochrome b genes.
+</quote>
+
+</li><li>Tal Pupko and Nicolas Galtier <a href="http://www.tau.ac.il/~talp/publications/covarion.pdf">A covarion-based method for detecting molecular adaptation: application to the evolution of primate mitochondrial genomes</a> Proc. R. Soc. Lond. B (2002) 269, 1313-1316
+</li></list>
+

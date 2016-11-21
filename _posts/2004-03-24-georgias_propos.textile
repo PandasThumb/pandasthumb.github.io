@@ -1,0 +1,18 @@
+---
+layout: article
+title: Georgia's Proposed Standards for Life Science
+date: '2004-03-24 11:03:17 -0700'
+mt_id: 12
+blog_id: 2
+post_id: 12
+basename: georgias_propos
+---
+On January 12, 2004 the <a href="http://www.gadoe.org">Georgia Department of Education</a> publicly released <a href="http://www.georgiastandards.org">draft standards</a> of a new "performance curriculum" for the state's public schools.   The science standards were based on the Project 2061 benchmarks developed by the American Association for the Advancement of Science (AAAS) by way of the Council for Basic Education's Standards for Excellence in Education.  Although based on these standards, the science standards proposed by the Georgia Department of Education contained many omissions or corruptions of important concepts.  Despite what department representatives told educators and the public,  these omissions involved more than the replacement of the central biological term "evolution" with "biological change over time."
+
+<!--more-->
+
+In high school biology alone, GADOE excised over 70% of the benchmarks pertaining to the Evolution of Life.  These included fundamental biological concepts about the mechanism of natural selection, the foundation of heritable variation, and the true age of the earth, amongst other things.  Benchmarks involving man's role in the ecosystem were also removed.  Clearly, the Georgia Department of Education was not planning to teach the underlying concepts of evolutionary biology to the state's students.
+
+After a storm of public outcry, State School Superintendent Kathy Cox pledged on February 5th to reverse her removal of the term "evolution," but she has not yet admitted to the removal and corruption of other concepts, nor discussed why they were removed.  Fortunately she relinquished control of the science curriculum to the Science curriculum teacher team, which restored most of the missing concepts.  AAAS did not include these concepts lightly; they are very important in forming a scientifically literate public, and no educational justification exists for removing them.  The concern now is whether the concepts will be allowed to remain in the Georgia Performance Standards document, and whether lesson plans and end-of-course exams will include them.  The sections that were removed by the Superintendent of Schools and replaced by the teacher team must remain in place for submission to the State Board of Education.  This will ensure a world-class science curriculum, and both the educational and economic future of the state.
+
+For a detailed analyisis and further commentary see <a href="http://www.arches.uga.edu/~rac/gabiostds.html">The Real Truth about Georgia's Biology Curriculum</a>.

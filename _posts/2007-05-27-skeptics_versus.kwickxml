@@ -1,0 +1,93 @@
+---
+layout: article
+title: Skeptics versus Deniers
+date: '2007-05-27 14:49:53 -0700'
+mt_id: 3036
+blog_id: 2
+post_id: 3036
+basename: skeptics_versus
+published: false
+---
+I have noticed how evolution deniers often have problems with other scientific issues as well. For instance, I have noticed how many evolution deniers also deny the science of global warming. I hope to show that such preconceived (and may I say, ill conceived) notions about science can lead to poor arguments. While a true skeptic would pursue the answer, evolution and global warming deniers are quick to jump to a conclusion matching their belief, even though a more careful reading of the data and papers would have shown such a belief to be flawed.
+
+Point in case is a recent posting at <url href="http://www.uncommondescent.com/science/ipcc-ignores-studies-of-soots-effect-on-global-warming/">UcD  titled "IPCC Ignores Studies of Soot's Effect on Global Warming"</url> by Davescot, discussing the importance of soot on global warming and how the IPCC is ignoring studies on the effect of soot.
+
+In support of his argument Davescot provides us with a figure from Hansen 2005 which I reproduce below, as well as a figure from the the <url href="http://www.ipcc.ch/SPM2feb07.pdf">2007 IPCC Assessment Report Physical Science Basis</url> (<b>summary for policy makers</b>)
+
+<img alt="Picture%205.png" src="http://www.pandasthumb.org/Picture%205.png" width="519" height="159" />
+
+Source: Hansen et al, <url href="http://data.giss.nasa.gov/efficacy/">>Efficacy of climate forcings </url>, <i>JOURNAL OF GEOPHYSICAL RESEARCH</i>, VOL. 110, D18104, 2005
+
+<img alt="Picture%20IPCC.png" src="http://www.pandasthumb.org/Picture%20IPCC.png" width="413" height="282" />
+
+Source: Climate Change 2007: The Physical Science Basis, Summary for Policymaker
+
+
+
+<!--more-->
+
+Before I continue, I would like to point out that the Hansen figure (figure 28 in the original paper) is actually one of two figures. The full figure has been reproduced below and shows figure 28a and 28b.
+
+<img alt="Picture%204.png" src="http://www.pandasthumb.org/Picture%204.png" width="612" height="366" />
+
+The paper, discusses the two figures and concludes that 28b is a much better description of the significance of different forcing mechanisms since it shows the net (direct and indirect) forcing effects. While in 28a the soot contribution appears to be significant, indirect effects of soot are hidden under the aerosols forcings, which are negative (cooling effects).
+
+<quote>Figure 28b does a better job than Figure 28a of making clear the practical significance of different forcing mechanisms. CH4 is shown to be a major positive (warming) forcing, while the net forcing by soot is much smaller than the positive component from the direct BC effect. <b>Figure 28b makes clear that CH4, not soot, is the second largest contributor to global warming. However, in interpreting the importance of soot as a climate forcing, bear in mind that one source of soot can provide a very different net forcing than another source, as discussed below. </b>
+</quote>
+
+Even a cursory reading of the 2005 paper by Hansen should have set off many warning bells. Things do not get much better when reading the full <url href="http://ipcc-wg1.ucar.edu/wg1/wg1-report.html">2007 IPCC report</url>
+
+The Summary for Policymakers contains some hints as well
+
+<quote>Anthropogenic contributions to aerosols (primarily sulphate, organic carbon, black carbon, nitrate and dust)  together produce a cooling effect, with a total direct radiative forcing of -0.5 [-0.9 to -0.1] W m-2 and an indirect cloud albedo forcing of -0.7 [-1.8 to -0.3] W m-2. These forcings are now better understood than at the time of the TAR due to improved in situ, satellite and ground-based measurements and more comprehensive modelling, but remain the dominant uncertainty in radiative forcing. Aerosols also influence cloud lifetime and precipitation.  {2.4, 2.9, 7.5}</quote>
+
+To noone's surprise, the <url href="http://ipcc-wg1.ucar.edu/wg1/wg1-report.html">full IPCC report</url> (not just the summary for policy makers referenced by Davescot), rather than ignoring Hansen's studies, has incorporated them (See <url href="http://ipcc-wg1.ucar.edu/wg1/Report/AR4WG1_Pub_Ch02.pdf">2.4.4.3</url>)
+
+On UcD a poster named MarkF is quick to point out the flaws in DaveScot's arguments
+
+<quote>The IPCC diagram and the Hansen diagram are consistent. They just show the same things in different ways. If you add all the forcings together for both diagrams they both come to approx +1.8.
+
+The difference is that Hansen has included the aerosol effect of black carbon (which does not have the x2 effect on temperature) in the BC column which adds up to 0.8. The IPCC include this under their total aerosol effect which is correspondingly less negative. The forcing due to black carbon on snow is approximately 0.1 in both cases</quote>
+
+Davescot tries
+
+<quote>This very well may be true but there is no mention in the IPCC report of a specific number for positive forcing of black carbon in the aerosol graph. Hansen's arrangement clearly shows that black carbon is a major factor in anthropogenic global warming and at best this is hidden in the IPCC report.</quote>
+
+As I have attempted to show, Hansen's paper argues quite the opposite. 
+
+In addition, much is made of a statement by Hansen that
+
+<quote>"This forcing is unusually effective, causing twice as much global warming as a carbon-dioxide forcing of the same magnitude,</quote>
+
+<url href="http://www.giss.nasa.gov/research/news/20031222/">Black Soot and Snow: A Warmer Combination</url>
+
+The title should already have been a fair warning as well as Hansen's statement that
+
+<quote>Hansen cautioned, although the role of soot in altering global climate is substantial, it does not alter the fact greenhouse gases are the primary cause of climate warming during the past century. Such gases are expected to be the largest climate forcing for the rest of this century.</quote>
+
+The full paper Hansen, J., and L. Nazarenko, 2004: Soot climate forcing via snow and ice albedos. Proc. Natl. Acad. Sci., 101, 423-428, can be downloaded <url href="http://pubs.giss.nasa.gov/abstracts/2004/Hansen_Nazarenko.html">here</url>
+
+Again, these findings were also not ignored by the IPCC
+
+<quote>
+The presence of soot particles in snow could cause a decrease  in the albedo of snow and affect snowmelt. Initial estimates by  Hansen et al. (2000) suggested that BC could thereby exert a positive RF of +0.2 W m--2. This estimate was refined by Hansen and Nazarenko (2004), who used measured BC concentrations within snow and ice at a wide range of geographic locations to deduce the perturbation to the surface and planetary albedo, deriving an RF of +0.15 W m--2. The uncertainty in this estimate is substantial due to uncertainties in whether BC and snow particles are internally or externally mixed, in BC and snow  particle shapes and sizes, in voids within BC particles, and in the BC imaginary refractive index.
+</quote>
+
+So what is going on here? In the 2004 paper,  Hansen et al attempt to resolve the relevance of Black Carbon (BC) as a forcing.
+
+In addition, there seems to be some confusion as to the meaning of the term 'efficacy'. Research has shown that the efficacy of BC is 2 to 3 times that of CO2. But there is a more relevant concept called 'effective forcing' which explains how much of the forcing is due to a particular component. In other words, efficacy can be high and yet its effect can be quite small.
+
+Or using the words of the authors
+
+<quote>We find a substantial range in the ''efficacy'' of different forcings, where the efficacy is the global temperature response per unit forcing relative to the response to CO2 forcing.</quote>
+
+Effective forcing is the product of the forcing and the efficacy, in addition there are direct and indirect forcings involved. For instance a direct BC forcing would be the reduction in snow albedo while an indirect BC forcing involves the scattering effect by BC (aerosols).
+
+The use of various different concepts of forcings, effective forcings and efficacies can be confusing but to suggest that the IPCC is ignoring the contributions of soot seems contradicted by the facts.
+
+So what should be the lesson learned here? Double check the claims, or in case of Davescot, he will likely continue to 'argue' that science is ignoring yet another 'relevant' forcing such as perhaps 'cosmic rays'... An unproven and so far rebutted brainchild of <url href="http://www.blackwell-synergy.com/action/showFullText?submitFullText=Full+Text+HTML&doi=10.1111%2Fj.1468-4004.2007.48118.x&cookieSet=1">Svensmark </url> (see also <url href="http://www.realclimate.org/index.php/archives/2006/10/taking-cosmic-rays-for-a-spin/"> and <url href="http://www.realclimate.org/index.php?p=42">here</url> and <url href="http:/tephenschneider.stanford.edu/Publications/PDF_Papers/DamonLaut2004.pdf">Demon and Laut 2004</url>
+
+
+Realclimate has made an effort to capture the more common rebuttals of Global Warming Denial claims at <url href="http://www.realclimate.org/index.php/archives/2007/05/start-here/">start here</url>
+
+Be a skeptic, but be an informed one. There is just no excuse for not being informed in this day and age of the Internet.

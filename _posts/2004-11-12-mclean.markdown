@@ -1,0 +1,10 @@
+---
+layout: article
+title: McLean
+date: '2004-11-12 10:00:24 -0700'
+mt_id: 561
+blog_id: 2
+post_id: 561
+basename: mclean
+---
+Incidentally, while writing the last post, I stumbled upon the <a href="http://mclean_project.home.att.net/"><i>McLean v. Arkansas </i>Documentation Project,</a> a pretty cool resource with lots of material on the case.

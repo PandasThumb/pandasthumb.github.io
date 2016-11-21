@@ -1,0 +1,25 @@
+---
+layout: article
+title: 'UNSW&Caltech: Embryology'
+date: '2008-03-20 10:33:14 -0700'
+mt_id: 3659
+blog_id: 2
+post_id: 3659
+basename: unsw_embryology
+---
+<html>
+<table>
+<tr>
+<td>
+<form mt:asset-id="170" class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="http://embryology.med.unsw.edu.au/wwwhuman/Stages/Stages.htm" onclick="window.open('http://embryology.med.unsw.edu.au/wwwhuman/Stages/Stages.htm',scrollbars=yes,resizable=yes,toolbar=yes,directories=no,location=yes,menubar=yes,status=yes,left=0,top=0'); return false"><img src="http://pandasthumb.org/Cst800-thumb-100x75.jpg" width="100" height="75" alt="Cst800.jpg" class="mt-image-left" style="float: left; " /></a></form>
+The University of New South Wales has some fascinating resources on <a href="http://embryology.med.unsw.edu.au/embryo.htm">embryology</a>, including the full set of <a href="http://embryology.med.unsw.edu.au/wwwhuman/Stages/Stages.htm
+">Carnegie stages for the Human Embryo</a>
+</td>
+<tr>
+<td>
+<form mt:asset-id="173" class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="http://pandasthumb.org/ts25.html" onclick="window.open('http://pandasthumb.org/ts25.html','popup','width=243,height=356,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://pandasthumb.org/assets_c/2008/03/ts25-thumb-100x146.jpg" width="100" height="146" alt="ts25.jpg" class="mt-image-left" style="float: left;" /></a></form>
+Caltech <a href="http://mouseatlas.caltech.edu/">µMRI Atlas of Mouse Development an interactive 3D atlas</a> which is part of a collection <a href="http://atlasserv.caltech.edu/">of Caltech MRI sites</a> which include the <a href="http://atlasserv.caltech.edu/Quail/Start_Quail.html">Quail</a> and the <a href="http://atlasserv.caltech.edu/Lemur/Start_lemur.html">Lemur brain</a>
+</td>
+</tr>
+</table>
+</html>

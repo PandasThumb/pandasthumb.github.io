@@ -1,0 +1,88 @@
+---
+layout: article
+title: Bell's Response
+date: '2005-08-05 19:24:18 -0700'
+mt_id: 1223
+blog_id: 2
+post_id: 1223
+basename: bells_response
+---
+<p>In the course of my recent series of posts on the 2005 Mega Creation Conference in Lynchburg, VA, I described a talk I attended given by Phillip Bell.  Bell was attempting to explain to his audience why the extensive collection of hominid fossils that have been dug up over the years do not, in fact, provide anything of comfort to evolutionists.  After the talk I engaged in a brief discussion with Bell about some of the points he made in his talk.  I recounted our conversation in <a href=http://www.pandasthumb.org/archives/2005/07/report_on_the_2_3.html>the fourth entry</a> in my series.</p>
+
+<p>Bell was not pleased by my unflattering description of him, and has <a href=http://www.answersingenesis.org/docs2005/0802scoffers.asp>posted a reply</a> here.</p>
+
+<p>I would like to respond to a few points that he made.</p>
+
+<!--more-->
+
+<p>First, some general observations.  At several points in his response Bell accuses me of misrepresenting our conversation.  In particular, he states that I added things to my retelling that I did not say during our talk.  I absolutely deny every such assertion.  I would add that I based my retelling of our conversation on detailed notes that I wrote down immediately after our conversation concluded.  There are several statements in his own description that, to put it kindly, do not match my recollection of events.  However, since as far as I know there is no transcript available of our discussion, I will not address these points further.</p>
+
+<p>Some of the points in dispute clearly revolve around subjective impressions.  For example, at one point in my retelling I described Bell's tone towards the conference attendees as being condescending.  I stand by that interpretation.  Bell insists in his reply that he was not being condescending.  So be it.  Elsewhere he describes me as speaking with great superciliousness.  I reject that description of my tone.</p>
+
+<p>In defiance of both basic courtesy and standard blog etiquette Bell did not provide a link to my essay in his response.  To get to my essay from Bell's response, you must scroll down to the bottom, and then cut and paste the web address into the appropriate line of your browser.  Furthermore, he couldn't even bring himself to identify me by name, or identify the blog at which my remarks appeared.  This seems to be SOP among creationist web sites.  They want to make it as difficult as possible for people to obtain the views of the other side.</p>  
+
+<p>By contrast, when I began my series of posts on this subject, I linked to the conference blog even though I was not replying to anything specific that had been written there.  I specifically told my readers to go to that blog if they wanted a more favorable description of the conference.</p>
+
+<p>Bell did point out one genuine error that I made in my blog entry.  I described him as having an Australian accent, when apparently he is not, in fact, Australian.  I apologize for the error.</p>
+
+<p>But since we're harping on trivialities, let me point out one obvious error that Bell made.  He writes:</p>
+
+<blockquote>
+<p>My talk was in the 'basic track' of the conference and so was pitched to the intelligent layperson accordingly. Had he read the program like everyone else attending the conference, he would have known this; or perhaps he knowingly omitted this rather significant fact from his review.</p>
+</blockquote>
+
+<p>Ahem.  I very clearly identified his talk as being in the Basic track of the conference.  The entry in which I replied to Bell was clearly identified as Part Four of a series.  <a href=http://www.pandasthumb.org/archives/2005/07/report_on_the_2_2.html>Part Three</a> of that series, which had been posted the day before, ended with the following remark:</p>
+
+<blockquote>
+<p>Next up was Phillip Bell in the Basic track discussing, &ldquo;Ape Men, Missins Links, and the Bible,&rdquo; and Douglas Kelly on &ldquo;The Importance of Chronology in the Bible,&rdquo; in the advanced track. I went Basic this time. It was after Bell's talk that I worked up the nerve to confront the speaker after the talk. Stay tuned!</p>
+</blockquote>     
+
+<p>Throughout my series of posts I made it perfectly clear that there was a basic track and an advanced track at the conference.  I'll look forward to Bell's apology for omitting this rather significant fact.</p>
+
+<p>Now for a few specifics.  Bell writes:</p>
+
+<blockquote>
+<p>In our discussion, I had reiterated to him what I had explicitly stated on one of my slides, that the human fossils to which I referred included the several hundred known Neandertal and Homo erectus fossils (themselves 'hominids'). Of the thousands of catalogued fossils, most of them are not considered helpful to the evolutionary story (hence the oft-repeated evolutionist canards like 'all the fossils will fit into the boot (trunk) of a car' or 'onto a snooker table', etc.). All the non-Homo fossils that I covered in my talk are extinct apes, as even most evolutionists have conceded - albeit that they argue among themselves as to which of these was on the illustrious line leading to humans. Most of the Homo fossils (with the notable exception of Homo habilis) are agreed by the majority of creationists to be extinct humans.  His blog comments here, as elsewhere, were designed to imply that I and other creationist speakers didn't even understand the basics of our talk topics. For instance, he wrote:</p>  
+
+<blockquote>
+<p>So I tried again and asked, &ldquo;But the issue is what did the British museum have in mind when they used the term hominid in their catalog? You offered hominid fossils as something separate from ape and human fossils. So what are they?&rdquo; We were off to the races again.</p>
+</blockquote>
+
+<p>Yet at no point did I offer hominid as separate from ape or human, for the very definition includes humans, today's apes and all those alleged 'ape-men' transitions.</p>
+</blockquote>
+
+<p>As I stated in my previous entry on this subject, Bell showed a slide that asserted that there were thousands of hominid fossils, hundreds of human fossils, and numerous extinct apes.  These were listed on three separate lines.  So it's pretty clear that the collection of hominid fossils was being offered as something different from the collections of ape and human fossils.</p>
+
+<p>Next, Bell specifically cited the Catalog of Fossil Hominids from the British Museum of Natural History as the source for his claim that there are thousands of hominid fossils.  So what is relevant here is not what Bell thinks the term `hominid' means. It is what the British Museum had in mind in using that term, exactly as I said in the quote above.</p>  
+
+<p>After describing these three types of fossils Bell asserted with great confidence that there was nothing `in between.'  In this context that can only mean there are no fossils bridging the gap between human beings and their ape-like ancestors.  But the simple fact is that the hominid fossils referred to by the British Museum include a great many fossils that bridge the gap.  If they are your source, then you have no justification for the claim that there is nothing `in between'.</p>
+
+<p>And that brings us to the really important point.  Bell seems to think that by shoehorning every hominid fossil into the two categories `ape' and `human' he can somehow explain away the fossil evidence for human evolution.  Does he really not understand that attaching labels to fossils does not change the fact that these fossils show a clear progression from forms that are mostly ape-like to those that are mostly human-like?</p>  
+
+<p>Elsewhere he thought it deeply significant that paleoanthropologists do not always agree about the precise relationships that hold between the various available fossils.  Does he really believe that such disputes somehow cast doubt on the hypothesis of common descent itself?  Is it possible that he doesn't understand that the very reason paleoanthropologists have so much to argue about is that the fossil record provides them with such a wealth of data?</p>  
+
+<p>The question at hand is whether the extensive collection of fossil hominids provides strong evidence for the hypothesis that modern humans evolved from ape-like ancestors.  Bell thinks that arbitrary classifications of individual fossils as either `ape' or `human' are relevant to that question.  That is ample justification for the implication that Bell does not understand the basic facts of the topics they are discussing.</p>
+
+<p>Bell goes on to question my motives:</p>
+
+<blockquote>
+<p>But his statement reveals that his real motive - as with so many like him - is to paint creation-believing scientists as those who are prepared to use any means - fair or foul - to turn people against evolution.</p>
+</blockquote>
+
+<p>My motive for talking to Bell after the talk was very simple:  I wanted to obtain answers to my questions.  I was not optimistic that he would have anything intelligent to say about them, but people have suprised me before and I wanted to give him a chance.  Unfortunatly, his answers to my questions made it perfectly clear that he hadn't the faintest idea what he was talking about, precisely as I described in my original essay.</p>
+
+<p>My motive in writing about the conference at all was to give people an accurate impression of what happened at the conference, and to describe my reactions to those happenings.  It was the behavior of the conference speakers themselves that justifies my portrayal of them as people prepared to use any means to make their points.  I notice, for example, that Bell did not attempt to justify the blatant misuse of quotations that I described in my original essay.</p>
+
+<p>This was not the first creationist conference that I have attended.  A few years ago I attended an intelligent-design conference in Kansas City.  There, I was so impressed with the behavior and intelligence of the conference attendees (as opposed to the conference speakers) that I was actually moved to write <a href=http://www.math.jmu.edu/~rosenhjd/BioScience.pdf>an article (PDF format)</a> describing my reasons for being impressed.  That was certainly not an article I anticipated writing when I decided to attend the conference in the first place.  And it is not an article I would have written had Bell's description of my sinister motives been correct.  So it clear from my past behavior that I do not decide what to write about a conference until after it has ended.</p>
+
+<p>As it happens, though, most of the arguments made by the conference speakers were wrong for such obvious reasons that those speakers deserve to be portrayed as either deeply ignorant or incredibly dishonest.  The unbelievably fawning reactions of the conference goers as well as my interactions with some of them make it clear that these are not people who have made any serious attempt to educate themselves about both sides of this issue.  Hence, my snide portrayal.</p>
+
+<p>I find nothing else in his essay that merits a detailed response from me.  At one point he tells his readers that I contradicted myself in my previous essays on this subject.  If some commenter would like to read what Bell wrote and tell me what the contradiction is I'll be grateful.  Bell boasts of his twenty years of study related to the issues we were discussing and contrasts that favorably with my qualifications in mathematics.  But the scientific assertions he was making don't suddenly become unstupid simply because he claims to have spent a lot of time thinking about them.  And there was nothing in our discussion that requires more than a glancing familiarity with the material to understand.</p>
+
+<p>At no point in our conversation did I challenge his credentials, or argue from authority.  But since Bell seems to think it's relevant, I would point out that he holds a Bachelor of Science degree in zoology and that is all.  You can find his speaker bio <a href=http://www.answersingenesis.org/events/megaconference/speakers.aspx>here</a>.</p>
+
+<p>In the end, arguing in typical creationist style, he levels a great many charges at me in lieu of offering a cogent response to the scientific points that were at issue.  He suggests that I did something unsavory by not identifying myself as an evolutionist, accuses me of concealing my motives, attacks my credentials, describes me as supercilious and full of myself, quotes me out of context to suggest that I think violence is an acceptable means of settling disputes, and accuses me of distorting the facts.</p>  
+
+<p>Rereading my original essay on this subject, I find that my criticisms of him are confined exclusively to the things he actually said.  I have continued to adhere to that policy in this reply.</p>
+
+<p>Draw your own conclusions.</p>   

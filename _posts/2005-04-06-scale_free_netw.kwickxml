@@ -1,0 +1,22 @@
+---
+layout: article
+title: Scale free networks revisited
+date: '2005-04-06 19:15:21 -0700'
+mt_id: 877
+blog_id: 2
+post_id: 877
+basename: scale_free_netw
+published: false
+---
+<a href="http://www.biophysj.org/cgi/rapidpdf/biophysj.104.051433v1">The Emergence of Scaling in Sequence-based Physical Models of Protein Evolution</a> Eric J. Deeds and Eugene I. Shakhnovich in Biophys. J. BioFAST: First Published April 1, 2005.
+
+<quote>
+It has recently been discovered that many biological systems, when represented as graphs, exhibit a scale-free topology.  One such system is the set of structural relationships among protein domains. The scale-free nature of this and other systems has previously been explained using network growth models that, while motivated by biological processes, do not explicitly consider the underlying physics or biology. In the present work we explore a sequence-based model for the evolution protein structures and demonstrate that this model is able to recapitulate the scale-free nature observed in graphs of real protein structures.  We find that this model also reproduces other statistical feature of the protein domain graph. This represents, to our knowledge, the first such microscopic, physics-based evolutionary model for a scale-free network of biological importance and as such has strong implications for our understanding of the evolution of protein structures and of other biological networks.
+</quote>
+
+
+<!--more-->
+
+<a href="http://arxiv.org/abs/q-bio.MN/0503038">Principles in the Evolution of Metabolic Networks</a> Hiroki R. Ueda, John B. Hogenesch
+
+<quote>Understanding design principles of complex cellular organization is one of the major challenges in biology. Recent analysis of the large-scale cellular organization has revealed the scale-free nature and robustness of metabolic and protein networks. However, the underlying evolutional process that creates such a cellular organization is not fully elucidated. To approach this problem, we analyzed the metabolic networks of 126 organisms, whose draft or complete genome sequences have been published. This analysis has revealed that the evolutional process of metabolic networks follows the same and surprisingly simple principles in Archaea, Bacteria and Eukaryotes; where highly linked metabolites change their chemical links more dynamically than less linked metabolites. Here we demonstrate that this rich-travel-more mechanism rather than the previously proposed rich-get-richer mechanism can generate the observed scale-free organization of metabolic networks. These findings illustrate universal principles in evolution of metabolic networks and suggest marked flexibility of metabolic network throughout evolution.</quote>

@@ -1,0 +1,46 @@
+---
+layout: article
+title: Brillouin, Information, Entropy and Evolution
+date: '2008-03-08 16:47:26 -0700'
+mt_id: 3632
+blog_id: 2
+post_id: 3632
+basename: brillouin
+published: false
+---
+In their paper "Conservation of Information in Search: Measuring the Cost of Success", Marks and Dembski present the following quote by Brillouin:
+
+<quote>The machine does not create any new information, but it performs a very valuable transformation of known information. </quote>
+
+Dembski and Marks insert "computing" before machine, however Brillouin is talking about a very specific example of a computing  machine which is constrained by its programming.  No attempt is made to extend this to how evolutionary processes work. Evolutionary processes work by transferring information from the environment into the genome via processes of variation and selection. In other words, the evolutionary processes while constrained by its 'programming' can add to its programming. Brillouin's negentropy is a helpful tool to understand how information can be added to a 'computing machine'.
+
+A good example are neural nets which start with maximum entropy and evolve by taking external information and increasing the amount of information by reducing the internal entropy of its state machines
+
+
+
+<!--more-->
+
+As <a href="http://www.talkorigins.org/faqs/information/shannon.html">Rich Baldwin</a> explains in his Talkorigins article "Information Theory and Creationism Classical Information Theory (Shannon)"
+
+Shannon entropy has been related by physicist Léon Brillouin to a concept sometimes called negentropy. This is a term introduced by physicist and Nobel laureate Erwin Schrödinger in his 1944 text What is Life to explain how living systems export entropy to their environment while maintaining themselves at low entropy; in other words, it is the negative of entropy. In his 1962 book Science and Information Theory, Brillouin described the Negentropy Principle of Information or NPI, the gist of which is that acquiring information about a system’s microstates is associated with a decrease in entropy (work is needed to extract information, erasure leads to increase in thermodynamic entropy). There is no violation of the Second Law of Thermodynamics involved, since a reduction in any local system’s thermodynamic entropy results in an increase in thermodynamic entropy elsewhere.
+
+
+Brillouin's concept of information and negentropy is based on the observation that given N<sub>0</sub> possible events with equal probabilities, the information and entropy are given by
+
+<quote>
+
+I<sub>0</sub>= 0
+S<sub>0</sub>=k ln N<sub>0</sub>
+</quote>
+
+Now we add an observation which limits the number of events to N<sub>1</sub> with N<sub>1</sub> &lt; N<sub>1</sub> and now we find that the information has become
+
+<quote>
+I<sub>1</sub>=k ln(N<sub0>/N<sub>1</sub>)
+</quote>
+
+
+Or in other words, a reduction in the number of states leads to an increase in information. This is an important conclusion, namely that information can increase if the number of allowed states is decreased (such as what happens in the process of selection).
+
+
+This is exactly the argument by Tom Schneider and Adami who have shown how simple processes of variation and selection inevitably increase the information in the genome. Something ID creationists claim could not happen.

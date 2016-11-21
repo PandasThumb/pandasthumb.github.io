@@ -1,0 +1,45 @@
+---
+layout: article
+title: Those amazing slime moulds
+date: '2008-01-24 12:10:45 -0700'
+mt_id: 3533
+blog_id: 2
+post_id: 3533
+basename: those_amazing_s
+---
+Philip Ball reports in <a href="http://www.nature.com/news/2008/080123/full/451385a.html">Nature</a> on new findings that show how the slime mo[u]ld can anticipate periodic events.
+
+The actual paper is published as <a href="http://scitation.aip.org/getabs/servlet/GetabsServlet?prog=normal&id=PRLTAO000100000001018101000001&idtype=cvips&gifs=yes">Amoebae Anticipate Periodic Events</a> in Phys. Rev. Lett. 100, 018101 (2008) by authors Tetsu Saigusa,  Atsushi Tero, Toshiyuki Nakagaki and Yoshiki Kuramoto
+
+<quote><b>Abstract</b>: 
+
+When plasmodia of the true slime mold <a href="http://www.educationalassistance.org/Physarum/PhysarumPlus.html">Physarum</a> were exposed to unfavorable conditions presented as three consecutive pulses at constant intervals, they reduced their locomotive speed in response to each episode. When the plasmodia were subsequently subjected to favorable conditions, they spontaneously reduced their locomotive speed at the time when the next unfavorable episode would have occurred. This implied the anticipation of impending environmental change. We explored the mechanisms underlying these types of behavior from a dynamical systems perspective.</quote>
+
+
+<!--more-->
+
+According to Ball, the mould was exposed to a rhythmic stimulus and showed that it learned when the next stimulus would arrive. The memory would slowly fade but could be reinforced by a later stimulus.
+
+<quote>
+The team found that when the mould experienced three episodes of dry air in regular succession an hour apart, it apparently came to expect more: it slowed down when a fourth pulse of dry air was due, even if none was actually applied. Sometimes this anticipatory slow-down would be repeated another hour later, and even a third. The same behaviour was seen when the pulses were experienced at other regular time intervals — say, every half hour or every 1.5 hours.
+
+If the dry episodes did not recur after the first three, the amoeba's sense of expectation gradually faded away. But then applying a single dry pulse about six hours later commonly led to another anticipatory slowing in step with the earlier rhythm.
+</quote>
+
+
+Ball explains the significance of these findings
+
+<quote>Learning and memory — abilities associated with a brain or, at the very least, neuronal activity — have been observed in protoplasmic slime, a unicellular organism with multiple nuclei.</quote>
+
+In other words, science has shown how unicellular organisms like the slime mould have the ability to learn and remember. Memory and learning seem to not be limited to us humans and can be found, as expected from an evolutionary perspective across organisms.
+
+The amoeba <i><a href="http://www.educationalassistance.org/Physarum/PhysarumPlus.html">Physarum polycephalum</a></i> is quite a performer as it has been able to navigate mazes and solve simple puzzles
+
+Nakagaki, T., Yamada, H. & <a href="http://www.staff.u-szeged.hu/~atoth/english.html">A. Tóth</a>.  "Intelligence: Maze-solving by an amoeboid organism" Nature 407, 470 (2000).
+
+<quote>The plasmodium of the slime mould Physarum polycephalum is a large amoeba-like cell consisting of a dendritic network of tube-like structures (pseudopodia). It changes its shape as it crawls over a plain agar gel and, if food is placed at two different points, it will put out pseudopodia that connect the two food sources. Here we show that this simple organism has the ability to find the minimum-length solution between two points in a labyrinth.</quote>
+
+
+<a href="http://www.es.hokudai.ac.jp/labo/cell/member_e.html">Nakagaki</a>, T., Kobayashi, R., Nishiura, Y. & <a href="http://www.es.hokudai.ac.jp/labo/cell/member_e.html">Ueda, T</a>. "Obtaining multiple separate food sources: behavioural intelligence in the Physarum plasmodium" Proc. R. Soc. B 271, 2305-2310 (2004). 
+
+<quote>To evaluate performance in a complex survival task, we studied the morphology of the Physarum plasmodium transportation network when presented with multiple separate food sources. The plasmodium comprises a network of tubular elements through which chemical nutrient, intracellular signals and the viscous body are transported and circulated. When three separate food sources were presented, located at the vertices of a triangle, the tubular network connected them via a short pathway, which was often analogous to the mathematically shortest route known as Steiner's minimum tree (SMT). The other common network shape had high fault tolerance against accidental disconnection of the tubes and was known as cycle (CYC). Pattern selection appeared to be a bistable system involving SMT and CYC. When more than three food sources were presented, the network pattern tended to be a patchwork of SMT and CYC. We therefore concluded that the plasmodium tube network is a well designed and intelligent system.</quote>

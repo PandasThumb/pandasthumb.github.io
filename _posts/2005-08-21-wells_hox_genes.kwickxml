@@ -1,0 +1,64 @@
+---
+layout: article
+title: Wells, Hox genes and evolution of body plans
+date: '2005-08-21 16:38:49 -0700'
+mt_id: 1302
+blog_id: 2
+post_id: 1302
+basename: wells_hox_genes
+published: false
+---
+Well's seems to be the source of continuing confusion among ID-creationists such as William Dembski about evo-devo, hox genes
+
+<url href="http://pharyngula.org/index/weblog/comments/dembski_vs_evo_devo/">Dembski v. Evo-Devo</url>
+
+THis shows how ID, rather than being scientifically fruitful, has become scientifically vacuous.
+
+<!--more-->
+
+<quote author="Wells">Majority's Response to proposed changes: "The origin/change of major body plans during the Cambrian explosion has been clearly linked to small changes in HOX genes."
+
+My reply:  THIS IS FALSE.  The most striking thing about HOX genes is that they are remarkably similar in animals with radically different body plans.  For example, a HOX gene from a human, when inserted into a fruit fly, behaves just like the fruit fly's gene. [1] This means that whatever is causing the differences between a fly and a mouse, it is not the HOX genes.
+
+Furthermore, HOX genes are turned on in an animal embryo only after the body plan has already become established. [2]  Thus HOX genes could not possibly be responsible for differences in body plans.
+</quote>
+
+Bioessays. 1998 Feb;20(2):116-25. Shaping animal body plans in development and evolution by modulation of Hox expression patterns.
+
+    Gellon G, McGinnis W.
+
+    Department of Biology, Yale University, New Haven, CT, USA.
+
+    Most animals exhibit distinctive and diverse morphological features on their anterior-posterior body axis. However, underneath the variation in design and developmental strategies lies a shared ancient structural blueprint that is based on the expression patterns of Hox genes. Both the establishment and maintenance of the spatial and temporal distribution of Hox transcripts play an important role in determining axial pattern. The study of many animal systems, both vertebrate and invertebrate, suggests that the mechanisms used to establish Hox transcription are nearly as diverse as the body plans they specify. The strategies for maintenance of Hox expression pattern seem more conserved among different phyla, and rely on the action of Pc and trx group genes as well as auto- and cross-regulation among Hox genes. In mice, the sharing of regulatory elements coupled with auto- and cross-regulation could explain the conservation of the clustered arrangement of Hox genes. In contrast, fly Hox genes seem to have evolved insulators or boundary elements to avoid sharing regulatory regions. Differences in Hox transcription patterns can be correlated with morphological modifications in different species, and it seems likely that evolutionary variation of Hox cis-regulatory elements has played a major role in the emergence of novel body plans in different taxa of the animal kingdom.
+
+
+
+A considerable body of evidence suggests that evolutionary changes in developmental gene regulation have shaped large-scale changes in animal body plans and body parts. In particular, many comparative analyses of Hox gene expression in arthropods, annelids, and vertebrates have revealed a consistent correlation between major differences in axial morphology and differences in the spatial regulation of Hox genes (Carroll et developal., 2000). For example, Hox genes are expressed at different relative positions along the rostrocaudal axis in the mouse, chick, and python (Figure 1) (Belting et al., 1998; Cohn and Tickle, 1999). Such shifts in Hox
+expression domains during evolution could arise from changes in the expression of trans-acting regulators and/or within the cis-regulatory regions of Hox genes.
+Direct evidence that a Hox cis-regulatory element has functionally diverged during the course of bird and mammal evolution has been found to underlie a relative shift in the expression of the mouse and chick Hoxc8 genes (Belting et al., 1998).
+The divergence of cis-regulatory element function is also implicated in the morphological diversification of structures such as insect hindwings and vertebrate limbs. Both the regulation of Hox genes within insect (Stern, 1998) and vertebrate (Sordino et al., 1995) appendage fields and the sets of target genes regulated by Hox or other selector genes that control appendage identity have diverged between lineages (Weatherbee and Carroll, 1999). The evolutionary divergence of both Hox and downstream target gene regulation appears to arise through selected changes in one or a subset of the many individual elements that independently regulate gene expression in different parts of animals.
+</quote>
+
+Source: Endless Forms: Sean B. Carroll <b>The Evolution of Gene Regulation and Morphological Diversity</b> <i>Cell</i>, Vol. 101, 577--580, June 9, 2000.
+
+
+Wells also quotes from <url href="http://www.pandasthumb.org/pt-archives/000442.html">Gilber et al</url>
+
+<quote>
+Abstract: Comparative studies of the molecular control of development in diverse animal groups have revealed a
+surprising conservation in the genetic control of animal development. A dramatic demonstration of this conservation is
+seen in the expression and function of Hox genes deployed along the animal anterior-posterior (A-P) body axis, where
+similar expression and function of Hox genes are seen in animals as diverse as nematodes, insects and vertebrates. With
+the genome sequences of several metazoans now in hand and the availability of BAC genomic libraries from additional
+species, researchers have begun to characterize the genomic changes underlying divergent developmental programs. This
+review summarizes the role of Hox genes in evolution of the vertebrates. General patterns of Hox cluster evolution among
+the major lineages of vertebrates are described including lineage-specific instances of cluster duplication and gene loss.
+Following this are brief descriptions of the evolving role of Hox genes in evolution of primitive vertebrates, and their
+subsequent roles in evolution of vertebrate axial and appendicular diversity. A conceptual theme uniting all these studies
+is the remarkable plasticity of Hox genes in the evolution of vertebrate diversity. Finally, the increasingly important roles
+of experimental advances in genomics and bioinformatics are discussed along with suggestions for future directions in
+vertebrate Hox research.</quote>
+
+Thomas P. Powers and Chris T. Amemiya Evolutionary Plasticity of Vertebrate Hox Genes Current Genomics, 2004, 5, 459-472
+
+<quote>This comparative approach to development, called "evo-devo" (for evolutionary developmental biology) has provided new insights into both the mechanisms of development and evolution [1-7]. Developmental mechanisms have been shown to be more pliable than previously imagined, while an equally unexpected conservatism has been found in the genetic control of development across the metazoan phyla. <b>This apparent paradox has led to a paradigm, which explains the evolution of morphologically diverse metazoans as a process driven largely by mutations which alter the regulatory architecture of conserved sets of morphoregulators (i.e., transcription factors) [8-10].</b></quote>

@@ -1,0 +1,70 @@
+---
+layout: article
+title: At Evolution2012 in spirit
+date: '2012-07-05 22:36:35 -0700'
+mt_id: 6547
+blog_id: 2
+post_id: 6547
+basename: at_evolution201
+---
+<a href="http://www.confersense.ca/Evolution2012/">Evolution 2012</a> is starting tomorrow!  This time it's in Ottawa, representing the First Joint Congress on Evolutionary Biology -- a meeting of the American Society of Naturalists (ASN), the Canadian Society for Ecology and Evolution (CSEE), the European Society for Evolutionary Biology (ESEB), the Society for the Study of Evolution (SSE), and the Society of Systematic Biologists (SSB).  
+
+Sadly, though, I can't go this year.  A good friend of mine is having her wedding right in the middle of the meeting.  There's only one wedding in someone's life (well, hopefully!) and there are a lot of meetings, so I picked the wedding.  I guess the wedding won't be entirely evolution-free, seeing as the bride studies <a href="http://en.wikipedia.org/wiki/Ground_sloth">extinct giant sloths</a>. 
+
+But at the moment I'm looking over the <a href="http://www.confersense.ca/Evolution2012/program.htm">program</a> for Evolution 2012 and experiencing a few missing-the-conference blues.  
+
+Ah, but here's something to cheer me up.  After you've been in science for awhile, you discover that you don't even have to be at a meeting for your name to get into the program, due to the collaborations you are involved with!  Here are the papers I'm a coauthor on:
+
+
+<!--more-->
+
+<blockquote>Sunday, July 8 | 10:30 am - 12:00 noon
+Rm. 203
+
+<b>Session: Biogeography 2</b>
+
+"Treating fossils as terminal taxa in divergence time estimation reveals ancient vicariance patterns in the Palpimanoidea spiders"
+
+Wood, Hannah; Matzke, Nicholas; Gillespie, Rosemary; Griswold, Charles
+</blockquote>
+
+This study derives from the Ph.D. work of spider biologist <a href="http://nature.berkeley.edu/~hannah_marie2/">Hannah Wood</a>* of U.C. Berkeley's ESPM department (Environmental Science, Policy, and Management).  She spent years travelling the world and collecting spiders from the group <a href="http://en.wikipedia.org/wiki/Palpimanoidea">Palpimanoidea</a>, a group that is awesome because it includes assassin spiders.  Assassin spiders have the interesting habit of preying on <i>other spiders</i>, and for this purpose they have long necks and extended jaws that can sweep out and nab another spider before it can bite back.  Here's an example:
+
+<img alt="E. coronutus.jpg" src="http://pandasthumb.org/archives/2012/07/05/E.%20coronutus.jpg" width="257" height="202" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" />
+
+Assassin spiders were first discovered as fossils, in amber in the Baltic in the 1800s.  But the living species, discovered decades later, are mostly in the southern hemisphere.  This raises the question of whether or not they might be an example of biogeographical vicariance.  Vicariance is the process whereby speciation occurs because a formerly continuous species range is split apart by geographical/geological events.  The most famous postulated examples of vicariance involve groups that may have been divided up by the breakup of Gondwanaland in the Mesozoic.
+
+My own Ph.D. work involves the combination of statistical phylogenetics and historical biogeography.  So one day, when Hannah and I were talking (probably over beer or perhaps whiskey) it became obvious that we should collaborate.  Hannah had already done the phylogenetics of her group, but to test the hypothesis of Gondwanaland vicariance, we needed not just a phylogeny but a dated phylogeny.  
+
+Until recently, the standard way to date a phylogeny was to put calibration distributions specifying the possible dates on certain nodes, and use this to estimate some molecular clock (or more commonly, a relaxed clock with variable rates).  However, this method has always had the disadvantage of the subjectivity of translating complex information from the literature about the fossil records (or lack of fossil records) of your group into some kind of statistical distribution of possible times.  It's not a hopeless approach -- certainly everyone would agree that we can say ahead of time that the human-chimp divergence is sometime in the Cenozoic, not before, for instance -- but the subjectivity always bothered people.
+
+Could we do better in dating?  Just last year, a new approach to dating became available, where fossils are input directly into the analysis as dated tips on the tree, with their morphology coded.  Just as with DNA and with the coded morphology data of living species, statistical methods to estimate the rates of transitions between character states can be estimated, along with a relaxed clock model and therefore the dating of the nodes on the tree.  I am convinced that this method will take over the field of divergence-time estimation in the next few years, at least in situations where the fossils are good enough to get a lot of character data.
+
+We ran this analysis for the spiders, and, lo and behold, the divergence times were just about right for a classic Gondwanan vicariance scenario.  Several "classic" cases of Gondwanan vicariance have been overturned in recent years, when molecular dating analyses indicated that the divergence of the groups was far too recent to be caused by Mesozoic continent-splitting events, but in our case the dating analysis confirmed it.
+
+We also ran an ancestral range analysis using the program <a href="http://code.google.com/p/lagrange/">Lagrange</a>.  This program takes a phylogenetic tree and geographic range data and makes a maximum-likelihood estimate of the ancestral geographic ranges and the transitions that occurred.  This also confirmed the vicariance hypothesis, as far as it was able (Lagrange has some quirks that make it difficult to perfectly test a classic vicariance scenario).  We took into account the uncertainty in our phylogeny and dating by running the program on 1000 trees sampled from the Bayesian posterior distribution of trees in the dating analysis.
+
+The second talk I'm on is:
+
+<blockquote>Monday, July 9 | 8:30 - 10:00 am
+Rm. 203
+
+<b>Session: Biogeography, bioinformatics & computational biology</b>
+
+"Statistical analysis of biogeography when the number of areas is large."
+
+Landis, Michael; Matzke, Nick; Moore, Brian; Huelsenbeck, John
+</blockquote>
+
+I mentioned above the biogeography program Lagrange.  One of the limitations of Lagrange, and similar programs, is the complexity of the state space in biogeographic analyses.  In DNA analyses, the "state space" is of size 4, i.e. there are only 4 possible states at any position in the alignment: A, C, G, and T.  Thus a matrix specifying the probability of transitions between these states is only of size 4x4.  Computers can calculate transition probabilities for such a matrix very quickly, which is part of why DNA-based phylogenetics and ancestral sequence estimation is possible.  Amino acid matrices are 20x20, which is bigger, but still not a huge deal.
+
+In biogeography, on the other hand, the size of the state space depends on the number of areas being used in the analysis.  And in the more sophisticated programs (like Lagrange), a species is allowed to live in any number of areas.  If your analysis postulates that your biogeography can be modeled as 2 areas, area A and area B, it's not too bad.  The possible biogeographic ranges for species are A, B, and A+B.  The state spaces is of size 3, and the transition matrix is size 3x3.  No big deal.  
+
+But if there are 7 areas (say, Africa, Madagascar, New Zealand, Australia, South America, and Eurasia, basically what we had in the assassin spider analysis), then there are 7 areas.  The size of the state space is (2^7)-1 -- 2^7 accounts for every combination of presence/absence (2 states) in each region (7 regions), and the -1 is because we exclude the null range (which would mean global extinction).  (2^7)-1 = 127.  A 127x127 matrix is still not a huge deal for a computer, but with 8 areas the size of the state space is 255; with 9 areas it is 511, and with 10 areas it is 1023.  A 1023x1023 matrix has over 1 million cells in it.  A computer can still calculate a transition probability matrix of this size in under a second, but in a maximum likelihood analysis or Bayesian analysis such calculations have to be performed thousands of times as the optimal model is searched for.  So we are getting into serious calculation time.  There are a few tricks that can improve the situation somewhat, but if you get many more areas, your computer will hang and run forever without finishing.
+
+The above is not a problem if you are happy modeling your study group's biogeography as a handful of areas (say, a continent-level analysis).  But if you want to think bigger, there has been no method, until now.  Using a Bayesian technique that samples range evolution histories, we avoid the problem of having to calculate the probability of every possible transition, and thus the problem of dealing with large matrices.  The program is still in development, but Michael Landis (like me, a student of Huelsenbeck) will present the approach and preliminary results.
+
+OK, I think I've gotten the meeting out of my system for a bit at least.  If anyone reading this is at the meeting, take a look at Hannah's and Michael's talks and give us feedback!  Entertaining observations about the meeting also are encouraged.  Usually the twitter feed is pretty good, at <a href="http://ievobio.org/">iEvoBio</a> especially. Sigh.
+
+* No relation to Todd Wood, the creationist at Bryan College who is mildly famous for admitting that evolutionary biologists usually know what they are talking about and creationists usually don't. In part this may derive from the fact that Todd Wood attends the Evolution meeting each year.
+

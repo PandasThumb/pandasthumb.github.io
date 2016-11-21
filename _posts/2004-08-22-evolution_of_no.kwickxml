@@ -1,0 +1,203 @@
+---
+layout: article
+title: 'Evolution of Novelty: Science v ID'
+date: '2004-08-22 18:55:13 -0700'
+mt_id: 400
+blog_id: 2
+post_id: 400
+basename: evolution_of_no
+published: false
+---
+Meyer when discussing [1] the origin of novelty asks the following question "What lies behind this skepticism? Is it warranted? Is a new and specifically causal theory needed to explain the origination of biological form?"
+
+Meyer is talking about what he argues to be the failure or inability of Neo-Darwinism to explain the origin of novelty.  As is typical with ID arguments, their argument for ID is based on negative evidence and as I intend to show it lacks any attempt to present the necessary details as to how ID explains the observations. 
+Let it also be clear that the argument is NOT as much about the inability of NeoDarwinism to explain the origin of novelty, quite the contrary. The argument is that the mathematical tools which were so successful in many other areas namely the tools of "population genetics" are unsuitable for dealing with the origin of novelty since they do not take into account how phenotype and genotype are related. It's a failure of mathematical tools which is the focus of the 'controversy' not the sufficiency of NeoDarwinism.
+
+First lets look at Meyer:
+
+<quote>
+First, the possibility of design as an explanation follows logically from a consideration of the deficiencies of neo-Darwinism and other current theories as explanations of the more striking "design" in biological systems"
+</quote>
+
+and thus Meyer rhetorically asks:
+
+<quote>
+But does neo-Darwinism, or any other fully materialistic model, explain all appearances of design in biology, including the body plans and information that characterize living systems? 
+</quote>
+
+Of course one can never fulfill the requirement that it can explain all appearances of design in biology but so far the track record of science to find scientific explanations for 'appearances of design'. Of course it's in these gaps where ID prefers to hide itself. A recent comment by Behe reminded me of how ID embraces scientific knowledge but argues that it cannot or may not be able to explain all the data, at the same time leaving open the possibility that it may be able to do so. In other words, even if science finds an explanation for a particular example of 'appearance of design' ID can always restate its position without any risk. Combined with a lack of any evidence of a positive hypothesis of ID, the conclusions should be simple: ID fails to be scientifically relevant.
+
+
+As I shall show, Neo-Darwinism (or any other fully materialistic model building on Neo-Darwinism) has the necessary tools to address these questions.  The real message however is that Intelligent Design lacks any theoretical foundation or practical application that helps resolve these issues. In other words, if Meyer has shown anything in this paper it is that while Neo-Darwinists and scientists are pursuing these questions, Intelligent Design at most can point out the gaps in our knowledge making it the ultimate "appeal to ignorance" but scientifically irrelevant.
+
+We all have seen how Intelligent Design under the guise of 'controversy' is hoping to introduce intelligent design. But as the evidence time after time shows, there is no controversy over science versus intelligent design, since there is no scientific intelligent design hypothesis presented beyond pointing out the limitations in our knowledge.
+
+One of the papers Meyers quotes as 'evidence' of the controversy and inadequacy of Neo-Darwinism is:
+
+<a href="http://pantheon.yale.edu/%7Egpwagner/index.html">Gunter P.Wagner</a> and Peter F. Stadler, <b><a href="http://www.bioinf.uni-leipzig.de/Publications/ELSEVIER/Wagner:03a.pdf">Quasi-Independence, Homology and the Unity of Type: A Topological Theory of Characters</a></b>, <i>J. theor. Biol. (2003)</i> <b>220</b>, 505-527
+
+Let's explore what this paper argues and how it contradicts much of Meyer's claims.
+
+<!--more-->
+
+Motivated by their work on RNA which showed the central role of the genotype-phenotype mapping, Wagner and Stadler show how issues of punctuated innovation, homology, developmental constraints and irreversibility can be understood in terms of accessibility of the phenotype space. In fact they argue that these issues can be understood much better in this framework than in terms of population genetics models. But rather than abandoning Neo-Darwinism, they extend its success by formulating a mathematical foundation which moves beyond the limitations of the quantitative genetic theory.
+
+The accessibility structure at the genotype level is itself determined by the various mutations operators such as (point) mutation, homologous and non-homologous cross-overs, gene duplication, gene loss, and genomic rearrangements. In fact, each of these operators has a different impact on the accessibility of genotype space.
+
+The simplest example involves point mutations. Using the concept of Hamming distances, 
+
+Recombination complicates the overall structure.
+
+The genotype-phenotype map maps the accessibility of genotype space into accessibility of phenotype space. This mapping is in many cases many-to-one, and non-random. Using mathematical concepts from topology various authors have developed the tools to explore the accessibility issues. They argue that the motivation of developing these mathematical tools is to obtain a 'mathematical language in which the origin of evolutionary novelties can be described and modeled'.
+
+
+The authors argue that while population genetic theory has succesfully been applied to all the major branches of evolutionary biology explaining the origin of adaptations, social behavior and the origin of species, it has been far less successful in one area namely the origin of evolutionary novelties.
+
+How are novelties defined: 
+
+<quote>
+Novelties are parts of a body plan that are neither homologous to an ancestral character nor serially homologous to another part of the body (Muller & Wagner, 1991). 
+</quote>
+
+
+<quote>
+Conﬁguration spaces are deﬁned in terms of the genetic operators which transform genotypes and phenotypes (Reidys & Stadler, 2002). As such they are rooted in the Neo-Darwinian insight that evolution results from the ﬁxation of
+heritable variation produced by mutation and/or recombination. For this reason we think that the theory of conﬁguration spaces is particularly well suited for our purposes. 
+</quote>
+
+
+The beauty of all this is that the theory makes few assumptions
+
+<quote>
+All that is assumed is that there are organisms and that there are genetic processes that can transform the phenotypes of organism in some known fashion. Hence configuration spaces do not require us to make any ontic (ontological ed.) commitments on whether cells, genes, or organs are the relevant units. All we assume is that organisms are transformed and that the rules of these transformation can be described in an abstract (pre-)topological space (Stadler et al., 2001).
+</quote>
+
+
+So far it seems clear that the authors are not arguing against the inability of Neo-Darwinism to understand the origin of novelty but rather that the mathematical tools, which are very successful in other areas, are insufficient to understand how novelties arise. Rather than reject Neo-Darwinism, the authors set out to overcome some unwarranted assumptions in the quantitative genetic theory.
+
+<quote>
+The theory of genotype-phenotype maps and the associated configuration spaces is therefore complementary to the project of developmental evolution rather than an alternative or competing enterprise.
+</quote>
+
+<h>Continuity of Evolutionary Trajectories</h>
+
+In <b>The Topology of the Possible: Formal Spaces Underlying Patterns of Evolutionary Change</b>, <i>J. theor. Biol.</i>  (2001) <b>213</b>, 241}274, Stadler, Wagner and Fontana, extend the explanatory level for phenotype space from fitness considerations alone and include the topological structure of phenotype space.  In doing so they also formulate a solid foundation for the concept of 'continuity of evolutionary trajectories' and notice that due to the nature of various different genetic operators, the accessibility of phenotype space can be quite variable. Even if point mutations run into an obstacle other genetic operators may 'see' a less inaccessible landscape.
+
+
+<quote>
+A further mechanistic consequence of the topological interpretation of major evolutionary transitions is that natural selection does not provide a complete explanation for their occurrence. Natural selection is a sufficient explanation for
+the outcome of an evolutionary process, if the genetic variation contributing to the derived phenotype is easily accessible. Whether a transition occurs, then only depends (to a first approximation) on the strength and direction of
+selection. If major transitions, however, require specially poised genotypic/developmental realizations of the ancestral phenotype, then the
+transition critically depends on factors not under the control of selection, since different genetic realizations of the same ancestral phenotype lie on a neutral network and are not distinguishable by selection on phenotypes.
+</quote>
+
+In other words, the combination of selection and neutrality may be essential in understanding the success of evolution.
+
+<h>Continuity in evolution</h>
+
+Walter Fontana and Peter Schuster, <a href="http://www.iiasa.ac.at/Publications/Documents/IR-98-039.pdf">Continuity in Evolution: On the Nature of Transitions</a>, INTERIM REPORT IR-98-039 / April International Institute for Applied Systems Analysis, Austria
+
+
+<h>On the evolution of phenotypic exploration distributions</h>
+
+<a href="http://homepages.inf.ed.ac.uk/mtoussai/publications/">Mark Toussaint</a>, <b><a href="http://homepages.inf.ed.ac.uk/mtoussai/publications/toussaint-03-foga.pdf">On the evolution of phenotypic exploration distributions</a></b>
+Foundations of Genetic Algorithms, Volume 7 (FOGA VII), 169-182, 2003.
+
+<quote>
+Abstract. In nature, phenotypic variability is highly structured with respect to correlations between different phenotypic traits. In this paper we argue that this structuredness can be understood as the outcome of an adaptive process of phenotypic exploration distributions, similar to the adaptation of the search distribution in heuristic search schemes or Estimation-of-Distribution Algorithms. The key ingredient of this process is a non-trivial genotype-phenotype mapping: We rigorously define non-triviality, in which case neutral traits (as a generalization of strategy parameters) in uence phenotype evolution by determining exploration distributions. Our main result is the description of the evolution of exploration distributions themselves in terms of an ordinary evolution equation. Accordingly, the "finess" of an exploration distribution is proportional to its similarity (in the sense of the Kullback-Leibler divergence) to the fitness distribution over phenotype space. Hence, exploration distributions evolve such that dependencies and correlations between phenotypic variables in selection are naturally adopted by the way evolution explores phenotype space.
+</quote>
+
+<blockquote author="***">
+D denotes the relative entropy or Kullback-Leibler divergence between two distributions, and H the entropy,
+
+
+
+We argued that this result provides a bridge between heuristic search approaches to adaptation, conventional self-adaptation, and theoretical biology concerning the origin of epistatis.
+</blockquote>
+
+Meyer rhetorical and erroneously states
+
+<quote>
+Many scientists and mathematicians have questioned the ability of mutation and selection to generate information in the form of novel genes and proteins. 
+</quote>
+
+What Meyer perhaps means is that various intelligent design proponents have claimed, in spite of the data, that variation and selection cannot generate (complex specified) information. And nevertheless several examples exist which show this to be incorrect. While ID proponents argue that information is injected via the fitness function, they miss the point namely that if one were to accept that fitness functions can inject information then one has to accept that variation and natural selection are at least in principle sufficient to explain the information  found in the genome.
+
+And here we return to the work by Wagner, Schuster, Stadler, Fontana and others on RNA. These scientists have published a large amount of research on the accessibility of RNA. RNA is extremely suitable since its phenotype in the shape of its secondary structure can be relatively easily computed. In other words, RNA has a tractable genotype-phenotype mapping. 
+
+What did these scientists find when they looked at RNA?
+
+<list type="1"><li>There are far more sequences than structures. In other words there exists a many-to-one mapping from genotype to phenotype.
+</li><li>Few common and many rare structures. In fact the distribution has been shown to be 'scale free'.
+</li><li>Common structures are found almost everywhere in sequence space. 
+</li><li>Neutral networks of common structures extend over whole sequence space.
+</li></list>
+
+These findings help us understand why evolutionary mechanisms could have been successful in shaping RNA.
+Some of the concepts and consequences of the RNA work has been extended to include protein folding and cellular control networks. 
+
+And while Gunter Wagner appeared to be somewhat pessimistic when he suggested :that it may be experimentally impossible to reconstruct and demonstrate which genetic changes caused an evolutionary innovation, because the required genetic backgrounds are so rare and unlikely to be conserved in any extant species by virtue of neutral drift. [/quote]
+
+Fotana, in his review article "<a href="http://www.santafe.edu/~walter/Papers/bioessays02.pdf">Modelling ‘evo-devo' with RNA</a>",  observes that:
+
+<quote>
+Rather than ending with an unsettling note on the limits of what is knowable in evolution, I emphasize the decade-long convergence between experiment(85-88) and theory towards characterizing the distribution of structural and functional properties in RNA sequence space. The Schultes-
+Bartel experiment(61) has made contact and this constitutes a transition.
+</quote>
+
+84. Wagner GP. What is the promise of developmental evolution? Part II:
+A causal explanation of evolutionary innovations may be impossible.
+J Exp Zool (Mol Dev Evol) 2001;291:305-309.
+
+
+<quote>
+The existence of extended and connected neutral networks in RNA sequence space was proven by an elegant experiment recently published by Erik Schultes and David Bartel [60]. They designed an RNA sequence which forms two known structures (of chain length (l = 88) with different catalytic activities, an RNA ligase evolved in the laboratory [61] and a natural cleavage ribozyme isolated from hepatitis delta virus RNA [62]. The two structures have no base pair in common. Folding the synthesized chimeric sequence into structures yielded indeed both activities, although they were substantially weaker than those of the reference ribozymes, the ligase and the cleavage ribozyme, respectively. Only two or three selected point mutations or base pair exchanges are required, however, to reach full catalytic e±ciency. Still, the two optimzed RNA molecules have a Hamming distance around forty from their reference sequences. Then, Schultes and Bartel [60] explored further the mutational neighborhoods and found neutral paths of Hamming distance about 40, by preparing and analyzing series of RNA sequences, in which neighboring sequences differ in a single base or base pair only. Without interruption these neutral paths lead from the RNA with both catalytic activities to the two reference ribozymes.
+</quote>
+
+<h>Evolution of biological complexity</h>
+
+Hong Qin, Henry H. S. Lu, Wei B. Wu, and Wen-Hsiung Li <a href="http://www.pnas.org/cgi/reprint/100/22/12820.pdf"><b>Evolution of the yeast protein interaction network</b></a>, 12820-12824 PNAS October 28, 2003 vol. 100 no. 22
+
+<quote>
+The key disagreement between the Darwinian view and the universality view on the evolution of biological complexity is the role of historical contingency (22, 27). Undoubtedly, efforts to search for universal rules benefit our understanding on biological complexity. However, by using the yeast protein interaction network as an example, we observed a correlation between network evolution and the universal tree of life. This observation strongly argues that network evolution is not ahistorical, but is, in essence, a string of historical events.
+</quote>
+
+Or as Leslie Johnson remarked
+
+<quote>
+Darwinism has met the challenge of the explosion of new information generated by the growth of molecular biology, and is becoming integrated with it in ways that get richer with the passage of each publishing day. The theory is healthy.
+</quote>
+From: Darwinism: Science or Philosophy Chapter 6a Response to Michael J. Behe <b>The Process, Described Properly, Generates Complexity in Good Time</b>
+
+The same seems to apply to Darwinism and the growth of developmental biology. Noticably absent seems to be Intelligent Design hypotheses.
+
+
+Del Ratzsch author of Nature, Design and Science remarked
+
+<quote>
+"I think that some are certainly too far in the materialist direction, and they claim that science backs them up on that. ID can at least serve a `keeping em' honest' function, even if nothing else. I think that ID may very well have things to offer science, but I think that it is too early for ID to claim that it has done so. I don't think that it is just obvious that ID will contribute substantively to science, but I think it has that potential, and that it should be pushed as far as it can be made to legitimately go."
+</quote>
+
+In order for ID to live up to Del Ratzsch's expectations it needs to do a lot of work. So far it fails even the minimal qualifications of performing a 'keeping em' honest'  function. Let's not hold our breath for ID contributing something substantively to science.
+
+<hr/>
+
+[1] Meyer, Stephen C. 2004. The origin of biological information and the higher taxonomic categories. Proceedings of the Biological Society of Washington 117(2):213-239.
+
+A.-L. Barabasi, Z.N. Oltvai and S. Wuchty <b>"<a href="http://www.nd.edu/%7Eswuchty/Download/BaraOltWuc.pdf">Characteristics of Biological Networks</a>"</b>, in E. Ben-Naim, H. Frauenfelder, Z. Toroczkai (eds.), "Complex Systems", Springer Lecture Notes in Physics, New York, (2003)
+
+
+S. Wuchty, <b>"<a href="http://www.nd.edu/%7Eswuchty/Download/Wuchty01.pdf">Scale-free Behavior in Protein Domain Networks</a>"</b>, Mol. Biol. Evol., 18(9), 1694-1702, (2001)
+
+Wagner is quoted in the NCSE's "Analysis of the Discovery Institute's
+Bibliography of Supplementary Resources for Ohio Science Instruction""
+
+<quote>
+In no way does my work represent an attack on the theory of descent with modification, i.e. the plain fact of evolution, or even the fundamental insights of the neo-Darwinian theory of evolution. It is intended as an attempt to extend the explanatory reach of Darwinian evolutionary thinking by eliminating some technical limitations that result from the mathematical language currently used to model evolutionary processes. All that work agrees with and is based on the fact that evolution proceeds by the spontaneous generation of genetic variation and the fixation of these variations by selection and/or drift. The points of my papers are narrow technical ones and in no way weaken the fundamental insights of Darwinian evolutionary thinking. They do, however, challenge some of the more speculative extensions of this theory, like the idea that everything is
+possible with more or less equal probability. But this does not affect the fundamentals of the neo-Darwinian theory of evolution.
+</quote>
+
+While Meyer succeeds in quoting the vaste amount of non-peer reviewed literature he also manages to mention Wolf-Ekkehard Lönnig and Heinz Saedler (2002): CHROMOSOME REARRANGEMENTS AND TRANSPOSABLE ELEMENTS (Annu. Rev. Genet. 36: 389-410): returning in kind the passing reference found in this paper to the intelligent design literature.  Not surprisingly this paper and some others have been quoted by Intelligent Design proponents as evidence of ;<a href="http://www.talkorigins.org/indexcc/CI/CI001_4.html">peer reviewed' Intelligent Design literature</a>.
+While the authors may qualify as 'intelligent design' proponents, it should be clear by now that those papers, like Meyer's does little to present the Intelligent Design hypothesis.
+
+Lonnig's paper argues that appearance of punctuated equilibria, the fossil record  are inconsistent with the 'strict Neo-Darwinian theory of essential continuous evolution'. The argument shows the common confusion found about the nature of the fossil record, the theory of punctuated equilibria and Neo-Darwinism. 

@@ -1,0 +1,41 @@
+---
+layout: article
+title: Evolution, co-evolution, evolvability
+date: '2006-02-25 15:46:06 -0700'
+mt_id: 1977
+blog_id: 2
+post_id: 1977
+basename: evolution_coevo
+published: false
+---
+Research presented in the <i>JOURNAL OF BACTERIOLOGY</i>, Mar. 2005, p. 1901--1912 describes the exciting new findings by authors Xueyan Zhao and Roy David Magnuson.
+
+The article <b>Percolation of the Phd Repressor-Operator Interface</b> has the following abstract which caught my eye
+
+<quote>Transcription of the P1 plasmid addiction operon, a prototypical toxin-antitoxin system, is negatively autoregulated by the products of the operon. The Phd repressor-antitoxin protein binds to 8-bp palindromic Phd-binding sites in the promoter region and thereby represses transcription. The toxin, Doc, mediates cooperative interactions between adjacent Phd-binding sites and thereby enhances repression. Here, we describe a homologous operon from Salmonella enterica serovar Typhimurium which has the same pattern of regulation but an altered repressor-operator specificity. This difference in specificity maps to the seventh amino acid of the repressor and to the symmetric first and eighth positions of the corresponding palindromic repressor-binding sites. <b>Thus, the repressor-operator interface has coevolved so as to retain the interaction while altering the specificity. Within an alignment of homologous repressors, the seventh amino acid of the repressor is highly variable, indicating that evolutionary changes in repressor specificity may be common in this protein family. We suggest that the robust properties of the negative feedback loop, the fuzzy recognition in the operator-repressor interface, and the duplication and divergence of the repressor-binding sites have facilitated the speciation of this repressor-operator interface. These three features may allow the repressoroperator system to percolate within a nearly neutral network of single-step mutations without the necessity of invoking simultaneous mutations, low-fitness intermediates, or other improbable or rate-limiting mechanisms.</b></quote>
+
+<!--more-->
+
+The authors point out the conceptual problem with co-evolution (are you listening Andy H?)
+
+<quote>The interaction between repressor and operator can be retained, while the specificity is altered, if the repressor and operator covary or coevolve. Mechanistically, this coevolution presents special conceptual problems. An alteration in the specificity of the system requires, by definition, one or more mutations in the repressor and one or more corresponding or compensatory mutations in the operator. Thus, the fitness or function of a given operator is contingent upon the sequence of the corresponding repressor. This epistatic relationship corresponds to a rugged (digital) adaptive landscape with many high spots (peaks) and many low spots (valleys) corresponding to compatible and incompatible repressor-operator combinations./quote>
+
+combinations.
+The passage of the system from one specificity to a second different specificity requires the simultaneous occurrence of two or more mutations, which is unlikely, passage through a low-fitness intermediate (valley), which is unfavorable and infrequent, or stepwise passage through a series of at least two neutral fitness intermediates with overlapping specificities (a ridge or neutral network), which may be unparsimonious. The general problem is applicable to a variety of microevolutionary and macroevolutionary problems and thus has long been the subject of considerable theoretical interest (4,22, 29, 40, 84) and has recently become a subject of some experimental interest (15).
+</quote>
+
+4. Arnold, S. J., M. E. Pfrender, and A. G. Jones. 2001. The adaptive landscape as a conceptual bridge between micro- and macroevolution. Genetica 112-113:9-32
+22 Cruzan, M. B. 2001. Adaptive landscapes, p. 5-7. In S. Brenner, J. H. Miller, and W. Broughton (ed.), Encyclopedia of genetics. Academic Press, Inc., New York, N.Y.
+29 Gavrilets, S., and J. Gravner. 1997. Percolation on the fitness hypercube and the evolution of reproductive isolation. J. Theor. Biol. 184:51-64.
+40 Kauffman, S., and S. Levin. 1987. Towards a general theory of adaptive walks on rugged landscapes. J. Theor. Biol. 128:11-45.
+84 Wright, S. 1932. Evolution in Mendelian populations. Genetics 16:97-159.
+
+
+15 Burch, C. L., and L. Chao. 1999. Evolution by small steps and rugged landscapes in the RNA virus {phi}6. Genetics 151:921-927
+So let's side-step to Burch et al's paper on the RNA virus
+
+<quote><url href="http://www.genetics.org/cgi/content/abstract/151/3/921">Evolution by Small Steps and Rugged Landscapes in the RNA Virus {phi}6</url> Christina L. Burch and Lin Chao from the Department of Zoology, University of Maryland, College Park, Maryland 20742
+
+Fisher's geometric model of adaptive evolution argues that adaptive evolution should generally result from the substitution of many mutations of small effect because advantageous mutations of small effect should be more common than those of large effect. However, evidence for both evolution by small steps and for Fisher's model has been mixed. Here we report supporting results from a new experimental test of the model. We subjected the bacteriophage {phi}6 to intensified genetic drift in small populations and caused viral fitness to decline through the accumulation of a deleterious mutation. We then propagated the mutated virus at a range of larger population sizes and allowed fitness to recover by natural selection. Although fitness declined in one large step, it was usually recovered in smaller steps. More importantly, step size during recovery was smaller with decreasing size of the recovery population. These results confirm Fisher's main prediction that advantageous mutations of small effect should be more common. We also show that the advantageous mutations of small effect are compensatory mutations whose advantage is conditional (epistatic) on the presence of the deleterious mutation, in which case the adaptive landscape of {phi}6 is likely to be very rugged.</quote>
+
+

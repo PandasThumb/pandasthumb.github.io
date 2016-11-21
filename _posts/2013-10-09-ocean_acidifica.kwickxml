@@ -1,0 +1,115 @@
+---
+layout: article
+title: 'Ocean Acidification: Winners and Losers Among Marine Life'
+date: '2013-10-09 20:00:24 -0700'
+mt_id: 6836
+blog_id: 2
+post_id: 6836
+basename: ocean_acidifica
+---
+
+by <b>Carl Drews</b>
+
+What will happen to the Earth's oceans as the level of dissolved CO <sub>2</sub> in the oceans increases? This post explores the likely consequences of this increase for plants and animals living in the oceans. We will <i>not</i> cover questions about the <i>reality</i> of climate change itself, nor the suggested <i>causes</i> of global warming (human-caused or natural). 
+
+The complexity of the earth system is such that nobody can be an expert on all aspects of the atmosphere, hydrosphere, and biosphere. Climate change involves many interrelated scientific disciplines. One of the great things about Panda's Thumb is that it covers a wide range of scientific topics, and anyone can contribute their own expertise when their particular field comes up. I am sure that PT readers will correct me if I get something wrong here (and even if I don't!).
+
+<!--more-->
+
+<b>Basic Chemistry</b>. <a href="http://scrippsco2.ucsd.edu/sub_program_history/charles_david_keeling_biography.html">Charles Keeling</a> began to <a href="http://scrippsco2.ucsd.edu/program_history/early_keeling_curve_3.html">measure the atmospheric level of carbon dioxide</a> (CO<sub>2</sub>) at Hawaii's <a href="http://www.esrl.noaa.gov/gmd/obop/mlo/">Mauna Loa Observatory</a> in 1958. The result of this research is the famous <a href="http://www.climatecentral.org/gallery/graphics/keeling_curve">Keeling curve</a>, which shows a time series of atmospheric CO<sub>2</sub> that continues to the present day (Figure 1). The level of CO<sub>2</sub> was about <a href="http://www.aip.org/history/climate/timeline.htm">290 parts per million (ppm) during 1800-1870</a>, as calculated from ice cores.
+
+<figure alt="DrewsFig1.jpg" src="http://pandasthumb.org/DrewsFig1.jpg" width="600">
+<i>Figure 1. </i>Keeling curve of atmospheric carbon dioxide measured at Mauna Loa, Hawaii. Wikimedia Commons: <a href="http://www.globalwarmingart.com/">Robert A. Rohde</a> as user Dragons flight.
+</figure>
+
+
+In climate science, many signals are often combined within a single time series. Figure 1 shows a sinusoidal annual cycle (the figure inset), superimposed over a steady decades-long increase from about 315 ppm to 385 ppm. The <a href="http://www.climatecentral.org/gallery/graphics/keeling_curve">annual cycle</a> reflects the earth's seasons and land-based vegetation: terrestrial plants take up carbon dioxide during their growing season in spring and summer, and release it again during fall and winter. There is more land surface in the northern hemisphere (including Mauna Loa), so the contribution from the southern hemisphere does not balance that from the northern hemisphere. The overall curve is concave upwards, meaning that the overall increase of CO<sub>2</sub> is <i>accelerating</i>.
+
+Carbon dioxide can pass in either direction across an air-water interface. When a can of carbonated soda is placed in a refrigerator overnight, the CO<sub>2</sub> dissolves into the soda water and reaches equilibrium. You can upset that equilibrium by shaking the can before you open it or by leaving the can in a hot car trunk on your way to a picnic.
+
+The same equilibrium happens between the earth's atmosphere and the oceans. <i>If atmospheric CO<sub>2</sub> is on the rise (and the Keeling curve shows that it is), then the level of oceanic carbon dioxide must also be rising.</i> Note that I have stated the equilibrium relationship here without specifying which side is doing the forcing. If a quantity on one side of the interface changes, the other side must also be changing&mdash;maybe sooner, maybe later, but also changing in the same direction.
+
+At first glance, this equilibrium might be considered a good thing for humans: The oceans will absorb all the excess carbon dioxide that we are releasing through our burning of fossil fuels. The oceans will suck it all up, and we don't have to worry about greenhouse gases any more. The planet earth will fix the problem for us. Nice!
+
+That's what I thought too, until I attended a <a href="http://www.50th.ucar.edu/events/kleypas.pdf">presentation</a> by <a href="http://ncar.ucar.edu/">NCAR</a> scientist <a href="http://www.50th.ucar.edu/events/boulderlib.php#kleypas">Joan Kleypas</a> at the <a href="http://www.50th.ucar.edu/events/">Boulder Public Library</a> on May 26, 2010. The title of her talk was <a href="http://www.ucar.edu/communications/video/Kleypas-50th.mov">Carbon Dioxide and the Ocean: The Acid Test of Climate Change</a>. It took only five of her slides for the message to hit me, hard: <i>Carbon dioxide makes water acidic, and acid dissolves sea-shells.</i> Every marine organism that depends on shells might lose them, or not be able to build a shell in the first place. Ugh. That's . . . like . . . <i>really bad</i>.
+
+<b>Marine chemistry.</b> Acidity and alkalinity are measured in <a href="http://hyperphysics.phy-astr.gsu.edu/hbase/chemical/ph.html">pH</a>, which is a logarithmic scale. Before the Industrial Era, <a href="http://www.whoi.edu/OCB-OA/page.do?pid=112076#1">seawater had a pH of 8.2</a>. The global average pH of ocean water at the surface is now <i>8.1</i>. Ocean acidification is already happening; in fact, that change in pH represents the <a href="http://www.whoi.edu/OCB-OA/page.do?pid=112076#1">acidity changing by 26%</a>. Since a pH of 7 is considered "neutral," the current value of 8.1 means that surface ocean water is alkaline, or a base. "Ocean acidification" is <a href="http://www.whoi.edu/OCB-OA/page.do?pid=112076#0">defined</a> to mean the pH of seawater decreasing over time, or moving toward the acidic end of the pH scale. Acidification does not mean that the pH of seawater necessarily moves across the 7.0 line into "acidic territory."
+
+When carbon dioxide dissolves in water, some of the molecules combine with water (Figure 2) to <a href="http://www.whoi.edu/OCB-OA/page.do?pid=112076#4">form carbonic acid</a>:
+
+CO<sub>2</sub>  + H<sub>2</sub>O  &harr; H<sub>2</sub>CO<sub>3</sub>
+
+This chemical reaction also reduces the number of carbonate ions: CO<sub>3</sub><sup>2-</sup>. The Woods Hole article <a href="http://www.whoi.edu/OCB-OA/page.do?pid=112076#4">Ocean acidification chemistry 101</a> sums it up this way:
+
+<blockquote>
+The chemical changes in seawater resulting from increased atmospheric CO<sub>2</sub> concentrations include <i>increases</i> in the concentrations of dissolved (or aqueous) carbon dioxide, hydrogen ions, and bicarbonate ions, and <i> decreases</i> in the carbonate ion concentration and pH. 
+</blockquote>
+
+<figure alt="DrewsFig2.jpg" src="http://pandasthumb.org/DrewsFig2.jpg" width="600">
+<i>Figure 2.</i> The chemistry of ocean acidification. The arrows are shown in one direction to show the propagation of increasing atmospheric carbon dioxide into and through seawater. The net effect is to decrease the marine concentration of carbonate ions (shown in bold). Figure 2 is based on <a href="http://www.whoi.edu/OCB-OA/page.do?pid=112076#4">Introduction to Ocean Acidification Figure 2</a>, at Woods Hole (2013).
+</figure>
+
+Many marine organisms build their hard parts (shells, skeletons) out of dissolved calcium and carbonate ions, thereby forming calcium carbonate:
+
+	Ca<sup>2</sup> +  CO<sub>3</sub><sup>2-</sup>  &harr; CaCO<sub>3</sub>
+
+In the marine environment, carbonate ions are what "everyone wants because everyone needs," to paraphrase <a href="http://www.amazon.com/The-Lorax-Classic-Seuss-Dr/dp/0394823370">Dr. Suess</a>. They are an essential part of the process of shell formation. Remember that experiment you ran back in high school chemistry class? Where you <a href="http://www.ehow.com/info_8411192_happens-add-vinegar-seashells.html">placed a shell in vinegar</a> and observed what happened? That's the one. Acidic solutions break down calcium carbonate, or make it harder to form in the first place.
+
+<b> Impacts on marine life.</b> First, let's dispel some extreme scenarios:
+<ul>
+<li>Seawater will not turn into battery acid overnight.</li>
+<li>Australia's Great Barrier Reef will not melt away by this time next year. But - coral reefs will begin dissolving instead of accreting when atmospheric CO<sub>2</sub> levels reach <a href="http://blogs.scientificamerican.com/expeditions/2013/06/05/the-effects-of-climate-change-on-coral-reef-health/">560 ppm</a>, perhaps by 2100.</li>
+<li>Snails, clams, and other shelled mollusks will not become naked writhing blobs in one week.</li>
+</ul>
+
+Now that those canards are out of the way, we can be realistic. Figure 3 shows the historical change in ocean acidity up to the present time. The average pH of the ocean is likely to drop by an additional <i>0.3-0.4</i> by 2100, and this change represents an increase in acidity of <i>100-150&nbsp;%</i> since the Industrial Revolution [<a href="http://www.whoi.edu/OCB-OA/page.do?pid=112136#1">Woods Hole</a>].
+
+<figure alt="DrewsFig3.jpg" src="http://pandasthumb.org/DrewsFig3.jpg" width="600">
+<i>Figure 3.</i> Change in ocean surface pH since the Industrial Revolution (1750). Wikimedia Commons: user Plumbago.
+</figure>
+
+Calcifying organisms use aragonite, a form of calcium carbonate, to build their shells. Aragonite "saturation" refers to the concentration of aragonite available in seawater. Figure 4 shows the change in aragonite saturation since 1880. It's all negative. Note that Australia's Great Barrier Reef (on the eastern shore of Australia) is right in the middle of a red zone. That really gives me a sinking feeling.
+
+<figure alt="DrewsFig4.jpg" src="http://pandasthumb.org/DrewsFig4.jpg" width="600">
+<i>Figure 4.</i> Changes in marine saturation of aragonite, 1880-2012. "The more negative the change in aragonite saturation, the larger the decrease in aragonite available in the water, and the harder it is for marine creatures to produce their skeletons and shells. " Wikimedia Commons: US Environmental Protection Agency, public domain.
+</figure>
+
+Aragonite saturation depends on the ocean pH, but also on dissolved carbon and the water temperature. I think these additional factors explain why Figures 3 and 4 do not exactly correspond; if you have additional insight here, please contribute to the Comments section of this entry.
+
+<b>Winners and losers.</b> Some marine organisms can tolerate a decrease in the pH of seawater, while others are more vulnerable. Crustaceans and copepods appear to be relatively tolerant of ocean acidification. The sensitive organisms are those that build shells and skeletons through calcification: the corals and shelled mollusks. Coral reefs are going to have a hard time.
+
+Coral reefs are already stressed by a number of <a href="http://blogs.scientificamerican.com/expeditions/2013/06/05/the-effects-of-climate-change-on-coral-reef-health/">changes associated with climate change</a>: ocean warming, sedimentation, and pollution. Ocean acidification adds another threat to their survival. Caitlin Martin (an undergraduate at the University of Southern California) states:
+
+<blockquote>Numerous studies have been conducted to investigate the impact of increasing CO<sub>2</sub> levels on corals, and they all arrive at the conclusion that high CO<sub>2</sub>  levels make it difficult for marine organisms to create their calcium carbonate shells. For example, a study in the Red Sea reef showed that, globally, when CO<sub>2</sub> concentrations are at 560 ppm, corals will dissolve instead of accumulate calcium carbonate, resulting in massive die-offs (Pandolfi et al. 2011). In another study, the experiment exposed calcifying algae to four different temperatures and four different CO<sub>2</sub> levels; the greater amounts of CO<sub>2</sub> caused significant decline in photosynthetic efficiency, ability to accumulate calcium carbonate, and growth in all species (Sinutok 2011). The results also showed that after five weeks, in the 34 °C trial under all CO<sub>2</sub> levels, all species died (Sinutok 2011). Therefore, increased oceanic CO<sub>2</sub> levels have detrimental effects on coral reefs. Furthermore, linking increasing CO<sub>2</sub> levels with climate change and global warming shows the cause of the processes that are affecting the health of coral reef ecosystems. As long as greenhouse gases continue to be emitted in large amounts, CO<sub>2</sub> concentrations will increase in oceans and corals will continue to live in a chemically unhealthy ecosystem. If CO<sub>2</sub> emissions continue at the rate they are emitted now, there will most certainly be reductions in the extent and diversity of coral reefs in the future (Wilkinson 1999). <a href="http://blogs.scientificamerican.com/expeditions/2013/06/05/the-effects-of-climate-change-on-coral-reef-health/">Caitlin Martin, 2013</a></blockquote>
+
+Algae and seagrass may actually benefit from ocean acidification because they use CO<sub>2</sub> and bicarbonate (HCO <sub>3</sub><sup>-</sup>) during photosynthesis. Creatures that eat seagrass, such as manatees and green sea turtles, may benefit from an increase in their available food source. However, the "winners" column is dependent on species and habitat. There will likely be significant shifts in the mix of species as a result of ocean acidification, and the new marine ecosystem may not be what humans want. The ocean food chain is composed of many interrelated species, and a drastic reduction in the numbers of one species may in turn cause a population crash in another [<a href="http://www.whoi.edu/OCB-OA/page.do?pid=112159#1">Woods Hole</a>].
+
+<b>Conclusion.</b> At a <a href="http://www.ucar.edu/communications/quarterly/summer06/seasick.jsp">workshop in St. Petersburg, Florida in 2006</a>, oceanographers recommended <a href="http://www.ucar.edu/communications/Final_acidification.pdf">additional research</a> to clarify the response of marine calcifiers to ocean acidification. However, they were confident enough to conclude:
+
+<blockquote>
+"It is clear that seawater chemistry will change in coming decades and centuries in ways that will dramatically alter marine life," says NCAR scientist Joan Kleypas, the report's lead author.
+</blockquote>
+
+<blockquote>
+"This is leading to the most dramatic changes in marine chemistry in at least the past 650,000 years," says Richard Feely, one of the authors and an oceanographer at NOAA's Pacific Marine Environmental Laboratory (PMEL) in Seattle.
+</blockquote>
+
+<blockquote>
+"Decreased calcification in marine algae and animals is likely to impact marine food webs and has the potential to substantially alter the biodiversity and productivity of the ocean," says Victoria Fabry (California State University, San Marcos), another of the report's authors.
+</blockquote>
+
+<b>Further reading.</b> <a href="http://www.ucar.edu/communications/quarterly/summer06/seasick.jsp">Sea sickness:  Report warns about carbon dioxide threats to marine life</a>, UCAR Quarterly, Summer 2006, by David Hosansky.
+
+<a href="http://www.ucar.edu/communications/Final_acidification.pdf">Impacts of Ocean Acidification on Coral Reefs and Other Marine Calcifiers</a>, by Joan Kleypas, Richard Feely, Victoria Fabry, Chris Langdon, Christopher Sabine, and Lisa Robbins, June 2006. Workshop report.
+
+<a href="http://www.whoi.edu/OCB-OA/page.do?pid=40276">Frequently asked questions about ocean acidification</a> at Woods Hole Oceanographic Institution.
+
+<a href="http://blogs.scientificamerican.com/expeditions/2013/06/05/the-effects-of-climate-change-on-coral-reef-health/">The Effects of Climate Change on Coral Reef Health</a> blog at <i>Scientific American</i> by Caitlin Martin, June 5, 2013.
+
+<a href="http://oceana.org/en/our-work/climate-energy/ocean-acidification/learn-act/effect-of-ocean-acidification-on-corals">Effects of Ocean Acidification on Corals</a> at oceana.org.
+
+<a href="http://dge.stanford.edu/labs/caldeiralab/Caldeira_research/Silverman_Lazar.html">Coral reefs may start dissolving when atmospheric CO<sub>2</sub> doubles</a>, by Jacob Silverman, Boaz Lazar, Long Cao, Ken Caldeira, & Jonathan Erez at the Department of Global Ecology, Stanford University.
+
+<a href="http://www.ocean-acidification.net/FAQeco.html">Ocean Acidification Network</a>.
+
+<a href="http://www.epa.gov/climatechange/science/indicators/oceans/acidity.html">Ocean Acidity</a> at the United States Environmental Protection Agency.

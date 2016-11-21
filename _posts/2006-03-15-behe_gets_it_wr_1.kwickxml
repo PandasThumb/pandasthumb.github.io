@@ -1,0 +1,142 @@
+---
+layout: article
+title: Behe gets it wrong again
+date: '2006-03-15 22:52:10 -0700'
+mt_id: 2030
+blog_id: 2
+post_id: 2030
+basename: behe_gets_it_wr_1
+published: false
+---
+A Critique of Behe's Chapter 6 Experimental Support for Regarding Functional Classes of Proteins to Be Highly Isolated from Each Other, in the Anthology, Proceedings of a symposium entitled Darwinism: Scientific Inference or Philosophical Preference? Leader University 
+
+Behe's chapter purports to show that functional classes of proteins are highly isolated from each other; in other words, that there is no way a "Darwinian" mechanism can produce a functional protein from another functional protein. The article misunderstands the papers that it relies on, and ignores a large body of published work showing that diverse functional classes can be derived by mutation followed by selection. In the sections that follow, I will examine Behe's claims. However, the section is prefaced by an excursion into the ancestry of whales that gives insight into Behe's thought processes, so I will briefly deal with this first.
+
+<!--more-->
+
+<strong>A whale of a tale, Behe's "critical examination" of science. </strong>
+
+Behe's chapter begins with a description of his "Popular Arguments on Evolution." course, where he gets students to critique representations of evolutionary accounts in the popular press. Curiously, he does not seem to get the students to refer to the original scientific studies at all in this process. 
+
+"The students themselves, after reading the Post article, pointed out that there is no reason to suppose that the ancient whale appeared on earth before the modern whale, since modem whales have vestigial legs that could have developed into the functional legs of the Zeuglodon whale."
+
+This is a truly bizarre statement; we don't "suppose" that modern whales turned up later, we have independent evidence that the ancient whales appeared before modern whales. From geological evidence we know that the ancient whales referred to in the article (<em>Basilosaurus</em>) precede modern whales by several million years. Even these "modern" whales are ancient compared to the whales in our seas today. So, at the time <em>Basilosaurus</em> swam, and well before <em>Basilosaurus</em>, there are no modern whales in the fossil record, "modern" whales only turn up millions of years later.
+
+As well, even at the date of the Post article, there was a more ancient whale with legs known, <em>Pakicetus</em>, which could use its legs for walking. So at the time of the Post article, there were two legged whales, one very ancient (around 49 million years old), which walked and one ancient (around 37 million years old), in which the legs were not used for locomotion. Both of these are found well before any modern whales appear on the scene. The students "logic" is completely wrong, yet Behe supports their conclusions!
+
+Even worse, Behe says:
+"Finally, most glaringly obvious, if random evolution is true, there must have been a large number of transitional forms between the Mesonychid and the ancient whale. Where are they?" 
+
+Behe's Leader U article is based on an article written in 1994. The walking whale <em>Pakicetus</em> was already known (as well as a contemporary of <em>Basilosaurus, Durodon</em>), and the transitional whales <em>Ambulocetus</em> (a more aquatic walking whale than <em>Pakicetus</em>) and <em>Rhodocetus</em> (a swimming whale with more developed legs than <em>Basilosaurus</em>) were announced in 1994. One may forgive Behe for not knowing about <em>Ambulocetus</em> and <em>Rhodocetus </em>in 1994, but by 1997, the date of the Leader U article, they were well known and <em>Dahlanistes</em> (a seal-like walking whale), <em>Takracetus</em> and <em>Gaviocetus</em> had been added to the list. All these fitted into the spaces between <em>Pakicetus</em> and <em>Basilosaurus</em>. By the time of the 1997 revision, we had several fossil whales illustrating the gradual change from legged to legless whales, we just hadn't found them in 1990. So why does Behe not answer his own question?
+
+This apparently caviler disregard for the scientific literature extends into the main body of his article as well. 
+
+<strong>You can't get there from here. Are proteins really functionally isolated?</strong>
+
+In the protein sequence section, he muddles four distinct topics, the likelihood of finding proteins with the same function, the likelihood of finding proteins with ANY function, the ability to go from one functional protein to another in single mutational steps and the very origin of proteins themselves. 
+
+Behe starts with a very confused introduction considering proteins as strings of letters, and invoking typing monkeys randomly generating strings [note2]. This has no relationship with the generation of functional proteins in living organisms, modern or ancient. The key concept is descent with modification. New functions mostly arise because of mutational modification of an existing gene with a different function, not the generation of a new gene with a random sequence. Now, when we say mutations, most people think of point mutations, but there is a range of mutations, from insertions and deletions to fusing of parts of two different proteins together (or even fusing the entire proteins together, in experimental evolution in yeast, a new glucose transporter was evolved through duplication and fusion of two existing transporters). Indeed often the very first mutation in a protein gaining a new function is its duplication, one copy continues to perform the old function, and the other gains a new function through mutation.
+ 
+<a href="http://www.pandasthumb.org/archives/images/Gene_duplication.gif"><img alt="Gene_duplication.gif" src="http://www.pandasthumb.org/archives/images/Gene_duplication-thumb.gif" width="360" height="270" /></a>
+Figure 1 Common mechanisms for gaining new genes, gain of function and subfunctionalization. 
+
+A case in point is haemoglobin. Hagfish, a primitive jawless fish, has a single gene for haemoglobin (which works as either a monomer or a dimer, depending on the species). This haemoglobin gene duplicated at some stage, and subsequently the toe copies aquired divergent mutations. Sharks have two haemoglobins a and b, which form a dimer in the unoxygenated state, and a tetramer in the oxygenated state. Further mutations occurred, resulting in the familiar Î±2Î²2 tetrameric haemoglobin found in bony fish, frogs, lizards and mammals. Further duplications occurred, leading to the generation of other haemoglobins (for example mammals have foetal haemoglobins, expressed in early development). Even Behe finds this account unproblematic.
+
+A glance at the human (or any other complete genome) will reveal that duplication and descent with modification, rather than denovo generation of proteins, is the main generator of new functions in organisms. Most proteins come in large related families, which can be group yet again into larger "super-families" of related structures. One of the families that I work with, the protein kinases, are particular examples of a large, diverse group of functional molecules that are modifications of a basic structure, indeed, in the move from unicellular eukaryote, to to metazoan, to vertebrate, one of the key changes was an expansion in the number of protein kinases (via duplication and divergence), rather than generation of denovo proteins. See http://www.kinase.com/human/kinome/ for a diagram of the relationship of the diverse kinases with each other (the full poster is 1.6 Mb).
+
+Now you might say, despite having a wide variety of substrates and activators, protein kinases have effectively the same mechanism; surely the generation of new mechanisms is different. No, this has been studied extensively, and there are large enzyme families that have common structures but widely different mechanisms, due to small changes (often only one or two critical changes) in their structure. The enolase superfamily is one such group (I'll discuss this in more detail shortly).
+
+Behe then evokes Dawkins' "Blind watchmaker" program (although it his hard to tell as he segues from random monkeys to the blind watchmaker without explanation). Again, generation of functional proteins from random strings is irrelevant to generation of functional proteins in living organisms, modern or ancient (with one crucial exception, which we will discuss below).
+
+He begins with a complete misunderstanding of the work of Hubert Yockey. In the article that Behe cites, and in his book, Yockey is considering a very different question to the one Behe proposes. He was not considering how many different protein sequences have function, but how many related sequences have the same function [Note 3]. This is a very critical distinction, and Behe's failure to appreciate it results in him making a nonsensical argument.  
+
+You might think that a single function can only be performed by a specific protein sequence. Yet most proteins can vary quite a bit and still function perfectly well. Some proteins can have up to 70% of their amino acids randomly replaced and still work perfectly well (), you can scramble the entire core in others with no ill effect (Axe, 1996) (see Note 3). A point in case is the electron transfer protein cytochome C. The cytochrome C of the unicellular organism Tetrahymena has only 43% of its amino acids the same as human cytochrome C, yet it functions perfectly well. 
+
+The question Yockey was trying to answer was "how many variants of cytochrome C are functional cytochrome C's" not how many sequences with any function are there. From the known properties of amino acids, the (then) known functional variants of cytochrome C  and the principles of information theory Yockey calculated in the 1989 paper that approximately 10^65 101 amino acid sequences were functional cytochrome C's. He later revised this to 10^92.
+
+Note that this statement applies to proteins that have the basic structure of cytochrome C, it does not apply to proteins that have similar function but on a different structural scaffold. As an example of this, both vertebrate trypsin and bacterial subtilisn are serine proteases (enzymes that breakdown proteins and depend on the amino acid serine to catalyze the reaction), but have radically different structures. Sauer and colleagues tested out the same concept as Yockey, they were looking at the number of variants of a given enzyme that were functional, not testing all possible functions. The results of Sauer's experiments agree broadly with that of Yockey's theoretical study, many of the variants of a given protein are functional.  
+
+Let's reiterate, the theoretical study of Yockey and the experimental study of Sauer show that many variants of a given protein are functional, so many, in fact, that between 10^65 and 10^93 of all 110 amino acid long sequences are functional cyctochrome C's. Behe's claim that this is the number of total functional sequences is wrong.  
+
+Behe also claims that these sequences are functionally isolated. In his sense of the concept "functionally isolated", these functional sequences are uniformly distributed through the "space" of all protein sequences, and randomly generating sequences of amino acids, has as much likelihood of producing one of these functional sequences as we would have finding a particular atom in the Milky Way. There are several things wrong with this claim, I'll highlight 3 issues:
+
+1)	With one, very important, exception, new functional proteins aren't generated by randomly stringing amino acids together. They are formed by mutation and selection of pre-existing proteins.
+2)	The cytochrome C sequences are not randomly distributed in sequence space; they are all linked together (indeed you can get from one functional cytochrome C to another in steps of one amino acid mutations). How they are actually distributed is problematical to describe, as "protein space" is not a two or three-dimensional space, but a hyperspace, of at least 20 dimensions, so describing it, and the distribution of related cytochrome C sequences, is rather tricky. But in one sense, the cytochrome C sequences are all "side-by-side"
+3)	When searching for a cytochrome C, we don't actually have to hit the 10^65 --10^92 sequences that are equivalent. We just have to hit something that functions enough like a cytochrome C, even very weakly, to be selectable. This space of "things which can just pass as cytochrome C" is much larger that "things that are functionally equivalent (and based on the structure of) cytochrome C.
+
+The question Behe want's to ask, but isn't addressed by either Yockey's calculations or Sauer's experiments, is "How many functional proteins are there in sequence space, and are they connected by functional intermediates?".  The first part of this question has actually been addressed, the second part is harder, but we will come back to this later.
+
+Various experimenters have made batches of random peptides and tested them for function. Keefe and Szostak (2001) made 80 amino acid long random sequences and probed forATP binding proteins, they found that roughly 1 in 10^11 random sequences was an ATP binding protein. Yamauchi (2002) found that something in the order of 10^8 or less random 140 amino acid sequences were esterases, and a similar value was found by Hayashi et al., (2003) for generating a receptor binding protein. In contrast Taylor et al found that roughly 1 in 10^24 sequences were AroQ mutases, this is somewhat rarer than the 10^8-10^11 found above, but still far more common than the 10^65 that Behe mistakenly claims represent the density of functional sequences. 
+
+There is another reason to believe that functional sequences are reasonably common. And that is the anti-bodies we make in response to infection. We don't come with antibodies "preformed" for given antigens such as bacterial cell coat proteins. Given the enormous number of potential antigens (and the speed with which Bacteria can develop mutant coat proteins), we would have to be virtually made of antibodies to provide protection if we had "preformed" antibodies. Instead, when immune cells are presented with an antigen, the genes for the antibodies are randomly shuffled and mutated, effectively providing a panel of random sequences that may or may not bind to an antigen. Several rounds of mutation and selection results in antibodies that bind with high affinity to arbitary antigens. If Behe was right, and functional sequences were "one atom in the Milky Way" rare, then we would not be able to make antibodies. Yet we can,
+
+Ironically, it is possible to make antibodies that are efficient catalysts by this same mutation selection procedure. Over 100 different chemical reactions have been found to be catalysed by antibodies so far (Hanson 2005, Nevinsky & Buneva 2003). Indeed, catalytically active antibodies are found in serum of patients with autoimmune diseases and in the milk of healthy mothers, suggesting that catalytically active antibodies may play a physiological role (Hanson 2005, Nevinsky & Buneva 2003). The ease of production of catalytic antibodies suggests that roughly one in every 10^8-10^9 random polypeptides is a functional enzyme of some sort, which accords with the estimates above. 
+
+Still, another reasons to suspect that functional sequences are not are is that organisms have hit on the same function, using proteins of completely difference sequence and structure. If Behe was right, this should not be possible.
+
+<strong>Enormous gulfs or baby steps?</strong>
+
+The combined results suggest that functional sequences are reasonably common, between one in 10^8-10^11 sequences represents a functional sequence of some sort, although some specific functions, such as AroQ mutases, may be rarer. Given that we can generate functional proteins denovo from random peptides, this pretty well demolishes Behe's argument. There is a larger question, how easy is it to go from one functional enzyme to another, in single mutational steps. This is a surprisingly hard question to answer (although the large array of related proteins suggests that it is not hard), but Yockey provides an approximation. In a section of his book, which Behe doesn't cite, (see pages 326-.330), he gives a calculation of the density of functional sequences necessary for all functional sequences to be connected by steps of single amino acid mutations. There is no general solution, but there is a solution for the specific case of a 124 amino acid long protein. In this case, if the density of functional sequences is around 1 in 10^11 sequences, then all functional sequences form a connected network, and any functional sequence can be reached from any other in single mutational steps. Since the density of functional sequences is between 10^8 to 10^11, we can conclude that in this case, all proteins are indeed connected. 
+
+So much for the theory, what about real experiments. There have been quite a large number of experiments showing that for several enzymes, new functions are but one or two amino acid substitutions away. Yockey mentions a few in his book, but there has been an enormous amount of work on this since then. Examples include conversion of 5ÃŸReductase to 3Î±hydroxysteroid dehydrogenase by a single mutation,  esterases to phosphotriesterases by a single mutation, epimerases to aldolases, proline isomerase to proline endopeptidase, amidase to nitrile hydratase (O'Brien, 1999, 2006, see also Bartlett et al 2003, Schmidt et al, 2003, Copley 2003 and Gerlt and Babbit 2001). There is a huge body of experimental evidence showing that enzymes can gain new functions in simple mutational steps. While most of this is new since 1997, even then there was quite a bit of evidence that enzymes were not functionally isolated, which Behe should have been aware of.     
+
+Not only are functional proteins relatively common in sequence space, but they are connected in a network, spares to be sure, but connected nonetheless.  
+
+<strong>Mixing messages from the beginning of life.</strong>
+
+Behe quotes Yockey approvingly: "Since science has not the vaguest idea how [proteins] originated, it would only be honest to admit this to students, [to] the agencies funding research, and [to] the public." However, Yockey was (back in 1981) speaking of the origin of proteins in abiogenesis scenarios, not the generation of new functional enzymes in living systems. In 1981 we knew very little about the origin of proteins. We know more now, although our ignorance is still vast. One thing we do know, is that the first catalytic peptides were not modern length proteins with all 20 amino acids present. The very first proteins may have formed by catalysis on clay surfaces, or by being catalytic co-factors in ribozymes (catalytic RNA molecules) as part of an RNA world. However, what we know for the abundance of prebiotic amino acids is that they would have been formed from probably less than 10 amino acids. Proteins made from only 9 amino acids work quite well, and catalytically active, very short, peptides have been made from a mere 5 amino acids. Given the high probability of finding any function, and the fact that very simple peptides are functional, it is likely that producing catalytically active peptides abiotically is not particularly problematic. There is also evidence that modern peptides were formed from much smaller precursors, consistent with the idea that the first catalytic peptides were much smaller and simpler. Again, Behe's concept of modern length proteins being generated by random assembly is irrelevant. 
+
+<strong>Summary:</strong>
+
+Behe says, "An amino acid sequence can be replicated and mutated in living organisms till the cows come home, and the odds are still one in 10^65 that a new functional protein class will be produced."
+
+And yet we have seen just that, from experimental evolution of proteins with new functions, to the repertoire of diverse catalytic antibodies produced by our bodies or in experimental set-ups (not to mention the generation of specific binding sites for a vast array of small molecules in our bodies by random mutation of anti-body genes), to the new enzymic functions that have evolved in nature (like atrazine or polychlorophenyl metabolism).
+
+Behe has misinterpreted basic papers, and ignored the large amount of evidence that shows protein function can evolve readily. Just as he has ignored the intermediate fossil "walking whales". 
+
+
+Note1: Behe has his students compare Dawkins "The Blind Watchmaker" with and Michael Denton's Evolution: A Theory in Crisis. I do hope he pointed out that Denton's Cytochrome C argument is completely wrong, along with the other errors in it, but I suspect not. 
+
+Note2: Behe claims that his students found that "Natural Law" Skeptics were unimpressed with the typing monkeys, while "Natural law" acceptors were. This does not accord with my experience of the literature. As I've noted above virtually all scholarly and informed popular articles talk about protein function evolution in terms of descent with modification, not random generation. I did a Google search on Dawkins weasel program and protein evolution. Of 100 hits, 3% did not address the question at all (they had all the keywords, but not in relation to each other). 22% were pages trying to correct misunderstandings of Dawkins example and were not applying it to protein evolution. The vast majority of the remainder were creationists, with a few Intelligent Design supporters. I tried restricting the search to pages from 1997. This was not entirely successful, but the pattern was similar, the vast majority of "skeptics" were creationists who did not understand Dawkins thought experiment. Those who did understand it did not use it as an illustration of protein evolution.
+
+Note 3. With a few exceptions, all organisms make their proteins from 20 different amino acids (although not every one of those 20 may be present in any given protein). These amino acids tend to come in groups of similar properties, some are acidic, some are basic, some are more fat-soluble than others. One might think that a given protein (for the electron transport protein cytochrome C) has a particular sequence, and that any deviation form that sequence results in a loss of function. But it turns out that proteins are reasonably flexible in their sequence. In many cases you can substitute a basic amino acid with a different basic amino acid and the protein will work just fine (or an acid amino acid with another acidic, or fat soluble with fat soluble). Remarkably, in some places you can substitute almost any amino acid an it will have no effect. The amino acids needed for catalysis or key structural features are hared to replace, but these are less common in the structure.
+
+
+References:
+
+Axe DD, Foster NW, Fersht AR 	Active barnase variants with completely random hydrophobic cores. Proc Natl Acad Sci U S A. 1996 May 28;93(11):5590-4.
+
+Experimental Support for Regarding Functional Classes of Proteins to Be Highly Isolated from Each Other, Behe MJ (1994, 1997 and updated 2002)
+http://www.leaderu.com/orgs/fte/darwinism/chapter6.html
+
+Davidson AR, Sauer RT.	Folded proteins occur frequently in libraries of random amino acid sequences. Proc Natl Acad Sci U S A. 1994 Mar 15;91(6):2146-50.
+
+Keefe AD, Szostak JW. Functional proteins from a random-sequence library.
+Nature. 2001 Apr 5;410(6829):715-8.
+
+Yamauchi A, Nakashima T, Tokuriki N, Hosokawa M, Nogami H, Arioka S, Urabe I, Yomo T. Evolvability of random polypeptides through functional selection within a small library. Protein Eng. 2002 Jul;15(7):619-26.
+
+Hayashi Y, Sakata H, Makino Y, Urabe I, Yomo T. 	Can an arbitrary sequence evolve towards acquiring a biological function? J Mol Evol. 2003 Feb;56(2):162-8.
+
+Taylor SV, Walter KU, Kast P, Hilvert D. Searching sequence space for protein catalysts. Proc Natl Acad Sci U S A. 2001 Sep 11;98(19):10596-601.
+
+Vamvaca K, Vogeli B, Kast P, Pervushin K, Hilvert D.	An enzymatic molten globule: efficient coupling of folding and catalysis. Proc Natl Acad Sci U S A. 2004 Aug 31;101(35):12860-4.
+
+Walter KU, Vamvaca K, Hilvert D. 	An active enzyme constructed from a 9-amino acid alphabet. J Biol Chem. 2005 Nov 11;280(45):37742-6. 
+
+Hanson CV, Nishiyama Y, Paul S. 	Catalytic antibodies and their applications. Curr Opin Biotechnol. 2005 Dec;16(6):631-6.
+
+Nevinsky GA, Buneva VN.	Catalytic antibodies in healthy humans and patients with autoimmune and viral diseases. J Cell Mol Med. 2003 Jul-Sep;7(3):265-76.
+
+Yockey H, Information Theory and Molecular Biology, 1992, Cambridge Universtity Press.
+
+Bartlett GJ, Borkakoti N, Thornton JM. Catalysing new reactions during evolution: economy of residues and mechanism. J Mol Biol. 2003 Aug 22;331(4):829-60.
+
+Schmidt DM, Mundorff EC, Dojka M, Bermudez E, Ness JE, Govindarajan S, Babbitt PC, Minshull J, Gerlt JA. 	Evolutionary potential of (beta/alpha)8-barrels: functional promiscuity produced by single substitutions in the enolase superfamily.
+Biochemistry. 2003 Jul 22;42(28):8387-93.
+
+Gerlt JA, Babbitt PC. 	Divergent evolution of enzymatic function: mechanistically diverse superfamilies and functionally distinct suprafamilies. Annu Rev Biochem. 2001;70:209-46.
+
+Copley SD. Enzymes with extra talents: moonlighting functions and catalytic promiscuity. Curr Opin Chem Biol. 2003 Apr;7(2):265-72. 
+
+Galperin MY, Walker DR, Koonin EV. Analogous enzymes: independent inventions in enzyme evolution. Genome Res. 1998 Aug;8(8):779-90.
