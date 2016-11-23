@@ -2,6 +2,7 @@
 layout: article
 title: 3 myths and a canard
 date: '2004-04-01 19:02:37 -0700'
+author: John S. Wilkins
 mt_id: 76
 blog_id: 2
 post_id: 76

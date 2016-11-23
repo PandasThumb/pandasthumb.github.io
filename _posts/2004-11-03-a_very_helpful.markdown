@@ -2,6 +2,7 @@
 layout: article
 title: A very helpful church-state resource for teachers
 date: '2004-11-03 00:33:07 -0700'
+author: Timothy Sandefur
 mt_id: 547
 blog_id: 2
 post_id: 547

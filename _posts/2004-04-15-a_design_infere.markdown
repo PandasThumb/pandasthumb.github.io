@@ -2,6 +2,7 @@
 layout: article
 title: A "Design Inference" in Science magazine!
 date: '2004-04-15 21:06:03 -0700'
+author: Andrea Bottaro
 mt_id: 129
 blog_id: 2
 post_id: 129

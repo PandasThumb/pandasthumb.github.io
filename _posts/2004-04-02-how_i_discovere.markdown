@@ -2,6 +2,7 @@
 layout: article
 title: How I discovered evolution
 date: '2004-04-02 08:01:51 -0700'
+author: Timothy Sandefur
 mt_id: 80
 blog_id: 2
 post_id: 80

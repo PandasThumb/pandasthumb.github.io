@@ -2,6 +2,7 @@
 layout: article
 title: The Trouble With Science Journalism
 date: '2009-01-22 16:53:38 -0700'
+author: Jason Rosenhouse
 mt_id: 4116
 blog_id: 2
 post_id: 4116

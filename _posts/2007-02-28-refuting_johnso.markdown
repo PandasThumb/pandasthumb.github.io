@@ -2,6 +2,7 @@
 layout: article
 title: Refuting Johnson
 date: '2007-02-28 14:31:24 -0700'
+author: Jason Rosenhouse
 mt_id: 2840
 blog_id: 2
 post_id: 2840

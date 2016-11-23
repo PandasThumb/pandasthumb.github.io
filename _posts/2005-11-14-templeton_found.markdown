@@ -2,6 +2,7 @@
 layout: article
 title: Templeton Foundation and Santorum Losing Faith in ID?
 date: '2005-11-14 13:45:14 -0700'
+author: Jason Rosenhouse
 mt_id: 1598
 blog_id: 2
 post_id: 1598

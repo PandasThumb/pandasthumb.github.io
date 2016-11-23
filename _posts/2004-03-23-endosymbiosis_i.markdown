@@ -2,6 +2,7 @@
 layout: article
 title: Endosymbiosis in Ohio
 date: '2004-03-23 19:19:47 -0700'
+author: Reed A. Cartwright
 mt_id: 6
 blog_id: 2
 post_id: 6

@@ -2,6 +2,7 @@
 layout: article
 title: Why Kitzmiller is Not An "Activist" Decision
 date: '2005-12-21 22:19:38 -0700'
+author: Timothy Sandefur
 mt_id: 1727
 blog_id: 2
 post_id: 1727

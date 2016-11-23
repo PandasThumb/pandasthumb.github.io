@@ -2,6 +2,7 @@
 layout: article
 title: Fairy circles and stone circles
 date: '2004-04-04 11:11:10 -0700'
+author: Matt Brauer
 mt_id: 93
 blog_id: 2
 post_id: 93

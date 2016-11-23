@@ -2,6 +2,7 @@
 layout: article
 title: Evolution Confounds Postmodernist Postman
 date: '2004-04-19 06:36:59 -0700'
+author: Jeffrey Shallit
 mt_id: 135
 blog_id: 2
 post_id: 135

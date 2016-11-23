@@ -2,6 +2,7 @@
 layout: article
 title: Sternberg Replies
 date: '2004-09-27 19:28:29 -0700'
+author: Jason Rosenhouse
 mt_id: 470
 blog_id: 2
 post_id: 470

@@ -2,6 +2,7 @@
 layout: article
 title: A Smithsonian Anti-Science Museum?
 date: '2004-10-02 14:01:25 -0700'
+author: Timothy Sandefur
 mt_id: 481
 blog_id: 2
 post_id: 481

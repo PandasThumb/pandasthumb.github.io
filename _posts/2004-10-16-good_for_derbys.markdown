@@ -2,6 +2,7 @@
 layout: article
 title: Good for Derbyshire
 date: '2004-10-16 09:49:58 -0700'
+author: Timothy Sandefur
 mt_id: 517
 blog_id: 2
 post_id: 517

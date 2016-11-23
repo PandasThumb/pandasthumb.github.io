@@ -2,6 +2,7 @@
 layout: article
 title: What a Crock
 date: '2005-12-30 23:08:58 -0700'
+author: Timothy Sandefur
 mt_id: 1787
 blog_id: 2
 post_id: 1787

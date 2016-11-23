@@ -2,6 +2,7 @@
 layout: article
 title: New CSICOP Column
 date: '2005-08-18 16:12:16 -0700'
+author: Jason Rosenhouse
 mt_id: 1294
 blog_id: 2
 post_id: 1294

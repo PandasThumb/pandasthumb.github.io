@@ -2,6 +2,7 @@
 layout: article
 title: Dembski on Groupthink
 date: '2006-10-17 20:43:40 -0700'
+author: Jason Rosenhouse
 mt_id: 2549
 blog_id: 2
 post_id: 2549

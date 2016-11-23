@@ -2,6 +2,7 @@
 layout: article
 title: Are Creationists Anti-Science?
 date: '2006-06-26 18:13:39 -0700'
+author: Jason Rosenhouse
 mt_id: 2319
 blog_id: 2
 post_id: 2319

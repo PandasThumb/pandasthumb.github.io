@@ -2,6 +2,7 @@
 layout: article
 title: Objective unconstitutionality
 date: '2004-12-24 10:02:15 -0700'
+author: Timothy Sandefur
 mt_id: 633
 blog_id: 2
 post_id: 633

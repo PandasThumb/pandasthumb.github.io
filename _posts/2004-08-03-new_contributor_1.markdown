@@ -2,6 +2,7 @@
 layout: article
 title: 'New Contributor: Jim Foley'
 date: '2004-08-03 08:35:19 -0700'
+author: Ed Brayton
 mt_id: 354
 blog_id: 2
 post_id: 354

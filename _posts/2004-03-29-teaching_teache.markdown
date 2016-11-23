@@ -2,6 +2,7 @@
 layout: article
 title: Teaching teachers
 date: '2004-03-29 17:44:09 -0700'
+author: Timothy Sandefur
 mt_id: 55
 blog_id: 2
 post_id: 55

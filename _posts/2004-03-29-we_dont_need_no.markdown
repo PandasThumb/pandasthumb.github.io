@@ -2,6 +2,7 @@
 layout: article
 title: We don't need no steenking Philosophical Naturalism
 date: '2004-03-29 16:06:50 -0700'
+author: Ian Musgrave
 mt_id: 53
 blog_id: 2
 post_id: 53

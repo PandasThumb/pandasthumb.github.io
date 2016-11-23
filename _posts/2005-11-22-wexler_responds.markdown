@@ -2,6 +2,7 @@
 layout: article
 title: Wexler Responds to Beckwith
 date: '2005-11-22 22:00:22 -0700'
+author: Timothy Sandefur
 mt_id: 1627
 blog_id: 2
 post_id: 1627

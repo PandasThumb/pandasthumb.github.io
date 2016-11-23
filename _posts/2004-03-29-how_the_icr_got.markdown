@@ -2,6 +2,7 @@
 layout: article
 title: How the ICR got its accreditation
 date: '2004-03-29 17:42:59 -0700'
+author: Timothy Sandefur
 mt_id: 54
 blog_id: 2
 post_id: 54

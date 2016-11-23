@@ -2,6 +2,7 @@
 layout: article
 title: A Study in ID Duplicity
 date: '2005-05-02 14:36:22 -0700'
+author: Jason Rosenhouse
 mt_id: 924
 blog_id: 2
 post_id: 924

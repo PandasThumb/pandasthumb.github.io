@@ -2,6 +2,7 @@
 layout: article
 title: Volokh on creationism
 date: '2005-06-16 18:40:32 -0700'
+author: Timothy Sandefur
 mt_id: 1084
 blog_id: 2
 post_id: 1084

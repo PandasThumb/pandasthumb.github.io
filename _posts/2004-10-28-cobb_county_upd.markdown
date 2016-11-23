@@ -2,6 +2,7 @@
 layout: article
 title: Cobb County update
 date: '2004-10-28 20:27:44 -0700'
+author: Timothy Sandefur
 mt_id: 535
 blog_id: 2
 post_id: 535

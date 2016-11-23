@@ -2,6 +2,7 @@
 layout: article
 title: What is Cosmological Fine-Tuning Evidence For?
 date: '2005-06-09 17:44:58 -0700'
+author: Jason Rosenhouse
 mt_id: 1062
 blog_id: 2
 post_id: 1062

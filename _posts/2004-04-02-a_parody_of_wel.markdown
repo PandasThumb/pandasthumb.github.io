@@ -2,6 +2,7 @@
 layout: article
 title: A parody of Well's prognostication
 date: '2004-04-02 08:13:03 -0700'
+author: Mark Perakh
 mt_id: 82
 blog_id: 2
 post_id: 82

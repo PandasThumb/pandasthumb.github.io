@@ -2,6 +2,7 @@
 layout: article
 title: The Paradox of Toleration
 date: '2004-09-10 19:27:40 -0700'
+author: Timothy Sandefur
 mt_id: 444
 blog_id: 2
 post_id: 444

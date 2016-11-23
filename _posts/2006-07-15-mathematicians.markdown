@@ -2,6 +2,7 @@
 layout: article
 title: Mathematicians and Evolution
 date: '2006-07-15 22:12:58 -0700'
+author: Jason Rosenhouse
 mt_id: 2357
 blog_id: 2
 post_id: 2357

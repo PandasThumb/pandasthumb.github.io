@@ -2,6 +2,7 @@
 layout: article
 title: Telling lies for Ben Stein
 date: '2008-04-04 02:06:45 -0700'
+author: John M. Lynch
 mt_id: 3719
 blog_id: 2
 post_id: 3719

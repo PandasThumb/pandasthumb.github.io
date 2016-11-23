@@ -2,6 +2,7 @@
 layout: article
 title: Reviewing Ken Miller
 date: '2008-06-21 20:36:02 -0700'
+author: Jason Rosenhouse
 mt_id: 3871
 blog_id: 2
 post_id: 3871

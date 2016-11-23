@@ -2,6 +2,7 @@
 layout: article
 title: 'Dembski: The displacement problem and the law of conservation of CSI'
 date: '2004-03-26 19:00:00 -0700'
+author: PvM
 mt_id: 10
 blog_id: 2
 post_id: 10

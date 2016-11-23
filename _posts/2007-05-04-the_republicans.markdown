@@ -2,6 +2,7 @@
 layout: article
 title: The Republicans on Evolution
 date: '2007-05-04 17:31:55 -0700'
+author: Jason Rosenhouse
 mt_id: 3004
 blog_id: 2
 post_id: 3004

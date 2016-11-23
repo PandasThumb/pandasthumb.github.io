@@ -2,6 +2,7 @@
 layout: article
 title: 'Beckwith''s "burden": the First Amendment itself'
 date: '2005-01-31 21:46:28 -0700'
+author: Timothy Sandefur
 mt_id: 716
 blog_id: 2
 post_id: 716

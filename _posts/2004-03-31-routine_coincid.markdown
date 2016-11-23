@@ -2,6 +2,7 @@
 layout: article
 title: Routine coincidences
 date: '2004-03-31 08:48:51 -0700'
+author: Timothy Sandefur
 mt_id: 67
 blog_id: 2
 post_id: 67

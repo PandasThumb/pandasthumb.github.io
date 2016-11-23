@@ -2,6 +2,7 @@
 layout: article
 title: Cobb and Dover
 date: '2004-12-01 09:22:36 -0700'
+author: Timothy Sandefur
 mt_id: 583
 blog_id: 2
 post_id: 583

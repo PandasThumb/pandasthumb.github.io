@@ -2,6 +2,7 @@
 layout: article
 title: Casey Luskin---Not Too <em>Bright</em>
 date: '2006-12-13 21:51:27 -0700'
+author: Timothy Sandefur
 mt_id: 2667
 blog_id: 2
 post_id: 2667

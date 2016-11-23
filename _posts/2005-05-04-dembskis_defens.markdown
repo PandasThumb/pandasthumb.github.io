@@ -2,6 +2,7 @@
 layout: article
 title: Dembski's Defense
 date: '2005-05-04 21:23:36 -0700'
+author: Jason Rosenhouse
 mt_id: 936
 blog_id: 2
 post_id: 936

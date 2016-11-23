@@ -2,6 +2,7 @@
 layout: article
 title: "<i>Spiked</i> on liberal creationism"
 date: '2005-03-02 19:06:38 -0700'
+author: Timothy Sandefur
 mt_id: 791
 blog_id: 2
 post_id: 791

@@ -2,6 +2,7 @@
 layout: article
 title: The Unlikely Origins of My Career in Science
 date: '2004-03-28 17:04:58 -0700'
+author: Wesley R. Elsberry
 mt_id: 50
 blog_id: 2
 post_id: 50

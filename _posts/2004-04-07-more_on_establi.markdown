@@ -2,6 +2,7 @@
 layout: article
 title: More on Establishment
 date: '2004-04-07 18:23:37 -0700'
+author: Timothy Sandefur
 mt_id: 104
 blog_id: 2
 post_id: 104

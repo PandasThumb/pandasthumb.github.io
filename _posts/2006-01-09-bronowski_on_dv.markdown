@@ -2,6 +2,7 @@
 layout: article
 title: Bronowski on DVD
 date: '2006-01-09 13:21:16 -0700'
+author: Timothy Sandefur
 mt_id: 1814
 blog_id: 2
 post_id: 1814

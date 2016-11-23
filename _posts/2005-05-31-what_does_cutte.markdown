@@ -2,6 +2,7 @@
 layout: article
 title: What Does <i>Cutter</i> Mean for Creationism?
 date: '2005-05-31 13:58:11 -0700'
+author: Timothy Sandefur
 mt_id: 1026
 blog_id: 2
 post_id: 1026

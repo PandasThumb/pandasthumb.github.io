@@ -2,6 +2,7 @@
 layout: article
 title: Call Your Senator
 date: '2005-04-02 09:59:40 -0700'
+author: Timothy Sandefur
 mt_id: 868
 blog_id: 2
 post_id: 868

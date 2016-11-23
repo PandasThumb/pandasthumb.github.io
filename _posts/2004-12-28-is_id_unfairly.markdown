@@ -2,6 +2,7 @@
 layout: article
 title: Is ID unfairly portrayed?
 date: '2004-12-28 10:58:57 -0700'
+author: Timothy Sandefur
 mt_id: 634
 blog_id: 2
 post_id: 634

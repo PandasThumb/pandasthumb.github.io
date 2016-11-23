@@ -2,6 +2,7 @@
 layout: article
 title: Here we go again
 date: '2004-03-25 13:17:42 -0700'
+author: Gary Hurd
 mt_id: 28
 blog_id: 2
 post_id: 28

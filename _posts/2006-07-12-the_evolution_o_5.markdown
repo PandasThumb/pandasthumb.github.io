@@ -2,6 +2,7 @@
 layout: article
 title: The Evolution of Haeckel's Embryos
 date: '2006-07-12 18:20:27 -0700'
+author: John M. Lynch
 mt_id: 2352
 blog_id: 2
 post_id: 2352

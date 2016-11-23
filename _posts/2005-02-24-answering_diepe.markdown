@@ -2,6 +2,7 @@
 layout: article
 title: Answering Diepenbrock's Challenge
 date: '2005-02-24 19:24:00 -0700'
+author: Jason Rosenhouse
 mt_id: 785
 blog_id: 2
 post_id: 785

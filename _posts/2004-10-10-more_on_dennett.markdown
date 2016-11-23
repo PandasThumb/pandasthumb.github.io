@@ -2,6 +2,7 @@
 layout: article
 title: "<B>More on Dennett and Wright</B>"
 date: '2004-10-10 18:31:53 -0700'
+author: Jason Rosenhouse
 mt_id: 507
 blog_id: 2
 post_id: 507

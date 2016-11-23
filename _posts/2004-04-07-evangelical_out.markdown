@@ -2,6 +2,7 @@
 layout: article
 title: Evangelical Outpost on Leiter/VanDyke
 date: '2004-04-07 08:31:05 -0700'
+author: Ed Brayton
 mt_id: 101
 blog_id: 2
 post_id: 101

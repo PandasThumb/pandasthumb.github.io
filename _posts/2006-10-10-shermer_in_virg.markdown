@@ -2,6 +2,7 @@
 layout: article
 title: Shermer in Virginia
 date: '2006-10-10 17:24:29 -0700'
+author: Jason Rosenhouse
 mt_id: 2540
 blog_id: 2
 post_id: 2540

@@ -2,6 +2,7 @@
 layout: article
 title: The Irony of Our Site Statistics
 date: '2004-03-25 08:13:45 -0700'
+author: Ed Brayton
 mt_id: 21
 blog_id: 2
 post_id: 21

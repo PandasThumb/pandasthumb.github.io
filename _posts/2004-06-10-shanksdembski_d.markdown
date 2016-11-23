@@ -2,6 +2,7 @@
 layout: article
 title: Shanks/Dembski Debate on CSPAN-2
 date: '2004-06-10 14:49:02 -0700'
+author: Jason Rosenhouse
 mt_id: 231
 blog_id: 2
 post_id: 231

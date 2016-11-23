@@ -2,6 +2,7 @@
 layout: article
 title: IRAS President reviews <I>Creationism's Trojan Horse</i>
 date: '2004-03-25 16:57:37 -0700'
+author: Matt Brauer
 mt_id: 31
 blog_id: 2
 post_id: 31

@@ -2,6 +2,7 @@
 layout: article
 title: Dembski's Essay in <I>World</I>
 date: '2004-03-31 22:36:53 -0700'
+author: Jason Rosenhouse
 mt_id: 71
 blog_id: 2
 post_id: 71

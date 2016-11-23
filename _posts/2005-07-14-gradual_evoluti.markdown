@@ -2,6 +2,7 @@
 layout: article
 title: Gradual Evolution or Intelligent Design?
 date: '2005-07-14 19:18:31 -0700'
+author: Jason Rosenhouse
 mt_id: 1144
 blog_id: 2
 post_id: 1144

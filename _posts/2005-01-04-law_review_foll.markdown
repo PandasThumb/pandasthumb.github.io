@@ -2,6 +2,7 @@
 layout: article
 title: Law review follies (part 4,242,535) [Updated]
 date: '2005-01-04 03:08:15 -0700'
+author: Timothy Sandefur
 mt_id: 646
 blog_id: 2
 post_id: 646

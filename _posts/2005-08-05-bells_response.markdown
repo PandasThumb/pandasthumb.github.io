@@ -2,6 +2,7 @@
 layout: article
 title: Bell's Response
 date: '2005-08-05 19:24:18 -0700'
+author: Jason Rosenhouse
 mt_id: 1223
 blog_id: 2
 post_id: 1223

@@ -2,6 +2,7 @@
 layout: article
 title: IDealogues Insulting Theistic Evolutionists
 date: '2004-04-06 11:13:26 -0700'
+author: Ed Brayton
 mt_id: 97
 blog_id: 2
 post_id: 97

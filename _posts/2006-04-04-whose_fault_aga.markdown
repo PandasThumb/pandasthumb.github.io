@@ -2,6 +2,7 @@
 layout: article
 title: Whose Fault, Again?
 date: '2006-04-04 20:18:52 -0700'
+author: Timothy Sandefur
 mt_id: 2082
 blog_id: 2
 post_id: 2082

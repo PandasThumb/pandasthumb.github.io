@@ -2,6 +2,7 @@
 layout: article
 title: Just don't make me pay for it
 date: '2005-01-21 10:09:53 -0700'
+author: Timothy Sandefur
 mt_id: 696
 blog_id: 2
 post_id: 696

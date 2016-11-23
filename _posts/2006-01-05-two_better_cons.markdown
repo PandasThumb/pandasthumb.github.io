@@ -2,6 +2,7 @@
 layout: article
 title: Two Better Conservative Reactions to <em>Kitzmiller</em>
 date: '2006-01-05 12:35:51 -0700'
+author: Timothy Sandefur
 mt_id: 1802
 blog_id: 2
 post_id: 1802

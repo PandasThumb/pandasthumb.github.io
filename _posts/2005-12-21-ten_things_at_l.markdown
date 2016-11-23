@@ -2,6 +2,7 @@
 layout: article
 title: Ten Things (At Least!) Right About <em>Kitzmiller</em>
 date: '2005-12-21 15:59:39 -0700'
+author: Timothy Sandefur
 mt_id: 1721
 blog_id: 2
 post_id: 1721

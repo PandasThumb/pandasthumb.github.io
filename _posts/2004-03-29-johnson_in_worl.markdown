@@ -2,6 +2,7 @@
 layout: article
 title: Johnson in World Magazine
 date: '2004-03-29 22:17:18 -0700'
+author: Jason Rosenhouse
 mt_id: 58
 blog_id: 2
 post_id: 58

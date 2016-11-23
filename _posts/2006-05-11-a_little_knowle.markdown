@@ -2,6 +2,7 @@
 layout: article
 title: A "Little Knowledge" About Mootness
 date: '2006-05-11 08:47:35 -0700'
+author: Timothy Sandefur
 mt_id: 2175
 blog_id: 2
 post_id: 2175

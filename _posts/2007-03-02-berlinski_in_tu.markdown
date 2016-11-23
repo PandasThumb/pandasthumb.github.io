@@ -2,6 +2,7 @@
 layout: article
 title: Berlinski in Turkey
 date: '2007-03-02 17:09:18 -0700'
+author: Jason Rosenhouse
 mt_id: 2849
 blog_id: 2
 post_id: 2849

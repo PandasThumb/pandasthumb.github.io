@@ -2,6 +2,7 @@
 layout: article
 title: York schools can't dodge the Constitution
 date: '2004-10-05 20:05:48 -0700'
+author: Timothy Sandefur
 mt_id: 492
 blog_id: 2
 post_id: 492

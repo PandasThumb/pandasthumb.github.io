@@ -2,6 +2,7 @@
 layout: article
 title: Eugenie Scott in Virginia
 date: '2005-11-29 18:47:34 -0700'
+author: Jason Rosenhouse
 mt_id: 1648
 blog_id: 2
 post_id: 1648

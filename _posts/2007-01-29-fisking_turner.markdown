@@ -2,6 +2,7 @@
 layout: article
 title: Fisking Turner
 date: '2007-01-29 19:29:01 -0700'
+author: Jason Rosenhouse
 mt_id: 2760
 blog_id: 2
 post_id: 2760

@@ -2,6 +2,7 @@
 layout: article
 title: The Educational Consequences of ID
 date: '2006-10-01 16:58:52 -0700'
+author: Timothy Sandefur
 mt_id: 2519
 blog_id: 2
 post_id: 2519

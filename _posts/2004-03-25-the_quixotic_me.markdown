@@ -2,6 +2,7 @@
 layout: article
 title: The Quixotic Message
 date: '2004-03-25 11:46:55 -0700'
+author: Steve Reuland
 mt_id: 26
 blog_id: 2
 post_id: 26

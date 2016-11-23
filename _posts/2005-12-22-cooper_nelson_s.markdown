@@ -2,6 +2,7 @@
 layout: article
 title: Cooper, Nelson, Saletan
 date: '2005-12-22 22:14:24 -0700'
+author: Jason Rosenhouse
 mt_id: 1745
 blog_id: 2
 post_id: 1745

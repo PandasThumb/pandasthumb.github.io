@@ -14,6 +14,7 @@ excerpt: "\tThrift is a virtue, right?  No.  Not when you see it in a member of 
   \ I argue, to the contrary, that Dembski and Johnson are in fact projecting their
   own dogmatism onto “Darwinists.”  Specifically, they see dogmatism as a virtue in
   themselves but not in their opponents."
+author: Matt Young
 mt_id: 66
 blog_id: 2
 post_id: 66

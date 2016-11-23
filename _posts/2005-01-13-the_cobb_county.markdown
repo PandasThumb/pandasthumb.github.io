@@ -2,6 +2,7 @@
 layout: article
 title: The Cobb County decision
 date: '2005-01-13 15:06:21 -0700'
+author: Timothy Sandefur
 mt_id: 678
 blog_id: 2
 post_id: 678

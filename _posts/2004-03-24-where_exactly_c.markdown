@@ -2,6 +2,7 @@
 layout: article
 title: Where exactly can I find this controversy again?
 date: '2004-03-24 15:35:11 -0700'
+author: Matt Brauer
 mt_id: 24
 blog_id: 2
 post_id: 24

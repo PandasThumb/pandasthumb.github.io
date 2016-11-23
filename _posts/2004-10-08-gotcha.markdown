@@ -2,6 +2,7 @@
 layout: article
 title: Gotcha!...?
 date: '2004-10-08 15:18:52 -0700'
+author: Timothy Sandefur
 mt_id: 501
 blog_id: 2
 post_id: 501

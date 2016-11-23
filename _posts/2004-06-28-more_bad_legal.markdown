@@ -2,6 +2,7 @@
 layout: article
 title: More bad legal analysis
 date: '2004-06-28 23:56:12 -0700'
+author: Timothy Sandefur
 mt_id: 268
 blog_id: 2
 post_id: 268

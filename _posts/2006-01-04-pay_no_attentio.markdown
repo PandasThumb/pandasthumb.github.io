@@ -2,6 +2,7 @@
 layout: article
 title: Pay No Attention to The Establishment Behind The Curtain!
 date: '2006-01-04 17:44:41 -0700'
+author: Timothy Sandefur
 mt_id: 1800
 blog_id: 2
 post_id: 1800

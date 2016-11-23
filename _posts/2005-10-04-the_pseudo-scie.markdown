@@ -2,6 +2,7 @@
 layout: article
 title: The Pseudo-Science Amicus Brief in<i> Kitzmiller</i>
 date: '2005-10-04 23:27:55 -0700'
+author: Timothy Sandefur
 mt_id: 1471
 blog_id: 2
 post_id: 1471

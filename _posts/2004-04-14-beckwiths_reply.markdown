@@ -2,6 +2,7 @@
 layout: article
 title: Beckwith's Reply on the Establishment Clause Posts
 date: '2004-04-14 18:28:25 -0700'
+author: Timothy Sandefur
 mt_id: 125
 blog_id: 2
 post_id: 125

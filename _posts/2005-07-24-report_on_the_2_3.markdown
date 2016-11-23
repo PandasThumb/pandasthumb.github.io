@@ -2,6 +2,7 @@
 layout: article
 title: Report on the 2005 Creation Mega Conference, Part Four
 date: '2005-07-24 13:27:02 -0700'
+author: Jason Rosenhouse
 mt_id: 1174
 blog_id: 2
 post_id: 1174

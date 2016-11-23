@@ -2,6 +2,7 @@
 layout: article
 title: The heckler's veto over evolution
 date: '2005-02-17 19:01:04 -0700'
+author: Timothy Sandefur
 mt_id: 769
 blog_id: 2
 post_id: 769

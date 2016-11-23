@@ -2,6 +2,7 @@
 layout: article
 title: Last Word on Establishment (I Hope)
 date: '2004-04-10 20:15:30 -0700'
+author: Timothy Sandefur
 mt_id: 115
 blog_id: 2
 post_id: 115

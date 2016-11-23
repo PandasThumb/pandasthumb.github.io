@@ -2,6 +2,7 @@
 layout: article
 title: Georgia's Proposed Standards for Life Science
 date: '2004-03-24 11:03:17 -0700'
+author: Reed A. Cartwright
 mt_id: 12
 blog_id: 2
 post_id: 12

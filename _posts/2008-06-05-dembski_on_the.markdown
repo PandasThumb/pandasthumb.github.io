@@ -2,6 +2,7 @@
 layout: article
 title: Dembski on the Consequences of Non-Design
 date: '2008-06-05 15:52:52 -0700'
+author: Jason Rosenhouse
 mt_id: 3849
 blog_id: 2
 post_id: 3849

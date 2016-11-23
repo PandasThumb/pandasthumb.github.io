@@ -2,6 +2,7 @@
 layout: article
 title: Steiner Genetic Algorithm - C++ Code
 date: '2006-07-08 14:49:52 -0700'
+author: Dave Thomas
 mt_id: 2439
 blog_id: 2
 post_id: 2439
@@ -37,13 +38,13 @@ August 21st, 2006
 CSteinerGADlg::CSteinerGADlg(CWnd* pParent /*=NULL*/)
 	: CDialog(CSteinerGADlg::IDD, pParent)
 {
-	//{ { AFX_DATA_INIT(CSteinerGADlg)
+	//{{AFX_DATA_INIT(CSteinerGADlg)
 	m_pixel_rpt = _T("");
 	m_status = _T("");
 	m_target = FALSE;
 	m_drawon = FALSE;
 	m_statusrpt = _T("");
-	//} } AFX_DATA_INIT
+	//}}AFX_DATA_INIT
 	// Note that LoadIcon does not require a subsequent DestroyIcon in Win32
 	m_hIcon = AfxGetApp()->LoadIcon(IDR_MAINFRAME);
 }

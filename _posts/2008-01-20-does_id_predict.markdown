@@ -2,6 +2,7 @@
 layout: article
 title: Does ID Predict Anything?
 date: '2008-01-20 20:10:54 -0700'
+author: Jason Rosenhouse
 mt_id: 3519
 blog_id: 2
 post_id: 3519

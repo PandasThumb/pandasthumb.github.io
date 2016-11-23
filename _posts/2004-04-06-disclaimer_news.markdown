@@ -2,6 +2,7 @@
 layout: article
 title: Disclaimer news
 date: '2004-04-06 18:51:41 -0700'
+author: Timothy Sandefur
 mt_id: 99
 blog_id: 2
 post_id: 99

@@ -2,6 +2,7 @@
 layout: article
 title: Grist for the EF mill
 date: '2004-03-25 06:36:50 -0700'
+author: Matt Brauer
 mt_id: 27
 blog_id: 2
 post_id: 27

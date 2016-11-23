@@ -2,6 +2,7 @@
 layout: article
 title: Does <em>Kitzmiller </em>Matter? Will It Be Appealed?
 date: '2005-12-20 14:38:51 -0700'
+author: Timothy Sandefur
 mt_id: 1711
 blog_id: 2
 post_id: 1711

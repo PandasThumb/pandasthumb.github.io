@@ -2,6 +2,7 @@
 layout: article
 title: Answers in Nemesis
 date: '2004-04-13 15:32:25 -0700'
+author: Steve Reuland
 mt_id: 120
 blog_id: 2
 post_id: 120

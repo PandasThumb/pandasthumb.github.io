@@ -2,6 +2,7 @@
 layout: article
 title: 'Creationism: not just for Protestants anymore'
 date: '2004-03-25 19:04:42 -0700'
+author: Timothy Sandefur
 mt_id: 34
 blog_id: 2
 post_id: 34

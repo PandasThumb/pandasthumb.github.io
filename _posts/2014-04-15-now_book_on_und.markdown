@@ -6,6 +6,7 @@ excerpt: This is an excellent, and long-needed book. The education of evolution 
   schools is now so poor in many countries, that this can act as both a primer and
   as an invitation to think further, and I would recommend it unreservedly to anyone
   who wants to know what evolution really is and means.
+author: John S. Wilkins
 mt_id: 6940
 blog_id: 2
 post_id: 6940

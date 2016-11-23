@@ -2,6 +2,7 @@
 layout: article
 title: Libel Laws and Scoundrel Refuges
 date: '2006-04-08 15:09:42 -0700'
+author: Timothy Sandefur
 mt_id: 2102
 blog_id: 2
 post_id: 2102

@@ -2,6 +2,7 @@
 layout: article
 title: The Calpundit Weighs in on Leiter vs VanDyke and Plugs This Site
 date: '2004-03-24 15:46:47 -0700'
+author: Ed Brayton
 mt_id: 13
 blog_id: 2
 post_id: 13

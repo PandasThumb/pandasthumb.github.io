@@ -2,6 +2,7 @@
 layout: article
 title: 'Living words: Dearth and taxa - "primitive"'
 date: '2004-04-08 18:28:00 -0700'
+author: John S. Wilkins
 mt_id: 105
 blog_id: 2
 post_id: 105

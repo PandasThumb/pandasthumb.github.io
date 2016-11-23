@@ -2,6 +2,7 @@
 layout: article
 title: Imperfections of design
 date: '2005-07-12 08:41:18 -0700'
+author: Timothy Sandefur
 mt_id: 1137
 blog_id: 2
 post_id: 1137

@@ -2,6 +2,7 @@
 layout: article
 title: 'Living Words: Pro patria - species and homeland security'
 date: '2004-03-28 17:51:31 -0700'
+author: John S. Wilkins
 mt_id: 49
 blog_id: 2
 post_id: 49

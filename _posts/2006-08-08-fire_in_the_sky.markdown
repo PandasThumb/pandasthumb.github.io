@@ -2,6 +2,7 @@
 layout: article
 title: Fire in the sky.
 date: '2006-08-08 14:14:36 -0700'
+author: John M. Lynch
 mt_id: 2413
 blog_id: 2
 post_id: 2413

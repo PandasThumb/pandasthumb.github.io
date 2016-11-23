@@ -3,6 +3,7 @@ layout: article
 title: The Beauty and The Beast
 date: '2004-03-24 01:22:31 -0700'
 excerpt: Not all flowers are beautiful.
+author: Nick Matzke
 mt_id: 9
 blog_id: 2
 post_id: 9

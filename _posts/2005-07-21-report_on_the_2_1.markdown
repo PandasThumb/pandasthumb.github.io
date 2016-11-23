@@ -2,6 +2,7 @@
 layout: article
 title: Report on the 2005 Mega Creation Conference, Part Two
 date: '2005-07-21 20:20:23 -0700'
+author: Jason Rosenhouse
 mt_id: 1168
 blog_id: 2
 post_id: 1168

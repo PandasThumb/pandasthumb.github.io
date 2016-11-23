@@ -2,6 +2,7 @@
 layout: article
 title: Dumping on Dembski
 date: '2004-04-06 16:03:27 -0700'
+author: Jason Rosenhouse
 mt_id: 98
 blog_id: 2
 post_id: 98

@@ -2,6 +2,7 @@
 layout: article
 title: The State of ID Research
 date: '2006-07-21 21:00:45 -0700'
+author: Jason Rosenhouse
 mt_id: 2376
 blog_id: 2
 post_id: 2376

@@ -2,6 +2,7 @@
 layout: article
 title: Free Evolution/ID Event in Orange County
 date: '2005-11-04 17:21:40 -0700'
+author: Timothy Sandefur
 mt_id: 1568
 blog_id: 2
 post_id: 1568

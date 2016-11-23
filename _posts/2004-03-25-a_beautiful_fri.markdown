@@ -2,6 +2,7 @@
 layout: article
 title: A beautiful friendship?
 date: '2004-03-25 22:22:03 -0700'
+author: Andrea Bottaro
 mt_id: 17
 blog_id: 2
 post_id: 17

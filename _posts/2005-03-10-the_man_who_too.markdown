@@ -2,6 +2,7 @@
 layout: article
 title: The man who took DNA for a helix
 date: '2005-03-10 14:35:38 -0700'
+author: Timothy Sandefur
 mt_id: 802
 blog_id: 2
 post_id: 802

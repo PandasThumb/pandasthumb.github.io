@@ -2,6 +2,7 @@
 layout: article
 title: Cordova Steps In It
 date: '2006-06-16 19:00:12 -0700'
+author: Jason Rosenhouse
 mt_id: 2289
 blog_id: 2
 post_id: 2289

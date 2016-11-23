@@ -2,6 +2,7 @@
 layout: article
 title: The Federalist Society and ID
 date: '2004-04-12 21:26:07 -0700'
+author: Steve Reuland
 mt_id: 123
 blog_id: 2
 post_id: 123

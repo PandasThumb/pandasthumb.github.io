@@ -2,6 +2,7 @@
 layout: article
 title: Troublesome NAGPRA amendment
 date: '2004-10-04 15:37:01 -0700'
+author: Timothy Sandefur
 mt_id: 489
 blog_id: 2
 post_id: 489

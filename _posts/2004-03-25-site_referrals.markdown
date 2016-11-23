@@ -2,6 +2,7 @@
 layout: article
 title: Site Referrals
 date: '2004-03-25 13:37:08 -0700'
+author: Ed Brayton
 mt_id: 29
 blog_id: 2
 post_id: 29

@@ -2,6 +2,7 @@
 layout: article
 title: Tipler on Peer Review
 date: '2004-10-06 18:00:29 -0700'
+author: Jason Rosenhouse
 mt_id: 496
 blog_id: 2
 post_id: 496

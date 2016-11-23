@@ -2,6 +2,7 @@
 layout: article
 title: Evolution on Television.  Help!
 date: '2005-02-04 11:36:28 -0700'
+author: Jason Rosenhouse
 mt_id: 728
 blog_id: 2
 post_id: 728

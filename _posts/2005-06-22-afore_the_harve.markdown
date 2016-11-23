@@ -3,6 +3,7 @@ layout: article
 title: Afore the harvest, when the bud is perfect, and the sour grape is ripening
   in the flower
 date: '2005-06-22 16:29:26 -0700'
+author: Timothy Sandefur
 mt_id: 1092
 blog_id: 2
 post_id: 1092

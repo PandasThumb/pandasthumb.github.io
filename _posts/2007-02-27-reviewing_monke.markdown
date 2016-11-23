@@ -2,6 +2,7 @@
 layout: article
 title: Reviewing <i>Monkey Girl</i>
 date: '2007-02-27 19:31:45 -0700'
+author: Jason Rosenhouse
 mt_id: 2836
 blog_id: 2
 post_id: 2836

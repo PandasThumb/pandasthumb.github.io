@@ -2,6 +2,7 @@
 layout: article
 title: Suing schools for negligent science education?
 date: '2004-12-17 13:25:03 -0700'
+author: Timothy Sandefur
 mt_id: 621
 blog_id: 2
 post_id: 621

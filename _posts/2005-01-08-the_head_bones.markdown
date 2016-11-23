@@ -2,6 +2,7 @@
 layout: article
 title: The head bone's connected to the [CENSORED]
 date: '2005-01-08 14:45:20 -0700'
+author: Timothy Sandefur
 mt_id: 658
 blog_id: 2
 post_id: 658

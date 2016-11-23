@@ -2,6 +2,7 @@
 layout: article
 title: Pennsylvania creationism suit filed
 date: '2004-12-14 15:27:07 -0700'
+author: Timothy Sandefur
 mt_id: 613
 blog_id: 2
 post_id: 613

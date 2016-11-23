@@ -2,6 +2,7 @@
 layout: article
 title: Oh yeah? I dare you to sue us!
 date: '2004-10-22 19:58:37 -0700'
+author: Timothy Sandefur
 mt_id: 526
 blog_id: 2
 post_id: 526

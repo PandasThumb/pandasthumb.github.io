@@ -2,6 +2,7 @@
 layout: article
 title: Newest NAGPRA News
 date: '2004-10-08 12:02:03 -0700'
+author: Timothy Sandefur
 mt_id: 500
 blog_id: 2
 post_id: 500

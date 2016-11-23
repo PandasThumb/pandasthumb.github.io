@@ -2,6 +2,7 @@
 layout: article
 title: Beckwith and the Understanding Evolution Website
 date: '2004-04-07 12:01:48 -0700'
+author: Ed Brayton
 mt_id: 102
 blog_id: 2
 post_id: 102

@@ -2,6 +2,7 @@
 layout: article
 title: Groundless Annual Ritual of ID Self-Congratulation
 date: '2014-12-19 07:08:51 -0700'
+author: Jeffrey Shallit
 mt_id: 7050
 blog_id: 2
 post_id: 7050

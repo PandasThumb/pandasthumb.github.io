@@ -2,6 +2,7 @@
 layout: article
 title: Presenting Evolution
 date: '2006-04-12 13:15:42 -0700'
+author: Jason Rosenhouse
 mt_id: 2117
 blog_id: 2
 post_id: 2117

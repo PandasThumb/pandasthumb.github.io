@@ -2,6 +2,7 @@
 layout: article
 title: Evolution law blog
 date: '2005-01-18 19:07:19 -0700'
+author: Timothy Sandefur
 mt_id: 690
 blog_id: 2
 post_id: 690

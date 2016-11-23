@@ -2,6 +2,7 @@
 layout: article
 title: Down in the Quote Mines
 date: '2004-03-26 08:17:42 -0700'
+author: Gary Hurd
 mt_id: 35
 blog_id: 2
 post_id: 35

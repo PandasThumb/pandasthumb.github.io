@@ -2,6 +2,7 @@
 layout: article
 title: 'Specified Complexity: Darwin''s Panic?'
 date: '2004-03-23 20:13:55 -0700'
+author: PvM
 mt_id: 7
 blog_id: 2
 post_id: 7

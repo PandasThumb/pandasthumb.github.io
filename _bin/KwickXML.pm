@@ -157,17 +157,17 @@ my %tags = (
 	sidebar => [ '<aside>', '</aside>'],
 	p => [ '<p>', '</p>'],
 	br => [ '<br />', ''],
-	table => ['<table class="kw-table">','</table>'],
-	'tr' => ['<tr>','</tr>'],
-	hr => [\&tag_hr, ''],
+	table => ['',''],
+	'tr' => ['',''],
+	hr => ['*********', ''],
 	div => [\&tag_div, '</div>'],
-	td => [ \&tag_td, '</td>'],
-	th => [ \&tag_th, '</th>'],
+	td => [ '|', ''],
+	th => [ '|**', '**'],
 	email => [ \&tag_email, '</a>'],
 	a => [ \&tag_url_start, \&tag_url_end],
 	url => 'a',
 	img => [ \&tag_img, ''],
-	figure => [ \&tag_figure, qq(</div>)],	
+	figure => [ \&tag_figure, qq(</figcaption>\n</figure>)],	
 	refs => [ \&tag_refs, qq(</ul>)],
 	ol => [ \&tag_ol_start, \&tag_ol_end],
 	ul => [ \&tag_ul_start, \&tag_ul_end],	
@@ -179,13 +179,13 @@ my %tags = (
 	note => [\&tag_note_start, \&tag_note_end],
 	toc => [ \&tag_toc, qq(</ol></div>) ],
 	verse => [ \&tag_verse_start, \&tag_verse_end],
-	h  => [ '#', ''],
-	h1 => [ '#', ''],
-	h2 => [ '##', ''],
-	h3 => [ '###', ''],
-	h4 => [ '####', ''],
-	h5 => [ '#####', ''],
-	h6 => [ '######', ''],
+	h  => [ '# ', ''],
+	h1 => [ '# ', ''],
+	h2 => [ '## ', ''],
+	h3 => [ '### ', ''],
+	h4 => [ '#### ', ''],
+	h5 => [ '##### ', ''],
+	h6 => [ '###### ', ''],
 	code => [ \&tag_code_start, \&tag_code_end],
 	blockcode => [ \&tag_blockcode_start, \&tag_blockcode_end],
 	html => [ \&tag_html_start, \&tag_html_end],
@@ -193,8 +193,8 @@ my %tags = (
 	equ => 'eqn',	
 );
 
-my %block_tags = map {$_ => 1} qw(blockquote quote figure kwickxml list ul ol div center refs verse);
-my %para_tags = map {$_ => 1} qw(p h h1 h2 h3 h4 h5 h6 blockcode html hr table tr td th);
+my %block_tags = map {$_ => 1} qw(blockquote quote kwickxml list ul ol div center refs verse);
+my %para_tags = map {$_ => 1} qw(p h h1 h2 h3 h4 h5 h6 blockcode html hr table figure);
 
 sub is_restricted
 {
@@ -322,7 +322,7 @@ sub Text
 	s/`/'/gs;
 
 	# '80s, 'til, 'twas
-	s/'(?=\p{Nd}\p{Nd}[Ss]|[Tt][Ii][Ll]|[Tt][Ww][Aa][Ss])/\x{2019}/gs;
+	#s/'(?=\p{Nd}\p{Nd}[Ss]|[Tt][Ii][Ll]|[Tt][Ww][Aa][Ss])/\x{2019}/gs;
 	
 	# create open quotes
 	#s/^"$/\x{201C}/gs;
@@ -670,21 +670,7 @@ sub tag_img {
 
 sub tag_figure {
     my $e = shift;
-	$_{align} ||= $_{place} || 'none';
-	$_{style} ||= $alignstyle{$_{align}};	
-	my $style = '';
-	$style .= $_{style} if(defined $_{style});
-	if(exists $_{width})
-	{
-		my $kw = Text::KwickXML->instance;	
-		my $w = $_{width}+$kw->config('figure_space');
-		$style .= qq( width:${w}px;);
-	}
-	delete $_{align};
-	delete $_{place};
-	delete $_{style};
-	local $_ = '<img' . copy_attrib(qw(src alt width height class)) . ' />';
-	qq(<div class="kw-figure" style="$style"><div class="kw-figure-img">).tag_img($e).'</div>';
+	qq(<figure>\n).tag_img($e).qq(\n<figcaption markdown="block">);
 }
 
 sub tag_toc {
@@ -904,40 +890,15 @@ sub tag_blockcode_end
 
 sub tag_eqn_start
 {
-	my $e = shift;
-	$e->{kw_in_html} = 2;
-	save_kwick($e, '');
+	shift->{kw_in_html} = 2;
+	'$$';
 }
 
 
 sub tag_eqn_end
 {
-	my $e = shift;
-	$e->{kw_in_html} = 0;
-	my $kw = Text::KwickXML->instance;
-
-	unless(defined $kw->config('eqn_factory'))
-	{
-		require Text::KwickEqn;
-		my $cfg = $kw->config('eqn');
-		my $ef = Text::KwickEqn->new(%{$cfg});
-		$kw->config('eqn_factory' => $ef);
-	}
-	my $eqn = load_kwick($e);
-	my ($img_src,$w,$h) = $kw->config('eqn_factory')->process($eqn);
-	
-	$img_src = $kw->config('eqn')->{url} . $img_src;
-	
-	unless($w && $h)
-	{
-		local %_ = (href => $img_src);
-		local $_ = qq(<a href="$img_src">);
-		return tag_url($e).'[Equation Error]</a>';
-	}
-	
-	local %_ = (src => $img_src, width => $w, height => $h, class => 'kw-eqn');
-	local $_ = qq(<img src="$img_src" width="$w" height="$h" class="kw-eqn"/>);
-	tag_img($e);
+	shift->{kw_in_html} = 0;
+	'$$';
 }
 
 sub tag_verse_start {

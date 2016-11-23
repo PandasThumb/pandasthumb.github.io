@@ -2,6 +2,7 @@
 layout: article
 title: Make your own disclaimer!
 date: '2004-11-23 14:10:04 -0700'
+author: Timothy Sandefur
 mt_id: 573
 blog_id: 2
 post_id: 573

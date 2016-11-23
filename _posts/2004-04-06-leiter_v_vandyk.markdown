@@ -2,6 +2,7 @@
 layout: article
 title: Leiter v VanDyke Redux
 date: '2004-04-06 09:02:54 -0700'
+author: Ed Brayton
 mt_id: 96
 blog_id: 2
 post_id: 96

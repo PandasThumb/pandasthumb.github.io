@@ -2,6 +2,7 @@
 layout: article
 title: The Sixth International Conference on Creationism
 date: '2008-08-19 18:29:05 -0700'
+author: Jason Rosenhouse
 mt_id: 3922
 blog_id: 2
 post_id: 3922

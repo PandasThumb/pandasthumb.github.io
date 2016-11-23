@@ -2,6 +2,7 @@
 layout: article
 title: To Calculate or Not to Calculate, That is the Question-Begging
 date: '2004-03-25 07:58:15 -0700'
+author: Wesley R. Elsberry
 mt_id: 20
 blog_id: 2
 post_id: 20

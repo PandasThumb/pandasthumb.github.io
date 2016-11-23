@@ -2,6 +2,7 @@
 layout: article
 title: Celebrate your right to read
 date: '2004-09-28 10:53:49 -0700'
+author: Timothy Sandefur
 mt_id: 471
 blog_id: 2
 post_id: 471

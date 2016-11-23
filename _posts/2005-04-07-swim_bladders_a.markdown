@@ -2,6 +2,7 @@
 layout: article
 title: Swim Bladders and Snake Venom
 date: '2005-04-07 14:29:41 -0700'
+author: Jason Rosenhouse
 mt_id: 879
 blog_id: 2
 post_id: 879

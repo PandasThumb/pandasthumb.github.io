@@ -2,6 +2,7 @@
 layout: article
 title: Dembski and Darwinian fascists
 date: '2006-08-02 14:51:13 -0700'
+author: John M. Lynch
 mt_id: 2395
 blog_id: 2
 post_id: 2395

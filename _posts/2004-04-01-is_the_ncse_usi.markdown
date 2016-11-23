@@ -2,6 +2,7 @@
 layout: article
 title: Is the NCSE Using Religion to Promote Evolution?
 date: '2004-04-01 14:27:12 -0700'
+author: Jason Rosenhouse
 mt_id: 75
 blog_id: 2
 post_id: 75

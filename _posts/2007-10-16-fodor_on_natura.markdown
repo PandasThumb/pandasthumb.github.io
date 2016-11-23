@@ -2,6 +2,7 @@
 layout: article
 title: Fodor on Natural Selection
 date: '2007-10-16 00:43:58 -0700'
+author: Jason Rosenhouse
 mt_id: 3310
 blog_id: 2
 post_id: 3310

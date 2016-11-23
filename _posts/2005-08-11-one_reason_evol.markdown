@@ -2,6 +2,7 @@
 layout: article
 title: One Reason Evolutionists Are Losing the PR Battle
 date: '2005-08-11 16:12:16 -0700'
+author: Jason Rosenhouse
 mt_id: 1260
 blog_id: 2
 post_id: 1260

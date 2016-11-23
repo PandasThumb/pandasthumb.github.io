@@ -2,6 +2,7 @@
 layout: article
 title: Answering Misconceptions About Evolution
 date: '2004-04-09 12:58:17 -0700'
+author: Ed Brayton
 mt_id: 108
 blog_id: 2
 post_id: 108

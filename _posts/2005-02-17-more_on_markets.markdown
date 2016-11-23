@@ -2,6 +2,7 @@
 layout: article
 title: More on markets as extended phenotypes
 date: '2005-02-17 03:25:09 -0700'
+author: Timothy Sandefur
 mt_id: 764
 blog_id: 2
 post_id: 764

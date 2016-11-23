@@ -2,6 +2,7 @@
 layout: article
 title: Another DNA discoverer dies
 date: '2004-10-07 09:27:41 -0700'
+author: Timothy Sandefur
 mt_id: 498
 blog_id: 2
 post_id: 498

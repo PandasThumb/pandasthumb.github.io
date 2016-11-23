@@ -2,6 +2,7 @@
 layout: article
 title: My Favorite Quotes from an ID Advocate
 date: '2004-03-25 10:58:46 -0700'
+author: Skip
 mt_id: 25
 blog_id: 2
 post_id: 25

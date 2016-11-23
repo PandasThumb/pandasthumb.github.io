@@ -2,6 +2,7 @@
 layout: article
 title: ARN Misrepresents a Scientific Paper.  Surprise!
 date: '2004-07-29 17:43:47 -0700'
+author: Jason Rosenhouse
 mt_id: 348
 blog_id: 2
 post_id: 348

@@ -2,6 +2,7 @@
 layout: article
 title: NCSE violating the Constitution?
 date: '2004-04-02 18:04:27 -0700'
+author: Timothy Sandefur
 mt_id: 84
 blog_id: 2
 post_id: 84

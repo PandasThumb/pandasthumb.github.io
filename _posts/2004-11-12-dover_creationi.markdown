@@ -2,6 +2,7 @@
 layout: article
 title: Dover creationism update
 date: '2004-11-12 09:57:58 -0700'
+author: Timothy Sandefur
 mt_id: 560
 blog_id: 2
 post_id: 560

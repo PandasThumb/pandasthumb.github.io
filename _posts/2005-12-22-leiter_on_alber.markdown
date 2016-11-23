@@ -2,6 +2,7 @@
 layout: article
 title: Leiter on Albert Alschuler on Kitzmiller
 date: '2005-12-22 14:07:02 -0700'
+author: Timothy Sandefur
 mt_id: 1737
 blog_id: 2
 post_id: 1737

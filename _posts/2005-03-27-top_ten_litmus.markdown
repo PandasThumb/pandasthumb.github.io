@@ -2,6 +2,7 @@
 layout: article
 title: Top Ten Litmus Tests
 date: '2005-03-27 16:44:51 -0700'
+author: Jason Rosenhouse
 mt_id: 846
 blog_id: 2
 post_id: 846

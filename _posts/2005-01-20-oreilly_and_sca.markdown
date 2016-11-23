@@ -2,6 +2,7 @@
 layout: article
 title: O'Reilly and Scarborough
 date: '2005-01-20 14:44:45 -0700'
+author: Jason Rosenhouse
 mt_id: 695
 blog_id: 2
 post_id: 695

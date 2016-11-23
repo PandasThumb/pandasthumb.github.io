@@ -2,6 +2,7 @@
 layout: article
 title: Lunacy From Campolo
 date: '2009-02-27 17:35:07 -0700'
+author: Jason Rosenhouse
 mt_id: 4178
 blog_id: 2
 post_id: 4178

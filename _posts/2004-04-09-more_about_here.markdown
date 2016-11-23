@@ -2,6 +2,7 @@
 layout: article
 title: More About "Heresy" in Science
 date: '2004-04-09 12:41:42 -0700'
+author: Mark Perakh
 mt_id: 107
 blog_id: 2
 post_id: 107

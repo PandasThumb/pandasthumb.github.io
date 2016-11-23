@@ -2,6 +2,7 @@
 layout: article
 title: The Altruism Equation
 date: '2006-09-19 15:14:10 -0700'
+author: Jason Rosenhouse
 mt_id: 2501
 blog_id: 2
 post_id: 2501

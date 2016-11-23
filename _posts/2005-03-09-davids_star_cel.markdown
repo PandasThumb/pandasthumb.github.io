@@ -2,6 +2,7 @@
 layout: article
 title: David's Star cellular form
 date: '2005-03-09 09:51:34 -0700'
+author: Timothy Sandefur
 mt_id: 799
 blog_id: 2
 post_id: 799

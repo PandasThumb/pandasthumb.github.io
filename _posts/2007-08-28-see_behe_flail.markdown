@@ -2,6 +2,7 @@
 layout: article
 title: See Behe Flail
 date: '2007-08-28 13:57:00 -0700'
+author: Jason Rosenhouse
 mt_id: 3186
 blog_id: 2
 post_id: 3186

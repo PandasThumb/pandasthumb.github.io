@@ -2,6 +2,7 @@
 layout: article
 title: Finches
 date: '2004-03-28 13:25:22 -0700'
+author: Timothy Sandefur
 mt_id: 47
 blog_id: 2
 post_id: 47

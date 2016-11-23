@@ -4,6 +4,7 @@ title: 'The Cambrian Fossils of Chengjiang, China: The Flowering of Early Life'
 date: '2004-03-30 16:33:04 -0700'
 excerpt: 'Booknote on <i>The Cambrian Fossils of Chengjiang, China: The Flowering
   of Early Life</i>'
+author: Nick Matzke
 mt_id: 61
 blog_id: 2
 post_id: 61

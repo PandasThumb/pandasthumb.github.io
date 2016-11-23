@@ -2,6 +2,7 @@
 layout: article
 title: Finding Your Niche
 date: '2004-03-25 14:43:39 -0700'
+author: John S. Wilkins
 mt_id: 30
 blog_id: 2
 post_id: 30

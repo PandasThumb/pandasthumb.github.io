@@ -2,6 +2,7 @@
 layout: article
 title: Kennewick Man Hearing
 date: '2005-07-17 15:49:27 -0700'
+author: Timothy Sandefur
 mt_id: 1155
 blog_id: 2
 post_id: 1155

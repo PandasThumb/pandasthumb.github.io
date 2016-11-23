@@ -2,6 +2,7 @@
 layout: article
 title: The Ascent of Man
 date: '2004-10-09 23:13:41 -0700'
+author: Timothy Sandefur
 mt_id: 504
 blog_id: 2
 post_id: 504

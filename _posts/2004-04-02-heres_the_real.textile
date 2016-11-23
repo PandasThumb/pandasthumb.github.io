@@ -2,6 +2,7 @@
 layout: article
 title: Here's the Real Proof that Evolution is Wrong???
 date: '2004-04-02 23:44:20 -0700'
+author: Reed A. Cartwright
 mt_id: 85
 blog_id: 2
 post_id: 85

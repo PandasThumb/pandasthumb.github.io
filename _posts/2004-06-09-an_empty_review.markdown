@@ -2,6 +2,7 @@
 layout: article
 title: An empty review of an empty book
 date: '2004-06-09 01:21:09 -0700'
+author: Timothy Sandefur
 mt_id: 228
 blog_id: 2
 post_id: 228

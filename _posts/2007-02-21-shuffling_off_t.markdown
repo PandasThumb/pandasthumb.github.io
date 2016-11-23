@@ -2,6 +2,7 @@
 layout: article
 title: Shuffling Off to Buffalo
 date: '2007-02-21 19:40:02 -0700'
+author: Jason Rosenhouse
 mt_id: 2825
 blog_id: 2
 post_id: 2825

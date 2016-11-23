@@ -2,6 +2,7 @@
 layout: article
 title: The Passion of the IDalogue
 date: '2004-03-30 18:39:03 -0700'
+author: Ed Brayton
 mt_id: 63
 blog_id: 2
 post_id: 63

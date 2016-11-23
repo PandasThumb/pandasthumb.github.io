@@ -2,6 +2,7 @@
 layout: article
 title: Thermodynamics, Again
 date: '2006-04-14 12:10:51 -0700'
+author: Jason Rosenhouse
 mt_id: 2124
 blog_id: 2
 post_id: 2124

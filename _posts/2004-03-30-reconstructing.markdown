@@ -2,6 +2,7 @@
 layout: article
 title: Reconstructing Human Origins
 date: '2004-03-30 11:11:54 -0700'
+author: John M. Lynch
 mt_id: 60
 blog_id: 2
 post_id: 60

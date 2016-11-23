@@ -2,6 +2,7 @@
 layout: article
 title: Origin of "junk" DNA
 date: '2004-03-25 09:20:59 -0700'
+author: John M. Lynch
 mt_id: 22
 blog_id: 2
 post_id: 22

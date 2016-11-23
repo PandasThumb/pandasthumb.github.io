@@ -2,6 +2,7 @@
 layout: article
 title: EvolutionBlog Returns!
 date: '2004-06-06 15:13:47 -0700'
+author: Jason Rosenhouse
 mt_id: 226
 blog_id: 2
 post_id: 226

@@ -2,6 +2,7 @@
 layout: article
 title: Neutrality and world-views
 date: '2004-03-24 21:13:51 -0700'
+author: Timothy Sandefur
 mt_id: 18
 blog_id: 2
 post_id: 18

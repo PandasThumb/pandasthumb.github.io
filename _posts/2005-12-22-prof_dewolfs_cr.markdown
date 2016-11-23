@@ -2,6 +2,7 @@
 layout: article
 title: Prof. DeWolf's Critique of Kitzmiller
 date: '2005-12-22 13:37:47 -0700'
+author: Timothy Sandefur
 mt_id: 1735
 blog_id: 2
 post_id: 1735

@@ -2,6 +2,7 @@
 layout: article
 title: Genetic Mutation and Human Evolution
 date: '2004-03-24 20:32:02 -0700'
+author: John M. Lynch
 mt_id: 16
 blog_id: 2
 post_id: 16

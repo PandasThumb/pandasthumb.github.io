@@ -2,6 +2,7 @@
 layout: article
 title: Upcoming Dennett speech
 date: '2005-02-16 09:16:45 -0700'
+author: Timothy Sandefur
 mt_id: 757
 blog_id: 2
 post_id: 757

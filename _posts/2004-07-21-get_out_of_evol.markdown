@@ -2,6 +2,7 @@
 layout: article
 title: Get Out of Evolution Free?
 date: '2004-07-21 19:14:28 -0700'
+author: Timothy Sandefur
 mt_id: 333
 blog_id: 2
 post_id: 333

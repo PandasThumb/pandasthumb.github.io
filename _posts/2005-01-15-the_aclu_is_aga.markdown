@@ -2,6 +2,7 @@
 layout: article
 title: The ACLU is against thinking
 date: '2005-01-15 11:55:50 -0700'
+author: Timothy Sandefur
 mt_id: 685
 blog_id: 2
 post_id: 685

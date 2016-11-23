@@ -2,6 +2,7 @@
 layout: article
 title: New Law Review Article
 date: '2006-03-10 10:12:17 -0700'
+author: Timothy Sandefur
 mt_id: 2017
 blog_id: 2
 post_id: 2017

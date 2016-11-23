@@ -2,6 +2,7 @@
 layout: article
 title: Montanan Shenanigans
 date: '2004-04-15 18:08:24 -0700'
+author: Timothy Sandefur
 mt_id: 130
 blog_id: 2
 post_id: 130

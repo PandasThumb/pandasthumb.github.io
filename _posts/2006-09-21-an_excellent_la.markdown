@@ -2,6 +2,7 @@
 layout: article
 title: An Excellent Law Review Article on Creationism Law
 date: '2006-09-21 18:26:36 -0700'
+author: Timothy Sandefur
 mt_id: 2504
 blog_id: 2
 post_id: 2504

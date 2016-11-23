@@ -2,6 +2,7 @@
 layout: article
 title: Society for American Archaeology supports destruction of ancient skeletons
 date: '2004-10-06 12:06:05 -0700'
+author: Timothy Sandefur
 mt_id: 493
 blog_id: 2
 post_id: 493

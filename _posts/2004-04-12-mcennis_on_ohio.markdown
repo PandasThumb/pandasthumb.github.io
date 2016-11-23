@@ -2,6 +2,7 @@
 layout: article
 title: McEnnis on Ohio "critical analysis" lesson plan
 date: '2004-04-12 18:10:52 -0700'
+author: Wesley R. Elsberry
 mt_id: 122
 blog_id: 2
 post_id: 122

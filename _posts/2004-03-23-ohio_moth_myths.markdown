@@ -2,6 +2,7 @@
 layout: article
 title: Ohio Moth Myths
 date: '2004-03-23 18:32:23 -0700'
+author: Ian Musgrave
 mt_id: 5
 blog_id: 2
 post_id: 5

@@ -2,6 +2,7 @@
 layout: article
 title: Getting away with "heresy"
 date: '2004-04-06 16:48:25 -0700'
+author: Andrea Bottaro
 mt_id: 88
 blog_id: 2
 post_id: 88

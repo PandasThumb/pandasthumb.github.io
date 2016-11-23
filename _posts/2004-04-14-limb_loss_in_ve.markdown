@@ -2,6 +2,7 @@
 layout: article
 title: Limb Loss in Vertebrates
 date: '2004-04-14 16:32:26 -0700'
+author: John M. Lynch
 mt_id: 124
 blog_id: 2
 post_id: 124

@@ -2,6 +2,7 @@
 layout: article
 title: Further Thoughts on West's Attack on Judge Jones
 date: '2005-12-24 01:35:13 -0700'
+author: Timothy Sandefur
 mt_id: 1759
 blog_id: 2
 post_id: 1759

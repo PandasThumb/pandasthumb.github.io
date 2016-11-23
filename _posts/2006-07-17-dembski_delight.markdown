@@ -2,6 +2,7 @@
 layout: article
 title: Dembski Delights in Domesticated Dogs.
 date: '2006-07-17 21:23:13 -0700'
+author: John M. Lynch
 mt_id: 2361
 blog_id: 2
 post_id: 2361

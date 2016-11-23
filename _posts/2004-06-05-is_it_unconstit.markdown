@@ -2,6 +2,7 @@
 layout: article
 title: Is it Unconstitutional <I>Not</I> to Teach ID?
 date: '2004-06-05 15:20:59 -0700'
+author: Jason Rosenhouse
 mt_id: 225
 blog_id: 2
 post_id: 225

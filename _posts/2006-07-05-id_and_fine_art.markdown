@@ -2,6 +2,7 @@
 layout: article
 title: ID and Fine Art ... well, it's all relative I suppose
 date: '2006-07-05 22:17:18 -0700'
+author: John M. Lynch
 mt_id: 2331
 blog_id: 2
 post_id: 2331

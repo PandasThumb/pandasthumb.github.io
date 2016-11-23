@@ -2,6 +2,7 @@
 layout: article
 title: Carnival of Evolution!
 date: '2008-09-02 19:05:37 -0700'
+author: Jason Rosenhouse
 mt_id: 3935
 blog_id: 2
 post_id: 3935

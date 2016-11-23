@@ -2,6 +2,7 @@
 layout: article
 title: 'EvoMath 0: An Introduction'
 date: '2004-04-02 16:00:00 -0700'
+author: Reed A. Cartwright
 mt_id: 74
 blog_id: 2
 post_id: 74

@@ -2,6 +2,7 @@
 layout: article
 title: Our First Links
 date: '2004-03-24 10:21:49 -0700'
+author: Ed Brayton
 mt_id: 11
 blog_id: 2
 post_id: 11

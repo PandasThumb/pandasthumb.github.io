@@ -2,6 +2,7 @@
 layout: article
 title: Uncommon Dissent II
 date: '2004-08-01 18:02:05 -0700'
+author: Jason Rosenhouse
 mt_id: 350
 blog_id: 2
 post_id: 350

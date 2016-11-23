@@ -2,6 +2,7 @@
 layout: article
 title: '"The Scientific Method"'
 date: '2004-04-03 08:07:08 -0700'
+author: Timothy Sandefur
 mt_id: 87
 blog_id: 2
 post_id: 87

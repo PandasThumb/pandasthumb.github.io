@@ -2,6 +2,7 @@
 layout: article
 title: What the Dover Case Says
 date: '2005-12-20 12:35:23 -0700'
+author: Timothy Sandefur
 mt_id: 1707
 blog_id: 2
 post_id: 1707

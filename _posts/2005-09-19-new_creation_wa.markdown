@@ -2,6 +2,7 @@
 layout: article
 title: New Creation Watch Column
 date: '2005-09-19 11:08:44 -0700'
+author: Jason Rosenhouse
 mt_id: 1414
 blog_id: 2
 post_id: 1414

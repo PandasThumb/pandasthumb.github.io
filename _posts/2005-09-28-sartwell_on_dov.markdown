@@ -2,6 +2,7 @@
 layout: article
 title: Sartwell on Dover
 date: '2005-09-28 14:56:50 -0700'
+author: Jason Rosenhouse
 mt_id: 1445
 blog_id: 2
 post_id: 1445

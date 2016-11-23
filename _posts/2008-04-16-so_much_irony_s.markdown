@@ -2,6 +2,7 @@
 layout: article
 title: So much irony, so little time.
 date: '2008-04-16 03:35:16 -0700'
+author: Ian Musgrave
 mt_id: 3754
 blog_id: 2
 post_id: 3754

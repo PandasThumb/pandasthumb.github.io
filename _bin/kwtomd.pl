@@ -24,6 +24,3 @@ my $parser = Text::KwickXML->new();
 $main = $parser->parse_text($main);
 
 say($main);
-
-
-

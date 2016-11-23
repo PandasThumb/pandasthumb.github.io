@@ -2,6 +2,7 @@
 layout: article
 title: An extended phenotype
 date: '2005-02-14 09:08:33 -0700'
+author: Timothy Sandefur
 mt_id: 752
 blog_id: 2
 post_id: 752

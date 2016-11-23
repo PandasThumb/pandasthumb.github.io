@@ -2,6 +2,7 @@
 layout: article
 title: Creative Ideas of IDists as reviewers
 date: '2004-03-26 09:50:17 -0700'
+author: Mark Perakh
 mt_id: 36
 blog_id: 2
 post_id: 36

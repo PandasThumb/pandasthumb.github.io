@@ -4,6 +4,7 @@ title: His Holiness Rael endorses Intelligent Design
 date: '2004-03-25 09:39:59 -0700'
 excerpt: His Holiness Rael supports cloning, GM foods, eternal life through memory
   transfer -- and Intelligent Design.
+author: Nick Matzke
 mt_id: 23
 blog_id: 2
 post_id: 23

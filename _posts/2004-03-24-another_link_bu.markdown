@@ -2,6 +2,7 @@
 layout: article
 title: Another Link, but With Some Strange Comments
 date: '2004-03-24 18:07:36 -0700'
+author: Ed Brayton
 mt_id: 14
 blog_id: 2
 post_id: 14

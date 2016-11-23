@@ -2,6 +2,7 @@
 layout: article
 title: Lynn, Cooper and Dean
 date: '2005-02-16 20:02:22 -0700'
+author: Jason Rosenhouse
 mt_id: 760
 blog_id: 2
 post_id: 760

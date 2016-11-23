@@ -2,6 +2,7 @@
 layout: article
 title: Dembski Interview on Dick Staub
 date: '2004-04-03 13:19:07 -0700'
+author: Steve Reuland
 mt_id: 91
 blog_id: 2
 post_id: 91

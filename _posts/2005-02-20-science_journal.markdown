@@ -2,6 +2,7 @@
 layout: article
 title: Science journalism panel
 date: '2005-02-20 16:02:09 -0700'
+author: Timothy Sandefur
 mt_id: 775
 blog_id: 2
 post_id: 775

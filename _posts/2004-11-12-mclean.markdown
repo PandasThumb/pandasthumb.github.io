@@ -2,6 +2,7 @@
 layout: article
 title: McLean
 date: '2004-11-12 10:00:24 -0700'
+author: Timothy Sandefur
 mt_id: 561
 blog_id: 2
 post_id: 561

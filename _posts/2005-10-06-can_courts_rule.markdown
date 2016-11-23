@@ -2,6 +2,7 @@
 layout: article
 title: Can Courts Rule on The Nature of Science?
 date: '2005-10-06 11:49:31 -0700'
+author: Timothy Sandefur
 mt_id: 1479
 blog_id: 2
 post_id: 1479

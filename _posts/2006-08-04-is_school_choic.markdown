@@ -2,6 +2,7 @@
 layout: article
 title: Is School Choice the Answer?
 date: '2006-08-04 13:33:29 -0700'
+author: Timothy Sandefur
 mt_id: 2403
 blog_id: 2
 post_id: 2403

@@ -2,6 +2,7 @@
 layout: article
 title: The Evolution of Dembski's Mathematics
 date: '2004-08-12 00:39:59 -0700'
+author: Jason Rosenhouse
 mt_id: 380
 blog_id: 2
 post_id: 380

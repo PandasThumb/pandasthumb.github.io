@@ -2,6 +2,7 @@
 layout: article
 title: More on neutrality
 date: '2004-03-25 18:50:05 -0700'
+author: Timothy Sandefur
 mt_id: 33
 blog_id: 2
 post_id: 33

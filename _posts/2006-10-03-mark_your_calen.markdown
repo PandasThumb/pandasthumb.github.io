@@ -2,6 +2,7 @@
 layout: article
 title: 'Mark Your Calendars: Michael Shermer Book Forum'
 date: '2006-10-03 12:00:47 -0700'
+author: Timothy Sandefur
 mt_id: 2523
 blog_id: 2
 post_id: 2523

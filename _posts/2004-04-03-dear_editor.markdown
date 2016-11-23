@@ -2,6 +2,7 @@
 layout: article
 title: Dear Editor
 date: '2004-04-03 12:48:42 -0700'
+author: Gary Hurd
 mt_id: 90
 blog_id: 2
 post_id: 90

@@ -2,6 +2,7 @@
 layout: article
 title: Shermer and Dembski in Bridgewater
 date: '2007-02-16 20:27:12 -0700'
+author: Jason Rosenhouse
 mt_id: 2805
 blog_id: 2
 post_id: 2805

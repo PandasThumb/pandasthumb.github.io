@@ -2,6 +2,7 @@
 layout: article
 title: 'Mything the point: Jonathan Wells'' bad faith'
 date: '2004-03-30 17:40:00 -0700'
+author: John S. Wilkins
 mt_id: 62
 blog_id: 2
 post_id: 62

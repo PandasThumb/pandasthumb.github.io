@@ -2,6 +2,7 @@
 layout: article
 title: "<B>EvolutionBlog Returns</B>"
 date: '2005-08-10 16:34:16 -0700'
+author: Jason Rosenhouse
 mt_id: 1248
 blog_id: 2
 post_id: 1248

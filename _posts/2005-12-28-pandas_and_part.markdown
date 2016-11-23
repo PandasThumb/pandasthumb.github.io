@@ -2,6 +2,7 @@
 layout: article
 title: Pandas and Part Three
 date: '2005-12-28 15:17:13 -0700'
+author: Timothy Sandefur
 mt_id: 1775
 blog_id: 2
 post_id: 1775

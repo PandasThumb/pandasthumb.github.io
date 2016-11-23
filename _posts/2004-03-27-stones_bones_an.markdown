@@ -2,6 +2,7 @@
 layout: article
 title: Stones, Bones, and Groans
 date: '2004-03-27 16:15:43 -0700'
+author: Gary Hurd
 mt_id: 44
 blog_id: 2
 post_id: 44

@@ -2,6 +2,7 @@
 layout: article
 title: A Guide for The Legally Perplexed
 date: '2004-08-05 10:26:46 -0700'
+author: Timothy Sandefur
 mt_id: 360
 blog_id: 2
 post_id: 360

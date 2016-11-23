@@ -2,6 +2,7 @@
 layout: article
 title: A Baseless Lawsuit from Caldwell? Imagine!
 date: '2005-10-13 10:22:35 -0700'
+author: Timothy Sandefur
 mt_id: 1501
 blog_id: 2
 post_id: 1501

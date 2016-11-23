@@ -11,6 +11,7 @@ excerpt: |-
 
   <P>
   Alas, it quickly becomes clear that evolution's defenders were carefully chosen.
+author: Jason Rosenhouse
 mt_id: 51
 blog_id: 2
 post_id: 51

@@ -2,6 +2,7 @@
 layout: article
 title: Darwin and Lincoln Day
 date: '2006-02-12 19:13:55 -0700'
+author: Timothy Sandefur
 mt_id: 1925
 blog_id: 2
 post_id: 1925

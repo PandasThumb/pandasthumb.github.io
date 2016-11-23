@@ -2,6 +2,7 @@
 layout: article
 title: Some thoughts on the Moore amicus brief
 date: '2005-06-27 11:43:19 -0700'
+author: Timothy Sandefur
 mt_id: 1104
 blog_id: 2
 post_id: 1104

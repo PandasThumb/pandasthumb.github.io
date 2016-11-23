@@ -2,6 +2,7 @@
 layout: article
 title: Here's How To Break The Law?
 date: '2005-12-21 17:04:41 -0700'
+author: Timothy Sandefur
 mt_id: 1724
 blog_id: 2
 post_id: 1724

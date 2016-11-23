@@ -2,6 +2,7 @@
 layout: article
 title: Advice for Schools
 date: '2006-04-12 08:29:40 -0700'
+author: Timothy Sandefur
 mt_id: 2116
 blog_id: 2
 post_id: 2116

@@ -2,6 +2,7 @@
 layout: article
 title: More on the<i> New Republic</i> piece
 date: '2005-07-08 09:13:59 -0700'
+author: Timothy Sandefur
 mt_id: 1124
 blog_id: 2
 post_id: 1124

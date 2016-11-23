@@ -2,6 +2,7 @@
 layout: article
 title: This is What Happens When the Facts are Fairly Presented
 date: '2005-12-20 17:06:31 -0700'
+author: Jason Rosenhouse
 mt_id: 1714
 blog_id: 2
 post_id: 1714

@@ -2,6 +2,7 @@
 layout: article
 title: Kennewick Man update
 date: '2004-07-23 09:29:31 -0700'
+author: Timothy Sandefur
 mt_id: 339
 blog_id: 2
 post_id: 339

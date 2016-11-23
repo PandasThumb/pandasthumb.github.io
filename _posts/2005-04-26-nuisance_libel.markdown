@@ -2,6 +2,7 @@
 layout: article
 title: Nuisance libel lawsuit against Eugenie Scott
 date: '2005-04-26 18:26:15 -0700'
+author: Timothy Sandefur
 mt_id: 915
 blog_id: 2
 post_id: 915

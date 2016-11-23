@@ -2,6 +2,7 @@
 layout: article
 title: The Heresy of Nosson Slifkin
 date: '2005-11-29 18:35:46 -0700'
+author: Jason Rosenhouse
 mt_id: 1647
 blog_id: 2
 post_id: 1647

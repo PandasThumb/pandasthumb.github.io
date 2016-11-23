@@ -2,6 +2,7 @@
 layout: article
 title: CSI, the original series...
 date: '2004-03-27 14:00:00 -0700'
+author: John S. Wilkins
 mt_id: 40
 blog_id: 2
 post_id: 40

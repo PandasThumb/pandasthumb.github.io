@@ -2,6 +2,7 @@
 layout: article
 title: Krauss and Ham on <i>The O'Reilly Factor</i>
 date: '2007-05-28 23:07:28 -0700'
+author: Jason Rosenhouse
 mt_id: 3049
 blog_id: 2
 post_id: 3049

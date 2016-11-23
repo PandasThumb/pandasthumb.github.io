@@ -2,6 +2,7 @@
 layout: article
 title: Quote Mining in <i>The Edge of Evolution</i>
 date: '2007-06-21 19:54:30 -0700'
+author: Jason Rosenhouse
 mt_id: 3097
 blog_id: 2
 post_id: 3097

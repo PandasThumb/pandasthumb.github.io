@@ -2,6 +2,7 @@
 layout: article
 title: Are "intelligent agents" supernatural?
 date: '2004-04-10 06:25:13 -0700'
+author: Ian Musgrave
 mt_id: 111
 blog_id: 2
 post_id: 111
