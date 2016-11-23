@@ -14,8 +14,3 @@ basename: pelecanus_eryth
 <big>_[Pelecanus erythrorhynchos](https://en.wikipedia.org/wiki/American_white_pelican)_ -- American white [pelican](http://www.poemhunter.com/poem/a-wonderful-bird-is-the-pelican/), Walden Ponds, Boulder, Colorado, July 16, 2016. Mea culpa: The birds were just beyond the limit of my equipment, but this was the first time I recall seeing pelicans so late in the season and certainly the first time I have seen a juvenile. It may be sampling error -- I do not visit Walden Ponds every week -- but I wonder whether they are changing their migration patterns as the climate warms.</big>
 </figcaption>
 </figure>
-
-
-
-
-

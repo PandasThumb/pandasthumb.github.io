@@ -23,4 +23,7 @@ my $parser = Text::KwickXML->new();
 
 $main = $parser->parse_text($main);
 
+$main =~ s/^\s+//s;
+$main =~ s/\s+$//s;
+
 say($main);
