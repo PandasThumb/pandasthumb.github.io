@@ -15,7 +15,7 @@ use KwickXML;
 
 my $str = read_file(\*STDIN);
 
-my ($front,$main) = $str =~ m|^(---.*---)\n(.*)$|s; 
+my ($front,$main) = $str =~ m|^(---\n.*?\n---)\n(.*)$|s; 
 
 say($front);
 

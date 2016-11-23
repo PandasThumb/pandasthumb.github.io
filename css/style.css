@@ -23,8 +23,9 @@ body {
   font-size: 1em;
 }
 
+tt,
 code,
-blockcode {
+pre {
     font-family: 'Source Code Pro','Consolas','Monaco','Lucida Console',
     'Liberation Mono','DejaVu Sans Mono','Bitstream Vera Sans Mono',
     'Courier New', monospace;
@@ -146,19 +147,6 @@ nav.main-nav li:hover a {
   text-shadow: 1px 1px 0px #000;
 }
 
-img {
-  width: 100%;
-}
-
-h3 {
-  color: #222;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 1.4375em;
-  line-height: 1.4em;
-  margin: 0px;
-}
-
 p {
   font-family: inherit;
   font-size: 1em;
@@ -204,55 +192,6 @@ a img {
 a:hover img {
   padding: 1px;
   border: 2px solid #2956b2;
-}
-
-figure.quote {
-  border-left: 0.5em solid #6495ed;
-  background: none repeat scroll 0 0 #FFFFFF;
-  margin: 1em 0em 1em 0em;
-  padding: 0.75em 0.5em 0.75em 1em;
-  box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
-  position: relative;
-}
-
-figure.quote figcaption:after {
-    color: #6495ed;
-    content: "”";
-    display: block;
-    font-size: 16em;
-    line-height: 16px;
-    height: 0px;
-	position: absolute;
-	right: -0.1em;
-	bottom: -0.1em;
-	text-align: right;
-}
-
-figure.quote > blockquote {
-  margin: 0;
-}
-
-figure.quote > figcaption {
-  margin-top: 1em;
-  margin-right: 4em;
-}
-
-.title .mu-sign {
-  float: right;
-  font-weight: bold;
-  font-style: italic;
-  font-size: 100px;
-}
-
-code {
-    background-color: #F8F8F8;
-    border: 1px solid #DDDDDD;
-    border-radius: 3px;
-    margin: 0 2px;
-    padding: 0 5px;    
-}
-
-span.email {
 }
 
 section h1, section h2, section h3,
@@ -377,6 +316,87 @@ span.fetchemail:before {
 .blogpost header h2 {
   margin: 0em;
 }
+
+pre.highlight  { 
+   background-color: #f7f7f7;
+    border-radius: 3px;
+    font-size: 85%;
+    line-height: 1.45;
+    overflow: auto;
+    padding: 16px;
+}
+
+
+code::before,
+code::after,
+tt::before,
+tt::after {
+    content: " ";
+    letter-spacing: -0.2em;
+}
+
+pre code::before,
+pre code::after,
+pre tt::before,
+pre tt::after {
+  content: normal;
+} 
+
+pre code,
+pre tt {
+    background-color: transparent;
+    border: 0 none;
+    display: inline;
+    line-height: inherit;
+    margin: 0;
+    overflow: visible;
+    overflow-wrap: normal;
+    padding: 0;
+}
+
+pre > code {
+    background: transparent none repeat scroll 0 0;
+    border: 0 none;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+    white-space: pre;
+    word-break: normal;
+}
+
+code,
+tt {
+    background-color: rgba(0, 0, 0, 0.04);
+    border-radius: 3px;
+    font-size: 85%;
+    margin: 0;
+    padding: 0.2em 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto !important;
+}
+
+figure {
+  background: #f7f7f7;
+  width: -webkit-min-content;
+  width: -moz-min-content;
+  width: min-content;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0.5em;
+  margin-bottom: 0.5em;
+
+}
+
+figure img {
+  max-width: none !important;
+}
+
+figcaption {
+}
+
 
 @media screen and (max-width: 568px) {
  .title h1 {

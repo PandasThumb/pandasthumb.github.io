@@ -141,12 +141,12 @@ sub no_utf8 {
 
 my %tags = (
 	kwickxml => [ "", \&tag_kwickxml_end],
-	strong => [ '**', '**' ],
+	strong => [ \&tag_save_kwick, \&tag_strong ],
+	em => [ \&tag_save_kwick, \&tag_em ],
+	strike => [ \&tag_save_kwick, \&tag_strike ],
 	b => 'strong',
-	em => [ '_', '_' ],
 	i => 'em',
 	u => 'em',
-	strike => [ '~~', '~~'],
 	's' => 'strike',
 	tt => [ '`', '`'],
 	'sub' => [ '<sub>', '</sub>'],
@@ -158,7 +158,7 @@ my %tags = (
 	p => [ '<p>', '</p>'],
 	br => [ '<br />', ''],
 	table => ['',''],
-	'tr' => ['',''],
+	'tr' => [\&tag_save_kwick,\&tag_tr],
 	hr => ['*********', ''],
 	div => [\&tag_div, '</div>'],
 	td => [ '|', ''],
@@ -167,8 +167,8 @@ my %tags = (
 	a => [ \&tag_url_start, \&tag_url_end],
 	url => 'a',
 	img => [ \&tag_img, ''],
-	figure => [ \&tag_figure, qq(</figcaption>\n</figure>)],	
-	refs => [ \&tag_refs, qq(</ul>)],
+	figure => [ \&tag_figure, qq(\n</figcaption>\n</figure>)],	
+	refs => 'ul',
 	ol => [ \&tag_ol_start, \&tag_ol_end],
 	ul => [ \&tag_ul_start, \&tag_ul_end],	
 	list => 'ul',
@@ -177,7 +177,7 @@ my %tags = (
 	qref => [ \&tag_qref_start, \&tag_qref_end],
 	li => [ \&tag_li_start, \&tag_li_end],
 	note => [\&tag_note_start, \&tag_note_end],
-	toc => [ \&tag_toc, qq(</ol></div>) ],
+	toc => [ \&tag_toc, qq() ],
 	verse => [ \&tag_verse_start, \&tag_verse_end],
 	h  => [ '# ', ''],
 	h1 => [ '# ', ''],
@@ -270,10 +270,9 @@ sub EndTag
 	return '' if(!$f || is_restricted($e, $t));
 	
 	my $state = pop_state($e);
-	$e->{kwick} .= "\n\n" if($state && $state != 1 && $block_tags{$t});
+	$e->{kwick} .= "" if($state && $state != 1 && $block_tags{$t});
 	my $r = $tags{$t}->[1];		
-	$e->{kwick} .= (ref($r) eq "CODE") ?
-		$r->($e) : $r;
+	$e->{kwick} .= (ref($r) eq "CODE") ? $r->($e) : $r;
 	$e->{kwick} .= "\n\n" if($block_tags{$t} || $para_tags{$t});
 	$e->{kwick};
 }
@@ -317,6 +316,9 @@ sub Text
 		s/</&lt;/gs;
 	}
 
+	s/\[/\\[/gs;
+	s/\]/\\]/gs;
+
 	s/``/"/gs;
 	s/''/"/gs;
 	s/`/'/gs;
@@ -348,7 +350,7 @@ sub Text
 			set_state($e,1);
 		}
 		return unless(length($_));
-		return $e->{kwick} .= (verse($e) ? "<br />$_" : $_) if(m/^\n$/);		
+		return $e->{kwick} .= (verse($e) ? "  $_" : $_) if(m/^\n$/);		
 	
 		if(get_state($e) != 2)
 		{
@@ -362,10 +364,10 @@ sub Text
 		}
 		set_state($e,1) if(s!\n{2,}$!\n\n!gs);
 		if(verse($e)) {
-			s|(?<!\n)\n(?!\n)|<br />\n|gs;
+			s|(?<!\n)\n(?!\n)|  \n|gs;
 		}	
 	} elsif(verse($e)) {
-		s!\n!<br />\n!gs;
+		s!\n!  \n!gs;
 	}	
 	
 	s/&(?!#?[xX]?(?:[0-9a-fA-F]+|\w{1,8});)/&amp;/gs;
@@ -412,23 +414,23 @@ sub EndDocument
 	my $e = shift;
 	my $text = $e->{kwick};
 	
-	if($e->{kw_do_toc})
-	{
-		my $tls = '';
-		foreach my $v(@{$e->{kw_toc}})
-		{
-			$tls .= qq(<li><a href="#$v->[0]">$v->[1]</a></li>);
-		}
-		$text =~ s!<ol class="kw-toc-list">!<ol class="kw-toc-list">$tls!gs;
-	}
+	# if($e->{kw_do_toc})
+	# {
+	# 	my $tls = '';
+	# 	foreach my $v(@{$e->{kw_toc}})
+	# 	{
+	# 		$tls .= qq(<li><a href="#$v->[0]">$v->[1]</a></li>);
+	# 	}
+	# 	$text =~ s!<ol class="kw-toc-list">!<ol class="kw-toc-list">$tls!gs;
+	# }
 	
-	$text =~ s!<p>(
-			\s*(?:<a\s+$ap\s*>)?
-			\s*<img\s+$ap\s*/>
-			\s*(?:</a>)?
-			\s*(?:[(]\s*[\w.-]*\s*[)])?
-			\s*)</p>
-			!<p class="kw-img-center">$1</p>!sgxo;
+	# $text =~ s!<p>(
+	# 		\s*(?:<a\s+$ap\s*>)?
+	# 		\s*<img\s+$ap\s*/>
+	# 		\s*(?:</a>)?
+	# 		\s*(?:[(]\s*[\w.-]*\s*[)])?
+	# 		\s*)</p>
+	# 		!<p class="kw-img-center">$1</p>!sgxo;
 	
 	return $text;
 }
@@ -440,18 +442,19 @@ sub tag_kwickxml_end
 	# add notes
 	if(@{$e->{kw_notes}})
 	{
-		my $kw = Text::KwickXML->instance;
 		my @notes = @{$e->{kw_notes}};
-		my $id = (defined $kw->config('docid')) ? $kw->config('docid').'-' : '';
-		$s .= make_h($e, $kw->config('notes'));
-		$s .= qq(<ol class="kw-notes">);
+
 		foreach my $z (1..@notes)
 		{
-			$s .= qq(<li id="note-$id$z">$notes[$z-1]</li>);
+			$s .= $notes[$z-1] . "\n\n";
 		}
-		$s .= '</ol>';
 	}
 	$s;
+}
+
+sub tag_save_kwick {
+	my $e = shift;
+	save_kwick($e);
 }
 
 sub save_kwick
@@ -536,6 +539,37 @@ sub PI
 
 }
 
+sub tag_strong {
+	my $e = shift;
+	my $s = load_kwick($e);
+	$s =~ s/^\s+//s;
+	$s =~ s/\s+$//s;
+	qq(**$s**);
+}
+
+sub tag_em {
+	my $e = shift;
+	my $s = load_kwick($e);
+	$s =~ s/^\s+//s;
+	$s =~ s/\s+$//s;
+	qq(_${s}_);
+}
+
+sub tag_strike {
+	my $e = shift;
+	my $s = load_kwick($e);
+	$s =~ s/^\s+//s;
+	$s =~ s/\s+$//s;
+	qq(~~$s~~);
+}
+
+sub tag_tr {
+	my $e = shift;
+	my $s = load_kwick($e);
+	$s =~ s/\n//sg;
+	"$s\n";	
+}
+
 sub tag_hr {
 	my $s = qq(<hr);
 	if(exists $_{width})
@@ -560,6 +594,7 @@ sub tag_th {
 	$s .= qq(>);
 	$s;
 }
+
 {
 my @b64 = split(//,'0123456789:;ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz');
 sub encode64
@@ -603,24 +638,31 @@ sub tag_email {
 	qq(<a href="mailto:$s">);
 }
 
-sub tag_url {
-	'';
+sub push_href {
+	my $e = shift;
+	my $href = shift;
+	push(@{$e->{ahref}}, $href);	
+}
+
+sub pop_href {
+	my $e = shift;
+	pop(@{$e->{ahref}});
 }
 
 sub tag_url_start {
 	my $e = shift;
 	my $href = $_{href} || '';
 
-	return tag_email($e) if($href =~ s/^\s*mailto://);
+	#return tag_email($e) if($href =~ s/^\s*mailto://);
 	
-	push(@{$e->{ahref}}, $href);
+	push_href($e,$href);
 	save_kwick($e);
 }
 
 sub tag_url_end {
 	my $e = shift;
 	my $s = load_kwick($e);
-	my $href = pop(@{$e->{ahref}});
+	my $href = pop_href($e);
 	"[$s]($href)";
 }
 
@@ -634,7 +676,7 @@ my %talignstyle = (
 sub tag_div {
 	$_{align} ||= $_{place} || 'none';
 	$_{style} ||= $talignstyle{$_{align}};
-	my $s = '<div';
+	my $s = '<div markdown="block"';
 	$s .= qq( style="$_{style}") if(defined $_{style});
 	$s .= qq( class="$_{class}") if(defined $_{class});
 	$s .= qq( title="$_{title}") if(defined $_{title});
@@ -674,17 +716,18 @@ sub tag_figure {
 }
 
 sub tag_toc {
-	my $e = shift;
-	$e->{kw_do_toc} = 1;
-	my $kw = Text::KwickXML->instance;		
-	qq(<div class="kw-toc">).make_h($e, $kw->config('toc')).qq(<ol class="kw-toc-list">);
+	# my $e = shift;
+	# $e->{kw_do_toc} = 1;
+	# my $kw = Text::KwickXML->instance;		
+	# qq(<div class="kw-toc">).make_h($e, $kw->config('toc')).qq(<ol class="kw-toc-list">);
+	'';
 }
 
-sub tag_refs {
-	my $e = shift;
-	my $kw = Text::KwickXML->instance;	
-	make_h($e, $kw->config('references')).qq(<ul class="kw-refs">);
-}
+# sub tag_refs {
+# 	my $e = shift;
+# 	my $kw = Text:tag_refs:KwickXML->instance;	
+# 	make_h($e, $kw->config('references')).qq(<ul class="kw-refs">);
+# }
 
 my %listtagmap = (
 	'*' => 'list-style-type: disc;',
@@ -732,32 +775,6 @@ sub tag_blockquote_end {
 	return $s;
 }
 
-sub tag_qref_start {
-	my $e = shift;
-	my $s = qq(<div class="kw-quote-ref">\();
-	my $href = $_{href};
-	if(defined $href)
-	{
-		push(@{$e->{ahref}}, 1);
-		local %_ = (href => $href);
-		local $_ = qq(<a href="$href">);
-		$s .= tag_url($e);
-	}
-	else
-	{
-		push(@{$e->{ahref}}, 0);
-	}
-	$s;
-}
-
-sub tag_qref_end {
-	my $e = shift;
-	my $s = '';
-	$s .= '</a>' if(pop(@{$e->{ahref}}));
-	$s .= ')</div>';
-	$s;
-}
-
 sub tag_ol_start {
 	my $e = shift;
 	push(@{$e->{litype}}, 'ol');
@@ -792,15 +809,15 @@ sub tag_li_start {
 	my $e = shift;
 	my $type = $e->{litype}->[-1];
 	my $s = $type eq 'ul' ? '* ' : '1. ';
-	my $href = $_{href};
-	push(@{$e->{ahref}}, $href || 0);
+	my $href = $_{href} || 0;
+	push_href($e, $href);
 	save_kwick($e,$s);
 }
 
 sub tag_li_end {
 	my $e = shift;
 	my $s = load_kwick($e);
-	my $href = pop(@{$e->{ahref}});
+	my $href = pop_href($e);
 	if($href) {
 		return "[$s]($href)";
 	} else {
@@ -808,18 +825,38 @@ sub tag_li_end {
 	}
 }
 
+sub tag_qref_start {
+	my $e = shift;
+	my $href = $_{href} || 0;
+	push_href($e, $href);
+	save_kwick($e);
+}
+
+sub tag_qref_end {
+	my $e = shift;
+	my $s = load_kwick($e);
+	my $href = pop_href($e);
+	if($href) {
+		return "[$s]($href)";
+	} else {
+		return $s;
+	}
+}
+
+
 sub tag_note_start {
 	my $e = shift;
 	my $z = @{$e->{kw_notes}}+1;
-	$_{title} ||= $z;
-	my $kw = Text::KwickXML->instance;
-	my $id = (defined $kw->config('docid')) ? $kw->config('docid').'-' : '';
-	save_kwick($e, qq([<a href="#note-$id$z">$_{title}</a>]));
+	my $title = $z;
+	push(@{$e->{kw_notes}}, $title);
+	save_kwick($e, qq([^$title]));
 }
 
 sub tag_note_end {
 	my $e = shift;
-	push(@{$e->{kw_notes}}, load_kwick($e));
+	my $title = pop(@{$e->{kw_notes}});
+	my $s = load_kwick($e);
+	push(@{$e->{kw_notes}}, "[^$title]: $s");
 	'';
 }
 
@@ -878,13 +915,13 @@ sub tag_code_end
 sub tag_blockcode_start
 {
 	shift->{kw_in_html} = 1;
-	qq(<pre class="kw-blockcode">);
+	qq(```);
 }
 
 sub tag_blockcode_end
 {
 	shift->{kw_in_html} = 0;
-	'</pre>';
+	qq(```);
 }
 
 
