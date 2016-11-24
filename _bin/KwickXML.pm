@@ -110,6 +110,7 @@ sub parse_text
 	#$text =~ tr[\x80\x82-\x8C\x8E\x91-\x9C\x9E\x9F][\x{20AC}\x{201A}\x{0192}\x{201E}\x{2026}\x{2020}\x{2021}\x{02C6}\x{2030}\x{0160}\x{2039}\x{0152}\x{017D}\x{2018}\x{2019}\x{201C}\x{201D}\x{2022}\x{2013}\x{2014}\x{02DC}\x{2122}\x{0161}\x{203A}\x{0153}\x{017E}\x{0178}];
 	
 	$text =~ s|<($cdtags)($ap)>(.*?)</\1>|<$1$2><![CDATA[$3]]></$1>|ogs;
+
 	$text =~ s/&/&amp;/gs;
 	
 	my $xml = "<?xml version='1.0' encoding='UTF-8'?><kwickxml>$text</kwickxml>";
@@ -151,16 +152,16 @@ my %tags = (
 	tt => [ '`', '`'],
 	'sub' => [ '<sub>', '</sub>'],
 	sup => [ '<sup>', '</sup>'],
-	small => ['<small>', '</small>'],
-	big => ['<big>', '</big>'],
-	center => ['<div style="text-align: center;">', '</div>'],
+	small => [\&tag_save_kwick, \&tag_small],
+	big => [\&tag_save_kwick, \&tag_big],
+	center => ['', ''],
 	sidebar => [ '<aside>', '</aside>'],
 	p => [ '<p>', '</p>'],
 	br => [ '<br />', ''],
-	table => ['',''],
+	table => [\&tag_save_kwick,\&tag_table],
 	'tr' => [\&tag_save_kwick,\&tag_tr],
 	hr => ['*********', ''],
-	div => [\&tag_div, '</div>'],
+	div => [\&tag_div_start, \&tag_div_end],
 	td => [ '|', ''],
 	th => [ '|**', '**'],
 	email => [ \&tag_email, '</a>'],
@@ -169,6 +170,7 @@ my %tags = (
 	img => [ \&tag_img, ''],
 	figure => [ \&tag_figure, qq(\n</figcaption>\n</figure>)],	
 	refs => 'ul',
+	ref => 'ul',
 	ol => [ \&tag_ol_start, \&tag_ol_end],
 	ul => [ \&tag_ul_start, \&tag_ul_end],	
 	list => 'ul',
@@ -177,7 +179,7 @@ my %tags = (
 	qref => [ \&tag_qref_start, \&tag_qref_end],
 	li => [ \&tag_li_start, \&tag_li_end],
 	note => [\&tag_note_start, \&tag_note_end],
-	toc => [ \&tag_toc, qq() ],
+	toc => [ qq(\n{:toc}\n), qq() ],
 	verse => [ \&tag_verse_start, \&tag_verse_end],
 	h  => [ '# ', ''],
 	h1 => [ '# ', ''],
@@ -302,22 +304,26 @@ my $qremail = qr/([-\w.+]+\@$Regexp::Common::RE{net}{domain}{-nospace})/;
 sub Text
 {
 	my $e = shift;
+
+	s/&amp;/&/gs;
 	
 	# kw_in_html: normal (0), code (1), html (2)
 	if($e->{kw_in_html} == 2) {
-		s/&amp;/&/gs;
+		s|</param>||g;
+		s|</embed>||g;
+		s/\n[ \t]+/\n/g;
 		return $e->{kwick} .= $_;
 	} elsif($e->{kw_in_html} == 1){
-		s/>/&gt;/gs;
-		s/</&lt;/gs;
+		#s/>/&gt;/gs;
+		#s/</&lt;/gs;
 		return $e->{kwick} .= $_;
 	} else {
 		s/>/&gt;/gs;
 		s/</&lt;/gs;
+		s/\n[ \t]+/\n/g;
 	}
 
-	s/\[/\\[/gs;
-	s/\]/\\]/gs;
+	s/([\[\]\*])/\\$1/gs;
 
 	s/``/"/gs;
 	s/''/"/gs;
@@ -370,7 +376,7 @@ sub Text
 		s!\n!  \n!gs;
 	}	
 	
-	s/&(?!#?[xX]?(?:[0-9a-fA-F]+|\w{1,8});)/&amp;/gs;
+	#s/&(?!#?[xX]?(?:[0-9a-fA-F]+|\w{1,8});)/&amp;/gs;
 
 	#s/(\.\s*)\.\s*\.\s*\./$1\x{2026}/gs;
 	#s/\.\s*\.\s*\./\x{2026}/gs;
@@ -446,7 +452,7 @@ sub tag_kwickxml_end
 
 		foreach my $z (1..@notes)
 		{
-			$s .= $notes[$z-1] . "\n\n";
+			$s .= "\n\n" . $notes[$z-1];
 		}
 	}
 	$s;
@@ -544,7 +550,7 @@ sub tag_strong {
 	my $s = load_kwick($e);
 	$s =~ s/^\s+//s;
 	$s =~ s/\s+$//s;
-	qq(**$s**);
+	$s eq '' ? '' : qq(**$s**);
 }
 
 sub tag_em {
@@ -552,7 +558,7 @@ sub tag_em {
 	my $s = load_kwick($e);
 	$s =~ s/^\s+//s;
 	$s =~ s/\s+$//s;
-	qq(_${s}_);
+	$s eq '' ? '' : qq(_${s}_);
 }
 
 sub tag_strike {
@@ -560,7 +566,7 @@ sub tag_strike {
 	my $s = load_kwick($e);
 	$s =~ s/^\s+//s;
 	$s =~ s/\s+$//s;
-	qq(~~$s~~);
+	$s eq '' ? '' : qq(~~$s~~);
 }
 
 sub tag_tr {
@@ -568,6 +574,32 @@ sub tag_tr {
 	my $s = load_kwick($e);
 	$s =~ s/\n//sg;
 	"$s\n";	
+}
+
+sub tag_table {
+	my $e = shift;
+	my $s = load_kwick($e);
+	$s =~ s/\n{2,}/\n/sg;
+	"$s\n";	
+}
+
+# work around incorrect big usage
+sub tag_big {
+	my $e = shift;
+	my $s = load_kwick($e);
+	$s =~ s|^\s*|<big>|s;
+	$s =~ s|\s*$|</big>|s;
+	$s =~ s|\s*\n{2,}|</big>\n\n<big>|g;
+	$s;
+}
+
+sub tag_small {
+	my $e = shift;
+	my $s = load_kwick($e);
+	$s =~ s|^\s*|<small>|s;
+	$s =~ s|\s*$|</small>|s;
+	$s =~ s|\s*\n{2,}|</small>\n\n<small>|g;
+	$s;
 }
 
 sub tag_hr {
@@ -673,15 +705,24 @@ my %talignstyle = (
 	none => undef,
 );
 
-sub tag_div {
+sub tag_div_start {
+	my $e = shift;
 	$_{align} ||= $_{place} || 'none';
 	$_{style} ||= $talignstyle{$_{align}};
-	my $s = '<div markdown="block"';
+	my $s = qq(\n<div markdown="block");
 	$s .= qq( style="$_{style}") if(defined $_{style});
 	$s .= qq( class="$_{class}") if(defined $_{class});
 	$s .= qq( title="$_{title}") if(defined $_{title});
-	$s .= '>';
-	$s;
+	$s .= qq(>\n);
+	save_kwick($e,$s);
+}
+
+sub tag_div_end {
+	my $e = shift;
+	my $s = load_kwick($e);
+	$s =~ s/^\s+//s;
+	$s =~ s/\s+$//s;
+	qq($s\n</div>\n);
 }
 
 my %alignstyle = (
@@ -712,22 +753,8 @@ sub tag_img {
 
 sub tag_figure {
     my $e = shift;
-	qq(<figure>\n).tag_img($e).qq(\n<figcaption markdown="block">);
+	qq(<figure>\n).tag_img($e).qq(\n<figcaption markdown="span">);
 }
-
-sub tag_toc {
-	# my $e = shift;
-	# $e->{kw_do_toc} = 1;
-	# my $kw = Text::KwickXML->instance;		
-	# qq(<div class="kw-toc">).make_h($e, $kw->config('toc')).qq(<ol class="kw-toc-list">);
-	'';
-}
-
-# sub tag_refs {
-# 	my $e = shift;
-# 	my $kw = Text:tag_refs:KwickXML->instance;	
-# 	make_h($e, $kw->config('references')).qq(<ul class="kw-refs">);
-# }
 
 my %listtagmap = (
 	'*' => 'list-style-type: disc;',
@@ -779,14 +806,16 @@ sub tag_ol_start {
 	my $e = shift;
 	push(@{$e->{litype}}, 'ol');
 	${$e->{linest}} += 1;
-	'';
+	save_kwick($e);
 }
 
 sub tag_ol_end {
 	my $e = shift;
 	pop(@{$e->{litype}});
 	${$e->{linest}} -= 1;
-	'';
+	my $s = load_kwick($e);
+	$s =~ s|\n\s*\n|\n|g;
+	$s;
 }
 
 
@@ -794,21 +823,23 @@ sub tag_ul_start {
 	my $e = shift;
 	push(@{$e->{litype}}, 'ul');
 	${$e->{linest}} += 1;
-	'';
+	save_kwick($e);
 }
 
 sub tag_ul_end {
 	my $e = shift;
 	pop(@{$e->{litype}});
 	${$e->{linest}} -= 1;
-	'';
+	my $s = load_kwick($e);
+	$s =~ s|\n\s*\n|\n|g;
+	$s;
 }
 
 
 sub tag_li_start {
 	my $e = shift;
-	my $type = $e->{litype}->[-1];
-	my $s = $type eq 'ul' ? '* ' : '1. ';
+	my $type = $e->{litype}->[-1] || 'ul';
+	my $s = $type eq 'ul' ? "\n* " : "\n1. ";
 	my $href = $_{href} || 0;
 	push_href($e, $href);
 	save_kwick($e,$s);

@@ -34,71 +34,51 @@ where <eqn>N_T</eqn> and <eqn>N_H</eqn> are the number of Tails and Heads.
 
 Let's put this all in a table:
 
-<html>
+<table>
+<tr>
+<td><b>Macrostate</b></td>
+<td><b>Number of Microstates</b></td>
+<td><b>Microstates</b></td>
+<td><b>  Formula  </b></td>
+<td><b>S</b></td>
+</tr>
+<tr>
+<td>4 Heads</td>
+<td>1</td>
+<td>HHHH</td>
+<td>4!/(4!0!)</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3 Heads, 1 Tails</td>
+<td>4</td>
+<td>HTTT,THTT, TTHT,TTTH</td>
+<td>4!/(3!1!)</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2 Heads, 2 Tails</td>
+<td>6</td>
+<td>HHTT,HTHT, HTTH,THTH, TTHH,THHT</td>
+<td>4!/(2!2!)</td>
+<td>2.58</td>
+</tr>
+<tr>
+<td>1 Head, 3 Tails</td>
+<td>4</td>
+<td>THHH,HTHH, HHTH,HHHT</td>
+<td>4!/(3!1!)</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4 Tails</td>
+<td>1</td>
+<td>TTTT</td>
+<td>4!/(4!0!)</td>
+<td>0</td>
+</tr>
+</table>
 
-<TABLE FRAME=BOX CELLSPACING=0 COLS=5 RULES=GROUPS BORDER=1>
-	<COLGROUP><COL WIDTH=124></COLGROUP>
-	<COLGROUP><COL WIDTH=85></COLGROUP>
-	<COLGROUP><COL WIDTH=105></COLGROUP>
-	<COLGROUP><COL WIDTH=95></COLGROUP>
-	<COLGROUP><COL WIDTH=58></COLGROUP>
-	<TBODY>
-		<TR>
-			<TD WIDTH=124 HEIGHT=35 ALIGN=LEFT><B>Macrostate</B></TD>
-			<TD WIDTH=85 ALIGN=LEFT><B>Number of Microstates</B></TD>
-			<TD WIDTH=105 ALIGN=CENTER><B>Microstates</B></TD>
-			<TD WIDTH=95 ALIGN=CENTER><B>  Formula  </B></TD>
-			<TD WIDTH=58 ALIGN=CENTER><B>S</B></TD>
-		</TR>
-	</TBODY>
-	<TBODY>
-		<TR>
-			<TD HEIGHT=18 ALIGN=LEFT VALIGN=MIDDLE>4 Heads</TD>
-			<TD ALIGN=CENTER VALIGN=MIDDLE SDVAL="1" SDNUM="1033;">1</TD>
-			<TD ALIGN=LEFT>HHHH</TD>
-			<TD ALIGN=CENTER>4!/(4!0!)</TD>
-			<TD ALIGN=CENTER SDVAL="0" SDNUM="1033;">0</TD>
-		</TR>
-	</TBODY>
-	<TBODY>
-		<TR>
-			<TD HEIGHT=38 ALIGN=LEFT VALIGN=MIDDLE>3 Heads, 1 Tails</TD>
-			<TD ALIGN=CENTER VALIGN=MIDDLE SDVAL="4" SDNUM="1033;">4</TD>
-			<TD ALIGN=LEFT>HTTT,THTT, TTHT,TTTH</TD>
-			<TD ALIGN=CENTER>4!/(3!1!)</TD>
-			<TD ALIGN=CENTER SDVAL="2" SDNUM="1033;">2</TD>
-		</TR>
-	</TBODY>
-	<TBODY>
-		<TR>
-			<TD HEIGHT=55 ALIGN=LEFT VALIGN=MIDDLE>2 Heads, 2 Tails</TD>
-			<TD ALIGN=CENTER VALIGN=MIDDLE SDVAL="6" SDNUM="1033;">6</TD>
-			<TD ALIGN=LEFT>HHTT,HTHT, HTTH,THTH, TTHH,THHT</TD>
-			<TD ALIGN=CENTER>4!/(2!2!)</TD>
-			<TD ALIGN=CENTER SDVAL="2.58496250072116" SDNUM="1033;">2.58</TD>
-		</TR>
-	</TBODY>
-	<TBODY>
-		<TR>
-			<TD HEIGHT=38 ALIGN=LEFT VALIGN=MIDDLE>1 Head, 3 Tails</TD>
-			<TD ALIGN=CENTER VALIGN=MIDDLE SDVAL="4" SDNUM="1033;">4</TD>
-			<TD ALIGN=LEFT>THHH,HTHH, HHTH,HHHT</TD>
-			<TD ALIGN=CENTER>4!/(3!1!)</TD>
-			<TD ALIGN=CENTER SDVAL="2" SDNUM="1033;">2</TD>
-		</TR>
-	</TBODY>
-	<TBODY>
-		<TR>
-			<TD HEIGHT=18 ALIGN=LEFT VALIGN=MIDDLE>4 Tails</TD>
-			<TD ALIGN=CENTER VALIGN=MIDDLE SDVAL="1" SDNUM="1033;">1</TD>
-			<TD ALIGN=LEFT>TTTT</TD>
-			<TD ALIGN=CENTER>4!/(4!0!)</TD>
-			<TD ALIGN=CENTER SDVAL="0" SDNUM="1033;">0</TD>
-		</TR>
-	</TBODY>
-</TABLE>
-
-</html>
 <quote>Macro states and microstates for throwing a coin 4 times. Adapted from <a href="http://www.uwec.edu/Physics/thomas/Physics332/Physics%20332%20Entropy.ppt">this tutorial. Remember that 0! is by definition 1</a></quote>
 
 So what can we learn from this simple example? First that the number of macrostates are not the same as the number of microstates. In fact the number of microstates can become quite large compared to the number of macrostates. Let's now assume that the throw is still 2 Heads and 2 Tails but in addition we now know that a 'mutation' has fixated one of the Tails to be in the first position.

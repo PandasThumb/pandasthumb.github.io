@@ -21,7 +21,8 @@ August 21st, 2006
 
 <!--more-->
 
-<blockcode>// SteinerGADlg.cpp : implementation file
+<blockcode>
+// SteinerGADlg.cpp : implementation file
 
 #include "stdafx.h"
 #include "SteinerGA.h"

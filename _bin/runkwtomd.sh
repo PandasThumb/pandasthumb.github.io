@@ -1,8 +1,6 @@
 #!/bin/sh
 
-for f in ../_posts/*.kwickxml; do
-	echo $f ...
-	perl kwtomd.pl < $f | kramdown 2>&1 > /dev/null
-done
+# sed '1 { /^---/ { :a N; /\n---/! ba; d} }'
 
-# grep -B 1 "^Warning" report.txt
+parallel -k 'echo {} && (perl kwtomd.pl < {} | sed "1 { /^---/ { :a N; /\n---/! ba; d} }" | kramdown -i GFM --no-hard-wrap) 2>&1 > /dev/null' ::: ../_posts/*.kwickxml |
+	grep -B 1 -v "^../_posts/" | tee report-filtered.txt

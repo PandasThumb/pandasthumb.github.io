@@ -10,7 +10,7 @@ basename: fitness_surface
 ---
 <b>This post is by Joe Felsenstein and Tom English</b>
 
-<p>Back in October, one of us (JF) <a href="http://pandasthumb.org/archives/2014/10/dembskis-argume.html">commented</a>
+Back in October, one of us (JF) <a href="http://pandasthumb.org/archives/2014/10/dembskis-argume.html">commented</a>
 at Panda's Thumb on William Dembski's seminar presentation at the
 University of Chicago, <a href="http://www.youtube.com/watch?v=MN74Vn-R5fg"> Conservation
 of Information in Evolutionary Search</a>. In his <a href="http://www.evolutionnews.org/2014/10/responding_to_m090271.html">reply</a>
@@ -18,8 +18,9 @@ at the Discovery Institute's <em>Evolution News and Views</em> blog,
 Dembski pointed out that he had referred to three of his own papers, and that
 Joe had mentioned only two. He generously characterized Joe's post as
 an "argument by misdirection", the sort of thing magicians
-do when they are deliberately trying to fool you. (Thanks, how kind).</p>
-<p>Dembski is right that Joe did not cite his most recent paper, and
+do when they are deliberately trying to fool you. (Thanks, how kind).
+
+Dembski is right that Joe did not cite his most recent paper, and
 that he should have. The paper, "<a href="http://www.worldscientific.com/doi/pdf/10.1142/9789814508728_0002">A
 General Theory of Information Cost Incurred by Successful Search</a>",
 by Dembski, Winston Ewert, and Robert J. Marks II (henceforth DEM),
@@ -29,52 +30,48 @@ presentation (details
 <a href="http://dieben.blogspot.com/2014/09/conservation-of-information-in_26.html">here</a>).
 One of us (TE) asked Dembski for technical clarification. He
 responded only that he simplified for the talk, and stands by the
-approach of DEM.</p>
+approach of DEM.
 
-<p>Whatever our skills at prestidigitation, we will not try to untangle the
+Whatever our skills at prestidigitation, we will not try to untangle the
 differences between the talk and the DEM paper.
 Rather than guess how Dembski simplified, we will regard the DEM paper as
 his authoritative source. Studying that paper, we found
 that:
-</p>
 
 <ol>
-        <li><p>They address "search" in
+        <li>They address "search" in
         a space of points. To make this less abstract, and to have an example
         for discussing evolution, we assume a space of possible genotypes. For example,
         we may have a stretch of 1000 bases of DNA in a haploid organism, so
         that the points in the space are all 4<sup>1000</sup> possible
-        sequences.</p>
-        </li><li><p>A "search" generates a
+        sequences.</li>
+        <li>A "search" generates a
         sequence of genotypes, and then chooses one of them as the final
         result. The process is random to some degree, so each genotype has a
         probability of being the outcome. DEM ultimately describe the search
-        in terms of its results, as a probability distribution on the space of genotypes.</p>
-        </li><li><p>A set of genotypes is designated
+        in terms of its results, as a probability distribution on the space of genotypes.</li>
+        <li>A set of genotypes is designated
         the "target". A "search" is said to succeed when
         its outcome is in the target. Because the outcome is random, the
-        search has some probability of success.</p>
-
-        </li><li><p>DEM assume that there is a
+        search has some probability of success.</li>
+        <li>DEM assume that there is a
         baseline "search" that does not favor any particular
         "target". For our space of genotypes, the baseline search
         generates all outcomes with equal probability. DEM in fact note
         that on average over all possible searches, the probability of success
-        is the same as if we simply drew randomly (uniformly) from the space
-of genotypes.
-        </p>
-        </li><li><p>They calculate the "active
+        is the same as if we simply drew randomly (uniformly) from the space of genotypes.
+        </li><li>They calculate the "active
         information" of a "search" by taking the ratio of its
         probability of success to that of the baseline search, and then
         taking the logarithm of the ratio. The logarithm is not essential to
-        their argument.</p>
-        </li><li><p>Contrary to what Joe said in his
+        their argument.
+        </li> <li>Contrary to what Joe said in his
         previous post, DEM do not explicitly consider all possible fitness
         surfaces. He was certainly wrong about that. But as we will show,
         the situation is even worse than he thought. There are "searches"
         that go downhill on the fitness surface, ones that go sideways, and ones
-        that pay no attention at all to fitnesses.</p>
-        </li><li><p>If we make a simplified model of a
+        that pay no attention at all to fitnesses.
+        </li> <li>If we make a simplified model of a
         "greedy" uphill-climbing algorithm that looks at
         the neighboring genotypes in the space, and which prefers to move to a
         nearby genotype if that genotype has higher fitness than the current
@@ -83,8 +80,7 @@ of genotypes.
         be in an extremely small fraction of all of DEM's possible searches,
         the small fraction that does a lot better than picking a genotype at
         random.
-        </p>
-        </li><li><p>So just by having genotypes that
+        </li> <li>So just by having genotypes that
         have different fitnesses, evolutionary processes will do considerably
         better than
         random choice, and will be considered by DEM to use substantial
@@ -93,22 +89,19 @@ of genotypes.
         surface. This shows that even a search which is evolution on
 a white-noise fitness surface is very
         special by DEM's standards.
-        </p>
-        </li><li><p>Searches that are like real
+        </li> <li>Searches that are like real
         evolutionary processes do have fitness surfaces. Furthermore, these
         fitness surfaces are smoother than white-noise surfaces "because
         physics". That too increases the probability of success, and by
         a large amount.
-        </p>
-        </li><li><p>Arguing whether a Designer has
+        </li> <li>Arguing whether a Designer has
         acted by setting up the laws of physics themselves is an argument
         one should have with cosmologists, not with biologists. Evolutionary
         biologists are concerned with how an evolving system will behave in
         our present universe, with the laws of physics that we have now.
         These predispose to fitness surfaces substantially smoother than
         white-noise surfaces.
-        </p>
-        </li><li><p>Although moving uphill on a fitness surface is helpful to the
+        </li> <li>Although moving uphill on a fitness surface is helpful to the
         organism, evolution is not actually a search for a particular small
         set of target genotypes; it is not only successful when it finds the
         absolutely most-fit genotypes in the space. We almost certainly do
@@ -117,7 +110,7 @@ a white-noise fitness surface is very
         to survive and flourish, and smart
         enough to be capable of evaluating DEM's arguments, and seeing that
         they do not make a case that evolution is a search actively chosen
-        by a Designer.</p></li>
+        by a Designer.</li>
 </ol>
 
 <p>This is the essence of our argument. It is a lot to consider, so
@@ -125,9 +118,6 @@ let's explain this in more detail below:
 </p>
 
 <i>As usual I will pa-troll the comments, and send off-topic stuff by our usual trolls <b>and replies to their off-topic stuff</b> to the Bathroom Wall</i>
-
-
-
 
 <!--more-->
 

@@ -55,7 +55,7 @@ An additional issue is database size.  Searching 23 proteins instead of one mean
 
 <b>Table:</b> e-values resulting from bl2seq search of <i>E. coli</i> K12 <b><url href="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&val=16129870">FliC</url></b> against 23 other core flagellar proteins, using different search options.  <b>ns =</b> no significant hit according to Figure 3 of Liu and Ochman (2007).  <b>na =</b> no significant alignment returned by bl2seq.
 
-<html><table width="80%" align="center" border=2>
+<table width="80%" align="center" border="2">
 <tr><td><b>Protein</b></td> <td><b>Liu-Ochman hits for <i>E. coli</i> K12 (Figure 3)</b></td> <td><b>default filters off</b></td> <td><b>default filters on</b></td> <td><b>default filters on, database size = 7163</b></td> <td><b>default filters on, database size = 293683</b></td></tr>
 <tr><td><a href="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&val=16129036">FlgB</a></td> <td>ns</td> <td>0.2500</td> <td>0.2500</td> <td>na</td> <td>na</td></tr>
 <tr><td><a href="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&val=16129037">FlgC</a></td> <td>ns</td> <td>0.3200</td> <td>2.1000</td> <td>na</td> <td>na</td></tr>
@@ -80,7 +80,7 @@ An additional issue is database size.  Searching 23 proteins instead of one mean
 <tr><td><a href="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&val=16129897">FliR</a></td> <td>ns</td> <td>na</td> <td>na</td> <td>na</td> <td>na</td></tr>
 <tr><td><a href="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&val=16129842">MotA</a></td> <td>ns</td> <td>na</td> <td>na</td> <td>na</td> <td>na</td></tr>
 <tr><td><a href="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&val=16129841">MotB</a></td> <td>ns</td> <td>0.6100</td> <td>0.6100</td> <td>na</td> <td>na</td></tr>
-</table></html>
+</table>
 
 As you can see, with default filters turned on, 5 significant hits become only 2.  With filters on, plus database sizes larger than a single protein, no hits are significant.
 

@@ -43,17 +43,17 @@ I am again using my Perl script to find sequences of words present in both a ref
 
 <tr>
 <td>2004b</td>
-<td><a href=http://antievolution.org/people/meyer_sc/meyer2004_bio_info/cmp_m2004b_m2004a_10_106.html>45 %</a></td>
-<td><a href=http://antievolution.org/people/meyer_sc/meyer2004_bio_info/cmp_m2004b_mea2003_10_106.html>38 %</a></td>
-<td><a href=http://antievolution.org/people/meyer_sc/meyer2004_bio_info/cmp_m2004b_mea2001_10_106.html>13 %</a></td>
+<td><a href="http://antievolution.org/people/meyer_sc/meyer2004_bio_info/cmp_m2004b_m2004a_10_106.html">45 %</a></td>
+<td><a href="http://antievolution.org/people/meyer_sc/meyer2004_bio_info/cmp_m2004b_mea2003_10_106.html">38 %</a></td>
+<td><a href="http://antievolution.org/people/meyer_sc/meyer2004_bio_info/cmp_m2004b_mea2001_10_106.html">13 %</a></td>
 <td>0 %</td>
 </tr>
 
 <tr>
 <td>2004a</td>
 <td></td>
-<td><a href=http://antievolution.org/people/meyer_sc/meyer2004_bio_info/cmp_m2004a_mea2003_10_106.html>72 %</a></td>
-<td><a href=http://antievolution.org/people/meyer_sc/meyer2004_bio_info/cmp_m2004a_mea2001_10_106.html>24 %</a></td>
+<td><a href="http://antievolution.org/people/meyer_sc/meyer2004_bio_info/cmp_m2004a_mea2003_10_106.html">72 %</a></td>
+<td><a href="http://antievolution.org/people/meyer_sc/meyer2004_bio_info/cmp_m2004a_mea2001_10_106.html">24 %</a></td>
 <td>0 %</td>
 </tr>
 
@@ -61,7 +61,7 @@ I am again using my Perl script to find sequences of words present in both a ref
 <td>2003</td>
 <td></td>
 <td></td>
-<td><a href=http://antievolution.org/people/meyer_sc/meyer2004_bio_info/cmp_mea2003_mea2001_10_106.html>48 %</a></td>
+<td><a href="http://antievolution.org/people/meyer_sc/meyer2004_bio_info/cmp_mea2003_mea2001_10_106.html">48 %</a></td>
 <td>0 %</td>
 </tr>
 

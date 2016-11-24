@@ -22,7 +22,7 @@ From Milan Klima, <b>Development of the Cetacean Nasal Skull</b> 1999 Springer
 <!--more-->
 
 From <a href="http://www.neoucom.edu/DLDD/interst/develop/blowhole/index.html">Digital Library of Dolphin Development </a> coordinated and spearheaded by the Northeastern Ohio Universities College of Medicine we find the following images:
-<html>
+
 <table>
 <tr>
 <td>
@@ -34,6 +34,7 @@ From <a href="http://www.neoucom.edu/DLDD/interst/develop/blowhole/index.html">D
 <td>
 <form mt:asset-id="158" class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="http://pandasthumb.org/archives/94607llt.html" onclick="window.open('http://pandasthumb.org/archives/94607llt.html','popup','width=412,height=465,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://pandasthumb.org/assets_c/2008/03/94607llt-thumb-143x161.jpg" width="143" height="161" alt="94607llt.jpg" class="mt-image-none" style="" /></a></form>
 </td>
+</tr>
 <tr>
 <td>
 Embryo LACM 94594 
@@ -46,7 +47,6 @@ Fetus LACM 94607
 </td>
 </tr>
 </table>
-</html>
 
 <quote>In most mammals, the nose opening is located near the tip of the snout. In modern dolphins, on the other hand, it is located on the top of the head, above the eyes. It is called the blowhole.
 
