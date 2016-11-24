@@ -15,6 +15,9 @@ header_title: ''
           <time pubdate="pubdate" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%B %-d, %Y %R %Z' }}</time></p>
         </header>
         {{ post.excerpt }}
+        {% if post.content contains site.excerpt_separator %}
+        <p><a href="{{ site.baseurl }}{{ post.url }}#more">Continue Reading</a> <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></p>
+        {% endif %}
       </article>
     </div>
   </div>
