@@ -10,6 +10,16 @@ excerpt_separator: "<!--more-->"
 markdown: kramdown
 highlighter: rouge
 
+gems:
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - year
+  layout: archive
+  permalinks:
+    year: /archives/:year/
+
 kramdown:
   header_offset: 1
   syntax_highlighter_opts:

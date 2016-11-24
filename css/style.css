@@ -84,20 +84,6 @@ header h1 {
   margin: 0px;
 }
 
-nav.main-nav li {
-  padding: 0px 0px;
-  margin: 0px;
-  font-size: 14px;
-  font-weight: 300;
-  text-transform: uppercase;
-}
-
-header nav.main-nav li {
-	display: inline-block;
-	vertical-align: middle;
-	line-height: 100%;
-}
-
 .topbar a {
 	text-decoration: none;
 	color: #fff;
@@ -107,6 +93,11 @@ header nav.main-nav li {
   text-decoration: none;
   color: #fff;
 }
+
+.topbar > div.grid {
+  position: relative;
+}
+
 
 .banner {
   line-height: 0px;
@@ -121,7 +112,8 @@ header nav.main-nav li {
 .banner a img {
   padding: 0px;
   display: block-inline;
-  max-width: 800px;
+  max-width: 100%;
+  height: auto;
 }
 
 .banner a:hover img {
@@ -129,22 +121,30 @@ header nav.main-nav li {
   border: 0px;
 }
 
-header nav.main-nav a {
-	padding: 0.5em 0.6em;
-	border-radius: 7px;
+nav.main-nav {
+  position: absolute;
+  top: 0;
+  right: 10px;
 }
 
-nav ul {
-  padding: 0;
-  margin: 0;
-  font-size: 0;
+nav.main-nav li {
+  display: block;
 }
 
-nav.main-nav ul:not(:hover) li.current a,
-nav.main-nav li:hover a {
-  color: #fff;
-  background: #6495ed;
-  text-shadow: 1px 1px 0px #000;
+nav.main-nav a {
+  display: block;
+  font-size: 45px;
+  line-height: 55px;
+  color: #7C76A3;
+}
+
+nav.main-nav a:hover {
+  color: #FFF;
+}
+
+nav.main-nav ul {
+  padding: 0px;
+  margin-top: 45px;
 }
 
 p {
@@ -397,13 +397,36 @@ figure img {
 figcaption {
 }
 
+.archivelist li {
+  display: block;
+  width: 200px;
+  height: 200px;
+  line-height: 200px;
+  float: left;
+  margin: 6px;
+  background: #f7f7f7;
+  text-align: center;
+  font-size: 75px;
+  font-weight: bold;
+}
+
+.archivelist li:hover {
+  background: #7C76A3;
+  color: white;
+}
+
+.archivelist li > a {
+  background: transparent;
+  color: inherit !important;
+  display: block;
+  width: 100%;
+  height: 100%;
+  text-decoration: none !important;
+}
 
 @media screen and (max-width: 568px) {
- .title h1 {
-   font-size: 50px;
-   line-height: 1em;
-   padding-top: 15px;
-   padding-bottom: 15px;
-   text-align: center;
- }
 }
+
+/*
+purpleish color: #7C76A3;
+*/
