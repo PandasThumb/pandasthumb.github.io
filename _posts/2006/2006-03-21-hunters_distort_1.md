@@ -1,0 +1,78 @@
+---
+layout: article
+title: Hunter's Distortions
+date: '2006-03-21 14:18:23 -0700'
+author: Jason Rosenhouse
+mt_id: 2044
+blog_id: 2
+post_id: 2044
+basename: hunters_distort_1
+---
+One device used by ID advocates to create the illusion of seriousness is the misrepresentation of scientific research.  References to actual papers, coupled with the occasional bit of jargon, allow them to appear authoritative to lay people.  But since there is nothing in the literature to aid their arguments, this appearance of authority can be obtained only by presenting a grotesque caricature of what scientists actually do.  
+
+For example, consider [this blog entry](http://www.idthefuture.com/2006/03/electric_fish_and_molecular_ma.html#more) from Cornelius Hunter, posted at the blog IDtheFuture.
+
+The subject is [this paper](http://www.pnas.org/cgi/content/full/103/10/3675), from The Proceedings of the National Academy of Sciences, entitled &ldquo;Sodium channel genes and the evolution of diversity in communication signals of electric fishes: Convergent molecular evolution.&rdquo;  In it, the authors (Harold Zakon, Ying Lu, Derrick Zwickl and David Hillis) report some recent findings on the evolution of &ldquo;electric organs&rdquo; in certain species of fish.
+
+Hunter believes he has caught the authors playing fast and loose with the evidence.  He writes:
+
+> Evolution is a curious theory. It suffers from significant evidential problems, yet there are stacks and stacks of supportive research papers. This provides evolutionists with a handy problem deflector. Sure there are problems with evolution but don't the piles and piles of research papers assure us it must be true? One such paper that was recently published deals with sodium channels in electric fish \[H. H. Zakon, Y. Lu, D. J. Zwickl and D. M. Hillis, "Sodium channel genes and the evolution of diversity in communication signals of electric fishes: Convergent molecular evolution," PNAS, 103:3675-80, 2006\].
+
+Of course, the significant evidential problems Hunter refers to exist entirely in his imagination.  But of greater import to the present essay is his description of how scientists behave when defending evolution.  Apparently evolutionists rely on the sheer quantity of published papers, as opposed to their content, in making their case.  This allows them to deflect attention from the sorry state of their theory, you see.
+
+All pleas for respect from the ID side will fall on deaf ears so long as charges like this are part of their repertoire.  Scientists defend common descent on the basis of the accumulated evidence from paleontology, anatomy, embryology, biochemistry, genetics and all the rest.  They defend the efficacy of natural selection both on theoretical grounds drawn from population genetics and computer simulations, and on practical grounds drawn from countless field studies and analyses of various complex systems.  The volume, by itself, of evolution related papers published every year is significant simply because it shows that professional scientists find evolution to be very useful in their professional work.  All of these papers contrast very nicely with the nothing at all produced by ID folks.
+
+Hunter disputes that last part.  He would have us believe that scientists talk about evolution so often not because they find it a useful concept, but rather because they are in the grip of a stifling orthodoxy.  Hunter writes:
+
+> Electric fish and sodium channels are not exactly the kind of products one thinks of as resulting from random mutations. Nonetheless, the Zakon paper authoritatively states that &ldquo;Two groups of teleosts, the mormyriforms of Africa and the gymnotiforms of South America, have convergently evolved electric organs.&rdquo; And the paper concludes that certain evolutionary convergences occurred in the sodium channel genes. So there you have it---yet another objective journal paper dryly reporting yet another demonstration of evolution. Amazing, those electric organs really did, somehow, just evolve. In fact, this is all so run-of-the-mill that they evolved twice. If they can evolve once, then why not twice? Nature works in mysterious ways.
+
+That first line, in which Hunter manages to combine the argument from personal incredulity with an oversimplified view of evolution, is a marvel of inanity.  Why, exactly, do we not expect evolution by natural selection to produce fish with electric signaling organs?  Given the obvious selective advantage accruing to fish who possess these structures, and considering that the paper under discussion here is about to show that a crucial gene in the formation of these structures was coopted from a gene expressed in muscle in nonelectric fishes, it looks to me like the evolution of these structures is pretty likely.
+
+Later he presents the following quote from the PNAS paper:
+
+> We investigated whether the evolution of electric organs and electric signal diversity in two independently evolved lineages of electric fishes was accompanied by convergent changes on the molecular level.
+
+and writes
+
+> The question was not if evolution occurred, but how it occurred. The bulk of the paper reports empirical findings that do not hinge on, nor support, evolution. The force-fitting of the results into the evolution paradigm is gratuitous. Of course this assumption of evolution is no surprise. But this means that such papers do not help evolution as is claimed. Piles and piles of papers that presuppose evolution and force-fit results do little to rescue evolution from its many evidential problems.
+
+Of course, empirical findings by themselves never hinge on particular theories.  But more to the point is that Hunter's distinction between establishing that evolution occurred vs. determining its precise trajectory is too facile.  What actually happened here  is that the authors gathered a lot of data about the genetic basis for the electric organs in certain fish.  Contrary to Hunter's assertions, they found that their data suggested a clear evolutionary scenario.
+
+Furthermore, it is just silly to argue that since the authors take evolution for granted in developing their research program their work consequently loses all value for defending evolution.  Their presumption of the validity of evolutionary theory suggested an interesting line of research to pursue, and that is all.  Whether the data confirm or deny that presumption is simply a separate question.
+
+After all, it's not as if Hunter was browsing through the scientific literature, you know, just trying to keep up with the latest developments, stumbled on to this paper, and used his keen intellect to pierce through a veil of confusion produced by other, lesser scientists.  Hunter could have chosen any paper at random that mentions evolution and made the same bad arguments.  
+
+On the other hand, it would be significant indeed if the authors were force-fitting their data to match their hypotheses.  But as we shall see, Hunter is wrong on this point.
+
+Hunter also writes:
+
+> But wait. What exactly is the evidence for this? Just how did the authors arrive at this remarkable conclusion? It turns out that there really isn't any evidence, in particular, for the evolution of these electric organs or their sodium channels. The authors are working within a paradigm where evolution is taken for granted. When the authors conclude that the sodium channel genes in the two different lineages convergently evolved, they do not mean they have found evidence for evolution; rather, they mean that given the assumption that evolution is true, then certain convergences must have occurred in the sodium channel genes.
+
+In ID fantasy-land the mere fact of convergence in evolutionarily separate lineages is presented as a problem for evolution.  But it is never explained exactly just what the problem is.  In the present case Hunter writes as if the assertion of convergent evolution in the sodium channel genes was something so audacious that extraordinary evidence must be produced to make it plausible.  No doubt if you noted that the road was wet and asserted that it rained recently, Hunter would likewise demand to see your evidence.
+
+But is he right that the authors present no evidence to support their evolutionary conclusions?  Of course not.  Hunter is presenting a distorted version of what the authors actually said in their paper.
+
+Let's consider the paper's first two paragraphs:
+
+> Divergence of animal communication signals accompanies reproductive isolation and speciation (1--3). Because most communication signals are under polygenic control (4), it is difficult to identify the contributions of particular genes to signal evolution. We studied the relationship of gene expression and sequence evolution to signal divergence in weakly electric fish because of the simplicity and species diversity of their electric communication signals and the dependence of those signals on ion currents. Ion currents are generated by ion channels, the genes for which are easily identified. 
+> 
+> **Two groups of teleosts, the mormyriforms of Africa and the gymnotiforms of South America, have convergently evolved electric organs (EOs)**  whose weak electrical emissions function as communication signals and for electrolocation. There is a 100-fold difference in electric organ discharge (EOD) duration across species (200 Âµsec to 20 msec) (ref. 5; Fig. 1), with both lineages showing great diversity in signal waveform. Sexual and natural selection have likely played roles in the evolution of this diversity (6--8). Variation in EOD characteristics, especially pulse duration, forms the basis for detection of species-specific signals (9). This richness in the EOD waveform is based in part on the properties of the ion channels of the cells of the EO, the electrocytes (10). The diversity in membrane excitability of electrocytes contrasts with the simple excitability of vertebrate skeletal muscle from which electrocytes evolved, highlighting ion channel genes as potential candidates for strong evolutionary change in these fishes.
+
+The bold-face half-sentence above was the one quoted by Hunter as an authoritative declaration on the part of the authors regarding the convergent evolution of the electric organs in these fish.  Placing the quote in context makes it clear that this is not just their own bald assertion, but is actually the logical conclusion of much previous work in this field (references 6-8, in particular).  Indeed, the present paper builds on massive prior work that shows, via both anatomical and developmental evidence, that electric organs in fish evolved as a variation on muscle.  The decision to investigate sodium channel genes was strongly suggested by this prior work.
+
+For still more on the background of this work, see [this excellent essay](http://scienceblogs.com/afarensis/2006/03/12/evolution_of_voltage_gated_sod/#more) from blogger Afarensis.
+
+One of the chief findings of the paper was that in nearly all of the convergent lineages, a gene expressed in muscle in nonelectric fishes was coopted for use in the electric organs of the fish being investigated.  The patterns of expression and the sequences of these genes made it possible to construct a phylogenetic tree showing the evolutionary relationships between the various fish.  Here is how the authors summarize their conclusions:
+
+> To investigate changes in the selective regime acting on the Nav1.4a gene, we used the maximum-likelihood codon models implemented in the CODEML program from the PAML package (26). Phylogenetic analyses using a number of methods all resulted in the same tree topology (Fig. 3), which resembles the recognized phylogenetic relationships of these species based on other criteria. This topology was fixed for all codeml selection analyses. We applied site models (27) to estimate variation in the pattern of substitution across sites of all 11 taxa and branch-site models (26, 28) to estimate variation in the pattern of substitution across sites on specific lineages identified a priori.
+
+They were also able to study the phenotypic effects of specific amino acid changes in the genes being studied.  This permitted some clear conclusions to be drawn about the selective advantages or disadvantages of mutations in the relevant genes.  Also of relevance is this statement, from the paper's discussion section:
+
+> The main finding of this study is that the evolution of signal diversity in two independently derived lineages of electric fish is accompanied by convergent alteration of expression and changes in sequence within the same or complementary functional domains of the same Na+ channel gene, Nav1.4a. Site-directed mutagenesis allows us to determine how specific amino acid replacements in this gene lead to variations in species-specific communication signals. Because a number of these replacements occur at sites that are otherwise highly conserved (i.e., Q to P or L in the inactivation loop) but previously not singled out for study, our results have also pinpointed a number of amino acid sites of potential functional importance for all Na+ channels. 
+> A genome duplication at the origin of teleosts has been suggested as a substrate for the morphological diversity and extensive speciation characteristic of teleosts (22, 23). Nevertheless, there are few concrete examples of genes whose duplication are directly related to species diversity or the emergence of novel structures in fish. Although the duplication of Nav1.4 in fish is not responsible for the genesis of the EO, it allowed for the compartmentalization of one gene duplicate in the EO, providing a substrate for the evolution and divergence of species-specific signals in two lineages of fishes.
+
+So the situation is this: The authors of the paper set out to better understand the genetic basis for certain electric signaling organs in fish.  The evolution of these organs had already received considerable attention in previous research.  For practical reasons, the authors chose to focus on certain sodium channel genes, which are essential to the proper function of the organs being studied.  They discovered a particular gene that is expressed in muscle in nonelectric fish that has been coopted for other purposes by the electric fish.  By examining the patterns of expression and the amino acid sequences of these genes, they were able to construct phylogenetic trees via several different methods.  In each case they got the same tree, and this tree closely resembled the trees crafted by other means.  On top of this, they found clear evidence for the role of natural selection on the structure of these genes.  Along the way they also described several open questions for further study.
+
+More than that, we find in this paper an excellent example of different biological disciplines coming together to produce some useful results.  The research group headed by Dr. Zakon is made up of neurophysiologists.  Dr. Hillis, by contrast is a well-respected systematist and evolutionary biologist.  Scientists look at this sort of consilience between quite distinctive disciplines as a good thing.
+
+To Hunter this careful and meticulous work is all a big embarrassment for evolutionists.  In his world the modest conclusions of the paper reflect only the prior biases of the people doing the work.  Never mind that the findings reported in the paper dovetail nicely with prior work in the field and point clearly to a particular evolutionary scenario for the development of these organs.  After all, honestly describing that simple fact might force him to reassess his own, poorly-reasoned, biases on this subject.

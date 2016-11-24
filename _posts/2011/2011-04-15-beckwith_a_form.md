@@ -1,0 +1,50 @@
+---
+layout: article
+title: Beckwith a former ID advocate or never an ID advocate?  Please pick one.
+date: '2011-04-15 18:43:36 -0700'
+author: Nick Matzke
+mt_id: 4938
+blog_id: 2
+post_id: 4938
+basename: beckwith_a_form
+---
+Francis Beckwith and his defender Denyse O'Leary seem to not be able to agree on what is wrong with [Forrest's critique](http://dx.doi.org/10.1007/s11229-009-9539-3) of Beckwith in _Synthese_.  [Beckwith (2011)](http://dx.doi.org/10.1007/s11229-011-9891-y) in _Synthese_:
+
+> This is why it strikes me as odd that Forrest claims that I am an ID advocate because I present "ID exactly as ID leaders do--their arguments are his arguments, restated without hedge or criticism" (Forrest 2011, p. 346). Not only does such a statement
+> ignore my recent writings, explicitly critical of ID, that were available to Forrest many months before her article was to appear in print (Beckwith 2009c, 2009-2010, Beckwith 2010c), but it also ignores the academic responsibility I had in writing a graduate thesis in law on a matter of fundamental freedoms. In such writing, one is obligated to present the view under analysis with fairness and charity, especially when the nature, and not the veracity, of that view is the only thing relevant to the question one is trying to answer.
+
+So, Beckwith ain't no ID advocate and never was, I guess.  But wait, what does [O'Leary say over on UD](http://www.uncommondescent.com/philosophy/darwin-lobby-is-upset-that-journal-synthese-disowned-see-no-homework-article-by-darwin-prof/) today?
+
+> Frank Beckwith contacted me January 31, and we later spoke by phone. His problem was this: Barbara Forrest, a philosophy prof at Southeastern Louisiana University (and author of anti-ID screed The Trojan Horse) , had published a hostile account of his life and work in Synthese which implied that he was an ID advocate.
+> 
+> That was astonishing because we are led to expect that profs do their homework. Thus, Forrest should have known what everyone else does, that Beckwith is no such thing. I wrote about Beckwith's rift with the ID theorists years ago [here](http://post-darwinist.blogspot.com/2008/11/intelligent-design-and-high-culture_14.html). I took the view that he had made his point far more loudly than was necessary, under the circumstances.
+
+Wait, O'Leary is saying that Beckwith once _was_ an ID advocate, and later had a break with the movement!  That's rather different than never having been an ID advocate.  Why can't Beckwith just say that he was snookered in the early 2000s by the sweet talk and alleged non-creationism-ness of the ID movement, he thought before 2005 that it had intellectual and scientific credibility and a serious legal chance, he painted an entirely rosy legal and intellectual picture of ID in his publications on the issue, and that he later realized he was horribly wrong about all this, and realized it rather later than most people?  I hate to tell someone We Told You So...but, Mr. Beckwith, we did.
+
+(As an aside, it's clear that it's not only O'Leary that thought Beckwith was on the ID side, and surprised when the turnabout came.  Dembski posted wounded remarks himself at various points.  I suspect that Beckwith's position switches on the ID issue are part of larger trends in his life, i.e. (a) entering the academic mainstream with a faculty position at Baylor, and (b) converting from evangelicalism to Catholism (at the time, while head of the Evangelical Theological Society -- you've got to give the man credit, when he changes positions, he does it in an big way!).)
+
+A few minor points:
+
+First, Beckwith's statement about his legal writings on ID that "In such writing, one is obligated to present the view under analysis with fairness and charity, especially when the nature, and not the veracity, of that view is the only thing relevant to the question one is trying to answer" is just silly six ways at once.  First, when writing in law review journals and the like, you are not a paid and contracted advocate for some legal party, you are, at least allegedly, supposed to be doing scholarship.  This imposes certain obligations, such as exercising critical thinking and conducting a fair review of the evidence.  After all, readers are likely to read your law review articles when they are thinking about what governmental actions are constitutional, whether or not some policy they are thinking about is Constitutional, and whether or not they are likely to win a lawsuit over the policy if such occurs.  Beckwith's work pre-2005 was a part -- a large part -- of the ID movement's campaign to convince people that ID was not creationism and was good science, and therefore was totally fine in the public schools, and that Constitutional problems wouldn't arise.  We saw how that turned out.  Beckwith's work has only the tiniest whisper of mildly critical remarks about ID -- the overwhelming, dominant message that any reader would have gotten from reading his work was that it was a revolutionary scientific movement with no tendency towards crankishness, pseudoscience, or creationism -- even though, and this is the most incredible part of his writing -- this was the mainstream and widespread scientific and academic view of ID even back then.  Beckwith should have warned his readers that "most scholars think ID is worthless crap, a disguise for creationism, and ID advocates will have to overcome the obstacles this presents in political contexts and in the legal arena of expert witnesses, if they want to have any hope of getting into the science classroom and surviving the inevitable legal challenge."
+
+Heck, he should say that _now_, instead of endless rambling about Catholic philosophy and the like.  Catholic philosophy might indeed cause problems for ID, but those aren't the main problems.  The main problems are that it is scientifically worthless, even though its allegedly scientific nature is _the key selling point to the public and the schools_ -- and that politically and historically it is just a dishonest, disguised version of creationism, literally and obviously devised to get around previous court decisions against creation science.  Until Beckwith deals with these issues in detail, especially the [cdesign proponentsists](http://pandasthumb.org/archives/2005/11/missing-link-cd.html) and connected evidence, he isn't a serious commentator on ID, and is just throwing up a smokescreen around the key problems with the movement.
+
+Second, Beckwith writes,
+
+> "Not only does such a statement ignore my recent writings, explicitly critical of ID, that were available to Forrest many months before her article was to appear in print (Beckwith 2009c, 2009-2010, Beckwith 2010c)."
+
+Well, this ignores the completely obvious point that Forrest's article, similar to most/all of the articles in this special issue, was "Received: 23 March 2009 / Accepted: 25 March 2009 / Published online: 15 April 2009".  So the 2010 references are irrelevant.  It appears that Beckwith's 2009c article was noted in [February 2009](http://religionclause.blogspot.com/2009/02/recent-articles-of-interest.html), so was available (added in edit: Beckwith cited his critical remarks about ID, marginal as they are, [online](http://www.whatswrongwiththeworld.net/2008/11/the_truth_about_me_and_intelli_1.html) in November 2008 -- judge for yourselves).  However, the article is full of dismissive remarks about and critiques of the _Kitzmiller_ decision, and Beckwith's primary point is to argue for theology as a legally relevant form of knowledge!  There is a lot more ID-defending than ID-criticism (if there is any at all, I'm not re-reading it at the moment, but a skim shows none -- update: see the cited tidbit, linked above) in that article.
+
+A less obvious point -- I don't blame Beckwith et al. for not knowing this, but it has led widespread misconceptions amongst ID advocates -- is that the _Synthese_ special issue was in the works long before 2009.  I read at least one draft (Pennock's article) in 2007 for sure, and perhaps others.  Forrest's article mostly reviews work up to 2006 and 2007, with a few later references that might have been late revisions during the final submission/review stage in 2009.  Other articles in the issue are similar.  It's too bad that the publication process was slow, but as anyone in academia knows, this sort of delay is common.  In my opinion, the _Synthese_ articles should be read as if they are mostly products of work in 2007, unless there is substantial evidence to the contrary. 
+
+Finally, returning to this:
+
+> In such writing, one is obligated to present the view under analysis with fairness and charity, especially when the nature, and not the veracity, of that view is the only thing relevant to the question one is trying to answer.
+
+Even if one were supposed to be an advocate rather than a scholar in the law review context, it _still_ isn't true that "the nature, and not the veracity, of that view is the only thing relevant" to the question of the Constitutionality of ID.  The legal argument about ID  went like this:
+
+1. Plaintiffs sue, alleging ID is creationism and therefore unconstitutional.
+
+2. ID defenders reply and say, no, ID isn't creationism, it's science, and teaching science in science class is constitutional.
+
+It is _this_ argument, _from the ID side_, that makes the science questions politically and legally relevant, and crucial to the debate.  This is precisely why ID advocates spend so much time and effort trying to argue, unconvincing as it is, that they are for real scientists, that they do research for reals, that they are supported by growing numbers of scientists, etc.  I'll agree that it's not the primary issue -- the primary issue is #1, and actually Beckwith has never seriously dealt with the immense historical evidence on this question -- but ID advocates raise #2 as a rebuttal to #1, and thus anyone involving themselves in a legal or political (or intellectual) dispute about ID has to address it.

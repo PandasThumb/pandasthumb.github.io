@@ -1,0 +1,27 @@
+---
+layout: article
+title: Who controls America's schools? Who should?
+date: '2011-01-28 21:49:43 -0700'
+author: Matt Young
+mt_id: 4862
+blog_id: 2
+post_id: 4862
+basename: who_controls_am
+---
+Those are two of the questions that Michael Berkman and Eric Plutzer ask in their new book [Evolution, Creationism, and the Battle to Control America's Classrooms](http://www.cambridge.org/gb/knowledge/isbn/item5010363). Their answers are not entirely comforting.
+
+The authors, who [ discussed some of their findings](http://www.sciencemag.org/content/331/6016/404.full) in _Science_ the other day, analyze a number of well-known polls and also their own poll of biology teachers, which they conducted in 2007. They conclude that a substantial majority of Americans want creationism taught in public schools -- not necessarily creationism alone, but creationism nonetheless. They also note that the number of citizens who support evolution alone is increasing at the expense of those who want both taught but not, presumably, those who want creationism alone taught. A myriad of court decisions, however, has ruled out teaching of creationism in any form. The nation is divided, as they put it, by religion, education, and place. 
+
+The authors go on to examine standards in different states. They show that the quality of the standards is lower and the standards are often cursory in states where a majority is not favorable to teaching evolution. In contrast, the standards are most rigorous in states where the majority is favorable to evolution. Nothing especially surprising, but it is probably worthwhile to have such information documented rigorously.
+
+What do teachers actually teach? The authors estimate that 14-21 % of teachers unconstitutionally endorse creationism in the classroom, while others find ways to undermine the theory of evolution or avoid teaching it entirely. Their _Science_ article estimates that 28 % teach evolution according to recognized standards, whereas the remaining ~60 % are cautious for various reasons, not least their own failure to understand evolution themselves.
+
+The authors portray teachers as _street-level bureaucrats_, that is, people who interact with the public and actually implement policy, like police or social workers. Teachers thus may be more responsive to local "standards" than to state or national standards (yeah, those are scare quotes). Indeed, the authors show that teachers in more-liberal areas are more apt to teach evolution than those in conservative areas, more or less irrespective of the state standards. They attribute this result, at least in part, to selection of communities or school districts by teachers, and also selection of teachers by school administrations.
+
+Berkman and Plutzer note that the evolution-creation war (their term) has been with us since the 1920's, and they think it will be with us for a long time. It is the result of religious conservatism, the growth and perhaps the success of science, and the achievement of universal public education. It has been propagated, in part, because the debate has been politicized and divides more or less along political-party lines. Worse, the "system" of public education in the United States is highly decentralized, so local communities and local school boards often have more influence over what is taught than state or federal standards, or experts. If science is not taken as seriously as reading and mathematics, then state-wide science standards will not be enforced. Federal court decisions have perhaps prevented some of the worst abuses, but evolution deniers have always found ways to get around or ignore those decisions. Finally, it appears that general scientific knowledge (or lack thereof) does not correlate particularly strongly with creationism, and public opinion has been remarkably stable since polls first investigated it.
+
+Who then decides? The authors equivocate a little bit on the question of who should decide, but state clearly who in fact decides: teachers. Their solution to the problem, which is spelled out in somewhat more detail in the _Science_ article, is to go after the teachers: Require what they call _preservice teachers_ (people training to be teachers) to study at least one semester of evolutionary biology in college. They recognize how hard it will be to enforce such a policy and also how long it will take to have any practical effect in the classrooms. But they present evidence that state standards have greater influence on younger teachers than older, Possibly bacause the younger teachers were trained after the widespread adoption of standards, so getting at the problem through the teachers may be a viable solution, but I fear it is not fast enough.
+
+Finally, a bit of anticlimactic boilerplate: I thought the book was well prepared and clearly written, but I did not especially like the gray background on all the tables, and I thought it would be good if the copyeditor learned the difference between principle and principal. Additionally, I looked up one or two items in the index and did not find them discussed by name on those pages.
+
+See also what I can only call a [review by the authors of their own book](http://www.cambridgeblog.org/2010/10/evolution-ive-heard-this-song-before/) on the Cambridge University Press website and an interesting [interview with Plutzer](http://arstechnica.com/science/news/2011/01/taking-the-creationismevolution-battle-to-training-teachers.ars).

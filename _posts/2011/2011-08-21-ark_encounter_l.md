@@ -1,0 +1,168 @@
+---
+layout: article
+title: Ark Encounter "Listening Session" - Will Grant County Be Taken for a Ride?
+date: '2011-08-21 16:44:45 -0700'
+author: Matt Young
+mt_id: 6327
+blog_id: 2
+post_id: 6327
+basename: ark_encounter_l
+---
+Guest commentary by Dan Phelps, edrioasteroid@msn.com.
+
+<p>On the evening of August 9, 2011, the City of Williamstown, Grant County, Kentucky, and Ark Encounter (AE)/Answers in Genesis (AIG) held a "Listening Session" at Williamstown High School to discuss local concerns about the [Ark Park](http://www.pandasthumb.org/archives/2011/08/noahs-ark-park.html).  Government officials present included Williamstown Mayor Rick Skinner, the entire Williamstown City Council, members of the Dry Ridge City Council, Wade Gutman of the Grant County Industrial Board, Sally Skinner of the Williamstown Independent School Board, members of the Grant County School Board, the Grant County Planning Board, the Grant County Tourism Board, the Rural Development Board, Royce Adams of the Kentucky House of Representatives, a representative of the Veteran's Cemetery, and Judge Executive Darrell Link of the Grant County Fiscal Court. Representing Ark Encounter/AIG were Mike Zovath and attorney Jim Parsons. Tad Long of the Kentucky League of Cities served as a facilitator. The local cable access channel videotaped the meeting. I made an audio recording.</p>
+
+<p>Approximately 450 to 500 citizens attended the meeting; all seats were taken and a number of people had to stand along the walls.  Interestingly, the majority of attendees appeared to be forty or older.  The event was well organized and friendly throughout.
+Mayor Skinner briefly introduced the various people giving presentations and those available to answer questions.</p>
+
+ 
+
+<p>**Mike Zovath - Ark Encounter**</p>
+
+<p>First to present was Mike Zovath for Ark Encounters. Zovath, a graduate of Bob Jones University, is a retired Lieutenant Colonel in the US Army Infantry. He works for Answers in Genesis as a Senior Vice President and is one of the three founders of AIG. He was responsible for overseeing the construction and daily operations of the Creation Museum for the first 18 months after it opened.  Mr. Zovath is now heading up the Ark Encounter project.</p>
+
+<p>The first thing he discussed was the constitutionality issue with the park receiving tax incentives from the Commonwealth of Kentucky. Apparently, according to Zovath, they went over this issue for a year with the state of Kentucky and received legal opinions from AIG's law firm in Cincinnati.   Zovath said, "The tax incentive the state is offering, the Tourism Commission, is not a constitutional issue. There just seems to be people out there who want to discriminate against a for-profit tourist attraction and deny them the same things they offer other tourist attractions just because this attraction happens to be putting out a particular message. In our case a Christian message. In reality, it's discrimination against us if you don't offer the Ark Encounter the same incentives you offer any other attraction."</p>
+
+<p>Next, Zovath criticized the Lexington Herald-Leader [article](http://www.kentucky.com/2011/08/08/1839007/noahs-ark-theme-park-to-get-75.html) from August 8 concerning Ark Encounter receiving a 75% property tax reduction by the City of Williamstown for the next 30 years. Zovath said the Lexington paper failed to report that "this is probably a lower percentage than some of the projects in Lexington, some of the projects in Louisville, some of the projects in northern Kentucky, Bowling Green, received. It is just standard operating procedure for local governments doing businesses incentives to develop in their communities." He went on to say that the Ark Encounter is a for-profit publicly funded tourism attraction themed around Noah's Ark, the account in the Bible being one of the more popular themes "all across the planet."</p>
+
+<p>Then Zovath glowingly described the features of the Ark Encounter.  The Ark Encounter will be centered on a "full sized" Noah's Ark that is 510 feet long, 85 feet wide and 51 feet tall. By the time the Ark is constructed on pilings, the "sail" will be 100 feet off the ground.  In addition  a "walled city" will house many of the retail/gift shops, restaurants, food vendors, street theater, and entertainment.  Also to be included is a petting zoo with a "top notch" animal trainer with live animal entertainment.  There will also be an interactive children's area.  Big plans are made for a "5-D theater."  Zovath described this as being a 3-D movie theater in the Tower of Babel with special effects such as blowing air and water "to get the kids all charged up."  The only ride on the park will be a Ten Plagues ride in the "Journey through Jewish History" section. There will also be a "First Century authentic Middle Eastern village" from during the time of Jesus.</p>
+
+
+<p>Other features of the Ark Park include:</p>
+
+
+<p>1. A bird sanctuary.</p>
+
+
+<p>2. An 800 seat performing arts theater that may be lent out for summer Shakespeare and other plays.</p>
+
+ 
+
+
+<p>3. A 3000 seat amphitheater for live entertainment and concerts all summer long.</p>
+
+
+<p>4. A 24,000 square foot special exhibit hall. Zovath said this was designed to handle any of the world class traveling exhibits such as "King Tut, Pharaoh, dinosaurs, all the different exhibits.  We plan on being able to book major travelling exhibit attractions all year long."</p>
+
+
+<p>5. Seven merchandise resource stores, four restaurants, ten fast food, and more than two miles of public pathways through the park.</p>
+
+
+<p>6. 3,200 parking places for visitors.</p>
+
+
+<p>Zovath used the Ark Encounter--sponsored private and allegedly independent "Beemer Study" to estimate the number of people who would visit the park.  The Beemer Study was done by America's Research Group/Beemer Associates. America's Research Group is a public relations firm that does "consumer behavior survey research."  The founder of the company, C. Britt Beemer, is an associate of the Creation Museum's founder, Ken Ham.  Beemer has coauthored two books with Ken Ham, _Already Gone: Why your Kids will quit church and what you can do to stop it_ and _Already Compromised: Christian colleges took a test on the state of their faith and the final exam is in_. </p>
+
+ 
+
+
+<p>The method for projecting the number of people who would come to the park was most fascinating.  The study was a general population study using nationwide polls asking people, "Will you come to see a full-size replica of Noah's Ark?"  63 % of the responders said they would come and bring their families to see the Ark within five years. This equaled 200 million people. So the Beemer Study started out with this number, and the Ark Park was designed and financed to deal with this number of people. Zovath made much of the same company projecting 400,000 people attending the Creation Museum the first year and that 404,000 actually showed up. Beemer apparently took the 200 million figure, cut it in half because only half those people would be within a day's drive of the park. Starting with 100 million people within an easy drive, they decided only 63 % of the 100 million would come.  This left 63 million visitors, and they cut this in half, resulting in a possible 31.5 million visitors in a five year period. Since some family members of the 31.5 million people might not want to go for various reasons, they cut the number by another 20 %, resulting in 25.2 million people over five years. 48 % of the positive responses said they would come one time and 42 % said they would come multiple times over five years. The Beemer study then eliminated the 48 % that said they would only come once, resulting in 10.6 million people over five years.  According to Zovath, this resulted in an estimate by the Beemer Study of 2.1 million visitors for the Ark Encounter in the first year. As a result, the Ark Park was designed to accommodate 1.6 million people the first year.  Zovath says this is a "very conservative number."  Ark Encounter has even designed "holding areas" in the park for if they get overrun with a "flood" of people (Zovath's wordplay elicited groans and laughter).  He concluded this part of the presentation stating, "We have 1.6 million people coming to Williamstown when it opens sometime in 2014."</p>
+
+
+<p>Mr. Zovath then stated that Ark Encounters used the 1.6 million visitors per year as the basis of their economic impact study.  A Kentucky government "multiplier effect" model was used to estimate the potential economic impact of the project along with spending data for visitors to the Creation Museum over the last three years.  There are three different categories of economic impact, (1) direct spending (money spent in the park, restaurants, gas stations, etc.), (2) the industrial output ripple effect (employees of the Ark Encounter, restaurants, hotels, gas stations, etc. spending their paychecks and buying houses in the area), (3) the capital expense effect (the money spent constructing not only the Ark Park).</p>
+
+
+<p>According to Zovath, the Ark will supposedly have a $590 million impact in the first year in Grant County.  This will supposedly generate $35.4 million in sales tax for the state.  The Ark Encounter investors would receive a tax rebate of $4.3 million, netting Kentucky about $31 million the first year the park operates.</p>
+
+  
+
+
+<p>According to Zovath, the risk is shouldered by Ark Encounter investors; "Very little, if any, risk is shouldered by the local or state governments." "If it doesn't run efficiently, if we don't generate much sales, we don't get much sales tax back.  So it is a win-win for the state, it is a win-win for local government, and for our investors it certainly is," said Zovath.</p>
+
+
+<p>Kentucky has been trying to bring in tourism for the taxes and jobs they provide.  The Ark Encounter will, according to Zovath, employ within the park about 900 full- and part-time positions, some seasonal and most full-time.  These will generate an annual payroll of $17 million.  Using a method for estimating the ripple effect of a new business generated by the US Travel Association impact study for Kentucky, Zovath says the park would result in an estimated 14,000 new tourism and travel jobs, most at the new hotels and other businesses in the area during the first year of operation.  Over the first 10 years of operation for the park, Ark Encounter will have a positive impact in Grant County and Northern Kentucky of over $4.8 billion, according to Zovath.</p>
+
+
+<p>Ark Encounter is working with Williamstown on utility agreements, zoning ordinances, and partnering with Grant County, working with Wade Gutman of the Grant County Industrial Board and Judge Darrell Link.  Zovath gave Gutman and Judge Link praise for "luring us to this part of Kentucky.  The State incentive kept us in Kentucky, and Wade's persistence and some of things he was doing kind of weighted us here to Grant County." 
+Zovath claims that the Ark Park will attain notoriety as one of the biggest "green operation" parks in the country and plans to protect the environment during construction and operation.  Ark Encounter is working with the Corps of Engineers and Fish and Wildlife on the layout of the property to make use of the natural terrain and deal with stream and tree issues.  This portion of the Outer Bluegrass is particularly hilly.  According to Zovath "to get 140 acres in this part of Kentucky you have to buy 800." They will finalize the site master plan for the county planning commission by September 1.  They will close on the purchase of remaining properties in September and October.  Construction will begin in the spring.</p>
+
+
+<p>Zovath said, "God's raised up investors.  We have 75 % of our funding committed right now.  That's over $100 million. And very little left to raise in order to break escrow and start construction on this project. So, we are really praising the Lord that He is blessing the project.  I think He is blessing Grant County and Williamstown. And everybody there's certainly going to be an economic boon here."  Groundbreaking could take place as early as eight weeks (October) depending on events.  Construction will begin in earnest in spring 2012. Close to 75 buildings will go up, with lots of employment possibilities.  Timber for the Ark replica has to be ordered 6 months in advance in order for it to dry properly.  Grand opening is projected to be sometime in 2014.</p>
+
+
+<p>According Zovath, the area will need many additional hotels and restaurants. According to the Beemer study, there will be enough visitors to justify twenty 100-room hotels in the area. Presently, there are very few hotels and restaurants in this rural area.  Zovath said Ark Encounter will have 60 to 70 acres of their 800 acres available to developers to either lease or purchase for hotels and restaurants. Ark Encounter itself is staying out of the hotel and restaurant business. Zovath concluded, "That's my story, I'm sticking to it."</p>
+
+
+<p>**Rick Skinner - Mayor of Williamstown**</p>
+
+
+<p>Mayor Skinner then took the floor and discussed the involvement of Williamstown so far. He claimed not to have heard about the project until October, 2010.    Mayor Skinner said, "The city council has been very supportive of this, but at the same time they are very cautious. They control the money; they don't want to put the city in any undue financial burden."  So far Williamstown hasn't spent any money, but has signed a memorandum of agreement with Ark Encounters. Skinner went on to say that the city's new wastewater treatment plant will be ready by the middle of September and it has enough capacity for what the Ark Encounter will need.  They will not have to expand the wastewater treatment facility for now, at least. There will have to be a new water plant, and Skinner says the city is actively looking for a site.  The city council is looking for grant funding to pay for this water plant.  It will be operational about the time the Ark Park will open in 2014. There will be an impact fee for the developers to hook onto the system.  City planners are working on a comprehensive zone plan because of all the new development that is coming.  According to the Mayor, Ark Encounter's Mike Zovath is helping with the zone plan, saying it has been "a great relationship so far with the Ark."</p>
+
+
+<p>**Q&A Session**</p>
+
+
+<p>Tad Long of the Kentucky League of Cities was hired by Williamstown to act as facilitator for the meeting and lead the Q&A session that followed the talks. Long referred to the Ark Encounter as a "transformational project for this community." 
+Most of the questions involved potential traffic, water supply, and infrastructure problems such as runoff from a 40 acre parking lot.  Little or no opposition to the project was shown.</p>
+
+
+<p>In answering a question about a rumor that traffic on one of the roads was going to be rerouted, Grant County Judge Darrell Link went off topic and stated, "The community of Grant County embraces this project and we embrace it because it is a religious theme and we think it will serve well as our identity."  This was followed by much applause.</p>
+
+
+<p>A citizen asked about the potential for Williamstown issuing bonds. Ark Encounter attorney Jim Parsons said Tax Increment Financing (TIF) bonds were possible but there would be "no obligation of the City."  Another citizen asked about the possibility of a new payroll tax.  Parsons answered that the TIF statute allows a payroll tax within the district, but not for the entire city.  Therefore, according to Parsons, any payroll tax would not be citywide, but would only apply to the Ark Encounter. </p>
+
+
+<p>Another citizen asked if the project would open in phases.  Mike Zovath stated that the Ark Encounter would open all a once.</p>
+
+
+<p>A question about upgrading the Interstate exits prompted Judge Darrell Link to state that the project was "very important to the Governor" and that Ark Encounter engineers would be working with the Kentucky Transportation Cabinet on this upgrade.  Several months back this was reported to be estimated to cost the Commonwealth $11 million. Judge Link said Secretary Mike Hancock of the Transportation Cabinet will be giving Governor Beshear the Interstate 75 plans by January when the General Assembly meets. </p>
+
+
+<p>In response to a question about hiring, Mike Zovath said the process would begin 9 to 6 months before the park opens.  Hiring will be done by Ark Encounter's own human resources department.  Another citizen asked if Grant County residents would have "first crack" at the jobs as the locals are willing to "come early, stay late, and won't complain."  Zovath indicated that they cannot discriminate when hiring. </p>
+
+
+<p>Another question about use of local labor prompted Zovath to say that the "green building philosophy" would mean many of the jobs would be by local labor, but they would have to contract through the Troyer Group via a bid process.  The Troyer Group is a South Bend, Indiana, company. Zovath stated that they will have "30, 40, 50 buildings going up all at once." </p>
+
+
+<p>The next question was how the 14,000 new jobs in the region were going to affect the size of the community and how the school system would be affected. Zovath stated that many will be empty nesters - older people without kids.  Zovath bases this on the work force for Silver Dollar City in Branson, Missouri.  Zovath said the park "doesn't have, wouldn't have much impact on the school system."</p>
+
+
+<p>A citizen asked if retail businesses would be Ark Encounter owned. Mr. Zovath said they would be looking for some vendors.  Park restaurants and food/beverage vendors will be Ark Encounter owned.</p>
+
+
+<p>A homeowner voiced concern about the possibility of higher utility rates including higher electric, garbage collection, and property tax bills.  Mayor Skinner stated, "They should go down.  With the usage that we'll have with the Ark and what they will use, we expect rates to go down."  The mayor received massive applause after stating this.</p>
+
+
+<p>For the last question, a local minister asked, "How can the churches get behind or rally around the project?"    Zovath stated, "You can do anything you want to do," avoiding constitutional issues.</p>
+
+
+<p>The two hour meeting then ended.</p>
+
+
+<p>**Conclusion**</p>
+
+
+<p>I will leave it to the reader to judge the validity of the attendance and monetary calculations given to the people of Williamstown and Grant County at the meeting.   It is painfully obvious that Ark Encounter and Answers in Genesis have strong support at all levels of Kentucky's government.  From the audience reaction, it was apparent that little or no skepticism of the Ark Park project was displayed by any of the citizens. 
+Unfortunately, no one at the meeting asked any hard questions. These should have included, at a minimum:</p>
+
+
+<p>1. What happens if the projections for attendance and economic impact turn out to be totally off base?</p>
+
+
+<p>2. What happens if the project is built and fails? What happens if it never gets built?</p>
+
+
+<p>3. If the park fails, will they return the 100 acres sold to Ark Encounter by Williamstown at a discount price? </p>
+
+
+<p>4. What happens to the nearly $200,000 given to the Ark Encounter by Grant County's economic development arm if the park fails?</p>
+
+ 
+
+
+<p>5. Who are the unnamed investors for Ark Encounter?  Are any local people involved as investors? Are any of the investors the same people involved with the Bible park that failed to be built in Tennessee?</p>
+
+
+<p>6. Why is Ark Encounter buying 800 acres? </p>
+
+
+<p>7. What good will the $11 million I-75 exit upgrades be if the 1.6 million visitors a year fail to show up?  The Commonwealth of Kentucky is in a tough financial situation.  State employees were furloughed last year for six days.</p>
+
+
+<p>8. The Creation Museum has raised more than $3.7 million for the Ark "replica"; they say they need a total of $24 million; do they keep the money or return the money to donors if it isn't built?</p>
+
+
+<p>I am certain readers can think of many more questions about this project. Even if  Williamstown and Grant County are not out directly, the indirect costs of this project failing could be enormous.</p>
+
+
+<p>Stay tuned.</p>

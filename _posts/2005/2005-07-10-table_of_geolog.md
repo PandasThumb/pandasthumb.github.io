@@ -1,0 +1,344 @@
+---
+layout: article
+title: Table of geologic time
+date: '2005-07-10 15:31:33 -0700'
+author: Andrea Bottaro
+mt_id: 1250
+blog_id: 2
+post_id: 1250
+basename: table_of_geolog
+---
+<table class="kw_table">
+<tr>
+<th><a href="http://en.wikipedia.org/wiki/Eon_%28geology%29" title="Eon (geology)">Eon</a></th>
+
+<th>Era</th>
+<th colspan="2">Period<sup>1</sup></th>
+<th>Series/<br />
+Epoch</th>
+<th>Major Events</th>
+<th>End, Million<br />
+Years Ago<sup>2</sup></th>
+</tr>
+
+<tr>
+<td rowspan="37" style="background:#B3E2D1"><a href="/wiki/Phanerozoic" title="Phanerozoic">Phanerozoic</a></td>
+<td rowspan="7" style="background:#FFFF00"><a href="http://en.wikipedia.org/wiki/Cenozoic" title="Cenozoic">Cenozoic</a></td>
+<td colspan="2" style="background:#FDCC8A" rowspan="4"><a href="http://en.wikipedia.org/wiki/Neogene" title="Neogene">Neogene</a><sup>3</sup></td>
+<td style="background:#FFFFB3"><a href="http://en.wikipedia.org/wiki/Holocene" title="Holocene">Holocene</a></td>
+<td>End of <a href="http://en.wikipedia.org/wiki/Ice_age" title="Ice age">recent glaciation</a> and rise of modern <a href="http://en.wikipedia.org/wiki/Civilization" title="Civilization">civilization</a></td>
+<td style="background:#FFFFB3">Ongoing</td>
+
+</tr>
+<tr>
+<td style="background:#FFFF62"><a href="http://en.wikipedia.org/wiki/Pleistocene" title="Pleistocene">Pleistocene</a></td>
+<td>Flourishing and then extinction of many large <a href="http://en.wikipedia.org/wiki/Mammal" title="Mammal">mammals</a> (Pleistocene megafauna); Evolution of fully modern <a href="http://en.wikipedia.org/wiki/Human" title="Human">humans</a></td>
+<td style="background:#FFFF62">0.011430 Â± 0.00013</td>
+</tr>
+<tr>
+<td style="background:#FEEBAC"><a href="http://en.wikipedia.org/wiki/Pliocene" title="Pliocene">Pliocene</a></td>
+<td>Intensification of present <a href="http://en.wikipedia.org/wiki/Ice_age" title="Ice age">ice age</a>. Cool and dry <a href="http://en.wikipedia.org/wiki/Climate" title="Climate">climate</a>; <a href="http://en.wikipedia.org/wiki/Australopithecine" title="Australopithecine">Australopithecines</a> appear, many of the existing genera of mammals, and recent <a href="http://en.wikipedia.org/wiki/Mollusc" title="Mollusc">molluscs</a> appear</td>
+
+<td style="background:#FEEBAC">1.806 Â± 0.005 <sup>*</sup></td>
+</tr>
+<tr>
+<td style="background:#FFDE00"><a href="http://en.wikipedia.org/wiki/Miocene" title="Miocene">Miocene</a></td>
+<td>Moderate climate; <a href="http://en.wikipedia.org/wiki/Orogeny" title="Orogeny">Mountain building</a> in <a href="http://en.wikipedia.org/wiki/Northern_hemisphere" title="Northern hemisphere">northern hemisphere</a>; Modern <a href="http://en.wikipedia.org/wiki/Mammal" title="Mammal">mammal</a> and <a href="http://en.wikipedia.org/wiki/Bird" title="Bird">bird</a> families became recognizable. <a href="http://en.wikipedia.org/wiki/Equidae" title="Equidae">Horses</a> and <a href="http://en.wikipedia.org/wiki/Mastodont" title="Mastodont">mastodonts</a> diverse. <a href="http://en.wikipedia.org/wiki/Grass" title="Grass">Grasses</a> become ubiquitous. First <a href="http://en.wikipedia.org/wiki/Hominoid" title="Hominoid">hominoids</a> appear.</td>
+
+<td style="background:#FFDE00">5.332 Â± 0.005 <sup>*</sup></td>
+</tr>
+<tr>
+<td rowspan="3" colspan="2" style="background:#FFB300"><a href="http://en.wikipedia.org/wiki/Paleogene" title="Paleogene">Paleogene</a><sup>3</sup></td>
+<td style="background:#EAC672"><a href="http://en.wikipedia.org/wiki/Oligocene" title="Oligocene">Oligocene</a></td>
+<td>Warm climate; Rapid <a href="http://en.wikipedia.org/wiki/Evolution" title="Evolution">evolution</a> and diversification of fauna, especially <a href="http://en.wikipedia.org/wiki/Mammal" title="Mammal">mammals</a>. Major evolution and dispersal of modern types of <a href="http://en.wikipedia.org/wiki/Angiosperm" title="Angiosperm">angiosperms</a></td>
+
+<td style="background:#EAC672">23.03 Â± 0.05 <sup>*</sup></td>
+</tr>
+<tr>
+<td style="background:#EAAD43"><a href="http://en.wikipedia.org/wiki/Eocene" title="Eocene">Eocene</a></td>
+<td>Archaic <a href="http://en.wikipedia.org/wiki/Mammal" title="Mammal">mammals</a> (e.g. <a href="http://en.wikipedia.org/wiki/Creodont" title="Creodont">Creodonts</a>, <a href="http://en.wikipedia.org/wiki/Condylarth" title="Condylarth">Condylarths</a>, <a href="http://en.wikipedia.org/w/index.php?title=Uintatheriidae&amp;action=edit" class="new" title="Uintatheriidae">Uintatheres</a>, etc) flourish and continue to develop during the epoch. Appearance of several "modern" mammal families. Primitive <a href="http://en.wikipedia.org/wiki/Cetacea" title="Cetacea">whales</a> diversify. First grasses. Reglaciation of <a href="http://en.wikipedia.org/wiki/Antarctica" title="Antarctica">Antarctica</a>; start of current ice age.</td>
+
+<td style="background:#EAAD43">33.9 Â± 0.1 <sup>*</sup></td>
+</tr>
+<tr>
+<td style="background:#EB9301"><a href="http://en.wikipedia.org/wiki/Paleocene" title="Paleocene">Paleocene</a></td>
+<td>Climate tropical. Modern <a href="http://en.wikipedia.org/wiki/Plant" title="Plant">plants</a>; <a href="http://en.wikipedia.org/wiki/Mammal" title="Mammal">Mammals</a> diversify into a number of primitive lineages following the extinction of the dinosaurs. First large mammals (up to bear or small hippo size)</td>
+<td style="background:#EB9301">55.8 Â± 0.2 <sup>*</sup></td>
+
+</tr>
+<tr>
+<td rowspan="8" style="background:#7FAD51"><a href="http://en.wikipedia.org/wiki/Mesozoic" title="Mesozoic">Mesozoic</a></td>
+<td rowspan="2" colspan="2" style="background:#7FC31C"><a href="http://en.wikipedia.org/wiki/Cretaceous" title="Cretaceous">Cretaceous</a></td>
+<td style="background:#DEF197"><a href="http://en.wikipedia.org/wiki/Late_Cretaceous" title="Late Cretaceous">Upper/Late</a></td>
+<td rowspan="2"><a href="http://en.wikipedia.org/wiki/Flowering_plant" title="Flowering plant">Flowering plants</a> appear, along with new types of insects. More modern <a href="http://en.wikipedia.org/wiki/Teleost" title="Teleost">teleost</a> fish begin to appear. <a href="http://en.wikipedia.org/wiki/Ammonite" title="Ammonite">Ammonites</a>, <a href="http://en.wikipedia.org/wiki/Belemnoidea" title="Belemnoidea">belemnites</a>, <a href="http://en.wikipedia.org/w/index.php?title=Rudist&amp;action=edit" class="new" title="Rudist">rudists</a>, <a href="http://en.wikipedia.org/wiki/Echinoidea" title="Echinoidea">echinoids</a> and <a href="http://en.wikipedia.org/wiki/Porifera" title="Porifera">sponges</a> all common. Many new types of <a href="http://en.wikipedia.org/wiki/Dinosaur" title="Dinosaur">dinosaurs</a> (e.g. <a href="http://en.wikipedia.org/wiki/Tyrannosauridae" title="Tyrannosauridae">Tyrannosaurs</a>, <a href="http://en.wikipedia.org/wiki/Titanosauridae" title="Titanosauridae">Titanosaurs</a>, <a href="http://en.wikipedia.org/wiki/Hadrosauridae" title="Hadrosauridae">duck bills</a>, and <a href="http://en.wikipedia.org/wiki/Ceratopsidae" title="Ceratopsidae">horned dinosaurs</a>) evolve on land, as do <a href="http://en.wikipedia.org/w/index.php?title=Eusuchia&amp;action=edit" class="new" title="Eusuchia">modern crocodilians</a>; and <a href="http://en.wikipedia.org/wiki/Mosasaur" title="Mosasaur">mosasaurs</a> and modern sharks appear in the sea. Primitive <a href="http://en.wikipedia.org/wiki/Aves" title="Aves">birds</a> gradually replace pterosaurs. <a href="http://en.wikipedia.org/wiki/Monotremes" title="Monotremes">Monotremes</a>, <a href="http://en.wikipedia.org/wiki/Marsupial" title="Marsupial">marsupials</a> and <a href="http://en.wikipedia.org/wiki/Placental" title="Placental">placental</a> mammals appear. Break up of <a href="http://en.wikipedia.org/wiki/Gondwana" title="Gondwana">Gondwana</a>.</td>
+
+<td style="background:#DEF197">65.5 Â± 0.3 <sup>*</sup></td>
+</tr>
+<tr>
+<td style="background:#B3DF7F"><a href="http://en.wikipedia.org/wiki/Early_Cretaceous" title="Early Cretaceous">Lower/Early</a></td>
+<td style="background:#B3DF7F">99.6 Â± 0.9 <sup>*</sup></td>
+</tr>
+<tr>
+<td rowspan="3" colspan="2" style="background:#4DB47E"><a href="http://en.wikipedia.org/wiki/Jurassic" title="Jurassic">Jurassic</a></td>
+<td style="background:#CCEBC5"><a href="http://en.wikipedia.org/wiki/Late_Jurassic" title="Late Jurassic">Upper/Late</a></td>
+<td rowspan="3">Gymnosperms (especially <a href="http://en.wikipedia.org/wiki/Conifer" title="Conifer">conifers</a>, <a href="http://en.wikipedia.org/wiki/Bennettitales" title="Bennettitales">Bennettitales</a> and <a href="http://en.wikipedia.org/wiki/Cycad" title="Cycad">cycads</a>) and <a href="http://en.wikipedia.org/wiki/Fern" title="Fern">ferns</a> common. Many types of <a href="http://en.wikipedia.org/wiki/Dinosaur" title="Dinosaur">dinosaurs</a>, such as <a href="http://en.wikipedia.org/wiki/Sauropod" title="Sauropod">sauropods</a>, <a href="http://en.wikipedia.org/wiki/Carnosaur" title="Carnosaur">carnosaurs</a>, and <a href="http://en.wikipedia.org/wiki/Stegosaur" title="Stegosaur">stegosaurs</a>. Mammals common but small. First <a href="http://en.wikipedia.org/wiki/Bird" title="Bird">birds</a> and <a href="http://en.wikipedia.org/wiki/Squamata" title="Squamata">lizards</a>. <a href="http://en.wikipedia.org/wiki/Ichthyosaur" title="Ichthyosaur">Ichthyosaurs</a> and <a href="http://en.wikipedia.org/wiki/Plesiosaur" title="Plesiosaur">plesiosaurs</a> diverse. <a href="http://en.wikipedia.org/wiki/Bivalve" title="Bivalve">Bivalves</a>, <a href="http://en.wikipedia.org/wiki/Ammonite" title="Ammonite">Ammonites</a> and <a href="http://en.wikipedia.org/wiki/Belemnoidea" title="Belemnoidea">belemnites</a> abundant. <a href="http://en.wikipedia.org/wiki/Echinoidea" title="Echinoidea">Echinoids</a> very common, also <a href="http://en.wikipedia.org/wiki/Crinoid" title="Crinoid">crinoids</a>, starfish, <a href="http://en.wikipedia.org/wiki/Porifera" title="Porifera">sponges</a>, and <a href="http://en.wikipedia.org/w/index.php?title=Terebratulida&amp;action=edit" class="new" title="Terebratulida">terebratulid</a> and <a href="http://en.wikipedia.org/w/index.php?title=Rhynchonellida&amp;action=edit" class="new" title="Rhynchonellida">rhynchonellid</a> <a href="http://en.wikipedia.org/wiki/Brachiopod" title="Brachiopod">brachiopods</a>. Breakup of <a href="http://en.wikipedia.org/wiki/Pangea" title="Pangea">Pangea</a> into <a href="http://en.wikipedia.org/wiki/Gondwana" title="Gondwana">Gondwana</a> and <a href="http://en.wikipedia.org/wiki/Laurasia" title="Laurasia">Laurasia</a>.</td>
+
+<td style="background:#CCEBC5">145.5 Â± 4.0</td>
+</tr>
+<tr>
+<td style="background:#7FCA93"><a href="http://en.wikipedia.org/wiki/Middle_Jurassic" title="Middle Jurassic">Middle</a></td>
+<td style="background:#7FCA93">161.2 Â± 4.0</td>
+</tr>
+<tr>
+<td style="background:#66C292"><a href="http://en.wikipedia.org/wiki/Early_Jurassic" title="Early Jurassic">Lower/Early</a></td>
+<td style="background:#66C292">175.6 Â± 2.0 <sup>*</sup></td>
+</tr>
+<tr>
+
+<td rowspan="3" colspan="2" style="background:#67C3B7"><a href="http://en.wikipedia.org/wiki/Triassic" title="Triassic">Triassic</a></td>
+<td style="background:#CCECE1"><a href="http://en.wikipedia.org/w/index.php?title=Late_Triassic&amp;action=edit" class="new" title="Late Triassic">Upper/Late</a></td>
+<td rowspan="3"><a href="http://en.wikipedia.org/wiki/Archosaur" title="Archosaur">Archosaurs</a> dominant and diverse on land, include many large forms; <a href="http://en.wikipedia.org/wiki/Cynodont" title="Cynodont">cynodonts</a> become smaller and more mammal-like. First <a href="http://en.wikipedia.org/wiki/Dinosaur" title="Dinosaur">dinosaurs</a>, <a href="http://en.wikipedia.org/wiki/Mammal" title="Mammal">mammals</a>, <a href="http://en.wikipedia.org/wiki/Pterosaur" title="Pterosaur">pterosaurs</a>, and <a href="http://en.wikipedia.org/wiki/Crocodilia" title="Crocodilia">crocodilia</a>. <i><a href="http://en.wikipedia.org/w/index.php?title=Dicrodium&amp;action=edit" class="new" title="Dicrodium">Dicrodium</a></i> flora common on land. Many large aquatic <a href="http://en.wikipedia.org/w/index.php?title=Temnospondyli&amp;action=edit" class="new" title="Temnospondyli">temnospondyl</a> amphibians. <a href="http://en.wikipedia.org/wiki/Ichthyosaur" title="Ichthyosaur">Ichthyosaurs</a> and <a href="http://en.wikipedia.org/wiki/Nothosaur" title="Nothosaur">nothosaurs</a> common in the seas. <a href="http://en.wikipedia.org/w/index.php?title=Ceratite&amp;action=edit" class="new" title="Ceratite">Ceratite</a> ammonoids extremely common. <a href="http://en.wikipedia.org/w/index.php?title=Sclerractinia&amp;action=edit" class="new" title="Sclerractinia">Modern corals</a> and <a href="http://en.wikipedia.org/wiki/Teleost" title="Teleost">teleost</a> fish appear.</td>
+
+<td style="background:#CCECE1">199.6 Â± 0.6</td>
+</tr>
+<tr>
+<td style="background:#99D7BE"><a href="http://en.wikipedia.org/w/index.php?title=Middle_Triassic&amp;action=edit" class="new" title="Middle Triassic">Middle</a></td>
+<td style="background:#99D7BE">228.0 Â± 2.0</td>
+</tr>
+<tr>
+<td style="background:#67B39F"><a href="http://en.wikipedia.org/w/index.php?title=Early_Triassic&amp;action=edit" class="new" title="Early Triassic">Lower/Early</a></td>
+<td style="background:#67B39F">245.0 Â± 1.5</td>
+</tr>
+<tr>
+<td rowspan="22" style="background:#80B5D5"><a href="http://en.wikipedia.org/wiki/Paleozoic" title="Paleozoic">Paleozoic</a></td>
+
+<td rowspan="3" colspan="2" style="background:#67C6DE"><a href="http://en.wikipedia.org/wiki/Permian" title="Permian">Permian</a></td>
+<td style="background:#B3E3EE"><a href="http://en.wikipedia.org/w/index.php?title=Lopingian&amp;action=edit" class="new" title="Lopingian">Lopingian</a></td>
+<td rowspan="3">Landmass unites in the supercontinent of <a href="http://en.wikipedia.org/wiki/Pangea" title="Pangea">Pangea</a>. <a href="http://en.wikipedia.org/wiki/Synapsid" title="Synapsid">Synapsid</a> <a href="http://en.wikipedia.org/wiki/Reptile" title="Reptile">reptiles</a> become common (<a href="http://en.wikipedia.org/wiki/Pelycosaur" title="Pelycosaur">Pelycosaurs</a> and <a href="http://en.wikipedia.org/wiki/Therapsid" title="Therapsid">Therapsids</a>), <a href="http://en.wikipedia.org/w/index.php?title=Parareptile&amp;action=edit" class="new" title="Parareptile">parareptiles</a> and <a href="http://en.wikipedia.org/w/index.php?title=Temnospondyli&amp;action=edit" class="new" title="Temnospondyli">temnospondyl</a> amphibians also remain common. Carboniferous flora replaced by gymnosperms in the middle of the period. <a href="http://en.wikipedia.org/wiki/Coleoptera" title="Coleoptera">Beetles</a> and <a href="http://en.wikipedia.org/wiki/Diptera" title="Diptera">flies</a> evolve. Marine life flourishes in the warm shallow reefs. <a href="http://en.wikipedia.org/w/index.php?title=Productida&amp;action=edit" class="new" title="Productida">Productid</a> and <a href="http://en.wikipedia.org/w/index.php?title=Spriferida&amp;action=edit" class="new" title="Spriferida">spriferid</a> brachiopods, bivalves, <a href="http://en.wikipedia.org/wiki/Foraminifera" title="Foraminifera">foraminifera</a>, and ammonoids all abundant. End of Permo-carboniferous ice age. At the end of the period the <a href="http://en.wikipedia.org/wiki/Permian_extinction" title="Permian extinction">Permian extinction</a> event- 95% of life on Earth becomes extinct</td>
+
+<td style="background:#B3E3EE">251.0 Â± 0.4 <sup>*</sup></td>
+</tr>
+<tr>
+<td style="background:#99D8D8"><a href="http://en.wikipedia.org/wiki/Guadalupian" title="Guadalupian">Guadalupian</a></td>
+<td style="background:#99D8D8">260.4 Â± 0.7 <sup>*</sup></td>
+</tr>
+<tr>
+<td style="background:#80CEC9"><a href="http://en.wikipedia.org/w/index.php?title=Cisuralian&amp;action=edit" class="new" title="Cisuralian">Cisuralian</a></td>
+<td style="background:#80CEC9">270.6 Â± 0.7 <sup>*</sup></td>
+
+</tr>
+<tr>
+<td rowspan="6" style="background:#99BDFF"><a href="http://en.wikipedia.org/wiki/Carboniferous" title="Carboniferous">Carbon-<br />
+iferous</a><sup>4</sup></td>
+<td rowspan="3" style="background:#689FCA"><a href="http://en.wikipedia.org/wiki/Pennsylvanian" title="Pennsylvanian">Pennsyl-<br />
+vanian</a></td>
+<td style="background:#689FCA"><a href="http://en.wikipedia.org/w/index.php?title=Late_Pennsylvanian&amp;action=edit" class="new" title="Late Pennsylvanian">Upper/Late</a></td>
+<td rowspan="3">Winged <a href="http://en.wikipedia.org/wiki/Insect" title="Insect">insects</a> appear and are abundant, some growing to large size. <a href="http://en.wikipedia.org/wiki/Tetrapod" title="Tetrapod">Amphibians</a> common and diverse. First <a href="http://en.wikipedia.org/wiki/Reptile" title="Reptile">reptiles</a>, <a href="http://en.wikipedia.org/wiki/Coal" title="Coal">coal</a> forests (<a href="http://en.wikipedia.org/wiki/Lepidodendron" title="Lepidodendron">Lepidodendron</a>, <a href="http://en.wikipedia.org/w/index.php?title=Sigillaria&amp;action=edit" class="new" title="Sigillaria">Sigillaria</a>, <a href="http://en.wikipedia.org/wiki/Calamites" title="Calamites">Calamites</a>, <a href="http://en.wikipedia.org/w/index.php?title=Cordaites&amp;action=edit" class="new" title="Cordaites">Cordaites</a>, etc), very high atmospheric <a href="http://en.wikipedia.org/wiki/Oxygen" title="Oxygen">oxygen</a> content. In the seas, Goniatites, brachiopods, bryozoa, bivalves, corals, etc all common.</td>
+
+<td style="background:#689FCA">299.0 Â± 0.8 <sup>*</sup></td>
+</tr>
+<tr>
+<td style="background:#689FCA"><a href="http://en.wikipedia.org/w/index.php?title=Middle_Pennsylvanian&amp;action=edit" class="new" title="Middle Pennsylvanian">Middle</a></td>
+<td style="background:#689FCA">306.5 Â± 1.0</td>
+</tr>
+<tr>
+<td style="background:#689FCA"><a href="http://en.wikipedia.org/w/index.php?title=Early_Pennsylvanian&amp;action=edit" class="new" title="Early Pennsylvanian">Lower/Early</a></td>
+<td style="background:#689FCA">311.7 Â± 1.1</td>
+</tr>
+<tr>
+
+<td rowspan="3" style="background:#8091AD"><a href="http://en.wikipedia.org/wiki/Mississippian" title="Mississippian">Missis-<br />
+sippian</a></td>
+<td style="background:#8091AD"><a href="http://en.wikipedia.org/w/index.php?title=Late_Mississippian&amp;action=edit" class="new" title="Late Mississippian">Upper/Late</a></td>
+<td rowspan="3">Large primitive <a href="http://en.wikipedia.org/wiki/Tree" title="Tree">trees</a>, first land <a href="http://en.wikipedia.org/wiki/Tetrapod" title="Tetrapod">vertebrates</a>, brackish water and amphibious <a href="http://en.wikipedia.org/wiki/Eurypterid" title="Eurypterid">eurypterids</a>; <a href="http://en.wikipedia.org/w/index.php?title=Rhizodont&amp;action=edit" class="new" title="Rhizodont">rhizodonts</a> dominant fresh-water predators. In the seas primitive <a href="http://en.wikipedia.org/wiki/Chondrichthyes" title="Chondrichthyes">sharks</a> common and very diverse, <a href="http://en.wikipedia.org/wiki/Echinoderm" title="Echinoderm">echinoderms</a> (especially <a href="http://en.wikipedia.org/wiki/Crinoid" title="Crinoid">crinoids</a> and <a href="http://en.wikipedia.org/wiki/Blastoid" title="Blastoid">blastoids</a>) abundant, <a href="http://en.wikipedia.org/wiki/Coral" title="Coral">Corals</a>, <a href="http://en.wikipedia.org/wiki/Bryozoa" title="Bryozoa">bryozoa</a>, and and brachiopods (<a href="http://en.wikipedia.org/w/index.php?title=Productida&amp;action=edit" class="new" title="Productida">Productida</a>, <a href="http://en.wikipedia.org/w/index.php?title=Spriferida&amp;action=edit" class="new" title="Spriferida">Spriferida</a>, etc) very common; <a href="http://en.wikipedia.org/wiki/Goniatite" title="Goniatite">Goniatites</a> common, <a href="http://en.wikipedia.org/wiki/Trilobite" title="Trilobite">trilobites</a> and <a href="http://en.wikipedia.org/wiki/Nautiloid" title="Nautiloid">nautiloids</a> in decline. <a href="http://en.wikipedia.org/wiki/Glaciation" title="Glaciation">Glaciation</a> in East <a href="http://en.wikipedia.org/wiki/Gondwana" title="Gondwana">Gondwana</a>.</td>
+
+<td style="background:#8091AD">318.1 Â± 1.3 <sup>*</sup></td>
+</tr>
+<tr>
+<td style="background:#8091AD"><a href="http://en.wikipedia.org/w/index.php?title=Middle_Mississippian&amp;action=edit" class="new" title="Middle Mississippian">Middle</a></td>
+<td style="background:#8091AD">326.4 Â± 1.6</td>
+</tr>
+<tr>
+<td style="background:#8091AD"><a href="http://en.wikipedia.org/w/index.php?title=Early_Mississippian&amp;action=edit" class="new" title="Early Mississippian">Lower/Early</a></td>
+<td style="background:#8091AD">345.3 Â± 2.1</td>
+</tr>
+<tr>
+
+<td rowspan="3" colspan="2" style="background:#9999C9"><a href="http://en.wikipedia.org/wiki/Devonian" title="Devonian">Devonian</a></td>
+<td style="background:#CBBDDC"><a href="http://en.wikipedia.org/w/index.php?title=Late_Devonian&amp;action=edit" class="new" title="Late Devonian">Upper/Late</a></td>
+<td rowspan="3">First <a href="http://en.wikipedia.org/wiki/Clubmoss" title="Clubmoss">clubmosses</a> and <a href="http://en.wikipedia.org/wiki/Horsetail" title="Horsetail">horsetails</a> appear, <a href="http://en.wikipedia.org/w/index.php?title=Progymnosperm&amp;action=edit" class="new" title="Progymnosperm">progymnosperms</a> (first seed bearing plants) appear, first trees (<a href="http://en.wikipedia.org/wiki/Archaeopteris" title="Archaeopteris">Archaeopteris</a>). In the sea <a href="http://en.wikipedia.org/w/index.php?title=Strophomenida&amp;action=edit" class="new" title="Strophomenida">strophomenid</a> and <a href="http://en.wikipedia.org/w/index.php?title=Atrypida&amp;action=edit" class="new" title="Atrypida">atrypid</a> <a href="http://en.wikipedia.org/wiki/Brachiopod" title="Brachiopod">brachiopods</a>, <a href="http://en.wikipedia.org/wiki/Rugosa" title="Rugosa">rugose</a> and <a href="http://en.wikipedia.org/w/index.php?title=Tabulata&amp;action=edit" class="new" title="Tabulata">tabulate</a> corals, and <a href="http://en.wikipedia.org/wiki/Crinoid" title="Crinoid">crinoids</a> are abundant. <a href="http://en.wikipedia.org/wiki/Goniatite" title="Goniatite">Goniatite</a> <a href="http://en.wikipedia.org/wiki/Ammonoid" title="Ammonoid">ammonoids</a> are common, and <a href="http://en.wikipedia.org/wiki/Coleoidea" title="Coleoidea">coleoids</a> appear. Trilobites reduced in numbers. <a href="http://en.wikipedia.org/wiki/Ostracoderm" title="Ostracoderm">Ostracoderms</a> decline; Jawed fish (<a href="http://en.wikipedia.org/wiki/Placoderm" title="Placoderm">Placoderms</a>, <a href="http://en.wikipedia.org/wiki/Sarcopterygii" title="Sarcopterygii">lobe-finned</a> and <a href="http://en.wikipedia.org/wiki/Osteichthyes" title="Osteichthyes">ray-finned</a> fish, and early <a href="http://en.wikipedia.org/wiki/Chondrichthyes" title="Chondrichthyes">sharks</a>) important life in the sea. First <a href="http://en.wikipedia.org/wiki/Tetrapod" title="Tetrapod">amphibians</a> (but still aquatic). "Old Red Continent" (<a href="http://en.wikipedia.org/wiki/Euramerica" title="Euramerica">Euramerica</a>)</td>
+
+<td style="background:#CBBDDC">359.2 Â± 2.5 <sup>*</sup></td>
+</tr>
+<tr>
+<td style="background:#9983BE"><a href="http://en.wikipedia.org/w/index.php?title=Middle_Devonian&amp;action=edit" class="new" title="Middle Devonian">Middle</a></td>
+<td style="background:#9983BE">385.3 Â± 2.6 <sup>*</sup></td>
+</tr>
+<tr>
+<td style="background:#807DBA"><a href="http://en.wikipedia.org/w/index.php?title=Early_Devonian&amp;action=edit" class="new" title="Early Devonian">Lower/Early</a></td>
+<td style="background:#807DBA">397.5 Â± 2.7 <sup>*</sup></td>
+
+</tr>
+<tr>
+<td rowspan="4" colspan="2" style="background:#B172B6"><a href="http://en.wikipedia.org/wiki/Silurian" title="Silurian">Silurian</a></td>
+<td style="background:#E9C7E2"><a href="http://en.wikipedia.org/w/index.php?title=Pridoli&amp;action=edit" class="new" title="Pridoli">Pridoli</a></td>
+<td rowspan="4">First vascular land <a href="http://en.wikipedia.org/wiki/Plant" title="Plant">plants</a>, <a href="http://en.wikipedia.org/wiki/Millipede" title="Millipede">millipedes</a> and <a href="http://en.wikipedia.org/wiki/Arthropleurida" title="Arthropleurida">arthropleurids</a>, first jawed <a href="http://en.wikipedia.org/wiki/Fish" title="Fish">fish</a>, as well as many types of <a href="http://en.wikipedia.org/wiki/Ostracoderm" title="Ostracoderm">armoured</a> <a href="http://en.wikipedia.org/wiki/Agnatha" title="Agnatha">jawless forms</a>. <a href="http://en.wikipedia.org/wiki/Eurypterid" title="Eurypterid">sea-scorpions</a> reach large size. <a href="http://en.wikipedia.org/w/index.php?title=Tabulata&amp;action=edit" class="new" title="Tabulata">tabulate</a> and <a href="http://en.wikipedia.org/wiki/Rugosa" title="Rugosa">rugose</a> corals, <a href="http://en.wikipedia.org/wiki/Brachiopod" title="Brachiopod">brachiopods</a> (<a href="http://en.wikipedia.org/w/index.php?title=Pentamerida&amp;action=edit" class="new" title="Pentamerida">Pentamerida</a>, <a href="http://en.wikipedia.org/w/index.php?title=Rhynchonellida&amp;action=edit" class="new" title="Rhynchonellida">Rhynchonellida</a>, etc), and <a href="http://en.wikipedia.org/wiki/Crinoid" title="Crinoid">crinoids</a> all abundant; <a href="http://en.wikipedia.org/wiki/Trilobite" title="Trilobite">trilobites</a> and <a href="http://en.wikipedia.org/wiki/Mollusc" title="Mollusc">molluscs</a> diverse. <a href="http://en.wikipedia.org/wiki/Graptolite" title="Graptolite">Graptolites</a> not as varied.</td>
+
+<td style="background:#E9C7E2">416.0 Â± 2.8 <sup>*</sup></td>
+</tr>
+<tr>
+<td style="background:#CAA7D1"><a href="http://en.wikipedia.org/w/index.php?title=Ludlow_epoch&amp;action=edit" class="new" title="Ludlow epoch">Ludlow</a></td>
+<td style="background:#CAA7D1">418.7 Â± 2.7 <sup>*</sup></td>
+</tr>
+<tr>
+<td style="background:#B189B3"><a href="http://en.wikipedia.org/w/index.php?title=Wenlock_epoch&amp;action=edit" class="new" title="Wenlock epoch">Wenlock</a></td>
+<td style="background:#B189B3">422.9 Â± 2.5 <sup>*</sup></td>
+
+</tr>
+<tr>
+<td style="background:#9858A8"><a href="http://en.wikipedia.org/w/index.php?title=Llandovery_epoch&amp;action=edit" class="new" title="Llandovery epoch">Llandovery</a></td>
+<td style="background:#9858A8">428.2 Â± 2.3 <sup>*</sup></td>
+</tr>
+<tr>
+<td rowspan="3" colspan="2" style="background:#F981A6"><a href="http://en.wikipedia.org/wiki/Ordovician" title="Ordovician">Ordovician</a></td>
+<td style="background:#FBB4BD"><a href="http://en.wikipedia.org/wiki/Late_Ordovician" title="Late Ordovician">Upper/Late</a></td>
+<td rowspan="3"><a href="http://en.wikipedia.org/wiki/Invertebrate" title="Invertebrate">Invertebrates</a> very diverse and include many new types. Early corals, <a href="http://en.wikipedia.org/wiki/Brachiopod" title="Brachiopod">Brachiopods</a> (<a href="http://en.wikipedia.org/w/index.php?title=Orthida&amp;action=edit" class="new" title="Orthida">Orthida</a>, <a href="http://en.wikipedia.org/w/index.php?title=Strophomenida&amp;action=edit" class="new" title="Strophomenida">Strophomenida</a>, etc), <a href="http://en.wikipedia.org/wiki/Bivalve" title="Bivalve">bivalves</a>, <a href="http://en.wikipedia.org/wiki/Nautiloid" title="Nautiloid">nautiloids</a>, <a href="http://en.wikipedia.org/wiki/Trilobite" title="Trilobite">trilobites</a>, <a href="http://en.wikipedia.org/wiki/Ostracod" title="Ostracod">ostracods</a>, <a href="http://en.wikipedia.org/wiki/Bryozoa" title="Bryozoa">bryozoa</a>, many types of <a href="http://en.wikipedia.org/wiki/Echinoderms" title="Echinoderms">echinoderms</a> (<a href="http://en.wikipedia.org/w/index.php?title=Cystoidea&amp;action=edit" class="new" title="Cystoidea">cystoids</a>, <a href="http://en.wikipedia.org/wiki/Crinoid" title="Crinoid">crinoids</a>, starfish, etc), branched <a href="http://en.wikipedia.org/wiki/Graptolite" title="Graptolite">graptolites</a>, and other taxa all common. <a href="http://en.wikipedia.org/wiki/Conodont" title="Conodont">Conodonts</a> were primitive planktonic vertebrates that appear at the start of the Ordovician. Ice age at the end of the period. First very primitive land <a href="http://en.wikipedia.org/wiki/Plant" title="Plant">plants</a>.</td>
+
+<td style="background:#FBB4BD">443.7 Â± 1.5 <sup>*</sup></td>
+</tr>
+<tr>
+<td style="background:#FA9AB1"><a href="http://en.wikipedia.org/wiki/Middle_Ordovician" title="Middle Ordovician">Middle</a></td>
+<td style="background:#FA9AB1">460.9 Â± 1.6 <sup>*</sup></td>
+</tr>
+<tr>
+<td style="background:#E67DA4"><a href="http://en.wikipedia.org/wiki/Early_Ordovician" title="Early Ordovician">Lower/Early</a></td>
+<td style="background:#E67DA4">471.8 Â± 1.6</td>
+</tr>
+
+<tr>
+<td rowspan="3" colspan="2" style="background:#FB805F"><a href="http://en.wikipedia.org/wiki/Cambrian" title="Cambrian">Cambrian</a></td>
+<td style="background:#FDCDB8"><a href="http://en.wikipedia.org/w/index.php?title=Furongian&amp;action=edit" class="new" title="Furongian">Furongian</a></td>
+<td rowspan="3">Major diversification of life in the <a href="http://en.wikipedia.org/wiki/Cambrian_Explosion" title="Cambrian Explosion">Cambrian Explosion</a>; more than half of modern animal <a href="http://en.wikipedia.org/wiki/Phylum" title="Phylum">phyla</a> appear, along with a number of extinct and problematic forms. <a href="http://en.wikipedia.org/wiki/Archeocyatha" title="Archeocyatha">Archeocyatha</a> abundant in the early Cambrian. <a href="http://en.wikipedia.org/wiki/Trilobite" title="Trilobite">Trilobites</a>, <a href="http://en.wikipedia.org/wiki/Priapulida" title="Priapulida">Priapulida</a>, <a href="http://en.wikipedia.org/wiki/Porifera" title="Porifera">sponges</a>, inarticulate <a href="http://en.wikipedia.org/wiki/Brachiopod" title="Brachiopod">brachiopods</a>, and many other forms all common. First <a href="http://en.wikipedia.org/wiki/Vertebrate" title="Vertebrate">vertebrates</a> appear. <a href="http://en.wikipedia.org/wiki/Anomalocaris" title="Anomalocaris">anomalocarids</a> are top predators. Edicarian animals rare, then die out.</td>
+
+<td style="background:#FDCDB8">488.3 Â± 1.7 <sup>*</sup></td>
+</tr>
+<tr>
+<td style="background:#E8AE97"><a href="http://en.wikipedia.org/w/index.php?title=Middle_Cambrian&amp;action=edit" class="new" title="Middle Cambrian">Middle</a></td>
+<td style="background:#E8AE97">501.0 Â± 2.0 <sup>*</sup></td>
+</tr>
+<tr>
+<td style="background:#E77C72"><a href="http://en.wikipedia.org/wiki/Early_Cambrian" title="Early Cambrian">Lower/Early</a></td>
+<td style="background:#E77C72">513.0 Â± 2.0</td>
+</tr>
+
+<tr>
+<td rowspan="10" style="background:#CCD891"><a href="http://en.wikipedia.org/wiki/Proterozoic" title="Proterozoic">Proterozoic</a><sup>5</sup></td>
+<td rowspan="3" style="background:#CAA595"><a href="http://en.wikipedia.org/wiki/Neoproterozoic" title="Neoproterozoic">Neo-<br />
+proterozoic</a></td>
+<td colspan="2" style="background:#EAD8BC"><a href="http://en.wikipedia.org/wiki/Ediacaran" title="Ediacaran">Ediacaran</a></td>
+<td colspan="2">First <a href="http://en.wikipedia.org/wiki/Metazoa" title="Metazoa">multi-celled animals</a>. Edicarian fauna (<a href="http://en.wikipedia.org/w/index.php?title=Vendobionta&amp;action=edit" class="new" title="Vendobionta">vendobionta</a> flourish worldwide. Simple <a href="http://en.wikipedia.org/wiki/Trace_fossil" title="Trace fossil">trace fossils</a> from worm-like animals. First <a href="http://en.wikipedia.org/wiki/Porifera" title="Porifera">sponges</a>.</td>
+
+<td style="background:#EAD8BC">542.0 Â± 1.0 <sup>*</sup></td>
+</tr>
+<tr>
+<td colspan="2" style="background:#DCABAA"><a href="http://en.wikipedia.org/wiki/Cryogenian" title="Cryogenian">Cryogenian</a></td>
+<td colspan="2">Possible <a href="http://en.wikipedia.org/wiki/Snowball_Earth" title="Snowball Earth">snowball Earth</a> period, <a href="http://en.wikipedia.org/wiki/Rodinia" title="Rodinia">Rodinia</a> begins to break up</td>
+<td style="background:#DCABAA">630 +5/-30 <sup>*</sup></td>
+
+</tr>
+<tr>
+<td colspan="2" style="background:#CBA46C"><a href="http://en.wikipedia.org/wiki/Tonian" title="Tonian">Tonian</a></td>
+<td colspan="2">First <a href="http://en.wikipedia.org/wiki/Acritarch" title="Acritarch">acritarch</a> radiation</td>
+<td style="background:#CBA46C">850 <sup>6</sup></td>
+</tr>
+<tr>
+<td rowspan="3" style="background:#DDC288"><a href="http://en.wikipedia.org/wiki/Mesoproterozoic" title="Mesoproterozoic">Meso-<br />
+proterozoic</a></td>
+
+<td colspan="2" style="background:#DDC288"><a href="http://en.wikipedia.org/wiki/Stenian" title="Stenian">Stenian</a></td>
+<td colspan="2">Formation of <a href="http://en.wikipedia.org/wiki/Rodinia" title="Rodinia">Rodinia</a></td>
+<td style="background:#DDC288">1000 <sup>6</sup></td>
+</tr>
+<tr>
+<td colspan="2" style="background:#DDC288"><a href="http://en.wikipedia.org/wiki/Ectasian" title="Ectasian">Ectasian</a></td>
+<td colspan="2"> </td>
+<td style="background:#DDC288">1200 <sup>6</sup></td>
+</tr>
+
+<tr>
+<td colspan="2" style="background:#DDC288"><a href="http://en.wikipedia.org/wiki/Calymmian" title="Calymmian">Calymmian</a></td>
+<td colspan="2"> </td>
+<td style="background:#DDC288">1400 <sup>6</sup></td>
+</tr>
+<tr>
+<td rowspan="4" style="background:#B3B25E"><a href="http://en.wikipedia.org/wiki/Paleoproterozoic" title="Paleoproterozoic">Paleo-<br />
+proterozoic</a></td>
+<td colspan="2" style="background:#B3B25E"><a href="http://en.wikipedia.org/wiki/Statherian" title="Statherian">Statherian</a></td>
+<td colspan="2">First <a href="http://en.wikipedia.org/wiki/Eukaryote" title="Eukaryote">complex single-celled life</a></td>
+
+<td style="background:#B3B25E">1600 <sup>6</sup></td>
+</tr>
+<tr>
+<td colspan="2" style="background:#B3B25E"><a href="http://en.wikipedia.org/wiki/Orosirian" title="Orosirian">Orosirian</a></td>
+<td colspan="2">Transition to <a href="http://en.wikipedia.org/wiki/Oxygen" title="Oxygen">oxygen</a> <a href="http://en.wikipedia.org/wiki/Atmosphere" title="Atmosphere">atmosphere</a></td>
+<td style="background:#B3B25E">1800 <sup>6</sup></td>
+</tr>
+<tr>
+
+<td colspan="2" style="background:#B3B25E"><a href="http://en.wikipedia.org/wiki/Rhyacian" title="Rhyacian">Rhyacian</a></td>
+<td colspan="2"> </td>
+<td style="background:#B3B25E">2050 <sup>6</sup></td>
+</tr>
+<tr>
+<td colspan="2" style="background:#B3B25E"><a href="http://en.wikipedia.org/wiki/Siderian" title="Siderian">Siderian</a></td>
+<td colspan="2"> </td>
+<td style="background:#B3B25E">2300 <sup>6</sup></td>
+</tr>
+<tr>
+<td rowspan="4" style="background:#99ADAC"><a href="http://en.wikipedia.org/wiki/Archaean" title="Archaean">Archaean</a><sup>5</sup></td>
+
+<td style="background:#CBCDC8"><a href="http://en.wikipedia.org/wiki/Neoarchean" title="Neoarchean">Neoarchean</a></td>
+<td colspan="4">Stabilization of most modern <a href="http://en.wikipedia.org/wiki/Craton" title="Craton">cratons</a>, possible <a href="http://en.wikipedia.org/wiki/Mantle_%28geology%29" title="Mantle (geology)">mantle</a> overturn event</td>
+<td style="background:#CBCDC8">2500 <sup>6</sup></td>
+</tr>
+<tr>
+<td style="background:#B2B5AF"><a href="http://en.wikipedia.org/wiki/Mesoarchean" title="Mesoarchean">Mesoarchean</a></td>
+<td colspan="4">First <a href="http://en.wikipedia.org/wiki/Stromatolite" title="Stromatolite">stromatolites</a></td>
+
+<td style="background:#B2B5AF">2800 <sup>6</sup></td>
+</tr>
+<tr>
+<td style="background:#999791"><a href="http://en.wikipedia.org/wiki/Paleoarchean" title="Paleoarchean">Paleoarchean</a></td>
+<td colspan="4">First known <a href="http://en.wikipedia.org/wiki/Phototroph" title="Phototroph">oxygen producing</a> <a href="http://en.wikipedia.org/wiki/Bacteria" title="Bacteria">bacteria</a></td>
+<td style="background:#999791">3200 <sup>6</sup></td>
+</tr>
+<tr>
+
+<td style="background:#809090"><a href="http://en.wikipedia.org/wiki/Eoarchean" title="Eoarchean">Eoarchean</a></td>
+<td colspan="4"><a href="http://en.wikipedia.org/wiki/Prokaryote" title="Prokaryote">Simple single-celled life</a></td>
+<td style="background:#809090">3600 <sup>6</sup></td>
+</tr>
+<tr>
+<td style="background:#809090"><a href="http://en.wikipedia.org/wiki/Hadean" title="Hadean">Hadean</a><sup>5,7</sup></td>
+<td colspan="5">4100 MYA - Oldest known rock;<br />
+4400 MYA - Oldest known mineral;<br />
+4570 MYA - Formation of <a href="http://en.wikipedia.org/wiki/Earth" title="Earth">Earth</a></td>
+
+<td style="background:#809090">3800</td>
+</tr>
+</table>
+<ol>
+<li>Paleontologists often refer to <a href="http://en.wikipedia.org/wiki/Faunal_stage" title="Faunal stage">faunal stages</a> rather than geologic Periods. The stage nomenclature is quite complex. See <a href="http://en.wikipedia.orghttp://flatpebble.nceas.ucsb.edu/cgi-bin/bridge.pl?action=startScale" class='external text' title="http://flatpebble.nceas.ucsb.edu/cgi-bin/bridge.pl?action=startScale">Harland</a> for an excellent time ordered list of faunal stages.</li>
+<li>Dates are slightly uncertain with differences of a few percent between various sources being common. This is largely due to uncertainties in <a href="http://en.wikipedia.org/wiki/Radiometric_dating" title="Radiometric dating">radiometric dating</a> and the problem that deposits suitable for radiometric dating seldom occur exactly at the places in the geologic column where they would be most useful. The dates and errors quoted above are according to the <a href="http://en.wikipedia.org/wiki/International_Commission_on_Stratigraphy" title="International Commission on Stratigraphy">International Commission on Stratigraphy</a> 2004 time scale. Dates labeled with a * indicate boundaries where a <a href="http://en.wikipedia.org/wiki/Global_Boundary_Stratotype_Section_and_Point" title="Global Boundary Stratotype Section and Point">Global Boundary Stratotype Section and Point</a> has been internationally agreed upon.</li>
+
+<li>Historically, the <a href="http://en.wikipedia.org/wiki/Cenozoic" title="Cenozoic">Cenozoic</a> has been divided up into the <a href="http://en.wikipedia.org/wiki/Quaternary" title="Quaternary">Quaternary</a> and <a href="http://en.wikipedia.org/wiki/Tertiary" title="Tertiary">Tertiary</a> sub-eras, as well as the <a href="http://en.wikipedia.org/wiki/Neogene" title="Neogene">Neogene</a> and <a href="http://en.wikipedia.org/wiki/Paleogene" title="Paleogene">Paleogene</a> periods. However, the International Commission on Stratigraphy has recently decided to stop endorsing the terms Quaternary and Tertiary as part of the formal nomenclature.</li>
+
+<li>In North America, the Carboniferous is subdivided into <a href="http://en.wikipedia.org/wiki/Mississippian" title="Mississippian">Mississippian</a> and <a href="http://en.wikipedia.org/wiki/Pennsylvanian" title="Pennsylvanian">Pennsylvanian</a> Periods.</li>
+<li>The <a href="http://en.wikipedia.org/wiki/Proterozoic" title="Proterozoic">Proterozoic</a>, <a href="http://en.wikipedia.org/wiki/Archean" title="Archean">Archean</a> and <a href="http://en.wikipedia.org/wiki/Hadean" title="Hadean">Hadean</a> are often collectively referred to as <a href="http://en.wikipedia.org/wiki/Precambrian" title="Precambrian">Precambrian Time</a>, and sometimes also as the <a href="http://en.wikipedia.org/wiki/Cryptozoic" title="Cryptozoic">Cryptozoic</a>.</li>
+
+<li>Defined by absolute age (<a href="http://en.wikipedia.org/wiki/Global_Standard_Stratigraphic_Age" title="Global Standard Stratigraphic Age">Global Standard Stratigraphic Age</a>).</li>
+<li>Though commonly used, the <a href="http://en.wikipedia.org/wiki/Hadean" title="Hadean">Hadean</a> is not a formal eon and no lower bound for the Eoarchean has been agreed upon. The Hadean has also sometimes been called the <a href="http://en.wikipedia.org/wiki/Priscoan" title="Priscoan">Priscoan</a>.</li>
+</ol>
+
+
+Original Source: [Wikipedia](http://en.wikipedia.org/wiki/Geologic_timescale).  All text is available under the terms of the [GNU Free Documentation License](http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License).

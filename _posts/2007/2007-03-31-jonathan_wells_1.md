@@ -1,0 +1,73 @@
+---
+layout: article
+title: 'Jonathan Wells: Who is He, What is He Doing, and Why?'
+date: '2007-03-31 14:50:02 -0700'
+author: Burt Humburg
+mt_id: 2929
+blog_id: 2
+post_id: 2929
+basename: jonathan_wells_1
+---
+In 1999-2000, the Kansas State Board of Education was running their PR machine full-bore, trying to convince the public that the central organizing theory of modern biology and biotechnology was a dead idea. Creationist speaker after creationist speaker was flown into town to put on a dog and pony show. If you were a Young-Earth Creationist, you might have seen Duane Gish/Fred Whitehead nondebate. If you liked ID creationism, you might have seen Johnson or Wells. Back then, it was a very big tent.
+
+Well, KCFS wasn't going to take things lying down, so we thought we'd prepare a few flyers to inform the audience to help them be ready for the creationists when they arrived. One of those flyers, "Jonathan Wells: Who is He, What is He Doing, and Why?" turned out to be pretty important.
+
+Fast forward to Spring 2005, after the creationists had taken over the state board of education again and ran roughshod over the accepted processes of curricular review. They rejected the recommendations of the experts who developed very good standards and held a show trial, in which evolution would be dragged before them to answer the tough ID creationists' questions.
+
+The details of the story are described elsewhere, but one of the "witnesses" was Jonathan Wells, who during his testimony claimed that he was not influenced by religion. Within the span of an hour, KCFS was able to print several copies of our Wells flyer to distribute to interested members of the press. The result was that in the following day's newspapers, Jonathan Wells testimony and his quotations were seen in juxtaposition to each other, making of his credibility to journalists what those in the know had deemed of it for years.
+
+Find the flyer on the flipside. It's also available in [RTF](http://www.pandasthumb.org/archives/images/wells_long_v4.rtf) format. Please note that the DI has since changed their name from the Center for the Renewal of Science and Culture to simply the Center for Science and Culture. So clearly it's no longer religious.
+
+**Jonathan Wells: Who Is He, What Is He Doing, and Why?** 
+
+**CRSC and the Wedge** 
+Jonathan Wells is a Senior Fellow of the Center for Renewal of Science and Culture (CRSC), a branch of the Discovery Institute, a privately-funded, conservative think-tank in Seattle. The CRSC believes that science in general, and the theory of evolution in particular, are responsible for a materialistic, atheistic philosophy whose "destructive cultural consequences" in our society must be reversed. 
+
+The CRSC has a strategy called the Wedge for replacing science as it is currently practiced with "intelligent design", a theistic science which would allow supernatural causes. 
+
+The CRSC explicitly rejects the commonly-held view that God uses the evolutionary process to bring about His intended design. They also claim that science, by choosing to limit itself to natural explanations of the physical world, actively asserts that God does not exist. They reject the widely accepted belief that science investigates only part of the world, the physical, while our spiritual nature apprehends the moral, aesthetic, and religious aspects of the world. 
+
+By portraying evolution as "atheistic" and dismissing religious beliefs that acknowledge the limited role of natural science, the CRSC hopes to drive a wedge between those who acknowledge evolution and those who are religious. They insist that one must choose between being an atheistic supporter of evolution or a theistic opponent. 
+
+CRSC's long-term agenda is to extend "intelligent design" into all aspects of the culture - as their name indicates they hope to renew science and culture. They believe that science can, and should, investigate what constitutes "natural" ethics and morals, and that science can discover which behaviors transgress the intended purposes of human design. CRSC's long-range plan for achieving its Wedge Strategy can be found at [http://www.freethought-web.org/ctrl/archive/wedge_document.html](http://www.freethought-web.org/ctrl/archive/ wedge_document.html). 
+
+**Jonathan Wells** 
+Jonathan Wells has been a member of the Discovery Institute since 1996. As early as the 1970's, as a member of the Reverend Sun Myung Moon's Unification Church, Wells became convinced that evolution was false because it conflicted with his church's belief that humankind was specifically designed by God. On the urging of Moon, Wells went to Yale to pursue a divinity degree, focusing his work on arguments against evolution. Later, in the early '90s, he went back to school at Berkeley to get a biology degree to bolster his credentials in fighting evolution. (See "In His Own Words" below).  Soon after getting his degree, he began work at the Discovery Institute. 
+
+Wells' new book, "Icons of Evolution," is characteristic of the "debunking evolution" style common to anti-evolutionists. Like the young-earth creationists who claim scientific evidence for the flood or an eight-thousand year-old earth, Wells selectively looks at inconsistencies, disagreements, or errors in the scientific data. He ignores the vast body of knowledge that supports the topic he is attacking and fails to acknowledge that the scientific community itself has addressed the problems Wells is describing. 
+
+For instance, one of the "icons" that Wells mentions is Haeckle's embryos, an issue which has been thoroughly discussed in the scientific literature. Haeckel's main idea, that "ontogeny recapitulates phylogeny", has since been rejected. Wells' legitimate complaint that Haeckel's drawings continue to show up in textbooks reflects the fact that textbooks in all scientific fields are often some years behind current knowledge and often portray simplified popularizations that are necessarily incomplete. His use of these stories is a "straw man" tactic, using his incomplete version of the story to support his cause. 
+
+**Conclusion** 
+The purpose of Wells' book is drive the wedge a little deeper -- to open the door for his creationist "theory of intelligent design." Wells is using these "icon" stories to advance his anti-evolution beliefs -- beliefs that he has had for many years and are based not on science but on religious convictions. He selectively tells only part of the story about his "icons", and then jumps to the conclusion that evolution is unsubstantiated. Given his background, it is hard to consider this an objective, scientific approach. Wells' icons do not, as he claims, constitute a serious challenge to the theory of evolution. 
+
+**In His Own Words**
+Information in this flier was gathered from a number of documents. Here is a sampling from the writings of Jonathan Wells. 
+
+In "Why I Went for a Second Ph.D.," by Jonathan Wells, (1996), Wells explains how he first decided on a lifelong goal of combating evolution. 
+
+> He \[Rev. Sun Myung Moon\] frequently criticized Darwin's theory that living things originated without God's purposeful, creative activity... 
+> 
+> Father's words, my studies, and my prayers convinced me that I should devote my life to destroying Darwinism, just as many of my fellow Unificationists had already devoted their lives to destroying Marxism. When Father chose me (along with about a dozen other seminary graduates) to enter a Ph.D. program in 1978, I welcomed the opportunity to prepare myself for battle." 
+> 
+> [http://www.tparents.org/library/unification/talks/wells/DARWIN.htm](http://www.tparents.org/library/unification/talks/wells/DARWIN.htm) 
+
+This article on the Unification Church True Parents website, "Dr. Jonathan Wells Returns to UTS" \[Unification Theological Seminary\], (1997), tells more of the history of Well's fight against evolution. 
+
+> The second Ph.D. in biology from the University of California at Berkeley has been invaluable in helping Dr. Wells to fulfill his goal. With his academic credentials, he is in a uniquely powerful position to attack Darwinian evolution and he has done so in many debates and discussions in recent years. 
+> 
+> During his studies in biology, Dr. Wells' disagreement with Darwinism became even more fundamental.... \[Wells explained\], 'Darwin's theory excludes design and therefore logically excludes God. That's the source of its atheism.'
+> 
+> [http://www.tparents.org/library/unification/publications/cornerst/cs970506/cst%5Fdr%2Djonathan.html](http://www.tparents.org/library/unification/publications/cornerst/cs970506/cst%5Fdr%2Djonathan.html) 
+
+Members of the CRSC seldom describe their "theory" of how intelligent design creationism has happened. However, in the article "Evolution by Design," (1997), Wells describes his belief that the transitions between species have been designed by special creation and have not occurred by common descent, and that the ultimate purpose has been to build a suitable environment on Earth for the eventual creation of human beings. 
+
+> \[I\] assume that the human species was planned before life began and that the history of life is the record of how this plan was implemented. ... Primitive organisms had to pave the way for the stable ecosystems we see today.  A barren planet had to become a garden... 
+> 
+> The first human baby presumably had to be nurtured by a creature very much like itself -- a humanlike primate. This creature, in turn, could only have been nurtured by a creature intermediate in some respects between it and a more primitive mammal. In other words, a plan for the emergence of human beings must have included something like the succession of prehistoric forms we find in the fossil record.... 
+> 
+> Although this process is superficially similar to the Darwinian notion of common descent, design theory differs from the latter in maintaining that predecessors need not be biological ancestors but only providers of essential nourishment and protection. ..." 
+> 
+> [http://www.tparents.org/Library/Unification/Talks/Wells/nat-select.htm](http://www.tparents.org/Library/Unification/Talks/Wells/nat-select.htm)
+
+Kansas Citizens for Science is an organization of educators, parents, students, scientists and other Kansans who are concerned with raising the quality of science education in our state. To learn more about KCFS, or to join, see [http://www.kcfs.org](http://www.kcfs.org).

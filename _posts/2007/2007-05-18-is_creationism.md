@@ -1,0 +1,29 @@
+---
+layout: article
+title: Is Creationism Child's Play?
+date: '2007-05-18 01:24:57 -0700'
+author: Nick Matzke
+mt_id: 3024
+blog_id: 2
+post_id: 3024
+basename: is_creationism
+---
+[<img src="http://www.pandasthumb.org/images/2007-05-18_Science_covtoc.dp.gif" alt="Cover of Science, behavioral science issue, May 18" width="108" height="145" style="float:left;" />](http://www.sciencemag.org/content/vol316/issue5827/index.dtl)After you have been in the habit of creationism-watching for a few years you become extremely familiar with all of the usual creationist arguments, half-baked talking points, unchecked assertions taken as obviously true, etc.  If you really get into it you learn the creationist movement's long and specific history, and you learn that whatever form of creationism you are studying at the moment inevitably traces back basically to American protestant fundamentalism, and before that to something sometimes called "naive Biblicism."\* 
+
+But there comes a point when you don't think you can learn anything much new about the creationists.  You might stumble on a new mutation of a creationist urban legend or quote mine,  or a new bit of creationist history [like Dean Kenyon actually being a young-earther despite this fact being carefully hidden by the ID movement for 15+ years](http://www.pandasthumb.org/archives/2007/05/nas_sackler_col.html).  But basically, you don't expect to find out much that is new.  
+
+Well, if you thought you were at this point, you would be wrong. A [review article in this week's _Science_ magazine](http://www.sciencemag.org/cgi/content/full/316/5827/996) (with a special focus on behavioral science) shows that scholars can ring out yet another twist in creationism studies.
+
+Historians and creationism watchers have long noted several strong and quite reliable psychological generalizations that can be made about creationists -- e.g., how creationists jump to conclusions based on what naively seems like "common sense" to them, an almost instinctual dualism- and design-based thinking, a place of pride for "childlike faith", an old-fashioned Baconian attitude to science (Facts good!  Theories bad!!), a severe difficulty with probabilities and other abstract topics, a severe case of typological thinking and an inability to even correctly conceptualize a particular proposed "transitional" organism, an amazingly uncritical acceptance and blind repetition of anything their own authorities say, etc...  These generalizations apply to young-earthers right through to old-earth creationists (and therefore IDers, which are a mix of the two).  
+
+In the new _Science_ paper (Paul Bloom and Deena Skolnick Weisberg, 2007, "[Childhood Origins of Adult Resistance to Science](http://www.sciencemag.org/cgi/content/full/316/5827/996)," _Science_, 316(5827), 996-997, 18 May 2007, DOI: [10.1126/science.1133398](http://www.sciencemag.org/cgi/content/full/316/5827/996)) Bloom and Weisberg independently identify many of these psychological generalizations and point out that they can all be traced to biases regularly found in studies of childhood cognition and childrens' intuitions and conclusions about scientific topics.  They hypothesize that American resistance to evolution, in particular, can be traced to these factors:
+
+> \[From the conclusion\]
+> 
+> These developmental data suggest that resistance to science will arise in children when scientific claims clash with early emerging, intuitive expectations. This resistance will persist through adulthood if the scientific claims are contested within a society, and it will be especially strong if there is a nonscientific alternative that is rooted in common sense and championed by people who are thought of as reliable and trustworthy. This is the current situation in the United States, with regard to the central tenets of neuroscience and evolutionary biology. These concepts clash with intuitive beliefs about the immaterial nature of the soul and the purposeful design of humans and other animals, and (in the United States) these beliefs are particularly likely to be endorsed and transmitted by trusted religious and political authorities (24). Hence, these fields are among the domains where Americans' resistance to science is the strongest.
+
+It is one thing to vaguely note, as many creationism observers have, that there is a peculiar childlike quality to many creationists and their methods of rhetoric and reasoning (e.g., AiG director Ken Ham's main message to the kiddies: "Were you _there_?")  It is quite another thing to have this all tied directly to the scientific literature on childhood psychology.  As far as I know this is the first time someone has made the connection explicitly (although inevitably someone can probably turn up precursors).
+
+_Footnotes_
+
+\* This is a rather crude description, but basically "naive Biblicism" describes the following sentiment: the Bible says it, I believe it, "it" being whatever I perceive to be the "common sense" reading according to an English reading with 1800s American "common sense" assumptions.  This sort of thing was ubiquitous in early-1800s America where there was suddenly no established state church and where the only remaining authority was the Bible, interpreted by every man for himself -- kind of like the European Protestant Reformation redone on steroids.  This produced the wild proliferation of American denominations and sects, and of course it persists strongly in 20th-century fundamentalism/conservative evangelicalism.  Read Arthur McCalla's (2006) _[The Creationist Debate](http://www.google.com/search?hl=en&amp;q=%22The+Creationist+Debate%22+McCalla&amp;btnG=Search)_ and Mark Noll's (2002) _[America's God](http://www.google.com/search?sourceid=mozclient&amp;ie=utf-8&amp;oe=utf-8&amp;q=America&apos;s+God%2C+Noll)_ for serious treatments.

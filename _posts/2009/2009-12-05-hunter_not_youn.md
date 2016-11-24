@@ -1,0 +1,17 @@
+---
+layout: article
+title: 'Hunter: not young earther.  Agnostic-age earther?'
+date: '2009-12-05 12:16:36 -0700'
+author: Nick Matzke
+mt_id: 4491
+blog_id: 2
+post_id: 4491
+basename: hunter_not_youn
+---
+Cornelius Hunter [says he isn't a young-earth creationist](http://darwins-god.blogspot.com/2009/12/de-novo-genes-criticism-from-nick.html), so I have edited that part of my [previous blog post](http://pandasthumb.org/archives/2009/11/hunter-vs-hunt.html).  However, he admits he has never written about his position on the age of the earth.  This is pretty incredible for anyone who books and blogs on the evolution/creationism debate. 
+
+Furthermore, Hunter bashes not only evolutionists for being inappropriately "religious" -- he thinks that anyone who draws any conclusions about anything being the result of a natural process is implicitly and illegitimately assuming "God wouldn't have done it that way" and is thus religious -- Hunter _also_ has spent [many posts taking on Immanuel Kant, Pierre-Simon Laplace, and other figures who developed the Nebular Hypothesis](http://www.google.com/search?hl=en&amp;rlz=1B3GGGL_enUS239US239&amp;q=site%3Adarwins-god.blogspot.com+kant+solar+system&amp;aq=f&amp;oq=&amp;aqi=) and its descendants as explanations for the formation of the Solar System and its features (for example, the fact that the planets lie in a plane and revolve in the same direction).  Hunter's argument, as always, is "How _dare_ those scientists _assume_ that God _wouldn't_ have made the planets lie in a plane and revolve in the same direction?!?  They are clearly doing theology!  Religion drives science and it matters!  Look at me, I have just single-handedly refuted the whole naturalistic origins of the Solar System, it's just as reasonable to think God did it according to his good pleasure, and when I conclude this, I'm not invoking religion, my opponents are!  Nyah nyah nyah!"
+
+Obviously this position is incredibly close to young-earth creationism, so I concluded that's where Hunter was.  He says he's not -- but prevarication in these matters is actually quite common with a certain breed of ID/creationist.  Most of us would assume that "I'm not a young-earth creationist" means that someone is an old-earther.  However, this is not a valid deduction, because there is another position some creationists have -- basically "agnostic on the age creationism."  Sometimes, for a combination of crass political motives, and extreme application of creationist naive Baconianism, creationists will just avoid the topic of the age of the earth, and hope that it doesn't come up.  (Baconianism is used to describe the position, common with evangelicals and fundamentalists back to the 1700s, that only direct eyewitness observation is science, all else is "theory", i.e. unreliable pointless guessing, so we might as well prefer "GodDidIt".  It is extremely popular in creationist reasoning and rhetoric throughout the 20th century, although sometimes disguised.  Hunter is an explicit proponent of Baconianism in his books.)  Other examples of agnostic-age creationists are Forrest Mims and Phillip Johnson.
+
+So: my new position is that Cornelius Hunter is an agnostic-on-the-age-of-the-earth creationist.  As I've noted before, this position is quite possibly even more ridiculous than young-earth creationism itself.  If I'm wrong, all Hunter has to do to refute me is tell us how old he thinks the Earth is, and why.

@@ -1,0 +1,32 @@
+---
+layout: article
+title: The resurrection of Omphalos
+date: '2010-07-05 16:45:30 -0700'
+author: Richard B. Hoppe
+mt_id: 4680
+blog_id: 2
+post_id: 4680
+basename: the_resurrectio
+---
+I've said in several venues that should the theocrats win, the next day blood will flow down the aisles and under the pews (one hopes only metaphorically, though that's by no means guaranteed).  We see that ~~metaphor~~ scenario playing out in a number of venues in contemporary Christianity.  Ken Ham [rails against theistic evolution](http://www.christianbook.com/Christian/Books/cms_content?page=736863&amp;sp=1016&amp;event=1016RNF), arguing that its acceptance of an old earth/universe erodes the authority of scripture, and now Albert Mohler, President of Southern Baptist Theological Seminary (William Dembski's former employer), all but accuses Francis Collins' [BioLogos Forum](http://biologos.org/) of apostasy (or [so Darrell Falk interprets it](http://biologos.org/blog/how-should-biologos-respond-to-dr-albert-mohler/)) on much the same grounds, while endorsing the venerable appearance of age notion to account for the data of physics, geology, paleontology, and evolutionary biology.
+
+More below the fold
+
+In 1857 Phillip Henry Gosse published [Omphalos; an attempt to untie the geological knot](http://www.archive.org/details/omphalosanattem00gossgoog), in which he argued (among other things) that the reason that the world appears to be older than implied by the Bible is that it was created to look old.  Gosse distinguished between a diachronic interpretation of the geological record--it happened in time as the evidence suggests--with what he called a "prochronic" interpretation: God created the world at some time in the middle of its history and gave it the appearance of age, creating by fiat (false) evidence of (a non-existent) past history.  And he really meant that, to the point that he illustrated it with what amounts precisely to [Last Thursdayism](http://skepticwiki.org/index.php/Last_Thursdayism):
+
+> Let us suppose that this present year 1867 \[sic: I suspect this is a scanning error\] had been the particular epoch in the projected life-history of the world, which the Creator selected as the era of its actual beginning. At his fiat it appears; but in what condition? Its actual condition at this moment: -- whatever is now existent would appear, precisely as it does appear. There would be cities filled with swarms of men; there would be houses half-built; castles fallen into ruins; pictures on artists' easels just sketched in; wardrobes filled with half-worn garments; ships sailing over the sea; marks of birds' footsteps on the mud; skeletons whitening the desert sands; human bodies in every stage of decay in the burial-grounds. These and millions of other traces of the past would be found, because they are found in the world now; they belong to the present age of the world; and if it had pleased God to call into existence this globe at this epoch of its life-history, the whole of which lay like a map before his infinite mind, it would certainly have presented all these phenomena; not to puzzle the philosopher, but because they are inseparable from the condition of the world at the selected moment of irruption into its history; because they constitute its condition; they make it what it is. (pp. 352-353)
+
+
+Now compare Albert Mohler, speaking at the Ligonier Ministries 2010 National Conference, in [a transcript prepared by BioLogos](http://www.biologos.org/resources/albert-mohler-why-does-the-universe-look-so-old):
+
+> I want to suggest to you that it is our responsibility to give an answer when we are asked the question "Why does the universe look so old?" In the limitations of time, it is impossible that we walk through every alternative and answer every sub-question.  But I want to suggest to you that the most natural understanding from the scripture of how to answer that question comes to this: The universe looks old because the creator made it whole. When he made Adam, Adam was not a fetus; Adam was a man; he had the appearance of a man. By our understanding that would've required time for Adam to get old but not by the sovereign creative power of God. He put Adam in the garden. The garden was not merely seeds; it was a fertile, fecund, mature garden. The Genesis account clearly claims that God creates and makes things whole.
+
+To be fair, Mohler also implicates wear and tear and (by implication) the Fall; his "Last Thursday" is taken to be the Biblical 6,000 years ago.  But as always, the Flood bears some responsibility:
+
+> Secondly--and very quickly--if I'm asked why does the universe look so old, I have to say it looks old because it bears testimony to the affects of sin. And testimony of the judgment of God. It bears the effects of the catastrophe of the flood and catastrophes innumerable thereafter. I would suggest to you that the world looks old because as Paul says in Romans chapter 8 it is groaning. And in its groaning it does look old. It gives us empirical evidence of the reality of sin.
+
+On BioLogos Darrell Falk asks [How Should BioLogos Respond to Dr. Albert Mohler's Critique of The BioLogos Initiative?](http://biologos.org/blog/how-should-biologos-respond-to-dr-albert-mohler/).  I don't know, but I want the popcorn concession.  What these folks are running into is the same problem that has plagued religions since centralized religious authority was invented: there is no mutually agreed and principled way to resolve disputes among competing interpretations of religious texts.  And so we see interminable theological arguments leading to denominational schisms and (in the extreme) to sectarian warfare.  BioLogos already interprets Mohler of accusing it of apostasy, and it looks like he fears that it is potentially sliding slowly down the slippery slope to (gasp!) theistic evolution, which Mohler describes as "the consummate oxymoron."
+
+As an aside, I have to say that I did find it amusing in Falk's post that he characterizes Dawkins' _The Selfish Gene_ as God's way of making it clear what "an atheistic view of the biological data" means.  Dawkins as an instrument of God.  Wow!  The mind boggles.
+
+_Postscript_  After writing this I found that Ophelia Benson has also [just posted on it](http://www.butterfliesandwheels.org/2010/contortionism/), focusing mainly on Falk's BioLogos post linked above.

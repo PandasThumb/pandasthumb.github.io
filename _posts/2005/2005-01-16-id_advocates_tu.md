@@ -1,0 +1,232 @@
+---
+layout: article
+title: ID Advocates Turning the Media Off-Target
+date: '2005-01-16 23:07:09 -0700'
+author: Wesley R. Elsberry
+mt_id: 674
+blog_id: 2
+post_id: 674
+basename: id_advocates_tu
+---
+\[[Comments](http://www.antievolution.org/cgi-bin/ikonboard/ikonboard.cgi?s=41e738ad560affff;act=ST;f=14;t=4)\]
+
+There was [an article by Bill Toland](http://www.post-gazette.com/pg/05009/439503.stm) in the _Pittsburgh Post-Gazette_ that was published last weekend about "intelligent design" and the situation in Dover. I had the privilege of being interviewed by Toland and quoted a couple of times in the article.
+
+Journalists are people who know a lot about communicating briefly with other people, and usually have no very detailed knowledge of specific topics. So they do research, and interview people, in order to get a fix on just what the story might be. Sometimes this works very well, and sometimes not so well. Errors of fact may be made. Quotes may not be exact. And, sometimes, journalists don't treat every possible viewpoint as being of equal value.
+
+The Discovery Institute's Center for ~~the Renewal of~~ Science and Culture has long had a standard method of response when "intelligent design" is mentioned in prominent news articles: the press release. The formula is simple: refer to opinions and reports as "objective" if they credulously take the DI C~~R~~SC's line, and denounce reports as "biased" if they allow even a hint of criticism or skepticism to be reported. They've recently discovered blogging. So now there is a blog at http://www.evolutionnews.org where DI staffers let the press know in the bluntest terms possible just how they feel about recent coverage. (I'm not going to complain about the domain name. Fair's fair, and we've picked up http://www.evolutionnews.net and pointed it where it can do the most good.) Blogging is different from doing press releases. For one thing, it is a lot cheaper. This means that, if you have the time, you can do a lot more kvetching than through press releases. And apparently DI staffers have the time. Robert Crowther of the DI has a [post](http://www.discovery.org/scripts/blogs/csc.php/2005/01/12/p63#more63) up to take Bill Toland to task for his article...
+
+What is interesting is that for a group complaining about inaccuracy in the media, the Discovery Institute shows a curious bias in their complaints. There were a number of inaccuracies in the original article (go to the page and note the corrections at the bottom) which the Discovery Institute passes over in silence, and various things accurately reported by Toland that the Discovery Institute tries to spin its way. This particular spin job is the work of Robert Crowther, an employee of the Discovery Institute, posting on a blog whose domain is owned by the Discovery Institute and which is hosted by the Discovery Institute, and yet the disclaimer at the bottom says the Discovery Institute is not responsible for the content of blog posts. It seems they were prescient in this case, as there is much to disclaim.
+
+While both the spin and the missed inaccuracies are of interest, the first step is a traversal of the carnival fun-house that is the DI's own spin zone.
+
+First up for the DI's critique is Toland's first sentence.
+
+Toland wrote:
+
+> The flap over "intelligent design," the latest terminology behind the old theory that the universe and its organisms developed at the discretion of a supernatural creator, continues to unfold in York County's Dover Area School District, where school directors want teachers to talk about the theory in a ninth-grade biology course.
+
+Crowther wrote:
+
+> Furthermore, journalistic integrity requires that you attribute a claim such as this to the person or group that made it. Only critics of design claim this is the definition. Design scientists disagree.
+
+"Intelligent design" advocates actually do say things that show that Toland is far closer to the mark than Crowther would like to admit. Crowther quotes William Dembski to set up what Crowther certifies as a media-worthy definition of "intelligent design". I have a quote from Dembski that I would like to see the media use when defining "intelligent design", if they need an ID advocate's take on it:
+
+Dembski wrote:
+
+> The world is a mirror representing the divine life. The mechanical philosophy was ever blind to this fact. Intelligent design, on the other hand, readily embraces the sacramental nature of physical reality. Indeed, intelligent design is just the Logos theology of John's Gospel restated in the idiom of information theory. 
+> 
+> _Signs of Intelligence_
+
+Or we could turn to DI C~~R~~SC Senior Advisor Phillip Johnson and get his view on what "intelligent design" is:
+
+Johnson wrote:
+
+> Our strategy has been to change the subject a bit so that we can get the issue of intelligent design, which really means the reality of God, before the academic world and into the schools. 
+> 
+> American Family Radio, Jan 10, 2003 broadcast.
+
+There's plenty of times that the ID advocates, including the Fellows of the DI C~~R~~SC, have let the religious cat out of the bag.
+
+Check out [the NMSR quotes page](http://www.nmsr.org/idquotes.htm) for some more. And that's barely scratching the surface.
+
+The sad facts that Crowther would prefer that the media not notice is that "intelligent design" really is just the latest label to be put on good old religious antievolutionism; that even the ID advocates will tell audiences in their base of support(\*) that this is about God; that the pickings are slim when it comes to finding **scientists qualified to discuss evolution** among the Fellows of the DI C~~R~~SC; and that there is no such thing as "the scientific theory of intelligent design". 
+
+> (\*)
+> 
+> Alongside a focus on influential opinion-makers, we also seek to build up a popular base of support among our natural constituency, namely, Christians.
+> 
+> [The Wedge Strategy](http://www.antievolution.org/features/wedge.html)
+
+One will find that the very same arguments are found in proposed materials for "scientific creationism", "intelligent design", and "evidence against evolution". (Each further label is a subset of the earlier ones.)  
+
+As we've seen, ID advocates tend to tell believers just what they want to hear -- that religion is part and parcel of the ID package.
+
+The DI C~~R~~SC Fellows include a bunch of philosophers, lawyers, engineers, mathematicians, theologians, and one guy who has credentials in three of those categories. But actually practicing scientists are quite uncommon in that select list. If Crowther wanted a definition of ID from a scientist, he picked the wrong guy to quote from, for Dembski's sole scientific credential is a long-neglected bachelor's degree in psychology. Michael Behe is a tenured professor of biochemistry at Lehigh whose scientific output has dropped to almost nil since he joined the ID bandwagon. Jonathan Wells is a Ph.D. in developmental biology who obtained that Ph.D. at the behest of Sun Myung Moon in order that Wells might "destroy Darwinism". 
+
+So how did Toland fare on Crowther's first objection? Quite well, I think. Toland was able to get past the deceptive "just us scientists here" rhetoric the DI likes to employ when the public is watching to the stuff they tell the faithful is really the case. That's journalism. It seems that Crowther is not interested in journalism. He wants advertising instead. Free advertising, the cheapskate.
+
+Crowther's next bit:
+
+Crowther wrote:
+
+> Toland spoke with John West, associate director of the CSC, who clearly described the real definition of intelligent design. The question is why didn't Toland bother to cite West's comments on this point? And why didn't he bother to interview even one scientist who is an advocate of design theory? One of the foremost design theorists in the world, biochemist Michael Behe, is right there in Toland's backyard at Lehigh University. One wonders why he didn't make a local phone call to get a scientist's perspective on intelligent design?
+
+I think I have an answer for why West wasn't cited. When the advocates who define the content of ID tell you it really is about God, one doesn't need to take heed of the flapper who tries to tell you differently.
+
+As to interviewing scientists, I can't say whether Toland called Michael Behe or not. I've been interviewed several times with neither any of my comments nor my name appearing in the resulting article. Until either Toland or Behe states that there was or wasn't a call, this is a totally unsupported accusation by Crowther. But I can say that Toland did call me, I gave my perspective on "intelligent design", and I am a scientist. I think Crowther meant to complain that no scientist who is an ID advocate was quoted or referenced in the article.
+
+Next criticism:
+
+Crowther wrote:
+
+> In referring to intelligent design as "intelligent design creationism," Toland reveals his bias, and the article's agenda begins to become clear. 
+> 
+> Toland simply accepted the terminology of anti-design critics and now reports it as if it is an undisputed fact. This is not objective, and it certainly isn't good journalism. It is merely the use of his position as a reporter to attempt to sway the opinions of readers.
+
+I'm not sure where Toland got "intelligent design creationism". It wasn't during our talk. While its use is certainly defensible, such a defense requires much greater length and depth than is available in a newspaper article. Fortunately, Barbara Forrest and Paul Gross took up the burden and delivered a meticulously detailed indictment in "[_Creationism's Trojan Horse_](http://www.creationismstrojanhorse.com/)". While Crowther may not like the label of "intelligent design creationism", it is a bit too late to be complaining about what the activities of ID advocates documented in _CTH_ show to be a completely accurate moniker.
+
+Next criticism:
+
+Crowther wrote:
+
+> Eventually Toland gets around to implying that intelligent design theory is just a modern version of William Paley's 18th century watchmaker analogy. He uses Paley's own religious inclinations as the basis for claiming that in his view intelligent design falls afoul of the First Amendment. Although the article didn't appear on the opinion pages of the Post Gazette --where it belonged-- Toland repeatedly inserts his opinions, draws conclusions and reports them as if they were facts.
+
+This seems to be an exaggeration on Crowther's part. Yes, Toland does relate Paley's "watchmaker" argument to modern "intelligent design", and Toland does make a statement about what courts might find suspicious, but this isn't given as a repetitively stated opinion, conclusion, or given as a fact. Take a look at what got Crowther's shorts in a twist:
+
+Toland wrote:
+
+> The courts rejected that law, saying it violated the First Amendment because it "impermissibly endorses religion by advancing the religious belief that a supernatural being created humankind." Because today's intelligent-design theory, at least at its base, says the same thing, it's fair to guess that courts might view suspiciously any policy requiring intelligent design in school science courses.
+
+Is it "fair to guess" that a court might be suspicious of "intelligent design" as a component of a science class? I would think it is quite "fair to guess" that is a significant possibility.
+
+Is it fair to say that, at its base, "intelligent design" says the same thing as Paley? Is it fair to connect the dots between Paley and modern "intelligent design"? I think so. Consider this:
+
+William Paley wrote:
+
+> \[...\] for every indication of contrivance, every manifestation of design, which existed in the watch, exists in the works of nature; with the difference, on the side of nature, of being greater and more, and that in a degree which exceeds all computation. I mean that the contrivances of nature surpass the contrivances of art, in the complexity, subtility, and curiosity of the mechanism; and still more, if possible, do they go beyond them in number and variety; yet, in a multitude of cases, are not less evidently mechanical, not less evidently contrivances, not less evidently accommodated to their end, or suited to their office, than are the most perfect productions of human ingenuity.
+> 
+> [_Natural Theology_](http://www.hti.umich.edu/cgi/p/pd-modeng/pd-modeng-idx?type=HTML&amp;rgn=TEI.2&amp;byte=53049319)
+
+Modern "intelligent design" advocates concentrate on the complexity and resemblances to "mechanical" devices of various biological systems. The difference from Paley's examples is that the modern ID advocates prefer things it takes a microscope to visualize.
+
+Even the ID advocates who go in for the anthropic principle (like DI Senior Fellows Guillermo Gonzalez and Jay W. Richards) hark back to Paley:
+
+William Paley wrote:
+
+> Our second proposition is, that, whilst the possible laws of variation were infinite, the admissible laws, or the laws compatible with the preservation of the system, lie within narrow limits. If the attracting force had varied according to any direct law of the distance, let it have been what it would, great destruction and confusion would have taken place. The direct simple proportion of the distance would, it is true, have produced an ellipse: but the perturbing forces would have acted with so much advantage, as to be continually changing the dimensions of the ellipse, in a manner inconsistent with our terrestrial creation. 
+> 
+> [_Natural Theology_](http://www.hti.umich.edu/cgi/p/pd-modeng/pd-modeng-idx?type=HTML&amp;rgn=TEI.2&amp;byte=53049319)
+
+(In the "so close and yet so far" category, consider Paley's text here:
+
+William Paley wrote:
+
+> There is another answer which has the same effect as the resolving of things into chance; which answer would persuade us to believe, that the eye, the animal to which it belongs, every other animal, every plant, indeed every organized body which we see, are only so many out of the possible varieties and combinations of being, which the lapse of infinite ages has brought into existence; that the present world is the relict of that variety: millions of other bodily forms and other species having perished, being by the defect of their constitution incapable of preservation, or of continuance by generation. Now there is no foundation whatever for this conjecture in any thing which we observe in the works of nature; no such experiments are going on at present: no such energy operates, as that which is here supposed, and which should be constantly pushing into existence new varieties of beings.
+> 
+> [_Natural Theology_](http://www.hti.umich.edu/cgi/p/pd-modeng/pd-modeng-idx?type=HTML&amp;rgn=TEI.2&amp;byte=53049319)
+
+)
+
+Crowther objects rather strenuously to the following passage from Toland:
+
+Toland wrote:
+
+> So here's the chicken-egg question: Does intelligent-design theory, because it doesn't name its creator and isn't attached to a particular religion, just happen to slip through that Supreme Court loophole, possibly allowing it into public school classes?
+> 
+> Or is it the other way around -- are modern proponents of intelligent design refusing to associate with a particular religion or god with the express purpose of wedging into lesson plans, hoping that if a curriculum is worded the right way, it will be immune to a court challenge?
+
+Crowther wrote:
+
+> Darwinists are fond of setting up such dichotomies, each of which is impossible to answer except in a negative or defensive manner. Instead of arguing the merits of the science underlying intelligent design theory, they would rather frame rhetorical arguments that are nothing more than smoke and mirrors.
+
+I don't know that Toland is a "Darwinist". It seems Crowther is appealing to facts not in evidence. Toland is a reporter, which means that he may explore truths that are uncomfortable to those interviewed. It's useless to get upset at the slightest provocation when it comes to journalists -- they are supposed to reveal things that are otherwise hidden and pose questions that people may not like. It's part and parcel of the "fairness" package that the DI C~~R~~SC try to claim as their own turf.
+
+Toland's approach notwithstanding, the courts will **undoubtedly** take up the issue of whether "intelligent design" is a sham -- "sham" being the legal term of art used in the relevant decisions -- intelligently designed to evade the three prongs of the Lemon test. Can one think of a way to inform the public that this is an issue for the courts that would not offend Crowther's apparently quite delicate sensibilities? I suggest not.
+
+Crowther's statement that "Darwinists" use rhetoric **instead** of arguing the "merits of the science underlying intelligent design theory" is far too facile. I don't know about "Darwinists", but I was part of a group of scientists who took a close look at what the "intelligent design" advocates have proffered as scientific claims. What we found was that there are no such "merits" to be found. And certainly we failed to find any "theory" of "intelligent design", for no ID advocate has yet stated one. Please peruse Young and Edis's _[Why Intelligent Design Fails](http://www2.truman.edu/~edis/books/id/)_ for the full explication. Scientists have addressed the supposed "merits" of "intelligent design" over and over again, and yet we have Crowther implying that no such examination has yet happened. That's far from accurate.
+
+Even the Discovery Institute site disproves Crowther's implication. They [hawk a book titled _Darwinism, Design, and Public Education_](http://www.discovery.org/scripts/viewDB/index.php?command=view&amp;id=2123) claiming that one can get the most advanced arguments from experts on both sides of the issue therein, which would be rather difficult if the critics never had gotten around to addressing issues in "intelligent design". This is also part of a pattern: the Discovery Institute fairly oozes collegiality when they have control of the final product, and denies that scientists have addressed their issues when they do not have that control.
+
+Another Crowther criticism:
+
+Toland wrote:
+
+> There is no denying that the intelligent-design theory -- not to mention the creation science theory and its predecessors -- has some following among serious scholars.
+> 
+> But there's also little doubt that America's growing intelligent-design movement has gained much of its steam by attracting Christians, including many who believe in a literal Genesis, who want to use the neutral terminology to undermine evolutionary theory.
+
+Crowther wrote:
+
+> Toland is really saying that there is nothing at all questionable about evolutionary theory, and that the only people who are skeptical are doubters solely because of a religious presupposition. Perhaps he was unaware of the more than 300 scientists who have signed the Dissent from Darwin statement? Or perhaps he assumes that every one of them is only skeptical on religious grounds? To write this he must be completely ignorant of the significant scientific challenges that modern biology has presented to Darwinian evolution. Or, he must want to keep his readers from knowing about the same. Which is it?
+
+Earlier in his screed, Crowther took Toland to task for inserting personal conclusions and calling them fact. Crowther took Toland to task for setting up false dichotomies. Crowther is sensitive to these things, we see by this paragraph, because _he uses these techniques himself_. Toland did not, in fact, either say or imply that "there is nothing at all questionable about evolutionary theory". Nor does Crowther's question about the DI "Dissent from Darwin" statement address an issue in Toland's reporting. Toland stipulates that the "intelligent design" following includes serious scholars. Some of those 300 people signing the DI statement are serious scholars, although generally not in any field related to biology. And, of course, the DI statement is rather deficient in [Steves](http://www.ncseweb.org/article.asp?category=18). Unable to deny Toland's accurate reporting that religious people have gathered under intelligent design's big tent, Crowther turns to a false dichotomy: either Toland is unaware of "scientific challenges" to evolutionary biology, or Toland wishes to keep his readers uninformed of such. But Toland had earlier in his article written this:
+
+Toland wrote:
+
+> Intelligent design attempts to use scientific evidence, rather than the Bible, to prove that living organisms are far too complex to have evolved mindlessly over billions of years. Its proponents say neither adaptive Darwinism, known as "natural selection," nor macro-evolutionary biology can explain how eyeballs developed or how the first organism was assembled. At the subcellular level, they say, there is an "irreducible complexity" -- condensed to its tiniest elements, life eventually reaches a point at which it can't be reduced, because the removal of any part kills it.
+> 
+> For those reasons and others, the world must have an intelligent designer, guiding the process not only at the beginning but along the way, with specific goals in mind.
+
+It seems that Toland is both familiar with intelligent design's antievolution arguments and willing to share them with his readers, contra Crowther's apoplexy. So a third alternative arrives to invalidate Crowther's false dichotomy: Toland accurately reports that religious people, with their own antievolution agenda, have joined with "intelligent design" advocates. Simple, no?
+
+There is a word for what Crowther has shown in this last criticism of Toland. That word is "hypocrisy".
+
+Crowther is not satisfied with the thorough trashing of his own credibility that he has accomplished so far. Now, he goes on to establish that he has serious reading comprehension problems. 
+
+Toland wrote:
+
+> It is this union of some serious scientists and religiously motivated advocates that creates a controversy more complicated than one that simply pits science against religion.
+
+Crowther wrote:
+
+> Again, this isn't simply science vs. religion - which if you remember is something that Toland, when requesting interviews, claimed he wanted to avoid.
+
+Toland just said that this wasn't simply science vs. religion. Crowther's objection at this point would only make sense if he wished to claim, against all the evidence, that "science vs. religion" played no role whatsoever in the Dover situation.
+
+Crowther wrote:
+
+> This controversy isn't being manufactured in some smoke-filled back room in the wake of the recent election. Toland, like others, implies that religious leaders feeling emboldened with the President's reelection in November are now advancing intelligent design as a political strategy. The scientific controversy, the debate amongst scientists, so obviously predates the most recent educational policy discussions that it is ridiculous for Toland to suggest this. Again, you have to ask yourself whether he is simply uninformed, or does he have another agenda he's pursuing.
+
+And here we have a stunning failure of reading comprehension on Crowther's part. If Crowther were correct, we should be able to find something Toland wrote that tied the recent elections to the trouble in Dover, and excluding influences predating the election. But Toland's mention of the elections does not conform to Crowther's fantasy:
+
+Toland wrote:
+
+> Revisionists might say the York County controversy was born of the blue-red values war now under way, with new battle lines being drawn by conservative Republicans emboldened by their recent election victories. But in fact, attempts to work the term "intelligent design" into public school science courses date back to the early 1990s.
+
+Toland quite clearly says that only revisionists could link the current situation to the recent history of our national elections, and shows how "intelligent design" predates that by over a decade. Crowther's complaint is completely bass-ackward blithering.
+
+Crowther wrote:
+
+> Toland, in keeping his polemic completely imbalanced, wraps up his piece with a quote from Wesley R. Elsberry from the NCSE (who he reminds us is a "biologist" lest we forget what real scientists think):
+> 
+> "The problem is, what they want taught as a controversy is not a scientific controversy. It's a socio-political controversy. It belongs in a civics class."
+> 
+> This is one of the most tired and threadbare reasons for not allowing any questioning of Darwinian evolution to go on in the classroom. It's unfortunate that Toland didn't follow through on the main objective of his article to "avoid the usual pratfalls of science v. religion, ACLU v. Christians."
+
+Hey, Rob, I _am_ a biologist, with a Ph.D. and everything. You don't need to use quote marks to set that off. I stand by my comment. The arguments made by "intelligent design" advocates are the only "tired and threadbare" things around here. See Mark Isaak's excellent [Index to Creationist Claims](http://www.talkorigins.org/indexcc/) to find mainstream science responses to the "tired and threadbare" antievolution objections that ID advocates insist are cutting-edge science. The Miller and Levine _Biology_ textbook already indicates those areas of evolutionary biology which have open research questions, obviating any purpose for the use of the error-laden _Of Pandas and People_ as a reference text.
+
+And by quoting me on this topic, Toland did avoid the "usual pratfalls". I have no difficulty in maintaining my faith while accepting the findings of modern science, and I certainly don't fall into any concept that pits "ACLU v. Christians". 
+
+Crowther, at long last, winds it up.
+
+Crowther wrote:
+
+> Instead he put together a tendentious and one-sided piece, not bothering to interview scientists or legal scholars who support intelligent design. He seems only to want to convince his readers that intelligent design is the same as creationism and that there is no significant scientific criticism of Darwinian evolution. Why does Toland do this?
+> 
+> Here's the reason, from a critic of design theory no less. University of Wisconsin historian of science Ronald Numbers is critical of intelligent design, yet according to the Associated Press, he "agrees the creationist label is inaccurate when it comes to the ID \[intelligent design\] movement." Why, then, do some Darwinists keep trying to conflate intelligent design with creationism? According to Dr. Numbers, it is because they think such claims are "the easiest way to discredit intelligent design." In other words, the charge that intelligent design is "creationism" is a rhetorical strategy on the part of Darwinists who wish to marginalize and discredit design theory without actually addressing the merits of its case.
+
+Talk about unbridled speculation posing as fact... Crowther proves himself a hypocrite all over again. Crowther asserts a bias on Toland's part and further asserts that Numbers is correct about what motivates Toland in particular. None of this has the least grounding in any evidence.
+
+Now that I've examined Crowther's mostly irrelevant and sometimes delusional objections, let's have a look at the actual inaccuracies in Toland's article that Crowther could have legitimately complained about. Nick Matzke kindly sent me a copy of an email he sent to Toland pointing out several problems. Here's a list:
+
+
+*  The assertion that Percival Davis was removed from the author list on "Of Pandas and People" (his name graces each edition so far)
+*  The assertion that Percival Davis's _Case for Creation_ (co-authored with Wayne Frair) rather than _Of Pandas and People_ was the subject of many attempts to insert antievolution into school curricula (_Of Pandas and People_ was the text at issue in many of those cases) 
+*  The assertion that Charles Darwin published something called _Origin of the Species_ (The first part of the title is _On the Origin of Species_. I certainly did not say it the way it was printed in the article!)
+*  The assertion that the 2001 "No Child Left Behind" Act mandates "teaching the controversy" (Congress considered such language and specifically removed it from the final bill)
+
+
+Of course, it's clear why Crowther would not have pointed out the last of these errors, since it suits the Discovery Institute's purposes to claim federal sanction of its attempts to undermine science education, no matter how ridiculous the claim is on examination. But it's interesting that Crowther, in his role as self-appointed fact-checker, failed to note any of these as a problem. In fact, were the media to follow Crowther's lead, they would be much less accurate in their reporting than they currently are. Perhaps that is his hope.
+
+[Comments](http://www.antievolution.org/cgi-bin/ikonboard/ikonboard.cgi?s=41e738ad560affff;act=ST;f=14;t=4)

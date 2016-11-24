@@ -1,0 +1,85 @@
+---
+layout: article
+title: That's another fine mess you've made Jonathan!
+date: '2005-07-06 21:30:11 -0700'
+author: Ian Musgrave
+mt_id: 1114
+blog_id: 2
+post_id: 1114
+basename: thats_another_f
+---
+It has often been said that it takes two pages of science to correct all the misinformation an anti-evolutionist can pack into one sentence. A recent [ interview](http://www.idurc.org/interviews/wells0605.htm) featuring Discovery Institute Fellow [Jonathan Wells](http://www.discovery.org/scripts/viewDB/index.php?command=view&amp;id=41&amp;isFellow=true) illustrates this rule of thumb. In a short space he makes numerous errors. For brevity I'd like to focus on two specific areas, but the rest of his pronouncements in this short piece are just as flawed.
+
+Wells wrote:
+
+> Dwarfing the resources wasted on phylogenetic trees and speciation have been the public resources devoted to finding the "gene for" this or that trait or disease. 
+
+ 
+
+Researchers are quite aware that many diseases are a [ complex interaction between the environment and multiple genes](http://www.wellcome.ac.uk/en/genome/genesandbody/gb_genesanddisease.html). Wells's statement is a strawman. The idea is that the actual pathways of disease can be unravelled if the environmental and genetic factors can be distinguished, leading to preventative measures or therapies. Wells's statement reflects his conviction that genes actually don't do much, and that [mutations in genes cannot play a significant role in evolution.]( http://www.tparents.org/Library/Unification/Talks/Wells/DARWIN.htm) 
+
+It takes some time between the identification of a gene involved in a disease to a clinical outcome, but already there are examples available. One is the gene BCRA2, involved in breast cancer. Breast cancer is considered to be a multi-stage, multi-factor process that involves genetic and non-genetic factors. However, women who have mutant BCRA2 genes are at much higher risk of developing breast cancer, and screening for this gene would result in [careful monitoring and early intervention](http://www.jco.org/cgi/content/abstract/20/10/2520) if cancer were to develop ([early intervention being known to save lives](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15755947&amp;query_hl=3)).  
+
+[Some diseases are due to mutations in a single gene](http://www.ncbi.nlm.nih.gov/books/bv.fcgi?call=bv.View..ShowSection&amp;rid=gnd.preface.91), these include, [Haemophillia A](http://users.rcn.com/jkimball.ma.ultranet/BiologyPages/C/Clotting.html#Bleeding_disorders) and B, [muscular dystrophy](http://users.rcn.com/jkimball.ma.ultranet/BiologyPages/M/Muscles.html#MD), [cystic fibrosis](http://users.rcn.com/jkimball.ma.ultranet/BiologyPages/M/Mutations.html#cystic_fibrosis) and severe combined immunodeficiency. All these diseases are amenable to gene therapy, and progress has been made in [some of them](http://bmj.bmjjournals.com/cgi/content/full/322/7300/1442/a).
+
+Wells wrote:
+
+> This approach is encouraged by neo-Darwinism (in which genetic changes are imagined to be the raw materials for evolution), but it has produced no real clinical benefits.  
+
+ 
+
+I'm sure the children with [ Severe Combined Immunodeficiency ](http://www.wellcome.ac.uk/en/genome/tacklingdisease/hg12f001.html) who have been successfully treated with gene therapy will disagree. SCID children are born without one of the critical genes for development of the immune system, and must spend their lives in an artifical germ free environment (the so-called "boy-in-the-bubble" syndrome). In France, [15 children with X-linked SCID](http://users.rcn.com/jkimball.ma.ultranet/BiologyPages/G/GeneTherapy.html), where a mutant receptor is responsible, have been treated for this disease, one child has died of leukaemia, but 14 are healthy \[1\]. The English cohort of children who have undergone gene therapy are all currently healthy. 
+
+One issue is the length of time it takes to develop a therapy (any therapy, gene or otherwise) once you understand the underlying cause. It may take up to 15 years of testing before approval for use is issued. [Cystic fibrosis therapy is under development](http://www.cff.org/about_cf/gene_therapy_and_cf/), and despite many advances and effective demonstrations in animal models it may take 5-10 years before gene therapy for cystic fibrosis is released.
+
+Another ironic \[2\] example is mutants of the cytokine receptor CCR5. CCR5 is important for regulating the immune response. But in 1996 it was discovered that some people who were resistant to [HIV infection had a mutant CCR5 receptor](http://www.annals.org/cgi/reprint/134/10/978.pdf). From this it was discovered that CCR5 is part of the mechanism HIV uses to invade cells. Now drugs that act to block CCR5 are being [developed as anti-HIV agents](http://www.iasusa.org/pub/topics/2004/issue4/100.pdf). \]. A really interesting application is make HIV-positive people "immune" to HIV by [mutating the CCR5 gene in their stem cells]( http://www.newscientist.com/channel/health/mg18625064.700). \[3\]
+
+As noted above risk factor genes can also be screened for and coupled with preventative measures and early detection of disease can produce [significant clinical benefits](http://www.jco.org/cgi/content/abstract/20/10/2520).
+
+Wells wrote:
+
+> For example, it is now known that the underlying cause of cancer is "chromosomal instability," or damage to extra-genic structures -- not mutations to individual genes. 
+
+Well, this knowledge seems to have eluded most researchers in the field (see [ this review ](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15914203&amp;query_hl=49) and [this comprehensive review](http://mcb.berkeley.edu/courses/mcb140/Urnov/hahn.pdf) as typical examples). 
+
+There are just so many things wrong with Wells's statement that I will have to start with the very basics of cell growth.
+
+All the cells of the body (with the exception of mature neurons) divide and grow during our lifetime; some such as blood cells divide often, others divide rarely. Growth and division are controlled by a number of genes and gene products: some stimulate cell division, some inhibit it, and others lead to programmed cell death. If you disturb the balance between [growth promotion and growth inhibition pathways]( http://mcb.berkeley.edu/courses/mcb140/Urnov/hahn.pdf) sufficiently, then the cells will grow out of control, and you have a cancerous cell (you need other changes for the transition to an invasive, malignant cell, but the primary change is a loss of growth control). 
+
+Because there are multiple pathways and multiple checkpoints, it often takes damage to several parts of the control pathway before a cell becomes cancerous. The damage can occur in many ways. For example, simple point mutations, insertions of viral genomes, or gene fusion or loss via chromosomal crossing over can all produce the genetic damage that results in cancer. 
+
+An example is chronic myeloid leukaemia (CML). At first sight it might appear to support Wells's thesis. The disease is associated with a translocation of part of [ chromosome 22 to chromosome 9](http://gslc.genetics.utah.edu/units/disorders/karyotype/reciprocal.cfm). But the translocation by itself is not enough. Unless a gene called c-ABL is fused to the gene BCR, producing the BCR-ABL fusion product, then CML does not develop. The cause of CML is a mutant gene, contrary to Wells's claims. The anti-CML therapy, imatinib (Glivec or Gleevec, depending on which country you are in) acts by inhibiting the BCR-ABL gene product (a gain-of-function mutant which persistently activates growth pathways). It is [spectacularly successful](http://www.cancerhelp.org.uk/help/default.asp?page=5024), with remission rates of between 80-90%.
+
+Let's look at that again, one of the most successful anti-cancer therapies known targets a mutant gene, one that Wells says is not the cause of cancer. And imatinib is not the only drug aimed at mutant genes. Iressa inhibits a mutant form of growth factor receptors. More of these kinds of drugs are being developed, targeting oncogenes such as c-Myc and [c-Src]( http://clincancerres.aacrjournals.org/cgi/content/full/10/4/1545).
+
+But what about the actual translocation, surely that is the ultimate cause of the mutant gene and Wells is in part right? Chromosomal translocations do underlie several, but not all, cancers (translocations that cause mutation of the gene c-Myc for example, but remember translocation is not enough by itself, a gene must be mutated). What causes these chromosomal instabilities? We know that the incidence of CML is increased by exposure to radiation or benzene, known mutagens. Damage to the DNA is an important part of producing chromosomal instability, and [inhibition of DNA topoisomerase II](http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6WXH-4C52NTB-1&amp;_user=162644&amp;_coverDate=09%2F01%2F2004&amp;_alid=292594416&amp;_rdoc=1&amp;_fmt=summary&amp;_orig=search&amp;_qd=1&amp;_cdi=7159&amp;_sort=d&amp;_docanchor=&amp;view=c&amp;_acct=C000013138&amp;_version=1&amp;_urlVersion=0&amp;_userid=162644&amp;md5=03092b8aff05daf41366a8f19187752d), a DNA repair enzyme, is implicated in the DNA damage which leads to chromosomal instability. Even worse for Wells thesis, BCRA2, a key gene in some breast cancers (see above), regulates a key recombinase (which is responsible for chromosomal integrity). So that chromosomal instability can be traced to a [mutation in a single gene](http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6X17-4C7W589-1&amp;_coverDate=09%2F30%2F2004&amp;_alid=292595032&amp;_rdoc=1&amp;_fmt=&amp;_orig=search&amp;_qd=1&amp;_cdi=7235&amp;_sort=d&amp;view=c&amp;_acct=C000013138&amp;_version=1&amp;_urlVersion=0&amp;_userid=162644&amp;md5=bacbb57d1619c9bf50d0dc549b1c1ea6). A recent review of the genetic mutations that underlie chromosomal instability is in [ Nature (2004)  **432**, 338-341, doi 10.1038/nature03099 ]( http://www.nature.com/nature/journal/v432/n7015/full/nature03099.html#abs). \[4\]
+
+Wells wrote:
+
+>  Although biologists steeped in neo-Darwinism discovered chromosomal instability, they did so NOT by being guided by neo-Darwinism, which had previously focused their attention on genetic mutations alone. 
+
+Biologists have known about chromosomal instability for almost as long as we have known about the existence of genes as discrete pieces of DNA, landmark work in the [1960's on the Philadelphia chromosome](http://plan2003.cancer.gov/infra/sod.htm) led to the realization that a defective gene was at the heart of CML. Wells has the story exactly backwards. The work on chromosomal instability and mutation in cancer has been developing for a long time, it has long been known that chromosomal instability was one way (along with point mutations, viral gene disruption etc.) to generate mutant genes that will lead to cancer. And it has been realized for several years that genetic mutations [underlie chromosomal instability](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12427531&amp;query_hl=53) (see also the review above).
+
+The major proponent of the "Chromosomal Instability Only" theory is [Dr. Peter Duesberg](http://www.duesberg.com/index.html), better known as an [HIV denier](http://www.aegis.org/topics/mdelaney.html)\[2\]. At a recent invitation-only conference, even Duesberg conceded that [genetic mutation played a role in cancer]( http://mcb.berkeley.edu/labs/duesberg/The_Scientist_03-2004.pdf).\[5\] Duesberg's statement that targeting mutations "is probably useless." is ironic, given the success of imatinib (iressa is less successful as it targets a fairly uncommon mutation, but it is successful in people with that mutation). Again, I will point people to this [recent review]( http://www.nature.com/nature/journal/v432/n7015/full/nature03099.html#B7) of the role of gene mutations in producing genetic instability.
+
+I hardly need to make the point that researchers were guided by experimental and observational evidence (such as experimental evidence of mutations, generation of tumours by transferring mutant genes, [mouse transgenic models](http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6T2C-4G4NDR9-1&amp;_user=162644&amp;_coverDate=05%2F10%2F2005&amp;_alid=292597068&amp;_rdoc=1&amp;_fmt=summary&amp;_orig=search&amp;_qd=1&amp;_cdi=4915&amp;_sort=d&amp;_docanchor=&amp;view=c&amp;_acct=C000013138&amp;_version=1&amp;_urlVersion=0&amp;_userid=162644&amp;md5=2d8e7f55914c09e253187d0530e4993d) etc. etc.) rather than blind allegiance to Darwinist dogma. 
+
+Well, I've written four pages to cover just one paragraph. I have only briefly procised the mass of available data and haven't covered the role of evolution in generating cancer drug resistance, or the evolutionary strategies people use to get around it. I think this more than demonstrates our rule of thumb, don't you?
+
+But this was just a short interview; does the interview really represent his views fairly? Are we worrying over a storm in a teacup? Sadly, the interview does represent his views. His paper on the ["Theory of Organismal Problem-Solving"]( http://www.iscid.org/papers/Wells_TOPS_051304.pdf) explicitly denies the role of mutations in genes as a cause of cancer \[6\]. In an ideological and political battle to supplant modern evolutionary theory, Wells is trying to place genes in a peripheral position in biology. One of the causalities is our understanding of cancer. To non-scientists, evolutionary theory is a peripheral issue, and the battles fought over teaching evolution is seen as academic. But ID has consequences beyond teaching evolution; it is an active threat to effective medical practice and health care. Surely, you might say, that the vast majority of knowledgeable active researchers and clinicians will not allow this anti-gene crack-pottery to affect our health care? Remember South Africa? Remember the health disaster there when [HIV deniers arguments seduced the Health Minister?](http://www.stateofdenial.org/) ID is a political movement, and as a political movement they can bypass the experts by seducing our lawmakers. 
+
+ID is not just bad biology; it is a health disaster waiting to happen. 
+
+\[1\] Three of the children developed leukaemia, and the trial was halted. Two children were cured. The reason for the development of the leukaemias was instructive. In these children the retroviral vector inserted [next to an oncogene]( http://www.nature.com/news/2004/040223/pf/427779a_pf.html), activating it. Another blow against Wells's thesis (as if we needed more). The children treated in the British trial used a different construct.
+
+\[2\] Interestingly, Wells and other ID promoters appear on a list of [HIV-denial supporters](http://www.virusmyth.net/aids/group.htm).
+
+\[3\] I've only scratched the surface of the things that are going on here. There are two phase III clinical trials and three Phase II clinical trials for anti-sense oligonucleotides targeted to oncogenes going on at the moment. Novel "exon-skipping" anti-sense therapies are about to be trialed for Muscular Dystrophy.  A gene-based medical revolution is creeping up on us.
+
+\[4\] It is possible that non-genomic effects (eg protein cross linking in response to some mutagens, or excessive growth factor activation during long term inflammation) could lead to chromosomal instability in some cases. However, enough cases exist where we know that the primary lesion is a mutation in a gene to prove Wells wrong. A neat example is a family with a high incidence of aneuploidy and cancer, for which the key lesion is a mutation in a [gene that helps guarantee that the right number of chromosomes are passed from cell to cell](http://www.sciencemag.org/cgi/content/full/306/5695/389a).
+
+\[5\] A nice Duesbereg quote ["Aneuploidy is thus a source of chromosomal variations from which, in classical Darwinian terms, selection would encourage the emergence of new cell "species" with neoplastic phenotypes and karyotypes."]( http://www.sciencemag.org/cgi/content/full/307/5706/41d)  The fact that cancer progression is a clear "Darwinian" process must irk Wells.
+
+\[6\] Wells cannot have read the references he cites in this essay very closely. He cites 3 papers showing centriole dysfunction as leading to chromosomal instability, and hence cancer. Brinkley and Goepfert (1998) cite mutations in the tumor suppreor gene p53 as a cause of centriole dysfunction. Papers from Pihan and colleagues cite mutations in a number of genes, [including p53 and our old friend BRCA2 ](http://cancerres.aacrjournals.org/cgi/content/full/63/6/1398)as causes of centriole dysfunction. Once again Wells shows shoddy scholarship.
+
+**Acknowledgements:** Many Thanks to the Panda's Thumb Crew for helpful thoughts, useful papers and constructive criticism of this article.

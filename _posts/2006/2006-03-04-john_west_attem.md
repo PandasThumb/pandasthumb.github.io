@@ -1,0 +1,45 @@
+---
+layout: article
+title: John West's attempt at "swift-boating" sinks
+date: '2006-03-04 08:30:32 -0700'
+author: Andrea Bottaro
+mt_id: 2002
+blog_id: 2
+post_id: 2002
+basename: john_west_attem
+---
+It seems that Discovery Institute's [John West's breeches got all tied up in a knot](http://www.evolutionnews.org/2006/03/did_the_new_york_times_suppres.html) following [last week's New York Times article by Kenneth Chang](http://select.nytimes.com/gst/abstract.html?res=F10A1FFA3A5A0C728EDDAB0894DE404482) exposing the signatories DI's list of "scientists" harboring doubts about "Darwinism" as largely unqualified to express any well-grounded scientific judgment on evolutionary theory, and mostly religiously motivated.  Alas, in his hatchet piece on Chang's reporting, which stoops to insinuating journalistic malpractice before retreating into some mellifluous statement of appreciation of Chang's openness, West ends up confirming the NYT's piece key factual points. 
+
+What did Chang say in his piece?  Quite simply, based on interviews with 20 of the signatories as well as some research on the others:
+-	that, based on his sample, the majority of the list signatories appeared to be evangelical Christians; 
+-	that while a "few" are "nationally prominent scientists", many have "more modest positions"; 
+-	that the vast majority of signatories are non-biologists, and that of the biologists "few conduct research that would directly address the question of what shaped the history of life";
+-	that of the signers "who are evangelical Christians, most defend their doubts on scientific grounds but also say that evolution runs against their religious beliefs" and that "several said that their doubts began when they increased their involvement with Christian churches." 
+
+Chang also dutifully reported some DI spokesmen's objections, for instance that religious beliefs of the signers should not be considered relevant, and specifically interviewed one of the 2 signatories who the DI itself identified as not holding "conservative religious beliefs".
+
+Based on his affiliate Rob Crowther's interview with Chang, West claims that this is not an accurate summary of the actual data Chang uncovered, and asks us to be the judge of Chang's reporting honesty.  Well, let's.  
+
+West primarily complains that Chang misrepresents the religious motivations of the signatories: "...by his _\[Chang's\]_ own admission, 75% or more of the scientists he interviewed did not say" that "their doubts \[about Darwin\] began when they increased their involvement with Christian churches". But of course, Chang only stated that "several" of the signatories did so, a characterization that quite accurately reflects the remainder of the sample, a substantial fraction of 25% of respondents.  
+
+What is impressive here, of course, is that **a whole 25%** of purported "scientists" on the list actually openly admitted that their religious beliefs strongly influenced, in fact **radically changed**, their conclusions about scientific matters (to the point in some cases of rejecting not only evolution, but also modern geology and cosmology!).  That's simply stunning, and already suggests that the signatories are far from a representative sample of normal scientific attitudes and accepted practice.
+
+Then West says that "when grilled" by Crowther, Chang 
+
+> ... also backpedaled on the article's insinuations that scientists critical of Darwin should be dismissed because of their religious beliefs
+
+but Chang **never said that in his article either**, not even implicitly.   In fact, he quoted West's own unequivocal statement opposing the relevance of religious belief in judging the signatories' scientific opinions, especially when not doing the same for evolutionary biologists.  Nowhere does Chang himself state, or quotes anyone stating, the contrary.  
+
+The issue of course is not that religious beliefs (or lack thereof) must be considered in themselves ground to dismiss anyone's specific scientific opinions, the merit and content of which in any case are not even addressed in Chang's piece.  However, they certainly are a relevant sociological factor in discussing a political movement like the one opposing the teaching of mainstream evolutionary science in schools, of which the DI's list is certainly a major P.R. tool.  If the DI wants to continue advancing a political-social agenda using political-social tools, rather than focusing on science using the tools of scientific research and publication, they cannot then complain that their efforts are evaluated on a political-social level.  There must be a reason why people, mostly with little or no training in evolutionary biology, feel compelled to affix their name to a public petition claiming the expertise  to scientifically reject it.
+
+West also claims that Chang "conceded to Crowther that "fundamentally their _\[the signatories'\]_ doubts \[about Darwinism\] are scientifically based"".  Leaving aside whether the vast majority of the signatories, who probably have never read through an advanced evolutionary biology textbook, let alone follow the professional literature on the topic, can be effectively trusted to self-assess their doubts about the theory as scientific in nature, this is also a plain misrepresentation: Chang could have hardly "conceded" this to Crowther, since he already says quite clearly in his original article that "of the signers who are evangelical Christians, most defend their doubts on scientific grounds". 
+
+That's it.  West cannot and does not argue against Chang's findings: that the overwhelming majority of the signatories - with the only known exceptions being 2 (two out of five hundred!) individuals -- are evangelical and conservative Christians, that the vast majority are professionally unqualified to judge evolutionary biology on scientific merits, and that by their own admission, in a significant fractions of cases their objections followed directly and were influenced by their religious beliefs.  **All the factual conclusions of Chang's piece are therefore correct and stand unchallenged.**
+
+Short on factual support for his claims, therefore, what West is left with is just a transparent, clumsy attempt at sniping at Chang's credibility and honesty (no wonder: [the DI has enlisted the services of the same PR firm who introduced swift-boating during the last presidential elections](http://www.pandasthumb.org/archives/2005/08/the_discovery_i.html)).  He uses a lot of insinuations and posturing about Chang being "clearly uncomfortable", evasive and defensive while being "pressed" and "grilled" by Crowther (how would West know this for a fact, unless he was present at the interview and could read Chang's mind, I wouldn't know), while it is clearly West himself here who is trying to evade the issues, and defend the DI against the exposure of one of its principal PR tools as a sham.  
+
+Ultimately, all West can muster is a vague complaint that the piece _gives the impression_ that the list's signatories are overwhelming closed-minded "Biblical literalists" (never mind that Chang explicitly writes that only "some say they read the Bible literally").  But even if this were true (and it certainly doesn't seem to be the case to my reading of Chang's piece), that would hardly be a more significant misrepresentation than the DI's own propaganda about the list, which is publicized as representing the existing scientific opposition to evolutionary theory, when in fact it is overwhelmingly composed, as highlighted by Chang's investigation, of people who either are not practicing scientists, or are not qualified to assess the theory scientifically (more than I am qualified to assess the merits of, say, quantum chemistry), and/or are clearly religiously biased against it.  
+
+However, the fundamental and much more dishonest misrepresentation, which unfortunately was not noticed in Chang's piece, is inherent in the original statement on the DI's petition.  The petition tries to fool unaware readers into believing that skepticism about "claims for the ability of random mutation and natural selection to account for the complexity of life" amounts to a legitimate scientific objection to evolutionary theory.  This is false: evolutionary theory makes no such claim for the sufficiency of "random mutation and natural selection", and in fact incorporates and actively studies additional evolutionary mechanisms.    
+
+Truth is, if the "scientific dissent" statement were not just a crude propaganda tool for the crypto-Creationism promoted by the Discovery Institute and Intelligent Design advocates, I have no doubt that the vast majority of practicing biological scientists (tens of thousands, not just a handful) would have no qualms whatsoever adding their own name to it.  But then again, I am quite sure that the overwhelming majority of the statement's current signatories, ignorant as they seem to be of the claims of evolutionary biology, don't even know that what they signed is a fair representation of modern evolutionary theory that could have been easily signed by Darwin himself.

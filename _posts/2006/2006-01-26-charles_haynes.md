@@ -1,0 +1,19 @@
+---
+layout: article
+title: Charles Haynes on the Lebec, CA case
+date: '2006-01-26 22:05:08 -0700'
+author: Nick Matzke
+mt_id: 1863
+blog_id: 2
+post_id: 1863
+basename: charles_haynes
+---
+Unlike a [few](http://www.tioucsf.edu/synapse/content/12606/mark.html) [other](http://www.contracostatimes.com/mld/cctimes/13706797.htm) editorials on the Lebec, CA case about a "Philosophy of Intelligent Design" class, [Charles Haynes](http://www.coshoctontribune.com/apps/pbcs.dll/article?AID=/20060124/OPINION02/601240335/1014) of the First Amendment Center went and actually read the [Plaintiffs' complaint and other relevant materials](http://www2.ncseweb.org/wp/?cat=10).  And guess what?  He agrees with the plaintiffs that the class was "[a thinly disguised attempt to challenge evolution by promoting intelligent design and creationism](http://www.coshoctontribune.com/apps/pbcs.dll/article?AID=/20060124/OPINION02/601240335/1014)."  He goes on to write,
+
+> Labeling a course "philosophy" doesn't relieve the district from presenting material objectively - using the best scholarship and assigning age-appropriate readings representing a range of views.
+> 
+> Like Dover's, the El Tejon strategy is self-defeating. After this one-two legal punch, ID advocates are on the ropes. Any future attempt to "teach the controversy" -- even if an effort is made to make it academically sound -- will be met with much skepticism and a battery of lawyers.
+
+This is signficant coming from Charles Haynes, who -- at least before the _Kitzmiller_ decision -- tended to bend over backwards to give ID advocates every benefit of the doubt, and endorsed "teach the controversy" in basically every essay he wrote on the topic.  See for example this essay by Haynes from June 2005, which the Discovery Institute happily posted [on its website](http://www.discovery.org/scripts/viewDB/index.php?command=view&amp;program=CSC%20-%20Views%20and%20News&amp;id=2629). And in [this essay from 1999](http://www.firstamendmentcenter.org/commentary.aspx?id=2440) Haynes pretty clearly recommends teaching ID in public school science classes as if it were a legitimate scientific alternative.   I wonder if he now feels like he was tricked by the ID movement, which sold a fair number of the people who paid some attention to ID, but didn't follow it very closely, on the line that ID really had some science to it, and was "not creationism".  When the Plaintiffs proved beyond any doubt that, well, yes, [ID really was creationism](http://www.pandasthumb.org/archives/2005/10/i_guess_id_real.html), and was in fact a direct continuation of the "creation science" legal strategy that had already tried and failed in the 1987 Supreme Court _Edwards v. Aguillard_ decision, I suspect that people like Haynes felt a little bit burned.
+
+Some day, Haynes might even come around to the view that "teach the controversy" is itself just another sham phrase adopted by the ID movement as a legal and media cover for forcing ridiculous creationist pseudoscience into the public schools. Unfortunately for Haynes's repeatedly expressed hopes, no ID proponent has ever attempted to make "teach the controversy" academically sound, and there is little prospect of this occurring in the future given the past history of the ID movement, and the so-far universal pattern of creationist politicians using "teach the controversy" as cover for their agenda of government-funded religious apologetics.  He might tell the ID advocates what everyone should have been telling them from the beginning: if you are serious about getting your fringe view scientifically accepted, you should ignore the public schools entirely and do what every other science had to do, namely, win the battle in the scientific community first.  It will be a shame if it takes another expensive and divisive court case to convince Haynes to take these last few steps.

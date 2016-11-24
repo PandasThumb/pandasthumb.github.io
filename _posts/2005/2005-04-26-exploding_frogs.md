@@ -1,0 +1,14 @@
+---
+layout: article
+title: Exploding Frogs = Intelligent Design?
+date: '2005-04-26 01:30:13 -0700'
+excerpt: Exploding toads -- designed?
+author: Nick Matzke
+mt_id: 914
+blog_id: 2
+post_id: 914
+basename: exploding_frogs
+---
+<img src="http://www.abc.net.au/reslib/200504/r45562_118414.jpg" alt="" style="float:left;" />[PZ Myers notes](http://pharyngula.org/index/weblog/comments/exploding_toads/) that [toads are exploding](http://news.scotsman.com/international.cfm?id=443452005) for reasons unknown in Hamburg, Germany.  [This story](http://www.abc.net.au/news/newsitems/200504/s1352292.htm) is [apparently not made up](http://news.google.com/news?hl=en&amp;ned=us&amp;q=Mystery+of+the+exploding+toads&amp;btnG=Search+News), although I am not yet convinced that we are getting the straight story from the media -- after all, the widely reported [three-headed British frog of 2004](http://news.bbc.co.uk/2/hi/uk_news/england/somerset/3534361.stm) was, after vigorous discussion, decided to most likely merely be multiple [amplexus](http://dictionary.reference.com/search?q=amplexus), inexpertly observed, on [one Evolution/Creationism forum](http://www.iidb.org/vbb/showthread.php?p=1469685) (see also "[Three-headed frog -- not!](http://www.raygirvan.co.uk/apoth/trifrog.htm)" for the apparently definitive analysis).
+
+Let's assume that frogs really are exploding.  Unexplained phenomena like this are a great chance to test [William Dembski's Explanatory Filter](http://www.arn.org/docs/dembski/wd_explfilter.htm) to see if it detects intelligent design.  Let see: Is the phenomenon **specified?**  You bet.  In fact, it is specifiable _in advance_.  Humans have been blowing up animals for some time now -- for example, in 1970, the Highway Department of my beloved home state of Oregon decided to dispose of a stinky eight-ton whale carcass with 20 cases of dynamite.  See the [Exploding Whale Website](http://www.hackstadt.com/features/whale/) for the video.  Can known **natural laws** account for the explosion of live frogs?  Apparently not.  The known natural laws say that frogs, particularly live ones in a cool climate, shouldn't be exploding (dead ones in the hot sun might be another matter -- see the story about the [natural exploding of a 60-ton sperm whale in Singapore in 2004](http://www.msnbc.msn.com/id/4096586/)).  Can **chance** explain exploding frogs?  Nope.  Chance might explain some dead toads, but I estimate the chance of 1,000 dead toads, exploding rather than just dying, and _all in Hamburg_, to be less than 1 in 10^1,000 (and this is very generous probability estimate).  Furthermore, we know that intelligent designers can and do blow animals up intentionally.  So, we can safely conclude intelligent design is the best explanation for Hamburg's exploding toads.  QED.  Somebody alert the authorities.

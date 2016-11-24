@@ -1,0 +1,147 @@
+---
+layout: article
+title: Discussing common descent with Jonathan Sampson
+date: '2005-01-10 15:09:01 -0700'
+author: Jack Krebs
+mt_id: 660
+blog_id: 2
+post_id: 660
+basename: discussing_comm
+---
+A few days a number of us here at the Panda's Thumb, as well as some other "defenders of evolution" around the country, received an email from someone named Jonathan Sampson.  Sampson's email said he was interested in seeing examples of concrete evidence that would possibly falsify evolution (and by this he meant common descent).
+
+Now I know that a common creationist argument is that evolution is unfalsifiable - that the theory is so flexible that it can accommodate any evidence.  Often I do not respond to such unsolicited emails, but I did this time both because it was addressed to me at my Panda's Thumb email address (and we are a a forum for defending evolution and reporting on anti-evolution news) and because I had just had my conversation about common descent with Jerry Agar.  (See my previous post on this encounter [**here**](http://www.pandasthumb.org/pt-archives/000719.html))
+
+As this discussion progressed we found out that Mr. Sampson is the webmaster for and radio co-host with Kent Hovind (Dr. Dino), and that he was collecting responses with the idea of writing an article.  After some discussion, Mr. Sampson and I agreed that we were not granting permission to each other to posts each other emails.
+
+Here's a report on how my exchange with Mr. Sampson went.
+
+The approach I took in my responses was similar to my approach with Jerry Agar: I offered the point that evidence for special creation (the immediate materialization of organisms - creation ex nihilo) would be at least open up the possibility that something other than common descent was possible.
+
+This didn't satisfy Mr. Sampson very much.  In a couple of further emails, he made the point (similar to the one made by Jerry Agar) that "alternative theories" were irrelevant to his question.  He wanted "natural conditions," not theories of "possible divine intervention."
+
+At this point, I changed my perspective a bit.  I pointed out that there were two ways to interpret his question:
+
+1)  Evidence that might appear now that might "falsify" common descent.  
+
+2)  Evidence that might have appeared over the last 150 years, but didn't, that might have led science to reject common descent.
+
+I also tried to explain that scientific theories are seldom "falsified" in one fell swoop, but are rather supported or rejected based on an accumulation of evidence.
+
+In respective to 1) above, given that common descent is so well established now, it would take extraordinary evidence to overthrow its widespread acceptance: again, an observation of special creation in action would be such a piece of evidence.
+
+On the other hand, in respect to 2), we can think of dozens of things that might have been, but weren't: just take the evidence that we did find and imagine that that evidence had been radically different.  However, such speculation is really idle and proves nothing (other than supporting the contention that the evidence we do have does support common descent.)
+
+Our email conversation deteriorated a bit towards the end, at least in part because Sampson was looking for answers of a different kind than I was willing to give him.  One of the acrimonious points concerned his intention to publicize in some way his responses (a point that he did not immediately make clear.)  Therefore, for the record, I want to post the exchange here: short summaries of his emails and my complete responses.
+
+**Email 1**
+
+Sampson asked for potential evidence that might falsify common descent.  
+
+My response was,
+
+> Hi Jonathan.
+> 
+> Here is one simple, quick answer.
+> 
+> In the world of the here and now that we observe, all new organisms are born of parent organisms (either sexually or asexually).  Also, we clearly see from the fossil record that that species that now exist did not at one time, and species that are somewhat like existing species lived in the past.
+> 
+> Therefore, the current species must have come into existence at some point in the past.  If these species didn't arise through a chain of biological parent-child relationships (that is, through common descent), then the question must be "how did they arise?"  If someone could demonstrate some direct evidence that organisms could come into existence in some other way than being born, then that would be evidence that common descent might not at times be true.
+> 
+> As far as I know, the alternative to common descent is occasional special creation.  However, there is no evidence that organisms can arise ex nihilo - such an event would totally circumvent the laws of physics, and we have no evidence that such is at all possible, much less have we seen evidence of this happening.  Given that we do know of mechanisms that can produce variation and change from generation to generation, common descent is the accepted conclusion - there is no alternative supported by any evidence
+> 
+> So, in summary, evidence that new organisms can come into being in some way other than being born of a parent organism would be substantial evidence that something other than common descent might be possible.
+> 
+> Also, note that this would be evidence against the idea that there were unbroken chains of common descent going back to earliest life, but it would not "falsify" common descent.  There would still be the question of when and how often, if at all, there were actually breaks in the chain of common descent.  But evidence that organisms could arise by something other than parent-child relationships would at least make it plausible to look for evidence that this had indeed happened in the past.
+> 
+> Thanks for asking.  Feel free to reply, if you wish.
+> 
+> Jack Krebs
+> Vice-president, Kansas Citizens for Science 
+> Contributor at the Panda's Thumb
+
+**Email 2**
+
+Sampson repeated the question, and asked me to refrain from discussing alternative theories, saying they were irrelevant to his question.  
+
+My reply was,
+
+> Thanks for the discussion, Mr. Sampson.  I am sure you are getting other answers, so I want to stick with elaborating on my response.
+> 
+> You write,  "Please refrain from discussing alternative theories to life's origin, as they are irrelevant to my question."  But in science, possible alternative hypotheses are never irrelevant.  Science looks for the best possible answer to a question given all that we know at the time.  The fact is that we know of no other way for organisms to come into existence except for "birth" from a parent (with due understanding that asexual and sexual reproduction have some differences in his regard).  This makes common descent the default starting hypotheses.
+> 
+> If someone were to show that organisms could come into existence in some other way, then that would significantly change the situation.  This would not "falsify" common descent, as we would still have the question as to when common descent had operated and when this other new "other way" had operated, but it would certainly change the nature of the discussion.
+> 
+> Let me also point out that your question is about much more than "life's origins."  When we talk about common descent , we are talking about evolutionary chains of biological relationships at all times: the evolution of different species in Hawaii during the last 1000 years, the evolution of humans from pre-hominids during the last few million years, the evolution of mammals during the last 65 million years, and so on, clear back to the beginnings of life.
+> 
+> So, to summarize, the absence of any known alternative means of organisms coming into existence very strongly supports common descent; and therefore evidence of some other means of organisms coming into existence would provide a significant challenge to common descent.
+> 
+> Jack Krebs
+> Vice-president, Kansas Citizens for Science
+
+**Email 3**
+
+Sampson asked for a "natural condition," not "possible divine intervention.'
+
+My reply:
+
+> Hi.
+> 
+> I understand that I am not answering your question in the way you are looking for, but I do think my answer is quite relevant when taken along with all the evidence that supports common descent.
+> 
+> Part of my concern is that I think that the request for "a natural condition that would sufficiently falsify universal common descent" misrepresents how science is done.  There are many lines of evidence that support common descent, and it is unlikely that any one piece of evidence (except for maybe the one that I have offered) would by itself be enough to "falsify" common descent.  The support for common descent has been building for decades, and therefore it would take substantial amounts of new and unexpected evidence to cast strong doubt on common descent.  
+> 
+> My guess is that you have a motive, or at least a perspective, in asking this question that you are not making explicit - it is a common anti-evolutionary claim that evolution (and in this case, common descent) is "unfalsifiable."  Nothing could be further from the truth.  The easiest way to think about what could falsify common descent is to look at all the evidence \*\*\*for\*\*\* common descent, and then imagine that all that evidence were different - I can think of dozens of examples for which, if the evidence were different than it is, then common descent would be not so strongly supported or even rejected; and so can anyone conversant with that evidence.
+> 
+> What I imagine you mean, however, is given all the evidence we do have already, what evidence could now come along that would be so strong as to overturn, or throw into an entirely new light, the prevailing theory of common descent.  And my answer  to that question is as before - evidence that something other than birth could bring a new organism into being.  Common descent is unlikely to be "falsified" not because it is immune from evidence but because there is so much evidence that supports it, and because there is no evidence for any other mechanism for bringing new organisms into being - no viable alternative explanation.
+> 
+> Thanks,
+> 
+> Jack Krebs
+> Vice-president, Kansas Citizens for Science 
+
+**Email 4**
+
+Sampson repeated his question.  However, by this time I had found out about his connection with Hovind, and about his emails with other about publicizing the responses he was getting.
+
+Therefore, I wrote,
+
+> Hello Jonathan.
+> 
+> Here are two comments, which may bring our correspondence to a close.
+> 
+> 1)  It has come to my attention that you are associated with Kent Hovind as his webmaster and co-host of his radio show.  It seems to me that you have been somewhat deceptive in not mentioning this when you introduced yourself.
+> 
+> Also, I have heard from another one of the people you emailed that you might be intending to write something based on your correspondence - again something that perhaps you should have made known in your original email.  I'd like to make it clear that my emails to you have been private correspondence, and that you do not have my permission to publish them.
+> 
+> 2)  It has become clear to me from our discussion that do not have an accurate understanding of how scientific knowledge is verified, revised, or rejected.
+> 
+> Let me try one last time:  the evidence for the theory of evolution as the best explanation for the diversity of life has been accumulating for over 150 years.  To "falsify" the theory now, in the sense of convincing the world's scientists that there have been discontinuities in the chains of common descent between living organisms and those in the past, would take extraordinary new evidence - as I have said, the most telling being some evidence that organisms could come into existence by some other means than birth.
+> 
+> On the other hand, it is easy to think of lots of evidence that could have been discovered in the last 150 years, but wasn't, that might have led away from a theory of common descent and towards some other theory.  However, speculating on evidence we might have found but didn't is pretty idle work.
+> 
+> The truth of the matter is that before the theory of evolution the world believed in special creation.  Looking at this as a purely scientific question, divorced from any religious attachments, these two hypotheses have been tested by countless pieces of evidence and the scientific community has come to accept, based on that evidence, the theory of evolution and reject special creation.  If the theory of evolution, in the sense of common descent, were to have been "falsified" (that is, rejected due to being unsupported by the evidence) that would have happened long ago.
+> 
+> Thank you for the discussion.  However, I urge you in the future to be more honest with your correspondents about your position and intentions.
+> 
+> Jack Krebs
+> Vice -president, Kansas Citizens for Science
+
+**Email 4**
+
+In his last email, Sampson wrote me a rather scathing reply.  
+
+I replied,
+
+> Mr. Sampson, I have not avoided discussion with you at all, and certainly not because of who you are associated with.  What I did say was that I thought you should have been more upfront about your position and intentions in your original correspondence, but I said nothing at all about not discussing this issue with you because of that.  
+> 
+> I have sent you four responses to your question.  You have made it clear that you are looking for some different type of response than what I have given you, so I felt that it was time to draw the conversation to a close.
+> 
+> However, I will comment on your closing remark, where you wrote, "You have not provided any evidence that evolutionary theory is falsifiable, but instead you have given me the most humiliating response of the 47 - congratulations."  The first part of this sentence is false: I have offered an extremely pertinent example of a piece of evidence that would seriously challenge common descent - evidence for some other means of organisms coming into existence other than birth.  I have also made a distinction, which you have not responded to, between evidence that might arise now that would challenge common descent versus evidence against common descent that we might have discovered in the past, but didn't.  And third, I have pointed out that scientific theories are usually rejected because of accumulated evidence against them rather than being "falsified" by some "smoking gun" piece of evidence.  (Although I assure you, an observation of an organism instantaneously arising into existence would be such a piece of evidence.)  These have all been reasonable points, and you have offered nothing in response to them.  Therefore, I see nothing "humiliating" in my responses to you.
+> 
+> Jack Krebs
+> Vice-president, Kansas Citizens for Science 
+
+**Reflections**
+
+Some of my friends here at the Panda's Thumb believe that those of us who responded to Sampson should have known better.  However, I think it was an instructive exchange.  First, Sampson's implicit argument that common descent is unfalsifiable is a common anti-evolutionary claim, and I got some practice in addressing it.  Secondly, I got another opportunity to see what kinds of things the anti-evolutionists **don't** want to talk about - despite the talk of teaching "other theories," they really don't want their "theories" subjected to any scrutiny even though scrutinizing little bits and pieces of evolutionary theory is what they want to do.  I was quite clear with Sampson that I wasn't playing the game he wanted to play, and he didn't like it.

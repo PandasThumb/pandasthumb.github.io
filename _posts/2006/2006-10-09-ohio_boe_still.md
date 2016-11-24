@@ -1,0 +1,15 @@
+---
+layout: article
+title: Ohio BoE still stalling
+date: '2006-10-09 20:16:23 -0700'
+author: Nick Matzke
+mt_id: 2537
+blog_id: 2
+post_id: 2537
+basename: ohio_boe_still
+---
+The word out of Ohio today is that the [Ohio Board of Education](http://www.ode.state.oh.us/GD/Templates/Pages/ODE/ODEPrimary.aspx?page=2&amp;TopicRelationID=574) is still [stalling](http://www.ohioscience.org/CI_Deferred.shtml) on its prior commitment to have an up-or-down vote on a "replacement policy" for the ill-fated "[Critical Analysis of Evolution](http://www.ohioscience.org/lesson-plans.shtml)" benchmark and lesson plan which were [defeated back in February]().  This is in marked contrast to a recent report in the press in which a board member [claimed the debate template was "dead"](http://www.dispatch.com/text/stories/20061007-B5-00.php).
+
+For the history, see these [previous posts](http://www.google.com/search?sourceid=navclient-ff&amp;ie=UTF-8&amp;rls=GGGL,GGGL:2006-36,GGGL:en&amp;q=site:www.pandasthumb.org+ohio+debate+template).  Evidently the situation is that the creationists don't have the votes for their plan to survive an actual vote, so they are stalling in the hope that circumstances will change or the Ohio science community will lose interest and stop lobbying for quality science education in their state. Good luck with that.  I am also sure that [Discovery Institute lobbying](http://www.evolutionnews.org/2006/10/darwinists_in_ohio_show_true_c.html) and promotion of the "[Controversial Issues Debate Framework](http://www.ohioscience.org/CI_Response.shtml)" will help the creationist cause on the Board.  It's a bit like wearing a T-shirt that says "Covert attempt at religious establishment underway!" on the front.
+
+In other news, intelligent design has nothing to do with religious apologetics either, especially not in [the new ID video _Case For a Creator_](http://www.arn.org/blogs/index.php/3/2006/10/09/the_case_for_a_creator_dvd_available) which is allegedly [just peachy for public schools](http://www.arn.org/blogs/index.php/3/2006/10/09/the_case_for_a_creator_dvd_available).  I'm sure the video is much different than the [_Case for a Creator_ book](http://www.amazon.com/dp/0310240506/) upon which it is based, by professional apologist Lee Strobel.  I'm sure it is also dramatically different from [Strobel's dozens of other books](http://www.amazon.com/exec/obidos/search-handle-url/index=books&amp;field-author-exact=Lee%20Strobel&amp;rank=-relevance%2C%2Bavailability%2C-daterank/102-0198211-9774546), including _The Case for Faith_, _The Case for Easter_, _The Case for Christmas_, _The Case for Christ_, _The Case for Christ for Kids_, _The Case for a Creator for Kids_, _The Case for Faith for Kids_, _Off My Case for Kids: 12 Stories to Help You Defend Your Faith_, _The Case for Faith Miniature Edition_, and _Caso de Cristo, El_.  Strobel and his business have every right to keep doing what they are doing, of course, but they don't have any more right to governmental endorsement of their religious view than, say, [the Vedic Foundation did](http://www.friendsofsouthasia.org/textbook/index.html).

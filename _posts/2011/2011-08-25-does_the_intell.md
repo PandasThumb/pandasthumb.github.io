@@ -1,0 +1,112 @@
+---
+layout: article
+title: Does the intelligent design movement need to be demolished and rebuilt?
+date: '2011-08-25 21:29:08 -0700'
+author: Jack Scanlan
+mt_id: 6337
+blog_id: 2
+post_id: 6337
+basename: does_the_intell
+---
+<p>\[[Republished](http://www.naontiotami.com/2011/08/does-the-intelligent-design-movement-need-to-be-demolished-and-rebuilt/) from _Homologous Legs_\]</p>
+
+
+<p>The intelligent design (ID) movement has been around for over 20 years, and few (if any) of [its stated and implied goals and plans](http://www.antievolution.org/features/wedge.html) have thus far come to fruition. While contributing factors to this lack of success are certainly the hard work of the scientific community and its friends, as well as the fact that ID has never been adequately formulated as a scientific idea, a significant proportion of the responsibility for the outcome should be laid upon the ID movement itself. It has, in arguably many respects, acted in the exact opposite way that it should have acted if it wanted to be taken seriously - only one example of which is bringing up religion whilst simultaneously claiming that they weren't and then chastising critics who pointed out what they were doing.</p>
+
+
+<p>It's hard to find an ID proponent who will admit this. Like many movements, the one constructed around ID is [insular, mistrusting and lacks introspection](http://www.uncommondescent.com/), and it spends most of its time on attacking "the Darwinist enemy" in academia instead of really thinking about what it's doing. This is understandable, considering it's been relentlessly criticised by the scientific community ever since it poked its head up out of the carcass of creation science, rendering it in a somewhat-perpetual state of defensiveness. Those few proponents who can somehow forget the fact that nearly every biologist in the world would laugh about their ideas to their face given the chance still attack evolutionary biology with unparalleled confidence, which bolsters the morale of those in the Internet trenches: and thus the movement continues. Even with its "Darwinist conspiracy" mindset, it still thinks it's winning. But it's not. Not by a long shot.</p>
+
+<p>On the _How To Debate Evolution_ blog, the pro-intelligent design author, EvoGuide, has written what they think is a solution to many of these problems, in a post titled ["Towards a Better Version of ID - A Manifesto"](http://howtodebateevolution.com/towards-a-better-version-of-id-a-manifesto/). While I think it still has its flaws, the bigger ID blogs, such as _Evolution News & Views_ and _Uncommon Descent_, would do well to listen to this advice:</p>
+
+
+> <p>Somewhat more recently, among creationists, the realization emerged that what was needed was a more "scientific" version of creationism. So as a result, they came up with "Intelligent Design" or ID. To bystanders like myself, those were exciting times. At last, creationism would finally become an actual scientific theory that would go toe to toe with evolution. We even had our champion, Michael Behe, who had already baffled evolutionists with his concept of "Irreducible Complexity." The sky was the limit to what would be accomplished.</p>
+> 
+> 
+> <p>But instead IDers devoted themselves to loosing \[sic\] silly and embarrassing court cases (endorsing textbooks where the word "God" was search and replaced with "id"). And Michal \[sic\] Behe? Well, he seems to have resigned himself to authoring books and collecting royalties.</p>
+> 
+> 
+> <p>To all my fellow evolution skeptics out there, I'm sad to tell you that creationism and ID are dead. And it's not even as if ID entered the ring with evolution and got its butt kicked all over the canvas. Then at least, it would have died in honor. Instead, its more as if, for all these years, it has not yet even been able to figure out how to climb into the ring.</p>
+> 
+> 
+> <p>I believe that if there is any hope for "Design" as a concept to survive the next century, we need a whole new version of Intelligent Design altogether. In fact, I wouldn't even call it Intelligent Design anymore for all the bad memories.</p>
+
+
+<p>This is what honesty looks like, everyone. The Discovery Institute isn't about to admit to any of this though, of course - it would be a PR nightmare. But then again: if ID is to be rebuilt, don't the old edifices need to be demolished before that can happen?</p>
+
+
+<p>EvoGuide then goes through a list of eight things the new ID should endeavour to do, in order to change its image and scientific prospects. Some are good, some are iffy and some are just plain common sense:</p>
+
+
+> <p>This new ID should:</p>
+> 
+> 
+> <p>1) Sever all ties with any religious or political organization, any religious or political agenda.</p>
+
+
+<p>I doubt it will ever happen, but in a perfect world, ID's leading organisation wouldn't be a conservative Christian think tank.</p>
+
+
+> <p>2) Cease all efforts to gain influence through court trials and legislation.</p>
+
+
+<p>The proper process of science isn't to legislate your ideas into the classroom: be they your hypotheses or your arguments against rival theories.</p>
+
+
+> <p>3) Stop trying to make changes to the public school curriculum.</p>
+
+
+<p>Curricula change in response to legitimate revisions in the opinions of the scientific community. It doesn't work the other way around.</p>
+
+
+> <p>4) This new ID will need to find a way to do one of two things:</p>
+> 
+> 
+> 
+> 1. Either invent a new scientific method, one that is at least as effective as the current one at studying the natural world but which can also allow for and has ways to study the supernatural (highly unlikely) or,
+> 1. b) Find a way to work within the confines of the current scientific method.
+> 
+> 
+> 
+> <p>What this means is that for something to qualify as science within the current system, it must not allow for supernatural elements. So if ID believes that the Intelligent Designer is a supernatural being, it must find a way to study this concept "naturally".</p>
+> 
+> 
+> <p>The only way this can be done, as far as I can see, is to postulate the design process as if accomplished by a scientifically advanced bio-engineer extra terrestrial (SABEET) that would go about the process the same way a human scientist would once we became advanced enough to create new life forms and populate new planets. Using such a concept would allow us to develop a model based on which to make testable predictions.</p>
+
+
+<p>This point is questionable. Once you start hypothesising a specific type of Designer (which is exactly what the ID movement needs to **start** doing in order to be anywhere remotely close to having a scientific hypothesis), the predictions and tests are valid only for that particular hypothesis. Predictions based on alien bioengineering, if fulfilled, only support the alien bioengineering hypothesis: ID proponents can't then take those positive results and claim that a supernatural Designer hypothesis has also been supported. If that was the case, why do you even need to posit a non-supernatural Designer in the first place, if a supernatural one can benefit from positive predictive outcomes?</p>
+
+
+<p>In my opinion, for ID to move up and out of the pit it is currently trapped in, it needs to leave the concept of supernatural design behind.</p>
+
+
+> <p>5) Once a basic framework for scientific study is agreed upon, effort should be made to gain consensus for this new framework among as many IDers and Creationists as possible. We are already more than a century behind and need all the help we can get. But more importantly, it will be very difficult for a theory of ID to gain ground if every little group of IDers has its own private version of the theory.</p>
+
+
+<p>This is what the Discovery Institute has been trying to do, albeit slightly half-heartedly, for 20 years. But their reason for doing so wasn't a practical, scientific one, but a theological and political one: if you've got Catholics, Protestants and Jews all together in one tent, you've got to find the lowest common denominator, an idea that everyone can agree to, so the coalition doesn't splinter into shards before any meaningful work can be done. It's still sound advice, however.</p>
+
+
+> <p>6) Not just this, but this new ID should seriously invest in bright young people who have an interest in the subject and sponsor their education and advanced studies at the best possible schools in order to develop a new generation of scientists that are highly skilled in their fields.</p>
+
+
+<p>I think I'm probably correct when I say that this is the dream of every new branch of science: and it's easier said than done. Sponsorship requires money and the recruitment of new talent requires preliminary results and excellent communication skills on the part of the core group trying to get their ideas out there. A new ID without an entity such as the Discovery Institute is unlikely to have any of these things. Perhaps this "rebuilding ID" thing is trickier than it looks.</p>
+
+
+> <p>7) Then, such ID should first focus on contributing to science. A theory of ID as described above would overlap in many instances with the theory of evolution. ID scientists should choose first, areas of study where they share a common interest with evolutionary scientists and publish scientific papers that contribute to the overall advancement of science. They should thus develop a good reputation and respect within the scientific community.</p>
+
+
+<p>Sound advice. I'm not sure anyone could predict ahead of time how much ID will (hypothetically) overlap with evolutionary biology, though. It would most likely depend on the form of ID being put forward.</p>
+
+
+> <p>8) Lastly, ID scientists should not be focused on competing with or defeating Darwinism. Even when their work might take them in direct opposition to what is commonly agreed upon in evolutionary circles, the focus should not be to disprove evolution but rather to do good science.</p>
+
+
+<p>The thing is, critiquing competing ideas is an invaluable part of science. No serious ID critic should claim that attacking evolutionary theory is a **bad** strategy for ID proponents, provided they also give positive evidence for their own ideas, especially in cases where their ideas would supplant those that they are attacking. The key here is balance: clear the way for your own ideas with legitimate criticism, but make sure you have developed and justified your own ideas enough so that they are able to fill the explanatory holes you create.</p>
+
+
+<p>EvoGuide goes on to describe a possible hypothetical scenario that a new form of ID could be based upon, but I won't go into any detail on it. It's a reasonably interesting scenario, but, of course, various aspects of it need to be independently supported before it can count as a scientific hypothesis, lest it succumb to the fate of its old-ID ancestor.</p>
+
+
+<p>In short, what I want to get across in this post is that the ID movement at the moment is a scientific joke - and I'm not saying that to make a rhetorical point or to bolster my case, I'm saying it because it's true. It's filled with sneaky and not-so-sneaky appeals to theology, politics and law, while it neglects to engage with science or the scientific community in any meaningful way. It's defensive, not inquisitive; it attempts to change textbooks before it has any justification to do so; and it's hung up on a concept of design that is untestable and flawed, in order to appease a wide, religious base of supporters who hang together due to the vagueness of the concept of ID.</p>
+
+
+<p>To all the ID proponents out there: do you want to be taken seriously? Consider what EvoGuide and I have to say. While your ideas may be proven incorrect in the long run, if you truly believe you're onto something, make the most of it and stick to the proper method of conducting science.</p>

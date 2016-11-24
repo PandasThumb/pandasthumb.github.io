@@ -1,0 +1,100 @@
+---
+layout: article
+title: Dembski "Displaces Darwinism" mathematically - or does he?
+date: '2005-03-16 09:42:51 -0700'
+author: Mark Perakh
+mt_id: 806
+blog_id: 2
+post_id: 806
+basename: dembski_displac
+---
+**Introduction**. In the beginning of March 2005 William Dembski sent an email message to several critics of his output, including me. Dembski wrote: 
+
+> "Dear Critics,
+> 
+> Attached is a paper that fills in the details of chapter 4 of No Free Lunch, which David Wolpert referred to as "written in jello." The key result is a displacement theorem. Along the way I prove and (sic) measure-theoretic variant of the No Free Lunch theorems."
+
+Dembski concluded his message as follows: 
+
+> ". . . I expect that Ken Miller's public remarks about intelligent design being a ‘total, dismal failure scientifically' will become increasingly difficult to sustain.   
+> This paper, and subsequent revisions, can be found on my website www.designinference.com. I welcome any constructive comments about it." 
+
+Dembski's new paper (in PDF format) is found at [http://www.designinference.com/documents/2005.03.Searching_Large_Spaces.pdf](http://www.designinference.com/documents/2005.03.Searching_Large_Spaces.pdf), where its text has already undergone some modifications compared to its initial version. Perhaps these modifications were prompted by critical comments that appeared on the internet, in particular those made by a contributor to the ARN website who signs his posts as RBH, as well as by Tom English and David Wolpert (whose remarks appeared on a certain internet forum). 
+
+In his essay at [ http://www.designinference.com/documents/2004.04.Backlash.htm]( http://www.designinference.com/documents/2004.04.Backlash.htm) Dembski wrote, 
+
+> "I'm not going to give away all my secrets, but one thing I sometimes do is post on the web a chapter or section from a forthcoming book, let the critics descend, and then revise it so that what appears in book form preempts the critics' objections. An additional advantage with this approach is that I can cite the website on which the objections appear, which typically gives me the last word in the exchange. And even if the critics choose to revise the objections on their website, books are far more permanent and influential than webpages." 
+
+While Dembski's frank admission of the tricks he resorts to in order to "win" the cultural war may sound commendable, the tricks themselves are hardly in tune with what normally is considered intellectual integrity.  He should have added that making the described revisions in his texts, he usually does not acknowledge the input from critics.  
+
+While I make a note of Dembski's invitation to offer "constructive comments about it," it seems proper to point out that Dembski's earlier rendition of the topics covered in his new paper have been extensively discussed and critiqued but he has not deemed it necessary to respond to critique. In particular, in a chapter which I authored in the anthology _Why Intelligent Design Fails_ (editors Matt Young and Taner Edis, Rutgers Univ. Press, 2004) I specifically addressed Dembski's \[mis\]interpretation of the No Free Lunch theorems and his "displacement problem" as it was rendered in chapter 4 of his _No Free Lunch book_. Dembski's new paper in no way answers my critique of his earlier output where he discussed the same notions in a less mathematical rendition.  None of my earlier critical comments regarding Dembski's misinterpretation and misuse of the NFL theorems and his displacement problem (in its original presentation) is deflected by anything in his new paper. 
+
+I'll try to answer the question - does Dembski's new paper justify his assertion that 
+
+> "Ken Miller's public remark about intelligent design being a ‘total, dismal failure scientifically' will become increasingly difficult to sustain"? 
+
+ 
+
+**Not quite consistent.** In the same vein as my chapter in the anthology _Why Intelligent Design Fails_, I'll discuss Dembski's new paper without delving into mathematical symbolism as this essay is addressing a general audience rather than only mathematically prepared readers. 
+
+Dembski states in his new paper that it mathematically formalizes the ideas previously outlined in a less rigorous form in chapter 4 of his book _No Free Lunch_ (in his words, his new paper "fills in the details of chapter 4 in No Free Lunch"). 
+
+This statement seems to be, first, aimed at asserting the supposed consistency of Dembski's discourse, and, second, at providing a sort of answer to the well known characterization (by David Wolpert) of Dembski's treatment of the No Free Lunch theorems as "written in jello" ( [www.talkreason.org/articles/jello.cfm)](www.talkreason.org/articles/jello.cfm)).
+
+Wolpert is a co-originator of the No Free Lunch theorems, hence his opinion of Dembski's treatment of these theorems carried considerable weight. Some of Dembski's admirers tried to play down the significance of Wolpert's critique by posting letters to that effect on various internet fora. However, Dembski himself has maintained a deafening silence, as if Wolpert's critique did not exist.  It seems that the statement in his new paper which points to the supposed consistency between chapter 4 in his 2002 book and his new paper is a device designed to blunt the sharpness of Wolpert's characterization.
+
+However, the comparison of Dembski's new paper with chapter 4 in his book shows that the assertion of consistency is not quite true. In fact, Dembski's new paper introduces certain substantial modifications of the basic concepts suggested in the "jello" chapter in his earlier book. The displacement problem No 1 (as rendered in the No Free Lunch book) and the displacement problem No 2 (as discussed in the new paper) seem to be not quite the same problem (as I'll discuss below), although Dembski's position is that the two displacement problems are identical.
+
+Dembski's new paper is heavily mathematical and is obviously designed to impress readers with his mathematical sophistication. Dembski's colleagues (some of whom may even not have a proper background to comprehend his mathematical ruminations) have promptly acclaimed this new paper as "splendid" and allegedly "displacing" that perfidious offshoot of materialistic philosophy, "Darwinism." 
+
+I believe the delight of Dembski and his colleagues is premature. 
+
+**Fallacious assumptions**.  First a very general observation. Dembski's delight is based on the implicit assumption that fundamental concepts of biological science can be "proved" or "disproved" mathematically.  Dembski has adhered to similar notions previously, for example, suggesting in his book _The Design Inference_ that representing certain notions in a mathematically symbolic form somehow "proves" them. In my book _Unintelligent Design_ (chapter 1, pages 26-28) I have demonstrated the fallacy of such a supposition, using as an example Dembski's presentation of an argument for design in two versions - once expressed in plain words, and once in a mathematically symbolic form. As is evident from that juxtaposition of two renditions of the same argument, using mathematical symbolism does not provide any additional insight and, in Dembski's case, only served to embellish his discourse. In his recent papers, including the paper I am discussing here, Dembski makes a further step on the same road.  Now his overall approach seems to be implicitly based on the idea that a purely mathematical discourse is capable of "displacing Darwinism." 
+
+Of course, this is wishful thinking.  "Mathematics is a language," said the great American physicist Josiah Willard Gibbs. Indeed. Mathematics is an extremely powerful tool. However, no mathematical theorem or equation "proves" or "disproves" anything beyond the logical connection between a premise and a conclusion.  If a premise is false, so is the conclusion, regardless of how sophisticated and impeccably correct the applied mathematical apparatus is.
+
+Since Dembski's proclaimed goal is to prove "Darwinism" false, all of his mathematical exercise is irrelevant as it in principle cannot achieve such a goal. Evolutionary biology is an experimental science and "Darwinian" mechanisms of evolution have been supported by an immense empirical material. No mathematical theorems or equations can "displace" evolutionary biology.  Its successes and failures can only stem from empirical research and observations bolstered by proper theorizing, wherein mathematics, however important and enlightening, is always only a tool. 
+
+Closely connected to this fallacious approach to mathematics as allegedly capable of "disproving" evolution, there is another serious (I would say fatal) drawback to Dembski's approach. He seems to first implicitly define his goal (in this case to prove that "Darwinian" mechanisms cannot explain evolution) and then apply what is an analog of "reverse engineering" to find a premise from which his already chosen conclusion can be mathematically derived.  The premise deliberately chosen to lead to a pre-determined conclusion has little chance to be true. 
+
+**Dembski's premise.**  To be more specific, let us see what Dembski's premise implies. Here there is indeed a certain consistency between his earlier discourse in his _No Free Lunch_ book and his new paper. He considers biological evolution as the search for a certain small target within a very large search space (which in his book was referred to as the "phase space"). 
+
+As I pointed out in _Why Intelligent Design Fails_, in his _No Free Lunch_ book Dembski did not suggest a definition of a target. In his new paper this lacuna has been filled. Now Dembski provides a definition of a target. Without delving into Dembski's mathematical formalism, he defines target T as a particular small region somewhere within the very large search space Q.  He asserts next that finding the target using a blind search is an endeavor whose success has a very small probability.  For the search to be successful, it has to be "assisted," which means the search algorithm needs to get information about the structure of the search space. For example, the search algorithm may be assisted by feedback, letting the algorithm know whether each step brings it closer to the target or pushes it farther from the target.  The source of such information lies in a "higher-order" information space. In Dembski's _No Free Lunch_ this higher-order space was denoted J.  From that earlier discourse seemed to follow that space J contained (perhaps besides some other things) all possible fitness functions.  In his new paper the "higher-order" space is denoted M and seems now to contain not the fitness functions but rather all possible "searches," that is all possible search algorithms.  This seems to be a substantial change of the entire concept of the "displacement problem" which Dembski claims to be the main element of his discourse.  It seems to be at odds with Dembski's claim asserting that his new paper is just "filling in details" in his earlier rendition of his ideas, this time on a more rigorous level, so it is no longer "written in jello."
+
+In fact, his new rendition is substantially different from the original version found in his book.
+
+**Dembski's assisted searches and NFL regress.** Let us recall once again the problem Dembski discusses in his new paper. It is a search for a small target within a large search space.  Mathematically analyzing this problem, Dembski concludes that only an "assisted search" has a reasonable chance of success and such an "assisted search" is only possible if, first, a "search for a search" is conducted in a higher-order information-resource space. The latter, however, in turn requires information from an even higher-order space, etc. Dembski calls this situation "No Free Lunch Regress." He maintains that "stochastic processes" (and biological evolution belongs in this category) are incapable of getting out of the regress in question, so for the search to be successful, input from intelligence is necessary (which seems to be in fact his _a priori_ conviction, just not expressed explicitly).
+
+Dembski's claim that the "assistance" can only come from an intelligent source reflects his antecedent belief but is not supported by any argument, either mathematical or heuristic. A detailed discussion of this point is not necessary, however, because, as I will show, Dembski's entire schema is irrelevant for real-life searches.
+
+Another comment that immediately comes to mind is that if a search is assisted by information from a higher-order space, the search algorithm that has acquired such  information is not a "black-box" algorithm any more, so the No Free Lunch theorems, at least in the form they were proven by Wolpert and Macready, are invalid for such algorithms. (Wolpert-Macready's proof was valid for black-box algorithms. A black-box algorithm has no advance knowledge of the fitness landscape and acquires such knowledge step-by-step, extracting it from the fitness landscape in such a way that it accumulates information about the already visited points in the landscape but still has no knowledge of any points not yet visited; it possesses no knowledge of a target either, if the search is target-directed.)
+
+Although this simple consideration casts doubts on Dembski's entire discourse (unless he can prove that the requirements for an algorithms to be of a "black-box" variety can be invalidated) it is of a secondary importance because the No Free Lunch theorems are only about the average "performance" of search algorithms and are irrelevant to the actual problem of a _specific_ search algorithm facing a _specific_ fitness landscape. In that, Dembski's new paper is not an improvement over his earlier discourse and fails to account for the irrelevance of the NFL theorems for biological evolution.
+
+Moreover, regardless of the NFL theorems, Dembski's discourse seems to be, again, irrelevant to real-life problems for a more universal reason. Here is why.
+
+Do we need to analyze all of Dembski's convoluted mathematics in order to see whether his conclusion is substantiated? No. There are several reasons to ignore Dembski's mathematical exercise but I will now point to only one such reason which, I believe, is fully sufficient to reject Dembski's conclusion. 
+
+**Is biological evolution a search for a target?**  Biological evolution has nothing to do with the problem Dembski analyzes in his new paper - the problem of a search for a small target in a large search space. 
+
+Let us grant Dembski the assumptions and derivations he offered in his mathematical exercise. They may be perfectly correct or partially defective, but either way it will not affect our general conclusion. 
+
+Biological evolution is not a search for a target in a search space. It knows of no target. It is blind and its results are not predetermined, unlike the results of a targeted search employed in certain artificially designed evolutionary algorithms (such as in Dawkins's "weasel" algorithm). 
+
+Look at Dembski's example of a "search" for a particular protein.  He calculates  that the probability of "finding" a particular protein which is 100 amino acids in length via a random search in a space of all possible proteins of such a length, assuming uniform distribution of probabilities in this space, is so small ( 10<sup>-130</sup> ) as to be practically hopeless. The arithmetic here may be perfectly correct, but it has no relevance to real biological evolution. Evolution does not search for a particular protein determined in advance as a target. It conducts a variety of blind "searches," the number of which is immense and some of them result in a spontaneous emergence of certain biologically useful proteins, whose biological role was not foreseen. The probabilities of such occurrences are irrelevant: because of the very large number of such "searches," the overall likelihood of emergence of some useful proteins is by many orders of magnitude larger than the number Dembski calculates.  Moreover, imposing upon "random searches" a non-random factor - natural selection may serve as an example of such a non-random factor - drastically accelerates the process. There are other natural factors ignored in Dembski's schema which naturally "assist" the "search," so it is "assisted" without input from intelligence and without a need to search a "higher-order" space. Dembski's model of protein's components randomly assembling all at once is very far from realistic scenarios discussed in evolutionary biology.
+
+Dembski schema is utterly arbitrary insofar as it relates to a natural biological process. 
+
+Therefore all Dembski's theorems and equations, as well as his conclusions, have no relevance to evolutionary biology. 
+
+**Conclusion: is Dembski's mathematics relevant to intelligent design?** Are Dembski's mathematical exercises relevant to intelligent design in general? I don't think so. Indeed, let us assume that Dembski's thesis is valid for targeted genetic algorithms like Dawkins's "weasel" algorithm. Even if this is true, it has no relevance to the question of the validity of intelligent design. We know anyway that such artificially designed algorithms receive input from an intelligent agent - a human programmer who supplies "assistance" to the algorithm in the way of a feedback: it tells the algorithm at every step of the search whether it comes closer to the target, stays the same distance from it, or moves farther from the target. The same may be true for many other artificially programmed genetic algorithms.
+
+However, this in no way means that an analogous situation exists in the biosphere where the search is not target-oriented and where therefore no input from an "assisting" agent is required.  In fact, in biological evolution no "assistance" from a "higher-order" information space is possible because the outcome of a search is not known in advance, so the "search" (if we agree to apply this term, which is in fact a misnomer) is in all cases spontaneous and undirected. 
+
+All this has no relation to the No Free Lunch theorems, either those for fixed landscapes or those for co-evolution, which all are irrelevant to the actual encounters of _specific_ natural genetic algorithms with _specific_ fitness landscapes, either fixed, or co-evolving in the course of the search.  Hence the question of whether Dembski's mathematical exercise is formally correct or contains errors is irrelevant to the question of intelligent design's validity. Even if artificial genetic computer programs indeed require an input from intelligence (although even some of such algorithms work without such an input) this is not a question of concern if intelligent design is discussed. The latter's validity is predicated upon whether or not intelligent input is required for natural non-targeted searches. 
+
+Neither Dembski nor anybody else has so far suggested any evidence that such input is necessary for non-targeted searches. Dembski's new paper has not done anything like that by a long shot.  In my view this paper is an exercise whose heavy mathematical embellishment serves no other purpose than showing once more that Dembski, on the one hand, knows a lot of mathematical symbols, and on the other hand has problems with overall consistency and logic.
+
+As the matter now stands, Ken Miller's statement quoted by Dembski remains fully valid. (Besides Miller, it is shared by most scientists who happened to come across Dembski's numerous publications - a good example is perhaps the anthology _Why Intelligent Design Fails_ - which Dembski fails to even mention, let alone to reply to).  Dembski's new mathematical exercise does nothing to make the statement about the abject scientific futility of intelligent design any less true than it has been until now. 
+
+_PS. I have a surgery scheduled for tomorrow morning, so I'll be unable to respond to critical comments, if any, at least for a while. MP_

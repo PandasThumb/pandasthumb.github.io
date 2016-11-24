@@ -1,0 +1,26 @@
+---
+layout: article
+title: 'Of Weasels and weasling '
+date: '2009-08-30 18:26:42 -0700'
+author: Ian Musgrave
+mt_id: 4397
+blog_id: 2
+post_id: 4397
+basename: of_weasels_and
+---
+As everybody should be aware by now, Denyse O'Leary is offering [a prize for the original code for Dawkins' Weasel program](http://pandasthumb.org/archives/2009/08/how-to-do-id-1.html) which illustrates cumulative selection \[1\]. O'Leary's offer arises from people challenging Dembski's misrepresentation of the Weasel program, as he has misrepresented it yet again in a [trivial non-id paper](http://msampler.wordpress.com/2009/08/19/dembski-and-marks-publish-trivial-id-paper/).  To get some much needed perspective, read [Joe Felsenstein's excellent article](http://pandasthumb.org/archives/2009/08/a-peer-reviewed.html) (and its [follow-up](http://pandasthumb.org/archives/2009/08/a-peer-reviewed-1.html)) and those of  ~~Chris~~ Mark Chu Carroll  ([here](http://scienceblogs.com/goodmath/2009/08/quick_critique_dembski_and_mar.php) and [here](http://scienceblogs.com/goodmath/2009/08/_a_brief_disclaimer_before.php))
+
+Seriously, arguing over whether Dawkins "weasel" program implements locking is a bit like arguing over whether the measuring cylinder in the[ Measuring Cylinder/Tap model](http://www.icp.org.nz/html/drug_clearance_1.html) of drug clearance is emptied by a tube or a bloke with a cup. Both are simplified systems that make demonstrating a concept easy, and do much the same thing.
+
+The point is that a leading light of the [cdesignproponentsits](http://www.google.com.au/url?q=http://pandasthumb.org/archives/2005/11/missing-link-cd.html&amp;ei=WDKaSpLzDMaIkAXrl_yrAg&amp;sa=X&amp;oi=spellmeleon_result&amp;resnum=1&amp;ct=result&amp;usg=AFQjCNEpme1kReMXcolju6pHIA5v6qxf9Q) has spent an enormous amount of time critiquing a toy demonstration of selection, and can't even get the toy example **right**. Not only that, they can't admit when they were wrong. Heck, **no one** in the  cdesign proponetsists can admit Dembski is wrong about a toy program, even when presented with video evidence. 
+
+Let's emphasise this again. It's a non-issue except for the way it highlights the determined cluelessness of cdesign proponetsists. To use the metaphor of the[ Measuring Cylinder/Tap model](http://www.icp.org.nz/html/drug_clearance_1.html) of drug clearance again, Dembski is effectively arguing that Dawkins said the measuring cylinder is emptied by a man with a cup in his book, but anyone can go to [Dawkins original book](http://www.montana.edu/~wwwbi/staff/creel/bio405/dawkins%201986.pdf), read how he set it up, and understand that Dawkins specified a tube. Dawkins doesn't specify how big the tube, or the flow rate of the tap, but it's sort of obvious and you can easily make an analogous system which demonstrates the same things that Dawkins does. Everyone understands except Dembski who then makes a convoluted argument over the whole thing (see [www.evoinfo.org ](http://pandasthumb.org/archives/2009/03/www.evoinfo.org)and read their "explanation" of Dawkins program if you have a spare half-hour of your life you don't mind wasting).
+
+Now there is a video showing a measuring cylinder with a tube (metaphorically, see [www.youtube.com/watch?v=5sUQIpFajsg](www.youtube.com/watch?v=5sUQIpFajsg) (go to 6:15) for the real video showing the weasel program), Dembski goes "oh, Dawkins must have REALLY have used a cup in his book, then swapped to a tube for the video". Aside from the convoluted mentality involved in this staggering piece of "reasoning", it goes to the heart of the cdesign proponentists reliability.
+
+When Dembski claims that [Lenski](http://myxo.css.msu.edu/papers/nature2003/) et al., have "smuggled in information", explaining why they are wrong can get quite technical, but when they claim Dawkins has "smuggled in information", one can simply point to how deeply they have misunderstood Dawkins model, and if they can't get Dawkins right (after being told repeatedly, having it explicitly demonstrated to them and being shown a video), what hope is there that they got Lenski right.
+
+For more information on Dembski's denial of the video evidence, see [Dembski Weasels Out](http://pandasthumb.org/archives/2009/03/dembski-weasels.html), for a wide compendium of Weasel programs old and new, including head to head comparisons of Dawkins version _vs_ Demski's locking version see [Weasels on Parade](http://pandasthumb.org/archives/2009/03/weasles-on-para.html) (note it took over 23 days for the Uncommon Descent people to come up with any programs themselves). To see where I completely reconstruct the output shown in Dawkins book, [see here](http://pandasthumb.org/archives/2009/03/weasles-on-para.html#comment-180871). 
+
+\[1\] Why doesn't O'Leary just ask Dawkins? The whole concept of running a competition to get Dawkins code instead of asking Dawkins is rather bizarre. While he may not have the original code, he can tell her how he did it.\[2\]
+\[2\] People have asked Dawkins before. It no longer exists. Just like the AppleBasic programs I wrote to calculate stimulation-induced radioactive outflow for our laboratory. Used for years but vanished into the mists of time. Seriously, even if there was a disk around with AppleBasic finding a machine to run it and make copies would be an adventure in itself.

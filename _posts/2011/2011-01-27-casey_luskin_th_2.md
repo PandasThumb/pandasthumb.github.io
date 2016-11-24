@@ -1,0 +1,54 @@
+---
+layout: article
+title: Casey Luskin thinks normal scientific explanations are "just so" stories
+date: '2011-01-27 13:22:10 -0700'
+author: Richard B. Hoppe
+mt_id: 4861
+blog_id: 2
+post_id: 4861
+basename: casey_luskin_th_2
+---
+In a response to publication of the [Cheng, _et al_ paper in PNAS](http://www.pnas.org/content/107/50/21593.abstract?sid=c12a7d0a-07fd-4458-851d-d83bd7210112) which demonstrated an evolutionary pathway to the antifreeze gene that protects fish from freezing in Antarctic water (see also [my post on it](http://pandasthumb.org/archives/2011/01/gene-duplicatio-1.html)), Casey Luskin, attack gerbil of the Disco 'Tute, [ invokes Stephen Jay Gould's infamous "just so" phrase](http://www.evolutionnews.org/2011/01/a_fishy_story_about_antifreeze043141.html).  Luskin then kindly outlines the three steps in constructing a "just so" story to account for biological phenomena.  Here I'll walk through Casey's steps for a parallel case to show just how specious his claim is.  The parallel case is accounting for how a particular boulder, indicated below by the red arrow, got to where it was in a landslide (image used by permission of [Air-and-Space Museum](http://www.air-and-space.com/home.htm)).
+
+<img src="http://pandasthumb.org/archives/2011/01/27/Landslide.jpg" alt="Landslide.jpg" width="756" height="501" />
+
+Luskin's main complaint about the Cheng, _et al._ paper is that it invokes various processes (_known to occur in nature_) to account for the end product:
+
+> \[It claims that\] AFPIII evolved from a duplicate copy of another gene in the fish, SAS-B. They summarize their evolutionary story: "AFPIII 5'FR, intron1 (I1), exon2 (E2; icebinding mature AFPIII), and 3'FR were derived from the 5'FR, I5, E6 (SAS C-terminal domain), and 3'FR, respectively, of the ancestral LdSAS-B," and then "\[a\]ccelerated adaptive changes subsequently occurred in the nascent AFPIII gene."
+> 
+> **The Gene Evolution Game**
+> Sounds simple and compelling, right? Don't be too impressed. If you go back and read my article, "[How to Play the Gene Evolution Game](http://www.evolutionnews.org/2010/02/how_to_play_the_gene_evolution032141.html)," you'll find that by using a combination of three magic wands -- Gene Duplication, Natural Selection, and Rearrangement -- it's a simple matter to concoct a just-so story to "explain" the origin just about any gene sequence -- no details required:
+
+Let me walk through the steps of Luskin's Game, translating to show how they would operate in the boulder/landslide scenario.
+
+> **Gene Evolution Game Rule 1:** Whenever you find sequence homology between two genes, just invoke a duplication event of some hypothetical, ancient ancestral gene, and you can explain how two different genes came to share their similarities.
+
+For the boulder that translates to something like
+
+> **Boulder Game Rule 1:** Whenever you find shape and mineral composition homology between a rock at the bottom of a slope and a ledge up the slope, just invoke a hypothetical breakage event and a hypothetical landslide event and you can explain how the rock and the ledge come to share their similarities in shape and composition.
+
+So if we search the cliff above the landslide and find a ledge that has a similar mineral composition and find a portion of the ledge with a physical shape at its edge that's roughly complementary to the shape of a side of the boulder, we just invoke  hypothetical breakage and landslide events to account for the boulder's existence and position, using the magic wand of gravity as a natural law in our explanation.
+
+Second, Luskin tells us 
+
+> **Gene Evolution Game Rule 2:** When you need to explain how a gene acquired some new function, or evolved differences from another gene, just invoke the magic wand of natural selection. 
+
+In our boulder example, that translates to
+
+> **Boulder Game Rule 2:** When you need to explain how a boulder acquired some nicks and chips or shape differences from the ledge above just invoke the magic wand of collisions with other boulders during the hypothetical landslide.  To account for the driving force that got it to its position at the bottom of the slope just invoke the magic wand of gravity.
+
+Finally, Luskin's third rule is
+
+> **Gene Evolution Game Rule 3:** When a gene seems to be composed of the parts of several genes, just invoke duplications and rearrangements of all the DNA sequences you need, so you can get them all together in the right place.
+
+That translates to
+
+> **Boulder Game Rule 3:** When a boulder has surface marks of a different composition than the original ledge, just invoke collisions with boulders of a different composition during the hypothetical landslide to account for the marks, and maybe even find the other boulders that contributed the marks.  Of course you'll also have to invoke hypothetical friction and hypothetical collisions, along with the magic wand of gravity again.
+
+Luskin goes on to critique the paper for not reaching the IDist's favorite and most distant goalpost:
+
+> While previous studies had identified some of the supposedly "positively selected" amino acids as important to the antifreeze function, the authors make no attempt to provide a step-by-step explanation of how SAS-B' changed into AFPIII. 
+
+As is obvious, in Luskin's twisted world we can't satisfactorily account for the boulder's structure, appearance, and position merely by invoking known physical laws (gravity) and processes (rock breakage and collisions and friction).  We have to give a centimeter-by-centimeter, bounce-by-bounce, collision-by-collision description of the descent of that particular boulder before Luskin will believe that the boulder's source is the ledge above and that its final position and appearance are due to the vicissitudes of boulders tumbling downhill in landslides powered by gravity.  That's the goalpost Michael Behe and all IDists move to whenever they're confronted with an account like that in the Cheng, _et al._ paper or, for that matter, in our landslide example.  For Luskin, the "magic wands" of gravity and the presence of other components of the landslide together with random bounces during a landslide that are no longer accessible to direct inspection cannot explain the position and appearance of the boulder in the image: It's perfectly obvious that we have to invoke [Intelligent Falling.](http://www.theonion.com/articles/evangelical-scientists-refute-gravity-with-new-int,1778/)
+
+> "Things fall not because they are acted upon by some gravitational force, but because a higher intelligence, 'God' if you will, is pushing them down," said Gabriel Burdett, who holds degrees in education, applied Scripture, and physics from Oral Roberts University.

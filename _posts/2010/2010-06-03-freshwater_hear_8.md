@@ -1,0 +1,143 @@
+---
+layout: article
+title: 'Freshwater: Hearing and Federal Court news'
+date: '2010-06-03 01:11:02 -0700'
+author: Richard B. Hoppe
+mt_id: 4642
+blog_id: 2
+post_id: 4642
+basename: freshwater_hear_8
+---
+There was action today in both the administrative hearing on John Freshwater's termination and in the federal court hearing the civil suit against Freshwater brought by the Dennis family.  I'll briefly summarize both here--time constraints and other commitments will not allow me to write 5,000 well-chosen words tonight.
+
+More below the fold
+
+**Federal Court doings**
+
+Recall that the Dennis family [successfully asked the federal court](http://pandasthumb.org/archives/2010/04/r-kelly-hamilto.html) for an order to compel Freshwater and his attorney, R. Kelly Hamilton, to comply with the requirements of discovery in the federal case.  The judge ordered the defendants to comply by April 19, 2010.  Apparently Freshwater and Hamilton were dilatory in complying with the order, so the family went back to federal court on May 7 to request sanctions against Freshwater and Hamilton for their discovery violations.  The sanctions requested were (a) attorney fees and costs associated with the part of the discovery process in which the boys were non-compliant, and (b) a declaration by the Court that any material not rendered up by Freshwater in discovery be subject to evidentiary inferences as being supportive of the family's Establishment Clause case:
+
+> Plaintiffs ask the Court to enter an inference that all unproduced materials from Freshwater's classroom were religious items, with no secular purpose, displayed by Freshwater on his classroom walls, windows, cupboards, and book shelves during the 2007-08 school year in contravention of the Establishment Clause of the United States Constitution. These items, which are detailed supra, include the Ten Commandments book covers, the President Bush poster, the postings on the cupboards, books such as _Refuting Evolution, Evolution of a Creationist, The Real Meaning of the Zodiac, and Icons of Evolution_, and a _Lies in the Textbooks_ videotape. Plaintiffs further request that the Court enter an evidentiary inference that the 15 Freshwater affidavits, based on Freshwater's failure to produce the billing records, were not prepared or executed in May 2008, as Freshwater contends, but at some later date.
+
+The billing records referred to were claimed by Hamilton to have been lost when a water pipe in his office (or according to another source, in his kitchen) burst and flooded his laptop computer.  He said he subsequently threw the computer away.  An ex-cop, he has apparently never heard of backups or data recovery services.
+
+The Court held a hearing on the Plaintiffs' request for sanctions on May 26.  At that hearing two new attorneys retained by the insurance company on Freshwater's behalf appeared, but Hamilton did not.  He claimed, via the two new attorneys, to have two flat tires.  (And in other news, when he was in third grade the dog ate Hamilton's homework.)  In the Court order that came out of that hearing, Judge Frost wrote
+
+> Attorneys Findley and McIntosh appeared before this Court at the 9:00 a.m. hearing on Plaintiffs' Motion for Sanctions. Counsel represented to the Court that Attorney Hamilton had contacted them and informed them that he had two flat tires and would be late to the hearing. The hearing lasted nearly one and one half hours. Hamilton failed to appear at the hearing.
+> 
+> ...
+> 
+> In summary, Attorney Hamilton represents to this Court that he was unable to comply with an order from it to provide relevant documents properly requested in discovery because his computer was destroyed by water when a pipe broke at his office and he threw it away. Next, Hamilton was ordered to turn over his billing records for anything relevant to the drafting or preparation of the affidavits. Hamilton insists that he complied with this order by attaching the affidavits to the back of Employee Exhibit 16, but the evidence before the Court wholly contradicts him. Then Hamilton, again the victim of a notable lack of luck, failed to appear at the hearing to explain himself because he suffered not one but two flat tires on the drive to the courthouse.
+
+Talk about a pissed off judge!
+
+In the end the Court granted the request for attorney fees and costs to be charged to Hamilton and Freshwater but held the evidentiary inference in abeyance, with a warning that failure to comply with the order to compel would likely trigger it.
+
+**Puppy play break**
+
+We are required to play with at least four individual toys and give a tummy rub before she goes in her crate for the night and old dad can go back to the computer.
+
+**Administrative hearing doings**
+
+As noted, the administrative hearing resumed today and is scheduled to run for five consecutive business days, through June 8.  The referee assured me today that the hearing would indeed end on or before June 8.  I did not press him to specify the year.
+
+It was a tough day today.  The building in which the hearing is now being held, the MV District central office, does not have central air conditioning and the window air conditioner in the hearing room is too loud for the court reporter to hear witnesses, so it's turned off.  The room is therefore hot and stuffy.  We did take frequent breaks, since the board's attorney, David Millstone, is coming off a bout with pneumonia.  Things moved so slowly and there was so little new material in the first half of the day that the Columbus Dispatch reporter left at the lunch break.
+
+Three witnesses testified for Freshwater,  First was Michael Molnar, an elementary school principal in the Beechwood, Ohio, schools, apparently called as an expert witness on being a school principal, though he isn't particularly experienced (8 years as an elementary principal) or especially credentialed beyond the basics (Bachelor's in elementary ed, Master's in administration).  Then there was Dr. Patrick Johnston, an osteopath and pediatrician, [anti-abortion candidate](http://www.johnstonforohio.com/Abortion.html) for public office, [Tea Bagger](http://www.campaignforliberty.com/blog.php?view=21274), and former host of "Right Remedy," a right-wing talk radio show in Ohio.  Freshwater was [on his show](http://rightremedy.org/right_remedy_4_25_09) on April 25, 2009.  Finally there was Ian Watson, who was President of the Mt. Vernon Board of Education when the Freshwater affair broke out.  I'm going to severely condense the testimony here.
+
+**Michael Molnar Direct**
+
+Hamilton's direct examination of Molnar was mainly directed at establishing that the Mt. Vernon school administration's handling of the Freshwater business was inept and unprofessional.  He testified about how he would investigate allegations like those brought to the superintendent by Zachary Dennis' parents in December, 2007.  He said that the pictures of Zachary's arm that he saw probably warranted reporting to Children's Services under Ohio's mandatory reporting law.
+
+Asked what he deemed "insubordination' to be, he said a teacher's failure to comply with a lawful order.  
+
+Asked what a "religious display" is, he replied "A display of religious material that tries to proselytize."  He went on to say that it involved religious discussion that was intended to convert or convince someone of religious beliefs.  This is consistent with Hamilton's efforts throughout to portray passive displays of putative religious items are not violative of the First Amendment Establishment Clause, and that it requires some action on the teacher's part to give them the character of an impermissible religious "display."  (See my comment above on evidentiary inferences for recent motivation for Hamilton in this respect.)  Molnar testified that in and of itself, a Bible does not constitute a "religious display," nor does a Koran or Torah, which, he said, are not inherently religious.  He said that part of what determines if something is a "religious display" is the purpose of the display.
+
+Throughout his examination of Molnar Hamilton worked to make the point that one could have multiple nominally religious items in a classroom, but if each had some potential secular purpose, even though the aggregation of the items gives the impression of a religious display, it is not since there is a secular purpose for each item.  Thus, for example, Hamilton argued that the 10 commandments book covers on the door of the classroom had the secular purpose of blocking the view into the classroom for security purposes post-9/11.  In his testimony later Ian Watson referred to the "coincidence" that all those items happened to be Christian in nature.
+
+**Michael Molnar Cross**
+
+David Millstone, the Board's attorney, asked about when a Bible would be a religious display.  Molnar said it depended on the context and purpose.  Millstone asked if it is OK to display the 10 Commandments.  Molnar replied that he thought it is not permitted.   Asked about Bible verses, Molnar returned to his "context and purpose" mantra.
+
+There was some point/counterpoint between direct examination, cross examination, and redirect examination that was of interest.  In direct, Hamilton asked about discrimination if one teacher was permitted to have a Bible on the desk and another was not, does that indicate discrimination.  Molnar testified that it was discriminatory.  In cross, Millstone asked if one teacher had a Bible as part of a religious display and another had it just as a Bible on the desk, is disciplining the first but not the second discriminatory?  Molnar replied it was not.  Then in redirect Hamilton walked through Lori Miller's religious materials on her desk--Bible, devotional books, Bible verse on a rock.
+
+Millstone asked Molnar was his authority was for the "lawful" qualifier in his definition of insubordination as refusal to obey a lawful order.  Molnar replied "basic knowledge."  Asked whether it was advisable to comply and then file a grievance, Molnar equivocated.
+
+Millstone asked if would be insubordination if someone publicly announced that he is not going to do what a supervisor told him to do.  Molnar replied "It could be."
+
+**Molnar redirect**
+
+As noted, there was some point/counterpoint regarding the difference, or lack thereof, between Freshwater's religious stuff and Lori Miller's religious stuff.  
+
+Hamilton focused mostly on trying to establish that if each nominally religious item has a plausible secular purpose, the aggregation does not constitute a religious display.
+
+Hamilton asked Molnar if the 10 Commandments posters were inherently religious.  Molnar replied they were not, since there was some additional material about 'good thinking' on them.
+
+We once again heard that 'purpose' is important in making judgments about displays.  In both Hamilton's and Molnar's comments, it was clear that 'purpose' means 'what I say I intend by this.'  That is, the teacher's claim of a secular purpose trumps anything else.
+
+That pretty much did it for Molnar.
+
+**Patrick Johnston Direct**
+
+Johnston, as noted above, is an osteopath, pediatrician, and all-around right-wing loon in Zanesville, Ohio, south of here.  He is very sure of himself (he wouldn't recognize the sentiment of a plaque on my former internist's desk that said "M.D. does not stand for Minor Deity").
+
+Also as noted above, Freshwater was [on his show](http://rightremedy.org/right_remedy_4_25_09) on April 25, 2009.  That was the show where Freshwater described using Lego blocks to illustrate the impossibility of chance formation of something or other, and in which Freshwater and Johnston agreed that the Second Law of Thermodynamics makes evolution impossible.  Just two guys shooting the bull about that of which they're both abysmally ignorant.  Freshwater later under oath [couldn't remember](http://www.dispatch.com/live/content/local_news/stories/2009/12/31/fresh31.ART_ART_12-31-09_B2_JTG5J9F.html?sid=101) using Lego blocks in class until the tape of the radio show was played for him.
+
+In the midst of his talking about that Johnston commented that evolution means that "order comes from disorder," and that's impossible, but the "evolutionists" have a rebuttal, millions of tries in millions of years.  The man is pig ignorant.
+
+A good part of Johnston's testimony was directed at the pictures of Zachary's arm and alternative diagnoses one might make.  They ranged from burn to [dermographia](http://www.wisegeek.com/what-is-dermographia.htm), an immune system mediated skin reaction to a scrape, to poison ivy.  He repeatedly said that if it were a second degree burn, as [a previous expert witness had testified it could be](http://pandasthumb.org/archives/2008/11/freshwater-hear-2.html), the child would have required physician's care and pain management.  He faulted the parents for not seeking medical attention if the history was true, and implied or stated several times that the parents were misrepresenting what happened.
+
+**Johnston cross**
+
+In cross Millstone asked if Johnston knew what a BD10A is.  A Tesla coil, Johnston replied.  Asked if he know the voltage or frequency it generated, he didn't,  He couldn't recall if it was a high voltage device.  Asked about the significance of a specifically radio frequency voltage being applied to human skin, Johnston didn't know anything about it.  
+
+**Johnston redirect**
+
+Hamilton asked if the voltage and frequency of the device was relevant to his diagnosis.  Johnston replied that they were not, and that if the depicted marks were electrical burns the child would have pulled away and would have required pain management.  There some remarks about Tasers and how people react when being Tased.
+
+Asked again about whether the device generating an RF signal bore on his diagnosis.  Johnston replied that "voltage and frequency are something we learned as undergrads and then forgot."  
+
+He conceded the pictures could show a first degree burn, but that they're worthless by themselves without a verified history.  He again expressed his dubiety about parents who would take pictures of the injury but not seek medical attention for it.  He was determined to cast doubt on the veracity of the Dennis' account.  He said that in his practice he had "run across parents who wanted to sue somebody."
+
+**Johnston recross**
+
+Johnston agreed that one could get a severe sunburn without realizing it at the time.  However, he claimed that the injury shown in the pictures, if due to an electrical event, would have caused severe pain immediately.  That once again shows his ignorance of RF burns.
+
+**Ian Watson Direct**
+
+Finally we came to Ian Watson, former President of the Board of Education.  Watson's testimony was fenced around with restrictions and often interrupted by objections, since both statutory protection of parts of the operation of boards of education and attorney-client privilege limited the questions he could answer.  So it was slow going and we didn't even finish direct examination so Watson will testify again tomorrow.
+
+Watson brought materials that had been subpoenaed--his calendar for Dec 2007 through early 2008, some newspaper articles, and other documents, a stack about 2 inches thick.  We took a long break while that material was copied and Hamilton then spent an hour going through it while we all sat around.
+
+Mostly in direct Hamilton focused on the period around the time Freshwater went public, in April 2008.  He had quotes from an interview Watson gave WorldNutDaily (!) saying that it wasn't just about a Bible on a desk, but the Bible was part of a larger "tapestry."   So we had to explore what "tapestry" meant there.  Then there was the question of just when it was determined that Freshwater was insubordinate.  I never did figure out the answer to that one.
+
+There were some strange sidetracks.  For example, Hamilton asked if Watson had brought any documents from his "black binder."  Watson didn't know what he was talking about.  Hamilton asked, "Did you have a black binder with Freshwater materials at the bank \[where Watson formerly worked\]?"  Nope, no such binder.  And that topic was dropped.
+
+Asked, Watson testified that he knew Steve Dennis before the Freshwater affair blew up.  Watson was head of the trust department at a bank, and occasionally his department used Dennis as a stock broker.  He did not know Jenifer Dennis prior to the Freshwater affair.  Watson testified that he referred Dennis to Superintendent Short to talk about what was going on.
+
+In the period of late March 2008 and early April 2008 Watson had perhaps half a dozen meetings with Steve Dennis at his (Watson's) office regarding the Freshwater affair.  At that time, he said,Watson still hoped the situation could be resolved to the satisfaction of all parties.  Then after Freshwater did his act on the public square on April 16, that became less likely.
+
+Hamilton asked if when new Board member Jodi Goetzman came on the Board she told the Board she had information on the use of the Tesla coil in the middle school.  Watson didn't recall that.
+
+We spent some time on a scene where Watson went to Middle School Principal Bill White's office to see the Tesla coil.  Elle Button, a middle school science teacher, brought a Tesla coil to White's office and gave them a short lesson in what it was and what it was used for.  Watson asked her if she'd use it on him, and she declined and left the office.  Watson then used the Tesla coil to mark his own forearm, a straight line.  He said after a while a mark was visible, and that it lasted for 10 to 15 days.  He said it was not one of his brightest ideas to do so.
+
+Asked why he did the exercise in White's office, Watson said that if he used it on himself and it didn't leave a mark it would support Freshwater's account.
+
+Asked if it was appropriate for a Bord Member to be independently investigating, Watson replied it was not, and repeated his "not my best idea" line.
+
+Asked, Watson said that he had not heard that Zachary's arm was held down.
+
+Asked, Watson said he didn't know whether Superintendent Short should have reported the incident to Children's Services.
+
+Hamilton asked if he was disappointed that Freshwater went public.  Watson replied that in his work experience if he had a work issue he "didn't call the press and go to the public square."  He said he was disappointed in Freshwater.
+
+Watson testified that he had heard that Freshwater didn't orchestrate the public square demonstration, and that he though perhaps Jeff Cline had done so, though he didn't know.  (Cline is a local minion of "Coach" Dave Daubenmire.)
+
+Hamilton asked Watson to define "insubordination."  Watson said it is "when they are in direct opposition to what their supervisors have asked or instructed them to have done."
+
+How did Freshwater's behavior rank on an insubordination scale.  Watson replied fairly high, above the midline between low and high.
+
+Hamilton asked if a teacher could have a Bible sitting "silently" on his desk.  Watson replied that his personal opinion was that was not particularly an issue.
+
+Hamilton asked if Watson had contacted the ACLU about the matter.  He replied that he had called the Ohio office of the ACLU and talked with someone whose name he didn't remember.  Asked what ACLU's position was, Watson said they told him--paraphrasing, he said--that a child having a Bible in school was not an issue if it was used only during non-class time, that a teacher having one was 'tenuous," a grey area, and that having one in the context of other religious materials was not permitted.  Asked, Watson said that his vote on the resolution to terminate would not change if he hadn't heard ACLU's views.
+
+Thus ended a long and hot day (and I kept this to just over 3,000 words!).  I will be at the hearing tomorrow and Friday (if I can get some sleep sometime)  but nothing will be written up until sometime over the weekend.  Alumni at the college where I taught are back this weekend, and I will be otherwise occupied.

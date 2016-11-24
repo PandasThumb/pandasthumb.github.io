@@ -1,0 +1,136 @@
+---
+layout: article
+title: Creationist Fears, Creationist Behaviors
+date: '2005-05-20 14:17:08 -0700'
+excerpt: Gumbel is one of the first journalists to point out that, to an intelligent
+  design creationist, the whole point of criticizing evolutionary theory <i>is to
+  criticize evolutionary theory.</i>
+author: Burt Humburg
+mt_id: 977
+blog_id: 2
+post_id: 977
+basename: creationist_fea
+---
+Andrew Gumbel, a correspondent for the London-based Independent, attended the recent intelligent design show trial in Topeka. His write-up at [LA City Beat](http://www.lacitybeat.com/article.php?id=2085&amp;IssueNum=102) is recommended reading. Although he develops several good themes in his essay, there is one point in particular I would like to highlight.
+
+> Another manifestation of the misdirection of the ID movement is the ludicrous notion that high schools are the appropriate venue for intricate debate about the finer points of evolutionary science. Any public school science teacher will tell you it's already a minor miracle if a 16-year-old can accurately summarize The Origin of Species, or pinpoint the Galapagos Islands on an atlas. Raising questions about the cellular structure of the flagellum is unlikely to exercise most students until grad school.
+> 
+> _The only reason for raising such questions before state education authorities is not to deepen the scientific understanding of teenagers but rather to sow deliberate confusion._ It is about denigrating mainstream science as biased against religion -- which it is not; it merely regards questions of the supernatural to be outside the realm of scientific inquiry -- and by extension bringing God and open avowals of faith into the public school system. (Emphasis mine.)
+
+Many authors have correctly explained that the testimony of ID proponents in Topeka only criticized evolution. Indeed, in an effort to allay concerns that the rejected proposals were written to mandate the teaching of creationism, John Calvert articulated this point numerous times directly. Until Gumbel's article, though, media coverage has failed to identify the desire by ID creationists to confuse the public. In other words, Gumbel is one of the first journalists to point out that, to an intelligent design creationist, the whole point of criticizing evolutionary theory _is to criticize evolutionary theory._
+
+It is important for advocates of science to recognize this strategy because there is a clear link between the beliefs creationists hold, the threats to those beliefs that they perceive from verified science, the fear they have from those threats, and the reactions to those threats that they make. Several points and implications about this understanding of creationist strategy merit mention and they will be developed below the fold.
+
+# Creationists Aren't Stupid
+
+
+When the transcriptions from the Topeka hearings are made public, the sheer volume of logical inconsistencies in the testimony between ID creationists and even in their own statements will strain credibility. For example, Charles Thaxton and many other creationists testified under cross examination that science should not be restricted to natural explanations, even while they refused to admit that they wanted (or in some cases saying that they didn't want) supernatural explanations included in science classes. 
+
+It is tempting to ridicule these creationists, dismissing them as hayseeds and not giving them a second thought. But this dismissive attitude overlooks the motivations that drive them and prevents genuine understanding of the issues creationists consider pivotal regarding evolution and the methods of science. Obviously, something is influencing their decisions and it isn't a lack of intellectual stature. John Calvert was a successful oil and gas trial lawyer. William Harris is a successful nutritional biochemist. Charles Thaxton retired from a career as a chemist. These are not careers that tolerate problems with cognition.
+
+An optimal strategy for science advocates must presuppose nonscientific motivations in creationists, motivations that deserve more strategic consideration than simply being dismissed as the result of stupidity.
+
+# Creationists Are in Fear
+
+
+To understand why creationists fear evolution, it is necessary to consider three things. First, many creationists believe that the Bible must be taken literally, though this literalism is typically _ad hoc._ (They interpret literally when literalism serves their purposes and they interpret metaphorically or symbolically when it does not.) Second, one must consider the concept of salvation, specifically Christian salvation. (No other religious belief will do.) According to the fundamentalism that gives rise to creationism, all morals, values, ethics, and behaviors in which Christians should engage are derived from these two beliefs.
+
+The final key to understanding creationist fear is to know that they engage in absolutism. In other words, to not believe in the account of the creation in the Bible is to not believe in talking snakes, to not believe in worldwide floods, to not believe in the geocentric model of the solar system, to not believe that rabbits chew their cud, etc. (Note that this is not to imply all modern creationists hold all these beliefs as absolutes; for example, creationists today have found ways to overlook the geocentrism that a truly literalist approach would necessitate.) By way of their absolutism, if they can't trust the Bible with regards to (insert issue of concern here), then there is no reason or justification for their religious values whatsoever.
+
+Naturally, these arguments sound absurd to anyone who recognizes the parallels between the arguments supporting Middle-age geocentrism and the arguments supporting intelligent design, especially anyone who recognizes that Christianity did not end with Galileo's research. Nevertheless, this absolutism leads to fear and this fear leads to irrationality and unconventional behaviors.
+
+Or, as reporters were asking KCFS members by the second day of testimony, 'Why are these creationists saying the things they do? I thought they were Christians.'
+
+# ID Avoids Tough Questions
+
+
+Yet more needs to be elucidated about creationist fears before the implications of this model can be discussed. Consider the following true story. A few months ago, I attended a Sunday-school course on creationist responses to evolutionary statements, which was being put on by the Creation Science Association of Mid-America. (This is the group that wrote the now infamous standards from the 1999 fiasco, for which [Steve Abrams told Steve Case](http://redstaterabble.blogspot.com/2005/05/case-hearings-dishonorable-and-without.html) he was the sole author.)
+
+One thing that was interesting about the creationist's arguments was the certainty with which he held his YEC positions. As anyone who has read [Robert Pennock's book](http://www.amazon.com/gp/product/0262661659/103-9525259-7435808?%5Fencoding=UTF8&amp;v=glance) _Tower of Babel_ knows, there is a great diversity of creationist thought in the US. So, I asked the obvious question:
+
+'Sir, there are forms of creationism other than YEC, such as OEC and ID creationism. How can you be so certain about the age of the earth when it appears to be a legitimate controversy within the creationist community?'
+
+His answer was, 'All those other forms of creationism allow for the possibility of an old earth. If death entered the world before the fall, then there is no need for Christian salvation. That is why YEC is true.'
+
+While religiously arrogant, this creationist was also refreshingly direct about his motivations. He was explaining that the threat he perceived to his beliefs was not just from evolution, but also from any of the sciences that require (or even accommodate) an old earth. And although this creationist was rebelling against the fact of the 4.5 billion-year-old earth, his argument prototypes many of the claims made by those whose beliefs contradict the findings of verified science: creationism is an obvious area of conflict, but there have been others. Galileo's heliocentrism and whether rabbits chewed their cud were both, in their day, equally controversial due to contemporary Biblical literalists. Regardless of the controversy, efforts to suppress scientific investigations at best delay the inevitable enlightenment. Eventually, believers have to rethink their theology in the light of new scientific understanding.
+
+What does it mean to be made in God's own image if humans evolved from ape-like ancestors? If organisms, species, and indeed entire phyla died and went extinct before humans appeared, what need have we for a salvation based on the idea that human sin gave rise to death? Why can some Christians decide what women should do with their own bodies when the God of the Bible chooses to let people make their own decisions? Why are abortion and stem-cell research, but not in-vitro fertilization, forms of murder? And if common sense and research both demonstrate that no one -- no one -- chooses their own sexuality, what are we to make of religiously-fueled homophobia?
+
+Now consider intelligent design in the light of these questions and in the light of the point Gumbel was making: even though there is no scientific evidence for intelligent design, nor is there any forthcoming, the purpose of intelligent design creationism arguments is to give certain believers a plausible reason to not ask the 'tough questions.' Yet these creationists know that science is an amazingly successful method of finding things out about the world. So, to provide believers a crutch for their faith, they seek to gain the legitimacy of science to support their beliefs. They believe in intelligent design and, for it to be legitimate, call ID creationism science. Odd as it may sound, for a creationist, for something to be nonscientific is for it to be irrelevant or unimportant.
+
+Consider, when sympathetic, non-scientific journals publish what little passes for faux empiricism -- itself riddled with secondary source citations passing for proof, quote-mining, and distortions of elementary physical and biological understandings -- these articles are celebrated as groundbreaking and revolutionary. Without exception, there is a shortage of peer-reviewed studies supporting intelligent design creationism, though there is a wealth of promises that such will be forthcoming. The arguments from the creationists themselves are no better. If viewed as an attempt to generate an alternative scientific framework, the intelligent design arguments are incoherent at best and lies at worst. There is no, nor will there ever be, any theory of intelligent design.
+
+But viewed in the theological model of evolution fear I am proposing, these arguments become purposeful. The ID creationists aren't trying to advance science or educate kids about a legitimate controversy in science or subject their ideas to peer review. The reason intelligent design creationists criticize evolution _is to criticize evolution._ To those creationists who are in fear of evolution, this pseudoscience provides them a surrogate for faith -- they can believe in a God that science has, through its purported failures, confirmed. As the testimony in Topeka demonstrated, examples of creationist duplicity in the service of simply criticizing evolution abound.
+
+Forrest and Gross, in their book Creationism's Trojan Horse, make the argument that intelligent design creationism is an attempt to change the fundamental belief systems of our society. This understanding is not inconsistent with the fear of evolution model I am proposing.
+
+# ID as Political Opportunism
+
+
+The ID creationists engage the psychology of fear described above, convincing themselves that their faith is not simply misplaced but that they are an embattled minority. Thus, the faith that creationists place in their theology becomes the delusion that evolution is supported only by a worldwide conspiracy of scientists and liberal media. This delusion leads creationists to claim that intelligent design, which has no testable model -- the _sine qua non_ of a useful scientific theory -- proposed, cannot get published due to this worldwide conspiracy.
+
+Even pastors fall victim to (or utilize, as the case may be) this fear. Consider Jerry Johnston who, in his [13 April 2005 sermon](http://jgrr.blogspot.com/2005/04/jumping-gun.html) on intelligent design, told his congregation that Genesis was a book under attack that need to be defended by the faithful. Notably, in the same sermon, he openly admitted that the people who trained him in divinity school advised not to teach from Genesis literally. The possibility that Pastor Johnston's faith might have been misplaced and that there was not a worldwide conspiracy of scientists _and theologians whom he must have respected_ was not discussed.
+
+That the creationists are in fear, that this fear leads to absolutism, and that absolutism leads to irrationality about belief, has been previously described. One creationist, testifying at the standards committee [meeting in Derby](http://ksde.org/outcomes/derbyhs.doc), exemplified this irrationality terribly:
+
+> … if we cannot as a state even put a sticker on a book that says macroevolution at least is not a fact, it is just a theory, then that is -- then you are telling my, my children that everything that we have taught them as a family is wrong.
+
+The political implications are intuitively obvious. Politicians know that fear is a powerful motivator, far more so than reason. Politicians, and others who fail to place sufficient priority on science education, may find this population of people who are in fear due to a lack of scientific understanding tantalizing. They recognize that, for example, it is far easier to marginalize those who have abortions than it is to marginalize scientists than it is to marginalize couples who cannot have babies on their own. To marginalize abortion and stem-cell research, not in-vitro fertilization, as forms of murder gains them favor with their uninformed constituency, even while it leaves that constituency ignorant of embryonic biology.
+
+But why stop at just embryos? In for a penny, in for a pound: those same politicians also tell that constituency about the worldwide conspiracies against intelligent design, the evils of evolution, how it is impossible to be a legitimate Christian and to be pro-choice or pro-science, that God calls them to be absolutist in their dealings with those who hold differing views about murky ethical issues like Terry Schiavo, etc. When things are good for politicians who do not care about science education, things are good for religious leaders who propagate ancient and wrong understandings of the observable world, and vice-versa. Thus, religious leaders make pacts with those politicians to continue to market these incoherent theologies in exchange for political favors.
+
+For these lies, for the crime of abandoning their charge to lead responsibly, indeed for failing to even read the proposed standards over which creationists held hearings in Topeka in the first place, the voters who lack scientific understanding reward these politicians with continued terms in office and political approval. Needless to say, it is unlikely that politicians like these will be enthusiastic about taking steps to improve the understandings of science in their constituency. To do so would be to remove the fear of the scientific issues involved.
+
+So, what science-advocacy strategies does this fear-based model of intelligent design suggest?
+
+# Deny Creationists Martyrdom
+
+
+In order to be a martyr, there must be a general recognition that the cause for which one suffers is a cause worth suffering for. Absent that recognition, the toil is wasted and unworthy.
+
+Attempting to achieve martyrdom, 'expert witness' Roger DeHart openly admitted -- indeed, seemed rather proud of -- being reassigned for teaching non-science while he was a science teacher charged to teach science. Similarly, Nancy Bryson let it be known that she was appearing as an 'expert witness' at the risk of her science career. William Dembski said that his career was in ruins due to his advocacy of intelligent design. He made this claim when even a cursory review of the facts will demonstrate that he failed to address the claims of those who took the time to review his work critically and that his problems are perfectly explained by his lack of collegiality in this and other regards. In other words, none of the hardships these creationists describe as due to their beliefs are worthy toil.
+
+Someone can leap into the path of an oncoming train, somehow defending their belief that things fall up when dropped, and die for those beliefs. While such commitment may be deserving of respect, it does not make that death any more than a senseless waste. Similarly, that creationists have endured hardship may be reason for those of goodwill to respect those creationists. Nevertheless, the violation of their charge to educate students in science or teach people about actual philosophy when hired as philosophy instructors or help a congregation to make sense of God in a world with a dizzying pace of scientific progress remains nothing more than a violation of their respective charges. Specifically, the cause of denying verified science is not and cannot be worthy toil, especially when those creationists choose -- despite the evidence -- to believe that one cannot be a Christian and endorse verified science.
+
+Respect those who hold these beliefs, possibly, but do not excuse them. They are not martyrs. They are in fear and they have misplaced their faith. They tilt at windmills and the hardships they endure are nothing more than the fruits of their own self-deceit.
+
+# Don't Confuse the Public
+
+
+Gumbel's article made the point that it was ludicrous to present highly technical arguments to high schoolers under the assumption that it would stimulate their interest in science. The same is true for the public at large. Michael Behe cites the absence of a described evolutionary ascent of the blood-clotting cascade as evidence of design in debates. Only a small percentage of Americans would be convinced of evolution by reviewing the clotting cascade's technical [details that refute Behe](http://biocrs.biomed.brown.edu/Darwin/DI/Clotting.html). Similarly, Jonathan Wells offers the phylogeny produced by a limited dataset as evidence that molecular phylogenies are unreliable. Only a small percentage of Americans would be able to understand the technical arguments involved, process what the literature really says and how Wells misrepresented it, and recognize [Jonathan Wells for the liar ](http://www.talkorigins.org/faqs/wells/)that he is.
+
+Arguing pseudoscience with science in an audience comprised of those unfamiliar with the science involved _will lead to confusion._ Gumbel's article cited prestigious journalists who found the claims of the creationists convincing. (In their defense, they only found them reasonable on day one of the trials. After they heard what science actually had to say that first day, their questions to scientists became on days two and three, 'Okay, how is what this creationist said (bullcrap).')
+
+Or consider letters to the editor. [David Berlinski wrote](http://www.discovery.org/scripts/viewDB/index.php?command=view&amp;id=2450&amp;program=CSC%20-%20Views%20and%20News) to the Wichita Eagle itemizing nine 'controversies' about evolution, the gist of which was to convince the reader that doubting evolution was justifiable academically. In point of fact, the [answers to those questions](http://pharyngula.org/index/weblog/comments/berlinski_i_cant_believe_im_wasting_time_on_this_guy/#comments) were shockingly simple: a freshman biology major could have answered them. Unfortunately, the [response that was printed](http://www.kansas.com/mld/eagle/news/editorial/11135418.htm) in the Eagle rebutted Berlinski point-by-point, only describing in the final sentence the violation of the accepted process whereby scientific conclusions are legitimately overturned that was implicit in Berlinski's letter. Most of the people who don't know the science involved probably read Berlinski's points and thought them logical and valid.
+
+In each of these cases, the average citizen is implicitly told that the process the creationists use to argue their case is a valid one. In other words, by participating in these forums of equal-time (or equal-space, in the case of letters to the editor) as creationists, we do exactly what the CEO of the American Association for the Advancement of Science [said it would be doing](http://www.eurekalert.org/pub_releases/2005-04/plos-ad041205.php) if one of its members agreed to participate in the recent circus in Topeka, 'Rather than contribute to science education, \[our participation\] will most likely serve to confuse the public about the nature of the scientific enterprise."
+
+True understanding of science, to a level sufficient to judge ID creationism arguments in an equal or truly balanced format, takes time and effort. While it is important to let citizens know that the scientific community has engaged the arguments of creationists on their (absent) merits, it is inappropriate to legitimize the Hardball-style debate or point-counterpoint letters to the editor that the creationists desire above all else.
+
+Remember, the creationists aren't trying to advance a scientific case. The creationists aren't trying to educate the public. As Gumbel has pointed out, the creationists are trying to confuse the public for non-scientific reasons. They argue against evolution _for the sake of arguing against evolution._ When Berlinski asked his questions, he succeeded in making evolution seem less well-verified than it actually was. When Jonathan Wells lies in front of audiences, he succeeds in making evolution seem less well-verified than it actually is. Being accurate, representing science, and educating the public is just not what these guys have in mind. That's why Wells lies and that's why Berlinski asked freshman biology questions.
+
+This is also why the Kansas boycott was a resounding success. We denied them the opportunity to confuse the public about the nature of actual scientific revolutions. In this, we denied them legitimacy in the eyes of the public, fighting non-science arguments with non-science (but science-supported) strategies. Importantly, we engaged the public, even while we boycotted the proceedings. Indeed, we staffed a media-relations table one floor below the trial and most journalists took advantage of the opportunity to hear from scientists what science really had to say on the issues. 
+
+KCFS recommends similar strategies whenever creationists try to confuse the public. Don't answer non-science with science. However convincing your argument might be to someone fully trained in your field, you won't win with a general audience. Instead, have scientific support ready, but use process-oriented rather than outcomes-oriented approaches in fighting creationism. This has worked very well in Kansas and we recommend it to other states.
+
+# Develop Alliances
+
+
+This essay has attempted to describe the irrational fears that lead creationists to disregard the evidence, be deceived by corrupt politicians, engage in unconventional behaviors, and confuse the public. In this strange milieu of scientific, religious, and political concerns, science advocacy that uses only science arguments simply will not be successful. Not, that is, without a unified, multifaceted front in which educators, scientists, politicians, and theologians who can stand together and make sense to people who may not know the science involved but can understand arguments based in intellect, reason, and well-placed faith.
+
+Real evolution advocacy happens in day-to-day life. It happens when doctors explain to their patients that since the 1930s, animal research has been required to bring drugs to the market and that such research makes no sense without evolution. It happens in political discussions, as citizens learn the actual science that underpins the contentious issues being debated or supports sound policies. It happens when theologians remind creationists that God calls them to take responsibility for their beliefs and that well-meaning believers have had to reexamine their theology in the light of verified science many times throughout history. It happens when those who understand evolution advocate for it daily without embarrassment, recognizing it for the non-controversial component of essential biology education that it is.
+
+All this is to say, intelligent design creationism has received the broad creationist support that it has -- despite the unrecoverable conflicts between forms of creationism -- precisely because they have a big tent strategy. To successfully advocate for science, Christians who desire strong science education should not make concessions to creationists that non-theists or those of other religions would find objectionable. Similarly, when a feature of the creationist testimony in Topeka was that evolution and modern science is incompatible with any form of legitimate Christian faith, it is politically unastute for non-theist advocates of strong science to make that very point themselves, at least without regard for creationist fears this essay has described.
+
+Rather, to alleviate the creationist fears, all advocates of science should work together to establish mutually acceptable terms for science education. The cause of science advocacy is a big-tent issue, one which citizens of any creed or religion can endorse. 
+
+This essay has attempted to describe a new way of looking at creationism -- as a fear of evolution and its perceived impact on beliefs. To the end of ameliorating creationist fears, advocates of science will hopefully undermine the strategies of the creationists better, inaugurating another era of American scientific success and returning America to her rightful place as a world leader in science.
+
+# Bio and Grateful Thanks
+
+
+Burt Humburg is a graduate of and lab assistant at the University of Kansas School of Medicine. He will begin a residency in internal medicine at Penn State University -- Hershey Medical Center this summer. He is a former board member with Kansas Citizens for Science and he attended all three days of Topeka creationist testimony.
+
+This is his first submission to the Panda's Thumb and he wishes to thank those in Kansas Citizens for Science, Pennsylvania, and who author the Panda's Thumb who contributed to the development of this essay.
+
+EDIT: Included Johnston link above that I originally forgot to include. 2nd graf of "ID as Political Opportunism"

@@ -1,0 +1,23 @@
+---
+layout: article
+title: A Caldwell Legal Victory? Well, Not Quite (Updated)
+date: '2005-10-26 18:01:28 -0700'
+author: Timothy Sandefur
+mt_id: 1534
+blog_id: 2
+post_id: 1534
+basename: a_caldwell_lega
+---
+Larry Caldwell (_Litigious ignoramus_) has issued a press release trumpeting a victory in his federal lawsuit against the Roseville, California school district. 
+
+For those who may not recall, Caldwell has made a name for himself for his hair-trigger willingness to [sue people](http://www.pandasthumb.org/archives/2005/10/a_baseless_laws.html) for [just about anything,](http://www.pandasthumb.org/archives/2005/09/nuisance_lawsui.html) in [the cause of ID creationism.](http://www.pandasthumb.org/pt-archives/000781.html) In this instance, Caldwell sued the district on various grounds centered around his allegation that they didn't let him participate or express himself during school district meetings that considered issues involving evolution education. He argued, for example, that the district refused to put his proposed alternative science education plan---which includes various creationist arguments against evolution---on the agenda for board meetings, and that they restricted his ability to participate in school board meetings.
+
+Yesterday the Court issued an order granting in part and denying in part the school districts' motion to dismiss for failure to state a claim.\* Now, remember, such a motion comes when one party says to the court, "even if everything that the other side says is true, they still cannot win this case." When a court is considering a motion to dismiss it does so before it has had any trial or heard any facts---that is, before the court has evaluated anything about the truth of the plaintiff's claims. Instead, it says "let us suppose that everything that the _non-moving_party says is true; can the _moving_party still win?" It's a decision on the law, rather than on the facts. If the court denies the motion, it is saying that the judge wants to consider the facts and find out whether they are, in fact, true or not---it does _not_mean that the party opposing the motion has proven his case, or even provided any actual evidence. It just means that there's going to be further proceedings.
+
+The District Court's decision---which you can read [here](http://www.uncommondescent.com/documentation/order_on_motion_to_dismiss.pdf)---says that Caldwell _cannot_possibly win on his right to petition argument, and that he may not sue the School District itself, and that he may not argue anything based on state law, or seeking nominal damages. (When the court says "with prejudice," that means the Plaintiff is so wrong that he not allowed to try again by refiling.) And it says that Caldwell _may_proceed to trial and try to prove his allegations that the school district violated his free speech rights, his free exercise of religion and establishment clause rights, his equal protection, and his due process rights.
+
+But [here's how Caldwell describes this decision:](http://www.uncommondescent.com/index.php/archives/429 ) **"In an important legal victory for citizens seeking to improve how evolution is taught in public schools \[_sic_\], a federal judge has ruled that California citizens have a Constitutional right under the First Amendment to put proposed evolution policies on the agenda of local school board meetings for public debate and potential adoption, and that school officials who refuse such a request are subject to potential civil rights remedies in federal court."**Well, sort of. What the judge really did was say that such rights exist---_which the school district did not deny;_ it simply argued that it had never deprived him of those rights. Nor did the court find that Caldwell had proven that the district denied him those rights; it simply found that, _if_he can prove that happened, he could win his case. Not exactly what you would call a smashing victory.
+
+Incidentally, I was delighted by footnote 6, in which the judge complains that Caldwell has conflated the Establishment Clause and Free Exercise Clauses of the First Amendment. As I've noted many times, this is a very common problem for ID creationists. Because they believe they have the right to use government resources to propagate their religious beliefs, they see it as a violation of their rights whenever government tries to remain religiously neutral. Thus they believe that they have a Free Exercise right to Establish their religion.
+
+**\*-_Update:_**As originally written, I said this decision was on a motion for summary judgment. It's not, it's a motion to dismiss. However, in all the ways relevant to this post, they're the same thing, so I've just altered the post to fix the error.
