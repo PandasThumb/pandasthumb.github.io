@@ -3,7 +3,7 @@ layout: blog
 ---
 <article class="blogpost">
   <header>
-    <h1>{% if page.fulltitle %}{{ page.fulltitle }}{% else %}{{ page.title }}{% endif %}<a href="{{ site.baseurl }}{{ page.url }}" class="anchor" title="Permalink"><span class="anchor-link"></span></a></h1>
+    <h1>{{ page.title }}</h1>
     <p class="byline">By {{ page.author }} on
     <time class="pubdate" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B %-d, %Y %R %Z' }}</time></p>
   </header>
