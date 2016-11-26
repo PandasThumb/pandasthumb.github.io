@@ -340,6 +340,7 @@ figure {
   margin-right: auto;
   padding: 0.5em;
   margin-bottom: 0.5em;
+  max-width: 100%;
 
 }
 
@@ -348,6 +349,15 @@ figure img {
 }
 
 figcaption {
+}
+
+@media screen and (max-width: 568px) {
+  figure {
+    width: 100% !important;
+  }
+  figure img {
+    max-width: 100% !important;
+  }
 }
 
 .archivelist li {
