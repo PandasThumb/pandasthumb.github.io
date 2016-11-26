@@ -3,7 +3,7 @@ permalink: date
 timezone: America/Phoenix
 encoding: UTF-8
 baseurl: ''
-url: //pt.cartwrig.ht
+url: https://pt.cartwrig.ht
 relative_permalinks: false
 exclude: [Guardfile]
 excerpt_separator: "<!--more-->"
