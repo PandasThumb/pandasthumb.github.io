@@ -23,7 +23,7 @@ git checkout master && git pull origin master || error_exit "ERROR: Updating web
 
 echo
 echo "[====] Building Webpage [====]"
-jekyll build --incremental || error_exit "ERROR: Building webpage via Jekyll failed."
+env JEKYLL_ENV=production jekyll build --incremental || error_exit "ERROR: Building webpage via Jekyll failed."
 
 echo
 echo "[====] Installing Webpage [====]"
