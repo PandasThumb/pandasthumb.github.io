@@ -134,6 +134,8 @@ nav.main-nav {
 @media screen and (max-width: 568px) {
   nav.main-nav {
     position: static !important;
+    font-size: 16px;
+    line-height: 20px;
   }
 }
 
@@ -142,6 +144,15 @@ nav.main-nav li {
   margin-left: 0.5em;
   margin-right: 0.5em;
 }
+
+nav.main-nav li:first-child {
+  margin-left: 0em;
+}
+
+nav.main-nav li:last-child {
+  margin-right: 0em;
+}
+
 
 nav.main-nav a {
   display: inline-block;
