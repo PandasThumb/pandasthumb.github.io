@@ -104,6 +104,7 @@ header h1 {
   position: relative;
   background: #000 url(/media/banner-background.png) repeat-y;
   background-position: 0 0;
+  background-size: contain;
 }
 
 
@@ -111,53 +112,43 @@ header h1 {
   line-height: 0px;
 }
 
-.banner a {
-  display: block;
-  color: #FFF;
-}
-
-.banner a img {
+.banner img {
   padding: 0px;
   display: block-inline;
   max-width: 100%;
   height: auto;
-}
 
-.banner a:hover img {
-  padding: 0px;
-  border: 0px;
 }
 
 nav.main-nav {
   position: absolute;
-  bottom: 0px;
+  top: 0px;
+  font-size: 25px;
+  line-height: 35px;
+  color: #FFF;
+  text-shadow: 1px 1px 1px #000;
+  font-variant: small-caps;
+  font-weight: bold;
 }
 
 @media screen and (max-width: 568px) {
   nav.main-nav {
     position: static !important;
-    background: #000 url(/media/banner-background.png) repeat-y;
-    background-size: contain;
-    background-position: 0 0;
   }
 }
 
 nav.main-nav li {
   display: inline-block;
-  margin-left: 2em;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
 }
 
 nav.main-nav a {
-  display: block;
-  font-size: 20px;
-  line-height: 35px;
-  font-variant: small-caps;
-  color: #7C76A3;
-  font-weight: bold;
+  display: inline-block;
 }
 
 nav.main-nav a:hover {
-  color: #FFF;
+  color: #FFECB7;
   text-decoration: none;
 }
 
