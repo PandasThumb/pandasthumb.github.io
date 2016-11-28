@@ -8,6 +8,8 @@
 
 # grep -Eoirh '<(a|img)\s+[^>]+>' ../_site | grep -Poi '(?<=src=|href=)("[^"]*"|'"'[^']*'|"'[^> ]*)' | sed -e 's|^["'"'"'] *||' -e 's| *["'"'"']$||' | sort -u > old_urls.txt
 
+# perl moveuploads.pl ~/Dropbox\ \(ASU\)/PandasThumb/OldSite/ ../_site < old_urls.txt > moved_files.txt
+
 use strict;
 use warnings;
 use v5.24;

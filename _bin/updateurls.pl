@@ -1,5 +1,7 @@
 #!/usr/bin/perl
 
+#  perl ../_bin/updateurls.pl < ../_bin/moved_files.txt */*
+
 use strict;
 use warnings;
 use v5.24;
