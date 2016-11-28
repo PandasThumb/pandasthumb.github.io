@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1508
 basename: rio_rancho_scho
 ---
-The Rio Rancho (NM) School District adopted a slickly-worded "Science" policy in August, which many fear will open up the classrooms of this Intel bedroom community to "Intelligent Design."  (See earlier reports on the Thumb [here](http://www.pandasthumb.org/archives/2005/08/rio_rancho_nm_s.html), [here](http://www.pandasthumb.org/archives/2005/09/rio_rancho_nm_u.html), [here](http://www.pandasthumb.org/archives/2005/09/more_reaction_t.html), [here](http://www.pandasthumb.org/archives/2005/09/steve_steve_arr.html), and [here](http://www.pandasthumb.org/archives/2005/09/rio_rancho_boar.html).)
+The Rio Rancho (NM) School District adopted a slickly-worded "Science" policy in August, which many fear will open up the classrooms of this Intel bedroom community to "Intelligent Design."  (See earlier reports on the Thumb [here](/archives/2005/08/rio-rancho-nm-s.html), [here](/archives/2005/09/rio-rancho-nm-u.html), [here](/archives/2005/09/more-reaction-t.html), [here](/archives/2005/09/steve-steve-arr.html), and [here](/archives/2005/09/rio-rancho-boar.html).)
 
 Now, the school employees union has sued to stop the policy, and the Saga has made the National News.
 

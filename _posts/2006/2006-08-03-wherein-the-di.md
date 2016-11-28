@@ -31,7 +31,7 @@ The trouble is, when you visit [Nelson's aforementioned letter](http://www.idthe
 > 
 > ...
 
-And there we have it.  As discussed [days ago on the Thumb](http://www.pandasthumb.org/archives/2006/07/whaaaaa_spuriou.html), a _Guardian_ reporter egregiously misquoted IDer Paul Nelson; the error was posted, corrected and discussed by Nick Matzke here on the Thumb; Paul Nelson complained to the _Guardian_, citing Nick's PT blog as his source;
+And there we have it.  As discussed [days ago on the Thumb](/archives/2006/07/whaaaaa-spuriou.html), a _Guardian_ reporter egregiously misquoted IDer Paul Nelson; the error was posted, corrected and discussed by Nick Matzke here on the Thumb; Paul Nelson complained to the _Guardian_, citing Nick's PT blog as his source;
 ...
 and so, Robert Crowther concludes 
 

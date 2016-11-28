@@ -28,7 +28,7 @@ This kills Resolution 31 and the template. It effectively answers the question w
 
 The remainder of my original post is below the fold, but it's moot now.  The Disco Institute took it in the teeth yet again.  As one of our people remarked leaving the meeting, "This is the first time in years that the Disco Institute doesn't have its hooks in the Ohio State BOE."
 
-In February of this year the Ohio State Board [discarded](http://www.pandasthumb.org/archives/2006/02/the_win_in_ohio.html)  the ID creationist "critical analysis of evolution" lesson plan and benchmark.  The motion to discard charged the Achievement Committee of the Board to (1) determine whether replacement was desirable, and (2) if so, propose a replacement.
+In February of this year the Ohio State Board [discarded](/archives/2006/02/the-win-in-ohio.html)  the ID creationist "critical analysis of evolution" lesson plan and benchmark.  The motion to discard charged the Achievement Committee of the Board to (1) determine whether replacement was desirable, and (2) if so, propose a replacement.
 
 Since then, the Achievement Committee under the "leadership" of co-chairs  Father Michael Cochran and Jim Craig has dithered, stalled, and put off debate and action.  In particular, the committee has not yet even got around to considering the first part if its charge, to determine whether replacement language is necessary.  Yet now there's a "Framework for Teaching Controversial Issues" floating around the Board.  In its original incarnation, that "Framework" named specific issues -- stem cell research, cloning, global warming, and (of course!) evolution.  In its current form it's been scrubbed to eliminate mention of specific issues.
 

@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2731
 basename: the_sad_state_o
 ---
-On Uncommon Descent, our friend Davescot shows once again why Intelligent Design has to hide in the shades of our ignorance. Richard B Hoppe has dealt with most of what he called [Dissent Out of Bounds on Uncommon Dissent (Oops, make that "Descent")](http://www.pandasthumb.org/archives/2007/01/dissent_out_of.html) and this posting is meant to archive the excellent comments by Febble which caused so much concern at UcD.
+On Uncommon Descent, our friend Davescot shows once again why Intelligent Design has to hide in the shades of our ignorance. Richard B Hoppe has dealt with most of what he called [Dissent Out of Bounds on Uncommon Dissent (Oops, make that "Descent")](/archives/2007/01/dissent-out-of.html) and this posting is meant to archive the excellent comments by Febble which caused so much concern at UcD.
 
 While UcD is well known for its aggressive moderation policies, deleting much of anything critical of ID and quickly banning those who expose ID's scientific and religious vacuities, Uncommon Dissent seems to also favor squashing unfavorable reviews of its theses. In a thread titled [ID in the UK](http://www.uncommondescent.com/archives/1925) ID activist Bill Dembski invited comments from people in the United Kingdom to comment on the recent 'activities' of ID in this country. 
 

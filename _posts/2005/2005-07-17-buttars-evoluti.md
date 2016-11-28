@@ -40,6 +40,6 @@ Oh really?  Which missing link would that be? See [here](http://www.talkorigins.
 
 <img src="http://www.talkorigins.org/faqs/comdesc/images/hominids2.jpg" alt="" />
 
-See also [previous blogging on PT](http://www.pandasthumb.org/archives/2005/07/utah_and_human.html), and a previous blogpost showing some of [the evidence for common ancestry of humans and apes](http://www.pandasthumb.org/pt-archives/001010.html).
+See also [previous blogging on PT](/archives/2005/07/utah-and-human.html), and a previous blogpost showing some of [the evidence for common ancestry of humans and apes](http://www.pandasthumb.org/pt-archives/001010.html).
 
 Interestingly, the first google hit on "Sen. Chris Buttars" is the "["Who is the Bigger Dummy?" Challenge!](http://www.accountabilityutah.org/IssuesAlerts/News/2004/News091204.htm) at [Accountability Utah](http://www.accountabilityutah.org/).

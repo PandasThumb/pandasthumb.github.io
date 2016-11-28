@@ -28,7 +28,7 @@ So what could count as a 'ridiculous caricature of the "theory"'? I have some id
 
 For instance the claim that there is a theory of ID? Blasphemy... Such a caricature of ID is just meant to place it into a bad light. Don't these people know that ID is merely the 'set theoretic complement of regularity or chance'? In other words, ID i s merely an argument from ignorance, also known as a 'gap argument'? 
 
-What about the claim that "ID provides positive evidence for its claims"? Blasphemy again, don't these people know that ID does not make any statements about the Designer, His capabilities, His goals etc? In other words, anytime someone claims that ID makes positive claims, it should be clear that this is merely a [caricature](http://www.pandasthumb.org/archives/2006/05/post_17.html).
+What about the claim that "ID provides positive evidence for its claims"? Blasphemy again, don't these people know that ID does not make any statements about the Designer, His capabilities, His goals etc? In other words, anytime someone claims that ID makes positive claims, it should be clear that this is merely a [caricature](/archives/2006/05/post-17.html).
 
 So what about the caricature that ID can infer the agency of a designer? Few may be familiar with Dembski's statement that:
 
@@ -36,7 +36,7 @@ So what about the caricature that ID can infer the agency of a designer? Few may
 
 In other words, even when "design" is inferred, there may not really be an intelligent designer involved.
 
-Or what about the caricature that the explanatory filter is useful since it exhibits no ['false positives'?](http://www.pandasthumb.org/archives/2004/06/icons_of_id_exp.html). 
+Or what about the caricature that the explanatory filter is useful since it exhibits no ['false positives'?](/archives/2004/06/icons-of-id-exp.html). 
 
 Few may be familiar with Dembski's observation that 
 

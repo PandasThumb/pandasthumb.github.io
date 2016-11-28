@@ -24,7 +24,7 @@ What I found interesting is that Dembski was present at Forrest's deposition and
 > 
 > "I just did my Southern magnolia routine on him," says Forrest, "and made him shake my hand."
 
-Perhaps Dembski was still hoping that his [Vise strategy](http://www.uncommondescent.com/index.php/archives/59) would be more succesful than the Wedge Strategy or even his attempts at mathematics. Despite [attempts by the ID activists](http://www.pandasthumb.org/archives/2005/09/the_dis_dishone.html) to surpress Forrest's testimony, the judge ruled in favor of her testifying as an [expert witness](http://www.talkorigins.org/faqs/dover/day6am.html)
+Perhaps Dembski was still hoping that his [Vise strategy](http://www.uncommondescent.com/index.php/archives/59) would be more succesful than the Wedge Strategy or even his attempts at mathematics. Despite [attempts by the ID activists](/archives/2005/09/the-dis-dishone.html) to surpress Forrest's testimony, the judge ruled in favor of her testifying as an [expert witness](http://www.talkorigins.org/faqs/dover/day6am.html)
 
 Understanding the Wedge was a major cause liability to Intellgent Design,  Dembski started to downplay its role, quite unsuccesfully.
 

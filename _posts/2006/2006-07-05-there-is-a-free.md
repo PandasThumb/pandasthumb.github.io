@@ -10,7 +10,7 @@ basename: there_is_a_free
 ---
 This entry provides a link (at the bottom of the entry) to the full text of my chapter (chapter 11) in the anthology _Why Intelligent Design Fails: The Scientific Critique of the New Creationism_ (WIDF, edited by Matt Young and Taner Edis, Â© Rutgers Univ. Press, 2004) posted on **Talk Reason** website.  The publisher has granted permission to post this material online with the proviso that the posted text would not be either printed or otherwise downloaded without permission from Rutgers Univ. Press. The full title of the chapter is "There Is a Free Lunch After All: William Dembski's Wrong Answers to Irrelevant Questions."
 
-The reason for posting this chapter right now becomes clear if we notice that many points discussed in that chapter have recently been revisited by several writers, in particular on the Panda's Thumb (PT) weblog (for example, see [this](http://www.pandasthumb.org/archives/2006/06/intelligent_des_28.html) and [this](http://www.pandasthumb.org/archives/2006/07/target_target_w_1.html) ). The points in question include 
+The reason for posting this chapter right now becomes clear if we notice that many points discussed in that chapter have recently been revisited by several writers, in particular on the Panda's Thumb (PT) weblog (for example, see [this](/archives/2006/06/intelligent-des-28.html) and [this](/archives/2006/07/target-target-w-1.html) ). The points in question include 
 
 \*	distinction between "targeted" and "targetless" search algorithms, 
 

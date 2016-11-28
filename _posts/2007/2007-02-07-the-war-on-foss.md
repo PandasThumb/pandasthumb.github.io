@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2784
 basename: the_war_on_foss
 ---
-<img src="http://i.a.cnn.net/cnn/2007/TECH/science/02/06/kenya.fossildebate.ap/story.turkana.ap.jpg" alt="" style="float:left;" />As I [reported previously](http://www.pandasthumb.org/archives/2007/01/update_on_kenya.html), evangelicals, led by Bishop Boniface Adoyo, Chairman of the Evangelical Alliance of Kenya, are trying to suppress a fossil display in Kenya's National Museum.  (And they're apparently getting aid from unnamed Western groups.)  The planned exhibit contains numerous hominid fossils found in that country, including the famous [Turkana Boy](http://en.wikipedia.org/wiki/Turkana_boy), a nearly complete _Homo erectus_ skeleton.
+<img src="http://i.a.cnn.net/cnn/2007/TECH/science/02/06/kenya.fossildebate.ap/story.turkana.ap.jpg" alt="" style="float:left;" />As I [reported previously](/archives/2007/01/update-on-kenya.html), evangelicals, led by Bishop Boniface Adoyo, Chairman of the Evangelical Alliance of Kenya, are trying to suppress a fossil display in Kenya's National Museum.  (And they're apparently getting aid from unnamed Western groups.)  The planned exhibit contains numerous hominid fossils found in that country, including the famous [Turkana Boy](http://en.wikipedia.org/wiki/Turkana_boy), a nearly complete _Homo erectus_ skeleton.
 
 CNN has recently published [an article](http://edition.cnn.com/2007/TECH/science/02/06/kenya.fossildebate.ap/index.html) about the museum exhibit and the evangelicals' attempts to whisk it away to some back room where it can't offend them.  Most of the information in the article is old hat, but it's good to see the American media finally picking up on this.  There is however one part that's new to me:
 

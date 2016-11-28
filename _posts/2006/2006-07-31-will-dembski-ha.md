@@ -11,7 +11,7 @@ blog_id: 2
 post_id: 2386
 basename: will_dembski_ha
 ---
-<img src="http://www.pandasthumb.org/archives/images/CSHlogo.jpg" alt="CSHlogo.jpg" width="79" height="80" style="float:left;" />
+<img src="/uploads/2006/CSHlogo.jpg" alt="CSHlogo.jpg" width="79" height="80" style="float:left;" />
 
 Many readers of this blog will be familiar with [Cold Spring Harbor Laboratory](http://www.cshl.edu). CSHL is the Long Island educational and research institution that hosts some of the most important professional meetings in several biological disciplines. It has for decades been the "home campus" of phage, bacterial and yeast genetics, as well as of computational neuroscience, developmental biology and various branches of genomics, bioinformatics and systems biology.
 
@@ -36,7 +36,7 @@ Topics of symposia include:
 * Signaling & Communications
 
 
-Now, as Jason Rosenhouse has discussed in his post on [The State of ID Research](http://www.pandasthumb.org/archives/2006/07/the_state_of_id_1.html), the ID movement has been quick to appropriate for itself the results of other people's work.  We might imagine that, rather than subject his thinking to critical review, Dembski will instead simply post an abstract or two from this meeting to his website, and claim credit for ID from work which he does not himself understand. I suspect that the mere fact that this CSH meeting invokes the analogy of engineering in its discussion of living systems will be proclaimed as another triumph for ID-think.
+Now, as Jason Rosenhouse has discussed in his post on [The State of ID Research](/archives/2006/07/the-state-of-id-1.html), the ID movement has been quick to appropriate for itself the results of other people's work.  We might imagine that, rather than subject his thinking to critical review, Dembski will instead simply post an abstract or two from this meeting to his website, and claim credit for ID from work which he does not himself understand. I suspect that the mere fact that this CSH meeting invokes the analogy of engineering in its discussion of living systems will be proclaimed as another triumph for ID-think.
 
 On the other hand, if the ID movement is sincerely interested in the themes of this meeting, they really ought to be sending one of their researchers (a grad student or post-doc, at least) to engage with other researchers in the field -- _their own_ field, if you believe what Dembski says. There would be some risk to sending a representative from the DI to such a meeting. It could end up being rather uncomfortable for the participant (I haven't seen much evidence that there is any biologist associated with the DI that could hold up their end of a conversation at a meeting like this). 
 

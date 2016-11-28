@@ -13,7 +13,7 @@ Photograph by **Andrew Freeman**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="http://pandasthumb.org/archives/2014/03/30/Freeman.Geranium_richardsonii.jpg" alt="Freeman.Geranium_richardsonii.jpg" width="592" height="431" />
+<img src="/uploads/2014/Freeman.Geranium_richardsonii.jpg" alt="Freeman.Geranium_richardsonii.jpg" width="592" height="431" />
 <figcaption markdown="span">
 <big>[_Geranium richardsonii_](http://www.swcoloradowildflowers.com/Pink%20Enlarged%20Photo%20Pages/geranium.htm) -- wild geranium, Pearl Lake, Colorado.</big>
 

@@ -13,7 +13,7 @@ basename: the_politically_8
 
 **Jonathan Wells (2006) _The Politically Incorrect Guide to Darwinism and Intelligent Design_. Regnery Publishing, Inc. Washington, DC.**<sup>[Amazon](amazon://1596980133)</sup>
 
-**[Read the entire series.](http://www.pandasthumb.org/archives/2006/08/the_politically.html)**
+**[Read the entire series.](/archives/2006/08/the-politically.html)**
 
 In chapter eight Wells recapitulates the standard "intelligent design" mantra that design can be established via an eliminative process.  That is, if it can be established that a particular phenomenon is not the result either of natural laws or chance, then design emerges as the only remaining possibility.  Readers familiar with ID will recognize this as the same, tired argument that "intelligent design" activists have been offering for more than a decade.  Indeed, Wells merely parrots the assertions of William Dembski, giving neither acknowledgement of nor consideration to any of the numerous refutations of Dembski's work produced over the years.
 

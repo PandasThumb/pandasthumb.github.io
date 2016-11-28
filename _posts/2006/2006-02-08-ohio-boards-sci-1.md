@@ -12,7 +12,7 @@ One of the main defenses of ID creationists on the Ohio State Board of Education
 
 In its addition of the "critical analysis" standard and benchmark the Board violated its own process.  The benchmark at issue, H23 in the 10th grade life sciences standards, was inserted by the Board itself, not by the writing committee that was advised by the Science Content Standards Advisory Committee.
 
-[We know already](http://www.pandasthumb.org/archives/2006/02/ohio_governor_t.html) that internal and external consultants to the Ohio Department of Education (ODE) repeatedly warned that the "critical analysis" model lesson plan was a rehash of old and oft-discredited creationist canards.  Now we know that ODE was also warned about the "critical analysis" standard early in the process.  There was no lack of forewarning to ODE; one wonders why those warnings did not get to the Board from ODE. 
+[We know already](/archives/2006/02/ohio-governor-t.html) that internal and external consultants to the Ohio Department of Education (ODE) repeatedly warned that the "critical analysis" model lesson plan was a rehash of old and oft-discredited creationist canards.  Now we know that ODE was also warned about the "critical analysis" standard early in the process.  There was no lack of forewarning to ODE; one wonders why those warnings did not get to the Board from ODE. 
 
 Yesterday in an open letter to Governor Taft (see below), 75% (24 of 32) of the  members of the Science Content Standards Advisory Committee, composed of scientists and educators, agreed that the standard is flawed.  
 
@@ -22,7 +22,7 @@ Yesterday in an open letter to Governor Taft (see below), 75% (24 of 32) of the 
 
 Moreover, at the January 2006 Board meeting, several creationist Board members argued that the model lesson plan and standard could be reviewed in future during the normal course of the "process" in ODE.  However, when pressed, ODE senior management admitted that there is no such review process in place.  
 
-So there was a subverted writing process and there is no review process in place.  Now only the Board can rectify its mistake.  Governor Taft is to be commended for his recent stand, [described here](http://www.pandasthumb.org/archives/2006/02/ohio_governor_t.html), on the undesirability of ID in Ohio public schools.  Now he must follow through.  His appointees were the main support for the creationist benchmark and lesson plan.  They must rethink that support.
+So there was a subverted writing process and there is no review process in place.  Now only the Board can rectify its mistake.  Governor Taft is to be commended for his recent stand, [described here](/archives/2006/02/ohio-governor-t.html), on the undesirability of ID in Ohio public schools.  Now he must follow through.  His appointees were the main support for the creationist benchmark and lesson plan.  They must rethink that support.
 
 The full letter to Governor Taft is below the fold.
 

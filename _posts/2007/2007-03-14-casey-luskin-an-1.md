@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2884
 basename: casey_luskin_an_1
 ---
-PZ has done a [**splendid job**](http://www.pandasthumb.org/archives/2007/03/luskin_and_the.html) of disemboweling Casey Luskin's [**silly screed**](http://www.evolutionnews.org/2007/03/antiscience_activists_oppose_t.html) about my op-ed from [**yesterday's Albuquerque Tribune**](http://www.abqtrib.com/news/2007/mar/13/commentary-intelligent-design-supporters-find-new-/).
+PZ has done a [**splendid job**](/archives/2007/03/luskin-and-the.html) of disemboweling Casey Luskin's [**silly screed**](http://www.evolutionnews.org/2007/03/antiscience_activists_oppose_t.html) about my op-ed from [**yesterday's Albuquerque Tribune**](http://www.abqtrib.com/news/2007/mar/13/commentary-intelligent-design-supporters-find-new-/).
 
 Speaking of me, Luskin complains 
 
@@ -18,7 +18,7 @@ But, readers of the Thumb already know this is **exactly** what's happening. Thi
 
 <img src="http://www.nmsr.org/trib0313.jpg" alt="" width="394" height="111" />
 
-As I discussed in [**"Cheshire Cat" Creationism in New Mexico**](http://www.pandasthumb.org/archives/2007/02/cheshire_cat_cr.html), the very "science-y"-looking website for the  [**"New Mexico Science Foundation"**](http://www.nmsciencefoundation.org/) is simply a front for the young-earth creationists at the [**Creation Science Fellowship of New Mexico (CSFNM)**](http://www.swcp.com/creation/).
+As I discussed in [**"Cheshire Cat" Creationism in New Mexico**](/archives/2007/02/cheshire-cat-cr.html), the very "science-y"-looking website for the  [**"New Mexico Science Foundation"**](http://www.nmsciencefoundation.org/) is simply a front for the young-earth creationists at the [**Creation Science Fellowship of New Mexico (CSFNM)**](http://www.swcp.com/creation/).
 
 To see why Luskin's scare quotes are silly, just take these steps:
 (1) Browse the science-y-looking "New Mexico Science Foundation"[**website**](http://www.nmsciencefoundation.org/).

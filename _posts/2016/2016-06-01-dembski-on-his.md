@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 7198
 basename: dembski_on_his
 ---
-<img src="http://pandasthumb.org/archives/2016/06/01/Wm_Dembski.jpg" alt="Wm_Dembski.jpg" width="165" height="200" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
+<img src="/uploads/2016/Wm_Dembski.jpg" alt="Wm_Dembski.jpg" width="165" height="200" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
 
 On May 30, 2016, Bill Dembski [announced](https://billdembski.com/disillusion-with-fundamentalism/):
 

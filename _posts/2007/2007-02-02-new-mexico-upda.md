@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2777
 basename: new_mexico_upda
 ---
-The Discovery Institute has certainly been busy since I last **[posted](http://www.pandasthumb.org/archives/2007/01/creationism_mea.html)** on a series of Intelligent Design Creationism measures introduced into the New Mexico Legislature.
+The Discovery Institute has certainly been busy since I last **[posted](/archives/2007/01/creationism-mea.html)** on a series of Intelligent Design Creationism measures introduced into the New Mexico Legislature.
 
 They have been busy making their usual Opening Moves: claiming **[The New Mexico bill is not about intelligent design](http://www.evolutionnews.org/2007/02/darwinists_begin_their_attacks.html#more)**, and **[It is censorship](http://nm4ifreedom.wordpress.com/2007/02/01/censorship-or-freedom-you-decide/)**!
 

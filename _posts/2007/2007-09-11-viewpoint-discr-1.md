@@ -10,7 +10,7 @@ basename: viewpoint_discr_1
 ---
 ID proponents are quick to argue 'viewpoint discrimination' whenever their attempts to introduce their scientifically vacuous ideas fail. If ID were really interested in protecting people from viewpoint discrimination then surely they will be outraged by the following article [Can God Love Darwin, Too?](http://www.msnbc.msn.com/id/20657204/site/newsweek/)
 
-[Remember RIchard Colling](http://www.pandasthumb.org/archives/2005/01/richard_colling.html), a biologist and professor at Olivet Nazarene University in Illinois. In 2004,   Colling wrote a book called "Random Designer".
+[Remember RIchard Colling](/archives/2005/01/richard-colling.html), a biologist and professor at Olivet Nazarene University in Illinois. In 2004,   Colling wrote a book called "Random Designer".
 
 > ... as he said in a letter to students and colleagues this year—"I want you to know the truth that God is bigger, far more profound and vastly more creative than you may have known." Moreover, he said, God "cares enough about creation to harness even the forces of \[Darwinian\] randomness."
 

@@ -9,7 +9,7 @@ post_id: 3188
 basename: and_yet_another
 ---
 <img src="http://worldnetdaily.com/images2/larrycraig.jpg" alt="" width="228" height="278" style="float:right;" />
-After posting [**Yet Another Creationist Meltdown**](http://www.pandasthumb.org/archives/2007/07/yet_another_cre.html) last July, I began to mull over testing a little hypothesis, namely that right-wing idealogues caught up in embarrassing political or sexual scandals have a better likelihood of being Creationists.
+After posting [**Yet Another Creationist Meltdown**](/archives/2007/07/yet-another-cre.html) last July, I began to mull over testing a little hypothesis, namely that right-wing idealogues caught up in embarrassing political or sexual scandals have a better likelihood of being Creationists.
 
 Well, we have a new Data Point.  It turns out that Senator Larry Craig, R-Idaho, has been up to more than just allegedly soliciting men in adjacent bathroom stalls.
 

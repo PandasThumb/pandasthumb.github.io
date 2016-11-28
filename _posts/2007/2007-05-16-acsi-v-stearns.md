@@ -34,7 +34,7 @@ Through the grapevine, I have heard a few tidbits about the case that will inter
 > \* Samuel Otter -- UC Berkeley, English
 > \* Robert Sharf -- UC Berkeley, Religion
 
-You read that correctly, our buddy **Michael J. Behe** is going to testify on behalf of the Bob Jones University science textbooks!  [Here's the guy's 72-page expert report](http://www.pandasthumb.org/pdfs/2007-04-02_Behe_expert_report_OCR2.pdf). (It is mirrored in the [ACSI v. Stearns folder](http://www2.ncseweb.org/avs/index.php?path=experts/) at NCSE's [Evolution Education and Law](http://www2.ncseweb.org/wp/) website -- feel free to post elsewhere, it is a largish PDF and we don't want to crash these sites.)
+You read that correctly, our buddy **Michael J. Behe** is going to testify on behalf of the Bob Jones University science textbooks!  [Here's the guy's 72-page expert report](/uploads/2007/2007-04-02_Behe_expert_report_OCR2.pdf). (It is mirrored in the [ACSI v. Stearns folder](http://www2.ncseweb.org/avs/index.php?path=experts/) at NCSE's [Evolution Education and Law](http://www2.ncseweb.org/wp/) website -- feel free to post elsewhere, it is a largish PDF and we don't want to crash these sites.)
 
 Let's have a look at the textbooks Behe is defending:
 

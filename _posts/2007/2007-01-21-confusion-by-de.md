@@ -28,7 +28,7 @@ Gil is right, Denyse's observation is so obvious and wrong. Of course, in order 
 
 Denyse's question is a valid one and in order to understand why one needs to know about means, motive and opportunity in order to detect 'design' such as determining in an arson or crime investigation if the cause was accidental, or purposeful. So far, we notice that crime and arson investigators have to determine 'design' versus accidental and the similarity between this and intelligent design may cause one to conclude that both take the same approach. But that is incorrect. First of all, lets point out that there is a third option: cause or causes unknown.
 
-A good example of how in real life crime investigators go about determining cause is outlined in an excellent essay by Gary Hurd and discussed by me in [this posting](http://www.pandasthumb.org/archives/2004/08/why_intelligent_3.html)
+A good example of how in real life crime investigators go about determining cause is outlined in an excellent essay by Gary Hurd and discussed by me in [this posting](/archives/2004/08/why-intelligent-3.html)
 
 Gary Hurd describes the death of a person because of a snake bite. "There are a variety of possibilities: accident, murder, suicide. Without more information about motive, means, opportunities it is hard to rule out any of these scenarios." In fact, "cause or causes unknown" seems a fair starting point.
 

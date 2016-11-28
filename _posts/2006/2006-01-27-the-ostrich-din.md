@@ -9,7 +9,7 @@ post_id: 1868
 basename: the_ostrich_din
 ---
 <img src="http://news.nationalgeographic.com/news/images/thumbs/060125_crocodile_170.jpg" alt="" style="float:right;" />
-Seems like convergent evolution has been a hot topic recently.  (See, for example, [this recent PT post](http://www.pandasthumb.org/archives/2006/01/the_pandas_thum.html).)
+Seems like convergent evolution has been a hot topic recently.  (See, for example, [this recent PT post](/archives/2006/01/the-pandas-thum.html).)
 
 On January 25th, the National Geographic [reported](http://news.nationalgeographic.com/news/2006/01/0125_060125_crocodile.html) that
 

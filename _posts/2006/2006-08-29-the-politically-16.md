@@ -13,7 +13,7 @@ basename: the_politically_16
 
 **Jonathan Wells (2006) _The Politically Incorrect Guide to Darwinism and Intelligent Design_. Regnery Publishing, Inc. Washington, DC.**<sup>[Amazon](amazon://1596980133)</sup>
 
-**[Read the entire series.](http://www.pandasthumb.org/archives/2006/08/the_politically.html)**
+**[Read the entire series.](/archives/2006/08/the-politically.html)**
 
 I'll address in this article chapter sixteen, "American Lysenkoism", in Jonathan Wells's _Politically Incorrect Guide to Darwinism and Intelligent Design_.  As Wells (1994) explained, he went to study biology at the behest of his spiritual "father" the Reverend Sun-Myung Moon, with an explicit goal to devote his life to "destroying Darwinism".  Since he set out to destroy "Darwinism" before having sufficiently familiarized himself with it, this immediately points to his lack of impartiality when dealing with "Darwinism." Wells's goal was not to evaluate "Darwinism" on its merits but to search for any arguments, regardless of their merits, which would serve his goal set in advance. This alone is a strong warning to the consumers of Wells's literary output: take Wells's arguments with a good dose of salt; he is not an unbiased judge of evidence, but a partisan of an anti-evolution effort whose goal is not to find the truth but to prove his viewpoint regardless of means.
 

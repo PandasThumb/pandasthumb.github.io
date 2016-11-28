@@ -11,4 +11,4 @@ basename: quote_of_the_da_11
 > I love deadlines. I like the whooshing sound they make as they fly by.
 > --Douglas Adams
 
-It's been a little busy lately, what with [entertaining Professor Steve Steve and His Hanger-On](http://www.pandasthumb.org/archives/2005/08/steve_steve_in_1.html), kids on vacation, taking diagnostic exams (rant on that may follow tomorrow, after I find out just how ~~badly I screwed~~ outstandingly well I performed), and other such things. But life is returning to normal, and I can get back to posting semi-topical quotes for you all to ~~nit-pic~~ enjoy.
+It's been a little busy lately, what with [entertaining Professor Steve Steve and His Hanger-On](/archives/2005/08/steve-steve-in-1.html), kids on vacation, taking diagnostic exams (rant on that may follow tomorrow, after I find out just how ~~badly I screwed~~ outstandingly well I performed), and other such things. But life is returning to normal, and I can get back to posting semi-topical quotes for you all to ~~nit-pic~~ enjoy.

@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1697
 basename: they_have_no_sh
 ---
-Paul Mirecki professor (and former chairman) of the University of Kansas Department of Religious Studies, reported that [he was attacked by two men](http://www.pandasthumb.org/archives/2005/12/mirecki_beating.html) at about 6:30 AM on last Monday, 05/12/05.  As one may observe from the link above, Panda's Thumb has to date not discussed this issue beyond merely mentioning that it occurred.  This was the result of considerable debate, hundreds of emails- many very heated, amongst the dozen or so of us who are regular contributors to the Thumb.  
+Paul Mirecki professor (and former chairman) of the University of Kansas Department of Religious Studies, reported that [he was attacked by two men](/archives/2005/12/mirecki-beating.html) at about 6:30 AM on last Monday, 05/12/05.  As one may observe from the link above, Panda's Thumb has to date not discussed this issue beyond merely mentioning that it occurred.  This was the result of considerable debate, hundreds of emails- many very heated, amongst the dozen or so of us who are regular contributors to the Thumb.  
 
 The religious right was not so restrained.  Within hours, "conservatives" were claiming that Mirecki's report was false and that his injuries were faked [Mirecki hospitalized after beating.](http://www2.ljworld.com/news/2005/dec/05/mirecki_hospitalized_after_beating/#comments)   Within two days [William Dembski promoted the idea that Mirecki had faked the attack.](http://www.uncommondescent.com/index.php/archives/559)  The website Dembski directed his readers to also held the possibility that Mirecki was a drug addict and/or drug dealer; 
 

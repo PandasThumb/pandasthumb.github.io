@@ -19,18 +19,18 @@ The subject of this essay is a fascinating protein that I will call T-urf13 (see
 The origins of the cmsT locus are fascinating.  Several years ago, this locus was cloned and sequenced, and the sequence compared with normal maize mitochondrial DNA.  This analysis revealed that the T-urf13 locus was the product of numerous recombination events (as many as seven different ones; along with reference 4, reference 6 has a nice overview of this).  The consequence of these recombination events was the cobbling together of a number of disparate mitochondrial DNA (mtDNA) segments (I have tried to illustrate their origins in Figure 1) to yield a novel DNA segment in the cmsT mitochondrial genome.  
 ----------------------------------
 
-<img src="http://www.pandasthumb.org/Turf13F1.png" alt="Turf13F1.png" width="720" height="540" />
+<img src="/uploads/2007/Turf13F1.png" alt="Turf13F1.png" width="720" height="540" />
 
 Figure 1.  I have superimposed two sections (colored circles) that have been brought together to form the unique region (2H3) in the mitochondrial genome of cmsT maize.  For this, I have used the circular map of the maize NB mitochondrial genome (downloaded from Clifton, S. W., et al. Plant Physiol. 2004;136:3486-3503) to show the relative positions of the two major parts of the 2H3 region, as well as the location in the genome of the 2H3 region itself.  Note that these circles, as well as the 2H3 region, are not drawn to scale.  Also note that the NB genome map is being used for convenience (the paper has a nice figure that allows me to make the basic point).  The actual genome from which cmsT was derived may differ in some ways from the NB genome, although not in the general features shown here.  As shown in Figures 2 and 3, the T-urf13 gene lies within the green shaded portion of 2H3.     
 ------------------------------------
 
 One consequence of these rearrangements was the protein-coding region for T-urf13.  What is remarkable is that none of the T-urf13 protein coding region came from other protein-coding genes.  This is illustrated in Figures 2 and 3.  Briefly, this novel protein-coding" gene consists of a segment of the 3'-flanking region of the mitochondrial 26S ribosomal RNA gene, a much smaller (and not contiguous) part of the RNA-coding part of the same gene, and a number of bp that seemingly appeared from out of the blue (Figure 2).
 
-<img src="http://www.pandasthumb.org/Turf13F2a.png" alt="Turf13F2a.png" width="720" height="540" />
+<img src="/uploads/2007/Turf13F2a.png" alt="Turf13F2a.png" width="720" height="540" />
 
 Closer perusal of the sequences (Figure 3) reveals that the origination of this gene involved, not just the piecing together of two different parts of the mitochondrial genome, but several other mutational events (point mutations, small insertions and/or deletions).  
 
-<img src="http://www.pandasthumb.org/Turf13F3a.png" alt="Turf13F3a.png" width="720" height="540" />
+<img src="/uploads/2007/Turf13F3a.png" alt="Turf13F3a.png" width="720" height="540" />
 
 The bottom line is that T-urf13 is a new protein, encoded by a gene that has no protein-coding antecedents; it is, bluntly, a new protein that arose "from scratch", through a series of duplications, recombinations, and other mutations that occurred spontaneously in the course of the breeding process that gave rise to the cmsT line.
 
@@ -42,7 +42,7 @@ Those who have read Darwin's Black Box might recall Behe's description of a gate
 
 The take-home message of all this is: portions of the maize mitochondrial genome that do not normally encode any protein were shuffled, extensively, so as to cobble together an expressed gene that encodes, not just any old polypeptide, but a multimeric gated ion channel.  In other words, an irreducibly complex structure arose **in one fell swoop**, using DNA sequences that do not encode proteins.  Basically, this is a case of IC from scratch.
 
-What does all this mean?  A linchpin of ID thought is the notion that functional proteins, especially multifunctional ones, cannot arise de novo via natural processes.  This proposition is one of [Paul Nelson's antievolutionary arguments](http://www.pandasthumb.org/archives/2006/04/an_argument_is.html) that center on ORFans (briefly, the appearance of new function is one of Nelson's alleged discontinuities), it is a part of the reason so many ID supporters retreat to the stage of the OOL when faced with other facts (presumably, they think that the origins of the first functioning proteins are beyond the grasp of natural mechanisms), it is ultimately where Behe's ideas about irreducible complexity end up.  The example discussed in this essay shows that even complex multifunctional proteins are well within the "reach" of normal, natural molecular processes.
+What does all this mean?  A linchpin of ID thought is the notion that functional proteins, especially multifunctional ones, cannot arise de novo via natural processes.  This proposition is one of [Paul Nelson's antievolutionary arguments](/archives/2006/04/an-argument-is.html) that center on ORFans (briefly, the appearance of new function is one of Nelson's alleged discontinuities), it is a part of the reason so many ID supporters retreat to the stage of the OOL when faced with other facts (presumably, they think that the origins of the first functioning proteins are beyond the grasp of natural mechanisms), it is ultimately where Behe's ideas about irreducible complexity end up.  The example discussed in this essay shows that even complex multifunctional proteins are well within the "reach" of normal, natural molecular processes.
 
 **Footnotes.**
 

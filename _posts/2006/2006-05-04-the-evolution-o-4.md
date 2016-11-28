@@ -12,7 +12,7 @@ The evolution of cooperation has long been a vexing problem in biology.  In the 
 
 A difficulty of doing research on cooperation is the same difficulty that plagues much research on other complex evolutionary phenomena, namely time: interesting multi-celled animals have (relatively) long lifetimes and following a population for many generations is impossible for a single researcher.
 
-Enter computer models.  I will not here rehearse the history of computer modeling of evolutionary processes, since I've previously touched on it [here](http://www.pandasthumb.org/archives/2005/09/desperately_dis.html), [here](http://www.pandasthumb.org/pt-archives/000043.html) and [here](http://www.pandasthumb.org/pt-archives/000043.html) on PT.
+Enter computer models.  I will not here rehearse the history of computer modeling of evolutionary processes, since I've previously touched on it [here](/archives/2005/09/desperately-dis.html), [here](http://www.pandasthumb.org/pt-archives/000043.html) and [here](http://www.pandasthumb.org/pt-archives/000043.html) on PT.
 
 Of present interest is a study of the evolution of cooperation in a computer model of evolution.  Prior work has shown that there are conditions in which several kinds of 'strategies' for interactions among artificial agents can evolve.  Robert Axelrod, for example, has done [a slew of work](http://www.cscs.umich.edu/Software/ComplexCoop.html) on that topic.  Game theory informs much of that research, and has been useful in predicting the occurrence of certain kinds of strategies in multi-agent contexts.
 

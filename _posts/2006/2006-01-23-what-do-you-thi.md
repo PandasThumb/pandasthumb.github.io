@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1852
 basename: what_do_you_thi
 ---
-I asked awhile back for [some of your thoughts on improving science education](http://www.pandasthumb.org/archives/2005/12/how_would_you_s.html), particularly in the U.S.  In yesterday's NY Times, there was a story about [discussing one measure that might help in this area:](http://www.nytimes.com/2006/01/22/education/22grants.html?pagewanted=1&amp;ei=5094&amp;en=81cd1a4fda833059&amp;hp&amp;ex=1137992400&amp;partner=homepage)
+I asked awhile back for [some of your thoughts on improving science education](/archives/2005/12/how-would-you-s.html), particularly in the U.S.  In yesterday's NY Times, there was a story about [discussing one measure that might help in this area:](http://www.nytimes.com/2006/01/22/education/22grants.html?pagewanted=1&amp;ei=5094&amp;en=81cd1a4fda833059&amp;hp&amp;ex=1137992400&amp;partner=homepage)
 
 
 > The measure, backed by the Bush administration and expected to pass the House when it returns next month, would provide $750 to $1,300 grants to low-income college freshmen and sophomores who have completed "a rigorous secondary school program of study" and larger amounts to juniors and seniors majoring in math, science and other critical fields.

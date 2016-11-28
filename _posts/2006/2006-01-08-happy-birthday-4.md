@@ -51,7 +51,7 @@ Unfortunately, Bronowski died very shortly after _The Ascent of Man_was complete
 > 
 > And I am infinitely saddened to find myself suddenly surrounded in the west by a sense of terrible loss of nerve, a retreat from knowledge into---into what? Into Zen Buddhism; into falsely profound questions about, Are we not really just animals at bottom; into extra-sensory perception and mystery. They do not lie along the line of what we are now able to know if we devote ourselves to it: an understanding of man himself. We are nature's unique experiment to make the rational intelligence prove itself sounder than the reflex. Knowledge is our destiny. Self-knowledge, at last bringing together the experience of the arts and the explanations of science, waits ahead of us.
 
-I wrote more about Bronowski in [the December 2002 issue of _Liberty_](http://www.geocities.com/sande106/bronowskirev.htm)  and in [this _Thumb_post](http://www.pandasthumb.org/archives/2004/10/the_ascent_of_m.html) from a while ago.
+I wrote more about Bronowski in [the December 2002 issue of _Liberty_](http://www.geocities.com/sande106/bronowskirev.htm)  and in [this _Thumb_post](/archives/2004/10/the-ascent-of-m.html) from a while ago.
 
 <img src="http://www.geocities.com/sande106/jb.jpg" alt="" />
 

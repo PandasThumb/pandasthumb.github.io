@@ -67,7 +67,7 @@ The writing committees that developed the lesson plan that operationally defines
 
 >  We only got four of our people on that \[Writing\] Team.  However, three of those people are on the critical grade 10 biology subgroup, 3 out of 7.  Which has turned out to be enough.  These three people are all excellent people.  One's a University professor, a Ph.D. biologist, who's very influential.  He's the only Ph.D. biologist on that group.  The second group is a .. ah .. high school science teacher, and the third is a junior college biology teacher.  And they have had great influence on the group.  
 
-We know that the Ohio Department of Education knew what was going on.  Both internal and external expert advisors told ODE managers about it.  ODE advisors told senior managers that the material was filled with lies, over-simplifications, and inaccuracies.   To repeat from [my earlier post](http://www.pandasthumb.org/archives/2006/01/ohio_fordham_ev_1.html):
+We know that the Ohio Department of Education knew what was going on.  Both internal and external expert advisors told ODE managers about it.  ODE advisors told senior managers that the material was filled with lies, over-simplifications, and inaccuracies.   To repeat from [my earlier post](/archives/2006/01/ohio-fordham-ev-1.html):
 
 > "The sentence ... is a lie." (an ODE scientist referrring to the Fossil Record aspect "Sample Challenging Answer"; the lie is still in the lesson)
 > 

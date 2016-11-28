@@ -13,7 +13,7 @@ Photograph by **Karen Dobson**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="http://pandasthumb.org/Dobson.Raven.jpg" alt="Dobson.Raven.jpg" width="600" height="441" />
+<img src="/uploads/2013/Dobson.Raven.jpg" alt="Dobson.Raven.jpg" width="600" height="441" />
 <figcaption markdown="span">
 <big>[_Corvus corax_](http://www.allaboutbirds.org/guide/common_raven/id,) - common raven.</big> 
 

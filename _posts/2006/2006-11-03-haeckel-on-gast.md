@@ -8,9 +8,9 @@ blog_id: 2
 post_id: 2596
 basename: haeckel_on_gast
 ---
-This morning, the ID guys were embarrassed -- once again -- when it was revealed that they didn't know what they were talking about when they accused PZ Myers of lying by misquoting Wells in _[PIGDID](http://www.pandasthumb.org/archives/2006/08/the_politically.html)_.  PZ dealt with this pretty darn convincingly [over here](http://scienceblogs.com/pharyngula/2006/11/pz_myers_is_such_a_liar.php).
+This morning, the ID guys were embarrassed -- once again -- when it was revealed that they didn't know what they were talking about when they accused PZ Myers of lying by misquoting Wells in _[PIGDID](/archives/2006/08/the-politically.html)_.  PZ dealt with this pretty darn convincingly [over here](http://scienceblogs.com/pharyngula/2006/11/pz_myers_is_such_a_liar.php).
 
-But looking at the Haeckel/embryos chapter of _[PIGDID](http://www.pandasthumb.org/archives/2006/08/the_politically.html)_ reminded me of something that has always bugged me about Wells's claims.  Here it is:
+But looking at the Haeckel/embryos chapter of _[PIGDID](/archives/2006/08/the-politically.html)_ reminded me of something that has always bugged me about Wells's claims.  Here it is:
 
 > Yet only after cleavage and gastrulation does a vertebrate embryo reach the stage that Haeckel labeled the "first." If it were true (as Darwin and Haeckel claimed) that vertebrates are most similar in their earliest stages, then the various classes would be most similar during cleavage and gastrulation. (Wells, _PIGDID_, p. 30)
 
@@ -18,9 +18,9 @@ There you have it: Darwin and Haeckel were ignorant of diversity in embryo gastr
 
 Imagine my surprise when I actually took a look at Haeckel's _Anthropogenie_ (1891 edition):
 
-> <img src="http://www.pandasthumb.org/images/Haeckel_1891_Anthropogenie_4th-ed_gastrulation_worm_frog_etc.jpg" alt="" style="" />
+> <img src="/uploads/2006/Haeckel_1891_Anthropogenie_4th-ed_gastrulation_worm_frog_etc.jpg" alt="" style="" />
 > 
-> <img src="http://www.pandasthumb.org/images/Haeckel_1891_Anthropogenie_4th-ed_gastrulation_fisch_krebs_etc.jpg" alt="" style="" />
+> <img src="/uploads/2006/Haeckel_1891_Anthropogenie_4th-ed_gastrulation_fisch_krebs_etc.jpg" alt="" style="" />
 > 
 > (source: Ernst Haeckel (1891). _Anthropogenie_, fourth edition (revised and expanded).  Leipzig: Verlag von Wilhelm Engelman, 1891.)
 

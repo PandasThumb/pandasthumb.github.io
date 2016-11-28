@@ -12,12 +12,12 @@ Below are all our finalists in the "Minerals" section of our Photo Contest.  Ple
 
 
 <ul id="mygalleryview">
-<li><img src="http://pandasthumb.org/archives/2009/08/09/Pasek.Fulgurite3.jpg" />
+<li><img src="/uploads/2009/Pasek.Fulgurite3.jpg" />
 <div class="panel-overlay">
 Fulgurite by Virginia Pasek &mdash; Glass formed as lightning strikes sand or soil.  Phosphate-containing sand was fused and turned into phosphite.  In the center is a small granitic pebble that was trapped during the formation of the glass. A bolt of electricity traveled along its surface, leaving permanent evidence of its passage.  Tucson, Arizona, 2007.
 </div>
 </li>
-<li><img src="http://pandasthumb.org/archives/2009/08/09/Cobb.stalactite.jpg" />
+<li><img src="/uploads/2009/Cobb.stalactite.jpg" />
 <div class="panel-overlay">
 Stalactite by Quentin Cobb &mdash; Big Stalactite at Doolin Cave. Largest Irish stalactite in the world.    At 7.3 meters long it contains 33 tonnes of calcite. The Burren, County Clare, Republic of Ireland, 1976.
 </div>
@@ -27,7 +27,7 @@ Stalactite by Quentin Cobb &mdash; Big Stalactite at Doolin Cave. Largest Irish 
 Center of the Galaxy by François Malan &mdash; The center of the Milky Way galaxy, showing Kaus Australis, Kaus Media, Shaula, Lesath, Nunki, Phi Sagittarii. Ptolemy's Cluster (M7), and the Lagoon Nebula (M8). Photographed from the ground in Sutherland, South Africa.
 </div>
 </li>
-<li><img src="http://pandasthumb.org/archives/2009/08/09/Kocher_GunflintStroms_1.JPG" />
+<li><img src="/uploads/2009/Kocher_GunflintStroms_1.JPG" />
 <div class="panel-overlay">
 Stromatolites by James Kocher &mdash; Fossilized colonies of filamentary cyanobacteria (blue-green algae) and other microbes. Gunflint formation, approximately 1.9 billion years old. Microscopic fossils are sheaths and external cellular secretions/coverings very much like modern cyanobacteria.  Whitefish River, Lybster Township, Ontario, August, 1992.
 </div>

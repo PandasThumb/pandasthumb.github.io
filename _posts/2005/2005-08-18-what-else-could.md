@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1290
 basename: what_else_could
 ---
-I don't read the stuff posted on Dembski's sites for an obvious reason -- I don't expect to see anything there of substance and interest. However, I received emails from Dave Mullenix and Steve Verdon, who have quoted in their emails Dembski's post, where he supposedly "replied" to my post titled "_Skeptic_ on Dembski" placed on Panda's Thumb ([see here](http://www.pandasthumb.org/archives/2005/08/skeptic_on_demb.html)) and TalkReason ([see here]((http://www.talkreason.org/articles/Skeptic.cfm)).  This made me look up Dembski's site to verify the quotes sent by Dave and Steve. 
+I don't read the stuff posted on Dembski's sites for an obvious reason -- I don't expect to see anything there of substance and interest. However, I received emails from Dave Mullenix and Steve Verdon, who have quoted in their emails Dembski's post, where he supposedly "replied" to my post titled "_Skeptic_ on Dembski" placed on Panda's Thumb ([see here](/archives/2005/08/skeptic-on-demb.html)) and TalkReason ([see here]((http://www.talkreason.org/articles/Skeptic.cfm)).  This made me look up Dembski's site to verify the quotes sent by Dave and Steve. 
 
 Here is the full text of Dembski's post:
 

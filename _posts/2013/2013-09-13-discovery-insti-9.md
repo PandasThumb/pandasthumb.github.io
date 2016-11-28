@@ -26,7 +26,7 @@ Not only did Leonard's committee not meet the requirements of his program, two o
 
 After biologist and Dean of the School of Biological Sciences Joan Herbers was added to Leonard's committee, replacing the Assistant Professor of French and Italian, Leonard's defense was postponed at the request of his advisor, and as far as I know it was never rescheduled.
 
-The Discovery Institute predictably threw a fit about OSU's treatment of Leonard. See [here](http://www.discovery.org/a/2715) and [here](http://www.discovery.org/a/2661) for examples. According to the DI, it was a manifestation of the oppressive Darwinist conspiracy. [See here for my take](http://www.pandasthumb.org/archives/2005/07/di_spins_leonar.html) on the DI's spinning then.
+The Discovery Institute predictably threw a fit about OSU's treatment of Leonard. See [here](http://www.discovery.org/a/2715) and [here](http://www.discovery.org/a/2661) for examples. According to the DI, it was a manifestation of the oppressive Darwinist conspiracy. [See here for my take](/archives/2005/07/di-spins-leonar.html) on the DI's spinning then.
 
 Now the Discovery Institute, in the person of Casey Luskin, has [revived its falsehoods](http://www.evolutionnews.org/2013/09/ohio_state_evol076561.html) about the Leonard affair in the context of a critique of [Steve Rissing's recent paper](http://www.lifescied.org/content/12/3/429.full) about the undue emphasis in college biology programs on MCAT preparation to the neglect of other audiences--students preparing for biology and related science majors, and students completing general education graduation requirements. 
 

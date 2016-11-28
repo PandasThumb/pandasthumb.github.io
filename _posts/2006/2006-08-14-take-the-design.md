@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2424
 basename: take_the_design
 ---
-Since posting my [essay on Genetic Algorithms](http://www.pandasthumb.org/archives/2006/07/target_target_w_1.html), I've since developed a brand-new C++ version of my Steiner Networks genetic algorithm, a vast improvement over the old Fortran number-clunker I developed five years ago.
+Since posting my [essay on Genetic Algorithms](/archives/2006/07/target-target-w-1.html), I've since developed a brand-new C++ version of my Steiner Networks genetic algorithm, a vast improvement over the old Fortran number-clunker I developed five years ago.
 
 And already, the new code is leading to some very interesting results.  
 
@@ -25,18 +25,18 @@ As you recall, my algorithm involves finding Steiner Trees, the shortest network
 **The Challenge**
 Here is a collection of six fixed points.  Designers, send your candidates for the Steiner Solution for this particular 6-point system to me at nmsrdaveATswcp.com (replace the AT with an @ if you please).
 
-<img src="http://www.pandasthumb.org/archives/target/6nodeGrid.gif" alt="6nodeGrid.gif" width="438" height="158" />
+<img src="/uploads/2006/6nodeGrid.gif" alt="6nodeGrid.gif" width="438" height="158" />
 
 I will announce the winners (if any) in a week's time, and also will present the answer that Evolution came up with.  I'm interested in proposed solutions from any and all (you don't have to be in the ID camp), but am especially interested in solutions by ID advocates, since y'all are saying that the solution is already _implicitly defined in the statement of the problem_ (finding shortest connected networks).  
 Here's a Hint:
-<img src="http://www.pandasthumb.org/archives/target/4steiner.gif" alt="4steiner.gif" width="281" height="154" />
+<img src="/uploads/2006/4steiner.gif" alt="4steiner.gif" width="281" height="154" />
 
 You can send solutions as images (GIF preferred), textual descriptions (e.g. "a point at 250,300 connected to a point at 350, 300"), plain text ( / | \ _ ) or web pages.
 
 This invitation is cordially extended to the entire Software Engineering Team at Uncommon Descent, where [Salvador Cordova recently wrote](http://www.uncommondescent.com/index.php/archives/1422#comment-52440)
 
 
-> This is not the first time Thomas put together a sham. A few weeks back he put together a sham on evolutionary algorithms. After I visited pandas thumb to called him on his little charade [Comment 111151](http://www.pandasthumb.org/archives/2006/07/target_target_w_1.html#comment-111151) he suggested I leave. In the meantime, the blogsphere from PZ Myers onward hailed Dave's little gimmick as some kind of truth. Most of the **software engineers here at UD saw right through it**, but the eager consumers of Panda food gulped it down uncritically, believing the design argument was refuted by his software theatrics.  This last little bit of misrepresentation by Thomas is par for the course for the Panda bloggers.
+> This is not the first time Thomas put together a sham. A few weeks back he put together a sham on evolutionary algorithms. After I visited pandas thumb to called him on his little charade [Comment 111151](/archives/2006/07/target-target-w-1.html#comment-111151) he suggested I leave. In the meantime, the blogsphere from PZ Myers onward hailed Dave's little gimmick as some kind of truth. Most of the **software engineers here at UD saw right through it**, but the eager consumers of Panda food gulped it down uncritically, believing the design argument was refuted by his software theatrics.  This last little bit of misrepresentation by Thomas is par for the course for the Panda bloggers.
 
  
 

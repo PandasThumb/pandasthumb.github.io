@@ -13,7 +13,7 @@ Photograph by **Paul Funk**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="http://pandasthumb.org/archives/2010/09/17/Funk.Cytisus_scoparius.jpg" alt="Funk.Cytisus_scoparius.jpg" width="600" height="800" />
+<img src="/uploads/2010/Funk.Cytisus_scoparius.jpg" alt="Funk.Cytisus_scoparius.jpg" width="600" height="800" />
 <figcaption markdown="span">
 <big>_Cytisus scoparius_ -- [Scotch broom](http://www.invasiveplantcouncilbc.ca/invasive-plants-bc/invasive-plant-watch/scotch-broom), invading a power-line cut on Vancouver Island.</big> Scotch broom is an escaped ornamental that colonizes disturbed areas and competes with conifer seedlings and forage plants.
 

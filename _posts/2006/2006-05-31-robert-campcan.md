@@ -153,7 +153,7 @@ Camp summarizes:
 > But an understanding of the specifics of the analogized methodologies reveals that it is actually the proponents of ID who have an uncomfortable decision to make. Either the phenomena that ID theory purports to discover are empirically accessible to science --- and therefore derived from natural processes --- or they are forever inexplicable, in which case the analogy with scientific methodology fails by definition. Do Intelligent Design proponents leave ID in this epistemological vacuum where it cannot be falsified by the scientific method, or do they allow, and therefore submit to peer review, that their designer must somehow interact with the natural universe in ways that should be detectable, testable, explicable, and eventually expressive of the nature of the designer?
 
 
-Gary Hurd addressed the claims of Dembski in [Why Intelligent Design Fails: Chapter 8 "The explanatory filter, archaeology, and Forensics"](http://www.pandasthumb.org/archives/2004/08/why_intelligent_3.html) 
+Gary Hurd addressed the claims of Dembski in [Why Intelligent Design Fails: Chapter 8 "The explanatory filter, archaeology, and Forensics"](/archives/2004/08/why-intelligent-3.html) 
 
 Beckwith's position has already been explored by [Ian Musgrave](http://www2.pandasthumb.org/archives/2004/04/are_intelligent_agents_supernatural.html)
 

@@ -62,7 +62,7 @@ As USA Today [reports](http://www.usatoday.com/news/nation/2005-12-22-intelligen
 > 
 > He said no other part of the science curriculum was criticized in Dover, there was no evidence of disclaimers on other subjects and science has refuted ID critiques of evolution.
 
-In other words, DeWolf whose comments on the Dover ruling seem to have [misunderstood the legal reality](http://www.pandasthumb.org/archives/2005/12/prof_dewolfs_cr.html) now seems to be on his way for yet another faux pas. 
+In other words, DeWolf whose comments on the Dover ruling seem to have [misunderstood the legal reality](/archives/2005/12/prof-dewolfs-cr.html) now seems to be on his way for yet another faux pas. 
 
 Intelligent design's failure as a scientific contributor has generated significant concerns amongst ID proponents, especially the Discovery Institute, but why would they care as they seem to support (at least at present) that ID should not be taught in high school settings. Judge Jones seems to have understood however that teaching the controversy is nothing more than a thinly veiled attempt to introduce intelligent design. As such, Jones' ruling is very relevant to the Ohio situation.
 

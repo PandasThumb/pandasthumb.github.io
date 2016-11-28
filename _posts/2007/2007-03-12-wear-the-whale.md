@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2874
 basename: wear_the_whale
 ---
-As a followup to [my recent fisking of Egnor](http://www.pandasthumb.org/archives/2007/03/egnorance_combo_arrogance.html), I wanted everyone to know that T-shirts are still available. (Do an in-article find for "ambulocetus" and check out the links.) I just bought mine today and it should arrive by the end of the week.
+As a followup to [my recent fisking of Egnor](/archives/2007/03/egnorance-combo-arrogance.html), I wanted everyone to know that T-shirts are still available. (Do an in-article find for "ambulocetus" and check out the links.) I just bought mine today and it should arrive by the end of the week.
 
 [Get your T-shirts here.](http://www.neoucom.edu/DEPTS/PubRel/shirts2006.pdf)
 

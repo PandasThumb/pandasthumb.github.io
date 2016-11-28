@@ -13,7 +13,7 @@ Photograph by **Richard Duhrkopf**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="http://pandasthumb.org/archives/2010/10/10/Duhrkopf.Brown_Pelican.jpg" alt="Duhrkopf.Brown_Pelican.jpg" width="600" height="399" />
+<img src="/uploads/2010/Duhrkopf.Brown_Pelican.jpg" alt="Duhrkopf.Brown_Pelican.jpg" width="600" height="399" />
 <figcaption markdown="span">
 <big>_[Pelecanus occidentalis](http://en.wikipedia.org/wiki/Brown_Pelican)_ -- brown pelican, Galveston Bay, Texas.</big>
 

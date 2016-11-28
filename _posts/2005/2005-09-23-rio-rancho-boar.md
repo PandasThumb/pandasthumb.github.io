@@ -12,7 +12,7 @@ The Rio Rancho School Board met again on Sept. 19th, and the Rio Rancho Observer
 
 > no current plans to revisit that decision.
 
-"That decision," of course, is Rio Rancho's adoption of "Science Policy 401," discussed previously [here](http://www.pandasthumb.org/archives/2005/09/more_reaction_t.html).
+"That decision," of course, is Rio Rancho's adoption of "Science Policy 401," discussed previously [here](/archives/2005/09/more-reaction-t.html).
 
 Also, on the preceding Sunday, the Flying Spaghetti Monster made a glorious appearance on the Observer's Editorial Page.
 <img src="http://www.pandasthumb.org/archives/new_mexico/fsm.jpg" alt="fsm.jpg" width="258" height="241" style="" />
@@ -33,6 +33,6 @@ The Observer also noted that
 > 
 > "Science classrooms are no place to debate the finer points of religion," said Thomas, who said he has a grand-niece attending school in Rio Rancho, "Please rescind this policy."
 
-Prof. Steve Steve also attended the Sept. 19th meeting, [but was not allowed to speak](http://www.pandasthumb.org/archives/2005/09/steve_steve_arr.html).
+Prof. Steve Steve also attended the Sept. 19th meeting, [but was not allowed to speak](/archives/2005/09/steve-steve-arr.html).
 
 Will the Rio Rancho Board ever revisit its unfortunate decision?  Will Nell escape Snidely's fiendish trap?  Stay tuned ...

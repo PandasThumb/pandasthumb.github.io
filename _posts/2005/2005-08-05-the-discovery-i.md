@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1218
 basename: the_discovery_i
 ---
-Recently, we noted that the Discovery Institute was bemoaning their lack of funds to support their anti-evolution activities.  That claim was [factually wrong](http://www.pandasthumb.org/archives/2005/08/di_crsc_and_fin.html). In fact, it turns out that over the past year they had enough money to hire a very high-profile public relations firm, Creative Response Concepts (CRC), to spread their message. This is the same firm that represents AT&T, the canonical American mega-corporation, among a long list of clients.
+Recently, we noted that the Discovery Institute was bemoaning their lack of funds to support their anti-evolution activities.  That claim was [factually wrong](/archives/2005/08/di-crsc-and-fin.html). In fact, it turns out that over the past year they had enough money to hire a very high-profile public relations firm, Creative Response Concepts (CRC), to spread their message. This is the same firm that represents AT&T, the canonical American mega-corporation, among a long list of clients.
 
 Other notable CRC clients include the "Contract for America", [Parents Television Council](http://www.sourcewatch.org/index.php?title=Parents_Television_Council), Regnery Publishing (the firm that published Phillip Johnson's book, _Darwin On Trial_), and the high-profile client of the 2004 USA presidential campaign, "[Swift Boat Vets](http://www.factcheck.org/article231.html) [for Truth](http://www.cjrdaily.org/archives/000851.asp)".
 

@@ -12,7 +12,7 @@ It has been announced that Robert Sokal died on April 9.  I wrote a brief obitua
 
 
 <div markdown="block">
-|<img src="http://pandasthumb.org/sokal1964.jpg" alt="sokal1964.jpg" width="352" height="483" class="mt-image-none" />|<img src="http://pandasthumb.org/Sokal2-n.jpg" alt="Sokal2-n.jpg" width="220" height="283" class="mt-image-none" />
+|<img src="/uploads/2012/sokal1964.jpg" alt="sokal1964.jpg" width="352" height="483" class="mt-image-none" />|<img src="/uploads/2012/Sokal2-n.jpg" alt="Sokal2-n.jpg" width="220" height="283" class="mt-image-none" />
 |Robert Sokal in 1964 at the International<br />Entomological Congress in London|Bob Sokal, more recently
 </div>
 

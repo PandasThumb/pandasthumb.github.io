@@ -8,6 +8,6 @@ blog_id: 2
 post_id: 3192
 basename: visitors_bureau
 ---
-Last week I told y'all about how [AiG had corrupted Kentucky's government](http://www.pandasthumb.org/archives/2007/08/answers_in_gene.html).  Well according to an email that I received today, the tax-funded Northern Kentucky Convention & Visitors Bureau will change its inflammatory and specious description of the creation anti-museum.  The Sunday's Kentucky Enquirer is going to have a story on it.  Someone should post the link in comments when it come available.
+Last week I told y'all about how [AiG had corrupted Kentucky's government](/archives/2007/08/answers-in-gene.html).  Well according to an email that I received today, the tax-funded Northern Kentucky Convention & Visitors Bureau will change its inflammatory and specious description of the creation anti-museum.  The Sunday's Kentucky Enquirer is going to have a story on it.  Someone should post the link in comments when it come available.
 
 Sounds like our public pressure worked.  Good job everyone.

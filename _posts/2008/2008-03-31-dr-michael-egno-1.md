@@ -9,7 +9,7 @@ post_id: 3705
 basename: dr_michael_egno_1
 ---
 <p>
-Last week, SUNY Stony Brook neurosurgeon and anti-evolution mouthpiece [Michael Egnor](http://www.pandasthumb.org/archives/2007/03/egnorance_combo_arrogance.html) decided to [keep driving on](http://www.evolutionnews.org/2008/03/mr_dunfords_knot.html) with his "you don't need to understand Darwinian evolution to understand antibiotic resistance" crusade. His post is - predictably enough - a mass of loosely connected logical fallacies. One of the most egregious of these is his attempt to assume one of the points that he wanted to argue:
+Last week, SUNY Stony Brook neurosurgeon and anti-evolution mouthpiece [Michael Egnor](/archives/2007/03/egnorance-combo-arrogance.html) decided to [keep driving on](http://www.evolutionnews.org/2008/03/mr_dunfords_knot.html) with his "you don't need to understand Darwinian evolution to understand antibiotic resistance" crusade. His post is - predictably enough - a mass of loosely connected logical fallacies. One of the most egregious of these is his attempt to assume one of the points that he wanted to argue:
 </p>
 
 > First, two definitions:

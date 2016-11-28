@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1477
 basename: intelligent_des_9
 ---
-[As we've pointed out before](http://www.pandasthumb.org/archives/2005/09/of_pandas_and_p.html) on the Panda's Thumb, the proposed intelligent design textbook **Of Pandas and People** indicates that intelligent design was simply a rebadging of creationism. In view of that, let's look at the short chapter of the 1993 edition of Pandas which discusses human evolution. Here are some quotes from that chapter:
+[As we've pointed out before](/archives/2005/09/of-pandas-and-p.html) on the Panda's Thumb, the proposed intelligent design textbook **Of Pandas and People** indicates that intelligent design was simply a rebadging of creationism. In view of that, let's look at the short chapter of the 1993 edition of Pandas which discusses human evolution. Here are some quotes from that chapter:
 
 > Does the fossil record provide any evidence for either the Darwinian or the intelligent design view of man? (p.107) 
 

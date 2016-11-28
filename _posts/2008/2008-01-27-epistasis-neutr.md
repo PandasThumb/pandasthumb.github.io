@@ -25,7 +25,7 @@ Now let's mutate one of these neutral nucleotides and see what happens. The nucl
 However, some previously neutral sequences have now lost their neutrality (as indicated with a minus) and some previously non-neutral sites have become neutral (as indicated with a plus).
 
 Now let's mutate position Y from a G to an A and compare the effect on both, similar RNA molecules. The effect is dramatic, two different molecules despite the fact that the original RNA molecules were similar.
-[<img src="http://pandasthumb.org/assets_c/2008/01/Picture 8-thumb-600x184.png" alt="Picture 8.png" width="600" height="184" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/Picture%2082.html)
+[<img src="/uploads/2008/Picture 8-thumb-600x184.png" alt="Picture 8.png" width="600" height="184" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/Picture%2082.html)
 
 This shows that the effect of a mutation at position Y depends on the mutation at position X, even though the mutation can be neutral in its effect. This is called epistasis. Both resulting structures evolved from the same shape RNA and yet, the one of the left has no mutation at X and the one on the right has X mutated to a G. However, this mutation was a neutral mutation before the Y mutation.
 

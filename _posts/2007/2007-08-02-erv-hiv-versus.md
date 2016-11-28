@@ -10,11 +10,11 @@ basename: erv_hiv_versus
 ---
 **by Abbie Smith**
 
-_**Editor's Note:** This is a guest post by Abbie Smith, the blogger behind the [Endogenous Retrovirus (ERV) blog](http://endogenousretrovirus.blogspot.com/) ([original post](http://endogenousretrovirus.blogspot.com/2007/08/michael-behe-please-allow-me-to.html)), who we [marked early](http://www.pandasthumb.org/archives/2007/06/best_behe_taked.html) as having a special talent for this creationism-rebutting stuff.  Abbie works in an HIV lab and has a few things to say about Behe's argument in_The Edge of Evolution_that evolution hasn't/can't produced any novel adaptations, genes, or protein-protein binding sites during the evolution of HIV, the virus that causes AIDS, unless you are one of the several Discovery Institute fellows who denies this along with denying evolution._
+_**Editor's Note:** This is a guest post by Abbie Smith, the blogger behind the [Endogenous Retrovirus (ERV) blog](http://endogenousretrovirus.blogspot.com/) ([original post](http://endogenousretrovirus.blogspot.com/2007/08/michael-behe-please-allow-me-to.html)), who we [marked early](/archives/2007/06/best-behe-taked.html) as having a special talent for this creationism-rebutting stuff.  Abbie works in an HIV lab and has a few things to say about Behe's argument in_The Edge of Evolution_that evolution hasn't/can't produced any novel adaptations, genes, or protein-protein binding sites during the evolution of HIV, the virus that causes AIDS, unless you are one of the several Discovery Institute fellows who denies this along with denying evolution._
 
 _Oh, and speaking of the Discovery Institute and Behe, Behe is apparently going to be on the [Colbert Report](http://www.comedycentral.com/shows/the_colbert_report/index.jhtml) tonight. Colbert has been setting an excellent example by making a point of it to bring scientists on his show -- Kenneth Miller, Neil DeGrasse Tyson, Shubin I think.  Hopefully Colbert knows that Behe isn't quite like these other guys.  I recall that Dembski claimed he was sick after he appeared on The Daily Show next to some weird new-ager in 2005._
 
-_Anyway, if Colbert doesn't hit the appropriate snark mark tonight, you'll get it from Abbie for sure. I thought I got Behe pretty good in [Of Cilia and Silliness](http://www.pandasthumb.org/archives/2007/06/of_cilia_and_si.html), but this _really_ takes the cake._
+_Anyway, if Colbert doesn't hit the appropriate snark mark tonight, you'll get it from Abbie for sure. I thought I got Behe pretty good in [Of Cilia and Silliness](/archives/2007/06/of-cilia-and-si.html), but this _really_ takes the cake._
 
 _---Nick Matzke_
 
@@ -29,7 +29,7 @@ I'm ERV. This is my dog, [Arnold Schwarzenegger](http://endogenousretrovirus.blo
 I find it rather difficult to believe that you two haven't crossed paths, as Vpu turns up in a [simple Google search](http://www.mcld.co.uk/hiv/?q=HIV%2520genome). And as a matter of fact, Vpu is sitting right there in the totally unnecessary and worthless diagram in 'Edge of Evolution'. See? Right there:
 
 <figure>
-<img src="http://www.pandasthumb.org/images/hiv/EoEHIV.jpg" alt="" width="450" height="263" style="" />
+<img src="/uploads/2007/EoEHIV.jpg" alt="" width="450" height="263" style="" />
 <figcaption markdown="span">
 
 </figcaption>
@@ -66,7 +66,7 @@ It turns out that one of the **biochemical** differences is that Subtype B Vps h
 So here's a quick time-line for the evolution of impossible genes and impossible protein-protein interactions, courtesy of Ian Musgrave (one of those dreadful PhDs/Professors that has something to teach this pre-grad student):
 
 <figure>
-<img src="http://www.pandasthumb.org/images/hiv/HIV_Vpu_timeline.jpg" alt="" width="450" height="338" style="" />
+<img src="/uploads/2007/HIV_Vpu_timeline.jpg" alt="" width="450" height="338" style="" />
 <figcaption markdown="span">
 
 </figcaption>

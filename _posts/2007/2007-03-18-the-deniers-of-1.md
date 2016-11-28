@@ -14,7 +14,7 @@ Let's first explain how computer simulations of global warming take place and wh
 
 > We all know that the weather is unpredictable beyond a certain time frame of 7-10 days so how can climate models be trusted?
 
-This fallacious argument is based on a confusion of weather and climate. Climate is a statistical concept based on the outcome of many computer runs with slightly different models, conditions, weather is a local (and real) phenomenon  (I already pointed out these differences when discussing Bill Dembski's [flawed understandings](http://www.pandasthumb.org/archives/2007/02/bill_and_his_st.html) of these basic concepts.
+This fallacious argument is based on a confusion of weather and climate. Climate is a statistical concept based on the outcome of many computer runs with slightly different models, conditions, weather is a local (and real) phenomenon  (I already pointed out these differences when discussing Bill Dembski's [flawed understandings](/archives/2007/02/bill-and-his-st.html) of these basic concepts.
 
 >    **Definition of climate (Edward Lorenz)**:
 > "Climate is what you expect, weather is what you get."

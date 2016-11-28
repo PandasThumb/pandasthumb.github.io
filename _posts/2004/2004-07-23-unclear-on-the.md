@@ -16,7 +16,7 @@ In the chapter "Evolution of the Bacterial Flagellum" I try, amongst other thing
 
 For the purposes of this blog though, it is enough to point out that while Dembski and Behe characterize the eubacterial flagella, a swimming motility system, as an "outboard motor", it is also a secretory system. The secretory system is a key part of flagella function. The flagellar secretory system is also the structure that rotates, and the flagellar secretory system is homologous to the type III secretion system (TTSS) that pathogenic bacteria use to secrete proteins necessary to invade eukaryotic cells. Indeed, place flagella side by side with TTSS and it is hard to tell them apart. In many ways, a TTSS is a flagellum without a motor. Phylogenetic analysis show that TTSS and flagella share a common ancestor, and most workers in the field think that flagella evolved from a primitive secretory system.
 
-<img src=" http://www.pandasthumb.org/pt-archives/flag_combined.jpg" alt="" />
+<img src=" /uploads/2005/flag_combined.jpg" alt="" />
 One of these is a secretory TTSS, one is a flaellum, but which one?
 
 The question is why would a motor be added to a TTSS that is secreting without it? It turns out that the motor of the flagellum, MotAB, is a proton pump and is part of a family of proton pumps (TolPQ) that drive secretion in a number of systems. Interestingly, the advential gliding motility system  of _Myxococcus xanthus_ (where bacteria glide along surfaces rather than swim freely), is a secretory system driven by a TolPQ family proton pump. It is also of interest that flagella are required for a form of gliding motility called swarming. This suggests a pathway for evolving a swimming motility system from a secretion system via functionally intermediate steps.

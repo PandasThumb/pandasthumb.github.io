@@ -27,7 +27,7 @@ Additionally, the report directly contradicts the claims of the Discovery Instit
 Is this really the case?  
 [No](http://www.edexcellence.net/doc/05sci_OH.pdf.pdf), [No](http://www.edexcellence.net/doc/05sci_NM.pdf.pdf), [No](http://www.edexcellence.net/doc/05sci_MN.pdf.pdf), and [No](http://www.edexcellence.net/doc/05sci_PA.pdf.pdf). 
 
-As reported [previously](http://www.pandasthumb.org/archives/2005/08/new_mexico_scie.html),  The Discovery Institute has been fabricating stories about the states. Even the New York Times has been fooled, but at least they [corrected the error](http://www.pandasthumb.org/archives/2005/08/new_mexico_scie.html#comment-44631).
+As reported [previously](/archives/2005/08/new-mexico-scie.html),  The Discovery Institute has been fabricating stories about the states. Even the New York Times has been fooled, but at least they [corrected the error](/archives/2005/08/new-mexico-scie.html#comment-44631).
 
 Will Rob Crowther correct his error?  I'm skeptical.
 

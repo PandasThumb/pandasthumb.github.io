@@ -22,4 +22,4 @@ It's sponsored by [**CESE**](http://www.cesame-nm.org/).
 
 Nick is not the first guest from PT to appear on NMSR's Science Watch, not counting regular co-host Dave Thomas.
 
-No sir - Nick's been preceded by none other than [Professor Steve Steve himself](http://www.pandasthumb.org/archives/2005/09/steve_steve_arr.html)!
+No sir - Nick's been preceded by none other than [Professor Steve Steve himself](/archives/2005/09/steve-steve-arr.html)!

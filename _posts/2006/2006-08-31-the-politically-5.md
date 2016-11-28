@@ -13,11 +13,11 @@ basename: the_politically_5
 
 **Jonathan Wells (2006) _The Politically Incorrect Guide to Darwinism and Intelligent Design_. Regnery Publishing, Inc. Washington, DC.**<sup>[Amazon](amazon://1596980133)</sup>
 
-**[Read the entire series.](http://www.pandasthumb.org/archives/2006/08/the_politically.html)**
+**[Read the entire series.](/archives/2006/08/the-politically.html)**
 
 Jonathan Wells has recently written _The Politically Incorrect Guide to Darwinism and Intelligent Design_.  Wells's book is stuffed full of misrepresentations, distortions, and plain falsehoods.  My Thumb colleagues are reviewing whole chapters, but my purpose here is to focus in some detail on just one of Wells's claims to illustrate his scurrilous tactics.
 
-The claim I focus on is from Chapter 16, "American Lysenkoism".  Mark Perakh [has already documented](http://www.pandasthumb.org/archives/2006/08/the_politically_16.html) how Wells manipulated partial quotations from Perakh's earlier essay on Lysenkoism to create misrepresentations of what Perakh actually wrote.  Here I will describe Wells's dishonesty about a specific episode in Ohio last year.
+The claim I focus on is from Chapter 16, "American Lysenkoism".  Mark Perakh [has already documented](/archives/2006/08/the-politically-16.html) how Wells manipulated partial quotations from Perakh's earlier essay on Lysenkoism to create misrepresentations of what Perakh actually wrote.  Here I will describe Wells's dishonesty about a specific episode in Ohio last year.
 
 In chapter 16 Wells wrote 
 
@@ -25,7 +25,7 @@ In chapter 16 Wells wrote
 > 
 > p. 189
 
-This is the infamous Bryan Leonard affair that I described on the Thumb as it was happening; see ["ID vs. Academic Integrity: Gaming the System in Ohio"](http://www.pandasthumb.org/archives/2005/06/id_vs_academic.html) for the full story.  Wells accuses three Ohio State University professors of torpedoing Leonard, saying 
+This is the infamous Bryan Leonard affair that I described on the Thumb as it was happening; see ["ID vs. Academic Integrity: Gaming the System in Ohio"](/archives/2005/06/id-vs-academic.html) for the full story.  Wells accuses three Ohio State University professors of torpedoing Leonard, saying 
 
 > Although Leonard had gone through normal procedures and received proper approval to conduct his research . . . \[the three professors\] accuse Leonard of "unethical" conduct primarily on the grounds that his research was predicated on "a fundamental flaw: there are no valid scientific data challenging macroevolution".
 > 

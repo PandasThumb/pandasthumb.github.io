@@ -95,4 +95,4 @@ vs.
 
 There we have it.  The Discovery Institute says it, they believe it, that settles it  In different ways, depending on the day of the week.
 
-\* Unless, of course, the theory emerges as [simple word switch in otherwise identical sentences](http://www.pandasthumb.org/archives/2005/10/i_guess_id_real.html), in which case one "theory" actually does necessarily bear all of the traits of the other.
+\* Unless, of course, the theory emerges as [simple word switch in otherwise identical sentences](/archives/2005/10/i-guess-id-real.html), in which case one "theory" actually does necessarily bear all of the traits of the other.

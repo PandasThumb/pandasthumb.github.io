@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1734
 basename: chiquitas_updat
 ---
-Not long ago, as previously [noted on the Thumb](http://www.pandasthumb.org/archives/2005/12/bring_out_the_c.html), Cal Thomas made noises in USA Today wondering whether "Darwinists" would show up for a debate on the merits of ID as a scientific enterprise.
+Not long ago, as previously [noted on the Thumb](/archives/2005/12/bring-out-the-c.html), Cal Thomas made noises in USA Today wondering whether "Darwinists" would show up for a debate on the merits of ID as a scientific enterprise.
 
 That canard was rebutted by Patricia Princehouse of Case Western Reserve University and [Ohio Citizens for Science](http://www.ohioscience.org/), who said in a letter to USA Today:
 

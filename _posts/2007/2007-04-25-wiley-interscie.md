@@ -18,4 +18,4 @@ If you want to email the journal about this, [here is the contact information](h
 
 **Update:** [Wiley has a record of acting dubiously.](http://www.nature.com/news/2007/070122/full/445347a.html) (via [Afarensis](http://scienceblogs.com/afarensis/2007/04/25/goodbye_evolutionary_anthropol/).) 
 
-**Update:** [An apology has been issued.](http://www.pandasthumb.org/archives/2007/04/wiley_interscie_1.html)
+**Update:** [An apology has been issued.](/archives/2007/04/wiley-interscie-1.html)

@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2350
 basename: intelligent_des_27
 ---
-In an earlier posting on the [No Free Lunch Theorems and random search](http://www.pandasthumb.org/archives/2006/06/intelligent_des_28.html), I stated that
+In an earlier posting on the [No Free Lunch Theorems and random search](/archives/2006/06/intelligent-des-28.html), I stated that
 
 PvM wrote:
 

@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2822
 basename: 2nd_creationism
 ---
-Previous activity on Intelligent Design/Creationist bills in the New Mexico Legislature were discussed [here](http://www.pandasthumb.org/archives/2007/01/creationism_mea.html) and [here](http://www.pandasthumb.org/archives/2007/02/new_mexico_upda.html).
+Previous activity on Intelligent Design/Creationist bills in the New Mexico Legislature were discussed [here](/archives/2007/01/creationism-mea.html) and [here](/archives/2007/02/new-mexico-upda.html).
 
 Today, House Bill 506, "AN ACT RELATING TO PUBLIC EDUCATION; PROVIDING FOR SCHOOL SCIENCE CONTENT STANDARDS AND RULES REGARDING THE TEACHING OF THEORIES OF BIOLOGICAL ORIGINS." was heard today in the NM House Education Committee: only [Mike Edenburn](http://www.nmsr.org/nmcists.htm), at sponsor Dub Williams' side, spoke in favor of the bill.  Speaking against were several scientists and educators, myself included.  
 

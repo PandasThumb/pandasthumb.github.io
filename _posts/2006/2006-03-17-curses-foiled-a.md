@@ -10,7 +10,7 @@ basename: curses_foiled_a
 ---
 <img src="http://www.pandasthumb.org/archives/archive/Vizzini%20copy.JPG" alt="Vizzini copy.JPG" width="200" height="190" style="float:left;" />It looks like my latest "Darwinist scheme" fell straight into Jonathan Witt's clever trap.  
 
-See, in [his recent response](http://www.idthefuture.com/2006/03/martians_darwinists_and_intell.html) to my [post about the parallelisms between Percival Lowell's and modern ID advocates' arguments](http://www.pandasthumb.org/archives/2006/03/life_on_mars_th.html), Witt says that he didn't originally mention Lowell's failed design inference _on purpose_, because
+See, in [his recent response](http://www.idthefuture.com/2006/03/martians_darwinists_and_intell.html) to my [post about the parallelisms between Percival Lowell's and modern ID advocates' arguments](/archives/2006/03/life-on-mars-th.html), Witt says that he didn't originally mention Lowell's failed design inference _on purpose_, because
 
 >  ... knowing how irrational some ultra-Darwinists can be, I knew some of them would raise the objection anyway, and in the process, perform invaluable rhetorical work for the cause of intelligent design.
 

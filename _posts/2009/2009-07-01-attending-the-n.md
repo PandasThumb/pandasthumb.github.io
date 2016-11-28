@@ -42,13 +42,13 @@ And, of course, I accompanied a mob of unruly paleontologists on a field trip to
 There were hints of PZ even in this museum ...
 
 
-<img src="http://pandasthumb.org/archives/2009/07/01/ceph.jpg" alt="ceph.jpg" width="450" height="600" />
+<img src="/uploads/2009/ceph.jpg" alt="ceph.jpg" width="450" height="600" />
 
 
 Of course, I was accompanied by other luminaries.
 
 
-<img src="http://pandasthumb.org/archives/2009/07/01/luminaries.jpg" alt="luminaries.jpg" width="450" height="600" />
+<img src="/uploads/2009/luminaries.jpg" alt="luminaries.jpg" width="450" height="600" />
 
 
 All in all, a delightful time.  With some functional keepsakes to boot.

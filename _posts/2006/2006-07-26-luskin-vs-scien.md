@@ -12,10 +12,10 @@ Today, John Rennie, Editor-in-Chief of _Scientific American_, put up on [the Sci
 
 So, I can just kill two birds with one stone by posting my reply to Luskin, which I also just put into the comments on Rennie's blog.  Here it is (short and sweet, plus a few edits):
 
-Luskin's reply to Rennie basically just quotes [his reply](http://www.evolutionnews.org/2006/07/kansas_102_do_the_kansas_scien.html) to [my Panda's Thumb post](http://www.pandasthumb.org/archives/2006/07/no_one_here_but.html), which everyone should read before reading [Luskin's reply to Rennie](http://www.evolutionnews.org/2006/07/kansas_citizens_for_misreprese.html). Look at what the science standards say, and then look at my links to the TalkOrigins Index of Creationist Claims. The changes to the science standards are all long-standing, long-refuted creationist claims.
+Luskin's reply to Rennie basically just quotes [his reply](http://www.evolutionnews.org/2006/07/kansas_102_do_the_kansas_scien.html) to [my Panda's Thumb post](/archives/2006/07/no-one-here-but.html), which everyone should read before reading [Luskin's reply to Rennie](http://www.evolutionnews.org/2006/07/kansas_citizens_for_misreprese.html). Look at what the science standards say, and then look at my links to the TalkOrigins Index of Creationist Claims. The changes to the science standards are all long-standing, long-refuted creationist claims.
 
-My post: "[No one here but us Critical Analysis-ists](http://www.pandasthumb.org/archives/2006/07/no_one_here_but.html)":
-http://www.pandasthumb.org/archives/2006/07/no_one_here_but.html
+My post: "[No one here but us Critical Analysis-ists](/archives/2006/07/no-one-here-but.html)":
+/archives/2006/07/no-one-here-but.html
 
 I won't accuse Luskin of "plain old fabricated lies", as he does KCFS and Rennie -- because it is clear that Luskin genuinely (incredibly) believes all of the ridiculous stuff he says, even if it contradicts stuff he and his allies have said at other points when it was convenient.
 

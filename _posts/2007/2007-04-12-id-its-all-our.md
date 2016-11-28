@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2961
 basename: id_its_all_our
 ---
-Here's an update to [**"Is There A Systems Biologist In The House?"**](http://www.pandasthumb.org/archives/2007/03/is_there_a_syst.html), in which I described how the head of the New Mexico chapter of the Intelligent Design Network (IDnet), Joe Renick, put a whole new spin on "Systems Biology" in [**~~an editorial~~ commentary published in the Albuquerque Tribune (March 28th)**](http://www.abqtrib.com/news/2007/mar/28/commentary-fear-exposure/):
+Here's an update to [**"Is There A Systems Biologist In The House?"**](/archives/2007/03/is-there-a-syst.html), in which I described how the head of the New Mexico chapter of the Intelligent Design Network (IDnet), Joe Renick, put a whole new spin on "Systems Biology" in [**~~an editorial~~ commentary published in the Albuquerque Tribune (March 28th)**](http://www.abqtrib.com/news/2007/mar/28/commentary-fear-exposure/):
 
 
 Joe Renick wrote:
@@ -21,7 +21,7 @@ Joe Renick wrote:
 > 
 > The teaching of evolution today in public schools is frozen in the past where it is based largely on a mid-20th century understanding of biology. **Research in the biological sciences has moved far beyond that understanding because of the hopeless inability of Darwinian principles to explain the complexity observed in living things.**
 
-In my initial responses to Renick, found  [**here**](http://www.pandasthumb.org/archives/2007/03/is_there_a_syst.html) and [**here (comments)**](http://www.abqtrib.com/news/2007/mar/28/commentary-fear-exposure/), I argued that 
+In my initial responses to Renick, found  [**here**](/archives/2007/03/is-there-a-syst.html) and [**here (comments)**](http://www.abqtrib.com/news/2007/mar/28/commentary-fear-exposure/), I argued that 
 
 
 > Sure, "Systems Biologists" use words like "design" occasionally, but that doesn't automatically mean they think "designs" in nature must be "poofed" into existence by an un-named magical being.
@@ -67,7 +67,7 @@ Isn't this what ID is supposed to be about?  Why, just two days ago, Discovery I
 
  
 
-So, if all Renick wanted to do was to have discussions of "cutting edge of research in the biological sciences" in New Mexico science classrooms -- e.g., simply teach mainstream, peer-reviewed science -- why did he and his followers demand a totally unnecessary [**NEW LAW**](http://www.pandasthumb.org/archives/2007/02/2nd_creationism.html) from NM's legislature?  (All four creo measures in the 2007 session of the New Mexico legislature were [**defeated**](http://www.ncseweb.org/resources/news/2007/NM/993_antievolution_measures_dead_in_3_22_2007.asp), by the way!)  It's quite clear that Renick doesn't simply want students to stay "within the methological \[_sic_\] limits of science."
+So, if all Renick wanted to do was to have discussions of "cutting edge of research in the biological sciences" in New Mexico science classrooms -- e.g., simply teach mainstream, peer-reviewed science -- why did he and his followers demand a totally unnecessary [**NEW LAW**](/archives/2007/02/2nd-creationism.html) from NM's legislature?  (All four creo measures in the 2007 session of the New Mexico legislature were [**defeated**](http://www.ncseweb.org/resources/news/2007/NM/993_antievolution_measures_dead_in_3_22_2007.asp), by the way!)  It's quite clear that Renick doesn't simply want students to stay "within the methological \[_sic_\] limits of science."
 
 He wants to add just one little thing: the idea that all that science is **WRONG**.
 

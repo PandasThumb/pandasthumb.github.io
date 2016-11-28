@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2332
 basename: ohio_here_we_go_1
 ---
-Regular readers of the Thumb will recall that in February, the [Ohio State Board of Education removed the "critical analysis of evolution" standard, benchmark, and lesson plan](http://www.pandasthumb.org/archives/2006/02/the_win_in_ohio.html) from the state's science standards.  The matter was referred to the Achievement Committee of the Board, with instructions to consider whether a replacement should be inserted, and if so, what it should be.  That was a hammer blow to the creationists on the board and to the Disco Institute.
+Regular readers of the Thumb will recall that in February, the [Ohio State Board of Education removed the "critical analysis of evolution" standard, benchmark, and lesson plan](/archives/2006/02/the-win-in-ohio.html) from the state's science standards.  The matter was referred to the Achievement Committee of the Board, with instructions to consider whether a replacement should be inserted, and if so, what it should be.  That was a hammer blow to the creationists on the board and to the Disco Institute.
 
 Now, consistent with the creationist tradition of repackaging old trash, we learn that the creationists on the Achievement Committee of the Ohio State BOE are pushing yet another load of of the same odoriferous garbage, this time extending it to include global warming as well as evolution.  This is the Disco Institute's replacement for its failed "teach the controversy about evolution" tactic, broadening it to include still more pseudoscience.
 

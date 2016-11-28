@@ -47,13 +47,13 @@ Nevertheless, one has to wonder, given the history of the ID movement, exactly w
 > 
 > 9:00-10:00     PLENARY SESSION:
 > 
-> "[Embroiling Your Company in Hopeless Lawsuits](http://www.pandasthumb.org/archives/2005/12/waterloo_in_dov.html)" -- Richard Thompson, Thomas More Law Center.
+> "[Embroiling Your Company in Hopeless Lawsuits](/archives/2005/12/waterloo-in-dov.html)" -- Richard Thompson, Thomas More Law Center.
 > 
 > 10:00-10:30     BREAKOUT PANEL DISCUSSIONS:
 > 
-> "[Why Perjuring Yourself in Front of a Federal Court is Good for Business](http://www.pandasthumb.org/archives/2005/11/judge_grills_do.html)" -- Moderator:  William Buckingham, former member of Dover Area School Board. 
+> "[Why Perjuring Yourself in Front of a Federal Court is Good for Business](/archives/2005/11/judge-grills-do.html)" -- Moderator:  William Buckingham, former member of Dover Area School Board. 
 > 
-> "[Frivolous Lawsuits and Dishonest Press Releases](http://www.pandasthumb.org/archives/2005/04/nuisance_libel.html)" -- Moderator:  Larry Caldwell, parent.
+> "[Frivolous Lawsuits and Dishonest Press Releases](/archives/2005/04/nuisance-libel.html)" -- Moderator:  Larry Caldwell, parent.
 > 
 > 10:30-10:45     Break
 > 
@@ -73,7 +73,7 @@ Nevertheless, one has to wonder, given the history of the ID movement, exactly w
 > 
 > 1:30 - 2:30  PLENARY SESSION:
 > 
-> "[Lying about Survey Data to Inflate Your Company's Image](http://www.pandasthumb.org/archives/2007/03/egnoring_the_da.html)" -- Michael Egnor, M.D.
+> "[Lying about Survey Data to Inflate Your Company's Image](/archives/2007/03/egnoring-the-da.html)" -- Michael Egnor, M.D.
 > 
 > 2:30 - 2:45     Break.
 > 

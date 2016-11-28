@@ -13,7 +13,7 @@ basename: the_politically_3
 
 **Jonathan Wells (2006) _The Politically Incorrect Guide to Darwinism and Intelligent Design_. Regnery Publishing, Inc. Washington, DC.**<sup>[Amazon](amazon://1596980133)</sup>
 
-**[Read the entire series.](http://www.pandasthumb.org/archives/2006/08/the_politically.html)**
+**[Read the entire series.](/archives/2006/08/the-politically.html)**
 
 Jonathan Wells is a titular developmental biologist, so you'd expect he'd at least get something right in his chapter on development and evolution in [_The Politically Incorrect Guide to Darwinism and Intelligent Design_](http://amazon.com/exec/obidos/ASIN/1596980133/pharyngula-20), but no: he instead uses his nominal knowledge of a complex field to muddle up the research and misuse the data to generate a spurious impression of a science that is unaware of basic issues. He ping-pongs back and forth in a remarkably incoherent fashion, but that incoherence is central to his argument: he wants to leave the reader so baffled about the facts of embryology that they'll throw up their hands and decide development is all wrong.
 

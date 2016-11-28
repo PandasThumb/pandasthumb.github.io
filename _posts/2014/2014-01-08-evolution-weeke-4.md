@@ -9,7 +9,7 @@ post_id: 6891
 basename: evolution_weeke_4
 ---
 <figure>
-<img src="http://pandasthumb.org/archives/2014/01/08/EvWeekendLogo.jpg" alt="EvWeekendLogo.jpg" width="600" height="104" />
+<img src="/uploads/2014/EvWeekendLogo.jpg" alt="EvWeekendLogo.jpg" width="600" height="104" />
 <figcaption markdown="span">
 
 </figcaption>

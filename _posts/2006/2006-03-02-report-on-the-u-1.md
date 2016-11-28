@@ -13,7 +13,7 @@ blog_id: 2
 post_id: 1999
 basename: report_on_the_u_1
 ---
-The University of Kentucky held its [debate](http://www.pandasthumb.org/archives/2006/02/law_debate_on_i_1.html) on ID, and Colin Wier, a law student there, has written a report on it from his notes. I have taken the liberty of correcting typos (he wrote this during the presentations) and posting it below the fold. Many thanks to Colin for this hard work.
+The University of Kentucky held its [debate](/archives/2006/02/law-debate-on-i-1.html) on ID, and Colin Wier, a law student there, has written a report on it from his notes. I have taken the liberty of correcting typos (he wrote this during the presentations) and posting it below the fold. Many thanks to Colin for this hard work.
 
 \[Oops, did I say Kansas? Sorry, this isn't Kansas any more...\]
 

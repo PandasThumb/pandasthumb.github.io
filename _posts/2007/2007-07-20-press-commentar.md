@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3148
 basename: press_commentar
 ---
-Well, at least someone is taking the recent threats against the Colorado biologists (http://www.pandasthumb.org/archives/2007/07/threats_against_university_of_colorado_biologists.html ) seriously.  (See also "Creato-terrorism update," http://www.pandasthumb.org/archives/2007/07/creatoterrorism_1.html .)  Today's Boulder Daily _Camera_ carries a signed editorial, "Fundamentalist threat not an isolated event" (http://www.dailycamera.com/news/2007/jul/20/fundamentalist-threat-not-an-isolated-event ), by Jennifer Platte.  Ms. Platte notes
+Well, at least someone is taking the recent threats against the Colorado biologists (/archives/2007/07/threats-against-university-of-colorado-biologists.html ) seriously.  (See also "Creato-terrorism update," /archives/2007/07/creatoterrorism-1.html .)  Today's Boulder Daily _Camera_ carries a signed editorial, "Fundamentalist threat not an isolated event" (http://www.dailycamera.com/news/2007/jul/20/fundamentalist-threat-not-an-isolated-event ), by Jennifer Platte.  Ms. Platte notes
 
 > The packages containing veiled threats that were slipped under the doors of labs at the department of evolutionary biology at the University of Colorado appear to be part of a larger campaign being waged by one man against the department.
 > 

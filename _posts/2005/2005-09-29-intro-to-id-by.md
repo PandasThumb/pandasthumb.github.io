@@ -18,7 +18,7 @@ The lecture took place in a pretty big lecture hall.  I heard the seating capaci
 
 The title of his talk was, "What is ID?"  He opened by saying what ID is not:  
 
-creationism (doesn't start with religious premises--rather, uses evidence of nature)_(uh-huh.  What about the [Panda's and People text?](http://www.pandasthumb.org/archives/2005/09/of_pandas_and_p.html)  More on that in the questions.)_
+creationism (doesn't start with religious premises--rather, uses evidence of nature)_(uh-huh.  What about the [Panda's and People text?](/archives/2005/09/of-pandas-and-p.html)  More on that in the questions.)_
 
 
 natural theology

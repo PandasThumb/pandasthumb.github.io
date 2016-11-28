@@ -22,7 +22,7 @@ Speaking of withdrawing experts...
 > 
 > (p. 34 of: Roger Lewin, 1982, "[Creationism on the Defensive in Arkansas](http://links.jstor.org/sici?sici=0036-8075%2819820101%293%3A215%3A4528%3C33%3ACOTDIA%3E2.0.CO%3B2-A)."  _Science_, 215(4528), pp. 33-34, January 1, 1982.)
 
-Dean Kenyon, of course, went on to write the pro-"creation science" affidavit in the Supreme Court case _Edwards v. Aguillard_ (reproduced below -- note how similar "creation science" has become to the later "intelligent design" by 1986), and at the same time Kenyon was coauthoring the [creat--err, intelligent design](http://www.pandasthumb.org/archives/2005/10/i_guess_id_real.html) book _Of Pandas and People_.  
+Dean Kenyon, of course, went on to write the pro-"creation science" affidavit in the Supreme Court case _Edwards v. Aguillard_ (reproduced below -- note how similar "creation science" has become to the later "intelligent design" by 1986), and at the same time Kenyon was coauthoring the [creat--err, intelligent design](/archives/2005/10/i-guess-id-real.html) book _Of Pandas and People_.  
 
 And here we are, today, [in court in Harrisburg, PA](http://www.pamd.uscourts.gov/kitzmiller/kitzmiller.htm), debating the constitutionality of _Of Pandas and People_.
 

@@ -15,7 +15,7 @@ basename: more_di_dishone
 <p>If there is more support than appears, how come they keep recycling the same old creationist hacks? We've been all over the so-called scientists at these universities who support Intelligent Design creationism.</p>
 
 
-* [Tara Smith](http://aetiology.blogspot.com/) is the Iowan science blogger. She's [critiqued Guillermo Gonzalez](http://www.pandasthumb.org/archives/2005/09/intro_to_id_by.html), the DI's man in Iowa, and will tell you that [Iowa universities are unanimous in their support of evolution](http://aetiology.blogspot.com/2005/11/u-of-iowa-faculty-petition-against-id.html).
+* [Tara Smith](http://aetiology.blogspot.com/) is the Iowan science blogger. She's [critiqued Guillermo Gonzalez](/archives/2005/09/intro-to-id-by.html), the DI's man in Iowa, and will tell you that [Iowa universities are unanimous in their support of evolution](http://aetiology.blogspot.com/2005/11/u-of-iowa-faculty-petition-against-id.html).
 * [Reed Cartwright](http://www.dererumnatura.us/) is the Georgian science blogger. Chapman is referring to [Henry Schaeffer, a chemist who knows little biology](http://www.dererumnatura.us/archives/2004/04/religiously_mot.html). Reed can also tell you all about [Georgians working hard to defeat ID](http://www.dererumnatura.us/archives/2005/12/georgia_earns_a.html).
 * I've got the Minnesota beat. Chapman is talking about Chris Macosko, a chemical engineer  who offers a [bad freshman seminar course outside the biology department](http://pharyngula.org/index/weblog/comments/sometimes_the_university_of_minnesota_makes_mistakes/) that [misleads our students](http://pharyngula.org/index/weblog/comments/macosko_dishonors_the_university_of_minnesota/).
 

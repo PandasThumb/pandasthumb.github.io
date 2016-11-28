@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 7145
 basename: dembski_moving
 ---
-<img src="http://pandasthumb.org/archives/2015/11/22/Dembski_head_shot.jpg" alt="Dembski_head_shot.jpg" width="160" height="187" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
+<img src="/uploads/2015/Dembski_head_shot.jpg" alt="Dembski_head_shot.jpg" width="160" height="187" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
 
 From William Dembski's **[new blog](https://billdembski.com/a-new-day/)**, for November 9<sup>th</sup>:
 

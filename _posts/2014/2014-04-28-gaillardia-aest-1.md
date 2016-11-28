@@ -13,7 +13,7 @@ Photograph by **Lynn Wilhelm**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="http://pandasthumb.org/archives/2014/04/26/Wilhelm.Gaillardia_aestivalis.jpg" alt="Wilhelm.Gaillardia_aestivalis.jpg" width="600" height="450" />
+<img src="/uploads/2014/Wilhelm.Gaillardia_aestivalis.jpg" alt="Wilhelm.Gaillardia_aestivalis.jpg" width="600" height="450" />
 <figcaption markdown="span">
 
 <big>[_Gaillardia aestivalis_](http://ag.sfasu.edu/UserFiles/File/PLANTS/Gaillardia%20aestivalis%20grape%20sensation.pdf)  [ var. winkleri](http://ag.sfasu.edu/UserFiles/File/PLANTS/Gaillardia%20aestivalis(1).pdf ) "Grape Sensation";  common name, Winkler's White Firewheel-Purple selection,  JC Raulston Arboretum in Raleigh, North Carolina.</big>

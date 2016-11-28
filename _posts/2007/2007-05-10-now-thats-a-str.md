@@ -28,13 +28,13 @@ The beautiful thing about this paper is how simple the experimental design is.  
 
 Here is one of the figures from the paper. Note: a "GBU" is a "Giraffe Browsing Unit", an overly technical term for "giraffe bite."  So this chart is showing how much leaf biomass is available per bite for the giraffes, at 1 m, 2.5 m, and 4 m.
 
-<img src="http://www.pandasthumb.org/images/Cameron_du_Toit_2007_AmNat_Winning_by_a_Neck_Fig2a.jpg" alt="Cameron_du_Toit_2007_AmNat_Winning_by_a_Neck_Fig2a.jpg" width="681" height="483" style="" />
+<img src="/uploads/2007/Cameron_du_Toit_2007_AmNat_Winning_by_a_Neck_Fig2a.jpg" alt="Cameron_du_Toit_2007_AmNat_Winning_by_a_Neck_Fig2a.jpg" width="681" height="483" style="" />
 
 Open bars are for the fenced trees, black bars for the unfenced control trees.  You can see that the unfenced trees are severely denuded of leafy biomass at the low elevations, being heavily browsed by numerous critters.  Giraffes, on the other hand, avoid this competition. Conclusion:
 
 > Despite popular acceptance that giraffes have long necks because of foraging competition during their evolution, no previous studies have experimentally investigated foraging competition between giraffes and smaller browsers. Simmons and Scheepers (1996) argued that there was little evidence that giraffes forage high in the canopy because of competition and suggested sexual selection as an alternate hypothesis. However, Woolnough and du Toit (2001) showed that giraffes achieve a bite-size advantage by feeding higher in the tree, and now we show that this is explained by the avoidance of competition with smaller browsers. While not resolving the controversy, our study provides the first experimental evidence that the giraffe's extremely elongated body form is naturally selected in response to competition from smaller browsing species.
 
-As the paper notes, this has always seemed pretty "obvious" to most people -- especially if you have been to Africa and seen all the large herbivores, browsers and grazers of different shapes and sizes, living on one landscape by dividing up the food resource in minute ways (in fact, I noted that it was pretty obvious back in [this 2005 PT post](http://www.pandasthumb.org/archives/2005/03/the_neck_of_the.html)).  But sometimes it's nice to experimentally test the obvious -- especially when creationists are going around denying it.
+As the paper notes, this has always seemed pretty "obvious" to most people -- especially if you have been to Africa and seen all the large herbivores, browsers and grazers of different shapes and sizes, living on one landscape by dividing up the food resource in minute ways (in fact, I noted that it was pretty obvious back in [this 2005 PT post](/archives/2005/03/the-neck-of-the.html)).  But sometimes it's nice to experimentally test the obvious -- especially when creationists are going around denying it.
 
 _Notes_
 

@@ -11,7 +11,7 @@ basename: coyote_buttes
 Photograph by **Vivian Dullien**.
 
 <figure>
-<img src="http://pandasthumb.org/archives/2014/11/27/VivianDullienCoyoteButtesAriz_600.jpg" alt="VivianDullienCoyoteButtesAriz_600.jpg" width="600" height="450" />
+<img src="/uploads/2014/VivianDullienCoyoteButtesAriz_600.jpg" alt="VivianDullienCoyoteButtesAriz_600.jpg" width="600" height="450" />
 <figcaption markdown="span">
 <big>[Coyote Buttes](http://en.wikipedia.org/wiki/Coyote_Buttes), Arizona.</big>
 

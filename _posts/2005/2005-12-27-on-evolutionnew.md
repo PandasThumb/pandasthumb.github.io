@@ -11,7 +11,7 @@ basename: on_evolutionnew
 On [EvolutionNews](http://www.evolutionnews.org/2005/12/dover_in_review_pt_2_did_judge.html#more), John West attempts in  2nd part of a multipart series (does anyone remember the multi-part series that was going to address the criticisms of Meyer's Hopeless Monster paper?) to argue why the Judge in the Kitzmiller case was wrong.
 West still seems to misunderstand some of the relevant issues.
 
-For an earlier article in which I discuss West's similar flaws see [Activist Judge or just poor reading skills](http://www.pandasthumb.org/archives/2005/12/activist_judge.html) and Sandefur's [Why Kitzmiller is Not An "Activist" Decision](http://www.pandasthumb.org/archives/2005/12/why_kitzmiller.html) and [Further Thoughts on West's Attack on Judge Jones](http://www.pandasthumb.org/archives/2005/12/further_thought.html)
+For an earlier article in which I discuss West's similar flaws see [Activist Judge or just poor reading skills](/archives/2005/12/activist-judge.html) and Sandefur's [Why Kitzmiller is Not An "Activist" Decision](/archives/2005/12/why-kitzmiller.html) and [Further Thoughts on West's Attack on Judge Jones](/archives/2005/12/further-thought.html)
 
 He focuses on four particular "facts" which the Judge got wrong. Now, as is the case with all 'facts' they are open to interpretation. As I will show, the Judge hardly got the facts wrong, he merely disagreed with the interpretation of the Discovery Institute's Amicus Brief.
 

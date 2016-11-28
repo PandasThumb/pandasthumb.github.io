@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1300
 basename: action_push_ohi
 ---
-Given the recent [revelations](http://www.pandasthumb.org/archives/2005/08/ohio_bombshell.html) concerning the political pressure brought to bear upon the Ohio State Board of Education to adopt faulty standards permitting non-science to be taught in science classes, it is time for everyone to take a few minutes out of their busy schedules and do something real. 
+Given the recent [revelations](/archives/2005/08/ohio-bombshell.html) concerning the political pressure brought to bear upon the Ohio State Board of Education to adopt faulty standards permitting non-science to be taught in science classes, it is time for everyone to take a few minutes out of their busy schedules and do something real. 
 
 Write the media in Ohio and make it clear that the next item of business on the SBOE agenda needs to be a return to the uncompromised, science-only standards produced by their standards writing committee, and remove the faulty, anti-science lesson plan adopted under the compromised standards.
 

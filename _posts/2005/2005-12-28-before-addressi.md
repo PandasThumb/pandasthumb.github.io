@@ -10,7 +10,7 @@ basename: before_addressi
 ---
 On the Discovery Instute's EvolutionNews blog site, West presents [his 3rd part](http://www.evolutionnews.org/2005/12/dover_in_review_pt_3_did_judge.html#more): Dover in Review, pt. 3: Did Judge Jones accurately describe the content and early versions of the ID textbook Of Pandas and People? 
 
-Timothy Sandefur [has already shown in depth how West erred](http://www.pandasthumb.org/archives/2005/12/pandas_and_part.html) in his understanding of the legal rules guiding Intervention so I will focus on a comment made by West and show it to be without much legal merrit by looking at the Judge's ruling on FTE's (Foundation for Thought and Ethics) motion to intervene:
+Timothy Sandefur [has already shown in depth how West erred](/archives/2005/12/pandas-and-part.html) in his understanding of the legal rules guiding Intervention so I will focus on a comment made by West and show it to be without much legal merrit by looking at the Judge's ruling on FTE's (Foundation for Thought and Ethics) motion to intervene:
 
 West wrote:
 

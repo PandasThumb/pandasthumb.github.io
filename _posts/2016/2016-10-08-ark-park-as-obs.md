@@ -9,7 +9,7 @@ post_id: 7238
 basename: ark_park_as_obs
 ---
 <figure>
-<img src="http://pandasthumb.org/archives/2016/10/08/Phelps_Talk.jpg" alt="Phelps_Talk.jpg" width="600" height="400" />
+<img src="/uploads/2016/Phelps_Talk.jpg" alt="Phelps_Talk.jpg" width="600" height="400" />
 <figcaption markdown="span"> 
 </figcaption>
 </figure>

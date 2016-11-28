@@ -21,7 +21,7 @@ His full name is Michael Philip Korn.  He sometimes goes by his Hebrew name, Men
 
 Michael Philip Korn is also cited at Southern Exposure [here](http://rarely-tidy.blogspot.com/2007/02/truly-holy-certifiable-crap.html).
 
-Further, as [Steve Reuland](http://www.pandasthumb.org/archives/2007/07/creatoterrorism_1.html) notes, the story has been reported in the [Denver Post](http://origin.denverpost.com/news/ci_6362396) as well as the Colorado Daily.  The [Associated Press](http://hosted.ap.org/dynamic/stories/C/CO_EVOLUTION_E_MAILS_COOL-?SITE=CODEN&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT) has also picked up the story, as has [Salon](http://www.salon.com/tech/htww/2007/07/12/american_taliban/index.html?source=rss).  You may find an earlier Panda's Thumb report with comments [here.](http://www.pandasthumb.org/archives/2007/07/creatoterrorism.html)
+Further, as [Steve Reuland](/archives/2007/07/creatoterrorism-1.html) notes, the story has been reported in the [Denver Post](http://origin.denverpost.com/news/ci_6362396) as well as the Colorado Daily.  The [Associated Press](http://hosted.ap.org/dynamic/stories/C/CO_EVOLUTION_E_MAILS_COOL-?SITE=CODEN&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT) has also picked up the story, as has [Salon](http://www.salon.com/tech/htww/2007/07/12/american_taliban/index.html?source=rss).  You may find an earlier Panda's Thumb report with comments [here.](http://www.pandasthumb.org/archives/2007/07/creatoterrorism.html)
 
 The affair is cited at Red State Rabble [here](http://redstaterabble.blogspot.com/)._
 

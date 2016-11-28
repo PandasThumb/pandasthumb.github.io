@@ -33,7 +33,7 @@ Dembski wrote:
 > As for your example, I’m not going to take the bait. You’re asking me to play a game: “Provide as much detail in terms of possible causal mechanisms for your ID position as I do for my Darwinian position.” ID is not a mechanistic theory, and it’s not ID’s task to match your pathetic level of detail in telling mechanistic stories. If ID is correct and an intelligence is responsible and indispensable for certain structures, then it makes no sense to try to ape your method of connecting the dots. True, there may be dots to be connected. But there may also be fundamental discontinuities, and with IC systems that is what ID is discovering.”
 
 Finally, I would like to remind the reader that even if ID were correct that evolutionary algorithms cannot do better than random search, random search is an almost trivially effective search
-See for instance [this link](http://www.pandasthumb.org/archives/2006/06/intelligent_des_28.html)
+See for instance [this link](/archives/2006/06/intelligent-des-28.html)
 
 Tom English wrote:
 

@@ -50,7 +50,7 @@ problem.</p>
 
 <p>The Steiner Genetic Algorithm was the subject of a heated blog war, the "War of 
 the Weasels," occurring between Panda's Thumb and Uncommon Descent during the summer 
-of 2006. It all began with my post of July 5th, 2006, [Target? TARGET? We don't need no stinkin' Target!](http://www.pandasthumb.org/archives/2006/07/target_target_w_1.html)
+of 2006. It all began with my post of July 5th, 2006, [Target? TARGET? We don't need no stinkin' Target!](/archives/2006/07/target-target-w-1.html)
 It seemed the War of the Weasels ended in the fall of 2006, after Uncommon 
 Descent's top programmers were unable to out-design the Steiner genetic algorithm 
 during a public design challenge. But with Ewert's 2014 article, and an earlier 2012 
@@ -61,7 +61,7 @@ exists.</p>
 <p>The War of the Weasels is back! More below the fold.</p>
 
 The "War of the Weasels" got its start with [this post 
-on PT](http://www.pandasthumb.org/archives/2006/07/target_target_w_1.html). Why "Weasels"? Well, Richard Dawkins' 1987 book "The Blind Watchmaker" used a very simplified genetic algorithm to demonstrate that _cumulative_ selection was much more powerful than _random_ selection. Dawkins' demonstration involved comparing various strings to the known phrase from Shakespeare's "Hamlet," "_Methinks it is like a weasel_." Cumulative selection was demonstrated by basing the new "generation" of guesses for the phrase on the closest-matching member of the previous generation; in a few dozen generations, the target phrase was matched. By contrast, when random (e.g. no) selection was employed, the program floundered endlessly. 
+on PT](/archives/2006/07/target-target-w-1.html). Why "Weasels"? Well, Richard Dawkins' 1987 book "The Blind Watchmaker" used a very simplified genetic algorithm to demonstrate that _cumulative_ selection was much more powerful than _random_ selection. Dawkins' demonstration involved comparing various strings to the known phrase from Shakespeare's "Hamlet," "_Methinks it is like a weasel_." Cumulative selection was demonstrated by basing the new "generation" of guesses for the phrase on the closest-matching member of the previous generation; in a few dozen generations, the target phrase was matched. By contrast, when random (e.g. no) selection was employed, the program floundered endlessly. 
 
 Even though Dawkins explicitly warned his readers that "_Life isn't like that. Evolution has no long-term goal. There is no long-distance target, no final perfection..._", Dembski, Meyer and others consistently say that **_all_** genetic algorithms, just like Dawkins' "Weasel", must have the answers fed into the program -- if not explicitly, then surreptitiously via supplying "active information" or "front loading." 
 
@@ -72,12 +72,12 @@ The purpose of my July 2006 PT "Target" post was to discuss a genetic algorithm 
 I picked Steiner's problem specifically to counter the "Weasel" charge that genetic algorithm answers were being fed into the programs. Because Steiner's problem applies to _any_ configuration of points, I designed my program so that _new_ configurations could be considered -- problems with no known answers. Imagine that.
 
 The topic was the subject of a vigorous blog war in the summer of 2006, between Panda's Thumb and Uncommon Descent, culminating in the ["Design 
-Challenge."](http://www.pandasthumb.org/archives/2006/08/take_the_design.html) In that August 14, 2006 post, I challenged ID theorists and the general public to derive or devise the Steiner solution for six points arranged in a 3x2 rectangle; since the creationists were saying I was "front loading" the algorithm via my fitness function, I published that function, along with the [complete program](http://www.pandasthumb.org/archives/2006/07/steiner-genetic.html), and challenged them to reverse-engineer the solution. I knew it would be a good problem, because the solution my genetic algorithm came up with earlier truly surprised me. 
+Challenge."](/archives/2006/08/take-the-design.html) In that August 14, 2006 post, I challenged ID theorists and the general public to derive or devise the Steiner solution for six points arranged in a 3x2 rectangle; since the creationists were saying I was "front loading" the algorithm via my fitness function, I published that function, along with the [complete program](http://www.pandasthumb.org/archives/2006/07/steiner-genetic.html), and challenged them to reverse-engineer the solution. I knew it would be a good problem, because the solution my genetic algorithm came up with earlier truly surprised me. 
 
 While Uncommon Descent's Salvador Cordova attempted to "design" the Steiner solution, he ended up falling short, coming up with only a "MacGyver" solution: a network that connects the given points with a short, **_but not the minimal_** network.  It cannot be emphasized enough that so-called "MacGyver" solutions (named after the TV show "MacGyver", in which the hero would save the day using imperfect, klugy solutions to escape dangerous situations) are _**not**_ "Steiner" solutions; they are simply imperfect networks that get close to the answer, but which do **not** achieve Steiner "perfection."
 
 [
-Several correct Steiner solutions, along with some creative MacGyver solutions](http://www.pandasthumb.org/archives/2006/08/design_challeng_1.html), were submitted in the Design Challenge by non-ID contestants; some of these were designed, while others got the answer(s) from their own versions of a Steiner Genetic Algorithm.
+Several correct Steiner solutions, along with some creative MacGyver solutions](/archives/2006/08/design-challeng-1.html), were submitted in the Design Challenge by non-ID contestants; some of these were designed, while others got the answer(s) from their own versions of a Steiner Genetic Algorithm.
 
 There's a road map to the summer's "War of the Weasels" in the summary post [Genetic Algorithms for Uncommonly Dense Software Engineers](http://pandasthumb.org/archives/2006/09/genetic-algorit.html). The upshot of it all was that Cordova and the Uncommon Descent software Team learned Leslie Orgel's aphorism the hard way: _"Evolution is smarter than you are."_ Not **one** ID supporter could derive the solution which was obtained by multiple independent versions of a genetic algorithm for Steiner's problem. 
 
@@ -109,7 +109,7 @@ One whopper occurs on the second page, when EDM deride the problem-solving capab
 
 The worst flaw in EDM comes around their Figures 3 and 4, where the authors perform the switch of the actual Steiner problem with the much simpler Minimum Spanning Tree problem. Here is EDM's Figure 3, which applies to the 5-point Steiner problem discussed on PT during the summer of 2006. 
 
-<img src="http://www.nmsr.org/weasel-3.jpg" alt="weasel-3.jpg" width="380" height="316" /> The Fix is in with EDM's Figure 3, but it's not apparent unless you can see the actual shapes EDM are discussing, taken directly from the [We don't need no stinkin' Target!](http://www.pandasthumb.org/archives/2006/07/target_target_w_1.html) opening post in the blog war. These are reproduced below. What are the errors? First, EDM's Figure 3 completely omits the "Best MacGyver" shape with a length of 1217; in fact, this key solution appears _**nowhere**_ in EDM 2012, with the exception of an un-labeled graph point in their Figure 4.
+<img src="http://www.nmsr.org/weasel-3.jpg" alt="weasel-3.jpg" width="380" height="316" /> The Fix is in with EDM's Figure 3, but it's not apparent unless you can see the actual shapes EDM are discussing, taken directly from the [We don't need no stinkin' Target!](/archives/2006/07/target-target-w-1.html) opening post in the blog war. These are reproduced below. What are the errors? First, EDM's Figure 3 completely omits the "Best MacGyver" shape with a length of 1217; in fact, this key solution appears _**nowhere**_ in EDM 2012, with the exception of an un-labeled graph point in their Figure 4.
 
 EDM's Fig. 3 does include the "2nd-Best MacGyver" shape with a length of 1224, the "Minimum Spanning Tree" solution with a length of 1246, and the Steiner Solution itself (labeled simply "optimal solution"), with a minimum path length of 1212.
 <img src="http://www.nmsr.org/weasel-4.gif" alt="weasel-4.gif" width="500" height="193" />

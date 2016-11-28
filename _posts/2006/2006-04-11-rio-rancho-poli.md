@@ -9,7 +9,7 @@ post_id: 2113
 basename: rio_rancho_poli
 ---
 Last night (April 10th), the Rio Rancho School Board held a hearing on it's controversial "[**Science Policy 401**](http://www.nmsr.org/riorncho.htm)."  
-<img src="http://www.pandasthumb.org/archives/rioranchonm/rrboardroom.jpg" alt="rrboardroom.jpg" width="237" height="181" style="float:right;" />
+<img src="/uploads/2006/rrboardroom.jpg" alt="rrboardroom.jpg" width="237" height="181" style="float:right;" />
 
 After hearing from about 30 of the more than 100 people packed into the board room, the board deleted the phrase from the original policy
 
@@ -34,7 +34,7 @@ Elaine BriseÃ±o of the Albuquerque Journal [reported on April 11th](http://www
 > "The Rio Rancho school board voted Monday to amend a controversial science policy, which opponents said was a ruse to insert intelligent design into the science classroom. The board removed a sentence from the policy that deviated from state standards, and replaced it with language taken verbatim from the standards. The sentence that was removed was seen by many opponents as a way to slip religion into the classroom whenever teachers were discussing evolution. The two board members who introduced the policy, Don Schlichte and Marty Scharfglass, also apologized to the science teachers at the high school for not consulting them before proposing and then adopting the policy last summer. "When we brought the policy forward, we should have talked to the science staff," Scharfglass said. "It was a mistake not to do that." An opponent of the original policy, Rio Rancho High School SciMatics Academy head Dan Barbour, lauded the board's action after the meeting. 'It's a decision that brings the community together,' he said. 'It's a victory for both sides. It retains the emphasis on critical thinking and removes the language with religious undertones.'
 
 
-<img src="http://www.pandasthumb.org/archives/rioranchonm/barbour.jpg" alt="barbour.jpg" width="279" height="213" />
+<img src="/uploads/2006/barbour.jpg" alt="barbour.jpg" width="279" height="213" />
 _Science teacher Dan Barbour addresses the board.  Attendees spilled over into two adjacent rooms._
 
 While this victory is a significant battle, the war is far from over.  Look for Intelligent Design pundits to continue spreading [**The Lie**](http://www.nmsr.org/thelie.htm) that New Mexico's standards are "Intelligent-design friendly."  
@@ -46,4 +46,4 @@ Sadly, this misconception is furthered by BriseÃ±o's interview with board memb
 
 I'm not sure if Scharfglass was misinformed, or if reporter BriseÃ±o just doesn't know what's in NM standards.  **Nowhere** do New Mexico's standards call for presentation of _alternative ideas to evolutionary theory_.
 
-If you are curious what New Mexico's science standards **really** say, please read ["Do NM's Science Standards Embrace Intelligent Design?"](http://www.nmsr.org/embrace.htm) at NMSR, and ["New Mexico Science Standards Do Not Support ID's Concept of Teach the 'Controversy'"](http://www.pandasthumb.org/archives/2005/08/new_mexico_scie.html) on the Thumb for all the lurid details.
+If you are curious what New Mexico's science standards **really** say, please read ["Do NM's Science Standards Embrace Intelligent Design?"](http://www.nmsr.org/embrace.htm) at NMSR, and ["New Mexico Science Standards Do Not Support ID's Concept of Teach the 'Controversy'"](/archives/2005/08/new-mexico-scie.html) on the Thumb for all the lurid details.

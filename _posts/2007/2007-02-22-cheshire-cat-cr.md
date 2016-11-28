@@ -25,7 +25,7 @@ We were wrong.
 
 The New Mexico Science Foundation website is the work of Bible-believing young-earth creationists (YECs), but you wouldn't know it just by looking at it.  All that's left of its original YEC incarnation is a toothy grin.
 
-Creationism has been having a [lot](http://www.pandasthumb.org/archives/2007/02/2nd_creationism.html) of [problems](http://www.pandasthumb.org/archives/2007/01/creationism_mea.html) here in New Mexico of late.  So it's understandable that YECs would would try to re-group in a not-so-blatantly-religious form.
+Creationism has been having a [lot](/archives/2007/02/2nd-creationism.html) of [problems](/archives/2007/01/creationism-mea.html) here in New Mexico of late.  So it's understandable that YECs would would try to re-group in a not-so-blatantly-religious form.
 
 The mailing to Rio Rancho science teachers included DVDs of "Unlocking the Mystery of Life" and "The Privileged Planet," as well as an invitation to a quarterly meeting.
 

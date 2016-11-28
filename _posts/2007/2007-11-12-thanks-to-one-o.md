@@ -16,5 +16,5 @@ BarryA wrote:
 
 So I checked it and indeed, UncommonDescent came back as "High School" but Pandas Thumb came back as "College Post Grad"
 
-[<img src="http://pandasthumb.org/assets_c/2007/11/postgrad-thumb-50x57.jpg" alt="postgrad.jpg" width="50" height="57" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/postgrad.jpg)
+[<img src="/uploads/2007/postgrad-thumb-50x57.jpg" alt="postgrad.jpg" width="50" height="57" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](/uploads/2007/postgrad.jpg)
 Make of this what you will indeed

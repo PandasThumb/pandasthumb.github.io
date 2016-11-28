@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1610
 basename: kansasmoronscom
 ---
-I hate to divert attention from the fascinating serious discussion (for the most part) taking place in response to my last post, [The fundamental (and wrong) religious argument of the IDists in Kansas,](http://www.pandasthumb.org/archives/2005/11/the_fundamental.html) but you all really should take a look at the new website  [KansasMorons.com.](http://www.kansasmorons.com/) (Motto: "Welcome to Kansas, please set your watch back 100 years.")
+I hate to divert attention from the fascinating serious discussion (for the most part) taking place in response to my last post, [The fundamental (and wrong) religious argument of the IDists in Kansas,](/archives/2005/11/the-fundamental.html) but you all really should take a look at the new website  [KansasMorons.com.](http://www.kansasmorons.com/) (Motto: "Welcome to Kansas, please set your watch back 100 years.")
 
 For a start, read the first page of the "Kansas Teachers Guide to Intelligent Design", a parody of a introductory letter by Kansas state Board member Connie Morris.
 

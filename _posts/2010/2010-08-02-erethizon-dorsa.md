@@ -14,7 +14,7 @@ Photography contest, Honorable Mention.
 
 
 <figure>
-<img src="http://pandasthumb.org/archives/2010/07/18/Bello.porcupine.jpg" alt="Bello.porcupine.jpg" width="600" height="579" />
+<img src="/uploads/2010/Bello.porcupine.jpg" alt="Bello.porcupine.jpg" width="600" height="579" />
 <figcaption markdown="span">
 <big>_Erethizon dorsatum_ -- [North American porcupine](http://en.wikipedia.org/wiki/North_American_Porcupine), Schoodic Peninsula, Acadia National Park, Maine, June, 2006.</big>
 

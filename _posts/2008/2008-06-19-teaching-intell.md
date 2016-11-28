@@ -18,7 +18,7 @@ Worse, the teacher "burned crosses onto students’ arms, using an electrostatic
 
 While his defenders argued that the teacher merely used the device to draw 'X', the picture shows otherwise.
 
-<img src="http://pandasthumb.org/archives/2008/06/19/MTVERNON.jpg" alt="MTVERNON.jpg" width="300" height="371" class="mt-image-none" />
+<img src="/uploads/2008/MTVERNON.jpg" alt="MTVERNON.jpg" width="300" height="371" class="mt-image-none" />
 
 To me this clearly looks like a cross, not an 'X'.
 

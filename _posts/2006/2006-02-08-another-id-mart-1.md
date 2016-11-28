@@ -38,7 +38,7 @@ Hint: THe big bang does not discount an intelligent designer...
 
 But I digress: 
 
-Reed Cartwright has already commented on the [Downfall of Deutsch](http://www.pandasthumb.org/archives/2006/02/dont_let_the_ha_1.html)
+Reed Cartwright has already commented on the [Downfall of Deutsch](/archives/2006/02/dont-let-the-ha-1.html)
 
 Deutsch got into the limelight when James Hansen told the [New York Times](http://blogs.orlandosentinel.com/news_space_thewritestuff/2006/01/turning_up_the_.html) that political appointees, include Mr Deutsch, "were pressing to limit Dr. Hansen's speaking and interviews on the threats posed by global warming". The same story also ran in the [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/01/28/AR2006012801021.html)
 

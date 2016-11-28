@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1158
 basename: the_dis_west_ge
 ---
-On the blog of the Center for ~~the Renewal of~~ Science and Culture, [**John West throws a hissy**](http://www.evolutionnews.org/index.php?title=darwinists_continue_smear_campaign_again&amp;more=1&amp;c=1&amp;tb=1&amp;pb=1) about my [**recent dissection**](http://www.pandasthumb.org/archives/2005/07/di_spins_leonar.html) of the statement of two members of Bryan Leonard's dissertation committee published by the DI.  Mr. West takes umbrage at several remarks I made.
+On the blog of the Center for ~~the Renewal of~~ Science and Culture, [**John West throws a hissy**](http://www.evolutionnews.org/index.php?title=darwinists_continue_smear_campaign_again&amp;more=1&amp;c=1&amp;tb=1&amp;pb=1) about my [**recent dissection**](/archives/2005/07/di-spins-leonar.html) of the statement of two members of Bryan Leonard's dissertation committee published by the DI.  Mr. West takes umbrage at several remarks I made.
 
 More below the fold.
 

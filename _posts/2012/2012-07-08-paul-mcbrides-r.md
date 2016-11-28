@@ -30,7 +30,7 @@ McBride has some fun with that specious analogy, as well as with her 'random cha
 
 **[Chapter 3](http://apomorph.blogspot.com/2012/06/science-and-human-origins-chapter-3.html)**, in which Casey Luskin argues that the hominin fossil record is too fragmentary to infer the descent of _H. saps_ like himself from a common ancestor of him and chimps. (Notice how I restrained myself? :)) Like all creationists, Casey has to draw the line between ancient humans (_Homo_) and earlier fossil (allegedly non-ancestral to humans) apes somewhere, and he draws it between _H. habilis_ and _H. erectus_. (Recall that there's [considerable disagreement among creationists](http://www.talkorigins.org/faqs/homs/compare.html) about just where that line ought to go. Casey is quite a bit deeper in the past than most.)
 
-In an update to that post, McBride draws attention to [a recent paper](http://rstb.royalsocietypublishing.org/content/367/1599/2130.short) plotting brain volume against age of hominin fossils, essentially duplicating material in two posts on that topic by Nick Matzke [here](http://www.pandasthumb.org/archives/2006/09/fun_with_homini.html) and [here](http://www.pandasthumb.org/archives/2006/09/fun_with_homini_1.html) nearly six years ago. 
+In an update to that post, McBride draws attention to [a recent paper](http://rstb.royalsocietypublishing.org/content/367/1599/2130.short) plotting brain volume against age of hominin fossils, essentially duplicating material in two posts on that topic by Nick Matzke [here](/archives/2006/09/fun-with-homini.html) and [here](/archives/2006/09/fun-with-homini-1.html) nearly six years ago. 
 
 In [a recent post](http://www.evolutionnews.org/2012/07/human_origins_a_1061771.html) on Evolution News, Casey asserts
 

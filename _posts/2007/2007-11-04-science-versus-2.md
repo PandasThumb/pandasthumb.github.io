@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3375
 basename: science_versus_2
 ---
-[<img src="http://pandasthumb.org/assets_c/2007/10/flunked-thumb-100x31.jpg" alt="flunked.jpg" width="100" height="31" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/flunked11.html)On Evolution News Luskin claims, quoting Behe, that the number to establish probabilities of fixation of a mutation is not a calculation but rather statistical data:
+[<img src="/uploads/2007/flunked-thumb-100x31.jpg" alt="flunked.jpg" width="100" height="31" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/flunked11.html)On Evolution News Luskin claims, quoting Behe, that the number to establish probabilities of fixation of a mutation is not a calculation but rather statistical data:
 
 > The number of one in 10<sup>20</sup> is not a probability calculation. Rather, it is statistical data.
 
@@ -24,7 +24,7 @@ What Behe meant when he said that
 
  is less clear. Surely since ID proponents are so critical of evolutionary scientists when it comes to confusing fact and fiction, Behe may wants to revise his statement.
 
-Now it has already been well document that the paper from which Behe lifted this single data point was careful to state that this was merely a [guestimate by the author](http://www.pandasthumb.org/archives/2007/07/reality_1_behe.html).
+Now it has already been well document that the paper from which Behe lifted this single data point was careful to state that this was merely a [guestimate by the author](/archives/2007/07/reality-1-behe.html).
 
 > As I have discussed, Behe asserts that the probability associated with a “CCC” is 1 in 10^20. Where does this number come from? From footnote 16 in the first excerpt given above - White, N. J. 2004. Antimalarial drug resistance. J. Clin. Invest. 113:1084-92. Here is the actual passage from the review by White that mentions the number 10^20:
 > 

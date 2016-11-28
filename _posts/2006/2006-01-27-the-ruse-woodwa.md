@@ -98,7 +98,7 @@ Q: If Archaeopteryx is in between a reptile and a bird, how could such a  mutati
 
 A: I didn't take down the speakers' answers to this question, but I'll just say:  think about a seal, and about what influences whether an adaptation is  beneficial. 
 
-Q: A student asked Dr. Woodward if it concerned him that the  [Vatican](http://www.iht.com/articles/2006/01/18/news/evolution.php) says ID is not science.  She could also have mentioned the  [Clergy Letter Project](http://www.uwosh.edu/colleges/cols/clergy_project.htm),  and added that even the [Templeton Foundation](http://www.pandasthumb.org/archives/2005/11/templeton_found.html) is fed up with ID. 
+Q: A student asked Dr. Woodward if it concerned him that the  [Vatican](http://www.iht.com/articles/2006/01/18/news/evolution.php) says ID is not science.  She could also have mentioned the  [Clergy Letter Project](http://www.uwosh.edu/colleges/cols/clergy_project.htm),  and added that even the [Templeton Foundation](/archives/2005/11/templeton-found.html) is fed up with ID. 
 
 A:  Since Woodward's "scientific" claims had not been thoroughly exposed, it was  easy for him to reply that he was not concerned at all, since his position was based on  scientific evidence. 
 

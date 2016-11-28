@@ -44,6 +44,6 @@ Well, it's been three years now, and we're still hearing nothing but those darn 
 
 To see the Zogby "scientist" poll for yourself, simply click through to the website of [The Intelligent Design Network of New Mexico (IDnet-NM)](http://www.nmidnet.org/), and look down the menu on the left side of every page for the option labeled [Polling Data](http://www.nmidnet.org/polling.html).  While the "scientist response" has been sanitized from the text of that page, it's still there, at the bottom of the page, with a link to [New Mexico Poll Results  (Word doc. format)](http://www.nmidnet.org/Press%20Release%201.doc)
 
-Oh, and how did New Mexico's standards turn out?  Just fine, as you'll see [here](http://www.nmsr.org/embrace.htm), [here](http://www.pandasthumb.org/archives/2005/08/new_mexico_scie.html), and [here](http://www.cesame-nm.org/Standards/R.Reif_Letter.pdf).
+Oh, and how did New Mexico's standards turn out?  Just fine, as you'll see [here](http://www.nmsr.org/embrace.htm), [here](/archives/2005/08/new-mexico-scie.html), and [here](http://www.cesame-nm.org/Standards/R.Reif_Letter.pdf).
 
 None of this has stopped IDnet-NM, the Discovery Institute, or the Center for Reclaiming America for Christ from continuing to misrepresent NM's standards as "ID-friendly."  There's a lot more about that in [The Lie: "New Mexico's Science Standards embrace the Intelligent Design Movement's 'Teach the Controversy' Approach"](http://www.nmsr.org/thelie.htm).

@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2232
 basename: false_positives
 ---
-**C9: [Misuse of an inductive argument by the assertion of no false positives.](http://www.pandasthumb.org/archives/2006/05/unanswered_crit.html)** also
+**C9: [Misuse of an inductive argument by the assertion of no false positives.](/archives/2006/05/unanswered-crit.html)** also
 **CI111.1 [Specified complexity is a reliable criterion for detecting design.](http://www.talkorigins.org/indexcc/CI/CI111_1.html)**  from the index of creationist claims by Mark Isaak
 
 Hat tip to [Wesley Elsberry](http://www.iscid.org/boards/ubb-get_topic-f-6-t-000212-p-4.html#000051)
@@ -29,7 +29,7 @@ Dembski wrote:
 
 [No False Positives and the Lust for Certainty](http://www.iscid.org/boards/ubb-get_topic-f-6-t-000212.html) 
 
-These two claims seem to be contradictory, so which one should we take as relevant? The one which claims that there exists a rigorous mathematical criterion which reliably (no false positives) detects design? Or the one which admits that there is the possibility of false positives, rendering the reliability criterion of this 'rigorous concept' invalid and making the concept of the [eliminative filter useless](http://www.pandasthumb.org/archives/2004/06/icons_of_id_exp.html) 
+These two claims seem to be contradictory, so which one should we take as relevant? The one which claims that there exists a rigorous mathematical criterion which reliably (no false positives) detects design? Or the one which admits that there is the possibility of false positives, rendering the reliability criterion of this 'rigorous concept' invalid and making the concept of the [eliminative filter useless](/archives/2004/06/icons-of-id-exp.html) 
 
 Dembski wrote:
 

@@ -22,4 +22,4 @@ Boy, this is not turning out to be a good week for the creationists.  Now the fa
 > 
 > "Scripture also says 'Render unto Caesar what Caesar demands.' And right now, Caesar demands a building permit," County Commission Chairman Mike Whitehead said.
 
-Be sure to check out the pictures.  Hat tip to [Lenny Flank](http://www.pandasthumb.org/archives/2006/04/forrest_mimss_t.html#comment-95434).
+Be sure to check out the pictures.  Hat tip to [Lenny Flank](/archives/2006/04/forrest-mimss-t.html#comment-95434).

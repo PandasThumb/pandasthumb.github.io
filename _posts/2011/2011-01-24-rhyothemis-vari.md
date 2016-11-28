@@ -13,7 +13,7 @@ Photograph by **Buddhini Samarasinghe**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="http://pandasthumb.org/archives/2011/01/23/SamarasingheB.Rhyothemis_variegata.JPG" alt="SamarasingheB.Rhyothemis_variegata.JPG" width="600" height="222" />
+<img src="/uploads/2011/SamarasingheB.Rhyothemis_variegata.JPG" alt="SamarasingheB.Rhyothemis_variegata.JPG" width="600" height="222" />
 <figcaption markdown="span">
 <big>_[Rhyothemis variegata](http://en.wikipedia.org/wiki/Rhyothemis_variegata)_ -- common picture wing or variegated flutterer, Sri Lanka.</big>
 

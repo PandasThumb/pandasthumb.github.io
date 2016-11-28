@@ -17,7 +17,7 @@ basename: the_politically_0
 
 **Jonathan Wells (2006) _The Politically Incorrect Guide to Darwinism and Intelligent Design_. Regnery Publishing, Inc. Washington, DC.**<sup>[Amazon](amazon://1596980133)</sup>
 
-**[Read the entire series.](http://www.pandasthumb.org/archives/2006/08/the_politically.html)**
+**[Read the entire series.](/archives/2006/08/the-politically.html)**
 
 Jonathan Wells is one of the most notorious activists of the political ad campaign known as "intelligent design".  He is most well known for his attacks on modern biology, specifically his 2000 book, _Icons of Evolution_, which was panned by the scientific community for its fraudulent presentation of modern biology.
 

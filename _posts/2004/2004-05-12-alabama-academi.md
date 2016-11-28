@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 182
 basename: alabama_academi
 ---
-The Discovery Institute has issued [a press release](http://www.discovery.org/scripts/viewDB/index.php?command=view&amp;id=2037&amp;program=News-CSC&amp;callingPage=discoMainPage) about the [Alabama "Academic Freedom Act"](http://www.pandasthumb.org/pt-archives/files/66884-2.pdf).  As is customary, they applaud the efforts of anti-evolution activists to corrupt American education.  This bill seeks to empower any teacher in the state of Alabama "to present scientific information pertaining to the full range of scientific views concerning biological or physical origins in any curricula or course of learning."
+The Discovery Institute has issued [a press release](http://www.discovery.org/scripts/viewDB/index.php?command=view&amp;id=2037&amp;program=News-CSC&amp;callingPage=discoMainPage) about the [Alabama "Academic Freedom Act"](/uploads/2005/66884-2.pdf).  As is customary, they applaud the efforts of anti-evolution activists to corrupt American education.  This bill seeks to empower any teacher in the state of Alabama "to present scientific information pertaining to the full range of scientific views concerning biological or physical origins in any curricula or course of learning."
 
 Before I turn to the press release, I want to address the bill itself.  First off, [Alabama Citizens for Science Education](http://www.alscience.org) has both [an educational analysis](http://www.alscience.org/educ_analysis.html) and [a legal analysis](http://www.alscience.org/DeRamus_legal.html) of an earlier version of the "Academic Freedom Act."  The [National Center for Science Education](http://www.ncseweb.org) also has [information](http://www.ncseweb.org/pressroom.asp?state=AL) on the legislation.
 

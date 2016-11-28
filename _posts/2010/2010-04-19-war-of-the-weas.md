@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 4597
 basename: war_of_the_weas
 ---
-<img src="http://pandasthumb.org/archives/2010/04/19/34-3.jpg" alt="34-3.jpg" width="150" height="199" style="float:left;" class="mt-image-none" />
+<img src="/uploads/2010/34-3.jpg" alt="34-3.jpg" width="150" height="199" style="float:left;" class="mt-image-none" />
 
 PT veterans may remember several posts from 2006, in a summer-long series of articles about Genetic Algorithms, Dawkins' Weasel, and Fixed Targets.
 
@@ -45,15 +45,15 @@ If you haven't yet read about the Steiner Problem, or its solution with Genetic 
 
 Plus, there's plenty of background material right here on the Thumb:
 
-[ Target? TARGET? We don't need no stinkin' Target! (Dave Thomas, July 5th, 2006) ](http://www.pandasthumb.org/archives/2006/07/target_target_w_1.html)
+[ Target? TARGET? We don't need no stinkin' Target! (Dave Thomas, July 5th, 2006) ](/archives/2006/07/target-target-w-1.html)
 
-[Take the Design Challenge! (Dave Thomas, August 14, 2006)](http://www.pandasthumb.org/archives/2006/08/take_the_design.html)
+[Take the Design Challenge! (Dave Thomas, August 14, 2006)](/archives/2006/08/take-the-design.html)
 
-[Calling ID's Bluff, Calling ID's Bluff (Dave Thomas, August 16th, 2006)](http://www.pandasthumb.org/archives/2006/08/calling_ids_blu_1.html)
+[Calling ID's Bluff, Calling ID's Bluff (Dave Thomas, August 16th, 2006)](/archives/2006/08/calling-ids-blu-1.html)
 
-[Antievolution Objections to Evolutionary Computation (Wesley R. Elsberry, August 18th, 2006)](http://www.pandasthumb.org/archives/2006/08/antievolution_o.html)
+[Antievolution Objections to Evolutionary Computation (Wesley R. Elsberry, August 18th, 2006)](/archives/2006/08/antievolution-o.html)
 
-[Design Challenge Results: "Evolution is Smarter than You Are" (Dave Thomas, August 21st, 2006)](http://www.pandasthumb.org/archives/2006/08/design_challeng_1.html)
+[Design Challenge Results: "Evolution is Smarter than You Are" (Dave Thomas, August 21st, 2006)](/archives/2006/08/design-challeng-1.html)
 
 [Genetic Algorithms for Uncommonly Dense Software Engineers (Dave Thomas, September 1, 2006)](http://pandasthumb.org/archives/2006/09/genetic-algorit.html)
 

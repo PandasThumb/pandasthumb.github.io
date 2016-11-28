@@ -25,7 +25,7 @@ The ["Y chromosome Adam"](http://en.wikipedia.org/wiki/Y-chromosome_Adam) lived 
 
 I asked Reed Cartright - a **real** biologist - to work out what effect paternal recombination of mtDNA means to Mitochondrial Eve. It turns out, as mathematical modeling often does, to be surprising. It makes very little difference at all. The following graph shows that until the rate of individual recombination is very high, paternal mtDNA does very little to estimates of mtEve.
 
-<img src=" http://www.pandasthumb.org/pt-archives/mtDNA.jpg" alt="" />
+<img src=" /uploads/2005/mtDNA.jpg" alt="" />
 
 The graph shows how the recombination of nuclear DNA affects estimates of the most recent common ancestor (TMRCA). 1e-8 (1 in 10 to the 8th power, or one in each 100 million) is the estimate for nuclear recombination rates.  MTDNA rates are for many reasons many-fold less than this. So the effect is at worst minimal, and at best affects mtEve not at all.
 

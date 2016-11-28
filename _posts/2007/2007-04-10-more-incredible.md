@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2949
 basename: more_incredible
 ---
-John Mark Reynolds has put up the second part of an [essay he is writing](http://www.scriptoriumdaily.com/2007/04/10/some-basics-on-design-creation-and-other-such-matters-ii/) on the topic of how young-earth creationists like himself can rationalize sacrificing their scientific honesty on the altar of Biblical inerrancy.  [Here was my post](http://www.pandasthumb.org/archives/2007/04/irony_of_the_da.html) on part 1.
+John Mark Reynolds has put up the second part of an [essay he is writing](http://www.scriptoriumdaily.com/2007/04/10/some-basics-on-design-creation-and-other-such-matters-ii/) on the topic of how young-earth creationists like himself can rationalize sacrificing their scientific honesty on the altar of Biblical inerrancy.  [Here was my post](/archives/2007/04/irony-of-the-da.html) on part 1.
 
 Here's a really stunning bit:
 

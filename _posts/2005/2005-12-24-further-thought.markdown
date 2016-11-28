@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1759
 basename: further_thought
 ---
-<a href="http://www.evolutionnews.org/2005/12/dover_in_review_part_1_is_judg.html">John West as a post</a> criticizing Judge Jones' <a href="http://www.sciohost.org/ncse/kvd/kitzmiller_decision_20051220.pdf"><i>Kitzmiller</i> decision</a> for being "activist." <a href="http://www.pandasthumb.org/archives/2005/12/why_kitzmiller.html">I've already explained why his arguments are baseless,</a> and so has <a href="http://www.pandasthumb.org/archives/2005/12/activist_judge.html">Pim van Meurs.</a> But I do have a few more comments.
+<a href="http://www.evolutionnews.org/2005/12/dover_in_review_part_1_is_judg.html">John West as a post</a> criticizing Judge Jones' <a href="http://www.sciohost.org/ncse/kvd/kitzmiller_decision_20051220.pdf"><i>Kitzmiller</i> decision</a> for being "activist." <a href="/archives/2005/12/why-kitzmiller.html">I've already explained why his arguments are baseless,</a> and so has <a href="/archives/2005/12/activist-judge.html">Pim van Meurs.</a> But I do have a few more comments.
 
 <!--more-->
 

@@ -8,15 +8,15 @@ blog_id: 2
 post_id: 1799
 basename: cobb_court_not
 ---
-Last month the appeals hearing in the Cobb Country disclaimer sticker case made headlines when Judge Carnes [accused the ACLU of misleading the court](http://www.pandasthumb.org/archives/2005/12/cobb_county_dis.html) regarding the timing of the creationist petition submitted to the school board.  The Discovery Institute's [Media Complaints Division](http://www.evolutionnews.org), which is "committed" to correcting errors made by the media, jumped on the story with their article, "[Did the ACLU Lie to the Federal Courts in the Cobb County Evolution Sticker Case?](http://www.evolutionnews.org/2005/12/did_the_aclu_lie_to_the_federa.html)"
+Last month the appeals hearing in the Cobb Country disclaimer sticker case made headlines when Judge Carnes [accused the ACLU of misleading the court](/archives/2005/12/cobb-county-dis.html) regarding the timing of the creationist petition submitted to the school board.  The Discovery Institute's [Media Complaints Division](http://www.evolutionnews.org), which is "committed" to correcting errors made by the media, jumped on the story with their article, "[Did the ACLU Lie to the Federal Courts in the Cobb County Evolution Sticker Case?](http://www.evolutionnews.org/2005/12/did_the_aclu_lie_to_the_federa.html)"
 
 Now it was immediately apparent to us and the media that Judge Carnes was confused about the facts of the case and recklessly accused the ACLU of misleading the court.  I pointed this out in a series of posts:
 
 
-* [Cobb County Disclaimer Appeal](http://www.pandasthumb.org/archives/2005/12/cobb_county_dis.html)
-* [More on Cobb](http://www.pandasthumb.org/archives/2005/12/more_on_cobb.html)
-* [GCISE Press Release](http://www.pandasthumb.org/archives/2005/12/gcise_press_rel.html)
-* [Cobb: Miller's own Testimony](http://www.pandasthumb.org/archives/2005/12/cobb_millers_ow.html)
+* [Cobb County Disclaimer Appeal](/archives/2005/12/cobb-county-dis.html)
+* [More on Cobb](/archives/2005/12/more-on-cobb.html)
+* [GCISE Press Release](/archives/2005/12/gcise-press-rel.html)
+* [Cobb: Miller's own Testimony](/archives/2005/12/cobb-millers-ow.html)
 
 
 However, Disco has yet to provide such information to their readers.

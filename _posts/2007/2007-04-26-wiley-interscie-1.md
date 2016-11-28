@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2990
 basename: wiley_interscie_1
 ---
-Yesterday, I wrote about Wiley Interscience and the Society of Chemical Industry making legal threats against fair use: [Wiley Interscience: Where Science Meets Legal Threats](http://www.pandasthumb.org/archives/2007/04/wiley_interscie.html).
+Yesterday, I wrote about Wiley Interscience and the Society of Chemical Industry making legal threats against fair use: [Wiley Interscience: Where Science Meets Legal Threats](/archives/2007/04/wiley-interscie.html).
 
 Today, Shelley Batts received [an apology from them](http://scienceblogs.com/retrospectacle/2007/04/victory_a_happy_resolution.php):
 

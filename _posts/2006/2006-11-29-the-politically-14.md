@@ -13,7 +13,7 @@ basename: the_politically_14
 
 **Jonathan Wells (2006) _The Politically Incorrect Guide to Darwinism and Intelligent Design_. Regnery Publishing, Inc. Washington, DC.**<sup>[Amazon](amazon://1596980133)</sup>
 
-**[Read the entire series.](http://www.pandasthumb.org/archives/2006/08/the_politically.html)**
+**[Read the entire series.](/archives/2006/08/the-politically.html)**
 
 The most virulent attacks on evolution tend to come from political conservatives, and many conservatives have argued---as Wells does in _The Politically Incorrect Guide to Darwinism and Intelligent Design_---that political conservatism and evolution are fundamentally incompatible. Other conservatives, most prominently [Larry Arnhart]( http://darwinianconservatism.blogspot.com/), have argued that conservatism is not only compatible with the lessons of evolutionary science, but that in some ways conservatism fits better with those lessons than do leftist political theories. Although I'm not a conservative myself, and although Arnhart's writings on the subject contain some significant blind spots, I think he has the better of this argument. But the _PIG_ thinks otherwise, and its attack on pro-evolution conservatives in Chapter 14 is written with the irrational and histrionic tone that many "intelligent design" activists adopt when discussing the subject. Let's take a look. 
 

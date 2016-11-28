@@ -16,19 +16,19 @@ As promised, hot off the presses, here is a little tutorial I've decided to call
 For those readers wondering what this is all about, here's a quick road-map to the key battles in this summer's **"War of the Weasels."**
 
 
-> [Target? TARGET? We don't need no stinkin' Target!](http://www.pandasthumb.org/archives/2006/07/target_target_w_1.html) (Dave Thomas, July 5th, 2006)
+> [Target? TARGET? We don't need no stinkin' Target!](/archives/2006/07/target-target-w-1.html) (Dave Thomas, July 5th, 2006)
 > [UDSE Response](http://www.uncommondescent.com/index.php/archives/1285#comment-47298) (scordova, July 9th, 2006)
 > [UDSE Response](http://www.uncommondescent.com/index.php/archives/1306#comment-47954) (scordova, July 14th, 2006)
 > 
-> [Take the Design Challenge!](http://www.pandasthumb.org/archives/2006/08/take_the_design.html) (Dave Thomas, August 14, 2006)
+> [Take the Design Challenge!](/archives/2006/08/take-the-design.html) (Dave Thomas, August 14, 2006)
 > [Tautologies and Theatrics (part 2): Dave Thomas's Panda Food](http://www.uncommondescent.com/index.php/archives/1316) (scordova, Aug. 15th, 2006)
 > 
-> [Calling ID's Bluff, Calling ID's Bluff](http://www.pandasthumb.org/archives/2006/08/calling_ids_blu_1.html) (Dave Thomas, August 16th, 2006)
+> [Calling ID's Bluff, Calling ID's Bluff](/archives/2006/08/calling-ids-blu-1.html) (Dave Thomas, August 16th, 2006)
 > [Dave Thomas says, "Cordova's algorithm is remarkable"](http://www.uncommondescent.com/index.php/archives/1464) (scordova, August 17th, 2006)
 > 
-> [Antievolution Objections to Evolutionary Computation](http://www.pandasthumb.org/archives/2006/08/antievolution_o.html) (Wesley R. Elsberry, August 18th, 2006)
+> [Antievolution Objections to Evolutionary Computation](/archives/2006/08/antievolution-o.html) (Wesley R. Elsberry, August 18th, 2006)
 > 
-> [Design Challenge Results: "Evolution is Smarter than You Are"](http://www.pandasthumb.org/archives/2006/08/design_challeng_1.html) (Dave Thomas, August 21st, 2006)
+> [Design Challenge Results: "Evolution is Smarter than You Are"](/archives/2006/08/design-challeng-1.html) (Dave Thomas, August 21st, 2006)
 > [Congratulations Dave Thomas!](http://www.uncommondescent.com/index.php/archives/1485) (davescot, August 22nd, 2006)
 > [Can humans compute better than computers? Dave Thomas's design challenge](http://www.uncommondescent.com/index.php/archives/1481) (scordova, August 22nd, 2006)
 

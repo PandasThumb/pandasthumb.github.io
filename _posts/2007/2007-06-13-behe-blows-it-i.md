@@ -12,7 +12,7 @@ The iconic image of the _Kitzmiller v. Dover_ trial in Pennsylvania was Michael 
 
 I will leave it to others to evaluate Behe's claims about the various specific biological systems (and many have: see [Science after Sunclipse](http://www.sunclipse.org/?p=123#links) for a complete listing).  I will return to a piece of research that demonstrates that Behe's conception of how evolutionary processes produce complicated structures is amazingly over-simplified and empirically false, and that his conception of what evolutionary processes are capable of is pure caricature.
 
-Mark Chu-Carroll [has already dissected](http://scienceblogs.com/goodmath/2007/05/behes_dreadful_new_book_a_revi_1.php) Behe's misuse of probability and his utter ignorance of the properties of high-dimensioned and plastic fitness landscapes and [ERV](http://endogenousretrovirus.blogspot.com/2007/06/look-ma-no-math.html) nicely illustrates the point.  As Nick Matzke [has remarked](http://www.pandasthumb.org/archives/2007/05/behes_bad_math.html), 
+Mark Chu-Carroll [has already dissected](http://scienceblogs.com/goodmath/2007/05/behes_dreadful_new_book_a_revi_1.php) Behe's misuse of probability and his utter ignorance of the properties of high-dimensioned and plastic fitness landscapes and [ERV](http://endogenousretrovirus.blogspot.com/2007/06/look-ma-no-math.html) nicely illustrates the point.  As Nick Matzke [has remarked](/archives/2007/05/behes-bad-math.html), 
 
 > My first take is that The Edge of Evolution is basically an incompetent attempt to provide a biological foundation for the silly assumptions that were made in Behe and Snoke's (2004) mathematical modeling paper in Protein Science. 
 
@@ -36,7 +36,7 @@ Following _DBB_, Behe later offered a [second, "evolutionary" definition](http:/
 
 > An irreducibly complex evolutionary pathway is one that contains one or more unselected steps (that is, one or more necessary-but-unselected mutations). The degree of irreducible complexity is the number of unselected steps in the pathway. (p. 17)
 
-Behe & Snoke's [2004 Protein Science paper](http://www.proteinscience.org/cgi/content/abstract/ps.04802904v1) was an attempt to show that the time and population sizes required to produce structures via irreducibly complex evolutionary pathways are prohibitively huge.  See [here for a rebuttal](http://www.pandasthumb.org/archives/2004/10/theory_is_as_th.html).
+Behe & Snoke's [2004 Protein Science paper](http://www.proteinscience.org/cgi/content/abstract/ps.04802904v1) was an attempt to show that the time and population sizes required to produce structures via irreducibly complex evolutionary pathways are prohibitively huge.  See [here for a rebuttal](/archives/2004/10/theory-is-as-th.html).
 
 The operational definition of an irreducibly complex evolutionary pathway is simple in principle: determine the "necessary-but-unselected" mutational steps in an evolutionary history and count them.  Unfortunately, in biological systems we typically don't know the actual evolutionary history nor the nature of the selective environments through that history at the level of detail necessary to determine whether a given mutation was selectively neutral or deleterious _when it first occurred_ and hence was unselected.  However, in the Avida evolutionary simulator it's easy to do that: the selective environment is controlled by the experimenter and the complete evolutionary history of a lineage can be dumped to disk for analyses.  In fact, Lenski, _et al._ made available the evolutionary history of one of the lineages that evolved to perform EQU and that was IC by the first definition.  Since the knockout procedure tells us which instructions in the first EQU-performing critter were necessary, we can trace back every one of them through the evolutionary history to determine whether they were selected when they first occurred.  The [saved evolutionary history](http://myxo.css.msu.edu/papers/nature2003/case-study/lineage.html) includes the fitness value of the critter associated with each mutational step.  Hence one can classify every instruction in the final IC structure according to whether on its first appearance it was beneficial, neutral, or deleterious.
 
@@ -44,7 +44,7 @@ In the case study lineage there were 111 mutational steps leading to the first c
 
 **III.  How does Behe address Lenski, _et al._?  He doesn't.**
 
-And how does Behe's book actually address the Lenski, _et al._, paper?  Behe's initial 2003 reaction to the paper, quoted in [the PT critique of Behe & Snoke](http://www.pandasthumb.org/archives/2004/10/theory_is_as_th.html), was 
+And how does Behe's book actually address the Lenski, _et al._, paper?  Behe's initial 2003 reaction to the paper, quoted in [the PT critique of Behe & Snoke](/archives/2004/10/theory-is-as-th.html), was 
 
 > "There's precious little real biology in this project," Mr. Behe said. For example, he said, the results might be more persuasive if the simulations had operated on genetic sequences rather than fictitious computer programs.
 

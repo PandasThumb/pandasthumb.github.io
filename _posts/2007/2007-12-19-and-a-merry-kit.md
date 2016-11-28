@@ -16,7 +16,7 @@ Over the the "After the Bar Closes" forum, "Amadan" has a timely [update](http:/
 > 
 > _\[Note: Malicious allegations have been made that this work somehow plagiarises something by W.S. Gilbert. Nothing could be further from the truth and I emphatically state that I have nothing to apologise for. And I'm really sorry. Comments on this subject are now closed.\]_
 > 
-> I am the very model of a [c-design-proponentsist](http://www.pandasthumb.org/archives/2005/11/missing_link_cd.html)<br />
+> I am the very model of a [c-design-proponentsist](/archives/2005/11/missing-link-cd.html)<br />
 > The diametric opposite of all that is materialist<br />
 > My [engineering cert](http://scienceblogs.com/pharyngula/2006/02/the_salem_hypothesis.php) allows me call myself a scientist - <br />
 > We won't discuss those classes in Biology I might have missed

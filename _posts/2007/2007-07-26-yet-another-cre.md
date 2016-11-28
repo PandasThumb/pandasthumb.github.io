@@ -13,7 +13,7 @@ No, this post isn't about [**creationist Ted Haggard**](http://www.youtube.com/w
 
 And it's not about [**creationist Kent Hovind**](http://en.wikipedia.org/wiki/Kent_Hovind), currently serving [**hard time for federal tax evasion**](http://www.cseblogs.com/).
 
-It's not even about the [**lawsuits and charges of corporate theft**](http://www.pandasthumb.org/archives/2007/06/the_us_is_tryin.html) that have cropped up between Creation Ministries International (formerly known as Answers in Genesis (AiG)-Australia) and its former partner, AiG-USA, under Ken Ham, nor is it about the [**on-line porn star**](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2007/06/07/national/a175033D34.DTL) who played the role of Adam in a movie made for AiG's new [**Creation Supposeum.**](http://www.commondreams.org/archive/2007/05/31/1568/)
+It's not even about the [**lawsuits and charges of corporate theft**](/archives/2007/06/the-us-is-tryin.html) that have cropped up between Creation Ministries International (formerly known as Answers in Genesis (AiG)-Australia) and its former partner, AiG-USA, under Ken Ham, nor is it about the [**on-line porn star**](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2007/06/07/national/a175033D34.DTL) who played the role of Adam in a movie made for AiG's new [**Creation Supposeum.**](http://www.commondreams.org/archive/2007/05/31/1568/)
 
 No, this new scandal involves **Kevin Jackson**, whose term as Mayor of **Rio Rancho, New Mexico** ended prematurely when he was [**forced to resign**](http://www.abqtrib.com/news/2007/jul/17/rio-rancho-mayor-jackson-resign/) over a slew of allegations of financial misconduct.
 

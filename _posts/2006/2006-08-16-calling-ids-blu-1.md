@@ -8,9 +8,9 @@ blog_id: 2
 post_id: 2429
 basename: calling_ids_blu_1
 ---
-In July, I described a [Genetic Algorithm](http://www.pandasthumb.org/archives/2006/07/target_target_w_1.html) that, unlike Dawkins' "Weasel" experiment, specifies no fixed "Target" for the simulation, but instead rewards those members of the current population which use fewer or shorter segments to connect a fixed set of points.  As the algorithm progresses, it finds a multitude of answers for the math problem called "Minimization of Steiner Trees," i.e. the shortest possible straight-line networks connecting the fixed points.
+In July, I described a [Genetic Algorithm](/archives/2006/07/target-target-w-1.html) that, unlike Dawkins' "Weasel" experiment, specifies no fixed "Target" for the simulation, but instead rewards those members of the current population which use fewer or shorter segments to connect a fixed set of points.  As the algorithm progresses, it finds a multitude of answers for the math problem called "Minimization of Steiner Trees," i.e. the shortest possible straight-line networks connecting the fixed points.
 
-Last  Monday, I posted [Take the Design Challenge](http://www.pandasthumb.org/archives/2006/08/take_the_design.html), wherein I called for solutions to a tricky little 6-point network. Next Monday, I will announce the winners (there are 20 entries already, several with true Steiner Solutions, and others with almost-as-good "MacGyver" solutions).
+Last  Monday, I posted [Take the Design Challenge](/archives/2006/08/take-the-design.html), wherein I called for solutions to a tricky little 6-point network. Next Monday, I will announce the winners (there are 20 entries already, several with true Steiner Solutions, and others with almost-as-good "MacGyver" solutions).
 
 Imagine my surprise, then, when I found Salvador Cordova at Uncommon Descent spewing blatant falsehoods about this work.  I was shocked - **shocked, I say** - to catch the UD Software Engineers in a lie.  And quite a lie it is - with the help of mathematicians like [Carl Gauss](http://en.wikipedia.org/wiki/Gauss), I'm going to lift the veil from the obfuscations of IDers, and prove it's a Lie, much as you would prove a mathematical theorem.
 
@@ -71,7 +71,7 @@ All that remains is to evaluate the final "estimate," which is just the sum of t
 
 Here follows the proof that this sum is just a roundabout way of calculating the sum of the first N integers, which the brilliant Gauss found useful as a child to escape some boring math drills: instead of adding the numbers up, Gauss realized the sum of the first N numbers was just (N\*(N+1)/2).
 
-<img src="http://www.pandasthumb.org/archives/target/midpoint.gif" alt="midpoint.gif" width="422" height="300" />
+<img src="/uploads/2006/midpoint.gif" alt="midpoint.gif" width="422" height="300" />
 
 And that's that.  Unlike the normal he-said/she-said arguments, this disagreement boils down to basic Math.
 

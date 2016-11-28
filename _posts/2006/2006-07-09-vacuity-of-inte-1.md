@@ -25,7 +25,7 @@ Dembski wrote:
 
 > As for your example, I'm not going to take the bait. You're asking me to play a game: "Provide as much detail in terms of possible causal mechanisms for your ID position as I do for my Darwinian position." ID is not a mechanistic theory, and it's not ID's task to match your pathetic level of detail in telling mechanistic stories. If ID is correct and an intelligence is responsible and indispensable for certain structures, then it makes no sense to try to ape your method of connecting the dots. True, there may be dots to be connected. But there may also be fundamental discontinuities, and with IC systems that is what ID is discovering."
 
-**Source**: [ID in their own words: Dembski](http://www.pandasthumb.org/archives/2005/06/id_in_their_own_1.html) at Panda's Thumb
+**Source**: [ID in their own words: Dembski](/archives/2005/06/id-in-their-own-1.html) at Panda's Thumb
 
 Any more questions? Perhaps "No Free Lunch" should more properly be described as "ID's Free Ride". ID has a lot to learn from Darwin, including Darwin's observations that:
 
@@ -94,7 +94,7 @@ Dembski wrote:
 
 > Causal specificity is certainly relevant to the antecedent circumstances that lead up to a creative innovation. It is also relevant in the aftermath of a creative innovation. Creative innovations, after all, have consequences. Causal chains flow out from them. Causal specificity therefore applies both to the lead-up and to the follow-up of a creative innovation. Indeed, that is where much of the intellectual labor on intelligent design will focus in coming years, namely, in tracing the antecedent circumstances that lead-up to and thereby condition the design of biological systems and then in tracing the impact of those systems throughout the biological world. Causal specificity therefore remains a live issue for intelligent design.
 
-Of course, Dembski realizes that addressing follow-up or lead-up of a creative act is irrelevant until one can establish whether or not something is designed. And even if something is ruled to have been designed, we all know that Dembski has admitted that [it need not involve the act of an intelligent designer.](http://www.pandasthumb.org/archives/2006/06/intelligent_des_26.html)
+Of course, Dembski realizes that addressing follow-up or lead-up of a creative act is irrelevant until one can establish whether or not something is designed. And even if something is ruled to have been designed, we all know that Dembski has admitted that [it need not involve the act of an intelligent designer.](/archives/2006/06/intelligent-des-26.html)
 
 > "even though in practice inferring design is the first step in identifying an intelligent agent, taken by itself design does not require that such an agent be posited. The notion of design that emerges from the design inference must not be confused with intelligent agency" (TDI, 227).
 

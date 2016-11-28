@@ -8,4 +8,4 @@ blog_id: 2
 post_id: 1766
 basename: merry_christmas
 ---
-<img src="http://www.pandasthumb.org/archives/stevesteve/alaska/santa.jpg" alt="" style="" />
+<img src="/uploads/2005/santa.jpg" alt="" style="" />

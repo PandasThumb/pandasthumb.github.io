@@ -67,7 +67,7 @@ No.  As NCSE noted in [New Science Standards Adopted](http://www.ncseweb.org/res
 To see what NM's ID community was demanding in the new standards compared to what they actually ended up getting, please see ["Do NM's Science Standards Embrace Intelligent Design?"](http://www.nmsr.org/embrace.htm)
 
 We in New Mexico have been chasing down reporters who thoughtlessly repeat the Discovery Institute's lies about our standards, which have even been repeated in the New York Times. These occurrences are documented in [The Lie: "New Mexico's Science Standards 
-embrace the Intelligent Design Movement's 'Teach the Controversy' Approach"](http://www.nmsr.org/thelie.htm) at NMSR, and and [New Mexico Science Standards Do Not Support ID’s Concept of Teach the "Controversy"](http://www.pandasthumb.org/archives/2005/08/new_mexico_scie.html) here on The Thumb.
+embrace the Intelligent Design Movement's 'Teach the Controversy' Approach"](http://www.nmsr.org/thelie.htm) at NMSR, and and [New Mexico Science Standards Do Not Support ID’s Concept of Teach the "Controversy"](/archives/2005/08/new-mexico-scie.html) here on The Thumb.
 
 Another one down, two to go.
 

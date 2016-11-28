@@ -12,7 +12,7 @@ Last summer, I had it out with Uncommon Descent's Salvador Cordova on the topic 
 
 During the series of posts, which began [here](http://pandasthumb.org/archives/2006/07/target-target-w-1.html), and ended [here ](http://pandasthumb.org/archives/2006/09/genetic-algorit.html)(the latter having links to the summer's salvos from both sides), Cordova said I was just sneaking in the answer to difficult math questions (involving Steiner Trees, an NP-hard math problem) instead of having the genetic algorithm "evolve" them properly.  Cordova presented an algorithm he claimed could do math problems without specifying an answer, just like mine, but I proved that his algorithm did indeed inevitably converge to an exact, specified result, quite unlike my GA for Steiner.
 
-I posed an open, unsolved Steiner problem for the [Design Challenge](http://www.pandasthumb.org/archives/2006/08/take_the_design.html).  Dozens of math buffs responded, with [about half of them finding the exact answer to the problem, and the other half deriving viable (but less-than-optimal) solutions](http://www.pandasthumb.org/archives/2006/08/design_challeng_1.html).  
+I posed an open, unsolved Steiner problem for the [Design Challenge](/archives/2006/08/take-the-design.html).  Dozens of math buffs responded, with [about half of them finding the exact answer to the problem, and the other half deriving viable (but less-than-optimal) solutions](/archives/2006/08/design-challeng-1.html).  
 
 Even with a week's time, and the libraries and websites of the whole world available to him, Cordova failed to derive as good an answer to the given challenge as my evolution-based GA did in just a couple of hours.
 

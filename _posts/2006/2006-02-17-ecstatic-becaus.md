@@ -126,4 +126,4 @@ The "teach the controversy" sham is not limited to Ohio. In [South Carolina](htt
 > 
 > "'Critically analyze' is not just wordsmithing," Tenenbaum said. "It carries with it a whole campaign against evolution."
 
-Judge Jones' findings should have been a warning. Guess the ['Dover trap' ](http://www.pandasthumb.org/archives/2006/02/the_dover_trap.html)has been set in yet another state.
+Judge Jones' findings should have been a warning. Guess the ['Dover trap' ](/archives/2006/02/the-dover-trap.html)has been set in yet another state.

@@ -18,7 +18,7 @@ And [this is how he presented it on ARN](http://www.arn.org/cgi-bin/ubb/ultimate
 
 > These results have been thoroughly vetted. I first presented an overview of them at a technical seminar at the Niels Bohr Institute last year. There was no challenge to the mathematics.
 
-However, a [comment from Rasmus Pedersen](http://www.pandasthumb.org/archives/2005/08/skeptic_on_demb.html#c43249), citing an [article in the Danish newspaper _Weekendavisen_](http://www.weekendavisen.dk/apps/pbcs.dll/article?AID=/20050729/SAMFUND/507280332&amp;SearchID=73217457104464), shows what the attendees at his seminar thought of it:
+However, a [comment from Rasmus Pedersen](/archives/2005/08/skeptic-on-demb.html#c43249), citing an [article in the Danish newspaper _Weekendavisen_](http://www.weekendavisen.dk/apps/pbcs.dll/article?AID=/20050729/SAMFUND/507280332&amp;SearchID=73217457104464), shows what the attendees at his seminar thought of it:
 
 > In the hour at his disposal in front of a friendly-minded but mathematically knowledgeable audience, Dembski wove like a freshman about to fail. He repeated his heuristic, hand-waving arguments endlessly, drew stains on the blackboard, but didn't produce a single result of any mathematical value.
 > Unfortunately, this is also what a mathematician gets from reading his "mathematical" book, The Design Inference, which, incidentally, is widely used to scare people who are intimidated by mathematical equations. It looks impressive, but in actuality contains no coherent mathematics. But now Dembski can boast that he, as a researcher of Intelligent Design, was invited to the Niels Bohr Institute as well as the Danish Technical University. What he doesn't mention is that he will never be invited again.

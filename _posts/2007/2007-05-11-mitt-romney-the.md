@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3013
 basename: mitt_romney_the
 ---
-Today's _New York Times_ has an [article](http://thecaucus.blogs.nytimes.com/2007/05/11/romney-elaborates-on-evolution/) wherein Republican Presidential candidate Mitt Romney clarifies (somewhat) his position on evolution.  Recall that in the last Republican debate only three candidates, none of them top-tier, [raised their hands](http://www.pandasthumb.org/archives/2007/05/the_republicans.html) when asked if they didn't believe in evolution.  Romney wasn't one of them.  And now he says why:
+Today's _New York Times_ has an [article](http://thecaucus.blogs.nytimes.com/2007/05/11/romney-elaborates-on-evolution/) wherein Republican Presidential candidate Mitt Romney clarifies (somewhat) his position on evolution.  Recall that in the last Republican debate only three candidates, none of them top-tier, [raised their hands](/archives/2007/05/the-republicans.html) when asked if they didn't believe in evolution.  Romney wasn't one of them.  And now he says why:
 
 > "I believe that God designed the universe and created the universe," Mr. Romney said in an interview this week. "And I believe evolution is most likely the process he used to create the human body."
 

@@ -11,7 +11,7 @@ basename: zygoptera
 Photograph by **Greg Goebel**.
 
 <figure>
-<img src="http://pandasthumb.org/archives/2011/02/12/GregGoebelDamselfly.jpg" alt="GregGoebelDamselfly.jpg" width="600" height="600" />
+<img src="/uploads/2011/GregGoebelDamselfly.jpg" alt="GregGoebelDamselfly.jpg" width="600" height="600" />
 <figcaption markdown="span">
 <big>[_Enallagma civile_](http://en.wikipedia.org/wiki/Familiar_Bluet) -- familiar bluet -- [damselfly](http://en.wikipedia.org/wiki/Damselfly), Loveland, Colorado, 2009.</big>
 

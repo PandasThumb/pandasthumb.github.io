@@ -10,7 +10,7 @@ basename: kcfs_response_t
 ---
 In 2001, evolution was poised to return to the the Kansas Science Standards. The [Intelligent Design Network objected](http://www.intelligentdesignnetwork.org/6thdraftrevisions.htm) to them and proposed changes that would have left open the door to teaching creationism. [Kansas Citizens for Science responded](http://www.kcfs.org/KsSciSt1999-2001/Fliers_articles/KCFS_Response_v5.html) to their proposal, which was sent to all members of the state board. One might suspect the response to have been too parochial for anything other than Kansas creationism; one would be wrong: the response serves as a prototype response for many creationist arguments and works nicely as a reference for letters to the editor even today.
 
-Find it below, after the fold. It is also available in [PDF](http://www.pandasthumb.org/archives/images/kcfs-response-idnet-proposal_12feb2001.pdf) and [RTF](http://www.pandasthumb.org/archives/images/kcfs-response-idnet-proposal_12feb2001.rtf) formats.
+Find it below, after the fold. It is also available in [PDF](/uploads/2007/kcfs-response-idnet-proposal_12feb2001.pdf) and [RTF](http://www.pandasthumb.org/archives/images/kcfs-response-idnet-proposal_12feb2001.rtf) formats.
 
 **A Response to the Intelligent Design Network's Proposals to Include "Intelligent Design" in the Kansas Science Standards**
 Kansas Citizens for Science February 12, 2001 

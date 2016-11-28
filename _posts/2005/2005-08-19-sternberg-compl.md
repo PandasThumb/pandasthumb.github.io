@@ -9,7 +9,7 @@ blog_id: 2
 post_id: 1281
 basename: sternberg_compl
 ---
-_**Update:** The OSC letter is going up on IDist websites, so we presume it is legit to post it here.  [Right-click, Save As](http://www.pandasthumb.org/archives/pdfs/2005_08_05_OSC-Sternberg-preclosure-ltr.pdf) for the PDF._
+_**Update:** The OSC letter is going up on IDist websites, so we presume it is legit to post it here.  [Right-click, Save As](/uploads/2005/2005_08_05_OSC-Sternberg-preclosure-ltr.pdf) for the PDF._
 
 Late today, a reporter called NCSE and, asking for comment, told us that the [U.S. Office of Special Counsel](http://www.osc.gov/) had dropped [Richard von Sternberg's religious discrimination complaint](http://www.pandasthumb.org/pt-archives/000786.html) against the [Smithsonian Institution](http://www.si.edu/).  The short version is that Sternberg, as an unpaid research associate at the Smithsonian, is not actually an employee, and thus the OSC has no jurisdiction.  This was not particularly surprising, considering that PT contributer Reed Cartwright [noted way back on February 2](http://www.pandasthumb.org/archives/2005/02/sternberg_vs_smithsonian.html) that exactly this might happen.
 

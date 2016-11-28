@@ -18,7 +18,7 @@ As the _Post_ reports, Korn has not just been targeting evolutionary biology fac
 > 
 > CU police detectives began investigating the threats, which claim to be from a religious group and which criticize the professors for backing evolution, in the past week. On Monday morning, faculty members found packages of documents slipped under lab doors.
 
-Although the letters and material claim to represent an entire group, Korn is at this point the only known perp.  According to investigators, the messages that were received were very similar, if not identical, to the ones that Matt Young [posted](http://www.pandasthumb.org/archives/2007/07/threats_against_university_of_colorado_biologists.html) two days ago: 
+Although the letters and material claim to represent an entire group, Korn is at this point the only known perp.  According to investigators, the messages that were received were very similar, if not identical, to the ones that Matt Young [posted](/archives/2007/07/threats-against-university-of-colorado-biologists.html) two days ago: 
 
 > Purported excerpts of the messages have appeared online at a site called The Panda's Thumb, which is devoted to critiquing "the claims of the antievolution movement." Hilliard said the posted messages are "consistent" with those sent to CU professors but couldn't confirm whether they are word-for- word copies.
 > 

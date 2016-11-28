@@ -33,7 +33,7 @@ D(Aspartate 281) N(Asparagine 111) K(Lysine 199) H(Histidine 256)
 
 These amino acids are not contiguous, but separated across different loops of the protein, forming a lining to a pocket in the protein molecule. 
 
-<img src="http://pandasthumb.org/archives/images/at1a.gif" alt="at1a.gif" width="700" height="510" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="/uploads/2007/at1a.gif" alt="at1a.gif" width="700" height="510" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 <small>> The three dimensional cartoon structure of the AT1-receptor with AII bound. We are looking at the receptor from above, with some chains removed for clarity. The transmembrane helicies are shown as grey coils, AII is shown in yellow, the DNKH amino acids are shown in red. See [http://home.mira.net/~reynella/chime/ang_tuta.htm](http://home.mira.net/~reynella/chime/ang_tuta.htm)  for 3D structures (needs [MDL CHIME plug-in](http://www.mdlchime.com/) to view and manipulate the 3D structure).</small>
 
 As I said above, the AT receptors bind angiotensin and similar peptides to the ligand binding site. As with the receptor, not all of the ligand sequence binds to the binding site. While here we are talking about small molecules, the principle is the same for segments of larger proteins binding to another protein. The sequences of ligands are shown in the one letter amino acid code, with the amino acids that bind being shown in **bold**.

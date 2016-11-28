@@ -13,7 +13,7 @@ basename: the_politically_9
 
 **Jonathan Wells (2006) _The Politically Incorrect Guide to Darwinism and Intelligent Design_. Regnery Publishing, Inc. Washington, DC.**<sup>[Amazon](amazon://1596980133)</sup>
 
-**[Read the entire series.](http://www.pandasthumb.org/archives/2006/08/the_politically.html)**
+**[Read the entire series.](/archives/2006/08/the-politically.html)**
 
 Chapter 9 in Wells's _Politically Incorrect Guide to Evolution and Intelligent Design_, "The Secret of Life", is like previous chapters, a rehash of well-known creationist arguments.  This time the topics are DNA, the genetic code, and the origin of biological information.  In addition, Wells uses up a third of the chapter with some excuse-making for the lack of peer-reviewed papers supporting "intelligent design", and with a completely misleading account of the purported "persecution" of an ID-friendly scientist by the "Darwinist orthodoxy".
 

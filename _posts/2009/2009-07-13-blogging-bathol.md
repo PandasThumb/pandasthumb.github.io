@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 4331
 basename: blogging_bathol
 ---
-<img src="http://pandasthumb.org/archives/2009/07/13/batholith.jpg" alt="" width="450" height="554" />
+<img src="/uploads/2009/batholith.jpg" alt="" width="450" height="554" />
 
 I am currently in British Columbia, Canada, participating in the Batholiths Onland experiment.
 

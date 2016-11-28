@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1320
 basename: rio_rancho_nm_s
 ---
-Well, it's Official.  It's not just the New York Times believing the Discovery Institute's line that New Mexico's new school science standards ["embraced the institute's 'teach the controversy' approach."](http://www.pandasthumb.org/archives/2005/08/new_mexico_scie.html)
+Well, it's Official.  It's not just the New York Times believing the Discovery Institute's line that New Mexico's new school science standards ["embraced the institute's 'teach the controversy' approach."](/archives/2005/08/new-mexico-scie.html)
 
 Now it's the [Rio Rancho Public Schools](http://www.rrps.net/).
 

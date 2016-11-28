@@ -8,12 +8,12 @@ blog_id: 2
 post_id: 1360
 basename: rio_rancho_nm_u
 ---
-Since [last week's report](http://www.pandasthumb.org/archives/2005/08/rio_rancho_nm_s.html), there have been several developments in the Rio Rancho situation, wherein the local school board adopted a [new science policy](http://www.rrps.net/Board/Policies/401.htm) that, according to the Sept. 2nd Albuquerque Journal's print edition
+Since [last week's report](/archives/2005/08/rio-rancho-nm-s.html), there have been several developments in the Rio Rancho situation, wherein the local school board adopted a [new science policy](http://www.rrps.net/Board/Policies/401.htm) that, according to the Sept. 2nd Albuquerque Journal's print edition
 
 
 > means teachers will lead discussions on alternative ideas to evolution.
 
-For starters, on Thursday, the [Flying Spaghetti Monster](http://www.venganza.org/) ([info](http://en.wikipedia.org/wiki/Flying_Spaghetti_Monster)) has [again reached his noodly appendage beyond the internet](http://www.pandasthumb.org/archives/2005/08/fsm_in_msm.html), into Mainstream Media, or at least to the twice-weekly pages of the [Rio Rancho Observer](http://www.observer-online.com/):
+For starters, on Thursday, the [Flying Spaghetti Monster](http://www.venganza.org/) ([info](http://en.wikipedia.org/wiki/Flying_Spaghetti_Monster)) has [again reached his noodly appendage beyond the internet](/archives/2005/08/fsm-in-msm.html), into Mainstream Media, or at least to the twice-weekly pages of the [Rio Rancho Observer](http://www.observer-online.com/):
 
 <img src="http://www.nmsr.org/fsm-rro.jpg" alt="" />
 

@@ -36,7 +36,7 @@ So far, these findings are interesting by themselves, however the scientists als
 
 In other words, a functional two-chambered heart developed.
 
-> <img src="http://pandasthumb.org/heart_specification.png" alt="heart_specification.png" width="456" height="553" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+> <img src="/uploads/2008/heart_specification.png" alt="heart_specification.png" width="456" height="553" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 > 
 > Figure 8. Models for the heart specification network and chordate heart evolution. (A) Summary of the gene network controlling heart specification in Ciona. Mesp drives expression of Ets1/2 in all descendants of the B7.5 blastomeres. FGF signaling activates Ets1/2 in the rostral daughters, leading to the expression of FoxF and ultimately to the deployment of the heart differentiation cassette. (B) Summary diagram illustrating heart 
 > specification events on the cellular level. (C) Diagram illustrating a model of chordate heart evolution. According to this model, expansion of induction within a broad heart field led to the emergence of a dual heart phenotype (as illustrated experimentally through manipulation of Ets1/2 activation in Ciona embryos). In basal vertebrates, this transitional organ was patterned and modified to form two distinct chambers.

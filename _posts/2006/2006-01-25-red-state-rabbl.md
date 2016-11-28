@@ -20,7 +20,7 @@ basename: red_state_rabbl
 
 Read more at [Red State Rabble](http://redstaterabble.blogspot.com/2006/01/dembski-flops-in-oz.html)
 
-Or Read [Jack Krebs](http://www.pandasthumb.org/archives/2006/01/my_offer_to_dis_1.html) explaining why Dembski had decided to present alone.
+Or Read [Jack Krebs](/archives/2006/01/my-offer-to-dis-1.html) explaining why Dembski had decided to present alone.
 
 Or read on for some observations
 

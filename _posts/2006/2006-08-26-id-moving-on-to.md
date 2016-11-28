@@ -16,7 +16,7 @@ Well, it seems to me that they are giving up on trying to seriously sell ID as s
 
 Let's take a quick look at what they are up to:
 
-1.  Jonathan Wells' new Politically Incorrect Guide to Darwinism and Intelligent Design.  As Burt Humburg points out in his [review of Chapter 1, "Wars and Rumors"](http://www.pandasthumb.org/archives/2006/08/the_politically.html), 
+1.  Jonathan Wells' new Politically Incorrect Guide to Darwinism and Intelligent Design.  As Burt Humburg points out in his [review of Chapter 1, "Wars and Rumors"](/archives/2006/08/the-politically.html), 
 
 > Wells uses such dramatic quotations and general martial language because the struggle between "intelligent design" and science is very much a culture war, at least to him and other creationists. In order to advance his thesis, Wells has to convey the idea that "Darwinism" pits itself against traditional Christianity: to allow pupils to learn it is to give them up to atheism, decadence, liberalism and to lose the culture war.
 

@@ -11,7 +11,7 @@ basename: meles_meles
 Photograph by **Sarah Boosey**.
 
 <figure>
-<img src="http://pandasthumb.org/archives/2011/02/23/P6270008_Badger_doctored_600.JPG" alt="P6270008_Badger_doctored_600.JPG" width="600" height="391" />
+<img src="/uploads/2011/P6270008_Badger_doctored_600.JPG" alt="P6270008_Badger_doctored_600.JPG" width="600" height="391" />
 <figcaption markdown="span">
 <big>[_Meles meles_](http://en.wikipedia.org/wiki/European_Badger) -- European badger, England, 2010.</big>
 

@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2105
 basename: newsweek_on_tik
 ---
-It looks like Jerry Adler of _Newsweek_ has seen [the same problem I did](http://www.pandasthumb.org/archives/2006/04/post_10.html) with the reaction of the "leading researchers" of ID to _Tiktaalik_.  See "[Evolution: If It Walks Like a Fish...](http://msnbc.msn.com/id/12227766/site/newsweek/)"
+It looks like Jerry Adler of _Newsweek_ has seen [the same problem I did](/archives/2006/04/post-10.html) with the reaction of the "leading researchers" of ID to _Tiktaalik_.  See "[Evolution: If It Walks Like a Fish...](http://msnbc.msn.com/id/12227766/site/newsweek/)"
 
 PS: See also [this cartoon from Kansas](http://scienceblogs.com/grrlscientist/2006/04/might_as_well_stay_missing.php), and also [this cartoon](http://scienceblogs.com/grrlscientist/2006/04/more_on_tiktaalik_roseae.php).
 

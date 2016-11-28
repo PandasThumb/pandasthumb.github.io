@@ -12,7 +12,7 @@ This cartoon
 
 
 <figure>
-<img src="http://pandasthumb.org/archives/2014/07/04/christian-unity-cartoon_600.jpeg" alt="christian-unity-cartoon_600.jpeg" width="600" height="455" />
+<img src="/uploads/2014/christian-unity-cartoon_600.jpeg" alt="christian-unity-cartoon_600.jpeg" width="600" height="455" />
 <figcaption markdown="span">
 Ken Ham, [The Lie: Evolution](http://www.jesuschrist4prayers.com/upload/books-pdf/TheLieEvolution.pdf), illustrations by Steve Cardno (Master Books, 1987). See also [here](https://answersingenesis.org/apologetics/maturing-the-message/).
 

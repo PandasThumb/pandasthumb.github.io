@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2918
 basename: is_there_a_syst
 ---
-I had an [**op-ed in the Albuquerque Tribune**](http://www.abqtrib.com/news/2007/mar/13/commentary-intelligent-design-supporters-find-new-/) a couple of weeks ago, on the topics of a [**rash of creationist bills in the New Mexico Legislature**](http://www.ncseweb.org/resources/news/2007/NM/993_antievolution_measures_dead_in_3_22_2007.asp), and the [**super-sneaky tactics of the New Mexico Science Foundation**](http://www.pandasthumb.org/archives/2007/02/cheshire_cat_cr.html).
+I had an [**op-ed in the Albuquerque Tribune**](http://www.abqtrib.com/news/2007/mar/13/commentary-intelligent-design-supporters-find-new-/) a couple of weeks ago, on the topics of a [**rash of creationist bills in the New Mexico Legislature**](http://www.ncseweb.org/resources/news/2007/NM/993_antievolution_measures_dead_in_3_22_2007.asp), and the [**super-sneaky tactics of the New Mexico Science Foundation**](/archives/2007/02/cheshire-cat-cr.html).
 
 Of course, in this "Tit-for-tat" world of ours, our local Intelligent Design Creationists finagled an op-ed response.  Joe Renick, Executive Director of the Intelligent Design Network, is the author of [**Fear of exposure: The fight against academic freedom is rooted in the worry that Darwinism's weakness will be revealed**](http://www.abqtrib.com/news/2007/mar/28/commentary-fear-exposure/).  It's quite a ramble, but this little tidbit is what caused me to have a coffee spit-take:
 

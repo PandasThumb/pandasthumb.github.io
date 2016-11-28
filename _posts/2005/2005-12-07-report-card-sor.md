@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1669
 basename: report_card_sor
 ---
-It has been suggested that we include the table of state science standards rankings sorted by Final Score (Percentage), which is now available below the fold.  Please leave comments under the original post, ["Report Cards are In"](http://www.pandasthumb.org/archives/2005/12/report_cards_ar.html#comments).
+It has been suggested that we include the table of state science standards rankings sorted by Final Score (Percentage), which is now available below the fold.  Please leave comments under the original post, ["Report Cards are In"](/archives/2005/12/report-cards-ar.html#comments).
 
 
 |**RANK**|**STATE**|**SCORE(%)**|**LETTER GRADE**|**EVOLUTION SCORE/3**

@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2753
 basename: update_on_kenya
 ---
-The [East African Standard](http://allafrica.com/stories/200701120826.html) has a new (well, a week and a half old, but new to me) article concerning the attempts by evangelicals to suppress the hominid fossils currently on display in Kenya's National Museum.  You may remember when this ruckus first began [several months ago](http://www.pandasthumb.org/archives/2006/08/africa_our_past.html).  We now learn that churches are planning on holding "major demonstrations to the museum to press for the removal of the bones." 
+The [East African Standard](http://allafrica.com/stories/200701120826.html) has a new (well, a week and a half old, but new to me) article concerning the attempts by evangelicals to suppress the hominid fossils currently on display in Kenya's National Museum.  You may remember when this ruckus first began [several months ago](/archives/2006/08/africa-our-past.html).  We now learn that churches are planning on holding "major demonstrations to the museum to press for the removal of the bones." 
 
 The ringleader of all this is Bishop Boniface Adoyo, the head of the Chairman of the Evangelical Alliance of Kenya, which has roughly six million members.  The article contains numerous quotes from Adoyo, which show him to be pretty much your standard creationist.  The following lines, interspersed throughout the text, are particularly telling:
 

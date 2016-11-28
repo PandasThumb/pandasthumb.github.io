@@ -13,7 +13,7 @@ Photograph by **Rick Duhrkopf**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="http://pandasthumb.org/Duhrkopf.American_Alligator.jpg" alt="Duhrkopf.American_Alligator.jpg" width="600" height="398" />
+<img src="/uploads/2013/Duhrkopf.American_Alligator.jpg" alt="Duhrkopf.American_Alligator.jpg" width="600" height="398" />
 <figcaption markdown="span">
 <big>[_Alligator mississippiensis_](http://en.wikipedia.org/wiki/American_alligator) - American alligator, Anahuac National Wildlife Preserve, Anahuac County, Texas.</big>
 

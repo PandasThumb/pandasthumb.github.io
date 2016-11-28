@@ -14,7 +14,7 @@ I was reminded today of [Humpty Dumpty,](http://www.cs.indiana.edu/metastuff/loo
 > "The question is," said Alice, "whether you_can_ make words mean so many different things."
 > "The question is," said Humpty Dumpty, "which is to be master---that's all."**
 
-Lee Harris plans to be master. In [this_TCS_ essay](http://www.techcentralstation.com/080505E.html) defending President Bush's recent remarks about ID creationism, he takes the position that evolution is no more true or false than any other claim accepted by a large number of people. Need we any further proof that, as Nick Matzke put it in a post yesterday, [ID is just creationism in postmodern disguise?](http://www.pandasthumb.org/archives/2005/08/id_postmodern_c.html) Harris writes,
+Lee Harris plans to be master. In [this_TCS_ essay](http://www.techcentralstation.com/080505E.html) defending President Bush's recent remarks about ID creationism, he takes the position that evolution is no more true or false than any other claim accepted by a large number of people. Need we any further proof that, as Nick Matzke put it in a post yesterday, [ID is just creationism in postmodern disguise?](/archives/2005/08/id-postmodern-c.html) Harris writes,
 
 > **It is obviously absurd to argue that children should be taught both sides of the evolution controversy,  if by "taught" you mean something on the order of teaching kids the capitals of the various states or the multiplication tables. When you teach a child that Tallahassee is the capital of Florida, or that 6x6=36, that is the end of the matter. 
 > 

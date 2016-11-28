@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2411
 basename: wells_vs_tiny_f
 ---
-The ID proponents are still smarting from last years resounding defeat in the Kitzmiller case, where ID was publicly shown [not to be science](http://www.talkorigins.org/faqs/dover/kitzmiller_v_dover.html). Once again, the ID folks have posted their list of supposedly ["peer-reviewed" articles](http://www.uncommondescent.com/documentation/Judge_Jones_Peer_Rev_Reb.pdf) that allegedly support ID. Unfortunately for them, [this list is bogus](http://www.talkorigins.org/indexcc/CI/CI001_4.html), the articles are either not peer-reviewed by any standard working scientists would recognize, or if peer-reviewed have nothing to do with ID. The infamous [Behe & Snoke paper](http://www.pandasthumb.org/archives/2004/10/theory_is_as_th.html), for example, shows that in the absence of natural selection, neutral drift  alone can
+The ID proponents are still smarting from last years resounding defeat in the Kitzmiller case, where ID was publicly shown [not to be science](http://www.talkorigins.org/faqs/dover/kitzmiller_v_dover.html). Once again, the ID folks have posted their list of supposedly ["peer-reviewed" articles](http://www.uncommondescent.com/documentation/Judge_Jones_Peer_Rev_Reb.pdf) that allegedly support ID. Unfortunately for them, [this list is bogus](http://www.talkorigins.org/indexcc/CI/CI001_4.html), the articles are either not peer-reviewed by any standard working scientists would recognize, or if peer-reviewed have nothing to do with ID. The infamous [Behe & Snoke paper](/archives/2004/10/theory-is-as-th.html), for example, shows that in the absence of natural selection, neutral drift  alone can
 efficiently produce protein binding sites in realistically-sized populations in times consistent with the fossil record. This finding is hardly ID friendly. 
 
 But what is interesting is what **is** missing from this list, a paper from ID luminary Jonathan Wells. Why is this paper missing? It was in previous versions of the list. Could it be that Wells made a testable hypothesis, and it was shown to be wrong?
@@ -28,7 +28,7 @@ Here is Wells's design hypothesis:
 
 Yep, that's the design hypothesis, now if you look at the image below (Panel D), you will see the structure of human centrioles, and they are basically cylinders with capped ends. Looking at them I am reminded of a line from [Melanie Safka's](http://www.melaniemusic.net/) "[Psychotherapy](http://www.martylloyd.com/artist_s/safka_melanie_lyrics/psychotherapy_lyrics.html)". "A things a phallic symbol if it's longer than its wide". 
 
-[<img src="http://www.pandasthumb.org/archives/elegans_centriole-thumb.jpg" alt="elegans_centriole.jpg" width="600" height="371" />](http://www.pandasthumb.org/archives/elegans_centriole.jpg)
+[<img src="/uploads/2006/elegans_centriole-thumb.jpg" alt="elegans_centriole.jpg" width="600" height="371" />](/uploads/2006/elegans_centriole.jpg)
 
 Figure from [Workshop on Centrosomes and Spindle Pole Bodies, Hagen and Pallazo 2006](http://www.nature.com/embor/journal/v7/n4/fig_tab/7400660_f2.html)
 A-B _C. elegans_ centrioles. D Human centrioles. E stylized comparison of _C. elegans_ and human centrioles.
@@ -65,7 +65,7 @@ Firstly, look at the figure above again, this time look at the left-hand side of
 
 The other line of evidence comes from tiny mutant fruit flies that lack centrioles all together (Basto et al., 2006, see figure below). Despite having no centrioles the chromosomes of these flies segregate normally, lining up nicely (even if it takes a while to get going). Thus the flies have a normal PEF in the complete absence of centrioles. This is consistent with data from fruit flies with defective centrioles (see references in Basto et al., 2006), and experiments in tissue culture where centrioles have been removed by laser, yet chromosomes align normally (Hinchcliffe et al., 2004 and references in Basto et al., 2006 see also Merdes and Cleveland 1997 for natural centrioleless cells). Thus the rationale for Wells's hypothesis that centrioles are turbines collapses when the PEF occurs in the absence of centrioles.
 
-[<img src="http://www.pandasthumb.org/archives/images/Tiny_flies_1-thumb.jpg" alt="Tiny_flies_1.jpg" width="441" height="317" />](http://www.pandasthumb.org/archives/images/Tiny_flies_1.jpg)
+[<img src="/uploads/2006/Tiny_flies_1-thumb.jpg" alt="Tiny_flies_1.jpg" width="441" height="317" />](/uploads/2006/Tiny_flies_1.jpg)
 E Chromosomes line up normally in a centriole free fly cell. F detail showing lack of centrioles. G centrioles in a normal fly. Figure from Basto et al., 2006
 
 **So to summarise:**

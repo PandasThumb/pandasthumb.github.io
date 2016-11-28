@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3052
 basename: sen_sam_brownba
 ---
-Presidential candidate Sam Brownback was [one of three](http://www.pandasthumb.org/archives/2007/05/the_republicans.html) Republican candidates who raised their hands when asked if they didn't believe in evolution.
+Presidential candidate Sam Brownback was [one of three](/archives/2007/05/the-republicans.html) Republican candidates who raised their hands when asked if they didn't believe in evolution.
 
 Today he has an op-ed piece in the _[New York Times](http://www.nytimes.com/2007/05/31/opinion/31brownback.html?_r=1&amp;n=Top%2fReference%2fTimes%20Topics%2fPeople%2fB%2fBrownback%2c%20Sam&amp;oref=slogin)_ wherein he explains his stance.  If you're looking for something original, meaningful, or interesting, it's not for you.  It's your standard "I'm a creationist but am too cagey to come out and say it so I'm going to dance around the issue and exude platitudes about faith..."  There's a fair chance it was ghost written by a member of the Discovery Institute.  Consider this:
 

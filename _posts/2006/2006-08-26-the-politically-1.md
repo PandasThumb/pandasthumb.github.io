@@ -16,7 +16,7 @@ basename: the_politically_1
 
 **Jonathan Wells (2006) _The Politically Incorrect Guide to Darwinism and Intelligent Design_. Regnery Publishing, Inc. Washington, DC.**<sup>[Amazon](amazon://1596980133)</sup>
 
-**[Read the entire series.](http://www.pandasthumb.org/archives/2006/08/the_politically.html)**
+**[Read the entire series.](/archives/2006/08/the-politically.html)**
 
 By titling his first chapter "Wars and Rumors", Jonathan Wells invokes a snippet of scripture in which Jesus describes the end times 
 
@@ -48,7 +48,7 @@ Confused yet?
 
 One gets the distinct impression that, despite the time Wells spent pondering the material in his book, a better working definition for Darwinism would have been, "everything about evolution to which creationists like me object". This definition, unlike the one Wells offers, at least would have made sense in context.
 
-Easily, one of the prominent faults of Wells's screed is a pervasive confusion between terms. Words, like "Darwinism" and "Traditional Christianity", seem to mean whatever Wells wants them to mean for that specific sentence.  In many cases words are used without regard for his own stated definitions and usually without regard to usage elsewhere in his book. There are several possible reasons for this confusion in terms.  First, Wells confusion may be by design. I have argued elsewhere that [creationists intend to confuse their audiences when they argue](http://www.pandasthumb.org/archives/2005/05/creationist_fea.html). Second, if you review the acknowledgements page, you'll read how Wells used many authors to help him prepare this text. It is possible that Wells's editorship was so insufficient that he allowed a term that makes up part of the book's very title to have a flexible meaning. My suspicion is that there was both disparity between the understanding of key terms by different authors _as well as_ an intention to confuse. 
+Easily, one of the prominent faults of Wells's screed is a pervasive confusion between terms. Words, like "Darwinism" and "Traditional Christianity", seem to mean whatever Wells wants them to mean for that specific sentence.  In many cases words are used without regard for his own stated definitions and usually without regard to usage elsewhere in his book. There are several possible reasons for this confusion in terms.  First, Wells confusion may be by design. I have argued elsewhere that [creationists intend to confuse their audiences when they argue](/archives/2005/05/creationist-fea.html). Second, if you review the acknowledgements page, you'll read how Wells used many authors to help him prepare this text. It is possible that Wells's editorship was so insufficient that he allowed a term that makes up part of the book's very title to have a flexible meaning. My suspicion is that there was both disparity between the understanding of key terms by different authors _as well as_ an intention to confuse. 
 
 Wells doesn't spend a great deal of time defining intelligent design. This is in keeping with creationist strategy. As federal Judge John E. Jones III of the Middle District of Pennsylvania noted: 
 

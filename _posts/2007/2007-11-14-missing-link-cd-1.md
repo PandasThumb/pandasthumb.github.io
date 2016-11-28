@@ -8,6 +8,6 @@ blog_id: 2
 post_id: 3398
 basename: missing_link_cd_1
 ---
-Many viewers seem to have been surprised by the transitional fossil between creationist and **c**design proponents**ists** so here is an original posting by Nick Matzke on [Missing link: “cdesign proponentsists”](http://www.pandasthumb.org/archives/2005/11/missing_link_cd.html)
+Many viewers seem to have been surprised by the transitional fossil between creationist and **c**design proponents**ists** so here is an original posting by Nick Matzke on [Missing link: “cdesign proponentsists”](/archives/2005/11/missing-link-cd.html)
 
 A classic in the annals of Intelligent Design

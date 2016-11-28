@@ -47,4 +47,4 @@ Students expressed their worries about teaching supernatural explanations for na
 
 That local communities are willing to stand up for solid science education is quite encouraging and I hope that the leadership of USD 383 may be a guiding light for other school districts. The cost of ignoring science has not only an impact on the future of our children but may very well open up districts to costly litigation. 
 
-Richard B Hoppe, a regular contributor to Pandasthumb, has described this [Dover Trap](http://www.pandasthumb.org/archives/2006/02/the_dover_trap.html).
+Richard B Hoppe, a regular contributor to Pandasthumb, has described this [Dover Trap](/archives/2006/02/the-dover-trap.html).

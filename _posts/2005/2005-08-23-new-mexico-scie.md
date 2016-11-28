@@ -197,4 +197,4 @@ It also now appears that Minnesota also has not sanctioned the teaching of any k
 
 ------------------------------------------------------------
 
-Dr. [Marshall Berman](http://www.nmsr.org/wrkshp8.htm) is founder of New Mexico's [Coalition for Excellence in Science and Math Education](http://www.cesame-nm.org/), and is a former member of the New Mexico State Board of Education.  [Dave Thomas](http://www.nmsr.org/wrkshp6.htm) is president of [New Mexicans for Science and Reason](http://www.nmsr.org/), and is part of the Panda's Thumb [crew](http://www.pandasthumb.org/archives/2004/03/the_crew_of_the.html).
+Dr. [Marshall Berman](http://www.nmsr.org/wrkshp8.htm) is founder of New Mexico's [Coalition for Excellence in Science and Math Education](http://www.cesame-nm.org/), and is a former member of the New Mexico State Board of Education.  [Dave Thomas](http://www.nmsr.org/wrkshp6.htm) is president of [New Mexicans for Science and Reason](http://www.nmsr.org/), and is part of the Panda's Thumb [crew](/archives/2004/03/the-crew-of-the.html).

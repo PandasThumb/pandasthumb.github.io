@@ -8,4 +8,4 @@ blog_id: 2
 post_id: 2639
 basename: now_its_really
 ---
-As I [posted previously](http://www.pandasthumb.org/archives/2006/11/finally_south_c.html), the South Carolina State Superintendent of Education Race had resulted in a narrow sliver of a win by the pro-science candidate Jim Rex.  But the creationist candidate, Karen Floyd, had the option of protesting the results.  Today however she has finally [conceded](http://www.goupstate.com/apps/pbcs.dll/article?AID=/20061121/APN/611211980&amp;Login=1).
+As I [posted previously](/archives/2006/11/finally-south-c.html), the South Carolina State Superintendent of Education Race had resulted in a narrow sliver of a win by the pro-science candidate Jim Rex.  But the creationist candidate, Karen Floyd, had the option of protesting the results.  Today however she has finally [conceded](http://www.goupstate.com/apps/pbcs.dll/article?AID=/20061121/APN/611211980&amp;Login=1).

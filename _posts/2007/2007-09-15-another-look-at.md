@@ -8,4 +8,4 @@ blog_id: 2
 post_id: 3216
 basename: another_look_at
 ---
-William Saletan at _Slate_takes [a more skeptical look](http://www.slate.com/id/2173965/nav/tap1/) at some of the research referred to in [PvM's post below.](http://www.pandasthumb.org/archives/2007/09/politics_on_you.html)
+William Saletan at _Slate_takes [a more skeptical look](http://www.slate.com/id/2173965/nav/tap1/) at some of the research referred to in [PvM's post below.](/archives/2007/09/politics-on-you.html)

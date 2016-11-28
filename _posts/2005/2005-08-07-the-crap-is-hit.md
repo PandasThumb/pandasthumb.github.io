@@ -14,7 +14,7 @@ Yesterday, two Time Magazine reporters called me to confirm a quote I e-mailed t
 
 The Albuquerque Journal's Paul Logan has been grilling me re ID for a few days, plus many other sources.  That's supposed to be in tomorrow's Albuquerque Journal.  
 
-As [Nick mentioned](http://www.pandasthumb.org/archives/2005/08/a_tv_show_that.html), the History Channel is showing "Ape to Man: the Evolution of Evolution" tonight (Sunday).
+As [Nick mentioned](/archives/2005/08/a-tv-show-that.html), the History Channel is showing "Ape to Man: the Evolution of Evolution" tonight (Sunday).
 
 Tuesday's NightLine on ABC will be about creationism, too.
 

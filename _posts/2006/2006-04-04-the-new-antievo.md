@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2077
 basename: the_new_antievo
 ---
-Pim van Meurs alerted me to another just plain false broadside ~~from the Discovery Institute~~\*. Joe Manzari (American Enterprise Institute) and Seth Cooper (**formerly** of the Discovery Institute) say that Brian Rehm, one of the plaintiffs in the [Kitzmiller v. Dover](http://www.pandasthumb.org/archives/2005/12/waterloo_in_dov.html) case, had a ["clear" conflict of interest](http://www.taemag.com/issues/articleID.19100/article_detail.asp) in being part of the new school board that specifically turned down a proposal to rescind the "intelligent design" policy.
+Pim van Meurs alerted me to another just plain false broadside ~~from the Discovery Institute~~\*. Joe Manzari (American Enterprise Institute) and Seth Cooper (**formerly** of the Discovery Institute) say that Brian Rehm, one of the plaintiffs in the [Kitzmiller v. Dover](/archives/2005/12/waterloo-in-dov.html) case, had a ["clear" conflict of interest](http://www.taemag.com/issues/articleID.19100/article_detail.asp) in being part of the new school board that specifically turned down a proposal to rescind the "intelligent design" policy.
 
 > One might assume the new board's first item of business would be to rescind the old board's evolution policy. Not so. During their first meeting on December 5th, former Dover Board member David Napierski proposed a resolution to rescind the old board's evolution policy (prior to any court ruling). Acting as a private citizen, Napierski procured the opinion of an attorney, who said that a vote to rescind the evolution policy could stave off a courtroom defeat and significantly reduce or eliminate legal costs and fees. Yet the new board rejected Napierski's proposal to rescind the old policy.
 > 

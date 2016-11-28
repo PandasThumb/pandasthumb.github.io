@@ -13,7 +13,7 @@ Photograph by **Vivian Dullien**.
 Photography contest, finalist.
 
 <figure>
-<img src="http://pandasthumb.org/archives/2016/07/12/Dullien_V.Hummingbird.JPG" alt="Dullien_V.Hummingbird.JPG" width="600" height="450" />
+<img src="/uploads/2016/Dullien_V.Hummingbird.JPG" alt="Dullien_V.Hummingbird.JPG" width="600" height="450" />
 <figcaption markdown="span">
 <big>[_Selasphorus platycerus_](https://en.wikipedia.org/wiki/Broad-tailed_hummingbird) -- broad-tailed hummingbird, male.</big>
 

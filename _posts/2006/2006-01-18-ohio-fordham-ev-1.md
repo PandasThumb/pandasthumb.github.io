@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1838
 basename: ohio_fordham_ev_1
 ---
-Last month [Dave Thomas reported](http://www.pandasthumb.org/archives/2005/12/report_cards_ar.html) on the [Fordham Foundation's report](http://www.edexcellence.net/foundation/publication/publication.cfm?id=352&amp;pubsubid=1143) on America's science standards.  In that report, Ohio got a "B" on the science standards overall, and a 3 (out of 3) on the treatment of evolution.
+Last month [Dave Thomas reported](/archives/2005/12/report-cards-ar.html) on the [Fordham Foundation's report](http://www.edexcellence.net/foundation/publication/publication.cfm?id=352&amp;pubsubid=1143) on America's science standards.  In that report, Ohio got a "B" on the science standards overall, and a 3 (out of 3) on the treatment of evolution.
 
 The authors of the Fordham evaluation were recently made aware of the implementation of the Benchmark and Grade Level Indicator in the form of a creationist "Critical Analysis of Evolution" model lesson plan adopted by the Ohio State Board of Education, and in particular they were made aware of the flaunting of the Fordham "B" grade by ID proponent Michael Cochran of the Ohio State Board of Education at its meeting on January 10, 2006.  Cochran implied that the B grade meant that the Fordham evaluation somehow sanctioned the creationist lesson plan created to operationalize the Standards.  The motion before the Board was to delete that lesson plan from the model curriculum; the Benchmark was not mentioned in the motion on the floor ([summary of the Board meeting](http://www.ohioscience.org/)).  In response, the authors of the Fordham report on science standards, led by Paul R. Gross, have issued this statement to the press in Ohio and nationally:
 

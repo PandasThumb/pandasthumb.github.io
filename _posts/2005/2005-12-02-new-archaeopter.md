@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1655
 basename: new_archaeopter
 ---
-<img src="http://msnbcmedia.msn.com/j/msnbc/Components/Photos/051201/051201_earlybird_hmed_11a.h2.jpg" alt="" width="245" height="206" style="float:left;" />  One thing I love about this place is how random interesting tangents will spring up in the comments.  I wrote a brief post awhile back about some funny/sad [AiG cartoons](http://www.pandasthumb.org/archives/2005/11/in_the_its_so_s.html), which morphed into a discussion of snake evolution in the comments section.  Dr. Fry's comments in that discussion led to 2 follow-up posts on his work on the evolution of snake venom, and in the second thread, [here](http://www.pandasthumb.org/archives/2005/11/followup_to_dra.html), Steviepinhead has mentioned a new Archaeopteryx finding with better-preserved feet:
+<img src="http://msnbcmedia.msn.com/j/msnbc/Components/Photos/051201/051201_earlybird_hmed_11a.h2.jpg" alt="" width="245" height="206" style="float:left;" />  One thing I love about this place is how random interesting tangents will spring up in the comments.  I wrote a brief post awhile back about some funny/sad [AiG cartoons](/archives/2005/11/in-the-its-so-s.html), which morphed into a discussion of snake evolution in the comments section.  Dr. Fry's comments in that discussion led to 2 follow-up posts on his work on the evolution of snake venom, and in the second thread, [here](/archives/2005/11/followup-to-dra.html), Steviepinhead has mentioned a new Archaeopteryx finding with better-preserved feet:
 
 Steviepinhead wrote:
 
@@ -30,4 +30,4 @@ Other links:
 [Science summary](http://www.sciencemag.org/cgi/content/summary/310/5753/1418)
 [Science research article](http://www.sciencemag.org/cgi/content/abstract/sci;310/5753/1483)
 
-There was some initial discussion in the PT thread I mentioned above (Steviepinhead's post is [here](http://www.pandasthumb.org/archives/2005/11/followup_to_dra.html#comment-60978) to begin the topic), but I thought it was new enough to begin a new discussion of the findings in a thread of its own.  So...discuss!
+There was some initial discussion in the PT thread I mentioned above (Steviepinhead's post is [here](/archives/2005/11/followup-to-dra.html#comment-60978) to begin the topic), but I thought it was new enough to begin a new discussion of the findings in a thread of its own.  So...discuss!

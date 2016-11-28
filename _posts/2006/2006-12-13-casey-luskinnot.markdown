@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2667
 basename: casey_luskinnot
 ---
-<a href="http://www.evolutionnews.org/2006/12/media_backgrounder_on_kitzmill.html">Casey Luskin has a response</a> to some of the criticisms that <a href="http://www.pandasthumb.org/archives/2006/12/weekend_at_behe.html">we and others have made</a> against the DI's silly publicity stunt about <a href="http://www.pamd.uscourts.gov/kitzmiller/kitzmiller_342.pdf">the <em>Kitzmiller </em>decision.</a> We've pointed out that courts use proposed findings of fact in this way all the time and that appellate courts are fine with it in almost all cases. But Luskin claims that, no, "[t]he Third Circuit, which governs all federal courts in Pennsylvania, has strong law discouraging judges from simply adopting 'verbatim or near verbatim' the findings of fact of parties in a case." This, as we would expect, is not really accurate. 
+<a href="http://www.evolutionnews.org/2006/12/media_backgrounder_on_kitzmill.html">Casey Luskin has a response</a> to some of the criticisms that <a href="/archives/2006/12/weekend-at-behe.html">we and others have made</a> against the DI's silly publicity stunt about <a href="http://www.pamd.uscourts.gov/kitzmiller/kitzmiller_342.pdf">the <em>Kitzmiller </em>decision.</a> We've pointed out that courts use proposed findings of fact in this way all the time and that appellate courts are fine with it in almost all cases. But Luskin claims that, no, "[t]he Third Circuit, which governs all federal courts in Pennsylvania, has strong law discouraging judges from simply adopting 'verbatim or near verbatim' the findings of fact of parties in a case." This, as we would expect, is not really accurate. 
 
 <!--more-->
 

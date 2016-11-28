@@ -37,4 +37,4 @@ electronically at: http://statgen.ncsu.edu/slse/submission.html~~.  Poster submi
 Further information, including the speaker list and registration forms, is available at the Symposium web page: http://statgen.ncsu.edu/slse/.
 
 
-[Download a Flyer](http://pandasthumb.org/archives/2009/05/01/Symposium_Life_Science_Education.pdf)
+[Download a Flyer](/uploads/2009/Symposium_Life_Science_Education.pdf)

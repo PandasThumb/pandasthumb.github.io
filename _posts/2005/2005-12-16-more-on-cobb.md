@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1691
 basename: more_on_cobb
 ---
-You may remember that [yesterday](http://www.pandasthumb.org/archives/2005/12/cobb_county_dis.html) a conservative judge in the Cobb County Disclaimer appeal accused the ACLU of lying.  Specifically, Judge Carnes claimed that the ACLU had its timeline wrong about the case.  The Judge was wrong as the AJC says this morning, "[Appeals judges skeptical about Cobb ruling](http://www.ajc.com/metro/content/metro/cobb/1205/15sticker.html)".
+You may remember that [yesterday](/archives/2005/12/cobb-county-dis.html) a conservative judge in the Cobb County Disclaimer appeal accused the ACLU of lying.  Specifically, Judge Carnes claimed that the ACLU had its timeline wrong about the case.  The Judge was wrong as the AJC says this morning, "[Appeals judges skeptical about Cobb ruling](http://www.ajc.com/metro/content/metro/cobb/1205/15sticker.html)".
 
 > In an interview after Thursday's court hearing, Rogers, a self-avowed six-day biblical creationist, said she gave the petitions to the board before it decided to buy new science books with chapters on evolution.
 > 

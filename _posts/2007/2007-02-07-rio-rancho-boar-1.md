@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2669
 basename: rio_rancho_boar_1
 ---
-In August of 2005, the Rio Rancho, New Mexico School Board adopted "[Science Policy 401](http://www.nmsr.org/riorncho.htm)," which was [amended last April](http://www.pandasthumb.org/archives/2006/04/rio_rancho_poli.html), after strong protests from scientists and teachers against the [Intelligent-Design friendly policy](http://www.nmsr.org/401.htm).
+In August of 2005, the Rio Rancho, New Mexico School Board adopted "[Science Policy 401](http://www.nmsr.org/riorncho.htm)," which was [amended last April](/archives/2006/04/rio-rancho-poli.html), after strong protests from scientists and teachers against the [Intelligent-Design friendly policy](http://www.nmsr.org/401.htm).
 
 After yesterday's Rio Rancho school board elections, Policy 401 had better start looking over its shoulder.  Even though the [amended policy](http://www.rrps.net/Board/Policies/401.htm) is basically toothless in comparison to the [original version](http://www.nmsr.org/401.htm), the existence of this totally unnecessary policy still rankles many in the community. One of the policy's original supporters, Kathy Jackson, decided not to run again, and gave her support to candidate Steve Dietzel. Dietzel, however, was crushed by strong pro-science candidate Divyesh Patel in a landslide vote.  So, the creationist-leaning members of the board now find themselves in the minority, and policy 401 itself may be on the chopping block soon.
 

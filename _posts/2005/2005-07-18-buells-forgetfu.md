@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1157
 basename: buells_forgetfu
 ---
-Last week, Reed Cartwright posted a [news item here](http://www.pandasthumb.org/archives/2005/07/creationist_cre.html) about Jon Buell, director of the Foundation for Thought and Ethics (FTE), who testified that FTE was not a religious organization and that an early draft of the FTE supplemental textbook, _Of Pandas and People_, that used the word "creationism" still did not imply religious entanglement:
+Last week, Reed Cartwright posted a [news item here](/archives/2005/07/creationist-cre.html) about Jon Buell, director of the Foundation for Thought and Ethics (FTE), who testified that FTE was not a religious organization and that an early draft of the FTE supplemental textbook, _Of Pandas and People_, that used the word "creationism" still did not imply religious entanglement:
 
 > Buell said the word creationism was a "placeholder term." The definition of creationism changed to include a religious context after the draft was written, so the writers changed the word, he said.
 

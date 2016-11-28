@@ -16,7 +16,7 @@ In addition to [watching the news on Kansas](http://news.google.com/news?hl=en&a
 
 [The "Vise Strategy" Undone: _Kitzmiller et al. v. Dover Area School District_](http://www.csicop.org/intelligentdesignwatch/kitzmiller.html) -- On the CSICOP website, Barbara Forrest recounts her experience during the _Kitzmiller_ case, including the repeated efforts of hurricanes, the Thomas More Law Center, and the Discovery Institute to keep her off the witness stand, and the juvenile antics by Dembski and the Discovery Institute.
 
-[In the matter of Berkeley v. Berkeley](http://sciencereview.berkeley.edu/articles.php?issue=10&amp;article=evolution) -- the _Berkeley Science Review_ reviews the events of _Kitzmiller_, and interviews Kevin Padian and Phillip Johnson.  Johnson even [admits defeat](http://www.pandasthumb.org/archives/2006/08/is_id_doa.html), sort of.
+[In the matter of Berkeley v. Berkeley](http://sciencereview.berkeley.edu/articles.php?issue=10&amp;article=evolution) -- the _Berkeley Science Review_ reviews the events of _Kitzmiller_, and interviews Kevin Padian and Phillip Johnson.  Johnson even [admits defeat](/archives/2006/08/is-id-doa.html), sort of.
 
 [Stanford Medicine: "The Evolutionary War"](http://mednews.stanford.edu/stanmed/2006summer/) -- Evolution and Medicine, commentary on the _Kitzmiller_ case.  Those folks at Stanford don't like ID much, I have to say.
 

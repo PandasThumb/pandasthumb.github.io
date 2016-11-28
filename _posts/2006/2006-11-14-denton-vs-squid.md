@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2622
 basename: denton_vs_squid
 ---
-In a [recent article](http://www.pandasthumb.org/archives/2006/11/witt_reviews_co.html) in Touchstone Magazine, Jonathan Witt, fellow for the Discovery Institute&rsquo;s Center for ~~the renewal of~~ science and culture, has written [a review of Francis Collins&rsquo; book](http://www.touchstonemag.com/archives/article.php?id=19-08-032-f) &ldquo; The Language of God: A Scientist Presents Evidence for Belief&rdquo;. Amongst other things in this review he claims that [Michael Denton](http://www.arn.org/docs/odesign/od192/invertedretina192.htm) has demonstrated that the "backwards wiring" of the mammalian retina improves oxygen flow and is good design.
+In a [recent article](/archives/2006/11/witt-reviews-co.html) in Touchstone Magazine, Jonathan Witt, fellow for the Discovery Institute&rsquo;s Center for ~~the renewal of~~ science and culture, has written [a review of Francis Collins&rsquo; book](http://www.touchstonemag.com/archives/article.php?id=19-08-032-f) &ldquo; The Language of God: A Scientist Presents Evidence for Belief&rdquo;. Amongst other things in this review he claims that [Michael Denton](http://www.arn.org/docs/odesign/od192/invertedretina192.htm) has demonstrated that the "backwards wiring" of the mammalian retina improves oxygen flow and is good design.
 
 Denton of course, has done no such thing. Since I am on a role with things visual, I am reposting an updated version of an earlier article on this topic. 
 

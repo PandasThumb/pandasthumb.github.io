@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1384
 basename: more_reaction_t
 ---
-Today, the Faculty Senate of the [New Mexico Institute of Mining and Technology](http://www.nmt.edu) issued a statement strongly condemning Rio Rancho's new "science" policy, which has been discussed previously on the Thumb [here](http://www.pandasthumb.org/archives/2005/08/rio_rancho_nm_s.html) and [here](http://www.pandasthumb.org/archives/2005/09/rio_rancho_nm_u.html).
+Today, the Faculty Senate of the [New Mexico Institute of Mining and Technology](http://www.nmt.edu) issued a statement strongly condemning Rio Rancho's new "science" policy, which has been discussed previously on the Thumb [here](/archives/2005/08/rio-rancho-nm-s.html) and [here](/archives/2005/09/rio-rancho-nm-u.html).
 
 Also, an excellent letter opposing the policy appeared in the [Rio Rancho Observer](http://www.observer-online.com/).
 

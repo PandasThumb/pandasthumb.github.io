@@ -22,6 +22,6 @@ First, the idea that Wallace was ever wildly unpopular is ridiculous, he was a g
 > 
 > He also fails to consider the difficulty, that, if these canals are necessary for existence in Mars, how did the inhabitants ever reach a sufficiently large population with surplus food and leisure enabling them to rise from the low condition of savages to one of civilisation, and ultimately to scientific knowledge? Here again is a dilemma which is hard to overcome. Only a _dense_ population with _ample_ means of subsistence could possibly have constructed such gigantic works; but, given these two conditions, no adequate motive existed for the conception and execution of them--even if they were likely to be of any use, which I have shown they could not be.
 
-Whoops!  And now that I'm thinking of it, we've seen [IDists shooting themselves in the foot with Lowell's Martians before](http://www.pandasthumb.org/archives/2006/03/life_on_mars_th.html).
+Whoops!  And now that I'm thinking of it, we've seen [IDists shooting themselves in the foot with Lowell's Martians before](/archives/2006/03/life-on-mars-th.html).
 
 P.S.: Go vote!!

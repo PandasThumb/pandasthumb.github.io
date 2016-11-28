@@ -8,13 +8,13 @@ blog_id: 2
 post_id: 2979
 basename: update_on_pnas
 ---
-Those who have been following the comments section of the [first post](http://www.pandasthumb.org/archives/2007/04/flagellum_evolu_1.html) on the [PNAS flagellum paper](http://www.pnas.org/cgi/content/abstract/0700266104v1), entitled "[Stepwise formation of the bacterial flagellar system](http://www.pnas.org/cgi/content/abstract/0700266104v1)," will see that there have been several developments: [ScienceNOW at _Science_ magazine](http://sciencenow.sciencemag.org/cgi/content/full/2007/417/3) has uncritically reported the PNAS paper's all-flagellar-genes-came-from-one conclusion; [Behe](http://www.evolutionnews.org/2007/04/darwinism_gone_wild_neither_se.html) and [other IDers](http://www.arn.org/blogs/index.php/literature/2007/04/19/sequence_similarities_in_the_bacterial_f) are getting into the act, although they are so clueless they don't really even understand why the PNAS paper is problematic; and [PZ Myers](http://scienceblogs.com/pharyngula/2007/04/uhohpoor_science_alert.php) [and I](http://www.pandasthumb.org/archives/2007/04/flagellum_evolu_1.html#comment-171026) have dropped hints that several of us PT bloggers are reaching the conclusion that this paper is looking worse, not better, after close examination.  We will have more on the technical methodology issues in the next few days.  For the moment I would just like to offer a simple response to some comments, and a simple but powerful reason that the "all core flagellum genes are descended from one ancestral gene" does not work.
+Those who have been following the comments section of the [first post](/archives/2007/04/flagellum-evolu-1.html) on the [PNAS flagellum paper](http://www.pnas.org/cgi/content/abstract/0700266104v1), entitled "[Stepwise formation of the bacterial flagellar system](http://www.pnas.org/cgi/content/abstract/0700266104v1)," will see that there have been several developments: [ScienceNOW at _Science_ magazine](http://sciencenow.sciencemag.org/cgi/content/full/2007/417/3) has uncritically reported the PNAS paper's all-flagellar-genes-came-from-one conclusion; [Behe](http://www.evolutionnews.org/2007/04/darwinism_gone_wild_neither_se.html) and [other IDers](http://www.arn.org/blogs/index.php/literature/2007/04/19/sequence_similarities_in_the_bacterial_f) are getting into the act, although they are so clueless they don't really even understand why the PNAS paper is problematic; and [PZ Myers](http://scienceblogs.com/pharyngula/2007/04/uhohpoor_science_alert.php) [and I](/archives/2007/04/flagellum-evolu-1.html#comment-171026) have dropped hints that several of us PT bloggers are reaching the conclusion that this paper is looking worse, not better, after close examination.  We will have more on the technical methodology issues in the next few days.  For the moment I would just like to offer a simple response to some comments, and a simple but powerful reason that the "all core flagellum genes are descended from one ancestral gene" does not work.
 
 First, the comments.  Some commentators have reacted along the following lines: (1) maybe the paper isn't so bad, just speculative; and/or (2) maybe I've misread the paper or its conclusion was poorly worded, and maybe the authors just meant to argue that _some_ of the 24 core flagellar proteins were related, not all 24 proteins.
 
 Unfortunately -- and I mean unfortunately because I wish one of these options was true -- neither idea is a supportable interpretation of the authors' views.  Have another look at Figure 3 from the Liu & Ochman paper:
 
-<img src="http://www.pandasthumb.org/images/Liu_Ochman_fig3.jpg" alt="" style="" />
+<img src="/uploads/2007/Liu_Ochman_fig3.jpg" alt="" style="" />
 
 
 * The boxes contain the names of all 24 core flagellar proteins that the authors identified.
@@ -37,7 +37,7 @@ In some ways, Figure 3 confirms conventional wisdom.  The axial filament of the 
 
 The long tube that these proteins form is called the "axial filament" and the proteins as a group are "axial proteins."  
 
-Now, if you remember [Table 1 from Pallen and Matzke 2006](http://www.pandasthumb.org/archives/2006/09/flagellum_evolu.html), a simple protein BLAST search will return two groups of relatives within the axial proteins: 
+Now, if you remember [Table 1 from Pallen and Matzke 2006](/archives/2006/09/flagellum-evolu.html), a simple protein BLAST search will return two groups of relatives within the axial proteins: 
 
 
 * FlgBCFGEK, the rod+hook+first linker protein, is one related group
@@ -68,7 +68,7 @@ Here they are just talking about the _E. coli_ K12 genome. We have already discu
 
 Let's look at Figure 3 again.
 
-<img src="http://www.pandasthumb.org/images/Liu_Ochman_fig3.jpg" alt="" style="" />
+<img src="/uploads/2007/Liu_Ochman_fig3.jpg" alt="" style="" />
 
 The _E. coli_ hits are the blue lines, and the matched E. coli proteins are the yellow boxes.  I count ~~14~~ 15 blue lines linking 10 yellow boxes, all axial proteins.
 
@@ -134,31 +134,31 @@ This conclusion sentence is the 5th or 6th time the authors explicitly endorse t
 
 Now, why am I skeptical?  I posted some scattershot reasons on Monday.  Some us PT posters are chewing on more technical issues.  But to really get a visceral sense of the problem of claiming that all the flagellar genes are homologous, you just have to look at some structures.  Here is FliI, the ATPase that powers the secretion of axial proteins like FliC:
 
-<img src="http://www.pandasthumb.org/images/FliI_structure.jpg" alt="" />
+<img src="/uploads/2007/FliI_structure.jpg" alt="" />
 
 (from [Imada et al. 2007, _PNAS_](http://www.pnas.org/cgi/doi/10.1073/pnas.0608090104))
 
 Here is FliC, aka flagellin, which is supposed to be just two homology links away from FliI in the Liu/Ochman Figure 3:
 
-<img src="http://www.pandasthumb.org/images/FliC_single.jpg" alt="" />
+<img src="/uploads/2007/FliC_single.jpg" alt="" />
 
 (from [Yonekura et al. 2003, _Nature_](http://www.nature.com/nature/journal/v424/n6949/fig_tab/nature01830_F1.html))
 
 You can also compare the two proteins when assembled into multimers.  FliI assembles into a homohexamer:
 
-<img src="http://www.pandasthumb.org/images/FliI_hexamer.jpg" alt="" />
+<img src="/uploads/2007/FliI_hexamer.jpg" alt="" />
 
 (from [Imada et al. 2007, _PNAS_](http://www.pnas.org/cgi/doi/10.1073/pnas.0608090104))
 
 FliC assembles into the flagellar filament:
 
-<img src="http://www.pandasthumb.org/images/flagellin_structure.jpg" alt="" />
+<img src="/uploads/2007/flagellin_structure.jpg" alt="" />
 
 (from [here](http://www.fbs.osaka-u.ac.jp/eng/publications/namba2003/Namba2003eng.html))
 
 For comparison, this is what two protein structures look like when they are homologous.  These are the homologous domains in CheC (a chemotaxis protein in some flagella), and FliM (part of the flagellum base, which interacts with chemotaxis proteins to produce the switching in rotation direction).  (FliM is basically two main domains, homologous to CheC + FliN.  Liu & Ochman caught the FliN homology but apparently not the CheC one.)
 
-<img src="http://www.pandasthumb.org/images/FliM-CheC_homology.png" alt="" style="" />
+<img src="/uploads/2007/FliM-CheC_homology.png" alt="" style="" />
 (from [Park et al. 2006](http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Structure+of+FliM+provides+insight+into+assembly+of+the+switch+complex+in+the+bacterial+flagella+motor&amp;btnG=Search), [in PNAS](http://www.pnas.org/cgi/doi/10.1073/pnas.0602811103)) 
 
 You might have noticed that FliC and FliI do not exactly exhibit the kind of structural similarity shown by the homologous FliM and CheC.

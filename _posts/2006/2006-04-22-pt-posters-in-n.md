@@ -22,7 +22,7 @@ If you are disappointed that you don't have a subscription to _Nature Immunology
 
 We are quite tickled that this story -- and it is a great story -- was interesting enough to the editors of _Nature Immunology_ to be published.  We felt it was important to let the immunology community know that someone is calling the pseudoscientists to account, and that the immunology community's hard work over many decades cannot be forever ignored by the ID movement.
 
-As the _Nature Immunology_ article links to the Panda's Thumb, I would like to welcome any new visitors we might have.  Please see our [Welcome Message](http://www.pandasthumb.org/archives/2004/03/welcome_to_the.html) for some background.  Several great posts have been put up in the last few days and are available from our front page.  You might also be interested in [previous blogposts on evolutionary immunology](http://www.google.com/search?sourceid=mozclient&amp;ie=utf-8&amp;oe=utf-8&amp;q=site:www.pandasthumb.org+immune+system+evolution), the [_Kitzmiller_ case](http://www.pandasthumb.org/archives/kitzmiller_ruling/), and the [Evolution of Creationism into "Intelligent Design."](http://www.pandasthumb.org/archives/evolution_of_creationism/index.html)
+As the _Nature Immunology_ article links to the Panda's Thumb, I would like to welcome any new visitors we might have.  Please see our [Welcome Message](/archives/2004/03/welcome-to-the.html) for some background.  Several great posts have been put up in the last few days and are available from our front page.  You might also be interested in [previous blogposts on evolutionary immunology](http://www.google.com/search?sourceid=mozclient&amp;ie=utf-8&amp;oe=utf-8&amp;q=site:www.pandasthumb.org+immune+system+evolution), the [_Kitzmiller_ case](http://www.pandasthumb.org/archives/kitzmiller_ruling/), and the [Evolution of Creationism into "Intelligent Design."](http://www.pandasthumb.org/archives/evolution_of_creationism/index.html)
 
 For an explanation of the picture at the top of the post, [please see here](http://www2.ncseweb.org/kvd/exhibits/immune/immune_evo_annotated_bib.html#why).
 
@@ -40,7 +40,7 @@ The editors of _Nature Immunology_ have put up the [Bottaro _et al_. article for
 > [http://www2.ncseweb.org/wp/?p=124](http://www2.ncseweb.org/wp/?p=124)
 > 
 > **Panda's Thumb: PT posters in _Nature Immunology_**
-> [http://www.pandasthumb.org/archives/2006/04/pt_posters_in_n.html](http://www.pandasthumb.org/archives/2006/04/pt_posters_in_n.html)
+> [/archives/2006/04/pt-posters-in-n.html](/archives/2006/04/pt-posters-in-n.html)
 > 
 > **NCSE: Supplementary Material**
 > [http://www2.ncseweb.org/kvd/exhibits/immune/index.html](http://www2.ncseweb.org/kvd/exhibits/immune/index.html)
