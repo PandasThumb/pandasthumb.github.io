@@ -1,5 +1,13 @@
 #!/usr/bin/perl
 
+# # Rename posts from underscore to hypen
+
+# find _posts -type f -execdir sh -c 'mv "$0" "${0//_/-}"' {} \;
+
+# # Extract the urls of all links and images
+
+# grep -Eoirh '<(a|img)\s+[^>]+>' ../_site | grep -Poi '(?<=src=|href=)("[^"]*"|'"'[^']*'|"'[^> ]*)' | sed -e 's|^["'"'"'] *||' -e 's| *["'"'"']$||' | sort -u > old_urls.txt
+
 use strict;
 use warnings;
 use v5.24;
@@ -31,6 +39,13 @@ while(<>) {
 	# file already exists
 	next if(-f "$output_dir$path");
 
+	# try renaming _ to -
+	my $newpath = $path =~ tr/_/-/r;
+	if(-f "$output_dir$newpath") {
+		say("$old\t$newpath");
+		next;
+	}
+
 	# file exists in the old site
 	my $ipath = "$input_dir$path";
 	if(-f $ipath) {
@@ -41,8 +56,10 @@ while(<>) {
 	 		my $year = (localtime($time))[5]+1900;
 	 		my $file =  (File::Spec->splitpath($ipath))[2];
 	 		my $destdir = "$output_dir/../uploads/$year/";
-	 		mkdir($destdir) unless(-d $destdir);
-	 		copy($ipath, $destdir) or die;
+			mkdir($destdir) unless(-d $destdir);
+			unless(-f "$destdir$file") {
+	 			copy($ipath, $destdir) or die;
+	 		}
 			say("$old\t/uploads/$year/$file");		
 	 	}
 	}
