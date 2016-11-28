@@ -44,7 +44,7 @@ overflow:auto !important;
 } 
 </style>
 <ul id="mygalleryview" >
-<li><img src="http://pandasthumb.org/archives/2011/08/contest/Sky/lucas-great%20egret-ardea%20alba.jpg" />
+<li><img src="/uploads/2011/lucas-great%20egret-ardea%20alba.jpg" />
 <div class="panel-overlay">
 <i>Ardea alba</i>, <a href="http://en.wikipedia.org/wiki/Great_Egret">great egret</a>, by Cran Lucas &mdash; Bickham-Dickson Park in Shreveport, Louisiana, a local wetlands within the city limits. The egret is lunching on a local Louisiana crawfish, or "mudbug."
 </div>

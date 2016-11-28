@@ -45,7 +45,7 @@ Heavens Peak by **Jim Kocher**.
 
 
 <figure>
-<img src="http://pandasthumb.org/archives/2015/07/01/JimKocher_HeavensPeak%26Moon1.jpg" alt="JimKocher_HeavensPeak&amp;amp;Moon1.jpg" width="600" height="450" />
+<img src="/uploads/2015/JimKocher_HeavensPeak&Moon1.jpg" alt="JimKocher_HeavensPeak&amp;amp;Moon1.jpg" width="600" height="450" />
 <figcaption markdown="span">
 <big>[Heavens Peak, Glacier Wall, and waning 3rd quarter Moon](https://en.wikipedia.org/wiki/Heavens_Peak), north shore of Avalanche Lake, Sept., 1984. Oceanus Procellarum, Mare Humorum, and high-albedo Byrgius-A ray system are detectable on the Moon. Kodachrome 64.</big> 
 
@@ -93,7 +93,7 @@ Partial eclipse of the sun by **Marilyn Susek**.
 
 
 <figure>
-<img src="http://pandasthumb.org/archives/2015/07/01/Susek.Parcial_Solar_Eclips_March_3rd_2015%20%28600x450%29.jpg" alt="Susek.Parcial_Solar_Eclips_March_3rd_2015 (600x450).jpg" width="600" height="450" />
+<img src="/uploads/2015/Susek.Parcial_Solar_Eclips_March_3rd_2015%20(600x450).jpg" alt="Susek.Parcial_Solar_Eclips_March_3rd_2015 (600x450).jpg" width="600" height="450" />
 <figcaption markdown="span">
 <big>[Partial eclipse of the Sun](http://en.wikipedia.org/wiki/Solar_eclipse_of_March_20,_2015), Ravenfield, Rotherham, S. Yorks., UK.</big>
 

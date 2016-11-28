@@ -14,13 +14,13 @@ I will use a recent paper by Andreas Wagner "Hypothesis: Robustness, evolvabilit
 
 Let's first look at a simple RNA molecule
 
-<img src="http://pandasthumb.org/archives/Picture%205.png" alt="Picture 5.png" width="455" height="354" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="/uploads/2008/Picture%205.png" alt="Picture 5.png" width="455" height="354" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 Note how some of the nucleotides are circled grey? These are locations which are neutral with respect to a mutation. In other words, a mutation to any of these does not change the folding of the RNA molecule.
 
 Now let's mutate one of these neutral nucleotides and see what happens. The nucleotide at position X is changed from a C into a G and as expected, the RNA molecule remains the same (after all X was a neutral location).
 
-<img src="http://pandasthumb.org/archives/Picture%207.png" alt="Picture 7.png" width="798" height="655" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="/uploads/2008/Picture%207.png" alt="Picture 7.png" width="798" height="655" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 However, some previously neutral sequences have now lost their neutrality (as indicated with a minus) and some previously non-neutral sites have become neutral (as indicated with a plus).
 

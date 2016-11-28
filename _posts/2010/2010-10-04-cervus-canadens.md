@@ -13,7 +13,7 @@ Photograph by **Tom Faller**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="http://pandasthumb.org/archives/2010/10/03/Faller.Appalachian%20Elk.jpg" alt="Faller.Appalachian Elk.jpg" width="600" height="529" />
+<img src="/uploads/2010/Faller.Appalachian%20Elk.jpg" alt="Faller.Appalachian Elk.jpg" width="600" height="529" />
 <figcaption markdown="span">
 <big>_Cervus canadensis nelsoni_ -- [American elk](http://en.wikipedia.org/wiki/Elk), or wapiti, Great Smoky Mountains National Park, North Carolina.</big>  This subspecies has been introduced into the Appalachian Mountains, tagged, and monitored. It replaces an extinct subspecies.
 

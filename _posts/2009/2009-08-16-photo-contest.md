@@ -22,7 +22,7 @@ Fulgurite by Virginia Pasek &mdash; Glass formed as lightning strikes sand or so
 Stalactite by Quentin Cobb &mdash; Big Stalactite at Doolin Cave. Largest Irish stalactite in the world.    At 7.3 meters long it contains 33 tonnes of calcite. The Burren, County Clare, Republic of Ireland, 1976.
 </div>
 </li>
-<li><img src="http://pandasthumb.org/archives/2009/08/09/Malan.%20Centre_of_the_Galaxy.jpg" />
+<li><img src="/uploads/2009/Malan.%20Centre_of_the_Galaxy.jpg" />
 <div class="panel-overlay">
 Center of the Galaxy by François Malan &mdash; The center of the Milky Way galaxy, showing Kaus Australis, Kaus Media, Shaula, Lesath, Nunki, Phi Sagittarii. Ptolemy's Cluster (M7), and the Lagoon Nebula (M8). Photographed from the ground in Sutherland, South Africa.
 </div>
@@ -32,12 +32,12 @@ Center of the Galaxy by François Malan &mdash; The center of the Milky Way gala
 Stromatolites by James Kocher &mdash; Fossilized colonies of filamentary cyanobacteria (blue-green algae) and other microbes. Gunflint formation, approximately 1.9 billion years old. Microscopic fossils are sheaths and external cellular secretions/coverings very much like modern cyanobacteria.  Whitefish River, Lybster Township, Ontario, August, 1992.
 </div>
 </li>
-<li><img src="http://pandasthumb.org/archives/2009/08/09/Thysse.Compsognathid%20theropod%20%28Huaxiagnathus%20orientalis%29.jpg" />
+<li><img src="/uploads/2009/Thysse.Compsognathid%20theropod%20(Huaxiagnathus%20orientalis).jpg" />
 <div class="panel-overlay">
 Huaxiagnathus orientalis by Adrian Thysse &mdash; Compsognathid theropod
 </div>
 </li>
-<li><img src="http://pandasthumb.org/archives/2009/08/09/Klaas.Painted%20Hills.jpg" />
+<li><img src="/uploads/2009/Klaas.Painted%20Hills.jpg" />
 <div class="panel-overlay">
 Painted Hills by Michael Klaas &mdash;  exposed strata of geological eras when this section of Central Oregon was a river floodplain. Colors are formed by layers of volcanic deposits that fell from eruptions in the Cascade Range 35 million years ago. John Day Fossil Beds National Monument, Oregon.
 </div>

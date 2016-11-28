@@ -14,6 +14,7 @@ use v5.24;
 
 use File::Type;
 use File::Copy;
+use URI::Encode qw(uri_encode uri_decode);
 
 my $input_dir = shift || die;
 my $output_dir = shift || die;
@@ -36,12 +37,15 @@ while(<>) {
 	# url is not one of ours
 	next unless($host eq '' || $host =~ /pandasthumb.org$/);
 
+	$path = uri_decode($path);
+
 	# file already exists
 	next if(-f "$output_dir$path");
 
 	# try renaming _ to -
 	my $newpath = $path =~ tr/_/-/r;
 	if(-f "$output_dir$newpath") {
+		$newpath = uri_encode($newpath);
 		say("$old\t$newpath");
 		next;
 	}
@@ -60,7 +64,8 @@ while(<>) {
 			unless(-f "$destdir$file") {
 	 			copy($ipath, $destdir) or die;
 	 		}
-			say("$old\t/uploads/$year/$file");		
+	 		$newpath = uri_encode("/uploads/$year/$file");
+			say("$old\t$newpath");
 	 	}
 	}
 }

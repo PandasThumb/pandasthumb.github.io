@@ -20,7 +20,7 @@ Right now you are scratching your heads and saying, “Alright, that’s pretty 
 
 Proteins bind to each other by matching up knobs and depressions on the proteins surfaces, in much the same way that a key fits into a lock. It is a bit more complicated to be sure, as well as matching shapes, the amino acids that makeup the proteins surface cam be neutral, charged or oily, and these properties have to match as well. Also, both the lock and the key are “floppy” as proteins are flexible and can (and do) move and flex so that what you think are not complementary shapes can flex into shapes that bind. Nonetheless, the lock and key analogy is helpful to visualize proteins binding to each other.
 
-<img src="http://pandasthumb.org/archives/images/lock%26key.gif" alt="lock&amp;amp;key.gif" width="612" height="212" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />Lock and Key binding using the small molecule adrenaline as an example
+<img src="/uploads/2007/lock&key.gif" alt="lock&amp;amp;key.gif" width="612" height="212" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />Lock and Key binding using the small molecule adrenaline as an example
 
 Now, where does chlorophyll fit in?  The above lock and key model is also valid for [binding of small molecules](http://pandasthumb.org/archives/2007/11/an-open-letter-7.html). Everything I said about protein-protein binding applies exactly to protein-small molecule binding. Small molecules have to fit the shape, charge and “oilyness” of the protein “lock” too,
 

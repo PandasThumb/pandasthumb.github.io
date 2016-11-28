@@ -13,7 +13,7 @@ Photograph by **Matt W. Ford**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="http://pandasthumb.org/Ford.North%20Menan.jpg" alt="Ford.North Menan.jpg" width="600" height="399" />
+<img src="/uploads/2012/Ford.North%20Menan.jpg" alt="Ford.North Menan.jpg" width="600" height="399" />
 <figcaption markdown="span">
 <big>Wind-carved [tuff formations](http://en.wikipedia.org/wiki/Tuff) on [
 North Menan Butte](), Snake River Plain, Idaho.</big>

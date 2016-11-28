@@ -13,7 +13,7 @@ Partial eclipse of the sun by **Marilyn Susek**.
 Photography Contest, **Finalist**.
 
 <figure>
-<img src="http://pandasthumb.org/archives/2015/07/01/Susek.Parcial_Solar_Eclips_March_3rd_2015%20%28600x450%29.jpg" alt="Susek.Parcial_Solar_Eclips_March_3rd_2015 (600x450).jpg" width="600" height="450" />
+<img src="/uploads/2015/Susek.Parcial_Solar_Eclips_March_3rd_2015%20(600x450).jpg" alt="Susek.Parcial_Solar_Eclips_March_3rd_2015 (600x450).jpg" width="600" height="450" />
 <figcaption markdown="span">
 <big>[Partial eclipse of the Sun](http://en.wikipedia.org/wiki/Solar_eclipse_of_March_20,_2015), Ravenfield, Rotherham, S. Yorks., UK.</big>
 

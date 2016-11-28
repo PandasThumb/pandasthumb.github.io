@@ -27,7 +27,7 @@ Photograph by **Alexander Bortolot**.
 
 
 <figure>
-<img src="http://pandasthumb.org/bortolot_ice%20bubbles.jpg" alt="bortolot_ice bubbles.jpg" width="600" height="448" />
+<img src="/uploads/2013/bortolot_ice%20bubbles.jpg" alt="bortolot_ice bubbles.jpg" width="600" height="448" />
 <figcaption markdown="span">
 <big>[Methane gas bubbles](http://www.uniteusforclimate.org/pdf/UniteUs_1112_MethaneTheOtherGreenhouseGas.pdf) in clear lake ice in Wisconsin.</big>
 
@@ -91,7 +91,7 @@ Photograph by **Robin Lee-Thorp**.
 
 
 <figure>
-<img src="http://pandasthumb.org/Lee-Thorp.Great%20Golden%20Digger.JPG" alt="Lee-Thorp.Great Golden Digger.JPG" width="595" height="563" />
+<img src="/uploads/2013/Lee-Thorp.Great%20Golden%20Digger.JPG" alt="Lee-Thorp.Great Golden Digger.JPG" width="595" height="563" />
 <figcaption markdown="span">
 <big>[Sphex ichneumoneus](http://davesgarden.com/guides/articles/view/771/) - great golden digger wasp with a katydid (family _Tettigoniidae_).</big>
 

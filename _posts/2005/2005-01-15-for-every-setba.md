@@ -62,7 +62,7 @@ The actual opinion reveals that Judge Cooper acknowledged no such thing.  The se
 > 
 > Selman v Cobb p33, italics mine
 
-The judge found that some scientists question "certain aspects of evolutionary theory" not "Darwin's theory."  The phrasing is too vague to be taken as support for any "intelligent design" politics.  More importantly, the judge made no finding about the basis of the questions of these _amici_ scientists, mostly chemists, who signed a brief prepared by the Discovery Institute.  The Discovery Institute is simply spinning an unfavorable result.  ([Another _amicius brief_](http://www.pandasthumb.org/pt-archives/COBB%20COUNTY%20AMICUS.pdf), which I helped write, raised questions about the basis of anti-evolutionary scientists.) 
+The judge found that some scientists question "certain aspects of evolutionary theory" not "Darwin's theory."  The phrasing is too vague to be taken as support for any "intelligent design" politics.  More importantly, the judge made no finding about the basis of the questions of these _amici_ scientists, mostly chemists, who signed a brief prepared by the Discovery Institute.  The Discovery Institute is simply spinning an unfavorable result.  ([Another _amicius brief_](/uploads/2005/COBB%20COUNTY%20AMICUS.pdf), which I helped write, raised questions about the basis of anti-evolutionary scientists.) 
 
 > The ACLU's focus on the whole theory vs. fact issue was just a side-show. The real issue is whether or not students should learn about both the evidence for Darwin's theory, as well as that which challenges it.
 

@@ -22,7 +22,7 @@ After months of exuberant propaganda about the book from the Discovery Institute
 
 _Darwin's Doubt_ is festooned with illustrations, mostly redrawn from other sources in a rather strange cartoon-like format also found in other recent ID books.  However, there is never an illustration like these:
 
-<img src="http://pandasthumb.org/Cambrian%20Explosion%20Marshall%202006.png" alt="" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="/uploads/2008/Cambrian%20Explosion%20Marshall%202006.png" alt="" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 (Marshall 2006)
 
 <img src="/uploads/2006/cambrian.JPG" alt="" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />

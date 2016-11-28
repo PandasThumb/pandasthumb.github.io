@@ -49,7 +49,7 @@ overflow:auto !important;
 Cooling pahoehoe lava from <a href="http://www.darkerview.com/darkview/index.php?/categories/28-Kilauea">Kilauea</a>,  Hawaii, by Andrew Cooper &mdash; basaltic lava.  
 </div>
 </li>
-<li><img src="http://pandasthumb.org/archives/2011/08/contest/Land/Hughes.Diaphania hyalinata%20-%20Melonworm Moth.jpg" />
+<li><img src="/uploads/2011/Hughes.Diaphania%20hyalinata%20-%20Melonworm%20Moth.jpg" />
 <div class="panel-overlay">
 <i>Diaphania hyalinata</i>, <a href="http://bugguide.net/node/view/348761">melonworm moth</a>, by Richard Hughes &mdash; Brandon, Florida. The moth waves its feathery tail structure back and forth to disperse <a href="http://insects.about.com/od/behaviorcommunication/f/how_insects_smell.htm">pheromones</a> for attracting a mate. 
 </div>

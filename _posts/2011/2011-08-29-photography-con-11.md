@@ -44,7 +44,7 @@ overflow:auto !important;
 } 
 </style>
 <ul id="mygalleryview" >
-<li><img src="http://pandasthumb.org/archives/2011/08/contest/Sea/Brooks%20Ammonite%202.jpg" />
+<li><img src="/uploads/2011/Brooks%20Ammonite%202.jpg" />
 <div class="panel-overlay">
 <a href="en.wikipedia.org/wiki/Ammonite">Ammonite fossils</a>, by Amanda Brooks &mdash; Benbrook Lake, southwest Tarrant County, just outside Fort Worth, Texas. This area is known for the <a href="http://geology.com/research/barnett-shale-gas.shtml">Barnett Shale formation</a> which is formed by sedimentary rock from about 350 Ma.
 </div>

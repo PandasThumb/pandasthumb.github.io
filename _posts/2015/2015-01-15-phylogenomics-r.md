@@ -13,7 +13,7 @@ What do flamingoes and pigeons have in common? You might say very little---after
 The groundbreaking new study used phylogenomics to compare the genes of 48 bird species. It is the first study of its kind to use whole genomes to construct the tree of birds, thousands of genes altogether. Prior studies attempting to resolve some of the more controversial bird relationships only examined 10--20 genes, meaning that the researchers in the new study had much more data to analyze and could be more confident in their results.
 
 <figure>
-<img src="http://pandasthumb.org/archives/2014/12/19/flamingo%20and%20pigeon.jpg" alt="" width="600" height="250" style="" />
+<img src="/uploads/2014/flamingo%20and%20pigeon.jpg" alt="" width="600" height="250" style="" />
 <figcaption markdown="span">
 Flamingoes and pigeons are more closely related than you might think, according to a new study.     Images: Wikipedia
 

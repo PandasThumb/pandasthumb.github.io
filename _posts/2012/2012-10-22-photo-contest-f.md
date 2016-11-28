@@ -61,7 +61,7 @@ overflow:auto !important;
 <a href="http://en.wikipedia.org/wiki/Hyakutake">Comet Hyakutake</a>, by <b>James Kocher</b>&mdash;Cuivre River State Park, Troy, Missouri, March 26, 1996. Ektachrome 800.  
 </div>
 </li>
-<li><img src="http://pandasthumb.org/archives/2012/10/moulton.Agapornis%20_roseicollis.jpg" />
+<li><img src="/uploads/2012/moulton.Agapornis%20_roseicollis.jpg" />
 <div class="panel-overlay">
 <a href="http://www.azfo.org/pfLoveBird/pfloMain.html">Agapornis roseicollis</a>, by <b>Pete Moulton</b>&mdash;rosy-faced lovebird, Gilbert, Arizona. Mr. Moulton writes, "These little parrots have established a thriving population in the Phoenix metro area. ...  Although [they] have been observed in the Phoenix metro area since the 1980s, the first actual census of this population wasn't taken until 2010."
 </div>
@@ -71,7 +71,7 @@ overflow:auto !important;
 <a href="http://en.wikipedia.org/wiki/Cinnabar_moth">Tyria jacobaeae</a>, by <b>Marilyn Susek</b>&mdash;cinnabar moth.
 </div>
 </li>
-<li><img src="http://pandasthumb.org/archives/2012/10/Wysocki.Eastern%20Tiger%20Swallowtail%20Female01.jpg" />
+<li><img src="/uploads/2012/Wysocki.Eastern%20Tiger%20Swallowtail%20Female01.jpg" />
 <div class="panel-overlay">
 <a href="http://www.butterfliesandmoths.org/species/Papilio-glaucus">Papilio glaucus</a>, by <b>Dragoness</b>&mdash;dark morph of the eastern tiger swallowtail butterfly.
 </div>

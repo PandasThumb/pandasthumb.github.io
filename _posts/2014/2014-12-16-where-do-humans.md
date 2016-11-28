@@ -18,9 +18,9 @@ To understand the first misconception, let's look at a phylogenetic tree of plan
 
 This type of thinking also leads us to place humans at the end of phylogenetic trees. However, this placement is arbitrary and trees can be drawn in many equivalent ways. For example, compare a tree of primates with the branches rotated. The tree on the left, with humans at the top of the tree, is one you might see more often. But both of these trees are actually identical, and the relationships between species that can be inferred from the tree on the right is the same as the relationships in the tree on the left. Species at the tip of a tree are equidistant from the root common ancestor, so they can be considered evolutionarily equivalent.
 
-<img src="http://pandasthumb.org/archives/2014/12/15/primate%20tree%201.png" alt="primate tree 1.png" width="300" height="250" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
+<img src="/uploads/2014/primate%20tree%201.png" alt="primate tree 1.png" width="300" height="250" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
 
-<img src="http://pandasthumb.org/archives/2014/12/15/primate%20tree%202.png" alt="primate tree 2.png" width="300" height="250" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="/uploads/2014/primate%20tree%202.png" alt="primate tree 2.png" width="300" height="250" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 Similarly, a common misconception is that humans evolved directly from monkeys. Monkeys, though, are modern species just like we are and have been evolving and changing over time. The common ancestor we share with monkeys may have looked much different than monkeys do now. This assumption that modern species represent an ancestral state of human evolution is what T. Ryan Gregory calls the [platypus fallacy](http://www.genomicron.evolverzone.com/2012/06/the-platypus-fallacy/). Gregory uses the example that we can't examine the traits of platypuses and think that humans at one point in their evolution possessed these same traits. We can no more infer the traits of human ancestor species from platypuses than platypuses can infer the traits of their ancestors from us. 	
 

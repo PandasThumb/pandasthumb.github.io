@@ -23,7 +23,7 @@ Images: Wikipedia
 
 Scientists with the international 1KITE project set out to answer these questions and more by using phylogenomics to compare 1478 genes among 103 species of insect.  First, they sequenced the DNA to find genes that were present in all the species, most of which coded for proteins involved in translation, protein transport, neurogenesis, and other basic cellular functions. Similar to the study of birds that we talked about [last time](http://pandasthumb.org/archives/2015/01/phylogenomics-r.html), [Misof et al.](http://www.sciencemag.org/content/346/6210/763) used improved methods of analysis to reduce errors from such a large dataset. Before analyzing the data, the researchers accounted for possible sources of bias by removing confounding factors; for example, they removed any data that violated the assumption that evolution is a time-reversible process. They then discarded any sequences that were misaligned and generated their tree with maximum likelihood models as well as a partitioning scheme to improve the accuracy of the assumed model of evolution. Using data from two sources, nucleotides and amino acid sequences, the researchers generated two matching phylogenetic trees.
 
-The [new phylogenetic tree](http://pandasthumb.org/archives/2015/01/29/insect%20tree.jpg) was able to answer many questions about insects with a higher statistical confidence than previous studies:
+The [new phylogenetic tree](/uploads/2015/insect%20tree.jpg) was able to answer many questions about insects with a higher statistical confidence than previous studies:
 
 
 
