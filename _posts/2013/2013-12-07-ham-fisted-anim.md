@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 6871
 basename: ham-fisted_anim
 ---
-Gwen Pearson, an entomologist formerly known as Bug Girl, has performed sort of a [ retrospective analysis ](http://www.wired.com/wiredscience/2013/12/the-ark-park-needs-to-sink/) of the [Ark Park](www.pandasthumb.org/archives/2011/08/noahs-ark-park.html‎)'s facilities for caring for its animals. You might have thought that the Ham-merheaded proprietors of the Ark Park would have performed a _pro_spective analysis but evidently you would have been mistaken. Cheer up! Here is Dr. Pearson's advice to the Ham-itic designers:
+Gwen Pearson, an entomologist formerly known as Bug Girl, has performed sort of a [ retrospective analysis ](http://www.wired.com/wiredscience/2013/12/the-ark-park-needs-to-sink/) of the [Ark Park](http://www.pandasthumb.org/archives/2011/08/noahs-ark-park.html)'s facilities for caring for its animals. You might have thought that the Ham-merheaded proprietors of the Ark Park would have performed a _pro_spective analysis but evidently you would have been mistaken. Cheer up! Here is Dr. Pearson's advice to the Ham-itic designers:
 
 >  \[Providing captive animals with the wherewithal to stay healthy\] takes specialized knowledge. If you have raptors or game birds, they can get bumblefoot just from the wrong kind of perches. Feeding an imbalanced diet, or just not noticing a raptor is off its food, can tip a bird into a metabolic crash. Ducks can get a fatal type of herpes that spreads rapidly, despite our best efforts.
 > 
