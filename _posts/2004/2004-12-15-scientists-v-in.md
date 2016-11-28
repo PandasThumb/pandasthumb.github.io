@@ -216,7 +216,7 @@ See also [Case faculty vote to oppose Ohio's proposed evolution plan](http://www
 > 
 > **Passed by the plenary session of the Georgia Academy of Science on 22 March 2003.**
 
-\[url=\]RESOLUTION approved April 13, 2004, by the College of Arts and Science, Georgia State University\[/url\]
+RESOLUTION approved April 13, 2004, by the College of Arts and Science, Georgia State University
 
 > # RESOLUTION approved April 13, 2004, by the College of Arts and Science, Georgia State University
 > 

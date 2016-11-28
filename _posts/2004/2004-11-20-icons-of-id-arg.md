@@ -502,7 +502,7 @@ W.A. Dembski wrote:
 > 
 > 
 > [Lecture series at the Southern Baptist Theological Seminary](http://www.sbts.edu/resources/audio/Norton.php) 2003 by W.A. Dembski
-* An extensive list can be found at \[url=\]this link\[/url\]
+* An extensive list can be found at this link
 * W.A. Dembski wrote:
 > On the other hand, if things end up in the net that are not designed, the criterion will be useless.'
 > 

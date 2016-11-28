@@ -17,7 +17,7 @@ I decided to check the [actual text](http://www.wisc.edu/teosinte/gen677_pdfs/Or
 
 > and there is no doubt that mutations of large effects are sometimes important in adaptation.
 
-Searching the web for the 'quote' I ran across Jerry Coyne's [ rebuttal in the Boston review](http://www.bostonreview.net/br22.1/coyne.html)
+Searching the web for the 'quote' I ran across Jerry Coyne's [rebuttal in the Boston review](http://www.bostonreview.net/br22.1/coyne.html)
 
 > I am painfully and personally acquainted with Behe's penchant for fiddling with quotations. On page 29 of Darwin's Black Box he writes:
 > 
@@ -47,7 +47,7 @@ Other websites which misquote the text or quote is as 'there is little evidence 
 * [Christian Keys](http://www.christiankeys.ca/Creation77.html)
 * [Don’t Be Flanked: A response to Lenny Flank’s article “Is the ‘Intelligent Designer’ argument a Scientific One?”](http://www.risenjesus.com/articles/index.asp?pagea=Flank2&amp;pagea2=website) by Michael Licona
 * [Us the Earth old or young? by by Robert Sungenis](http://www.catholicintl.com/epologetics/articles/science/earth-young-old1.htm)Catholic  Apologetics International
-* \[url=\]Distinctions exist between evolution fact and theory\[/url\] Guest column by George Aldhizer, Gary Johnston and Douglas Krull at the Kentucky Post Online Edition
+* Distinctions exist between evolution fact and theory Guest column by George Aldhizer, Gary Johnston and Douglas Krull at the Kentucky Post Online Edition
 
 
 And that is just the first page of a [Google search](http://www.google.com/search?hl=en&amp;lr=&amp;q=%22that+there+is+little+evidence+for+the+neo-Darwinian+view%3A+its+theoretical+foundations+and+the+experimental+evidence+supporting+it+are+weak%22&amp;btnG=Search)

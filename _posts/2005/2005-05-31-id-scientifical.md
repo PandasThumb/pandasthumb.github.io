@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1016
 basename: id_scientifical
 ---
-While researching the nematode work by Azevedo, I ran across the following \[url=\]website\[/url\] called 'Design vs. Descent: A war of predictions". The original article can be found at the [Idea Center](http://www.ideacenter.org/contentmgr/showdetails.php/id/846)
+While researching the nematode work by Azevedo, I ran across the following website called 'Design vs. Descent: A war of predictions". The original article can be found at the [Idea Center](http://www.ideacenter.org/contentmgr/showdetails.php/id/846)
 
 While the article has many problems, one in particular caught my eye
 

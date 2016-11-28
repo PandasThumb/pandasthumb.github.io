@@ -9,7 +9,7 @@ blog_id: 2
 post_id: 657
 basename: wisconsin_pasto
 ---
-As blogged in [PT comments on December 17](http://www.pandasthumb.org/pt-archives/000657.html#c11986), nearly 200 Wisconsin pastors recently spoke up in opposition to creationist-inspired policy in Grantsburg, Wisconsin, requiring the teaching of "the scientific strengths and weaknesses of evolutionary theory."  (See \[url=\]Pastors protest district policy\[/url\] and the [NCSE update story](http://www.ncseweb.org/resources/news/2004/WI/707_grantsburg39s_third_try_12_22_2004.asp)).
+As blogged in [PT comments on December 17](http://www.pandasthumb.org/pt-archives/000657.html#c11986), nearly 200 Wisconsin pastors recently spoke up in opposition to creationist-inspired policy in Grantsburg, Wisconsin, requiring the teaching of "the scientific strengths and weaknesses of evolutionary theory."  (See Pastors protest district policy and the [NCSE update story](http://www.ncseweb.org/resources/news/2004/WI/707_grantsburg39s_third_try_12_22_2004.asp)).
 
 Yesterday, Rob Zaleski of the _The Capital Times_ in Madison, Wisconsin wrote a detailed column on the situation in Grantsburg, and interviewed one of the 187 pastors, Tisha Brown, that signed the statement opposing the policy, as well as the UW dean, Michael Zimmerman, that organized the effort.  Read Zaleski's [interesting article](http://www.madison.com/tct/news/index.php?ntid=23684&amp;ntpid=1), and send him feedback if you like it.
 

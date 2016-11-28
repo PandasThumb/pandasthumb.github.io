@@ -17,4 +17,4 @@ The _San Francisco Chronicle_ had an [opinion essay](http://www.sfgate.com/cgi-b
 
 NPR's [On the Media](http://www.onthemedia.org/) did a [story, "Evolving Coverage"](http://www.onthemedia.org/) yesterday on the _Scopes_ media coverage -- one interesting factoid is that they rolled wire all the way down to Dayton to pipe the audio out to national radio stations.  And _All Things Considered_ has a [timeline, photo series, and story collection](http://www.npr.org/templates/story/story.php?storyId=4723956) on _Scopes_ then and now.
 
-Hat-tip to [SF Chronicle](Red State Rabble for the [url=http://redstaterabble.blogspot.com/2005_07_01_redstaterabble_archive.html) and [Scopes coverage](http://redstaterabble.blogspot.com/2005_07_01_redstaterabble_archive.html). RSR has lots of [good stuff in general](http://redstaterabble.blogspot.com/).
+Hat-tip to Red State Rabble for the [url to SF Chronicle](http://redstaterabble.blogspot.com/2005_07_01_redstaterabble_archive.html) and [Scopes coverage](http://redstaterabble.blogspot.com/2005_07_01_redstaterabble_archive.html). RSR has lots of [good stuff in general](http://redstaterabble.blogspot.com/).

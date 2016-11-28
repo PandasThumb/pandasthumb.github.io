@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 731
 basename: avida_in_discov
 ---
-<img src="http://www.discover.com/images/issues/feb-05/feb05-cover-main.jpg" alt="" style="float:left;" />Our congratulations go out to Carl Zimmer. Discover magazine published one of Carl Zimmer's articles as a cover article. The article was titled ["Testing Darwin"](http://www.carlzimmer.com/articles/2005/articles_2005_Avida.html) (Published in [Discover Magazine Feb 2005]([url=http://www.discover.com/issues/feb-05/cover/))
+<img src="http://www.discover.com/images/issues/feb-05/feb05-cover-main.jpg" alt="" style="float:left;" />Our congratulations go out to Carl Zimmer. Discover magazine published one of Carl Zimmer's articles as a cover article. The article was titled ["Testing Darwin"](http://www.carlzimmer.com/articles/2005/articles_2005_Avida.html) (Published in [Discover Magazine Feb 2005](http://www.discover.com/issues/feb-05/cover/))
 
 Zimmer explores the relevance of work on Avida to evolution
 

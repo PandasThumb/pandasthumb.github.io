@@ -60,7 +60,7 @@ A good example of an [Irreducibly Complex](http://wiki.cotch.net/wiki.phtml?titl
 
 > But there are in the scientific literature -- and have been for sixty years -- considerations and examples of the evolution such systems as Behe identifies, structures and processes that have demonstrably evolved from simpler precursors, less complex and sometimes with different functions than those of the contemporary structure or reaction pathway. (See, for a beautiful current example, "Origin and evolution of circadian clock genes in prokaryotes," by Volodymyr Dvornyk and others, in Proceedings of the National Academy of Sciences, 100 (5): 2495-2500, 2003).
 
-I decided to do some research and found various ID proponents making similar claims. Such as [Here](url=http://www.asa3.org/archive/evolution/200002/0084.html), and [here](url=http://www.iscid.org/boards/ubb-get_topic-f-6-t-000382.html).
+I decided to do some research and found various ID proponents making similar claims. Such as [Here](http://www.asa3.org/archive/evolution/200002/0084.html), and [here](http://www.iscid.org/boards/ubb-get_topic-f-6-t-000382.html).
 
 > On a related note, it looks like the clock of cyanobacteria may be irreducibly complex in that it requries kaiABC:
 > **Inactivation of any single kai gene abolished these rhythms and reduced kaiBC-promoter activity.**Science. 1998 Sep 4;281(5382):1519-23.
