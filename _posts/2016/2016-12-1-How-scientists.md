@@ -19,7 +19,13 @@ The last hypothesis, Multiple Origins, suggests that *Leishmania* diverged into 
 
 So, who's right and where did *Leishmania* really come from?  Harkins et al sequenced the genomes of 12 species of *Leishmania* to determine that.  They found that the subgenus *Leishmania* is most closely related to the *Sauroleishmania* subgenus than any other group.  Together, *Leishmania* and *Sauroleishmania* subgenera are more closely related to *Viannia* than other species, a subgenus called *Paraleishmania,* and the outgroup of a different genus, *Endotrypanum.*  (You can see more of their trees [here] (http://www.sciencedirect.com/science/article/pii/S1567134815300605).)  With this data, each of the three hypotheses can be supported or rejected.  The first hypothesis, Palearctic, is rejected because *Sauroleishmania* is not sister to all *Leishmania* species but most closely related to the *Leishmania* subgenus.  The Neotropic hypothesis can also be rejected because the estimated dates of the split in subgenera do not match the dates calculated in the experiment.  The Neotropic hypothesis also suggested an origin of 36-46 mya for all *Leishmania* species while the experiment suggested an origin of 90-140 mya.  The only hypothesis that was not rejected was the last hypothesis, Multiple Origins, because it most closely fit the data that *Viannia* and *Leishmania* subgenera separated about 100 mya due to the separation of South America from Africa and that *Paraleishmania* was the first separation to occur.
 
-![leishmania phylogeny](/uploads/2016/harkins-fig2.png)
+<figure>
+<img src="/uploads/2016/harkins-fig2.png" alt="harkins-fig2" width="600" height="600" />
+<figcaption markdown="span">
+<big>Dated phylogeny of *Leishmania* based on 49 genes.</big>
+
+</figcaption>
+</figure>
 
 Harkins et al propose a modification and expansion of the Multiple Origins hypothesis to a new hypothesis they call Supercontinent.  On Gondwana, the ancestor of *Leishmania* emerges and when Gondwana begins to separate, the subgenus *Paraleishmania* is split from the rest of the genus, around 90-100 mya.  The split between *Viannia* and *Leishmania* occurred around 90 mya when Africa became isolated from South America.  These ideas and dates are consistent with the estimated divergence dates from the data.  There would only be one migration, from the Old World to the New, around 30 mya over the Beringia land bridge when temperatures were warm enough for sand fly, and therefor *Leishmania,* survival.
 
