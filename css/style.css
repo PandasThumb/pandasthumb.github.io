@@ -134,8 +134,8 @@ nav.main-nav {
 @media screen and (max-width: 568px) {
   nav.main-nav {
     position: static !important;
-    font-size: 16px;
-    line-height: 20px;
+    font-size: 20px;
+    line-height: 25px;
   }
 }
 
@@ -334,7 +334,7 @@ img {
 }
 
 figure {
-  background: #f7f7f7;
+  background: #f0f0f0;
   width: 600px;
   box-sizing: content-box;
   margin-left: auto;
@@ -342,8 +342,9 @@ figure {
   padding: 0.5em;
   margin-bottom: 0.5em;
   max-width: 100%;
-
 }
+
+
 
 .archivelist li {
   display: block;
@@ -428,6 +429,30 @@ article h6 {
   clip: rect(0, 0, 0, 0);
   border: 0;
 }
+
+.on-the-left-side,
+.on-the-right-side {
+  width: 326px;
+}
+
+.on-the-left-side {
+  float: left;
+}
+
+.on-the-right-side {
+  float: right;
+}
+
+@media screen and (max-width: 568px) {
+.on-the-left-side,
+.on-the-right-side {
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+}
+
 
 /*
 banner purple: #2a2452;
