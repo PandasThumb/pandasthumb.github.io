@@ -3,7 +3,7 @@ permalink: date
 timezone: America/Phoenix
 encoding: UTF-8
 baseurl: ''
-url: https://pt.cartwrig.ht
+url: https://pandasthumb.org
 relative_permalinks: false
 exclude: [Guardfile]
 excerpt_separator: "<!--more-->"
@@ -27,9 +27,9 @@ kramdown:
 
 # Site Configuration Options
 contact_email: nobody&#x002b;racartwright&#x0040; &#x0040;nowhere&#x002e;gmail&#x002e;com
-owner_link: http://cartwrig.ht/
+owner_link: https://pandasthumb.org/
 title: "The Panda's Thumb"
-image: /media/people/reed.jpg
+image: /media/roar.jpg
 jquery: '3.1.1'
 jqueryui: '1.12.1'
 
