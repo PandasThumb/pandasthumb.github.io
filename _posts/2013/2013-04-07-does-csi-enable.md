@@ -72,7 +72,7 @@ Dembski has nowhere argued that Elsberry and Shallit were wrong about the techni
 
 In 2005, in his paper [Specification, the Pattern That Signifies Intelligence](http://www.designinference.com/documents/2005.06.Specification.pdf) Dembski put forward a new version of his measure of CSI.  Admittedly, I did not deal with this revision in my 2007 paper, so let me comment on it now.
 
-His formula includes the probability _P(**T**|H)_ that a target region **T** is reached given a "chance hypothesis" _H_. In section 8 of the 2005 paper, Dembski makes it clear when Design is detected, the "chance hypothesis" should be one that includes all natural biological processes, including not only mutation but also natural selection.
+His formula includes the probability P(**T**|H) that a target region **T** is reached given a "chance hypothesis" _H_. In section 8 of the 2005 paper, Dembski makes it clear when Design is detected, the "chance hypothesis" should be one that includes all natural biological processes, including not only mutation but also natural selection.
 
 So detection of Design from some adaptation using this new formula works like this:
 
