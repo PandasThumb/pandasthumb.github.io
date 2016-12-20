@@ -1,6 +1,8 @@
+---
 title:`Petition to ban teaching evolution'
 date:2017-12-20-08:00'
 author:Matt Young
+---
 
 I am afraid we are a little late out of the blocks, but a troll who is well known to PT readers as atheistoclast, Ravi, and most recently Joe Bloggs has recently posted a petition, [A nationwide moratorium on the teaching of evolution](http://www.ipetitions.com/petition/moratorium-teaching-evolution), directed to, of all people, Vice President-Elect Pence. Jerry Coyne, among others, [publicized the petition](https://whyevolutionistrue.wordpress.com/2016/12/17/and-so-it-begins-a-petition-to-mike-pence-to-ban-the-teaching-of-evolution/), and it quickly gathered a lot of patently phony signatures, many at the level of jokes I remember from junior high school. David Klinghoffer, at Evolution News and Views, argued that "evolutionists" had [fallen for a phony petition](http://www.evolutionnews.org/2016/12/fake_news_evolu103375.html). 
 
