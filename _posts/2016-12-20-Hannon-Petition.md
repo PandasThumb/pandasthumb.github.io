@@ -1,6 +1,6 @@
 ---
 title: 'Petition to ban teaching evolution'
-date: '2017-12-20 12:00:00 -07:00'
+date: '2016-12-20 17:19:00 -07:00'
 author: Matt Young
 ---
 
