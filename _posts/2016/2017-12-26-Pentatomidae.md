@@ -10,3 +10,4 @@ author: Matt Young
 <a href="http://bugguide.net/node/view/182"><i>Pentatomidae</i> sp.</a> -- stink bug. Think of this picture as a selfie of my pinkie finger with a stink bug wondering what it is doing there. I found it wandering on a raspberry leaf. I think it is a nymph, but do not quote me.
 </figcaption>
 </figure>
+Reed -- something went blooey as I was potting around with the filenames, some of the tags went red, and the preview stops at Pentatomidae sp. I have to quit now.
