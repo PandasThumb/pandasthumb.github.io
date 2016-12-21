@@ -1,7 +1,7 @@
 ---
-title: 'Merry Kitzmas! Let's brainstorm for the future!'
+title: "Merry Kitzmas! Let's brainstorm for the future!"
 date: '2016-12-20 12:01:00 -07:00'
-author: Nicholas J. Matzke
+author: 'Nicholas J. Matzke'
 ---
 
 Hi everyone!  Reed Cartwright has done a lot of great work getting PT onto a new server with a new content message. I'm just trying it out, and wishing everyone Merry Kitzmas!
