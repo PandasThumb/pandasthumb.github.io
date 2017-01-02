@@ -521,10 +521,7 @@ sub link_http
 		$extra = $2;
 	}
 	my $text = link_limit($url);
-
-	local %_ = (href => $url);
-	local $_ = qq(<a href="$url">);
-	tag_url($e).$text.'</a>'.$extra;
+	qq(<a href="$url">).$text.'</a>'.$extra;
 }
 
 sub link_email
@@ -744,9 +741,7 @@ sub tag_img {
 	my $href = $_{href};
 	if(defined $href)
 	{
-		local %_ = (href => $href);
-		local $_ = qq(<a href="$href">);
-		$s = tag_url($e).$s.'</a>'
+		$s = qq(<a href="$href">).$s.'</a>'
 	}
 	$s;
 }
