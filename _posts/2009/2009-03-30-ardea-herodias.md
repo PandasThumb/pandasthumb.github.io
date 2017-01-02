@@ -8,5 +8,18 @@ blog_id: 2
 post_id: 4185
 basename: ardea_herodias
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<figure>
+<a href="http://en.wikipedia.org/wiki/Great_Blue_Heron"><img src="http://dererumnatura.us/archives/2009/03/04/herron-standing.jpg" alt="herron-standing.jpg" width="600" height="800" /></a>
+<figcaption markdown="span">
+_Ardea herodias_ --- Great Blue Heron, Sarah P. Duke Gardens
+
+</figcaption>
+</figure>
+
+<figure>
+<a href="http://en.wikipedia.org/wiki/Great_Blue_Heron"><img src="http://dererumnatura.us/archives/2009/03/04/herron-down.jpg" alt="herron-down.jpg" width="600" height="450" /></a>
+<figcaption markdown="span">
+_Ardea herodias_ --- Great Blue Heron, Sarah P. Duke Gardens
+
+</figcaption>
+</figure>

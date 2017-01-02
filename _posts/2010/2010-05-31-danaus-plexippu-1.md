@@ -8,5 +8,11 @@ blog_id: 2
 post_id: 4633
 basename: danaus_plexippu_1
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+Photograph by **Richard B. Hoppe**. 
+
+<figure>
+<a href="http://www.monarch-butterfly.com/"><img src="http://pandasthumb.org/archives/2010/05/27/Monarch_Egg_Hoppe_Danaus%20plexippus_Asclepias%20syriaca.JPG" alt="Monarch_Egg_Hoppe_Danaus plexippus_Asclepias syriaca.JPG" width="600" height="400" /></a>
+<figcaption markdown="span"><big>_Danaus plexippus_ -- monarch butterfly egg, resting on _[Asclepias syriaca](http://en.wikipedia.org/wiki/Asclepias_syriaca)_ (milkweed) leaf, Monroe Township, Knox County, Ohio.</big>
+
+</figcaption>
+</figure>

@@ -8,5 +8,15 @@ blog_id: 2
 post_id: 4358
 basename: photograph_by_v
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+Photograph by **Virginia Pasek**.
+
+Photography contest, finalist in the "Minerals" category.
+ 
+
+
+<figure>
+<a href="http://en.wikipedia.org/wiki/Fulgurite"><img src="http://pandasthumb.org/archives/2009/08/09/Pasek.Fulgurite3.jpg" alt="Pasek.Fulgurite3.jpg" width="600" height="400" /></a>
+<figcaption markdown="span"><big>Fulgurite -- Glass formed as lightning strikes sand or soil.  Phosphate-containing sand was fused and turned into phosphite. This otherwise unknown natural phosphite explains the existence of phosphite-eating bacteria. In the center is a small granitic pebble that was trapped during the formation of the glass. A bolt of electricity traveled along its surface, leaving permanent evidence of its passage.  Tucson, Arizona, 2007.</big>
+
+</figcaption>
+</figure>

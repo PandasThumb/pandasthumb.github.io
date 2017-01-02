@@ -8,5 +8,12 @@ blog_id: 2
 post_id: 4082
 basename: draconivis_meta
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+**Photo by Derek Wilson**
+
+
+<figure>
+<a href="http://en.wikipedia.org/wiki/Snow_sculpture"><img src="http://pandasthumb.org/archives/2008/12/26/SnowSerpent.JPG" alt="SnowSerpent.JPG" width="600" height="450" /></a>
+<figcaption markdown="span">_Draconivis metallorum_--Snow Dragon of Mines, Golden, Colorado.  Latin courtesy of Reed Cartwright.  Sculptor unknown.
+
+</figcaption>
+</figure>

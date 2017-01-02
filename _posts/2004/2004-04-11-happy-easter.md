@@ -8,5 +8,8 @@ blog_id: 2
 post_id: 119
 basename: happy_easter
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<a href="http://www.pandasthumb.org/archives/images/hungry_the_cow.JPG"><img src="http://pandasthumb.org/archives/images/hungry_the_cow-thumb.JPG" alt="" width="101" height="126" style="float:left;" /></a>
+
+I hope everyone who wanted one had a good Easter.  [Hungry the Cow sure did](http://pandasthumb.org/archives/images/hungry_the_cow.JPG), and he wants to tell you all, "eat mor bunnie."
+
+Now, can any of our readers explain why Hungry the Cow is eating this rabbit?  Double bonus if you can identify the journal and paper that this unmodified photo is associated with.

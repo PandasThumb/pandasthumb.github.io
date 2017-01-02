@@ -8,5 +8,9 @@ blog_id: 2
 post_id: 4269
 basename: fregata_magnifi
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<figure>
+<a href="http://en.wikipedia.org/wiki/Frigate_bird"><img src="http://pandasthumb.org/archives/2009/05/15/FrigateDisplaying600.JPG" alt="FrigateDisplaying600.JPG" width="600" height="400" /></a>
+<figcaption markdown="span">_Fregata magnificens_ -- Male frigate bird, displaying, Galápagos Islands.
+
+</figcaption>
+</figure>

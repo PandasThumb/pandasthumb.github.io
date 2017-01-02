@@ -8,5 +8,9 @@ blog_id: 2
 post_id: 3955
 basename: bison_bison
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<figure>
+<a href="http://en.wikipedia.org/wiki/American_Bison"><img src="http://pandasthumb.org/archives/2008/09/17/Buffalo.jpg" alt="Buffalo.jpg" width="600" height="447" /></a>
+<figcaption markdown="span">_Bison bison_ --- American Buffalo, Yellowstone National Park
+
+</figcaption>
+</figure>

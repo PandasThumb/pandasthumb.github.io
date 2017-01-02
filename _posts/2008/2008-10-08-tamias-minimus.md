@@ -8,5 +8,9 @@ blog_id: 2
 post_id: 3956
 basename: tamias_minimus
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<figure>
+<a href="http://en.wikipedia.org/wiki/http://en.wikipedia.org/wiki/Least_Chipmunk"><img src="http://pandasthumb.org/archives/2008/09/17/chipmunk.jpg" alt="chipmunk.jpg" width="600" height="450" /></a>
+<figcaption markdown="span">_Tamias minimus_ --- Least chipmunk, Yellowstone National Park
+
+</figcaption>
+</figure>

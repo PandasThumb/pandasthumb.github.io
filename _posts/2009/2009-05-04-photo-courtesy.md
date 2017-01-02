@@ -8,5 +8,13 @@ blog_id: 2
 post_id: 4242
 basename: photo_courtesy
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+Photo courtesy of **Kelly Lyon**, kellylyonphotography.com
+
+
+
+<figure>
+<a href="http://en.wikipedia.org/wiki/Echidna"><img src="http://pandasthumb.org/archives/2009/04/24/Echidna.jpg" alt="Echidna.jpg" width="600" height="400" /></a>
+<figcaption markdown="span">_Tachyglossus aculeatus_--Short-beaked Echidna 
+
+</figcaption>
+</figure>

@@ -8,5 +8,14 @@ blog_id: 2
 post_id: 4086
 basename: periophthalmus
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+**Photo by Kelly Lyon**, [http://kellylyonphotography.com](http://kellylyonphotography.com).
+
+ 
+
+
+<figure>
+<a href="http://en.wikipedia.org/wiki/Mudskipper"><img src="http://pandasthumb.org/archives/2008/12/28/MudSkippers.jpg" alt="MudSkippers.jpg" width="600" height="400" /></a>
+<figcaption markdown="span">_Periophthalmus chrysospilos--_Indonesian mudskipper.  Specimens courtesy of [Denver Zoo](http://www.denverzoo.org/).
+
+</figcaption>
+</figure>

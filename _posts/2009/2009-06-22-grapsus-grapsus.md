@@ -8,5 +8,9 @@ blog_id: 2
 post_id: 4271
 basename: grapsus_grapsus
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<figure>
+<a href="http://en.wikipedia.org/wiki/Sally_Lightfoot_Crab"><img src="http://pandasthumb.org/archives/2009/05/15/SallyCrabs600.JPG" alt="SallyCrabs600.JPG" width="600" height="469" /></a>
+<figcaption markdown="span">_Grapsus grapsus_ -- Sally Lightfoot crabs, Galápagos Islands.
+
+</figcaption>
+</figure>

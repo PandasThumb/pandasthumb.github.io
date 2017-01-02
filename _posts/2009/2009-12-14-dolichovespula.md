@@ -8,5 +8,14 @@ blog_id: 2
 post_id: 4500
 basename: dolichovespula
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+Photograph by **Kevin Klein**.
+
+Photography contest, Honorable mention.
+
+
+<figure>
+<a href="http://en.wikipedia.org/wiki/Bald-faced_hornet"><img src="http://pandasthumb.org/archives/2009/12/13/Klein.Wasp_Larvae.JPG" alt="Klein.Wasp_Larvae.JPG" width="600" height="451" /></a>
+<figcaption markdown="span"><big>_Dolichovespula maculata_--Bald-faced hornet larvae.</big>
+
+</figcaption>
+</figure>

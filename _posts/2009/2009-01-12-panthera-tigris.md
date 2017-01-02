@@ -8,5 +8,9 @@ blog_id: 2
 post_id: 4094
 basename: panthera_tigris
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<figure>
+<a href="http://en.wikipedia.org/wiki/Sumatran_Tiger"><img src="http://pandasthumb.org/archives/2009/01/02/tiger2.jpg" alt="tiger2.jpg" width="360" height="480" /></a>
+<figcaption markdown="span">
+_Panthera tigris sumatrae_ --- Sumatran tiger, Sacramento Zoo
+</figcaption>
+</figure>

@@ -8,5 +8,10 @@ blog_id: 2
 post_id: 4797
 basename: meleagris_gallo_2
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<figure>
+<a href="http://en.wikipedia.org/wiki/Wild_Turkey"><img src="http://pandasthumb.org/archives/2010/11/20/turkey.jpg" alt="turkey.jpg" width="600" height="400" /></a>
+<figcaption markdown="span">
+_Meleagris gallopavo_ --- [Wild Turkeys](http://en.wikipedia.org/wiki/Wild_Turkey) --- Near Sonora, TX in Texas's Hill Country.
+
+</figcaption>
+</figure>

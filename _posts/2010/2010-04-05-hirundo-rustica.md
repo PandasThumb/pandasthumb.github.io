@@ -8,5 +8,13 @@ blog_id: 2
 post_id: 4582
 basename: hirundo_rustica
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+Photograph by **Kari Tikkanen**.
+
+Photography contest, Honorable Mention.
+
+<figure>
+<a href="http://en.wikipedia.org/wiki/Barn_Swallow"><img src="http://pandasthumb.org/archives/2010/04/04/Tikkanen.Barn_Swallow.jpg" alt="Tikkanen.Barn_Swallow.jpg" width="600" height="505" /></a>
+<figcaption markdown="span"><big>_Hirundo rustica_ -- barn swallow.</big>
+
+</figcaption>
+</figure>

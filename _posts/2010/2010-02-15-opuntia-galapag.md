@@ -8,5 +8,9 @@ blog_id: 2
 post_id: 4550
 basename: opuntia_galapag
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<figure>
+<a href="http://www.arkive.org/prickly-pear/opuntia-galapageia/info.html"><img src="http://pandasthumb.org/archives/2010/02/13/IMG_3672_P_Pear_Tree_600.jpg" alt="IMG_3672_P_Pear_Tree_600.jpg" width="596" height="534" /></a>
+<figcaption markdown="span"><big>_Opuntia galapageia_ -- cactus tree, Galápagos Islands.</big>
+
+</figcaption>
+</figure>

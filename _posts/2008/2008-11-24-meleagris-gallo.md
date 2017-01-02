@@ -8,5 +8,13 @@ blog_id: 2
 post_id: 4036
 basename: meleagris_gallo
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+**By Eric Rosenberg, http://www.flickr.com/gimlack**
+
+
+<figure>
+<a href="http://en.wikipedia.org/wiki/Wild_turkey"><img src="http://pandasthumb.org/archives/2008/11/20/turkey.jpg" alt="turkey.jpg" width="600" height="400" /></a>
+<figcaption markdown="span">
+_Meleagris gallopavo_ --- Wild Turkeys, Rancho San Antonio, CA
+
+</figcaption>
+</figure>

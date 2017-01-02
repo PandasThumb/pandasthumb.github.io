@@ -8,5 +8,10 @@ blog_id: 2
 post_id: 4715
 basename: scenes_from_a_m
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<figure>
+<a href="http://amultiverse.com/2010/08/02/uncharted-planet/"><img src="http://pandasthumb.org/archives/2010/08/02/2010-08-02-Uncharted-Planet.png" alt="2010-08-02-Uncharted-Planet.png" width="485" height="333" /></a>
+<figcaption markdown="span">
+<big>[Find out what happens next.](http://amultiverse.com/2010/08/02/uncharted-planet/)  Don't forget to check the image title.</big>
+
+</figcaption>
+</figure>

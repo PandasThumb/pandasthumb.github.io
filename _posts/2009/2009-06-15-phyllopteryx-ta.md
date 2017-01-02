@@ -8,5 +8,8 @@ blog_id: 2
 post_id: 4279
 basename: phyllopteryx_ta
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<figure>
+<a href="http://en.wikipedia.org/wiki/Weedy_sea_dragon"><img src="http://pandasthumb.org/archives/2009/05/20/PTphoto2.jpg" alt="PTphoto2.jpg" width="300" height="400" /></a>
+<figcaption markdown="span">_Phyllopteryx taeniolatus_  ---  Weedy sea dragon, Aquarium of the Pacific, Long Beach, California
+</figcaption>
+</figure>

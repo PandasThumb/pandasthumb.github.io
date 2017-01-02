@@ -8,5 +8,10 @@ blog_id: 2
 post_id: 4005
 basename: hemaris_diffini
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<figure>
+<a href="http://en.wikipedia.org/wiki/Hemaris_diffinis"><img src="http://pandasthumb.org/archives/2008/10/20/clearwing_moth.jpg" alt="clearwing_moth.jpg" width="600" height="450" /></a>
+<figcaption markdown="span">
+_Hemaris diffinis_ --- Snowberry Clearwing moth feeding on milkweed flowers, Ohio
+
+</figcaption>
+</figure>

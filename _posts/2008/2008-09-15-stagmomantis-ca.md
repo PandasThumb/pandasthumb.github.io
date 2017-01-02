@@ -8,5 +8,10 @@ blog_id: 2
 post_id: 3940
 basename: stagmomantis_ca
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<figure>
+<a href="http://en.wikipedia.org/wiki/Carolina_Mantis"><img src="http://pandasthumb.org/archives/2008/09/12/mantis.jpg" alt="" width="600" height="450" /></a>
+<figcaption markdown="span">
+_Stagmomantis carolina_ --- Carolina mantis
+
+</figcaption>
+</figure>

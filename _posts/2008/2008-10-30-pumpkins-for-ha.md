@@ -8,5 +8,10 @@ blog_id: 2
 post_id: 4010
 basename: pumpkins_for_ha
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<figure>
+<a href="http://en.wikipedia.org/wiki/Pumpkin"><img src="http://pandasthumb.org/archives/2008/10/28/pumpkin/wre_7759_ws.jpg" alt="wre_pumpkins_7759_ws.jpg" width="560" height="372" /></a>
+<figcaption markdown="span">
+_Cucurbita pepo_ --- Carving Pumpkins
+
+</figcaption>
+</figure>

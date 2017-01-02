@@ -8,5 +8,4 @@ blog_id: 2
 post_id: 2535
 basename: science_bloggin_1
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<a href="http://mistersugar.stikipad.com/blogtogether/show/HomePage"><img src="http://mistersugar.stikipad.com/attachment/asset/10384/NCSciBlogging.jpg" alt="" width="400" height="47" /></a>

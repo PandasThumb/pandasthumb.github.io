@@ -8,5 +8,11 @@ blog_id: 2
 post_id: 3774
 basename: manufactroversy
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<a href="http://www.expelledexposed.com/"><img src="http://pandasthumb.org/archives/banner-thumb-125x35.jpg" alt="expelled movie exposed" width="125" height="35" style="float:left;" /></a>While searching for "Expelled" on Google I was offered the following '[sponsored link](http://manufactroversy.newsladder.net)'
+
+> News About Expelled Movie<br />
+> Latest news, articles and updates<br />
+> on Ben Stein's new movie - Expelled<br />
+> http://manufactroversy.newsladder.net
+
+Enjoy

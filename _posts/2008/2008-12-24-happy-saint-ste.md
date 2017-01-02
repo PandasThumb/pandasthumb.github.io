@@ -8,5 +8,10 @@ blog_id: 2
 post_id: 4067
 basename: happy_saint_ste
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<figure>
+<a href="http://en.wikipedia.org/wiki/St._Stephen%27s_Day"><img src="http://www.pandasthumb.org/archives/stevesteve/alaska/santa.jpg" alt="santa" width="375" height="500" /></a>
+<figcaption markdown="span">
+Happy Saint Stephen's Day!
+
+</figcaption>
+</figure>

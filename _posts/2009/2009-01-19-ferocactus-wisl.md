@@ -8,5 +8,9 @@ blog_id: 2
 post_id: 4034
 basename: ferocactus_wisl
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<figure>
+<a href="http://www.fireflyforest.com/flowers/pinks/pink01.html"><img src="http://pandasthumb.org/archives/2008/11/16/BarrelCactus.jpg" alt="BarrelCactus.jpg" width="600" height="455" /></a>
+<figcaption markdown="span">_Mammillaria grahamii_ ---  Superstition Mountains, Arizona.
+
+</figcaption>
+</figure>

@@ -8,5 +8,15 @@ blog_id: 2
 post_id: 4370
 basename: controlled_burn
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+Photograph by **Gregory Zolnerowich**.
+
+Photography contest, "Vegetable" category.
+
+
+
+<figure>
+<a href="http://en.wikipedia.org/wiki/Controlled_burn"><img src="http://pandasthumb.org/archives/2009/08/14/Zolnerowich.Controlledburn.jpg" alt="Zolnerowich.Controlledburn.jpg" width="600" height="447" /></a>
+<figcaption markdown="span"><big>Controlled prairie burn. The effects of fire as an ecological driver are a historical theme of the biological station. Konza Prairie Biological Station near Manhattan, Kansas, one of the original NSF Long-Term Ecological Research sites.</big>
+
+</figcaption>
+</figure>

@@ -8,5 +8,8 @@ blog_id: 2
 post_id: 4120
 basename: pavo_cristatus_1
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<figure>
+<a href="http://en.wikipedia.org/wiki/Peacock"><img src="http://pandasthumb.org/archives/2009/01/26/whitepeacock.jpg" alt="whitepeacock.jpg" width="300" height="400" /></a>
+<figcaption markdown="span">_Pavo cristatus albus_  --- albino peacock, Folsom City Zoo
+</figcaption>
+</figure>

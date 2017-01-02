@@ -8,5 +8,10 @@ blog_id: 2
 post_id: 3943
 basename: balaenoptera_mu1
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<figure>
+<a href="http://en.wikipedia.org/wiki/Blue_Whale"><img src="http://pandasthumb.org/archives/2008/09/12/TSwhale1/TSwhale2.JPG" alt="TSwhale1.JPG" width="461" height="346" /></a>
+<figcaption markdown="span">
+_Balaenoptera musculus_ --- Blue Whale, U.C. Santa Cruz
+
+</figcaption>
+</figure>

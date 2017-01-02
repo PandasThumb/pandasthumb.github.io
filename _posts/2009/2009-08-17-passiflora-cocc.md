@@ -8,5 +8,16 @@ blog_id: 2
 post_id: 4368
 basename: passiflora_cocc
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+Photograph by **Daniel Sprockett**.
+
+Photography contest, "Vegetable" category.
+
+
+
+<figure>
+<a href="http://en.wikipedia.org/wiki/Passion_Flower"><img src="http://pandasthumb.org/archives/2009/08/14/Sprockett.passion_fruit_bloom.jpg" alt="Sprockett.passion_fruit_bloom.jpg" width="640" height="458" /></a>
+<figcaption markdown="span"><big>_Passiflora coccinea_ -- Red Passion Flower, Red Grandilla, being visited by an unidentified 
+flying invertebrate. Campanario Biological Station on the Osa Peninsula in Costa Rica.</big>
+
+</figcaption>
+</figure>

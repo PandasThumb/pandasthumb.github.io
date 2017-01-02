@@ -8,5 +8,275 @@ blog_id: 2
 post_id: 1406
 basename: waterloo_in_dov
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<aside>
+
+[PT Media Advisory Panel](http://www.pandasthumb.org/archives/2005/07/pt_media_adviso.html), ready to give commentary on the news.
+
+[NCSE KvD resources](http://www.ncseweb.org/kitzmiller)
+
+[ACLU KvD resources](http://aclu.org/evolution)
+
+[AU KvD resources](http://www.au.org/site/PageServer?pagename=issues_evolution)
+
+[York Daily Record resources](http://ydr.com/news/doverbiology/full/)
+
+[York Dispatch Timeline](http://www.yorkdispatch.com/search/ci_3055789)
+
+<a href="http://www.cafepress.com/aus_ed/859341"><img src="http://pandasthumb.org/images/wre_kvd_logo.jpg" alt="" /></a>
+
+<a href="http://www.cafepress.com/aus_ed/837530"><img src="http://pandasthumb.org/images/wid_button.jpg" alt="" /></a>
+["Waterloo in Dover" gear](http://www.cafepress.com/aus_ed/837530). Outfit yourself for the trial. (Links to Wesley's CafePress site. Proceeds go where Wesley thinks they will do the most good.)
+
+</aside>
+
+**2005/12/20: PLAINTIFFS PREVAIL!** Judge Jones passed down a 139 page ruling which finds for the plaintiffs. Jones found the DASD policy violated both purpose and effect prongs of the Lemon test,  asserts that "intelligent design" is not science, and that the policy also violates the Pennsylvania state constitution. The PDF is linked from the [NCSE KvD site](http://www2.ncseweb.org/wp/?p=98). 
+
+Judge John E. Jones wrote:
+
+> The proper application of both the endorsement and Lemon tests to the facts of this case makes it abundantly clear that the Board's ID Policy violates the Establishment Clause. In making this determination, we have addressed the seminal question of whether ID is science. We have concluded that it is not, and moreover that ID cannot uncouple itself from its creationist, and thus religious, antecedents.
+> 
+> Both Defendants and many of the leading proponents of ID make a bedrock assumption which is utterly false. Their presupposition is that evolutionary theory is antithetical to a belief in the existence of a supreme being and to religion in general. Repeatedly in this trial, Plaintiffs' scientific experts testified that the theory of evolution represents good science, is overwhelmingly accepted by the scientific community, and that it in no way conflicts with, nor does it deny, the existence of a divine creator.
+> 
+> To be sure, Darwin's theory of evolution is imperfect. However, the fact that a scientific theory cannot yet render an explanation on every point should not be used as a pretext to thrust an untestable alternative hypothesis grounded in religion into the science classroom or to misrepresent well-established scientific propositions.
+> 
+> The citizens of the Dover area were poorly served by the members of the Board who voted for the ID Policy. It is ironic that several of these individuals, who so staunchly and proudly touted their religious convictions in public, would time and again lie to cover their tracks and disguise the real purpose behind the ID Policy.
+> 
+> With that said, we do not question that many of the leading advocates of ID have bona fide and deeply held beliefs which drive their scholarly endeavors. Nor do we controvert that ID should continue to be studied, debated, and discussed. As stated, our conclusion today is that it is unconstitutional to teach ID as an alternative to evolution in a public school science classroom.
+> 
+> Those who disagree with our holding will likely mark it as the product of an activist judge. If so, they will have erred as this is manifestly not an activist Court.  Rather, this case came to us as the result of the activism of an ill-informed faction on a school board, aided by a national public interest law firm eager to find a constitutional test case on ID, who in combination drove the Board to adopt an imprudent and ultimately unconstitutional policy. The breathtaking inanity of the Board's decision is evident when considered against the factual backdrop which has now been fully revealed through this trial. The students, parents, and teachers of the Dover Area School District deserved better than to be dragged into this legal maelstrom, with its resulting utter waste of monetary and personal resources.
+> 
+> To preserve the separation of church and state mandated by the Establishment Clause of the First Amendment to the United States Constitution, and Art. I, Â§ 3 of the Pennsylvania Constitution, we will enter an order permanently enjoining Defendants from maintaining the ID Policy in any school within the Dover Area School District, from requiring teachers to denigrate or disparage the scientific theory of evolution, and from requiring teachers to refer to a religious, alternative theory known as ID. We will also issue a declaratory judgment that Plaintiffs' rights under the Constitutions of the United States and the Commonwealth of Pennsylvania have been violated by Defendants' actions.
+> 
+> Defendants' actions in violation of Plaintiffs' civil rights as guaranteed to them by the Constitution of the United States and 42 U.S.C. Â§ 1983 subject Defendants to liability with respect to injunctive and declaratory relief, but also for nominal damages and the reasonable value of Plaintiffs' attorneys' services and costs incurred in vindicating Plaintiffs' constitutional rights.
+> 
+> NOW, THEREFORE, IT IS ORDERED THAT:
+> 1. A declaratory judgment is hereby issued in favor of Plaintiffs pursuant
+> to 28 U.S.C. Â§Â§ 2201, 2202, and 42 U.S.C. Â§ 1983 such that
+> Defendants' ID Policy violates the Establishment Clause of the First
+> Amendment of the Constitution of the United States and Art. I, Â§ 3 of
+> the Constitution of the Commonwealth of Pennsylvania.
+> 2. Pursuant to Fed.R.Civ.P. 65, Defendants are permanently enjoined
+> from maintaining the ID Policy in any school within the Dover Area
+> School District.
+> 3. Because Plaintiffs seek nominal damages, Plaintiffs shall file with the
+> Court and serve on Defendants, their claim for damages and a verified
+> statement of any fees and/or costs to which they claim entitlement.
+> Defendants shall have the right to object to any such fees and costs to
+> the extent provided in the applicable statutes and court rules.
+> 
+> s/John E. Jones III
+> John E. Jones III
+> United States District Judge
+
+**2005/11/04:** (Warning: approximate quotes ahead.) At close, Pat Gillen remarked to Judge Jones, "Your honor, by my reckoning we have been here 40 days. That seems an auspicious number." Jones replied, "So it seems, but it was not designed!" At which point the courtroom burst out in applause. Jones let that go on for about 15 seconds, then adjourned the court. And that finished off the testimonial, in-court phase of this case.
+
+During that last day, the cross-examination of Scott Minnich continued. Stephen Harvey explored a number of issues with Minnich, such as whether the "tests" that Minnich and Behe have proposed were actually being performed by anyone (they aren't), whether there could be multiple designers (there could be), and whether there might be an ... evil ... designer (yes, there could be). On that last, though, Harvey did not, at any time, hold his pinky up to the corner of his mouth.
+
+Following lunch, the lawyers plotted out the remainder of the issues, such as the schedule for briefs (two weeks for initial, one week for revisions/responses). Judge Jones mentioned that it was his intention to provide a ruling on this case this year, meaning that the lawyers would be held to a tight schedule.
+
+Exhibits... there were a number of exhibits entered into the record, including several things produced by Barbara Forrest that were not directly referred to in testimony. Among those items, one will find (once they go online) that in a draft of OPAP, there was an incomplete erasure of the word "creationist", with an insertion of "design proponents" into it, meaning that students might have had the opportunity to learn the position of "cdesign proponentsists" on these matters. This verbal intermediate fossil was uncovered through the patient digging of Dr. Forrest.
+
+<aside>
+# Program
+
+**Kitzmiller et alia**: Plaintiffs in the case, parents of children in the school district
+
+**[DASD](http://www.dover.k12.pa.us/doversd/site/default.asp)**: Dover Area School District, the defendants in the case, including the school board and the school administrators 
+
+**[TMLC](http://www.thomasmore.org/index.html)**: Thomas More Legal Center, counsel for the defense, doing this job pro bono for the DASD
+
+**[ACLU](http://www.aclu.org/evolution/)**: American Civil Liberties Union, cooperating counsel for the plaintiffs ([Blog](http://aclupa.blogspot.com/))
+
+**[AU](http://www.au.org/site/PageServer)**: Americans United for Separation of Church and State, cooperating counsel for the plaintiffs
+
+**[DASD](http://www.dover.k12.pa.us/doversd/site/default.asp)**: Dover Area School District, defendants in KvD
+
+**[FTE](http://www.fteonline.com/)**: Foundation for Thought and Ethics, publishers of the textbook, _Of Pandas and People_, that is being used by the DASD
+
+**[Judge John E. Jones](http://www.pamd.uscourts.gov/bios/jones.htm)**: Judge for KvD
+
+**[NCSE](http://www2.ncseweb.org/)**: National Center for Science Education, consultants for the plaintiffs
+
+**[OPAP93](http://www.ncseweb.org/article.asp?category=21)**: _Of Pandas and People_, "intelligent design" supplemental text published by FTE and used in DASD "intelligent design" policy
+
+**[Pepper Hamilton LLP](http://www.pepperlaw.com/default.cfm)**: Law firm representing the plaintiffs
+
+**[U.S. District Court, Middle District of Pennsylvania](http://www.pamd.uscourts.gov/kitzmiller/kitzmiller.htm)**: court where KvD is being tried
+
+</aside>
+
+**2005/11/03:** Testimony of Mike Baksa finished up. The defense put on Robert Linker, a Dover biology teacher who watched one of the ID videos. He said that it was the first time that he had seen "gaps in evolution" presented and found it "neat". But he still thinks that ID is religious, not science, and doesn't belong in the classroom. Later, Scott Minnich started testifying about... tada... the bacterial flagellum. ID is science, isn't religion, and all that. Somewhere in there, they tried to slip in the Meyer 2004b paper and referred to a newspaper article, which garnered a 'hearsay' objection. Judge Jones and Robert Muise had some back and forth concerning whether the reference was a public record. Jones sharply told Muise, "Don't insult my intelligence." The objection was sustained. Steve Harvey got in fifteen minutes of cross-examination, where he showed a 1994 Creation Research Society Quarterly article about... tada... the bacterial flagellum. After going over the contents a bit, Minnich agreed that the same argument as he is making now was made then.
+
+Update on Gentry: Robert Gentry was in the courtroom in the morning, and noticed me sitting with the plaintiffs. At a break, he told me that he was retracting his permission for me to provide his papers on my website. Along the way, he made a rather insulting insinuation that I would alter his materials in some way. Now, back at that press conference, Gentry complained that scientists did not want people to see his papers. I made a good faith offer to host them. I hosted "scientific creationism" files on my BBS back in the old days of direct dial-up, and I certainly did not alter those. I'm a scientist, and I definitely want to rebut the notion that I'm somehow engaged in keeping people from seeing the arguments made by antievolutionists. Far from it. I think antievolution materials make the case for keeping non-science out of science classrooms quite well.
+
+**2005/11/02:** I arrived in Harrisburg, PA today. I got to listen to the testimony of Alan Bonsell, Sheila Harkins, and Mike Baksa. I'm not the only person who showed up in Harrisburg, PA today: Robert V. Gentry, final defense witness of the _McLean v. Arkansas_ case, set up a press conference in the capitol rotunda to talk about the talk that he gave elsewhere this evening. He says his polonium halo work proves a young earth. He also said that scientists were censoring him and would not allow him to distribute his papers. After the press conference broke up, I offered to host his papers on the AE site. He said I could get them from his website... which I will do when I get some more moments all together.
+
+**2005/10/28:** The last week of the trial approaches. This phase of KvD should wind up by November 4th.
+
+**2005/10/27:** Former school board member William Buckingham testified today and promptly contradicted his sworn deposition. [MSNBC](http://www.msnbc.msn.com/id/9841876/) has the details on his testimony and Ed Brayton [shows](http://www.stcynic.com/blog/archives/2005/10/buckingham_lies_under_oath_in.php) how it conflicts with his sworn deposition. Buckingham seems to have a magical memory as well. Statements he couldn't recall making during his deposition, he suddenly remembers making and even remembers his precise state of mind when he made them.
+
+> In his deposition earlier this year, Buckingham said he did not know the source of the $850 donation to buy 60 copies of the book "Of Pandas and People" - an intelligent design textbook Dover students were referred to as part of the curriculum policy change.
+> 
+> Then Harvey produced a cancelled check from Buckingham for $850 to a Dover school administrator clearly marked for the purchase of the textbook and Buckingham confirmed it came from his church.
+> 
+> "You lied to me in your deposition didn't you Mr. Buckingham?" Harvey said.
+> 
+> "How so?" replied Buckingham.
+> 
+> "When I asked if you knew where the money came from," Harvey said.
+> 
+> "I did not take a collection," he said.
+> 
+> **([The State (South Carolina)](http://www.thestate.com/mld/thestate/news/nation/13014697.htm))**
+
+**2005/10/26:** Today, William Buckingham is set to testify. This is the highly controversial school board member who justified the ID policy by speaking about "someone" who "died on a cross 2000 years ago" and the need to "stand up for Him." 
+
+**2005/10/25:** Warren Nord withdrew as a defense witness. That leaves, who, just Scott Minnich remaining on the defense roster as an expert witness. (William Dembski, John Angus Campbell, Stephen Meyer, Dick Carpenter, and Warren Nord have withdrawn; Michael Behe and Steven Fuller have testified; and Scott Minnich is their only expert left who might yet testify.)
+
+**2005/10/25:** Two major developments in the case. First, the judge has struck a brief filed by the Discovery Institute because it was an attempt to get the expert testimony of Stephen Meyer and William Dembski into the record without having to be cross examined in court. Both of them pulled out as witnesses before the trial began. Second, the defense called Steven Fuller to the witness stand yesterday and he proceeded to help our side immensely. He actually testified that ID should be taught in schools despite the fact that it was still on the "fringe" of science and did not have testable theories developed, because that would help them recruit young people to work on their ideas. He proposed a sort of "affirmative action" program for fringe ideas in science. Ed Brayton has more [here](http://www.stcynic.com/blog/archives/2005/10/defense_witness_helps_plaintif.php).
+
+**2005/10/24:** Yes, Dick Carpenter was withdrawn as an expert witness, so on Friday, the court got to listen to Richard Nilsen failing to remember much at all. The defense said that Carpenter's testimony was no longer needed, according to the ACLU blog. On Monday, the defense brought in Steve Fuller, to give the postmodernist version of why "intelligent design" should be taught in the classrooms of Dover, Pennsylvania. Did you hear about the mafioso who studied French deconstructionist philosophy? He goes around making people offers that they can't understand. Well, Fuller at least was comprehensible when he told the court that what science needed was "affirmative action for fringe ideas". Vic Walczak queried, "But is the ninth grade science classroom the right place to apply that affirmative action?" I've been told that Fuller's cross-examination was helpful to the plaintiffs' case on several issues concerning the status of "intelligent design" in the scientific community.
+
+Oh, yes, Fuller also made the inexplicable claim that no evolutionary biologist had been awarded the Nobel Prize. While the Nobel Prize doesn't have an explicit evolutionary biology topic under which it makes awards, there have been several awards under the "Physiology or Medicine" topic that concern findings that touch upon evolutionary biology, going back to Thomas Hunt Morgan, forward through Muller, then Watson and Crick, and most recently Hartwell, Hunt, and Nurse. On the Nobel site you will learn that Nurse's research establishes that cyclin dependent kinase is conserved during evolution. When one turns to the Crafoord Prize in the Biosciences, an award also administered by the Swedish Academy of Sciences, one finds such people as Daniel H. Janzen, Edward O. Wilson, William D. Hamilton, John Maynard Smith, Ernst Mayr, George C. Williams, and Carl Woese have won that prize. Judging a whole scientific field by the idiosyncracies of one social institution seems anomalous behavior for a social scientist, and especially one who casts himself as a champion of pluralism.
+
+**2005/10/21:** The [York Daily Record reports](http://ydr.com/story/doverbiology/90721/):
+
+> The defense decided to continue with Dover Area Supt. Richard Nilsen's testimony this morning rather than call expert witness Dick Carpenter, an assistant professor of leadership, research and foundations at the University of Colorado at Colorado Springs.
+
+So, is Carpenter just slipping back in the schedule (they'd need to put him up somewhere over the weekend), or has Carpenter bailed after noting Behe's cross-examination?
+
+**2005/10/19:** "Is there a distinction to be made between science and science fiction?" Eric Rothschild asked Michael Behe. "Yes," responded Behe. "I have no further questions," said Rothschild. And with those words (or ones quite similar -- we'll get precision with the transcript release), Eric Rothschild laid to rest the remains of Behe's scientific credibility. Preceding that, there was a day full of cross examination, in which one would learn that Behe wasn't as familiar with the scientific literature on the immune system as one might hope for someone billed as an "expert", that rigorous peer review in "intelligent design" can be obtained in a ten-minute telephone interview -- without the reviewer even having to see the manuscript, that the blood-clotting system can be reduced to a "core" of four parts -- except that when one does so the result is claimed to be lethal, and much more. Why did the cross-examination of Behe sound so much like the lawyers were reading from the [TalkDesign web site](http://www.talkdesign.org)? Well, at least part of that would be due to the advice that the plaintiffs' lawyers received from NCSE Public Information Director Nicholas Matzke, aka "Nic Tamzek" from the early TalkDesign days and regular PT contributor. By almost all accounts\*, the TalkDesign material on various issues concerning Behe's "irreducible complexity" was put to good use. Expect a more complete eulogy for Behe's scientific career -- and a post-mortem, as it were, of the terminal handling it received on Tuesday and Wednesday -- to be posted here later, after we have the transcripts in hand.
+
+What has to be considered for the future is whether the on-the-stand demolition of Behe will influence the remainder of the slate of TMLC experts. They had a pretty high withdrawal rate pre-trial, and now that the preparation of the plaintiffs' legal team has been shown, vividly, will all the rest of TMLC's scheduled experts actually show up for a big helping of what Behe had?
+
+\* As one might expect, the DI thinks Behe weathered cross-examination without any trouble whatsoever, but when one's reports are apparently filed from Cloud Cuckoo Land, I think that we are permitted to "consider the source".
+
+**2005/10/18:** A [Philadelphia Inquirer article](http://www.philly.com/mld/inquirer/news/local/12938668.htm) reports on cross-examination of Michael Behe. Eric Rothschild is apparently taking the time to have Behe address the inconsistencies within "intelligent design" advocacy. This could take a while to get through:
+
+> Behe also said intelligent design does not maintain that life began abruptly, and does not specify God as the unidentified designer.
+> 
+> But plaintiffs' attorney Eric Rothschild produced documents, including Behe's own writings, that suggested otherwise.
+
+**2005/10/16:** A quick checkup on the last few days of the trial. First, the second part of Barbara Forrest's testimony is now [available](http://www2.ncseweb.org/kvd/trans/2005_1005_day6_pm.pdf) for download. The plaintiff's attorneys wrapped up their case with their last two witnesses testifying. Brian Alters, an expert in science education, [broke down](http://ydr.com/story/doverbiology/89445/#bbox89472) the school board's mandated statement phrase by phrase and showed why it undermines quality science education. Then Kevin Padian, a paleontologist, essentially gave a seminar on why we know evolution to be true and why many of the scientific claims in _Of Pandas and People_ are false (reports [here](http://ydr.com/story/doverbiology/89709/) and [here](http://ydr.com/story/doverbiology/89708/)). The defense will begin calling witnesses on Monday.
+
+The defense needs to defeat the plaintiffs' arguments concerning both the purpose and the effect of the "intelligent design" policy. For the second, they are most likely to try to convince Judge Jones that "intelligent design", and specifically the policy adopted by the DASD, are scientific in character, and thus have a place in the science curriculum regardless of any secondary effect they might have in the way of having implications for religious belief. We heard at the outset the apparent defense strategy concerning dealing with "purpose": paint the outspoken religious statements of school board members as not having any appreciable effect upon the board's deliberations in adopting the "intelligent design" policy. It is difficult to imagine Judge Jones buying that given what has been presented by the plaintiffs so far, but it should be entertaining to see the defense give it a go.
+
+It is expected that the defense will call Discovery Institute Center for ~~the Renewal of~~ Science and Culture Senior Fellow and Lehigh University professor Michael J. Behe on Monday. Behe will testify as to the scientific character of "intelligent design" and try to address the testimony of the plaintiffs' expert witnesses, especially that of Miller, Padian, and Alters. Behe has already given an expert report, a rebuttal report, and a deposition, so the plaintiffs should have a good idea of what is up.
+
+**2005/10/12:** Not much to report lately. The trial took two days off and resumes today with Dover science department chair Bertha Spahr finishing her testimony. Two more plaintiffs witnesses to go this week, then the defendants begin their case. The York Dispatch has an [interesting article](http://www.yorkdispatch.com/search/ci_3103505) on the question of whether the Supreme Court would take this case if it gets appealed that far and what the possible outcome might be.
+
+**2005/10/10:** PT contributor Burt Humburg is profiled and interviewed in [this story](http://ydr.com/story/doverbiology/88911/) in the York Daily Record. Burt seems to always be wherever there's a breakout of anti-evolution activity (first Kansas, then Minnesota, now Pennsylvania) and frankly we're beginning to wonder if he's really a spy from the Dark Side sent to get us drunk and loose lipped. We'd noticed that he does like to buy endless rounds of Protostome Pilsners ("Protostome Pilsner - in one end, out the same end") for everyone else while he sips his white wine spritzers. 
+
+**2005/10/07:** The transcript of the direct examination of Barbara Forrest is now available from [this page](http://www.aclupa.org/legal/legaldocket/intelligentdesigncase/dovertrialtranscripts.htm) (and [OCR'd etext on AE](http://www.antievolution.org/topics/law/kvd/2005_1005_day6_am001.html)). The cross examination portion should be available shortly. The defense spent hours trying to discredit her to the judge and failed, finally being admonished for continually trying to bring up irrelevant things like the positions of groups she belongs to on totally unrelated subjects. The defense was absolutely desperate to throw mud at her and they failed.
+
+**2005/10/06:** Yesterday brought perhaps the most contentious day of testimony yet, as Dr. Barbara Forrest took the stand for the plaintiffs. She testified on the history and development of the intelligent design movement and showed that the entire movement began primarily as a strategic response to the courts ruling "creation science" out of public schools. There are multiple reports on her testimony available online. The ACLU-PA blog has two reports, [here](http://aclupa.blogspot.com/2005/10/what-or-who-is-on-trial-here.html) and [here](http://aclupa.blogspot.com/2005/10/seeing-forrest-for-trees.html). The York Daily Record has one [report](http://ydr.com/story/doverbiology/88606/) on Forrest's testimony and [another](http://ydr.com/story/doverbiology/88628/) on the defense's frantic attempts to attack her testimony. The defense attorneys spent all morning objecting to her testimony but were repeatedly overruled by Judge Jones, then they tried to make an issue out of Forrest's own views on religion, which are clearly not relevant in court, and were overruled again. 
+
+Ed Brayton has an [analysis](http://www.stcynic.com/blog/archives/2005/10/barbara_forrests_testimony.php) of that strategy and points out that it contradicts what the DI has been saying in their attempts to undermine her testimony. The DI went so far as to issue a press release attacking Forrest yet again, which can only mean that they recognize how damaging her testimony, particularly the examination of the book _Of Pandas and People_ showing that the book simply replaced "creation" with "intelligent design" during the writing process, is to their side. This is desperation in action, folks.
+
+**2005/10/04:** The latest NCSE Podcast, discussing the testimony of Georgetown theology professor John Haught, is available [here](http://66.246.103.6/ncse/kvd/mp3s/ncse_kvd_20050930_haught1.mp3). 
+
+A group of scientists has filed a brief asking the court not to rule on the question of what is and is not legitimate science because they fear it will violate academic freedom and inhibit future research. This is the standard line coming from the Discovery Institute and Ed Brayton debunks it [here](http://www.stcynic.com/blog/archives/2005/10/more_dissembling_from_the_di_o.php).
+
+**2005/10/01:** The York Daily Record has a [brief report](http://ydr.com/story/doverbiology/87694/) on the testimony of Georgetown theology professor John Haught. Ed Brayton [argues](http://www.stcynic.com/blog/archives/2005/10/thompson_shows_why_id_is_not_f.php) that TMLC attorney Richard Thompson inadvertantly showed by his questioning exactly why ID is not falsifiable.
+
+**2005/09/29:** The court has now made the transcripts of day 1 of the trial available. You can download them in PDF format from the NCSE website - [AM session](http://www2.ncseweb.org/kvd/trans/kvd_trans_20050926_day1_am.pdf) and [PM session](http://www2.ncseweb.org/kvd/trans/kvd_trans_20050926_day1_pm.pdf).
+
+**2005/09/30: [PT:  Why didn't they tell us?](http://www.pandasthumb.org/archives/2005/09/why_didnt_they.html)**, where Nick Matzke covers some more of the evidence that "intelligent design" is just another label for the same old creationism.
+
+**2005/09/30: News roundup:** [The York Dispatch: Meetings were like revivals](http://www.yorkdispatch.com/local/ci_3075731), [York Daily Record: Mural at issue](http://ydr.com/story/doverbiology/87576/), [The Patriot-News: Dover board members pushed creationism, witnesses testify](http://www.pennlive.com/news/patriotnews/index.ssf?/base/news/1128072080121330.xml&amp;coll=1), [Pittsburgh Post-Gazette: Ex-official: Board broke with curriculum policy](http://www.post-gazette.com/pg/05273/580258.stm), [The Philadelphia Inquirer: Intelligent design a religious notion, scientist testifies](http://www.philly.com/mld/inquirer/news/local/12767500.htm).
+
+**2005/09/29:** [NCSE Podcasts for 2005/09/29](http://www2.ncseweb.org/wp/?p=38).
+
+**2005/09/29:** The court has now made the transcripts of day 1 of the trial available. You can download them in PDF format from the NCSE website - [AM session](http://www2.ncseweb.org/kvd/trans/kvd_trans_20050926_day1_am.pdf) and [PM session](http://www2.ncseweb.org/kvd/trans/kvd_trans_20050926_day1_pm.pdf).
+
+**2005/09/28:** On Thursday, the primary witness was Carol Brown, a former member of the Dover school board for 10 years until she resigned in protest of the new intelligent design policy. She testified to the repeated statements of Bill Buckingham, chair of the curriculum committee, and Alan Bonsell, chair of the school board, that they were seeking equal time for creationism in science classrooms. She detailed a year's worth of proselytizing by members of the school board, their outspoken opposition to the separation of church and state, and much more. She testified that the search for an ID textbook began because several members of the board objected to the biology textbook (Ken Miller's textbook, _Biology_) on the grounds that it did not give equal time to creationism or mention God. This follows on the heels of almost identical testimony from other former board members and teachers, including Bryan Rehm and Barrie Callahan.
+
+On 2005/09/28, the expert witness Robert Pennock of Michigan State University testified for the plaintiffs. He delineated the difference between methodological naturalism and philosophical naturalism, produced evidence showing that the ID advocates recognize that their arguments cannot work within a framework of methodological naturalism, and defended the role of methodological naturalism in the practice of science during the cross-examination. (See the [post concerning a quote of Nancy Pearcey's](http://www.pandasthumb.org/archives/2005/09/id_equals_a_bib.html) that Pennock referred to in his testimony and check out the [NCSE Podcast about Pennock's testimony](http://www2.ncseweb.org/wp/?p=36).)
+
+Meanwhile, the Discovery Institute is going spare over the imminent demise of its 'wedge strategy' concerning "intelligent design", offering up a [press release](http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=104&amp;STORY=/www/story/09-28-2005/0004133680&amp;EDATE=) wherein they offer the explanation that whatever the plaintiffs discuss inside the courtroom, it [isn't the real, true, honest-to-God, no-foolin', double-dog-dare-ya "intelligent design"](http://www.pandasthumb.org/archives/2005/09/id_is_not_eithe.html). Pathetic. Perhaps the committee charged with finding the _next_ label for antievolutionists to apply to the same old tired antievolution arguments is having some difficulty.   Nick Matzke covers some more of the [evidence that "intelligent design" is just another label for the same old creationism](http://www.pandasthumb.org/archives/2005/09/why_didnt_they.html). 
+
+**2005/09/27:** The plaintiffs brought in three fact witnesses, [plaintiffs Tammy Kitzmiller and Aralene "Barrie" Callahan](http://ydr.com/story/doverbiology/87192/), and Brian Rehm, a Dover science teacher. Kitzmiller testified to the choice her daughter had to make about staying or opting out of listening to the DASD "intelligent design" statement, where staying could be confusing concerning science, and leaving would expose her to possible ridicule and peer pressure. Callahan, a former school board member, testified to the school board's insistence that 'equal time' be given to creationism when evolution was taught. Rehm testified to being pressured by the school board to downplay or not teach evolution in classes. ([NCSE Podcast available.](http://www2.ncseweb.org/wp/?p=31))
+
+**2005/09/27:** [NCSE Podcast about KvD opening day](http://www2.ncseweb.org/wp/?p=30), about fifteen minutes of commentary on KvD and events of the opening day. More NCSE Podcasts on [opening day](http://www2.ncseweb.org/wp/?p=30) and  [Ken Miller's testimony](http://www2.ncseweb.org/wp/?p=33).
+
+The KvD trial got underway yesterday with opening statements from plaintiffs and defense, and Dr. Kenneth Miller of Brown University testifying as an expert for the plaintiffs.
+
+Eric Rothschild's opening statement for the plaintiffs charged that "intelligent design" is simply an adaptation of creationism, and a concept without any legitimate scientific standing. He also strongly commended evolutionary biology as a well-established scientific field of study.
+
+Pat Gillen, arguing for the defense, claimed that "intelligent design" is science, not religion, and that the DASD didn't pay much attention to Bill Buckingham, former school board member and fulminator for creationism there. This goes against news reports at the time, such as the [one reporting Yingling's resignation](http://ydr.com/story/doverbiology/51833/) as a result of pressure she felt to support the curriculum change. 
+
+> Yingling voted for the measure, but later said she did it only because she was called "un-Christian" and pressured to vote with the majority.
+> 
+> **([York Dispatch](http://www.yorkdispatch.com/Stories/0,1413,138~10021~2699416,00.html#))**
+
+Gillen also claimed that the DASD policy was a modest one, which rather goes against the content of a TMLC press release of 2005/01/18 that states, "a revolution in evolution is underway".
+
+Reports I've gotten from attendees have said that Ken Miller was "magnificent" and "a fabulous witness". In other words, Ken was having another ordinary day for him. Miller paid particular attention to _Of Pandas and People_, pointing out its deficiencies in terms of accurate reporting of biology and its clear creationist wellspring of arguments.
+
+**2005/09/27:** [Satire from Swift Reports: New Law Says Science Teachers Must Recite "Footprints in the Sand"](http://swiftreport.blogs.com/news/2005/09/new_law_says_sc.html)
+
+**2005/09/27: [PT:  Blogging the Dover Trial](http://www.pandasthumb.org/archives/2005/09/blogging_the_do.html)**, where Ed Brayton points out blogs of the [ACLU of Pennsylvania](http://aclupa.blogspot.com/) and [Jonathan Witt blogging for the DI](http://www.evolutionnews.org/). Ed also explains why ID advocates continue to be confused over the concept of "falsifiability".
+
+**2005/09/27: News Roundup:** [Stuck at Court, with no Circus in Sight, York Daily Record](http://ydr.com/story/mike/87041/), [Defense: It Isn't About Religion, York Daily Record](http://ydr.com/story/doverbiology/86977/), [Dover's Test Begins, York Daily Record](http://ydr.com/story/doverbiology/86976/), [Institute: Both Sides Wrong, York Daily Record](http://ydr.com/story/doverbiology/86982/), [Media Views on Dover, York Daily Record](http://ydr.com/story/doverbiology/86978/)
+
+**2005/09/26: News roundup:** NCSE's Executive Director Dr. Eugenie Scott interviewed on Lou Dobbs, CNN (9:30 PM EDT, 6:30 PM PDT). [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2005/09/25/AR2005092501177_pf.html), [York Dispatch](http://www.yorkdispatch.com/local/ci_3063666), [L.A. Times](http://www.latimes.com/news/nationworld/nation/la-na-dover26sep26,0,4324588.story?coll=la-home-headlines), [WGAL](http://www.thewgalchannel.com/learningmatters/5019361/detail.html), [Collective Bellaciao, France](http://bellaciao.org/en/article.php3?id_article=8483), [CivilRights.org](http://www.civilrights.org/library/detail.cfm?id=36053), [Orlando Sentinel](http://www.orlandosentinel.com/news/custom/space/orl-creation2605sep26,0,6120412.story?coll=orl-news-headlines-space), [York Daily Record](http://ydr.com/story/doverbiology/86831/), [York Daily Record](http://ydr.com/story/doverbiology/86908/), [Family News in Focus](http://www.family.org/cforum/fnif/news/a0038028.cfm), [NC News and Observer](http://newsobserver.com/news/story/2804120p-9248097c.html), [Minneapolis Star Tribune](http://www.startribune.com/stories/484/5634424.html).
+
+**2005/09/26: Trial begins: opening arguments from both sides, then plaintiffs call Prof. Ken Miller of Brown University. Miller gives direct testimony, and part of the cross-examination by the defense.**
+
+**2005/09/25: News roundup:** [Pittsburgh Post-Gazette](http://www.post-gazette.com/pg/05268/577404.stm), [York Daily Record](http://ydr.com/story/doverbiology/86784/), [New York Times](http://www.nytimes.com/2005/09/26/education/26evolution.html?pagewanted=print), [LA Times](http://www.latimes.com/news/nationworld/nation/la-na-dover26sep26,0,1846892,full.story?coll=la-story-footer), [Independent UK](http://news.independent.co.uk/world/americas/article315126.ece), [MSNBC](http://msnbc.msn.com/id/9444600/), [New Scientist](http://www.newscientist.com/article.ns?id=dn8042), [People's Daily Online](http://english.people.com.cn/200509/24/eng20050924_210621.html).
+
+**2005/09/24: [PT: Of Pandas and People: Creation Relabeled](http://www.pandasthumb.org/archives/2005/09/of_pandas_and_p.html)**, reports on the oral testimony taken earlier that shows that "creation" and "intelligent design" share the same definition, going from a draft of _Of Pandas and People_ to the published version.
+
+**2005/09/23:** As of September 13, 2005, the Kitzmiller et al. v. Dover Area School District case was headed for trial in Harrisburg, Pennsylvania starting on September 26, 2005. Judge John E. Jones III denied the Thomas More Law Center motion for summary judgment in an order delivered on September 13, clearing the way for the full trial. This post will provide a convenient place for links to articles and commentary on the Kitzmiller v. DASD proceedings. Not since the 1981 McLean v. Arkansas trial has there been a legal case of this size and complexity on the subject, with a slate of expert witnesses on each side scheduled to give testimony.
+
+Back in 2004, the Dover school board held a series of meetings in which they discussed putting creationism into the science classes. Former board member Bill Buckingham was reported to have said, "Two thousand years ago, someone died on a cross. Can't someone take a stand for him?" Later, Buckingham vehemently denied making that statement in discussion of the science curricula. The school board first approved the acceptance of nearly sixty copies of the "intelligent design" textbook, _Of Pandas and People_ (OPAP), for the school library. They then also adopted an "intelligent design policy", that was to inform the students in ninth-grade science classes about "intelligent design" and the availability of OPAP in the library. Following this, several parents sued the DASD over the "intelligent design policy". After several months of discovery, depositions, and other legal paperwork, the suit is now ready for trial.
+
+**2005/09/13: [Judge Jones denies TMLC motion for summary judgement](http://ydr.com/story/doverbiology/85138/).**
+
+**2005/08/11: [PT: Sandefur on defense motion for summary judgment](http://www.pandasthumb.org/archives/2005/08/thoughts_on_the.html)**
+
+**2005/08/10: [PT: Revelations in Dover](http://www.pandasthumb.org/archives/2005/08/revelations_in.html)**
+
+**2005/08/06: [PT: Design on Trial](http://www.pandasthumb.org/archives/2005/08/design_on_trial.html)**, reviews the state of play concerning KvD and OPAP93. 
+
+**2005/07/16: [PT: Creationist Credibility](http://www.pandasthumb.org/archives/2005/07/creationist_cre.html)**, reports on the FTE motion to intervene in KvD. 
+
+**2005/06/25: [PT: Dembski threatens to sue Dover defense](http://www.pandasthumb.org/archives/2005/06/dembski_threatens_to_sue_dover_defense.html)**, reports on Dembski delivering a $20K+ bill to TMLC for his services, which they are no longing using.
+
+**2005/06/20: [PT: Conflicting Explanations for Withdrawal of Dover Experts?](http://www.pandasthumb.org/archives/2005/06/conflicting_explanations_for_withdrawal_of_dover_experts.html)**, reports on the start of differing explanations for the withdrawal of three DI Fellows as experts by TMLC.
+
+**2005/06/19: [PT: ID Experts Withdraw from Dover Trial](http://www.pandasthumb.org/pt-archives/001160.html)**, reports on TMLC withdrawing three Discovery Institute Fellows as experts in the case because they insisted on having separate legal representation for themselves.
+
+**2005/03/28: [PT: Dover, PA Experts Revealed](http://www.pandasthumb.org/pt-archives/000916.html)**
+
+**2005/03/20: [PT: Dover Dithers Over Donations](http://www.pandasthumb.org/pt-archives/000888.html)**, reports on donations of science books to Dover school library and the DASD resistance to accepting those books.
+
+**2005/03/13: [PT: New news from Dover](http://www.pandasthumb.org/pt-archives/000871.html)**, reports that the Rutherford Institute motion to intervene in KvD was denied, and that _Of Pandas and People_ 1993 edition would not have been recommended to the Dover school board by its own publisher.
+
+**2005/01/28: [PT: Dover science teachers take a stand](http://www.pandasthumb.org/pt-archives/000716.html)**, reporting on science teachers refusing to deliver the administration's prepared speech on "intelligent design" to 9th grade science classes.
+
+**2005/01/12: [PT: This just in: Plaintiffs give up in Dover](http://www.pandasthumb.org/pt-archives/000735.html)**, comments on hilariously false religious reporting that confused the plaintiffs not having filed a motion to stop the DASD from implementing its "intelligent design" policy with their having dropped the KvD lawsuit.
+
+**2005/01/07: [PT: Another twist on the Dover story](http://www.pandasthumb.org/pt-archives/000712.html)**, reports on the Dover science teachers' letter to the administration stating their intention to opt out of reading the "intelligent design" policy statement to children in science classes.
+
+**2005/01/06: [PT: More PA scientists speak out against ID](http://www.pandasthumb.org/pt-archives/000711.html)**, reports on scientists at the University of Pennsylvania taking issue with the DASD "intelligent design" policy.
+
+**2004/12/21: [PT: More Dover](http://www.pandasthumb.org/pt-archives/000684.html)** reports on the DASD and the likelihood that the Thomas More Law Center would represent them in the lawsuit.
+
+**2004/12/15: [PT: Kitzmiller et al. v. Dover Area School District](http://www.pandasthumb.org/pt-archives/000675.html)**, reports on the filing of the lawsuit against DASD.
+
+**2004/12/11: [PT: Doverian doings](http://www.pandasthumb.org/pt-archives/000655.html)**, reports on area responses to the DASD policy and criticism of OPAP93.
+
+**2004/12/07: [PT: Analysis of Dover Biology Curriculum](http://www.pandasthumb.org/pt-archives/000644.html)**, looks at claims made by the DASD "intelligent design" policy.
+
+**2004/12/07: [Panda-monium: NCSE Resources Page on Pandas](http://www.pandasthumb.org/pt-archives/000646.html)**, points to the [NCSE resources page on OPAP](http://www.ncseweb.org/article.asp?category=21).
+
+**2004/12/06: [PT: Dover School Board Done to a Crispy Crunch](http://www.pandasthumb.org/pt-archives/000645.html)**, links to an op-ed by Paul Gross and Barbara Forrest concerning the Dover school board's "intelligent design" policy.
+
+**2004/12/05: [PT: Science Teachers Balk at Dover Decision](http://www.pandasthumb.org/pt-archives/000640.html)**.
+
+**2004/11/23: [PT: Dover School District Wades Into Troubled Waters](http://www.pandasthumb.org/pt-archives/000626.html)**, reports on the DASD adoption of its "intelligent design" policy and how that will very likely lead to a lawsuit.
+
+**2004/11/12: [PT: Dover creationism update](http://www.pandasthumb.org/pt-archives/000612.html)**, reports on the legal liability that DASD will be taking on by adoption of its "intelligent design" policy.
+
+Comments in this thread are for pointers to KvD resources **only**; all others will be deleted at the PT administration discretion and convenience. Please utilize the [After the Bar Closes](http://www.antievolution.org/cgi-bin/ikonboard/ikonboard.cgi?s=433428d3622260c4;act=ST;f=14;t=27) forum area for wider-ranging comments.

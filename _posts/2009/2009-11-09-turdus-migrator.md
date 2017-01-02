@@ -8,5 +8,20 @@ blog_id: 2
 post_id: 4322
 basename: turdus_migrator
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<figure>
+<img src="http://pandasthumb.org/archives/2009/07/06/Robin.JPG" alt="Robin.JPG" width="597" height="428" />
+<figcaption markdown="span">
+
+</figcaption>
+</figure>
+
+
+ 
+
+
+<figure>
+<a href="http://en.wikipedia.org/wiki/American_Robin"><img src="http://pandasthumb.org/archives/2009/07/06/Nest.JPG" alt="Nest.JPG" width="600" height="427" /></a>
+<figcaption markdown="span"><big>_Turdus migratorius_ -- American robin, feathering his nest.</big>
+
+</figcaption>
+</figure>

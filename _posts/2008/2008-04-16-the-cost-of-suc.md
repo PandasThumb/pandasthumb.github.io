@@ -8,5 +8,6 @@ blog_id: 2
 post_id: 3753
 basename: the_cost_of_suc
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<a href="http://www.expelledexposed.com/"><img src="http://pandasthumb.org/archives/banner-thumb-125x35.jpg" alt="expelled movie exposed" width="125" height="35" style="float:left;" /></a>The ExpelledExposed website reads "The full ExpelledExposed.com site is experiencing particularly high traffic at the moment. We are working to resolve this problem as quickly as possible"
+
+Such is the cost of success that the site could not handle the bandwidth needed to serve all the interested parties.

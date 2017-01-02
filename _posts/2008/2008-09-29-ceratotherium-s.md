@@ -8,5 +8,10 @@ blog_id: 2
 post_id: 3963
 basename: ceratotherium_s
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<figure>
+<a href="http://en.wikipedia.org/wiki/White_Rhinoceros"><img src="http://pandasthumb.org/archives/2008/09/20/rhinos.jpg" alt="rhinos.jpg" width="600" height="450" /></a>
+<figcaption markdown="span">
+_Ceratotherium simum_ --- White Rhinoceros, North Carolina Zoo
+
+</figcaption>
+</figure>

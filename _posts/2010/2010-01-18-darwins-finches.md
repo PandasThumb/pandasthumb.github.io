@@ -8,5 +8,10 @@ blog_id: 2
 post_id: 4532
 basename: darwins_finches
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<figure>
+<a href="http://blogs.discovermagazine.com/loom/science-tattoo-emporium/"><img src="http://pandasthumb.org/archives/2010/01/17/zimmer_beaks_finch_600.jpg" alt="zimmer_beaks_finch_600.jpg" width="600" height="450" /></a>
+<figcaption markdown="span">
+<big>Darwin's finches -- science tattoos.  Photograph courtesy of Carl Zimmer, [The Loom](http://blogs.discovermagazine.com/loom/).</big>
+
+</figcaption>
+</figure>

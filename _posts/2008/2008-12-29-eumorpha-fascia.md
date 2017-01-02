@@ -8,5 +8,11 @@ blog_id: 2
 post_id: 4046
 basename: eumorpha_fascia
 ---
-<p><strong>Syntax Error:</strong> Undefined subroutine &Text::KwickXML::tag_url called at KwickXML.pm line 749.
-</p>
+<figure>
+<a href="http://www.silkmoths.bizland.com/efascfas.htm"><img src="http://pandasthumb.org/archives/2008/11/28/Dunk/SphinxMothLarva.jpg" alt="SphinxMothLarva.jpg" width="600" height="450" /></a>
+<figcaption markdown="span">
+_Eumorpha fasciatus_ on _Mikania scandens_, central Florida 
+
+
+</figcaption>
+</figure>
