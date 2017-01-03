@@ -1,6 +1,6 @@
 ---
 title: 'Twittersaurus rex: Ken Ham takes the defensive'
-date: '2017-02-03 18:00:00 -07:00'
+date: '2017-01-03 14:20:00 -07:00'
 author: Matt Young
 ---
 
