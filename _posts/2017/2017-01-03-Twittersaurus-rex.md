@@ -6,7 +6,7 @@ author: Matt Young
 
 Did the Flood kill the dinosaurs? To Ken Ham, it's really stinking important.
 
-Guest post by **David MacMillan**
+Guest post by **David MacMillan**.
 
 It's no secret I've been working for the last few years with 137 Films on their upcoming documentary, [We Believe In Dinosaurs](https://www.indiegogo.com/projects/we-believe-in-dinosaurs-science#/). The film, which is expected to release early this year, explores the ins and outs of modern creationism, exemplified by Ken Ham's 100-million-dollar Ark Encounter in Northern Kentucky. I'm featured in the film as a former creationist who not only helped raise money for the Creation Museum but also used to write for Answers In Genesis. My involvement apparently raised some degree of ire from Ken Ham, who was initially receptive to participation in the film but has now decided it is a "[mockumentary](http://www.kentucky.com/news/local/education/article119659733.html)" intended to make creationism appear ridiculous. (Note: I'm not sure Ham knows what a mockumentary actually is. Ken Ham and other creationists got to tell their side of the story, so if they look ridiculous, that's on them.)
 
