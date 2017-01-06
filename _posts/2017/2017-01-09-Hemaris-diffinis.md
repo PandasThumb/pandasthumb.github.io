@@ -1,12 +1,12 @@
-Photograph by **Al Denelsbeck**.
-
-Photography contest, Honorable Mention.
-
 ---
 title: 'Hemaris diffinis'
 date: '2017-01-09 12:00:00 -07:00'
 author: Matt Young
 ---
+Photograph by **Al Denelsbeck**.
+
+Photography contest, Honorable Mention.
+
 <figure>
 <img src="/uploads/2017/Denelsbeck.Hemaris_diffinis.jpg" alt="Pentatomidae" />
 <figcaption>
