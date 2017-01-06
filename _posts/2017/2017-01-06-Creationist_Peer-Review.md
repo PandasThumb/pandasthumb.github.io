@@ -1,5 +1,5 @@
 ---
-title: 'Disagreement over Homo naledi offers fascinating peek into creationist peer review'
+title: 'Disagreement over <i>Homo naledi</i> offers fascinating peek into creationist peer review'
 date: '2017-01-06 14:00:00 -7:00'
 author: Matt Young
 ---
