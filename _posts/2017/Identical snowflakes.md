@@ -7,6 +7,6 @@ Photograph by **Kenneth G. Libbrecht**.
 <figure>
 <img src="/uploads/2017/Identical_Snowflakes_600.jpg" alt="Snowflake pair"/>
 <figcaption>
-<a href="http://www.nytimes.com/2016/01/23/science/who-ever-said-no-two-snowflakes-were-alike.html</a> 
+<a href="http://www.nytimes.com/2016/01/23/science/who-ever-said-no-two-snowflakes-were-alike.html">Pair of identical snowflakes.</a> 
 </figcaption>
 </figure>
