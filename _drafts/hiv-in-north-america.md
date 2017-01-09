@@ -4,7 +4,7 @@ date: '2016-12-15 17:01:00 -07:00'
 author: Shelby Prestwich
 ---
 
-There is a new theory about Patient 0 and the early history of HIV in North America that contradicts the current theory.  Scientists have been interested in how HIV has spread across the globe since it was detected and how it entered certain countries. The current theory is that a person from Africa or Haiti came to North America and spread the virus to people there. Many researchers believe that this individual is Patient 0. However, a [new analysis](http://www.nature.com/nature/journal/v539/n7627/full/nature19827.html) by Michael Worobey and colleagues at the Department of Ecology and Evolutionary Biology at the University of Arizona has been published in the Nature journal that reexamines the early HIV/AIDS history in North America and comes to a different conclusion.
+There is a new theory about Patient 0 and the early history of HIV in North America that contradicts the current theory.  Scientists have been interested in how HIV has entered certain countries and spread across the globe since it was detected. The current theory is that a person from Africa or Haiti came to North America and spread the virus to people there. Many researchers believe that this individual is Patient 0. However, a [new analysis](http://www.nature.com/nature/journal/v539/n7627/full/nature19827.html) by Michael Worobey and colleagues at the Department of Ecology and Evolutionary Biology at the University of Arizona has been published in the Nature journal that reexamines the early HIV/AIDS history in North America and comes to a different conclusion.
 
 ### History of HIV in North America ###
 
