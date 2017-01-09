@@ -1,5 +1,5 @@
 ---
-title: ‘Identical snowflakes’
+title: 'Identical snowflakes'
 date: ‘2017-01-23 12:00:00-07:00’ 
 author: Matt Young
 ---
