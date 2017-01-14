@@ -10,4 +10,4 @@ The anniversary of Darwin's birth is Sunday, February 12. You may find a great m
 
 The Clergy Letter Project states, "260 Congregations from 43 States and the District of Columbia representing 7 Countries are scheduled to participate in Evolution Weekend 2017." You may see a very long list organized by state and then foreign country on their website. Not all of the events will occur precisely during Evolution Weekend, so it will be wise to check.
 
-As a member of a territorial species, I looked for Colorado, where I live, and found one celebration of Darwin Day in Salida, hosted by the Central Colorado Humanists. Five churches and one synagogue, mine not among them, are planning Evolution Weekend events in Colorado. 
+As a member of a territorial species, I looked for Colorado, where I live, and found one celebration of Darwin Day in Salida, hosted by the Central Colorado Humanists. Five churches and one synagogue, mine not among them, are planning Evolution Weekend events in Colorado. Look around; you may find events near you.
