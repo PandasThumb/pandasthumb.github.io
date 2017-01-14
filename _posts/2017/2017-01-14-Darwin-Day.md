@@ -1,6 +1,6 @@
 ---
 title: 'Darwin Day&mdash;Evolution Weekend coming up'
-date: '2017-01-14 15:00:00 -07:00'
+date: '2017-01-14 14:00:00 -07:00'
 author: Matt Young
 ---
 
