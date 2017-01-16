@@ -39,4 +39,5 @@ If the general public had so little understanding of history that this seemed li
 For those interested in helping with [We Believe In Dinosaurs](https://www.indiegogo.com/projects/we-believe-in-dinosaurs-science/), the fundraising campaign met its initial goal of $50,000.00 a few days ago, but still needs more funds for sound and post-production. Every bit counts!
 
 <sup>**Note**</sup>
+
 <sup>**1.** As it turns out, this analogy is overgenerous to creationists, by three orders of magnitude. In reality, the timescale would be compressed to 1.3 seconds; I used a half-hour because otherwise it would be impossible to conceptualize. If the common creationist [orchard of life](http://www.myreadydefense.org/wp-content/uploads/Creation-Orchard-vs.-Evolutionary-Tree.png) were placed on the same scale as the evolutionary tree of life, the tree would be over nineteen miles tall. At the same time, the "orchard" would be over half a mile wide, because young-earth creationists believe that there were 12,300 times more species alive simultaneously before the Flood than have ever coexisted on Earth at once.</sup>
