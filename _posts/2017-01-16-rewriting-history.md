@@ -1,6 +1,6 @@
 ---
 title: 'Rewriting history: How creationism stays successful'
-date: '2017-01-16 11:01:00 -7:00'
+date: '2017-01-16 09:01:00 -7:00'
 author: David MacMillan
 ---
 
