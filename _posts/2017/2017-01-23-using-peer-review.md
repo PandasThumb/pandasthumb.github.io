@@ -1,6 +1,6 @@
 ---
 title: 'Using creationist peer review'
-date: '2017-01-23 09:01:00 -7:00'
+date: '2017-01-25 09:01:00 -7:00'
 author: David MacMillan
 ---
 
@@ -21,4 +21,4 @@ Todd contends:
 
 >MacMillan concludes that our exchange shows that all creationist journals "lack any actual rigorous peer-review process." Since MacMillan doesn't seem to have any firsthand experience with creationist peer review, that's a bold claim to make. Frankly, I've had more hassle from some creationist reviewers at JCTS than I've had publishing in some noncreationist journals. Creationist journals aren't all one thing, and they definitely aren't created "as a way to legitimize their claims of scientific and doctrinal authority."
 
-Obviously, 
+Obviously, one example does not prove a trend, but 
