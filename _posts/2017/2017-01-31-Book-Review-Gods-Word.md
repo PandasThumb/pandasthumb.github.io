@@ -1,5 +1,5 @@
 ---
-title: 'Book Review: God's Word or Human Reason?'
+title: 'Book Review - God's Word or Human Reason?'
 date: '2017-01-31 07:01:00 -7:00'
 author: David MacMillan
 ---
