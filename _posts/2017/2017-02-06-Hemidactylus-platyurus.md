@@ -9,4 +9,4 @@ Photograph by **Tony Gamble**.
 <figcaption>
 Toepads of <a href="https://en.wikipedia.org/wiki/Flat-tailed_house_gecko"><i>Hemidactylus platyurus</i></a> &ndash; flat-tailed house gecko.
 </figcaption>
-</figure>
+</figure> 
