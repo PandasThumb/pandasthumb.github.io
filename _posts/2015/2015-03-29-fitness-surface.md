@@ -119,9 +119,7 @@ let's explain this in more detail below:
 
 _As usual I will pa-troll the comments, and send off-topic stuff by our usual trolls **and replies to their off-topic stuff** to the Bathroom Wall_
 
-<p>**The target** 
-</p>
-
+**The target** 
 
 <p>DEM have a "target" for which the search is searching.
 Except that they don't actually require that the "search"
@@ -140,8 +138,8 @@ uniformly from the space hits the target.
 </p>
 
 
-<p>**Searches as distributions on the space of points**
-</p>
+**Searches as distributions on the space of points**
+
 
 
 <p>DEM consider the probability distribution of all outcomes of a
@@ -172,8 +170,8 @@ genotypes, and seek out worse ones. Anything that gets results is a
 </p>
 
 
-<p>**Are "searches" search algorithms?** 
-</p>
+**Are "searches" search algorithms?** 
+
 
 
 <p>Mathematicians and computer scientists working on optimization are
@@ -191,7 +189,7 @@ included in their space.
 </p>
 
 
-<p>**DEM's "Search For a Search"**</p>
+**DEM's "Search For a Search"**
 
 
 <p>A probability distribution on a set of _N_
@@ -228,8 +226,8 @@ search.
 </p>
 
 
-<p>**Their theorem**
-</p>
+**Their theorem**
+
 
 
 <p>When one draws a probability distribution, which is one of the
@@ -252,8 +250,8 @@ built that information in.
 </p>
 
 
-<p>**Mostly not using the fitness**. 
-</p>
+**Mostly not using the fitness**. 
+
 
 
 <p>In Joe's earlier post, he argued that Dembski and Marks were
@@ -268,8 +266,7 @@ can see that.
 </p>
 
 
-<p>**A simple "greedy" search algorithm**
-</p>
+**A simple "greedy" search algorithm**
 
 
 <p>Evolutionary processes occur in populations of organisms that have
@@ -307,8 +304,8 @@ see what it will do.
 </p>
 
 
-<p>**Searching for a small target**
-</p>
+**Searching for a small target**
+
 
 
 <p>To make the case even simpler, let's assume that all the genotypes
@@ -331,8 +328,8 @@ neighbors.
 </p>
 
 
-<p>**Probability of the GUC Bug finding the target** 
-</p>
+**Probability of the GUC Bug finding the target** 
+
 
 
 <p>Remember that if we drew at random from a distribution (a
@@ -371,8 +368,8 @@ larger than that.
 </p>
 
 
-<p>**Behavior on a "white noise" fitness surface**
-</p>
+**Behavior on a "white noise" fitness surface**
+
 
 
 <p>One of us (TE) has carried out computer simulations of this case.
@@ -385,8 +382,8 @@ Bug does far better than choosing a DNA sequence at random.
 </p>
 
 
-<p>**Can DEM's "searches" all be carried out by a greedy
-search bug?**</p>
+**Can DEM's "searches" all be carried out by a greedy
+search bug?**
 
 
 <p>This immediately establishes that most of the searches in DEM's
@@ -402,8 +399,8 @@ neighbors, we immediately narrow down DEM's searches to a tiny
 fraction of all possible searches.</p>
 
 
-<p>**But what about more realistic models of evolution?**
-</p>
+**But what about more realistic models of evolution?**
+
 
 
 <p>These have the same property. In the GUC Bug model, we had only
@@ -422,8 +419,8 @@ of the searches in DEM's space of searches.
 </p>
 
 
-<p>**What causes smooth fitness surfaces?**
-</p>
+**What causes smooth fitness surfaces?**
+
 
 
 <p>We can see that evolutionary processes are not typical members of
@@ -477,8 +474,8 @@ using the ordinary laws of physics.
 </p>
 
 
-<p>**Is evolution a search?**
-</p>
+**Is evolution a search?**
+
 
 
 <p>The modeling of evolutionary processes as searches is of limited
