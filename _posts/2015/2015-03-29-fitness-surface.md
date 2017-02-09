@@ -130,7 +130,7 @@ with unusually low fitnesses, mediocre fitnesses, or any mixture of
 them. They do not have to be points that are "specified" by
 fitness or by any other criterion. DEM do not require that the
 "search" even consider the fitnesses. They calculate the
-fraction of all _M_ points that are in the target. If _|T|_
+fraction of all _M_ points that are in the target. If |_T_|
 is the size of the target, for this fraction If we divide that by the
 number of points in the space, _N_, we get _p_ = |_T_|/|_N_|.
 This of course is also the probability that a random point drawn
