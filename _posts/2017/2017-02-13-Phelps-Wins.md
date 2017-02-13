@@ -1,5 +1,5 @@
 ---
-title: 'Dan Phelps wins Friends of Darwin award'
+title: 'Dan Phelps wins Friend of Darwin award'
 date: '2017-02-13 13:25:00 -7:00'
 author: Matt Young
 ---
