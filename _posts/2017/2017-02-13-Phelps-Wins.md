@@ -4,7 +4,7 @@ date: '2017-02-13 13:25:00 -7:00'
 author: Matt Young
 ---
  
-The National Center for Science Education has <a href="https://ncse.com/news/2017/02/friend-darwin-friend-planet-awards-2017-0018458">awarded its Friend of Darwin Award to Dan Phelps</a>, an occasional contributor to The Panda's Thumb and a frequent source of news about the Ark Park. In announcing the award, which was also given to Edward Larson and Richard Lensky, NCSE's Executive Director Ann Reid commented,
+The National Center for Science Education has <a href="https://ncse.com/news/2017/02/friend-darwin-friend-planet-awards-2017-0018458">awarded its Friend of Darwin Award to Dan Phelps</a>, an occasional contributor to The Panda's Thumb and a frequent source of news about the Ark Park. In announcing the award, which was also given to Edward Larson and Richard Lenski, NCSE's Executive Director Ann Reid commented,
 
 >The legal history of the creationism/evolution controversy is important to NCSE, and nobody has studied it more thoroughly and insightfully than Ed Larson, while it would be hard to think of anybody who has done as much to show that evolution is among the experimental sciences than Rich Lenski. As for Dan Phelps, he's the sort of activist who is a walking argument for human cloning: we could use a dozen of him!
 
