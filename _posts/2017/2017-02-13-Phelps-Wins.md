@@ -8,7 +8,7 @@ The National Center for Science Education has <a href="https://ncse.com/news/201
 
 >The legal history of the creationism/evolution controversy is important to NCSE, and nobody has studied it more thoroughly and insightfully than Ed Larson, while it would be hard to think of anybody who has done as much to show that evolution is among the experimental sciences than Rich Lenski. As for Dan Phelps, he's the sort of activist who is a walking argument for human cloning: we could use a dozen of him!
 
-Mr. Phelps recently provided us with an myriad of pictures of the <a href="https://pandasthumb.org/archives/2016/07/ark-park-on-ope.html">Ark Park on Opening Day</a> and will be featured in the film <a href="https://pandasthumb.org/archives/2016/12/we-believe-in-dinosaurs.html">We believe in dinosaurs</a>, along with PT contributor David MacMillan.
+Mr. Phelps recently provided us with a myriad of pictures of the <a href="https://pandasthumb.org/archives/2016/07/ark-park-on-ope.html">Ark Park on Opening Day</a> and will be featured in the film <a href="https://pandasthumb.org/archives/2016/12/we-believe-in-dinosaurs.html">We believe in dinosaurs</a>, along with PT contributor David MacMillan.
 
 Edward Larson is a historian who has written a number of books about evolution, creation, and the Scopes trial; Richard Lenski is the originator of the famous long-term evolution experiment involving the bacteria *E. coli*.
 
