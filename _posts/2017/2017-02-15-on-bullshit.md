@@ -1,6 +1,6 @@
 ---
 title: 'On Bullshit'
-date: '2017-02-15 16:54:00 -07:00'
+date: '2017-02-15 16:20:00 -07:00'
 author: Matt Young
 ---
  
