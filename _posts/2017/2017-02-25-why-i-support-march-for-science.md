@@ -1,6 +1,6 @@
 ---
 title: 'Why I support the March for Science'
-date: '2017-02-25 13:30:00 -7:00'
+date: '2017-02-25 13:30:00 -07:00'
 author: Matt Young
 ---
 
