@@ -29,6 +29,7 @@ to which someone replied,
 Unfortunately, both of those people probably see science as a liberal activity. 
 
 For that reason, I urge the organizers of the March to eschew overtly partisan signs and speeches, and also (in agreement with Professor Coyne) leave concerns about "inclusiveness" or discrimination for another time. I was gratified to see that, according to [photographs](https://www.bostonglobe.com/metro/2017/02/19/photos-from-boston-stand-for-science-rally/FlzwzqIlnx4V2xoAbJFsxI/story.html) posted by the *Boston Globe*, the marchers on Copley Square in Boston did exactly that.
+
 Unfortunately, the other day, I saw this query on the March's Facebook page:
 
 >Have you guys reached out to or heard from any LGBTQ+ equality organizations? The two that come to mind ... are NOGLSTP and oSTEM. I would love to have a contingent of other concerned gay/trans scientists to march with in solidarity.
