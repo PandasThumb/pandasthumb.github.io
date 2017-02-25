@@ -8,6 +8,8 @@ First, I have not the slightest concern about politicizing science. Science has 
 
 Robert S. Young (presumably no relation to me) proclaimed in the *New York Times* that [a scientists' march is a bad idea](https://www.nytimes.com/2017/01/31/opinion/a-scientists-march-on-washington-is-a-bad-idea.html). He bases his thinking largely on an anecdote: He once co-authored a report warning that sea level might rise by 39 inches (1 meter) by the end of the century. Real estate and other interests attacked the report, and the legislature passed a law that prohibited any planning based on an anticipated rise in sea level. Professor Young's conclusion is that neither the people in general nor the legislators in particular had ever met a scientist, so scientists should go out and
 
+<!--more-->
+
 >[m]ake contact with that part of America that doesn't know any scientists. Put a face on the debate. Help them understand what we do, and how we do it. Give them your email, or better yet, your phone number.
 
 He has a point, but as Jerry Coyne [notes](https://whyevolutionistrue.wordpress.com/2017/01/31/a-scientist-argues-that-the-march-for-science-is-a-bad-idea/), we would have to stop being scientists and become lobbyists.
