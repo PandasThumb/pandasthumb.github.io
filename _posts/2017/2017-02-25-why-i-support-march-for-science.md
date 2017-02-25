@@ -1,10 +1,10 @@
 ---
 title: 'Why I support the March for Science'
-date: '2018-02-25 10:00:00 -7:00'
+date: '2017-02-25 13:30:00 -7:00'
 author: Matt Young
 ---
 
-First, I have not the slightest concern about politicizing science. Science has long ago been politicized. It was politicized when elected representatives, from school board members to United States Senators, denied the reality of global warming (climate change, if you prefer), biological evolution, the deleterious effects of pollution, the urgent need for everyone to be vaccinated, and the need for conservation of our natural resources. Science was politicized when Scopes was convicted of teaching evolution, when Oppenheimer was denied his security clearance, and when the Trump administration decided to delete EPA webpages (later [rescinded](http://www.sciencemag.org/news/2017/01/trump-officials-suspend-plan-delete-epa-climate-web-page)). 
+First, I have not the slightest concern about politicizing science. Science has long ago been politicized. It was politicized when elected representatives, from school board members to United States Senators, denied the reality of global warming (climate change, if you prefer), biological evolution, the deleterious effects of pollution, the urgent need for everyone to be vaccinated, and the need for conservation of our natural resources. Science was politicized when Scopes was convicted of teaching evolution, when Oppenheimer was denied his security clearance, and when the Trump administration decided to delete certain EPA webpages (later [rescinded](http://www.sciencemag.org/news/2017/01/trump-officials-suspend-plan-delete-epa-climate-web-page)). 
 
 Robert S. Young (presumably no relation to me) proclaimed in the *New York Times* that [a scientists' march is a bad idea](https://www.nytimes.com/2017/01/31/opinion/a-scientists-march-on-washington-is-a-bad-idea.html). He bases his thinking largely on an anecdote: He once co-authored a report warning that sea level might rise by 39 inches (1 meter) by the end of the century. Real estate and other interests attacked the report, and the legislature passed a law that prohibited any planning based on an anticipated rise in sea level. Professor Young's conclusion is that neither the people in general nor the legislators in particular had ever met a scientist, so scientists should go out and
 >[m]ake contact with that part of America that doesn't know any scientists. Put a face on the debate. Help them understand what we do, and how we do it. Give them your email, or better yet, your phone number.
@@ -17,7 +17,7 @@ Here I have to agree with him, but the quotation he provides has by his own admi
 
 What I fear, however, is that the March will become politicized in a different way: It will be seen as a liberal activity, and science itself will be seen as a liberal activity. Indeed, it may already be seen that way: Most of the denialism that I cited above is entertained by the right wing; only vaccine denialism is prominent among liberals. Indeed, I found the following exchange on the March website. A punctuationally challenged individual wrote,
 
->... the president is not a symbol of america, he's a symbol or ignorance and stupidity. it's no longer the 1970's america. learn to use a computer for [expletive] sake
+>... the president is not a symbol of america, he's a symbol or [sic] ignorance and stupidity. it's no longer the 1970's america. learn to use a computer for [expletive] sake
 
 to which someone replied,
 
