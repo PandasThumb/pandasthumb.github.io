@@ -10,7 +10,9 @@ Robert S. Young (presumably no relation to me) proclaimed in the *New York Times
 >[m]ake contact with that part of America that doesn't know any scientists. Put a face on the debate. Help them understand what we do, and how we do it. Give them your email, or better yet, your phone number.
 
 He has a point, but as Jerry Coyne [notes](https://whyevolutionistrue.wordpress.com/2017/01/31/a-scientist-argues-that-the-march-for-science-is-a-bad-idea/), we would have to stop being scientists and become lobbyists.
-Professor Coyne is concerned about politicizing the March, which he fears might change from 
+
+Professor Coyne is concerned about politicizing the March, which he fears might change from
+<!--more-->
 >a pro-science march to a pro-social justice march. Now there's nothing wrong with marching in favor of minority rights and against oppression, but if you mix that stuff up with science, as the March organization seems to be doing, well, *that*  is a recipe for ineffectiveness. 
 
 Here I have to agree with him, but the quotation he provides has by his own admission already been withdrawn. 
