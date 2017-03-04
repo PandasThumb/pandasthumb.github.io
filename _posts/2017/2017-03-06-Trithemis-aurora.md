@@ -1,6 +1,6 @@
 ---
 title: 'Trithemis aurora'
-date: '2017-02-06 12:00:00 -07:00'
+date: '2017-03-06 12:00:00 -07:00'
 author: Matt Young
 ---
 Photograph by **Diogenes**.
