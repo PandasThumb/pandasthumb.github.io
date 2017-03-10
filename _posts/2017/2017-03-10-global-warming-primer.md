@@ -16,6 +16,8 @@ The last comment reminded me not only of Big Tobacco but also of a remark that I
 
 If Mr. Pruitt has any doubt about the reality of global warming and our contribution to it, Jeffrey Bennett's short book should quickly dispel that doubt. The book is written at perhaps a ninth-grade level, but a nonexpert like me can also learn a lot by reading it. Mr. Bennett uses a clear question-and-answer format and says that global warming is as simple as 1-2-3:
 
+<!--more--> 
+
 >1. **Fact:** Carbon dioxide is a greenhouse gas ....
 
 >2. **Fact:** Human activity, especially the use of fossil fuels, ... is adding significantly more of this heat-trapping gas to Earth's atmosphere.
