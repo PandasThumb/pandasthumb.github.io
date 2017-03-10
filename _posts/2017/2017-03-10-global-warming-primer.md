@@ -19,9 +19,7 @@ If Mr. Pruitt has any doubt about the reality of global warming and our contribu
 <!--more--> 
 
 > 1. **Fact:** Carbon dioxide is a greenhouse gas ....
-
 > 2. **Fact:** Human activity, especially the use of fossil fuels, ... is adding significantly more of this heat-trapping gas to Earth's atmosphere.
-
 > 3. **Inevitable conclusion:**  We should *expect* the rising carbon dioxide concentration to warm our planet ....
 
 The rest of the chapter provides evidence to establish that 1 and 2 are facts. The discussion is clear and remarkably encyclopedic, especially considering that the book is only about 130 pages long. The text is illuminated with countless graphs and figures, and clear descriptive captions (though I confess I got tired of captions that began something like, "These graphs show..."). The figures are mostly taken from other sources and are mostly clear and appropriate, but I found the figures a little hard to decipher on a black-and-white Kindle Paperwhite, so I switched to a tablet. (Note to authors of scientific papers: Make sure your figures are intelligible in black and white before you add color.)
