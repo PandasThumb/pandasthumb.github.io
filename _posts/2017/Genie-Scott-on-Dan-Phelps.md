@@ -1,6 +1,6 @@
 ---
-title: ‘Genie Scott on Dan Phelps’
-date: ‘04-05-2017 15:35:00 -06:00’ 
+title: 'Genie Scott on Dan Phelps'
+date: '04-05-2017 15:35:00 -06:00' 
 author: Matt Young
 ---
 
