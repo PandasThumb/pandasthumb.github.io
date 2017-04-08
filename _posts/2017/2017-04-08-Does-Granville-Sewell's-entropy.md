@@ -1,6 +1,6 @@
 ---
 title:'Does Granville Sewell's, etc.'
-date: '2018-04-08 12:00:00 -06:00:00'
+date: '2018-04-08 12:00:00 -06:00'
 author: Joe Felsenstein
 ---
 
