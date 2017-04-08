@@ -13,7 +13,7 @@ comments.
 A creationist blogger, Mark Champneys, recently discovered that post and made a comment there, and I have replied.  The discussion went back and forth a bit, but
 it is invisible to all readers of PT unless they receive notices of all new comments.  So, with Champneys's agreement, I am posting here, and both of us hope that the discussion can continue here.
 
-<! -- more -->
+<!--more-->
 
 Champneys's and my comments will be found <a href="https://pandasthumb.org/archives/2011/11/granville-sewel-1.html">here</a>. Further comments should be made on this thread, not that one.
 
