@@ -1,3 +1,9 @@
+---
+title:'Does Granville Sewell's, etc.'
+date: '2018-04-08 12:00:00 -06:00'
+author: Joe Felsenstein
+---
+
 <i>As the Panda's Thumb is not yet fully configured, it has no "sidebar" with links to new comments on old threads.  For that matter, past comments from the previous PT platform are not yet restored, so most older threads appear to have no comments.  We are assured that the old comments will, in time, be restored.</i>
 In 2011, I made a short post on an argument in <i>Evolution News and Views</i> by the mathematician Granville Sewell, who has been arguing that
 the Second Law of Thermodynamics showed that "order" could not arise by natural evolutionary processes.  I had previously posted here twice before (<a href="http://pandasthumb.org/archives/2010/02/evidence-that-t.html">here</a> and <a href="http://pandasthumb.org/archives/2011/02/granville-sewel.html">here</a>), posts that basically made fun
