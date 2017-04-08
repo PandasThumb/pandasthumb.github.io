@@ -1,5 +1,5 @@
 ---
-title: 'Does Granville Sewells, etc.'
+title: 'Does Granville Sewell&#39;s, etc.'
 date: '2018-04-08 11:00:00 -06:00'
 author: Joe Felsenstein
 ---
