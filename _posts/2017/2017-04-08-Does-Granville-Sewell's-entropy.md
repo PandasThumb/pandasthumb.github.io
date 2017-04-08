@@ -1,6 +1,6 @@
 ---
-title: 'Does Granville Sewell&#39;s, etc.'
-date: '2018-04-08 11:00:00 -06:00'
+title: 'Does Granville Sewell&#39;s argument make sense?'
+date: '2017-04-08 11:00:00 -06:00'
 author: Joe Felsenstein
 ---
 <i>As the Panda's Thumb is not yet fully configured, it has no "sidebar" with links to new comments on old threads.  For that matter, past comments from the previous PT platform are not yet restored, so most older threads appear to have no comments.  We are assured that the old comments will, in time, be restored.</i>
