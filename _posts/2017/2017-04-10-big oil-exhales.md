@@ -1,6 +1,6 @@
 ---
 title: 'Big Oil exhales tobacco smoke'
-date: '2018-04-10 10:30:00 -6:00'
+date: '2017-04-10 10:51:00 -6:00'
 author: Matt Young
 ---
 I am beginning to smell tobacco smoke, only it seems to be coming from the smokestack of a coal-burning power plant. The <i>Guardian</i> reported a few days ago that the executives of Big Oil knew of the possibility – no, the probability – of polluting the atmosphere with carbon dioxide and therefore altering the climate. They did not just keep their collective mouth shut, but rather denied the possibility that humanity was causing global warming. <a href="https://www.theguardian.com/business/2016/apr/13/climate-change-oil-industry-environment-warning-1968">According to the <i>Guardian</i></a>, a 1968 report by Stanford University, which was recently discovered and republished by the Center for International Environmental Law, stated,
@@ -9,7 +9,7 @@ I am beginning to smell tobacco smoke, only it seems to be coming from the smoke
 
 >It is clear that we are unsure as to what our long-lived pollutants are doing to our environment; however, there seems to be no doubt that the potential damage to our environment could be severe.
 
-In a nutshell, Stanford predicted <i>in 1968</i> precisely what we are seeing today: warming of the oceans, melting of the polar ice caps, and an overall increase in temperature. I have not read the report, but it looks like the only thing they missed was ocean acidification.
+In a nutshell, Stanford predicted <i>in 1968</i> precisely what we are seeing today: warming of the oceans, melting of the polar ice caps, a rise in sea levels, and an overall increase in temperature. I have not read the report, but it looks like the only thing they missed was ocean acidification.
 
 How did Big Oil or Big Fossil Fuel or whatever you want to call it respond? Precisely the same way as Big Tobacco: deny, deny, deny. The <i>Guardian</i> further notes,
 
@@ -19,4 +19,4 @@ How did Big Oil or Big Fossil Fuel or whatever you want to call it respond? Prec
 
 >Exxon had a dedicated in-house team that established the connection between fossil fuels and climate change, but the company still spent years refusing to acknowledge the issue and funding climate denial activities. Exxon now insists it accepts climate science and doesn’t promote denial of the changes to the planet already under way.
 
-What can I say? Just like Big Tobacco. Indeed, just like Big Sugar. Only instead of poisoning some of us, like Big Tobacco, the oil industry decided to poison the entire planet. And, alas, they seem to be succeeding.
+What can I say? Just like Big Tobacco (or Big Sugar, for that matter). Only instead of poisoning some of us, like Big Tobacco, the oil industry decided to poison the entire planet. And, alas, they seem to be succeeding.
