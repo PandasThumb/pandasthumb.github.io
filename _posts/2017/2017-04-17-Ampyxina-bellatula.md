@@ -3,9 +3,9 @@ title: 'Ampyxina bellatula'
 date: '2017-04-17 12:00:00 -06:00'
 author: Matt Young
 ---
-Photograph by **James Kocher**
+Photograph by **James Kocher**.
 
-Photography Contest, Honorable Mention
+Photography Contest, Honorable Mention.
 <figure>
 <img src="/uploads/2017/Kocher_Ampyxina-bellatula Ulrich1922Trilobite.jpg" alt="Trilobite"/>
 <figcaption>
