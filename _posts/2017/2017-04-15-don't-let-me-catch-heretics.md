@@ -1,5 +1,5 @@
 ---
-title: 'Don&#39;t let me catch any of you heretics claiming that creation was more than 10,000 years ago'
+title: 'Don&#39;t let me catch any of you heretics claiming that creation was 10,000 years ago'
 date: '2017-04-15 13:58:00 -06:00'
 author: Matt Young
 ---
