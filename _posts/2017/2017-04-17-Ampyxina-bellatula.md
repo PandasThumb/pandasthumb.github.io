@@ -8,6 +8,6 @@ Photography Contest, Honorable Mention
 <figure>
 <img src="/uploads/2017/Kocher_Ampyxina-bellatula Ulrich1922Trilobite.jpg" alt="Trilobite"/>
 <figcaption>
-<a href="https://en.wikipedia.org/wiki/Maquoketa_Group"><i>Ampyxina bellatula</i></a> (ullrich, 1922) &ndash; trilobite, ~475 Ma, Maquoketa Shale, Late Ordovician.
+<a href="https://en.wikipedia.org/wiki/Maquoketa_Group"><i>Ampyxina bellatula</i></a> (Ullrich, 1922) &ndash; trilobite, ~475 Ma, Maquoketa Shale, Late Ordovician.
 </figcaption>
 </figure>
