@@ -1,6 +1,6 @@
 ---
 title: 'March for science denial'
-date: '2017-04-16 16:40:00 -6:00'
+date: '2017-04-16 16:40:00 -06:00'
 author: Matt Young
 ---
 Well, OK, it is not exactly a march, but (as Glenn Branch of <a href="https://ncse.com/">NCSE</a> informs us) the Discovery Institute is teaming up with the Heritage Foundation for <a href="https://www.evolutionnews.org/2017/04/march-for-science-or-march-for-scientism-meyer-richards-smith-to-converge-on-heritage-foundation-april-19/">a provocative event</a> in which they will characterize the March for Science as a march for conformity or a march for scientism. In other words, they will describe the overarching scientific consensus on, say, evolution or anthropogenic climate change as mere expressions of scientific conformity or, when all else fails, accuse the real experts of "scientism."
