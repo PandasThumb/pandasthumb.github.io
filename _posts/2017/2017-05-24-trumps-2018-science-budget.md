@@ -6,7 +6,7 @@ author: Matt Young
 
 You can read about it in the <a href="https://www.washingtonpost.com/news/to-your-health/wp/2017/05/22/trump-budget-seeks-huge-cuts-to-disease-prevention-and-medical-research-departments/">Washington Post</a> or <a href="http://www.sciencemag.org/news/2017/05/what-s-trump-s-2018-budget-request-science">Science</a>, but <a href="https://www.aip.org/fyi/2017/trump-budget-slashes-science-confrontation-congress-looms">FYI</a>, by the American Institute of Physics, possibly sums it up the best:
 
-The Department of Energy's Advanced Research Projects Agency – Energy* – down 109&nbsp;%
+<blockquote>The Department of Energy's Advanced Research Projects Agency – Energy* – down 109&nbsp;%
 
 DOE's Renewable Energy – down 70&nbsp;%
 
@@ -35,7 +35,7 @@ NASA Science – down 0.9&nbsp;%
 National Nuclear Security Administration – up 7.7&nbsp;%
 
 
-&#42; The figure 109&nbsp;% is correct and has something to do with prior year balances.
+&#42; The figure 109&nbsp;% is correct and has something to do with prior year balances.</blockquote>
 
 
 In dollars, as opposed to percentage, according to FYI, the largest hit is to NIH, which will lose approximately $7.4 billion compared with the FY17 budget. NNSA, by contrast, gains about $1 billion.
