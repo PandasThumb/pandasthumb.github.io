@@ -6,7 +6,8 @@ author: Matt Young
 
 You can read about it in the <a href="https://www.washingtonpost.com/news/to-your-health/wp/2017/05/22/trump-budget-seeks-huge-cuts-to-disease-prevention-and-medical-research-departments/">Washington Post</a> or <a href="http://www.sciencemag.org/news/2017/05/what-s-trump-s-2018-budget-request-science">Science</a>, but <a href="https://www.aip.org/fyi/2017/trump-budget-slashes-science-confrontation-congress-looms">FYI</a>, by the American Institute of Physics, possibly sums it up the best:
 
-<blockquote>The Department of Energy's Advanced Research Projects Agency – Energy* – down 109&nbsp;%</br>
+<blockquote>The Department of Energy's Advanced Research Projects Agency – Energy* – down 109&nbsp;%
+
 DOE's Renewable Energy – down 70&nbsp;%
 
 DOE's Fossil Energy – down 58&nbsp;%
