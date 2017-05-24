@@ -22,7 +22,7 @@ Department of Defense Science and Technology – 5.8&nbsp;%
 NASA Science – down 0.9&nbsp;%
 National Nuclear Security Administration – up 7.7&nbsp;%
 
->&#42; The figure 109&nbsp;% is correct and has something to do with prior year balances.
+&#42; The figure 109&nbsp;% is correct and has something to do with prior year balances.
 
 
 In dollars, as opposed to percentage, according to FYI, the largest hit is to NIH, which will lose approximately $7.4 billion compared with the FY17 budget. NNSA, by contrast, gains about $1 billion.
