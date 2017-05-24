@@ -10,19 +10,19 @@ You can read about it in the <a href="https://www.washingtonpost.com/news/to-you
 <li>DOE's Renewable Energy – down 70&nbsp;%</li>
 <li>DOE's Fossil Energy – down 58&nbsp;%</li>
 <li>NOAA Research – down 32&nbsp;%</li>
-<li>DOE's Nuclear Energy – down 31&nbsp;%</li>
+<li>DOE's Nuclear Energy – down 31&nbsp;%</li></ul>
 
-<li>National Institute of Standards and Technology – down 23&nbsp;%</li>
+<ul><li>National Institute of Standards and Technology – down 23&nbsp;%</li>
 <li>National Institutes of Health – down 22&nbsp;%</li>
 <li>DOE's Office of Science – down 17&nbsp;%</li>
 <li>United States Geological Survey – down 15&nbsp;%</li>
-<li>National Science Foundation – down 11&nbsp;%</li>
+<li>National Science Foundation – down 11&nbsp;%</li></ul>
 
-<li>Department of Defense Science and Technology – 5.8&nbsp;%</li>
+<ul><li>Department of Defense Science and Technology – 5.8&nbsp;%</li>
 <li>NASA Science – down 0.9&nbsp;%</li>
-<li>National Nuclear Security Administration – up 7.7&nbsp;%</li>
+<li>National Nuclear Security Administration – up 7.7&nbsp;%</li></ul>
 
-<li>&#42; The figure 109&nbsp;% is correct and has something to do with prior year balances.</li></ul>
+<ul><li>&#42; The figure 109&nbsp;% is correct and has something to do with prior year balances.</li></ul>
 
 
 In dollars, as opposed to percentage, according to FYI, the largest hit is to NIH, which will lose approximately $7.4 billion compared with the FY17 budget. NNSA, by contrast, gains about $1 billion.
