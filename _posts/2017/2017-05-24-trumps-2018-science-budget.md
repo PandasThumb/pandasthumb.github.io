@@ -1,6 +1,6 @@
 ---
 title: 'Trump&#39;s 2018 science budget'
-date: '2017-05-24 13:50:00 -06:00'
+date: '2018-05-24 13:50:00 -06:00'
 author: Matt Young
 ---
 
