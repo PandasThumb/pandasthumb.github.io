@@ -6,36 +6,23 @@ author: Matt Young
 
 You can read about it in the <a href="https://www.washingtonpost.com/news/to-your-health/wp/2017/05/22/trump-budget-seeks-huge-cuts-to-disease-prevention-and-medical-research-departments/">Washington Post</a> or <a href="http://www.sciencemag.org/news/2017/05/what-s-trump-s-2018-budget-request-science">Science</a>, but <a href="https://www.aip.org/fyi/2017/trump-budget-slashes-science-confrontation-congress-looms">FYI</a>, by the American Institute of Physics, possibly sums it up the best:
 
-<blockquote>The Department of Energy's Advanced Research Projects Agency – Energy* – down 109&nbsp;%
+<ul><li>The Department of Energy's Advanced Research Projects Agency – Energy* – down 109&nbsp;%<li>
+<li>DOE's Renewable Energy – down 70&nbsp;%<li>
+<li>DOE's Fossil Energy – down 58&nbsp;%<li>
+<li>NOAA Research – down 32&nbsp;%<li>
+<li>DOE's Nuclear Energy – down 31&nbsp;%<li>
 
-DOE's Renewable Energy – down 70&nbsp;%
+<li>National Institute of Standards and Technology – down 23&nbsp;%<li>
+<li>National Institutes of Health – down 22&nbsp;%<li>
+<li>DOE's Office of Science – down 17&nbsp;%<li>
+<li>United States Geological Survey – down 15&nbsp;%<li>
+<li>National Science Foundation – down 11&nbsp;%<li>
 
-DOE's Fossil Energy – down 58&nbsp;%
+<li>Department of Defense Science and Technology – 5.8&nbsp;%<li>
+<li>NASA Science – down 0.9&nbsp;%<li>
+<li>National Nuclear Security Administration – up 7.7&nbsp;%<li>
 
-NOAA Research – down 32&nbsp;%
-
-DOE's Nuclear Energy – down 31&nbsp;%
-
-
-National Institute of Standards and Technology – down 23&nbsp;%
-
-National Institutes of Health – down 22&nbsp;%
-
-DOE's Office of Science – down 17&nbsp;%
-
-United States Geological Survey – down 15&nbsp;%
-
-National Science Foundation – down 11&nbsp;%
-
-
-Department of Defense Science and Technology – 5.8&nbsp;%
-
-NASA Science – down 0.9&nbsp;%
-
-National Nuclear Security Administration – up 7.7&nbsp;%
-
-
-&#42; The figure 109&nbsp;% is correct and has something to do with prior year balances.</blockquote>
+<li>&#42; The figure 109&nbsp;% is correct and has something to do with prior year balances.<li></ul>
 
 
 In dollars, as opposed to percentage, according to FYI, the largest hit is to NIH, which will lose approximately $7.4 billion compared with the FY17 budget. NNSA, by contrast, gains about $1 billion.
