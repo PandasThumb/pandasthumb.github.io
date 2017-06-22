@@ -1,6 +1,6 @@
 ---
 title: 'Photography Contest IX in 2 weeks ...'
-date: '2017-06-22 12:00:00 -06:00'
+date: '2017-06-22 10:40:00 -06:00'
 author: Matt Young
 ---
 
