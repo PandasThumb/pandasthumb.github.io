@@ -10,4 +10,3 @@ It looks like NASA will receive an increase of 1-2&nbsp;%, though earth science 
 
 NIST will be cut 9&nbsp;%, with manufacturing down 32&nbsp;%. Finally, NOAA will be cut 13&nbsp;%, but its vitally important climate research will be cut by 19 &nbsp;%, precisely as in the Trump budget request. Mitch Ambrose, the author of the FYI article, quotes a press release to the effect that "[f]unding is targeted to important priorities such as the National Weather Service, fisheries management, weather research, and ocean exploration while reducing funds for lower priority activities." The ranking member of the subcommittee, José Serrano, stipulated his opposition to the cuts to NOAA's Climate Research and NASA's Earth Science divisions. Mr. Ambrose notes that these programs were held flat in 2017, despite cuts that had been recommended by the subcommittee.
 
-It could be worse!
