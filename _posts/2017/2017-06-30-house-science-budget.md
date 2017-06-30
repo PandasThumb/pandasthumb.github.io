@@ -1,6 +1,6 @@
 ---
 title: 'House science budget not as bad as Trump&#39;s'
-date: ' 2017-06-30 16:50:00'
+date: ' 2017-06-30 17:00:00'
 author: Matt Young
 ---
 
