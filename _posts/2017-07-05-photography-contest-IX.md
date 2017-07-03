@@ -33,7 +33,7 @@ The rules of the contest are simple:
 
 <li>Photographs may be enhanced but may not be montages. High dynamic range photographs are, however, accepted.</li>
 
-<li>Submit a maximum of 3 photographs (or 5 photographs per family) between 12:00 MDT, July 5, and 12:00 MDT, July 17, to thousandwords@pandasthumb.org. MDT&nbsp;=&nbsp;UTC(GMT)&nbsp;&ndash;5&nbsp;h.</li>
+<li>Submit a maximum of 3 photographs (or 5 photographs per family) between 12:00 MDT, July 5, and 12:00 MDT, July 17, to thousandwords@pandasthumb.org. MDT&nbsp;=&nbsp;UTC(GMT)&nbsp;&ndash;&nbsp;5&nbsp;h.</li>
 
 <li>Submit the photographs as attachments to an e-mail (not embedded in the body of the e-mail). The subject line to the e-mail must have the form YourLastName_PhotographyContest. The filenames for the photographs must have the form YourLastName.Descriptor as, for example, Young.Oxytropis_sericea or Young.Table_Mountain, as appropriate. </li>
 
@@ -45,7 +45,7 @@ The rules of the contest are simple:
 
 <li>Regular contributors to The Panda's Thumb are not eligible to enter the contest.</li>
 
-<li>The decision of the judges is irrevocable. The judges remain irrepressibly and irreducibly irascible, irreverent, and irredeemable, irregardless.</li>
+<li>The decision of the judges is irrevocable. The judges remain irrepressibly and irreducibly irascible, irreverent, and irredeemable, irregardless and irrespective.</li>
 
 <li> Even though we are getting better at running contests, we reserve the right to change any of the rules, or add or subtract rules at any time at our discretion.</li>
 
