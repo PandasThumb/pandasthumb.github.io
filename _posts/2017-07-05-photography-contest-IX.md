@@ -17,7 +17,7 @@ We will accept entries from 12:00 MDT (11:00 MST), July 5, through 12:00 MDT (11
 
 We encourage entries in a single, general category, which includes pictures of just about anything of scientific interest: any object of experimentation or observation, from single-celled organisms, through nematodes, fruit flies, rats, chimpanzees, and college sophomores to volcanoes, stars, and galaxies. In order not to omit theoreticians, we will consider computer-generated pictures and also photographs of equipment. Photomicrographs and electron micrographs are likewise welcomed. 
 
-The first-place winner will receive a signed copy of <a href="http://www.amazon.com/Why-Evolution-Works-Creationism-Fails/dp/0813545501">Why Evolution Works (and Creationism Fails)</a>, which has been donated by one of the authors. 
+Prizes will include a signed copy of <a href="http://www.amazon.com/Why-Evolution-Works-Creationism-Fails/dp/0813545501">Why Evolution Works (and Creationism Fails)</a>, by Matt Young and Paul Strode, which has been donated by one of the authors; and Sahotra Sarkar's <a href="https://www.amazon.com/Doubting-Darwin-Creationist-Designs-Evolution/dp/1405154918">Doubting Darwin? Creationist Designs on Evolution</a>, which has been generously donated by the <a href="https://ncse.com/">National Center for Science Education</a>. 
 
 If we get enough entries, consistently with Rules 11 and 12, we may add categories and award additional prizes, presuming, of course, that we can find more prizes.
 
