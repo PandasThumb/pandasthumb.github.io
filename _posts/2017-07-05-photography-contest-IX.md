@@ -21,6 +21,8 @@ Prizes will include a signed copy of <a href="http://www.amazon.com/Why-Evolutio
 
 If we get enough entries, consistently with Rules 11 and 12, we may add categories and award additional prizes, presuming, of course, that we can find more prizes.
 
+<!--more-->
+
 The rules of the contest are simple:
 
 <ol>
