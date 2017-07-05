@@ -43,7 +43,7 @@ The rules of the contest are simple:
 
 <li>Depending on the number of photographs submitted, we may post the best submissions and ask our readers to vote for the best photograph. Likewise, we may establish several categories with separate entries and separate ballots. In particular, students 16 and under should so identify themselves; if we receive enough entries, we will establish a student category.</li>
 
-<li>By submitting a photograph, you stipulate that you are the owner of the copyright and grant The Panda's Thumb a nonexclusive license to publish the photograph on its blog. The photograph will be subject to a Creative Commons <a href=”http://creativecommons.org/licenses/by-nc-nd/2.5/”> Attribution-Noncommercial-No Derivatives</a> license. </li>
+<li>By submitting a photograph, you stipulate that you are the owner of the copyright and grant The Panda's Thumb a nonexclusive license to publish the photograph on its blog. The photograph will be subject to a Creative Commons <a href="http://creativecommons.org/licenses/by-nc-nd/2.5/"> Attribution-Noncommercial-No Derivatives</a> license. </li>
 
 <li>Regular contributors to The Panda's Thumb are not eligible to enter the contest.</li>
 
