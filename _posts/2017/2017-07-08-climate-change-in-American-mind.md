@@ -27,7 +27,7 @@ In a question used only since 2016, respondents were presented with "Schools sho
 
 The study was conducted by the Yale Project on Climate Change Communication and the George Mason University Center for Climate Change Communication. The surveys were administered in a web-based environment from May 18 to June 6, 2017, using an on-line research panel of 1266 American adults.
 
-According to the report, the sample "includes a representative cross-section of American adults – irrespective of whether they have Internet access, use only a cell phone, etc. Key demographic variables were weighted, post survey, to match US Census Bureau norms." The margin of sampling error was plus or minus 3% at the 95% confidence level.
+According to the report, the sample "includes a representative cross-section of American adults – irrespective of whether they have Internet access, use only a cell phone, etc. Key demographic variables were weighted, post survey, to match US Census Bureau norms." The margin of sampling error was plus or minus 3% at the 95% confidence level. 
 
 ____
 
