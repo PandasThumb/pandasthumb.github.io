@@ -5,7 +5,7 @@ encoding: UTF-8
 baseurl: ''
 url: https://pandasthumb.org
 relative_permalinks: false
-exclude: [Guardfile]
+exclude: [Guardfile, Gemfile, Gemfile.lock]
 excerpt_separator: "<!--more-->"
 markdown: kramdown
 highlighter: rouge
