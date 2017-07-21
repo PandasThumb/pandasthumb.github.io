@@ -21,7 +21,7 @@ shift
 cd "$src" || error_exit "ERROR: source directory does not exist."
 
 echo "[====] Building Webpage [====]"
-env JEKYLL_ENV=production jekyll build "$@" || error_exit "ERROR: Building webpage via Jekyll failed."
+env JEKYLL_ENV=production jekyll bundle exec build "$@" || error_exit "ERROR: Building webpage via Jekyll failed."
 
 echo
 echo "[====] Installing Webpage [====]"
