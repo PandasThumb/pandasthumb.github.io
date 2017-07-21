@@ -10,10 +10,6 @@ excerpt_separator: "<!--more-->"
 markdown: kramdown
 highlighter: rouge
 
-gems:
-  - jekyll-archives
-  - jekyll-feed
-
 jekyll-archives:
   enabled:
     - year
