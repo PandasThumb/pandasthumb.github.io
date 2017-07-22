@@ -1,3 +1,6 @@
 _site/
 .sass-cache/
 .jekyll-metadata
+.local
+.bundle
+Gemfile.lock
