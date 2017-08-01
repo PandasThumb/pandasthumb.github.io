@@ -55,3 +55,5 @@ The work done by Worobey et al is significant because they took speculation of s
 
 References:
 Worobey, M., Watts, T. D., Mckay, R. A., Suchard, M. A., Granade, T., Teuwen, D. E., . . . Jaffe, H. W. (2016). 1970s and ‘Patient 0’ HIV-1 genomes illuminate early HIV/AIDS history in North America. Nature, 539(7627), 98-101. doi:10.1038/nature19827
+
+_This series is supported by NSF Grant #DBI-1356548 to RA Cartwright._

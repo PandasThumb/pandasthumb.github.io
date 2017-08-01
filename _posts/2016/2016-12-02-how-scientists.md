@@ -32,3 +32,5 @@ So, who's right and where did *Leishmania* really come from?  Harkins et al sequ
 Harkins et al propose a modification and expansion of the Multiple Origins hypothesis to a new hypothesis they call Supercontinent.  On Gondwana, the ancestor of *Leishmania* emerges and when Gondwana begins to separate, the subgenus *Paraleishmania* is split from the rest of the genus, around 90-100 mya.  The split between *Viannia* and *Leishmania* occurred around 90 mya when Africa became isolated from South America.  These ideas and dates are consistent with the estimated divergence dates from the data.  There would only be one migration, from the Old World to the New, around 30 mya over the Beringia land bridge when temperatures were warm enough for sand fly, and therefor *Leishmania,* survival.
 
 This is an example of how scientists can resolve debates and conflicts over different hypotheses: through experimentation and the resulting data.  It also shows that science never stands still.  Our knowledge of the world is continually expanding.
+
+_This series is supported by NSF Grant #DBI-1356548 to RA Cartwright._
