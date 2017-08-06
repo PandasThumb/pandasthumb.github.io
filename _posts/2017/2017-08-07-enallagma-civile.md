@@ -1,9 +1,10 @@
 ---
-title: 'Photography contest IX, Winner'
+title: 'Enallagma civile'
 date: '2017-08-07 12:00:00 -06:00'
 author: Matt Young
 ---
 Photograph by **Vivian Dullien**.
+Photography contest, **Winner**.
 <figure>
 <img src="/uploads/2017/DullienV_Enallagma_civile.jpg" alt="Damselfly"/>
 <figcaption>
