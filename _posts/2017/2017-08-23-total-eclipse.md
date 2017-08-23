@@ -19,7 +19,7 @@ The sky was clear, the time was near noon, and you could see the moon eat into t
 
 More below the fold.
 
-<--!more-->
+<!--more-->
 
 It was impossible to find "proper" photographic filters with the required optical density of 5 or 6 (an attenuation of 10<sup>5</sup> or 10<sup>6</sup>), so I cut up a pair of cardboard goggles, mounted them in an adapter ring, and screwed the assembly into a 300 mm (35-mm equivalent) zoom lens:
 
