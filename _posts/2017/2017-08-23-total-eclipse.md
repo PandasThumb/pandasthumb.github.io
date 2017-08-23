@@ -21,7 +21,7 @@ More below the fold.
 
 <--!more-->
 
-It was impossible to find "proper" photographic filters with the required optical density of 5 or 6 (an attenuation of 10<sup>5</sup> or 10<sup>6</sup>), so I cut up a pair of cardboard goggles, mounted them in an adapter ring, and screwed the assembly into a 400 mm (35-mm equivalent) zoom lens:
+It was impossible to find "proper" photographic filters with the required optical density of 5 or 6 (an attenuation of 10<sup>5</sup> or 10<sup>6</sup>), so I cut up a pair of cardboard goggles, mounted them in an adapter ring, and screwed the assembly into a 300 mm (35-mm equivalent) zoom lens:
 
 <figure>
 <img src="/uploads/2017/IMG_1929_Camera_600.JPG" alt="Camera"/>
