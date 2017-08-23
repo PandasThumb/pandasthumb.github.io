@@ -1,6 +1,6 @@
 ---
 title: 'Total eclipse of the sun'
-date: '2018-08-23 12:00:00 -06:00'
+date: '2017-08-23 15:41:00 -06:00'
 author: Matt Young
 ---
 I got an unexpected opportunity to travel to Jackson, Wyoming, in the Grand Tetons,
