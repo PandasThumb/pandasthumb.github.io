@@ -6,7 +6,7 @@ author: Matt Young
 I got an unexpected opportunity to travel to Jackson, Wyoming, in the Grand Tetons
 
 <figure>
-<img src="/uploads/2017/DSC01441_Corrected_600.jpg" alt=" Grand Tetons"/>
+<img src="/uploads/2017/DSC01441_Corrected_600.jpg" alt="Grand Tetons"/>
 </figure>
 
  to see the eclipse on August 21. I took a lot of pictures, but the bottom line is these phases of the eclipse:
