@@ -9,7 +9,7 @@ Photography contest, **Finalist**.
 <figure>
 <img src="/uploads/2017/Andreas.Tenodera_sp.jpg" alt="Praying mantis"/>
 <figcaption>
-<a href="http://bugguide.net/node/view/386"><i>Tenodera</i> sp.</a> &ndash; praying mantis nymphs, New Paltz, NY, May 12, 2014.
+<a href="http://bugguide.net/node/view/386"><i>Tenodera</i> sp.</a> &ndash; praying mantis nymphs, New Paltz, NY, May 12, 2014.</figcaption>
 </figure>
 
 
