@@ -119,4 +119,4 @@ So, here is my request to Todd Wood and others like him who are reading this pos
 
 -----
 
-<small>*<a name="footnote" href="#Wood">^</a> For Wood's analysis that produced this number, see Wood, T. C. (2011)</a>. "The chimpanzee genome is nearly identical to the human genome". Pages 24–25 in <a href="http://www.coresci.org/jcts/index.php/jctsb/article/view/8/14">CBS Annual Conference Abstracts 2011</a>. <i>Journal of Creation Theology and Science, Series B: Life Sciences</i>, 1, 18–27.</small>
+<small>*<a name="footnote" href="#Wood">^</a> For Wood's analysis that produced this number, see Wood, T. C. (2011). "The chimpanzee genome is nearly identical to the human genome". Pages 24–25 in <a href="http://www.coresci.org/jcts/index.php/jctsb/article/view/8/14">CBS Annual Conference Abstracts 2011</a>. <i>Journal of Creation Theology and Science, Series B: Life Sciences</i>, 1, 18–27.</small>
