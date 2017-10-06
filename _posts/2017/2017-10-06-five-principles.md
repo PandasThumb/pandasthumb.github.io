@@ -14,7 +14,7 @@ We apparently were doing something wrong as of 2014, but as of this year it seem
 
 <figure>
 <img src="/uploads/2017/Kane_Five_Principles_1000.jpg" alt="Graph"/>
-<figcaption>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Americans' views on human origins, according to <a href="http://www.gallup.com/poll/210956/belief-creationist-view-humans-new-low.aspx">Gallup</a>. Graph by Emily Willoughby.</strong></figcaption>
+<figcaption><strong>Americans' views on human origins, according to <a href="http://www.gallup.com/poll/210956/belief-creationist-view-humans-new-low.aspx">Gallup</a>. Graph by Emily Willoughby.</strong></figcaption>
 </figure><br/><br/>
 
 I think my book is part of a general trend among science educators over the past year or so towards finally figuring out an effective way to communicate with creationists. I've learned this the hard way, both from debating with creationists at forums and over the nine-year process of writing and editing my book. In this article I'm going to summarize some of the conclusions I've come to about how to best argue against creationism, in the hope that other critics of creationism can argue against it in a way that is as effective as possible.
