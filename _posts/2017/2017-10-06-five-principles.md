@@ -4,7 +4,7 @@ date: '2017-10-06 15:54:00 -06:00'
 author: Jonathan Kane
 ---
 
-<i>Guest author <strong>Jonathan Kane</strong> is the editor and primary author of <a href="https://www.amazon.com/Gods-Word-Human-Reason-Perspective/dp/1629013722"></i>God’s Word or Human Reason? An Inside Perspective on Creationism<i></a>, co-authored with Emily Willoughby, T. Michael Keesey, Glenn Morton, and James R. Comer, and published December 2016 by Inkwater Press. Matt Young is this post's moderator.</i>
+<i>Guest author <strong>Jonathan Kane</strong> is the editor and primary author of </i><a href="https://www.amazon.com/Gods-Word-Human-Reason-Perspective/dp/1629013722">God’s Word or Human Reason? An Inside Perspective on Creationism</a>, <i>co-authored with Emily Willoughby, T. Michael Keesey, Glenn Morton, and James R. Comer, and published December 2016 by Inkwater Press. Matt Young is this post's moderator.</i>
 
 <strong>America's changing beliefs</strong>
 
