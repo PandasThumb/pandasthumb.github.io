@@ -6,7 +6,7 @@ author: Jonathan Kane
 
 <i>Guest author <strong>Jonathan Kane</strong> is the editor and primary author of </i><a href="https://www.amazon.com/Gods-Word-Human-Reason-Perspective/dp/1629013722">God’s Word or Human Reason? An Inside Perspective on Creationism</a>, <i>co-authored with Emily Willoughby, T. Michael Keesey, Glenn Morton, and James R. Comer, and published December 2016 by Inkwater Press. Matt Young is this post's moderator.</i>
 
-<strong>America's changing beliefs</strong>
+# America's changing beliefs
 
 Since the 1980s, every few years Gallup has conducted a poll about American attitudes towards common descent. The portion of Americans who are creationists has generally stayed in the range of 40 to 47 percent, while the percentage who believe that humans evolved without God's guidance has stayed in the single digits or teens but seen a steady increase, with a comparable slow decrease in the percentage who are theistic evolutionists. Using the poll data from 2014, the introduction to my book said that the arguments and methods used by science educators over the past decade had not been effective, since they  had not made any meaningful dent in the portion of Americans who are creationists.
 
@@ -21,7 +21,7 @@ I think my book is part of a general trend among science educators over the past
 
 <!--more--> 
 
-<strong>1: Criticize either creationism or religion in general, but not both.</strong>
+# 1: Criticize either creationism or religion in general, but not both.
 
 Over the past few years there has been a movement among science educators known as <a href="http://www.patheos.com/blogs/camelswithhammers/2012/02/anti-accommodationism-is-pro-philosophy/">anti-accommodationism</a>, which argues that we should direct our criticism not just against specific religious doctrines such as creationism, but (in the wording of the linked article) should "vigorously publicly attack religious beliefs and institutions". This is a reasonable approach if your objection really is to religion in general, and if you don't particularly care about winning support for evolution or an old Earth. But if you are arguing against religion while also trying to argue against creationism, your anti-religion arguments are inevitably going to undermine your anti-creationism arguments. Emily Willoughby explains the reason for this in the introduction to our book, but here's a summary:
 
@@ -43,7 +43,7 @@ Anyone who thinks creationists won't notice this sort of shift in position is un
 
 Kenneth Miller is an example of someone who's avoided making this mistake. In <a href="https://books.google.com/books?id=bJE_PgAACAAJ"><i>Finding Darwin's God</i></a>, Miller explained how he reconciles evolution with his own Roman Catholic faith, and as a result none of his subsequent arguments against creationism can be discounted on the grounds that he's trying to turn people away from Christianity. One doesn't have to personally be religious to use Miller's approach: Eugenie Scott is an example of a non-theist who has used a similar strategy. Alternatively, if your priority is to attack religion in general, it's best to take the approach that's taken by Sam Harris, who is a vocal critic of religion but hasn't been an active participant in the creationism vs. evolution debates. I have no doubt that Sam Harris is opposed to creationism, but he might be aware that as a well-known advocate of atheism, he isn't in a position to effectively argue for Christians to accept evolution.
 
-<strong>2: On a topic where mainstream scientists disagree, don't present a single viewpoint as the only correct one.</strong>
+# 2: On a topic where mainstream scientists disagree, don't present a single viewpoint as the only correct one.
 
 I've tried to avoid this mistake in my own book, with respect to the question of whether primitive feathers are an ancestral trait for all dinosaurs. There is not currently enough evidence to judge whether theropods and ornithischians both inherited this skin covering from their common ancestor or whether it was an example of convergent evolution, so my book's chapter about dinosaurs presents this as a question where we don't yet know the answer. But on these sorts of issues that are controversial among supporters of evolution, it's common for the authors of anti-creationism books to present their own viewpoint at the only valid one. In <a href="https://books.google.com/books?id=983rAwAAQBAJ"><i>Undeniable</i></a>, Bill Nye takes this approach with respect to the topic of race:
 
@@ -59,7 +59,7 @@ Nye played straight into Answers in Genesis' hands with this argument. Shortly a
 
 Richard Dawkins' book <a href="https://books.google.com/books?id=rR9XPnaqvCMC"><i>The Ancestor's Tale</i></a>, which discusses race in chapter 26, is an example of a book that provides a properly nuanced discussion of the topic. (Some of Dawkins' discussion of race is online <a href="http://web.archive.org/web/20041001090507/http://www.prospect-magazine.co.uk/ArticleView.asp?P_Article=12850">here</a>.) Alternatively, in books whose purpose is to argue against creationism, it isn't really necessary to discuss this topic at all. The existence or non-existence of human races has very little to do with refuting creationist arguments, unless it is to show that the amount of genetic divergence between human populations is more than could have happened within four thousand years. On topics that are controversial among evolutionary biologists and that aren't actually necessary to discuss, the simplest solution is to avoid them entirely.
 
-<strong>3: It is essential to understand and address the creationist viewpoints on a topic.</strong>
+# 3: It is essential to understand and address the creationist viewpoints on a topic.
 
 In order to argue effectively against the creationist position on a topic, one must first understand exactly what that position is, and what arguments are used to support it. Looking up the positions of the major young-Earth creationist organizations (Answers in Genesis, Creation Ministries International, the Institute for Creation Research, and the Creation Research Society) is a good place to start. It's also a good idea to look up what's been published on a topic in the three major creationist academic journals: <a href="https://answersingenesis.org/answers/research-journal/"><i>Answers Research Journal</i></a>, <a href="https://www.creationresearch.org/index.php/extensions/crs-quarterly"><i>Creation Research Society Quarterly</i></a>, and the <a href="https://creation.com/journal-of-creation"><i>Journal of Creation</i></a>.
 
@@ -79,7 +79,7 @@ For example, while writing a portion of my book's chapter about human origins, I
 
 For many years, the articles at <a href="http://www.talkorigins.org/">Talk.Origins</a> were the gold standard for how to properly address creationist arguments, but most parts of that website haven't been updated since 2011. In the time since then, some opponents of creationism appear to have begun trying to win simply by ridiculing the other side or drowning it out, as in the above-linked Sandwalk thread. I find this recent lack of effort very troubling, because to someone who looks closely at the arguments and tactics that both sides are using, this approach makes it appear as though creationists are winning the debate. Fortunately, over the past year or so, a few science educators have begun to realize that this tactic is unlikely to work in the long run. Everyone who cares about opposing creationism should recognize the importance of this return to the methods that were used at Talk.Origins.
 
-<strong>4: Broad-level overviews usually aren't effective.</strong>
+# 4: Broad-level overviews usually aren't effective.
 
 As is apparent from the articles by Henke, Loechelt, and Christman about RATE's research on zircons, adequately addressing a complex creationist argument requires more than just a paragraph or two. My own book's rebuttal to RATE takes up about 28 pages, and this is despite the fact that its discussion of zircons leans heavily on the earlier rebuttals by the three authors I mentioned. If this is the amount of detail that's necessary to adequately address the creationist perspective on a single topic, then how can a discussion of every line of evidence for evolution to fit into a single book?
 
@@ -89,7 +89,7 @@ I consider this a shortcoming of almost every well-known anti-creationism book p
 
 The best way for a book to avoid this problem is by focusing on only a single area or a few areas, and covering its chosen topic or topics as thoroughly as possible. One recent  book that does this especially well is <a href="https://books.google.com/books?id=p3YNMQAACAAJ"><i>Evolution Slam Dunk</i></a> by James Downard. This entire book (about 500 pages) is devoted to presenting the case for the evolution of mammals from reptiles, and this amount of detail makes it possible for every major creationist argument about the origin of mammals to be discussed and dismantled. I've sometimes seen Downard's book compared to my own, and in this respect their approaches are indeed similar, with the difference that my own book covers a small handful of topics instead of just one.
 
-<strong>5: In general, the most potent criticism of creationist models is from other creationists.</strong>
+# 5: In general, the most potent criticism of creationist models is from other creationists.
 
 When one spends a while reading the creationist technical literature, it becomes clear very quickly that young-Earth creationism is not a single set of models. There is a vast amount of disagreement among YECs on topics such as which strata are or are not from the Flood, where the boundaries between baramins are located, or how it is possible for Earth to receive light from stars that are millions or billions of light-years away. In general, the best criticism of creationist models in any of these areas comes not from supporters of evolution, but from creationists who support a different set of models. Here are a few examples of this principle:
 
@@ -103,7 +103,7 @@ I think there are three reasons creationists are particularly good at debunking 
 
 Very few anti-creationism authors have shown an understanding of this principle. It's rare to begin with for books of this genre to discuss the creationist literature in depth, and it's even rarer for them to cite it in order to refute models from other creationists, but one author who stands out for his knowledge in this area is Phil Senter. Senter's paper <a href="http://reports.ncse.com/index.php/rncse/article/view/44/36">The Defeat of Flood Geology by Flood Geology</a> is an ideal example of how to effectively argue against a creationist model using the arguments and evidence presented in the creationist technical literature. Usually when an anti-creationism paper receives as much attention as that one has, the major creationist organizations respond to it with some sort of counter-argument, and I find it quite telling that their response to this paper (as far as I can tell) has been complete silence.
 
-<strong>A corollary to point 5</strong>
+# A corollary to point 5
 
 Although my <a href="https://pandasthumb.org/archives/2016/11/creationist-class.html">previous post here</a> was intended mostly for readers of my book, I was surprised to discover that a few professional creation scientists reacted positively to it. Apparently several of them read this blog, and also agree that the time has come for creationists to accept the existence of feathered dinosaurs. Some of them will most likely be reading this post as well, so my last point here is intended for them in particular.
 
