@@ -3,7 +3,7 @@ title: ‘Taylor and Francis pulls paper after threat against editor’
 date: ‘2017-10-08 20:00:00 -06:00’ 
 author: Matt Young
 ---
-I came across a notification yesterday that the publisher Taylor and Francis had withdrawn a paper following a threat against the editor. The paper in question is <a href="http://www.tandfonline.com/doi/abs/10.1080/01436597.2017.1369037">The case for colonialism</a>, by Bruce Gilley, a professor of political science at Portland State University. The paper was originally published in a journal known as Third World Quarterly. If you click on the link you will find,
+I came across a notification yesterday that the publisher Taylor and Francis had withdrawn a paper following a threat against the editor. The paper in question is <a href="http://www.tandfonline.com/doi/abs/10.1080/01436597.2017.1369037">The case for colonialism</a>, by Bruce Gilley, a professor of political science at Portland State University. The paper was originally published in a journal known as Third World Quarterly. If you click on the link you will find, 
 
 >Abstract
 
