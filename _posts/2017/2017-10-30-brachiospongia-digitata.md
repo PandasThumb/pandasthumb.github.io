@@ -5,7 +5,7 @@ author: Matt Young
 ---
 Photograph by **Dan Phelps**.
 
-Photography contest, Honorable Mention.
+Photography contest, **Finalist**.
 <figure>
 <img src="/uploads/2017/Phelps_Brachiospongia_3_600.jpeg" alt="Brachiospongia"/>
 <figcaption>
