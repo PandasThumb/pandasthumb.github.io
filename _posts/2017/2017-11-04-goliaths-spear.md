@@ -14,6 +14,7 @@ The spear head and the counterweight at the tail end are made of iron, and the s
 Dan Phelps, who sent us the link to the article, is somewhat more circumspect than Mr. Ham:
 
 >It could be twice as big, or only half size and one couldn't "prove" it was wrong. The Ark has brought out a golden age of creationism wherein they just make [bullshit](https://pandasthumb.org/archives/2017/02/on-bullshit.html) up.
+
 No matter how big his spear, I think that Goliath would have been a sitting duck for a kid with a sling. A shepherd who protects his sheep and kills *wolves* with a sling will have no trouble killing a giant from a distance beyond the range of his spear. The “battle” between David and Goliath reminds me of nothing more than a famous scene in “Raiders of the Lost Ark” (?) where a vicious-looking villain brandishes a scimitar (?) and is promptly shot from some distance by, if you will excuse the expression, a good guy with a gun.
 David was not impressed with the length of Goliath’s spear, and you should not be either.
 
