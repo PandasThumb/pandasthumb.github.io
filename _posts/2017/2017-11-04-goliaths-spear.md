@@ -3,7 +3,7 @@ title: 'Life-Size Goliath&#39;s Spear'
 date: '2017-11-04 10:01:00 -06:00'
 author: Matt Young
 ---
-Ken Ham’s blog today says, “*There are some things you’ve just got to see in person to comprehend.*” The italics are his, but I think the [pictures](https://answersingenesis.org/blogs/ken-ham/2017/11/03/life-size-goliaths-spear-donated-creation-museum/) are probably good enough. For in that link you will see, miracle of miracles, Goliath’s spear, all 12.7&nbsp;ft and 33.1&nbsp;lb of it.* 
+Ken Ham’s blog yesterday says, “*There are some things you’ve just got to see in person to comprehend.*” The italics are his, but I think the [pictures](https://answersingenesis.org/blogs/ken-ham/2017/11/03/life-size-goliaths-spear-donated-creation-museum/) are probably good enough. For in that link you will see, miracle of miracles, Goliath’s spear, all 12.7&nbsp;ft and 33.1&nbsp;lb of it.* 
 
 Mr. Ham tells us,
 
