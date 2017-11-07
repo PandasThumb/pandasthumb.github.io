@@ -29,11 +29,11 @@ Would there be clashes with police or racist opponents?
 In the morning we reached the outskirts of Baltimore and went down the road to 
 Washington.  As the bus entered Washington, some other roads merged with 
 ours.  On them I noticed another bus, then another.  After I had seen several 
-more it hit me: _all these buses were headed in the same direction!_  
-There were no buses going the other way.  Then more and more and more buses.  
+more it hit me: _all these buses were headed in the same direction!_  There were 
+no buses going the other way.  Then more and more and more buses.  
 The Mall near the White House was filled with every bus in the eastern U.S., 
-it seemed. We were directed to a parking place, chosen by some unknown plan.  
-We got off the bus.  I bought a pin (I still have it, see the image here), a 
+it seemed. We were directed to a parking place, chosen by some unknown plan.  We 
+got off the bus.  I bought a pin (I still have it, see the image here), a 
 straw hat that didn't fit to protect me against the sun, and I was handed a 
 sign to carry: "For an FEPC".  I vaguely knew that that was some sort of call
 for an equal employment commission, and only realized later how worthwhile
@@ -42,8 +42,8 @@ that was.
 We walked toward the Washington Monument, where a big crowd was gathering on
 its east side.  It was becoming clear that there were lots of people. 
 There was a stage set up near there and lots of people addressed us: A. Philip 
-Randolph, the founder and head of the Pullman Porters Union was one.  
-Folk singers, including Joan Baez led us in song, which was 
+Randolph, the founder and head of the Pullman Porters Union was one.  Folk 
+singers, including Joan Baez led us in song, which was 
 unintentionally funny.  The crowd was so big that as we sang along, the 
 people at the back of the crowd were singing one syllable while the 
 people at the front sang the next, so singing in unison didn't work.
@@ -54,8 +54,8 @@ and along the Reflecting Pool toward the Lincoln Memorial.  Everyone just
 walked along until the density of the crowd stopped them.  I was nearly 
 at the large planter on the left front of the Lincoln Memorial.  Nearly 
 forty years later I was walking with my brother Lee near the Lincoln 
-Memorial and he proudly pointed out where he had stood on that day.  
-Until then, I had not known he had been there.  We both came there, stood 
+Memorial and he proudly pointed out where he had stood on that day.  Until 
+then, I had not known he had been there.  We both came there, stood 
 not 200 feet apart, and then he went back to Philadelphia and I went back 
 to Rochester, and for years neither of us knew the other had been there.
 
