@@ -30,8 +30,8 @@ In the morning we reached the outskirts of Baltimore and went down the road to
 Washington.  As the bus entered Washington, some other roads merged with 
 ours.  On them I noticed another bus, then another.  After I had seen several 
 more it hit me: _all these buses were headed in the same direction!_  There were 
-no buses going the other way.  Then more and more and more buses.  
-The Mall near the White House was filled with every bus in the eastern U.S., 
+no buses going the other way.  Then more and more and more buses.  The 
+Mall near the White House was filled with every bus in the eastern U.S., 
 it seemed. We were directed to a parking place, chosen by some unknown plan.  We 
 got off the bus.  I bought a pin (I still have it, see the image here), a 
 straw hat that didn't fit to protect me against the sun, and I was handed a 
