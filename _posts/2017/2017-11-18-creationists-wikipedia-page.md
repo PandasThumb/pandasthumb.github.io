@@ -1,6 +1,6 @@
 ---
-title: ‘Creationst&#39;s Wikipedia page removed’
-date: ‘2017-11-18 14:47:00 -07:00’ 
+title: 'Creationst&#39;s Wikipedia page removed'
+date: '2017-11-18 14:47:00 -07:00' 
 author: Matt Young
 ---
 
