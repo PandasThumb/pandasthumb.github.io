@@ -1,6 +1,6 @@
 ---
 title: 'Creationism meets a flat earth'
-date: '2017-24-11 12:13:00 -07:00' 
+date: '2017-11-24 12:45:00 -07:00' 
 author: Matt Young
 ---
 
