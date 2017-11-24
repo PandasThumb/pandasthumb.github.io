@@ -4,7 +4,7 @@ date: '2017-24-11 12:13:00 -07:00'
 author: Matt Young
 ---
 
-I was not going to write this up, really, I was not. But two articles on the flat earth within roughly a week of each other are too many to ignore.
+I was not going to write this up, really, I was not. But two articles on the flat earth within roughly a week of each other are too many to ignore. 
 
 Danny Faulkner of Answers in Genesis posted an article, [What I Learned at the First Flat Earth International Conference](https://answersingenesis.org/blogs/danny-faulkner/2017/11/17/what-i-learned-at-first-flat-earth-international-conference). Dr. Faulkner has a degree in astronomy and has taught at a branch of the University of South Carolina for 26 years. He also as a researcher for Answers in Genesis must subscribe to their [Statement of Faith](https://answersingenesis.org/about/faith/), so he presumably believes in "a recent origin for man and the whole creation, spanning approximately 4,000 years from creation to Christ." Now I don't mean to be rude, but that is nuts. It is nuts for someone with an advanced degree in astronomy, someone who knows all the evidence, someone who writes authoritatively about astronomy, to believe that the universe is around 6000 years old. 
 
