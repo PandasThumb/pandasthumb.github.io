@@ -13,7 +13,7 @@ According to <i>The Washington Post</i>, they are on a list of <a href="https://
 
 "CDC bases its recommendations on science in consideration with community standards and wishes," huh? That phrase certainly gives wordiness a bad name. It also suggests that science may be twisted if it does not conform to "community standards and wishes." Or is that the point?
 
-CDC staff, upon hearing of the ban were reportedly "incredulous." My inner, catty self wonders whether I need to define incredulous for Trump administration staffers.
+CDC staff, upon hearing of the ban, were reportedly "incredulous." My inner, catty self wonders whether I need to define incredulous for Trump administration staffers.
 
 As I write, there are over 4000 comments on this article. I read only a relative few, none were supportive, and some were, well, incredulous.
 
