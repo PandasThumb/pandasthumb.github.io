@@ -1,6 +1,6 @@
 ---
 title: 'Alsophila pometaria'
-date: '2017-01-08 12:00:00 -07:00'
+date: '2018-01-08 12:00:00 -07:00'
 author: Matt Young
 ---
 Photograph by **Mark Sturtevant**.
