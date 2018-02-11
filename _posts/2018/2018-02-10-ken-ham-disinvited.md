@@ -7,7 +7,7 @@ Carla Hinton, writing in <i>The Oklahoman</i>, <a href="http://newsok.com/uco-st
 
  <blockquote>The University of Central Oklahoma Student Association rescinded its invitation to a well-known Christian apologist to speak on campus following pressure from an LGBTQ group.<br/><br/>
 
-Wednesday, Stockton Duvall, UCO's student body president, said student government leaders, in partnership with a student group called Valid World Views, had asked Ken Ham to visit the campus on March 5 to share his perspectives about the science behind Darwinian ideas. ...
+Wednesday, Stockton Duvall, UCO's student body president, said student government leaders, in partnership with a student group called Valid World Views, had asked Ken Ham to visit the campus on March 5 to share his perspectives about the science behind Darwinian ideas. ...<br/><br/>
 
 Duvall, a junior business management major, said members of a group affiliated with the Women's Research Center/BGLTQ+ Student Center at UCO opposed Ham's visit because of his view that marriage is between one man and one woman.</blockquote>
 
