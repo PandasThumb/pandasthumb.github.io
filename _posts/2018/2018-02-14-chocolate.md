@@ -10,7 +10,7 @@ As an official and, if I may say so, unrepentant chocoholic, I was somewhat surp
 <figure>
 <img src="/uploads/2018/DSC01778_Chocolate_600.JPG" alt="Chocolate"/>
 <figcaption>
-And it is <a href="2018/DSC01778_Chocolate_600.JPG">good for you</a> too!
+And it is <a href="https://www.scientificamerican.com/article/why-is-dark-chocolate-good-for-you-thank-your-microbes/">good for you</a> too!
 </figcaption>
 </figure>
 
