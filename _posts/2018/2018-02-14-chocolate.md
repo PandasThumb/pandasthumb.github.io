@@ -1,6 +1,6 @@
 ---
 title: 'Chocolate!'
-date: '2018-01-14 13:56:00 -07:00'
+date: '2018-02-14 13:56:00 -07:00'
 author: Matt Young
 ---
 Today being Valentine's Day and all that, I thought I would link to an article, <a href="http://athomecolorado.com/csu-extension-chocolate-valentines-best-friend/">Chocolate is a Valentine’s best friend</a>, by Carol O'Meara of the Colorado State University Extension Service. The article was printed in today's Boulder <i>Daily Camera</i>. 
