@@ -80,7 +80,6 @@ Mark Horowitz, William Yaworski, and Kenneth Kickham, "Whither the blank slate? 
 J. Graham, J. Haidt, and B. A. Nosek, "Liberals and conservatives rely on different sets of moral foundations," Journal of Personality and Social Psychology 96(5), 1029–1046 (2009); http://www-bcf.usc.edu/~jessegra/papers/GrahamHaidtNosek.2009.Moral%20foundations%20of%20liberals%20and%20conservatives.JPSP.pdf. <br/><br/>
 <br/><br/>
 <strong>Additional bibliography.</strong><br/><br/>
-Geoffrey D. Munro and Peter H. Ditto, "Biased assimilation, attitude polarization, and affect in reactions to stereotype relevant scientific information," Personality and Social Psychology Bulletin, 23, 636-653 (1997); DOI 10.1177/0146167297236007. <br/><br/>
 J. Frimer, L. J. Skitka, and M. Motyl, "Liberals and conservatives are similarly motivated to avoid exposure to one another’s opinions," Journal of Experimental Social Psychology, 72, 1-12 (2017); http://motyl.people.uic.edu/FSM2017.pdf. <br/><br/>
 Geoffrey D. Munro and Peter H. Ditto, "Biased assimilation, attitude polarization, and affect in reactions to stereotype-relevant scientific information," Personality and Social Psychology Bulletin, 23, 636-652 (1997); http://psp.sagepub.com/content/23/6/636. <br/><br/>
 Maria Konnikova, "I don't want to be right," The New Yorker, 16 May, 2014; http://www.newyorker.com/science/maria-konnikova/i-dont-want-to-be-right. <br/><br/>
