@@ -1,5 +1,5 @@
 ---
-Title: ‘Do liberals&#44; like conservatives&#44; reject scientific facts?’
+Title: ‘Do liberals&#44; like conservatives&#44; reject scientific facts&#63;’
 Date: ‘2018-03-08 19:05:00 -07:00’
 Author: Matt Young
 ---
@@ -54,10 +54,10 @@ It appears that liberals (possibly as opposed to liberal columnists) underestima
 I think our data do show that people on the left – especially the far left – are more likely to underestimate the heritability of intelligence and other psychological traits than conservatives are, even if very few of them are outright denying it. I think we should take two main things from these findings: First, as a motivation to examine our own motivations and biases when forming opinions about nature and nurture, and to think about where these biases come from. And second, as evidence that neither end of the political spectrum is free of fault or free of praise in the objectivity of their assumptions. The overall correlation between the published estimates and the mean estimates for all of the traits came out to 0.77, which is very high for this kind of research. Until we can all make progress in correcting our bias, we should acknowledge that sometimes a diversity of viewpoint really is a benefit to accurate understandings.</blockquote><br/><br/>
 I made a sardonic comment earlier about liberal columnists, such as the author of <a href="https://www.theguardian.com/lifeandstyle/2016/feb/27/how-to-raise-a-brilliant-child-without-screwing-them-up">this column</a>, which I mentioned earlier. Importantly, the article was later refuted in the same newspaper. The evidence in Ms. Willoughby’s paper suggests that liberals are not as strongly opposed as the columnist. They are not monolithic in their opposition to modern science. Vaccination denial and fear of genetically modified foods cut across the liberal-conservative spectrum. Nuclear power (which, incidentally, I support) is not cut and dried; opposition to nuclear power, while shrill, is not wholly irrational. Neither is opposition to fracking. The evidence from Ms. Willoughby’s paper suggests that a small percentage of liberals may flatly deny the heritability of intelligence and others underestimate it. It is important that we refute such denials. But, except perhaps for the far left, liberals’ responses are not so greatly different from everyone else’s. <br/><br/>
 To answer the question posed in the title, yes, liberals reject scientific facts. But when they do so, as with fracking, vaccination, and GMO’s, their opinions are not so greatly different from those of the general public. Liberals on the whole do not have vast lacunae, similar to conservatives’ rejection of evolution, the antiquity of the earth, and climate change, where they &ndash; almost exclusively &ndash; reject some scientific fact. Do liberals, like conservatives, reject scientific facts? Yes, but they do not as a group single out whole areas of scientific knowledge and reject them. So no, liberals do not reject scientific facts in the way that conservatives do.  <br/><br/>
-* * *</br><br/>
+
 <strong>Acknowledgements.</strong></br></br>
 Profuse thanks to Emily Willoughby for supplying the draft of her paper, for iterating with me once or twice regarding the figures, and for reading what sometimes seemed to be countless revisions. Jonathan Kane piqued my interest and also read one or two drafts very carefully and helpfully. <br/><br/>
-* * *</br></br>
+
 <strong>Bibliography.</strong><br/><br/>
 Addison del Maestro, "Too good a problem: Liberal politics foster climate skepticism," The American Conservative, 30 January 2017; http://www.theamericanconservative.com/articles/too-good-a-problem/
 Dana Nuccitelli, "Pew survey: Republicans are rejecting reality on climate change," The Guardian, 6 October 2016; https://www.theguardian.com/environment/climate-consensus-97-per-cent/2016/oct/06/pew-survey-republicans-are-rejecting-reality-on-climate-change. <br/><br/>
@@ -77,7 +77,7 @@ Christian Jarrett, "Nature vs nurture: Mothers with multiple children have an in
 M. Buhrmester, T. Kwang, and S. D. Gosling, "Amazon’s Mechanical Turk: A new source of inexpensive, yet high-quality, data?" Perspectives on Psychological Science 6(1), 3–5 (2011); http://datacolada.org/wp-content/uploads/2014/04/Burhmester-Kwang-Gosling-2011.pdf. <br/><br/>
 Mark Horowitz, William Yaworski, and Kenneth Kickham, "Whither the blank slate? A report on the reception of evolutionary biological ideas among sociological theorists," Sociological Spectrum, 34, 489-509 (2014); https://www.tandfonline.com/doi/abs/10.1080/02732173.2014.947451. Full disclosure: I read primarily (but not exclusively) the Introduction and Discussion sections of this paper, and some of the Tables. <br/><br/>
 J. Graham, J. Haidt, and B. A. Nosek, "Liberals and conservatives rely on different sets of moral foundations," Journal of Personality and Social Psychology 96(5), 1029–1046 (2009); http://www-bcf.usc.edu/~jessegra/papers/GrahamHaidtNosek.2009.Moral%20foundations%20of%20liberals%20and%20conservatives.JPSP.pdf. <br/><br/>
-* * *</br></br>
+</br></br>
 <strong>Additional bibliography.</strong><br/><br/>
 Geoffrey D. Munro and Peter H. Ditto, "Biased assimilation, attitude polarization, and affect in reactions to stereotype relevant scientific information," Personality and Social Psychology Bulletin, 23, 636-653 (1997); DOI 10.1177/0146167297236007. <br/><br/>
 J. Frimer, L. J. Skitka, and M. Motyl, "Liberals and conservatives are similarly motivated to avoid exposure to one another’s opinions," Journal of Experimental Social Psychology, 72, 1-12 (2017); http://motyl.people.uic.edu/FSM2017.pdf. <br/><br/>
