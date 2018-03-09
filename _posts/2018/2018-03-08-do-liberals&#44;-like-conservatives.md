@@ -1,6 +1,6 @@
 ---
-Title: ‘Do liberals like conservatives reject scientific facts?’
-Date: ‘2018-03-08 19:05:00 -07:00’
+Title: 'Do liberals like conservatives reject scientific facts?'
+Date: '2018-03-08 19:05:00 -07:00'
 Author: Matt Young
 ---
 I hate to begin a paper with, "Everybody knows"; it sort of buries your lead. Nevertheless: "Everybody knows" that conservatives are generally biased against the theory of evolution and all that it entails, and, especially, the scientific fact of anthropogenic climate change. Anyone who refuses to believe in descent with modification, the vast age of the earth, and climate change is definitively wrong. Indeed, the right wing is so wrong on climate change that the <i>American Conservative</i> magazine ran an <a href="http://www.theamericanconservative.com/articles/too-good-a-problem/">article</a> decrying the facts that climate change is real and that the obvious solutions are contrary to the conservative agenda. Indeed, the Pew Research Center reports that only about one-quarter of Republicans accept the reality of climate change, <a href="https://www.theguardian.com/environment/climate-consensus-97-per-cent/2016/oct/06/pew-survey-republicans-are-rejecting-reality-on-climate-change">irrespective of education</a>. Democrats’ acceptance of climate change, by contrast, increases with education.<br/><br/>
