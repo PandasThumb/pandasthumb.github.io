@@ -57,7 +57,7 @@ I made a sardonic comment earlier about liberal columnists, such as the author o
 To answer the question posed in the title, yes, liberals reject scientific facts. But when they do so, as with fracking, vaccination, and GMO’s, their opinions are not so greatly different from those of the general public. Liberals on the whole do not have vast lacunae, similar to conservatives’ rejection of evolution, the antiquity of the earth, and climate change, where they &ndash; almost exclusively &ndash; reject some scientific fact. Do liberals, like conservatives, reject scientific facts? Yes, but they do not as a group single out whole areas of scientific knowledge and reject them. So no, liberals do not reject scientific facts in the way that conservatives do.  <br/><br/>
 
 <strong>Acknowledgements.</strong><br/><br/>
-Profuse thanks to Emily Willoughby for supplying the draft of her paper, for iterating with me once or twice regarding the figures, and for reading what sometimes seemed to be countless revisions. Jonathan Kane piqued my interest and also read one or two drafts very carefully and helpfully. <br/><br/>
+Profuse thanks to Emily Willoughby for supplying the draft of her paper, for iterating with me once or twice regarding the figures, and for reading what sometimes seemed to be countless revisions. <br/><br/>
 
 <strong>Bibliography.</strong><br/><br/>
 Addison del Maestro, "Too good a problem: Liberal politics foster climate skepticism," The American Conservative, 30 January 2017; http://www.theamericanconservative.com/articles/too-good-a-problem/
