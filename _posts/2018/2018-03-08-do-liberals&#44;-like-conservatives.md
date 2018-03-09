@@ -1,5 +1,5 @@
 ---
-Title: 'Do liberals like conservatives reject scientific facts?'
+Title: 'Do liberals like conservatives reject scientific facts'
 Date: '2018-03-08 19:05:00 -07:00'
 Author: Matt Young
 ---
