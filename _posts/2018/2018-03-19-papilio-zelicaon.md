@@ -12,7 +12,7 @@ Photography contest, Honorable Mention.
 <figcaption>
 <a href="https://en.wikipedia.org/wiki/Papilio_zelicaon"><i>Papilio zelicaon</i></a> &ndash; anise swallowtail, dining on <a href="https://en.wikipedia.org/wiki/Aquilegia_coerulea"><i>Aquilegia coerulea</i></a> &ndash; Colorado blue columbine, Hessie, Colorado.
 </figcaption>
-</figure>
+</figure> 
 
 
 
