@@ -95,7 +95,7 @@ Over the past few years, a few evolution education websites (including The Panda
 
 <b>Bibliography</b>
 
-<small>Carroll, John B. <i>Human Cognitive Abilities: A Survey of Factor-Analytic Studies</i>. Cambridge University Press, 1993.
+Carroll, John B. <i>Human Cognitive Abilities: A Survey of Factor-Analytic Studies</i>. Cambridge University Press, 1993.
 
 Johnson, Wendy et al. <a href="https://unstable.nl/andreas/ai/psy/presentaties/Johnson.pdf">"Just one <i>g</i>: consistent results from three test batteries"</a>. <i>Intelligence</i> 32 (2004): 95-107.
 
@@ -181,4 +181,4 @@ Gardner, Howard. <a href="https://www.youtube.com/watch?v=cP4CBpLNEyE">"Intellig
 
 Davis, Bernard S. <a href="https://www.nationalaffairs.com/storage/app/uploads/public/58e/1a4/9b1/58e1a49b14ee0088424324.pdf">"Neo-Lysenkoism, IQ, and the press"</a>. <i>The Public Interest</i>, Fall 1983.
 
-Lewis, J.E. et al. <a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001071">"The Mismeasure of Science: Stephen Jay Gould versus Samuel George Morton on Skulls and Bias"</a>. <i>PLoS Biology</i> 9(6) (2011): e1001071.</small>
+Lewis, J.E. et al. <a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001071">"The Mismeasure of Science: Stephen Jay Gould versus Samuel George Morton on Skulls and Bias"</a>. <i>PLoS Biology</i> 9(6) (2011): e1001071.
