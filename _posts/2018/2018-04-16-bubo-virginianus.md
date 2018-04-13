@@ -3,7 +3,7 @@ title: 'Bubo virginianus'
 date: '2018-04-16 12:00:00 -06:00'
 author: Matt Young
 ---
-Photograph by **David Young**.
+Photograph by **David Young**. 
 
 <figure>
 <img src="/uploads/2018/IMG_1167_Owls_600.jpg" alt="Great Horned Owls"/>
