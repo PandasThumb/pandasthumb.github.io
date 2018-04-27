@@ -4,7 +4,7 @@ date: '2018-04-26 08:01:00 -07:00'
 author: Wesley R. Elsberry
 ---
 
-<img src="https://i0.wp.com/avida-ed.beacon-center.org/wp-content/uploads/2014/12/avida-ED-logo.png?w=240" align="right" />
+<img src="https://i0.wp.com/avida-ed.beacon-center.org/wp-content/uploads/2014/12/avida-ED-logo.png?w=240" width="240" align="right" />
 There are still spaces for more teams of two each at the 
 <a href="https://avida-ed.msu.edu/active-lens-train-the-trainers-workshop-2018-edition/">4th annual Avida-ED Active LENS Workshop</a> 
 at the North Carolina A&T University in Greensboro, North Carolina, June 14-16, 2018,
