@@ -1,0 +1,14 @@
+---
+title: 'Buteo lineatus'
+date: '2018-04-30 12:00:00 -06:00'
+author: Matt Young
+---
+Photograph by **Tom Gillespie**.
+
+Photography contest, Honorable Mention.
+<figure>
+<img src="/uploads/2018/Gillespie.Red-Shouldered_Hawk.jpg" alt=" Red-shouldered hawk"/>
+<figcaption>
+<a href="http://www.allaboutbirds.org/guide/Red-shouldered_Hawk/id"><i>Buteo lineatus</i></a> &ndash; red-shouldered hawk (immature), April, 2015, Duluth, Georgia. 
+</figcaption>
+</figure>
