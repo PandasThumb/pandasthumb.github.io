@@ -8,4 +8,4 @@ author: Matt Young
 <figcaption>
 <a href="https://www.allaboutbirds.org/guide/American_Wigeon/id"><i>Mareca americana</i></a> &ndash; American wigeon making an interesting splash while diving for whatever American wigeons dive for. Walden Ponds, Boulder, Colorado, February, 2018.
 </figcaption>
-</figure>
+</figure> 
