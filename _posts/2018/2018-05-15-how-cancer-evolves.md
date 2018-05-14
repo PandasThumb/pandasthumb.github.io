@@ -25,3 +25,7 @@ Unfortunately, humans and other animals do develop cancer. A primary reason is a
 
 
 This book will reevaluate clinical data within the adaptive oncogenesis framework, providing explanations for why cancer occurs in young children and why the detection of oncogenic mutations far outpaces incidence rates of cancers. It will discuss evolutionary theory‒based strategies to modulate tissue microenvironments as a way to control the fate of precancer and cancer cells, and thus to prevent and treat cancers. The reductions in cancer mortality after almost half a century of the war on cancer have been real but disappointingly inadequate. Greater focus on tissue landscapes and how they affect the evolutionary dynamics of both noncancer and cancer cells may be necessary to limit the pernicious impacts of this disease. All of these discussions will be framed in the light of evolution, as urged by the great evolutionary biologist and geneticist Theodosius Dobzhansky. For better or worse, we and all other animals are products of the forces that shaped our evolution. Thus, we will start with an understanding of life histories among different animals, and how and why they evolved.
+
+ - - - 
+ 
+<small>Excerpted from ADAPTIVE ONCOGENESIS: A NEW UNDERSTANDING OF HOW CANCER EVOLVES INSIDE US by James DeGregori, published by Harvard University Press. Copyright © 2018 by the President and Fellows of Harvard College. Used by permission. All rights reserved.</small>
