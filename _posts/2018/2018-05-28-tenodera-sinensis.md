@@ -11,4 +11,4 @@ Photography contest, Honorable Mention.
 <figcaption>
 <a href="http://bugguide.net/node/view/10098"><i>Tenodera_sinensis_sinensis</i></a> &ndash; Chinese praying mantis. Mr. Denelsbeck writes that the mantis is "consuming an unidentified katydid, family Tettigoniidae, on a butterfly bush. The flash batteries had pegged out, so I shot wide open at F/4 under light overcast skies for this image, producing a focus effect I rather liked. Determining whether it's art or not is up to the viewer."
 </figcaption>
-</figure>
+</figure> 
