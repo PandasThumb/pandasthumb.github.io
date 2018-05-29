@@ -1,5 +1,5 @@
 ---
-title: 'Who gets to define "theory"?'
+title: 'Who gets to define theory?'
 date: '2018-05-29 12:00:00 -06:00'
 author: Matt Young
 ---
