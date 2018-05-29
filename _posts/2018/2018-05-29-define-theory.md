@@ -18,4 +18,4 @@ In physics, we usually use <i>force</i> to mean the change of momentum with time
 
 When a layperson says that evolution is <i>just</i> a theory, that person is committing a category error: using the wrong sense of <i>theory</i>. Instead of trying to get people to drop the layperson's sense, we need to explain that a theory means something different in science. We would have to explain that anyway, so I think we might as well stop trying to do away with the layperson's sense, an activity that Professor Klymkowsky himself called quixotic.
 
-Back to my question, "Who gets to define <i>theory</i>?" Context. 
+Back to my question, "Who gets to define <i>theory</i>?" Context. The next time someone tells you that evolution is <i>only</i> a theory, simply explain that theory in science is a term of art and does not mean hunch, bunch of unproven ideas, or even hypothesis. Rather, to call something a theory is high praise, because a theory is a body of observation and interpretation, and a mature, well evidenced theory should be considered to be "true" beyond a reasonable doubt. 
