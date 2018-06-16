@@ -3,7 +3,7 @@ title: 'Photography Contest X'
 date: '2018-06-18 12:00:00 -06:00'
 author: Matt Young
 ---
-Dust your tripods, dig out your cameras, clean your lenses (but not with a dry cloth nor with your hot breath), enhance your best pictures (and, if you have entered before, remember that you are not limited to 3 good pictures per lifetime). The tenth (!) Panda's Thumb photography contest, begins – now!
+Dust your tripods, dig out your cameras, clean your lenses (but please not with a dry cloth), enhance your best pictures (and, if you have entered before, remember that you are not limited to 3 good pictures per lifetime). The tenth (!) Panda's Thumb photography contest, begins – now!
 
 <figure>
 <img src="/uploads/2018/IMG_2154_Twin-Lens_Reflex_600.jpg" alt="Camera"/>
