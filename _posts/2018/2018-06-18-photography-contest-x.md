@@ -10,7 +10,7 @@ Dust your tripods, dig out your cameras, clean your lenses (but please not with 
 <figcaption>
 <a href="https://en.wikipedia.org/wiki/Lubitel">Soviet-era twin-lens reflex camera</a>. Camera courtesy of <b>Angie Spiegel</b>.
 </figcaption>
-</figure><br/>
+</figure><br/><br/>
  
 
 We will accept entries from 12:00 MDT (11:00 MST), June 18, through 12:00 MDT (11:00 MST), July 2. Mountain Daylight Time is 6 h earlier than UTC(GMT).
