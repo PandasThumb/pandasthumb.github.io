@@ -10,10 +10,10 @@ Polish your lenses again, oil your tripods (but not your shutters), search your 
 <figcaption>
 <a href="https://en.wikipedia.org/wiki/Lubitel">Soviet-era twin-lens reflex camera</a>. Camera courtesy of <b>Angie Spiegel</b>.
 </figcaption>
-</figure>
+</figure><br/>
  
 
-We will accept entries from 12:00 MDT (11:00 MST), July 5, through 12:00 MDT (11:00 MST), July 19. Mountain Daylight Time is 6 h earlier than UTC(GMT).
+We will accept entries from 12:00 MDT (11:00 MST), June 18, through 12:00 MDT (11:00 MST), July 2. Mountain Daylight Time is 6 h earlier than UTC(GMT).
 
 We encourage entries in a single, general category, which includes pictures of just about anything of scientific interest: any object of experimentation or observation, from single-celled organisms, through nematodes, fruit flies, rats, chimpanzees, and college sophomores to volcanoes, stars, and galaxies. In order not to omit theoreticians, we will consider computer-generated pictures and also photographs of equipment. Photomicrographs and electron micrographs are likewise welcomed.
 
