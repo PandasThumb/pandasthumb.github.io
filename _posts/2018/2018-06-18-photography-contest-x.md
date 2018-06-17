@@ -18,7 +18,7 @@ We will accept entries from 12:00 MDT (11:00 MST), June 18, through 12:00 MDT (1
 We encourage entries in a single, general category, which includes pictures of just about anything of scientific interest: any object of experimentation or observation, from single-celled organisms, through nematodes, fruit flies, rats, chimpanzees, and college sophomores to volcanoes, stars, and galaxies. In order not to omit theoreticians, we will consider computer-generated pictures and also photographs of equipment. Photomicrographs and electron micrographs are likewise welcomed.
 
 
-Prizes will include a signed copy of Why Evolution Works (and Creationism Fails), by Matt Young and Paul Strode, which has been donated by one of the authors; and Sahotra Sarkar's Doubting Darwin? Creationist Designs on Evolution, which has been generously donated by the National Center for Science Education.
+Prizes will include a signed copy of Why Evolution Works (and Creationism Fails), by Matt Young and Paul Strode, which has been donated by one of the authors; and a second book (title TBA) which has been generously donated by the National Center for Science Education.
 
 
 If we get enough entries, consistently with Rules 11 and 12, we may add categories and award additional prizes, presuming, of course, that we can find more prizes.
