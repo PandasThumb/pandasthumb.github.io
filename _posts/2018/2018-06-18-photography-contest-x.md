@@ -10,7 +10,7 @@ Dust your tripods, dig out your cameras, clean your lenses (but please not with 
 <figcaption>
 <a href="https://en.wikipedia.org/wiki/Lubitel">Soviet-era twin-lens reflex camera</a>. Camera courtesy of <b>Angie Spiegel</b>.
 </figcaption>
-</figure><br/><br/>
+</figure><br/>
  
 
 We will accept entries from 12:00 MDT (11:00 MST), June 18, through 12:00 MDT (11:00 MST), July 2. Mountain Daylight Time is 6 h earlier than UTC(GMT).
@@ -18,7 +18,7 @@ We will accept entries from 12:00 MDT (11:00 MST), June 18, through 12:00 MDT (1
 We encourage entries in a single, general category, which includes pictures of just about anything of scientific interest: any object of experimentation or observation, from single-celled organisms, through nematodes, fruit flies, rats, chimpanzees, and college sophomores to volcanoes, stars, and galaxies. In order not to omit theoreticians, we will consider computer-generated pictures and also photographs of equipment. Photomicrographs and electron micrographs are likewise welcomed.
 
 
-Prizes will include a signed copy of Why Evolution Works (and Creationism Fails), by Matt Young and Paul Strode, which has been donated by one of the authors; and a second book (title TBA) which has been generously donated by the National Center for Science Education.
+Prizes will include a signed copy of <a href="https://www.amazon.com/Why-Evolution-Works-Creationism-Fails/dp/0813545501">Why Evolution Works (and Creationism Fails)</a>, by Matt Young and Paul Strode, which has been donated by one of the authors; and <a href="https://www.amazon.com/Eternal-Ephemera-Adaptation-Nineteenth-Punctuated/dp/0231153171">Eternal Ephemera</a> by Niles Eldredge, which has been generously donated by the National Center for Science Education.
 
 
 If we get enough entries, consistently with Rules 11 and 12, we may add categories and award additional prizes, presuming, of course, that we can find more prizes.
@@ -37,7 +37,7 @@ Reduce photographs to an information content of 600 pixels horizontally. If crea
 
 
 Photographs may be enhanced but may not be montages. High dynamic range photographs are, however, accepted.
-Submit a maximum of 3 photographs (or 5 photographs per family) between 12:00 MDT, July 5, and 12:00 MDT, July 17, to thousandwords@pandasthumb.org. MDT = UTC(GMT) – 6 h.
+Submit a maximum of 3 photographs (or 5 photographs per family) between 12:00 MDT, June 18, through 12:00 MDT, July 2. to thousandwords@pandasthumb.org. MDT = UTC(GMT) – 6 h.
 
 
 Submit the photographs as attachments to an e-mail (not embedded in the body of the e-mail). The subject line to the e-mail must have the form YourLastName_PhotographyContest. The filenames for the photographs must have the form YourLastName.Descriptor as, for example, Young.Oxytropis_sericea or Young.Table_Mountain, as appropriate.
