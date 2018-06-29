@@ -1,6 +1,6 @@
 ---
 title: 'Semisaurus – another creationist on the loose'
-date: '2018-06-29 15:45:00 -06:00'
+date: '2018-06-29 17:45:00 -06:00'
 author: Matt Young
 ---
 This one is literally on the loose: <a href="https://www.semisaurus.com/">Semisaurus</a> describes itself as "a mobile creation Museum that gives people answers. The realistic displays provide facts and evidence that take the creation-evolution debate head-on." It is "a 48-foot semi trailer [that has been converted] into a state-of-the-art museum that is packed with high-end displays, animatronic dinosaurs and evidence-based information to teach the Truth (sic) about creation and evolution[.]" It has an ambitious schedule, and will be prowling around Nebraska, Wyoming, Minnesota, Missouri, and elsewhere for the next several months.
