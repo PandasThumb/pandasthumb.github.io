@@ -1,7 +1,8 @@
-
+---
 title: 'Photography Contest X: Finalists'
 date: '2020-07-09 12:00:00 -06:00'
 author: Matt Young
+---
 
 Here are the finalists of the 2018 photography contest. We received 30 photographs from 11 photographers. We had considerable difficulty choosing seven finalists – most of the pictures were excellent, as you will no doubt see during the coming months. As before, we enlisted our wife to help with the choices, which are displayed below the proverbial fold. Unfortunately, the submissions did not lend themselves to being divided into categories, so we present one general category (which includes as much variety as we could muster). The text was written by the photographers and lightly edited for consistency.
 
