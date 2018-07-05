@@ -11,3 +11,13 @@ The finalists are presented in alphabetical order of last name. Please look thro
 Reed Cartwright contributed to this post.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScgEETqFjBnVse02aTczO1-019FL7mkF_DhUzoKKIHZJN402Q/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+2018/Moore.Double_Rainbow.jpg
+
+2018/Rice_Alan.Isla Incahuasi.jpg
+
+2018/Siccha.Ptyodactylus_guttasus_on_Chapel_of_Ascension.jpg
+
+2018/Sturtevant.3.American_Rubyspots.jpg
+
+2018/Susek.Adalia_bipunctata.jpg
