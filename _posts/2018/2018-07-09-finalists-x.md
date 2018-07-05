@@ -39,7 +39,7 @@ Sinai fan-fingered gecko, by **Michael Siccha**.<figure>
 
 -----
 
-V, by **Mark Sturtevant**.
+American rubyspot damselflies, by **Mark Sturtevant**.
 <figure>
 <img src="/uploads/2018/Sturtevant.3.American_Rubyspots.jpg" alt="Rainbow"/>
 <figcaption>
@@ -51,9 +51,12 @@ V, by **Mark Sturtevant**.
 <figure>
 <img src="/uploads/2018/Susek.Adalia_bipunctata.jpg" alt="Rainbow"/>
 <figcaption>
-<a href="http://bugguide.net/node/view/182"><i>Pentatomidae</i></a> &ndash; </figcaption>
+<a href="https://en.wikipedia.org/wiki/Adalia_bipunctata"><i>Adalia bipunctata</i></a> &ndash; two-spotted ladybird. The photographer writes, "This photograph could be titled 'proof of the pudding, down the hatch.' It isproof that the ladybird beetle eats aphids. It was taken way back in 2010 in the shops car park, Rotherham, S. Yorkshire." She adds, "I would like to say this is a rose aphid but I'm not sure; there are a lot of types of <a href="http://influentialpoints.com/Gallery/Aphid_genera.htm">aphids</a>."</figcaption>
 </figure>
 <br/<br/>
+
+-----
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScgEETqFjBnVse02aTczO1-019FL7mkF_DhUzoKKIHZJN402Q/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 
