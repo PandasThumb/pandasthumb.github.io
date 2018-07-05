@@ -15,14 +15,16 @@ Reed Cartwright contributed to this post.
 <figure>
 <img src="/uploads/2018/Moore.Double_Rainbow.jpg" alt="Rainbow"/>
 <figcaption>
-<a href="http://bugguide.net/node/view/182"><i>Pentatomidae</i></a> &ndash; </figcaption>
+<a href="https://en.wikipedia.org/wiki/Rainbow#Variations"><i>Double rainbow</i></a>. </figcaption>
 </figure>
 
 <figure>
 <img src="/uploads/2018/Rice_Alan.Isla Incahuasi.jpg" alt="Rainbow"/>
 <figcaption>
-<a href="http://bugguide.net/node/view/182"><i>Pentatomidae</i></a> &ndash; </figcaption>
+<a href="https://en.wikipedia.org/wiki/Isla_Incahuasi"><i>Isla Incahuasi</i></a> (Casa del Inca) or informally called "Cactus Island." The photographer writes, "The Isla Incahuasi sits near the center of the of the Salar de Uyuni, Bolivia, the world's largest salt flat.
+The predominant large cactus is Echinopsis atacamensis, which is native to Chile, Argentina and Bolivia.  The Island is many kilometers from the nearest mainland and hosts an interesting subset of the local native vegetation.  Despite its isolated location and scant rain fall, it is dramatically covered with abundant plant life."</figcaption>
 </figure>
+
 
 
 <figure>
