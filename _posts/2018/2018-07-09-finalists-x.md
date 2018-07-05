@@ -18,7 +18,7 @@ Double Rainbow, by **Dan Moore**.
 <figcaption>
 <a href="https://en.wikipedia.org/wiki/Rainbow#Variations"><i>Double rainbow</i></a>. </figcaption>
 </figure>
-
+<br/><br/>
 <figure>
 <img src="/uploads/2018/Rice_Alan.Isla Incahuasi.jpg" alt="Rainbow"/>
 <figcaption>
