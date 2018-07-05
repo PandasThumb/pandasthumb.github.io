@@ -21,8 +21,9 @@ Double Rainbow, by **Dan Moore**.
 
 -----
 
+Cactus Island, by **Alan Rice**.
 <figure>
-<img src="/uploads/2018/Rice_Alan.Isla Incahuasi.jpg" alt="Rainbow"/>
+<img src="/uploads/2018/Rice_Alan.Isla Incahuasi.jpg" alt="Cactus Island"/>
 <figcaption>
 <a href="https://en.wikipedia.org/wiki/Isla_Incahuasi"><i>Isla Incahuasi</i></a> (Casa del Inca) or informally called "Cactus Island." The photographer writes, "The Isla Incahuasi sits near the center of the of the Salar de Uyuni, Bolivia, the world's largest salt flat.
 The predominant large cactus is Echinopsis atacamensis, which is native to Chile, Argentina and Bolivia.  The Island is many kilometers from the nearest mainland and hosts an interesting subset of the local native vegetation.  Despite its isolated location and scant rain fall, it is dramatically covered with abundant plant life."</figcaption>
@@ -30,18 +31,19 @@ The predominant large cactus is Echinopsis atacamensis, which is native to Chile
 
 -----
 
-<figure>
+Sinai fan-fingered gecko, by **Michael Siccha**.<figure>
 <img src="/uploads/2018/Siccha.Ptyodactylus_guttasus_on_Chapel_of_Ascension.jpg" alt="Rainbow"/>
 <figcaption>
-<a href="http://bugguide.net/node/view/182"><i>Pentatomidae</i></a> &ndash; </figcaption>
+<a href="http://reptile-database.reptarium.cz/species?genus=Ptyodactylus&species=guttatus"><i>Ptyodactylus guttatus HEYDEN, 1827</i></a> &ndash; Sinai fan-fingered gecko, probably a female. The photographer writes, "What I personally like most about the picture (and what you cannot really see on the image) is the location where I took it. The gecko sits on some of the stone tracery on the outside of the Chapel of Ascension on the Mount of Olives in Jerusalem. The red dots at the hip of the individual are parasitic mites, full of gecko blood."</figcaption> 
 </figure>
 
 -----
 
+V, by **Mark Sturtevant**.
 <figure>
 <img src="/uploads/2018/Sturtevant.3.American_Rubyspots.jpg" alt="Rainbow"/>
 <figcaption>
-<a href="http://bugguide.net/node/view/182"><i>Pentatomidae</i></a> &ndash; </figcaption>
+<a href="https://www.odonatacentral.org/index.php/FieldGuideAction.get/id/42272"><i>Hetaerina americana</i></a> &ndash; American rubyspot damselflies. The photographer writes, "These lay their eggs in rivers and streams, and like other damselflies and the related dragonflies, their immature stage is spent in water. Here, a female is eating another damselfly that had just emerged from the water as an adult. It is easy to forget that these delicate and beautiful insects are dedicated predators. A male rubyspot stands guard in the background in this scene. Males defend these sorts of territories against rival males by using their bright red colors as an aggressive display. Females generally mate with males that ‘own’ a desirable territory. The river in the background is the Flint river, and this picture was taken near Flint Michigan. Although the situation with Flint and its river has considerable notoriety these days, it should be said that the river itself is teaming with life."</figcaption>
 </figure>
 
 -----
