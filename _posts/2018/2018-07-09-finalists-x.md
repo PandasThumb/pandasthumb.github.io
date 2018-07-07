@@ -6,7 +6,7 @@ author: Matt Young
 
 Here are the finalists of the 2018 photography contest. We received only 11 photographs from 5 photographers. All of the pictures were excellent, as you will no doubt see during the coming months. With assistance from our wife, we chose 1 photograph by each photgrapher and display them below the proverbial fold. The text, if any, was written by the photographers and lightly edited for consistency.
 
-The finalists are presented in alphabetical order of last name. Please look through their photographs before voting for your favorite. Polling will close Friday, July 20, at approximately 12:00 MDT.
+The finalists are presented in alphabetical order of last name. Please look through their photographs before voting for your favorite. Polling will close Friday, July 20, at approximately 12:00 noon MDT.
 
 Reed Cartwright contributed to this post.
 
