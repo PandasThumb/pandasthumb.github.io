@@ -12,6 +12,8 @@ Reed Cartwright contributed to this post.
 
 <!--more-->
 
+-----
+
 Double Rainbow, by **Dan Moore**.
 <figure>
 <img src="/uploads/2018/Moore.Double_Rainbow.jpg" alt="Rainbow"/>
