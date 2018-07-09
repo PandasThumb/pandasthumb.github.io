@@ -57,7 +57,7 @@ Ladybird beetle, by **Marilyn Susek**.
 <figcaption>
 <a href="https://en.wikipedia.org/wiki/Adalia_bipunctata"><i>Adalia bipunctata</i></a> &ndash; two-spotted ladybird. The photographer writes, "This photograph could be titled 'proof of the pudding, down the hatch.' It is proof that the ladybird beetle eats aphids. It was taken way back in 2010 in the shops car park, Rotherham, S. Yorkshire." She adds, "I would like to say the aphid is a rose aphid but I'm not sure; there are a lot of types of <a href="http://influentialpoints.com/Gallery/Aphid_genera.htm">aphid</a>."</figcaption>
 </figure>
-<br/<br/>
+<br/><br/>
 
 -----
 
