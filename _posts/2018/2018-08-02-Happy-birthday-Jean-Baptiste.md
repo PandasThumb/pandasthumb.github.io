@@ -19,14 +19,14 @@ his thought further here.  But below the fold, a few additional comments on his 
 <ul>
 <li> Lamarck would have been a major biologist even if he had never argued for evolution.  He was
 a great figure in invertebrate systematics, clarifying the classification of invertebrates greatly.  For
-that matter, he invented the word "invertebrate".
+  that matter, he invented the word "invertebrate".</li>
 <li> Lamarck's inherent complexifying force is less well-known than his use/disuse effect.  To us today, it
 seems rather mystical, as physics has not found any such force.  Although there were Lamarckians for 100 years
-after Lamarck, they tended to play down the mysterious complexifying force, which seems to have embarrassed them.
+after Lamarck, they tended to play down the mysterious complexifying force, which seems to have embarrassed them.</li>
 <li> Lamarck's comments on human evolution are somewhat vague, but he points clearly to the "orang of Angola" as the 
-closest relative to humans.  It is clear from the species name that he uses, <em>troglodytes</em>, that this is the chimpanzee.
+closest relative to humans.  It is clear from the species name that he uses, <em>troglodytes</em>, that this is the chimpanzee.</li>
 <li> Epigenetic effects are often referred to as "Lamarckian".  They are not, as they involve no effect of
-use and disuse.
+  use and disuse.</li>
 </ul>
 
 I have tried to commemorate Lamarck's birth yearly here -- this year I was delayed by not being
