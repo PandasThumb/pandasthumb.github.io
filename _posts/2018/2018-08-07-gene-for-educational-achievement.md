@@ -13,11 +13,15 @@ Based on an aggregation of many tiny genetic weights, the authors calculated a <
 
 Research into intelligence and particularly into the heritability of intelligence is so controversial, particularly among my fellow leftists, that the day after Mr. Zimmer's article appeared, the <i>Times</i> ran an article with the forthright title <a href="https://www.nytimes.com/2018/07/24/opinion/dna-nature-genetics-education.html">Why progressives should embrace the genetics of education</a>, by Kathryn Paige Harden, an associate professor of psychology at the University of Texas at Austin.
 Professor Harden's article raises the specter of eugenics and notes that such "thinking is not safely in the past," and she is certainly right that we have to be on our toes. Nevertheless, she claims that we should ask, "How can the power of the genomic revolution be harnessed to create a more equal society?" and provides 2 responses: 
-(1) Genetic studies such as the <i>Nature Genetics</i> paper will demonstrate that success is largely a matter of luck, and they will show "that everyone should share in our national prosperity, regardless of which genetic variants he or she happens to inherit."  As My Wife and Harshest Critic might say, "Should is a bad word." A modern eugenicist, I am afraid, will draw precisely the opposite conclusion. The modern eugenicist will also ignore the flat statement in FAQ 3.5, "that <i>polygenic scores of individuals from different ancestry groups cannot be meaningfully compared</i> [italics in original]."
-Studies of the heritability of educational attainment, intelligence, or "success" can be extremely dangerous. 
-(2) If we know from the polygenic score how much of a person's educational attainment is due to genetics, then we will know how much is due to other factors, and we can concentrate on them. I think that is a much sounder argument than (1). 
+
+(1) Genetic studies such as the <i>Nature Genetics</i> paper will demonstrate that success is largely a matter of luck, and they will show "that everyone should share in our national prosperity, regardless of which genetic variants he or she happens to inherit."As My Wife and Harshest Critic might say, "Should is a bad word." A modern eugenicist, I am afraid, will draw precisely the opposite conclusion. The modern eugenicist will also ignore the flat statement in FAQ 3.5, "that <i>polygenic scores of individuals from different ancestry groups cannot be meaningfully compared</i> [italics in original]."
+
+Studies of the heritability of educational attainment, intelligence, or "success" can be extremely dangerous.
+
+(2) If we know from the polygenic score how much of a person's educational attainment is due to genetics, then we will know how much is due to other factors, and we can concentrate on them. I think that is a much sounder argument than (1).
+
 I am afraid that Professor Harden may be whistling past the graveyard when she continues, 
->Talking about including genetics as a variable in statistical models doesn’t have the same dark allure as eugenic proposals to screen embryos or assign children to schools based on their genotypes, 
+<blockquote>Talking about including genetics as a variable in statistical models doesn’t have the same dark allure as eugenic proposals to screen embryos or assign children to schools based on their genotypes,</blockquote> 
 
 and I hope she is right when she adds,
 
