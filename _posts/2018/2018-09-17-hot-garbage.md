@@ -5,7 +5,7 @@ author: Reed A. Cartwright
 ---
 
 Over the weekend, Matt Young brought to our attention to story 
-[about a paper by T. P. Hill and S. Tabachnikov](/archives/2018/09/paper-rejected-twice.html)
+[about a paper by T. P. Hill](/archives/2018/09/paper-rejected-twice.html)
 that was rejected by two mathematics journals.
 --- I also highly recommend Lior Pachter's [article](https://liorpachter.wordpress.com/2018/09/17/mathematics-matters/)
 on this paper. ---
@@ -17,7 +17,8 @@ And given the cottage industry of people convinced that academia is censoring re
 into human cognitive variation and sexual difference, there is a huge echo chamber
 promoting the idea that a *very reasonable paper*™ is being squashed by jack-booted thugs.
 
-I've read the paper, and I can assure you that it is not a *very reasonable paper*™.
+I've read the [paper](https://arxiv.org/pdf/1703.04184v2.pdf) (Sept 2018 version),
+and I can assure you that it is not a *very reasonable paper*™.
 It is a pile of hot garbage. Creationist trade magazines publish articles with more evolutionary
 content than "A Theory for Gender Differences in Variability".
 A paper that proposes "to help explain how one gender [sic] of a species might
