@@ -1,6 +1,6 @@
 ---
-title: ‘Would you like some salt with that meta-analysis?’
-date: ‘2018-09-25 10:09:00 -06:00’ 
+title: 'Would you like some salt with that meta-analysis?'
+date: '2018-09-25 10:09:00 -06:00' 
 author: Matt Young
 ---
 I have a vague recollection of reading a short article by a psychologist, in which the author and his colleague separately performed meta-analyses on certain parapsychological data. Meta-analysis involves, among other things, rating the studies under discussion as to their quality. The psychologist gave low ratings to many studies to which his colleague gave high ratings, and vice versa. The result: the psychologist's colleague concluded that the data supported the existence of whatever phenomenon they were studying, whereas the psychologist concluded the opposite. In other words, each evaluated the data subjectively and performed a meta-analysis that was more or less stacked to come to the conclusion that they wanted or expected. If I remember correctly, the psychologist concluded that meta-analyses must not be particularly useful.
