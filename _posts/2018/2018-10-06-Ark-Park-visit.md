@@ -27,6 +27,10 @@ The brand of creationism promoted by these attractions, among other things, clai
 
 None of these ideas are consistent with modern science, history or reality. Most Christians and other religious people realize these ideas are not science. Young-earth creationism has no scientific credibility whatsoever. Students entering college would be handicapped by these pseudoscientific ideas if they wished to pursue a career in science. 
 
+<figure>
+<img src="/uploads/2018/Dinosaur_Arena.jpg" alt="Poster"/>
+</figure>
+
 Astoundingly, the Ark Encounter recently added a bizarre exhibit depicting giants, a theropod dinosaur and people in mortal combat within a “pre-Flood” arena.
 
 Also, Ark Encounter attacks the science of geology in their third-deck “geology room.” Part of this section of the Ark accuses geologists of being in a massive conspiracy for not accepting AiG’s pseudoscientific claim of a worldwide flood producing the rock record. Such hostility to science in the Ark’s exhibits is detrimental to students wishing to learn science and promotes ignorant conspiracy theories. 
