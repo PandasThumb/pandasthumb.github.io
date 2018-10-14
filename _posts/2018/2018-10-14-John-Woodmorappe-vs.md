@@ -1,6 +1,6 @@
 ---
 title: 'John Woodmorappe vs. modern creation science: a response'
-date: '2018-10-14 12:00:00 -06:00:00'
+date: '2018-10-14 12:00:00 -06:00'
 author: Jonathan Kane
 ---
 
