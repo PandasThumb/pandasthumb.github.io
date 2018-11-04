@@ -162,7 +162,7 @@ was that most mutations were deleterious, an observation that hardly
 grapples with the criticisms of Dembski's use of the No Free Lunch
 Theorem.
 
-<h2><em>Deja vu</em> all over again</h2>
+<h2>... all over again</h2>
 
 So here we are again, and once again Holloway is not seeing any
 valid criticisms of Dembski's argument, and is saying that the
