@@ -1,3 +1,8 @@
+---
+title: 'Eric Holloway needs our help'
+date: '2018-11-08 12:01:00 -07:00'
+author: Joe Felsenstein
+---
 
 At <a href="https://mindmatters.today/">Mind
 Matters</a>, the blog of the Discovery Institute's Walter Bradley Center for Natural and Artificial Intelligence, <a href="https://mindmatters.today/2018/10/does-information-theory-support-design-in-nature/">Eric Holloway has argued</a> that no critic of Intelligent Design has
@@ -25,7 +30,7 @@ outside their realms of expertise.
 Is that really the state of debate about Dembski's arguments?  I'd say that we can point to
 a number of arguments that Holloway must have missed.  Let me list them ...
 
-<!-- more -->
+<!--more-->
 
 Here is a list of some arguments against William Dembski's use of Complex Specified Information
 to validate Intelligent Design:
