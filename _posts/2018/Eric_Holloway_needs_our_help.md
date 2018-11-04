@@ -1,0 +1,191 @@
+
+At <a href="https://mindmatters.today/">Mind
+Matters</a>, the blog of the Discovery Institute's Walter Bradley Center for Natural and Artificial Intelligence, <a href="https://mindmatters.today/2018/10/does-information-theory-support-design-in-nature/">Eric Holloway has argued</a> that no critic of Intelligent Design has
+yet refuted William Dembski's information-theoretic arguments for ID.
+
+The situation sounds dire. He writes:
+
+<blockquote>
+When I first began to look into intelligent design (ID) theory while I was considering becoming an
+atheist, I was struck by Bill Dembski's claim that ID could be demonstrated mathematically
+through information theory. A number of authors who were experts in computer science and
+information theory disagreed with Dembski's argument. They offered two criticisms: that he did
+not provide enough details to make the argument coherent and that he was making claims that were at
+odds with established information theory.
+
+In online discussions, I pressed a number of them, including Jeffrey Shallit, Tom English, Joe
+Felsenstein, and Joshua Swamidass. I also read a number of their articles. But I have not been able
+to discover a precise reason why they think Dembski is wrong. Ironically, they actually tend to
+agree with Dembski when the topic lies within their respective realms of expertise. For example, in
+his rebuttal Shallit considered an idea which is very similar to the ID concept of "algorithmic
+specified complexity". The critics tended to pounce when addressing Dembski's claims
+outside their realms of expertise.
+</blockquote>
+
+Is that really the state of debate about Dembski's arguments?  I'd say that we can point to
+a number of arguments that Holloway must have missed.  Let me list them ...
+
+<!-- more -->
+
+Here is a list of some arguments against William Dembski's use of Complex Specified Information
+to validate Intelligent Design:
+
+<ol>
+<li> Dembski's original CSI argument used a Law of Conservation of Complex Specified Information (LCCSI) to
+establish that a population had to be in a state which already had CSI in order to subsequently
+be in a state which had CSI.  In his 2002 book
+<em>No Free Lunch: Why Specified Complexity Cannot Be Purchased without
+Intelligence</em>, chapter 4 was entitled "Life's Conservation Law"
+and discussed the LCCSI.
+Dembski said of this chapter 
+that "this chapter
+is the climax of the book".  However ...
+<ul>
+<li>  Wesley Elsberry and Jeffrey Shallit, in their <a
+href="https://link.springer.com/content/pdf/10.1007/s11229-009-9542-8.pdf">2011 paper</a> in the philosophical journal <em>Synthese</em>,
+noted that Dembski's sketched proof of his LCCSI required that the specification be independent of any
+mechanisms of change.  They pointed out that the actual before-and-after specifications that Dembski used in
+his LCCSI proof violated this.
+Holloway, in his Mind Matters post, also states that the specification needs to be independent
+of any mechanisms of change, but does not explain why Elsberry and Shallit's
+argument is not then decisive.
+<li> Erik Tellgren <a href="http://www.talkreason.org/articles/dembski_LCI.pdf">carefully examined Dembski's argument</a> and concluded that Dembski had not
+proven that the specification that he gave for the generation preceding
+the current generation satisfied the requirement that it be independent of
+the evolutionary processes involved.
+<li>  In <a
+href="ncse.com/rncse/27/3-4/has-natural-selection-been-refuted-arguments-william-dembski">my 2007
+paper</a> on Dembski's arguments, I pointed out that the proof of the LCCSI changes the
+specification in each generation.  But Dembski's objective is to prove that natural selection and other evolutionary
+processes cannot make the population have high fitness if it originally doesn't, <em>so we need
+to keep the specification the same before and after</em>.  Dembski's ever-changing specification
+thus fails to show that a population cannot move into a state of higher fitness.
+</ul>
+<li> Starting in 2005, Dembski changed the definition of his CSI.  He'd say that he
+clarified it, showing what he had meant all along.  But after 2005, his original LCCSI is no
+longer discussed.  Instead he has a new way of proving that CSI cannot be achieved by natural
+evolutionary forces: <em>he simply refuses to define the population as having CSI if its state
+can be achieved by natural evolutionary forces!</em>  It's only CSI if evolution can't get there.  So
+how do we know that?  He doesn't say -- it's up to us to find a way to show that, in order to
+be able to call it CSI.   Which reverses the whole effect of showing something has CSI.
+CSI formerly was being used to show evolution couldn't get there.  Now we have to separately
+show (somehow) that evolution can't get there before we can call it CSI.  Which makes CSI a useless add-on to the whole
+argument.  Dembski's new argument will be found <a
+href="https://billdembski.com/documents/2005.06.Specification.pdf">here</a>.  It was published in
+<em>Philosophia Christi</em> in 2005.  Some further comments on the new argument by me will be
+found <a href="https://pandasthumb.org/archives/2013/04/does-csi-enable.html">here</a> (comments
+are missing as in many older PT threads -- we hope to restore them some day soon).
+<li> Then in 2009, William Dembski and Robert Marks rolled out <a href="https://evoinfo.org/papers/2009_ConservationOfInformationInSearch.pdf">a new argument</a> -- that when
+natural selection could succeed in increasing fitness, this was only because of the pattern of
+fitnesses of genotypes.  They defined "active information" that came from that pattern of
+fitnesses.  They argued that this information must have been "front-loaded" into the situation
+by nature.  Problem is, this wasn't an argument about how natural evolutionary forces could
+not increase fitness.  Instead it argued that when they could do the job, it was only
+because a Design Intervention enabled that.  Some rebuttal of their argument by Tom English 
+and I will be found <a
+href="http://theskepticalzone.com/wp/at-pandas-thumb-an-evaluation-of-dembski-ewert-and-markss-search-for-a-search-argument/">here</a>
+(at The Skeptical Zone).
+</ol>
+So only Dembski's first argument, the one using the Law of Conservation of
+Complex Specified Information, even tried to show that there was some
+information-based Law that prevented natural selection from putting
+adaptive information into the genome.  And, as we've seen, that law does not work to do
+that.  And Holloway seems to have missed that.  As he missed all these 
+other refutations of Dembski.
+
+<h2>Deja vu</h2>
+
+Holloway has had such difficulties before.  In August 2011, on the
+creationist/ID blog Uncommon Descent, <a
+href="http://www.uncommondescent.com/intelligent-design/critics-agree-with-dembski-the-no-free-lunch-theorem-applies-to-evolution/">Holloway
+argued</a> that even William Dembski's critics all acknowledged
+that his No Free Lunch argument was valid.  He wrote that
+each critic acknowledged that Dembski's application of the No
+Free Lunch Theorem was valid, but all of the critics claimed that
+there was a problem somewhere else -- outside of the critic's domain
+of expertise.
+
+Dembski's No Free Lunch argument, put forward
+in his 2002 book, was not framed in terms of information theory.  And it came
+under immediate, and devastating, attack by many critics, all of whom
+concurred that the argument failed to show that there the 1997 <a href="https://ti.arc.nasa.gov/m/profile/dhw/papers/78.pdf">No Free Lunch
+Theorem of Wolpert and Macready</a> posed any problem for evolutionary biology.
+
+Those devastating responses were:
+
+<ul>
+<li> <a href="http://www.talkorigins.org/design/faqs/nfl/">By Richard Wein</a> in 2002.
+<li> By Jason Rosenhouse in <a href="http://www.math.jmu.edu/~rosenhjd/dembski.htm">his 2004 book review</a> of Dembski's 2002 book, in <em>Evolution</em>, volume 56, part 8, pages 1721-1722.
+<li> <a
+href="https://pdfs.semanticscholar.org/7429/ef6c62a9cd544df79f0b21985c42dddf138f.pdf?_ga=2.130757519.169921541.1540934691-51823296.1540934691">By the late Mark Perakh</a> in the 2004 book by Matt Young and Taner Edis, <em>
+Why Intelligent Design Fails: A Scientific Critique of the New Creationism</em>.
+<li> <a href="https://link.springer.com/content/pdf/10.1007%2Fs11229-009-9542-8.pdf">By Wesley Elsberry and Jeffrey Shallit</a> in <em>Synthese</em> in 2011, and also <a href="http://www.talkreason.org/articles/eandsdembski.pdf">a version published in 2004</a> at the website talkreason.org.
+<li> By Erik Tellgren <a
+href="http://www.talkreason.org/articles/nfl_gavrilets6.pdf">here</a>.
+<li> By Ole H&auml;ggstr&ouml;m <a href="https://link.springer.com/content/pdf/10.1007%2Fs10539-006-9040-z.pdf">in
+<em>Biology and Philosophy</em> in 2007</a>. 
+</ul>
+
+I have also given what I claim to be the clearest explanation of these objections, in
+my <a
+href="http://ncse.com/rncse/27/3-4/has-natural-selection-been-refuted-arguments-william-dembski">2007
+article in the <em>Reports of the National Center for Science Education</em></a>.
+
+<h2>Attention called to these criticims</h2>
+
+In 2011, after these criticisms of Dembski's No Free Lunch argument had been
+available for years, <a href="https://uncommondescent.com/intelligent-design/critics-agree-with-dembski-the-no-free-lunch-theorem-applies-to-evolution/">Eric Holloway argued</a> at Uncommon Descent that critics of Dembski
+had admitted that the No Free Lunch argument applied to biological
+evolution.  Summarizing the state of the debate in a comment in that thread
+<a
+href="https://uncommondescent.com/intelligent-design/critics-agree-with-dembski-the-no-free-lunch-theorem-applies-to-evolution/#comment-397213">Holloway
+said:</a>
+<blockquote>
+So, I spent some time reading the critics, and this bore my frustration. I
+could not find one author who treated Dembski's work fairly! If someone
+could fairly refute Dembski's work I'd be all over it, but I
+haven't found anyone! Instead it's all passive aggressive ad homineum
+and brow beating, with ample burning of strawmen, very tiring to read.
+</blockquote>
+
+Astonished by this wildly wrong summary of the situation, I posted <a href="https://pandasthumb.org/archives/2011/08/criticisms-of-d.html">at Panda's Thumb</a> arguing that Holloway had missed numerous cogent
+refutations of Dembski's use of the No Free Lunch Theorem.
+
+On August 28, 2011 Holloway <a href="https://uncommondescent.com/intelligent-design/follow-up-to-critics-agreeing-with-dembski-re-nfl/">responded at Uncommon Descent</a> -- I thought
+extraordinarily weakly.  He simply said that empirical evidence
+was that most mutations were deleterious, an observation that hardly
+grapples with the criticisms of Dembski's use of the No Free Lunch
+Theorem.
+
+<h2><em>Deja vu</em> all over again</h2>
+
+So here we are again, and once again Holloway is not seeing any
+valid criticisms of Dembski's argument, and is saying that the
+criticisms of Dembski's Conservation Law argument aren't valid.  It is
+as if the critics and their arguments didn't exist.
+
+Can we get Holloway to take a look at whether Dembski's information-theory-based
+arguments are still standing, unrefuted?  As you can see, it's been hard to get him to
+acknowledge such things before.  It's deja vu, and all over again.
+
+
+<h1>References</h1>
+
+Dembski W. A. 2002 <em>No free lunch: Why specified complexity cannot be purchased without intelligence</em> Rowman
+&amp;
+Littlefield, Lanham, MD.
+
+Dembski, W. A.  2005.  Specification: the pattern that signified intelligence. <em>Philosophia
+Christi</em>  <strong>7 (2):</strong> 299-344.
+ 
+Elsberry, W. and J. Shallit.  2011.  Information theory, evolutionary computation, and Dembski's "complex specified information".  <em>Synthese</em> 178 (2) 237-270.
+
+H&auml;ggstr&ouml;m, O.  2007.   Intelligent design and the NFL theorems.  <em>Biology and
+Philosophy</em>  <strong>22 (2):</strong> 217-230.
+
+Perakh, M.  2004.  There is a free lunch after all: William Dembski's wrong answers to irrelevant
+questions.  pp. 121-138 in <em>Why Intelligent Design Fails: A Scientific Critique of the New
+Creationism</em>, ed. M. Yound and T. Edis.  Rutgers University Press, Piscataway, New Jersey.
+
+Rosenhouse, J. 2002.  Probability, optimization theory, and evolution. <em>Evolution</em> <strong>56
+(8):</strong> 1721-1723.
