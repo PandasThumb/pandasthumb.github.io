@@ -176,7 +176,7 @@ acknowledge such things before.  It's deja vu, and all over again.
 
 <h1>References</h1>
 
-Dembski W. A. 2002 <em>No free lunch: Why specified complexity cannot be purchased without intelligence</em> Rowman
+Dembski W. A. 2002 <em>No free lunch: Why specified complexity cannot be purchased without intelligence.</em> Rowman
 &amp;
 Littlefield, Lanham, MD.
 
