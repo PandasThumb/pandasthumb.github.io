@@ -1,6 +1,6 @@
 ---
 title: 'Eric Holloway needs our help'
-date: '2018-11-08 12:01:00 -07:00'
+date: '2018-11-07 12:01:00 -07:00'
 author: Joe Felsenstein
 ---
 
@@ -113,7 +113,7 @@ of expertise.
 Dembski's No Free Lunch argument, put forward
 in his 2002 book, was not framed in terms of information theory.  And it came
 under immediate, and devastating, attack by many critics, all of whom
-concurred that the argument failed to show that there the 1997 <a href="https://ti.arc.nasa.gov/m/profile/dhw/papers/78.pdf">No Free Lunch
+concurred that the argument failed to show that the 1997 <a href="https://ti.arc.nasa.gov/m/profile/dhw/papers/78.pdf">No Free Lunch
 Theorem of Wolpert and Macready</a> posed any problem for evolutionary biology.
 
 Those devastating responses were:
