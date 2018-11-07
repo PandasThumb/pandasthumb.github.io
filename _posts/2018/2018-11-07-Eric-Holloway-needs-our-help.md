@@ -118,7 +118,7 @@ Theorem of Wolpert and Macready</a> posed any problem for evolutionary biology.
 Those devastating responses were:
 
 <ul>
- <li> <a href="http://www.talkorigins.org/design/faqs/nfl/"><strong>By Richard Wein</strong></a> in 2002.
+<li> <a href="http://www.talkorigins.org/design/faqs/nfl/"><strong>By Richard Wein</strong></a> in 2002.</li>
 <li> By Jason Rosenhouse in <a href="http://www.math.jmu.edu/~rosenhjd/dembski.htm"><strong>his 2004 book review</strong></a> of Dembski's 2002 book, in <em>Evolution</em>, volume 56, part 8, pages 1721-1722.</li>
 <li> <a
 href="https://pdfs.semanticscholar.org/7429/ef6c62a9cd544df79f0b21985c42dddf138f.pdf?_ga=2.130757519.169921541.1540934691-51823296.1540934691"><strong>By the late Mark Perakh</strong></a> in the 2004 book by Matt Young and Taner Edis, <em>
@@ -141,8 +141,7 @@ available for years, <a href="https://uncommondescent.com/intelligent-design/cri
 had admitted that the No Free Lunch argument applied to biological
 evolution.  Summarizing the state of the debate in a comment in that thread
 <a
-href="https://uncommondescent.com/intelligent-design/critics-agree-with-dembski-the-no-free-lunch-theorem-applies-to-evolution/#comment-397213"><strong>Holloway
-said:</strong></a>
+href="https://uncommondescent.com/intelligent-design/critics-agree-with-dembski-the-no-free-lunch-theorem-applies-to-evolution/#comment-397213"><strong>Holloway said:</strong></a>
 <blockquote>
 So, I spent some time reading the critics, and this bore my frustration. I
 could not find one author who treated Dembski's work fairly! If someone
