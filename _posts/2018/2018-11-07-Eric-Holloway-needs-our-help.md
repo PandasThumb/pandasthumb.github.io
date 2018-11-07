@@ -47,25 +47,25 @@ that "this chapter
 is the climax of the book".  However ...
 <ul>
 <li>  Wesley Elsberry and Jeffrey Shallit, in their <a
-href="https://link.springer.com/content/pdf/10.1007/s11229-009-9542-8.pdf">2011 paper</a> in the philosophical journal <em>Synthese</em>,
+href="https://link.springer.com/content/pdf/10.1007/s11229-009-9542-8.pdf"><strong>2011 paper</strong></a> in the philosophical journal <em>Synthese</em>,
 noted that Dembski's sketched proof of his LCCSI required that the specification be independent of any
 mechanisms of change.  They pointed out that the actual before-and-after specifications that Dembski used in
 his LCCSI proof violated this.
 Holloway, in his Mind Matters post, also states that the specification needs to be independent
 of any mechanisms of change, but does not explain why Elsberry and Shallit's
-argument is not then decisive.
-<li> Erik Tellgren <a href="http://www.talkreason.org/articles/dembski_LCI.pdf">carefully examined Dembski's argument</a> and concluded that Dembski had not
+ argument is not then decisive.</li>
+<li> Erik Tellgren <a href="http://www.talkreason.org/articles/dembski_LCI.pdf"><strong>carefully examined Dembski's argument</strong></a> and concluded that Dembski had not
 proven that the specification that he gave for the generation preceding
 the current generation satisfied the requirement that it be independent of
-the evolutionary processes involved.
+ the evolutionary processes involved.</li>
 <li>  In <a
-href="ncse.com/rncse/27/3-4/has-natural-selection-been-refuted-arguments-william-dembski">my 2007
-paper</a> on Dembski's arguments, I pointed out that the proof of the LCCSI changes the
+href="ncse.com/rncse/27/3-4/has-natural-selection-been-refuted-arguments-william-dembski"><strong>my 2007
+ paper</strong></a> on Dembski's arguments, I pointed out that the proof of the LCCSI changes the
 specification in each generation.  But Dembski's objective is to prove that natural selection and other evolutionary
 processes cannot make the population have high fitness if it originally doesn't, <em>so we need
 to keep the specification the same before and after</em>.  Dembski's ever-changing specification
-thus fails to show that a population cannot move into a state of higher fitness.
-</ul>
+ thus fails to show that a population cannot move into a state of higher fitness.</li>
+ </ul></li>
 <li> Starting in 2005, Dembski changed the definition of his CSI.  He'd say that he
 clarified it, showing what he had meant all along.  But after 2005, his original LCCSI is no
 longer discussed.  Instead he has a new way of proving that CSI cannot be achieved by natural
@@ -75,12 +75,11 @@ how do we know that?  He doesn't say -- it's up to us to find a way to show that
 be able to call it CSI.   Which reverses the whole effect of showing something has CSI.
 CSI formerly was being used to show evolution couldn't get there.  Now we have to separately
 show (somehow) that evolution can't get there before we can call it CSI.  Which makes CSI a useless add-on to the whole
-argument.  Dembski's new argument will be found <a
-href="https://billdembski.com/documents/2005.06.Specification.pdf">here</a>.  It was published in
+argument.  Dembski's new argument will be found <a href="https://billdembski.com/documents/2005.06.Specification.pdf"><strong>here</strong></a>.  It was published in
 <em>Philosophia Christi</em> in 2005.  Some further comments on the new argument by me will be
-found <a href="https://pandasthumb.org/archives/2013/04/does-csi-enable.html">here</a> (comments
-are missing as in many older PT threads -- we hope to restore them some day soon).
-<li> Then in 2009, William Dembski and Robert Marks rolled out <a href="https://evoinfo.org/papers/2009_ConservationOfInformationInSearch.pdf">a new argument</a> -- that when
+ found <a href="https://pandasthumb.org/archives/2013/04/does-csi-enable.html"><strong>here</strong></a> (comments
+ are missing as in many older PT threads -- we hope to restore them some day soon).</li>
+<li> Then in 2009, William Dembski and Robert Marks rolled out <a href="https://evoinfo.org/papers/2009_ConservationOfInformationInSearch.pdf"><strong>a new argument</strong></a> -- that when
 natural selection could succeed in increasing fitness, this was only because of the pattern of
 fitnesses of genotypes.  They defined "active information" that came from that pattern of
 fitnesses.  They argued that this information must have been "front-loaded" into the situation
@@ -88,8 +87,8 @@ by nature.  Problem is, this wasn't an argument about how natural evolutionary f
 not increase fitness.  Instead it argued that when they could do the job, it was only
 because a Design Intervention enabled that.  Some rebuttal of their argument by Tom English 
 and I will be found <a
-href="http://theskepticalzone.com/wp/at-pandas-thumb-an-evaluation-of-dembski-ewert-and-markss-search-for-a-search-argument/">here</a>
-(at The Skeptical Zone).
+href="http://theskepticalzone.com/wp/at-pandas-thumb-an-evaluation-of-dembski-ewert-and-markss-search-for-a-search-argument/"><strong>here</strong></a>
+ (at The Skeptical Zone).</li>
 </ol>
 So only Dembski's first argument, the one using the Law of Conservation of
 Complex Specified Information, even tried to show that there was some
@@ -102,8 +101,8 @@ other refutations of Dembski.
 
 Holloway has had such difficulties before.  In August 2011, on the
 creationist/ID blog Uncommon Descent, <a
-href="http://www.uncommondescent.com/intelligent-design/critics-agree-with-dembski-the-no-free-lunch-theorem-applies-to-evolution/">Holloway
-argued</a> that even William Dembski's critics all acknowledged
+href="http://www.uncommondescent.com/intelligent-design/critics-agree-with-dembski-the-no-free-lunch-theorem-applies-to-evolution/"><strong>Holloway
+argued</strong></a> that even William Dembski's critics all acknowledged
 that his No Free Lunch argument was valid.  He wrote that
 each critic acknowledged that Dembski's application of the No
 Free Lunch Theorem was valid, but all of the critics claimed that
@@ -119,22 +118,21 @@ Theorem of Wolpert and Macready</a> posed any problem for evolutionary biology.
 Those devastating responses were:
 
 <ul>
-<li> <a href="http://www.talkorigins.org/design/faqs/nfl/">By Richard Wein</a> in 2002.
-<li> By Jason Rosenhouse in <a href="http://www.math.jmu.edu/~rosenhjd/dembski.htm">his 2004 book review</a> of Dembski's 2002 book, in <em>Evolution</em>, volume 56, part 8, pages 1721-1722.
+ <li> <a href="http://www.talkorigins.org/design/faqs/nfl/"><strong>By Richard Wein</strong></a> in 2002.
+<li> By Jason Rosenhouse in <a href="http://www.math.jmu.edu/~rosenhjd/dembski.htm"><strong>his 2004 book review</strong></a> of Dembski's 2002 book, in <em>Evolution</em>, volume 56, part 8, pages 1721-1722.</li>
 <li> <a
-href="https://pdfs.semanticscholar.org/7429/ef6c62a9cd544df79f0b21985c42dddf138f.pdf?_ga=2.130757519.169921541.1540934691-51823296.1540934691">By the late Mark Perakh</a> in the 2004 book by Matt Young and Taner Edis, <em>
-Why Intelligent Design Fails: A Scientific Critique of the New Creationism</em>.
-<li> <a href="https://link.springer.com/content/pdf/10.1007%2Fs11229-009-9542-8.pdf">By Wesley Elsberry and Jeffrey Shallit</a> in <em>Synthese</em> in 2011, and also <a href="http://www.talkreason.org/articles/eandsdembski.pdf">a version published in 2004</a> at the website talkreason.org.
-<li> By Erik Tellgren <a
-href="http://www.talkreason.org/articles/nfl_gavrilets6.pdf">here</a>.
-<li> By Ole H&auml;ggstr&ouml;m <a href="https://link.springer.com/content/pdf/10.1007%2Fs10539-006-9040-z.pdf">in
-<em>Biology and Philosophy</em> in 2007</a>. 
+href="https://pdfs.semanticscholar.org/7429/ef6c62a9cd544df79f0b21985c42dddf138f.pdf?_ga=2.130757519.169921541.1540934691-51823296.1540934691"><strong>By the late Mark Perakh</strong></a> in the 2004 book by Matt Young and Taner Edis, <em>
+ Why Intelligent Design Fails: A Scientific Critique of the New Creationism</em>.</li>
+<li> <a href="https://link.springer.com/content/pdf/10.1007%2Fs11229-009-9542-8.pdf"><strong>By Wesley Elsberry and Jeffrey Shallit</strong></a> in <em>Synthese</em> in 2011, and also <a href="http://www.talkreason.org/articles/eandsdembski.pdf"><strong>a version published in 2004</strong></a> at the website talkreason.org.</li>
+<li> By Erik Tellgren <a href="http://www.talkreason.org/articles/nfl_gavrilets6.pdf"><strong>here</strong></a>.</li>
+<li> By Ole H&auml;ggstr&ouml;m <a href="https://link.springer.com/content/pdf/10.1007%2Fs10539-006-9040-z.pdf"><strong>in
+ <em>Biology and Philosophy</em> in 2007</stron></a>.</li> 
 </ul>
 
 I have also given what I claim to be the clearest explanation of these objections, in
 my <a
-href="http://ncse.com/rncse/27/3-4/has-natural-selection-been-refuted-arguments-william-dembski">2007
-article in the <em>Reports of the National Center for Science Education</em></a>.
+href="http://ncse.com/rncse/27/3-4/has-natural-selection-been-refuted-arguments-william-dembski"><strong>2007
+article in the <em>Reports of the National Center for Science Education</em></strong></a>.
 
 <h2>Attention called to these criticims</h2>
 
@@ -143,8 +141,8 @@ available for years, <a href="https://uncommondescent.com/intelligent-design/cri
 had admitted that the No Free Lunch argument applied to biological
 evolution.  Summarizing the state of the debate in a comment in that thread
 <a
-href="https://uncommondescent.com/intelligent-design/critics-agree-with-dembski-the-no-free-lunch-theorem-applies-to-evolution/#comment-397213">Holloway
-said:</a>
+href="https://uncommondescent.com/intelligent-design/critics-agree-with-dembski-the-no-free-lunch-theorem-applies-to-evolution/#comment-397213"><strong>Holloway
+said:</strong></a>
 <blockquote>
 So, I spent some time reading the critics, and this bore my frustration. I
 could not find one author who treated Dembski's work fairly! If someone
@@ -153,10 +151,10 @@ haven't found anyone! Instead it's all passive aggressive ad homineum
 and brow beating, with ample burning of strawmen, very tiring to read.
 </blockquote>
 
-Astonished by this wildly wrong summary of the situation, I posted <a href="https://pandasthumb.org/archives/2011/08/criticisms-of-d.html">at Panda's Thumb</a> arguing that Holloway had missed numerous cogent
+Astonished by this wildly wrong summary of the situation, I posted <a href="https://pandasthumb.org/archives/2011/08/criticisms-of-d.html"><strong>at Panda's Thumb</strong></a> arguing that Holloway had missed numerous cogent
 refutations of Dembski's use of the No Free Lunch Theorem.
 
-On August 28, 2011 Holloway <a href="https://uncommondescent.com/intelligent-design/follow-up-to-critics-agreeing-with-dembski-re-nfl/">responded at Uncommon Descent</a> -- I thought
+On August 28, 2011 Holloway <a href="https://uncommondescent.com/intelligent-design/follow-up-to-critics-agreeing-with-dembski-re-nfl/"><strong>responded at Uncommon Descent</strong>0</a> -- I thought
 extraordinarily weakly.  He simply said that empirical evidence
 was that most mutations were deleterious, an observation that hardly
 grapples with the criticisms of Dembski's use of the No Free Lunch
