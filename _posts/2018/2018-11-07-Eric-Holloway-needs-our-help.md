@@ -137,7 +137,7 @@ article in the <em>Reports of the National Center for Science Education</em></st
 <h2>Attention called to these criticims</h2>
 
 In 2011, after these criticisms of Dembski's No Free Lunch argument had been
-available for years, <a href="https://uncommondescent.com/intelligent-design/critics-agree-with-dembski-the-no-free-lunch-theorem-applies-to-evolution/">Eric Holloway argued</a> at Uncommon Descent that critics of Dembski
+available for years, <a href="https://uncommondescent.com/intelligent-design/critics-agree-with-dembski-the-no-free-lunch-theorem-applies-to-evolution/"><strong>Eric Holloway argued</strong></a> at Uncommon Descent that critics of Dembski
 had admitted that the No Free Lunch argument applied to biological
 evolution.  Summarizing the state of the debate in a comment in that thread
 <a
