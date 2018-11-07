@@ -126,7 +126,7 @@ href="https://pdfs.semanticscholar.org/7429/ef6c62a9cd544df79f0b21985c42dddf138f
 <li> <a href="https://link.springer.com/content/pdf/10.1007%2Fs11229-009-9542-8.pdf"><strong>By Wesley Elsberry and Jeffrey Shallit</strong></a> in <em>Synthese</em> in 2011, and also <a href="http://www.talkreason.org/articles/eandsdembski.pdf"><strong>a version published in 2004</strong></a> at the website talkreason.org.</li>
 <li> By Erik Tellgren <a href="http://www.talkreason.org/articles/nfl_gavrilets6.pdf"><strong>here</strong></a>.</li>
 <li> By Ole H&auml;ggstr&ouml;m <a href="https://link.springer.com/content/pdf/10.1007%2Fs10539-006-9040-z.pdf"><strong>in
- <em>Biology and Philosophy</em> in 2007</stron></a>.</li> 
+ <em>Biology and Philosophy</em> in 2007</strong></a>.</li> 
 </ul>
 
 I have also given what I claim to be the clearest explanation of these objections, in
@@ -154,7 +154,7 @@ and brow beating, with ample burning of strawmen, very tiring to read.
 Astonished by this wildly wrong summary of the situation, I posted <a href="https://pandasthumb.org/archives/2011/08/criticisms-of-d.html"><strong>at Panda's Thumb</strong></a> arguing that Holloway had missed numerous cogent
 refutations of Dembski's use of the No Free Lunch Theorem.
 
-On August 28, 2011 Holloway <a href="https://uncommondescent.com/intelligent-design/follow-up-to-critics-agreeing-with-dembski-re-nfl/"><strong>responded at Uncommon Descent</strong>0</a> -- I thought
+On August 28, 2011 Holloway <a href="https://uncommondescent.com/intelligent-design/follow-up-to-critics-agreeing-with-dembski-re-nfl/"><strong>responded at Uncommon Descent</strong></a> -- I thought
 extraordinarily weakly.  He simply said that empirical evidence
 was that most mutations were deleterious, an observation that hardly
 grapples with the criticisms of Dembski's use of the No Free Lunch
