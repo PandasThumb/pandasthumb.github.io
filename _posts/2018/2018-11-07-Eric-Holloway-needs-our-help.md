@@ -4,6 +4,8 @@ date: '2018-11-07 12:01:00 -07:00'
 author: Joe Felsenstein
 ---
 
+<em>A parallel thread to this one will be found at <a href="http://theskepticalzone.com/wp/eric-holloway-needs-our-help-new-post-at-pandas-thumb/">The Skeptical Zone</a>.</em>
+ 
 At <a href="https://mindmatters.today/">Mind
 Matters</a>, the blog of the Discovery Institute's Walter Bradley Center for Natural and Artificial Intelligence, <a href="https://mindmatters.today/2018/10/does-information-theory-support-design-in-nature/">Eric Holloway has argued</a> that no critic of Intelligent Design has
 yet refuted William Dembski's information-theoretic arguments for ID.
