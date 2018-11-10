@@ -1,5 +1,5 @@
 ---
-title: '10 scientists elected to US Congress'
+title: 'Nine scientists elected to US Congress'
 date: '2018-11-10 15:12:00 -07:00'
 author: Matt Young
 ---
