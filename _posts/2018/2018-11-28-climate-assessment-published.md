@@ -1,6 +1,6 @@
 ---
 title: 'Climate Assessment published, rejected'
-date: '2019-11-28 10:00:00 -07:00' 
+date: '2018-11-28 12:00:00 -07:00' 
 author: Matt Young
 ---
 <figure>
@@ -19,7 +19,7 @@ Far from calling for another study, the White House, having released the report 
 
 <blockquote>The White House and President Trump have sought to portray the report as flawed. A White House spokesperson <a href="https://www.eenews.net/stories/1060107253">asserted</a> it is “<i>largely based on the most extreme scenario</i>” — a claim <a href="https://twitter.com/KHayhoe/status/1066132449179111426">rejected</a> by Katharine Hayhoe, one of the authors of the relevant section. The spokesperson also said the next assessment cycle will provide an opportunity for a “<i>more transparent and data-driven process that includes fuller information on the range of potential scenarios and outcomes.</i>” Asked by reporters about the report, Trump <a href="https://www.whitehouse.gov/briefings-statements/remarks-president-trump-marine-one-departure-26/">replied</a>, “<i>I’ve seen it. I’ve read some of it, and it’s fine</i>,” but pressed on its assertions about the damage climate change will cause to the U.S. economy, he replied, “<i>I don’t believe it</i>.” [Links and italics in original.]</blockquote>
 
-The government lumbers along, no matter who is in charge. Though the report was released at a deliberately inopportune time, Mr. Malakoff quotes Virginia Burkett, a climate scientist with the U.S. Geological Survey, as noting, “The report has not been altered in any way to reflect political considerations." Additionally, Democrats in the House promise a series of hearings to make climate change a top priority.
+The government lumbers along, no matter who is in charge. Though the report was released at a deliberately inopportune time, Mr. Malakoff quotes Virginia Burkett, a climate scientist with the U.S. Geological Survey, as noting, “The report has not been altered in any way to reflect political considerations." The comment by the "spokesperson," however, makes you wonder about the next report. Nevertheless, Democrats in the House promise a series of hearings to make climate change a top priority.
 
 Finally, there is hope. Max Boot, a right-wing columnist for the Washington Post, the other day <a href="https://www.washingtonpost.com/opinions/global-opinions/i-was-wrong-on-climate-change-why-cant-other-conservatives-admit-it-too/2018/11/26/11d2b778-f1a1-11e8-bc79-68604ed88993_story.html">admitted</a>,
 
