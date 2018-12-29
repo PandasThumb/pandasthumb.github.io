@@ -11,4 +11,4 @@ author: Matt Young
 </figcaption>
 </figure>
 
-<br/>The <i>Times</i> sent reporter Nicholas Casey and photographer Josh Haner to the Galápagos Islands. Their report shows a lot of species disappearing or in trouble as a direct result of climate change. Extremes of El Niño and La Niña are taking their toll on plants and animals that cannot keep up with the pace of the change.
+<br/>The <i>Times</i> sent reporter Nicholas Casey and photographer Josh Haner to the Galápagos Islands. <a href="https://www.nytimes.com/interactive/2018/12/18/climate/galapagos-islands-ocean-warming.html">Their report shows a lot of species disappearing</a> or in trouble as a direct result of climate change. Extremes of El Niño and La Niña are taking their toll on plants and animals that cannot keep up with the pace of the change.
