@@ -1,6 +1,6 @@
 ---
 title: 'It came from outer space'
-date: '2018-01-13 08:00:00 -07:00'
+date: '2019-01-13 08:50:00 -07:00'
 author: Matt Young
 ---
 Not just outer space, but outer-outer space, beyond the solar system, maybe from Vega. It is the object named Oumuamua, which famously passed by the Sun and through the solar system along an orbit inclined at a very steep angle to the ecliptic. Now a pair of Harvard astronomers has suggested that it may have been flat, or pancake-shaped, and have inferred that it might be a solar sail or other part of a spacecraft from a distant star system.
