@@ -1,6 +1,6 @@
 ---
 title: 'Ken Ham has his eye on the Supreme Court'
-date: ‘2020-01-17 15:40:00 -07:00'
+date: ‘2019-01-17 15:55:00 -07:00'
 author: Matt Young
 ---
 
@@ -10,7 +10,7 @@ author: Matt Young
 </figcaption>
 </figure>
 
-According to a recent <a href="https://www.patheos.com/blogs/secularspectrum/2019/01/kentucky-college-visits-ark-encounter-using-scholarship-funds-ken-ham-hopes-to-provoke-supreme-court-battle/">article</a> in The Secular Spectrum, Ken Ham has his eye on the Supreme Court, and well he might considering that the Court now includes at least three extremely reactionary Justices. The story begins, more or less, when, as Dan Phelps <a href="https://www.kentucky.com/opinion/op-ed/article219526300.html">reported</a> in the Lexington Herald-Leader in October, a Kentucky community college took a number of middle- and high-school students on a field trip to Mr. Ham’s Creation "Museum." As Mark Alsip details in The Secular Spectrum, the Freedom from Religion Foundation responded by sending a memo to school districts in several states, warning that such field trips may be unconstitutional. Mr. Ham in return offered free admission to any school group that organized a visit to the "Museum" and <a href="https://answersingenesis.org/religious-freedom/ffrf-threatens-public-schools-over-visits-to-ark-and-museum/">essentially promised</a> 
+According to a recent <a href="https://www.patheos.com/blogs/secularspectrum/2019/01/kentucky-college-visits-ark-encounter-using-scholarship-funds-ken-ham-hopes-to-provoke-supreme-court-battle/">article</a> in The Secular Spectrum, Ken Ham has his eye on the Supreme Court, and well he might, considering that the Court now includes at least three extremely reactionary Justices. As Dan Phelps <a href="https://www.kentucky.com/opinion/op-ed/article219526300.html">reported</a> in the Lexington Herald-Leader in October, the story begins, more or less, when a Kentucky community college took a number of middle- and high-school students on a field trip to Mr. Ham’s Creation "Museum." Mark Alsip outlines the story well in The Secular Spectrum and notes that the Freedom from Religion Foundation responded by sending a memo to school districts in several states, warning that such field trips may be unconstitutional. Mr. Ham in return offered free admission to any school group that organized a visit to the "Museum" and <a href="https://answersingenesis.org/religious-freedom/ffrf-threatens-public-schools-over-visits-to-ark-and-museum/">essentially promised</a> 
 
 <blockquote>... access to expert constitutional law attorneys who will provide their services to the school, pro bono, even if that means going all the way to the US Supreme Court.</blockquote> 
 
@@ -18,7 +18,7 @@ According to Mr. Phelps, at least one school principal tweeted that he would "li
 
 <!--more-->
 
-Now, I am not a lawyer, but to paraphrase Mr. Justice Potter Stewart, I know a religious institution when I see one. And it seems to me that those who liken a field trip to the Creation "Museum" or the Ark Park to a visit to a real museum do not recognize it (or pretend to not recognize it) as a religious institution. That is, as someone hinted in a comment to Mr. Alsip's article, a field trip to the <a href="https://alicenter.org/">Muhammad Ali Center</a> in Louisville would be acceptable, even if it had a display explaining the history or religion of Islam, because that museum has overall a secular purpose. The Ark Park does not have a secular purpose; its intention is to proselytize. In <a href="https://answersingenesis.org/noahs-ark/why-build-ark/">Mr. Ham's own words</a>,
+Now, I am not a lawyer, but to paraphrase Mr. Justice Potter Stewart, I know a religious institution when I see one. And it seems to me that those who liken a field trip to the Creation "Museum" or the Ark Park to a visit to a real museum do not recognize it (or pretend to not recognize it) as a religious institution. That is, as someone hinted in a comment to Mr. Alsip's article, a field trip to the <a href="https://alicenter.org/">Muhammad Ali Center</a> in Louisville would be acceptable, even if it had a display explaining the history or religion of Islam, because that museum has an overall secular purpose. The Ark Park does not have a secular purpose; its intention is to proselytize. In <a href="https://answersingenesis.org/noahs-ark/why-build-ark/">Mr. Ham's own words</a>,
 
 <blockquote>We want people to come and have an encounter with Noah’s Ark and related attractions, and in so doing, have an encounter with God’s Word. As a result, they will have an encounter with the Lord Jesus Christ.</blockquote>
 
@@ -34,7 +34,7 @@ First, let us make clear that if the Ark Park or the Creation "Museum" were devo
 </figcaption>
 </figure>
 
-then a field trip there would be merely stupid, not unconstitutional. As to the religious nature of the displays, consider this
+then a field trip there would be merely stupid, not unconstitutional. As to the religious nature of the displays, consider this:
 
 <figure>
 <img src="/uploads/2019/Door_to_Eternal_Life_600.jpg" alt="Door to eternal life"/>
@@ -42,7 +42,7 @@ then a field trip there would be merely stupid, not unconstitutional. As to the 
 </figcaption>
 </figure>
 
-or this
+or this:
 <figure>
 <img src="/uploads/2019/Hams_Prayer_600.jpg" alt="Ham's Prayer"/>
 <figcaption> Ham's prayer.
@@ -65,7 +65,7 @@ You can guess where it's going, can't you? First, they show that they know what 
 </figcaption>
 </figure>
 
-Then they go through a little theodicy, blaming us for all the evil in the world:
+Then they go through a little theodicy, blaming us for all the evil and even misfortune in the world:
 
 <figure>
 <img src="/uploads/2019/Blame_Us_600.jpg" alt="Blame us"/>
@@ -73,7 +73,7 @@ Then they go through a little theodicy, blaming us for all the evil in the world
 </figcaption>
 </figure>
 
-And predictably,
+And, predictably:
 
 <figure>
 <img src="/uploads/2019/Jesus_Died_600.jpg" alt="Jesus died for our sins"/>
@@ -82,3 +82,6 @@ And predictably,
 </figure>
 
 To sum up, the Ark Park is not a museum; it is a religious institution designed to promulgate a certain version of evangelical Christianity. It is improper to take public school students there on field trips.
+
+ 
+<strong>Acknowledgement.</strong> Thanks to Dan Phelps for his photographs, and especially for his diligent reporting.
