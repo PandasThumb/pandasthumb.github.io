@@ -8,5 +8,5 @@ I think I have waited at least since I was 10 y old (never mind how long ago tha
 <img src="/uploads/2019/Lunar_Montage_600.jpg" alt="Lunar eclipse"/>
 <figcaption>Total eclipse of the moon, approximately 8:30-12:00 MST, January 20, 2019.
 </figcaption>
-</figure></br>
+</figure>
 <strong>Acknowledgement</strong>: Once again Fred Espenak's <a href="http://www.mreclipse.com/LEphoto/LEphoto.html">exposure guide</a> was invaluable and saved a lot of fiddling.
