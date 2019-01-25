@@ -1,5 +1,5 @@
 ---
-title: 'Total eclipse of the moom'
+title: 'Total eclipse of the moon'
 date: '2019-01-23 13:50:00 -07:00'
 author: Matt Young
 ---
