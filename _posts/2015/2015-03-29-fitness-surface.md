@@ -140,8 +140,6 @@ uniformly from the space hits the target.
 
 **Searches as distributions on the space of points**
 
-_posts/2015/2015-03-29-fitness-surface.md
-
 <p>DEM consider the probability distribution of all outcomes of a
 search. Different instances of the search can find different results,
 either because they choose different starting points, or because of
