@@ -130,9 +130,9 @@ with unusually low fitnesses, mediocre fitnesses, or any mixture of
 them. They do not have to be points that are "specified" by
 fitness or by any other criterion. DEM do not require that the
 "search" even consider the fitnesses. They calculate the
-fraction of all _M_ points that are in the target. If |_T_|
+  fraction of all <em>M</em> points that are in the target. If |<em>T</em>|
 is the size of the target, for this fraction If we divide that by the
-number of points in the space, _N_, we get _p_ = |_T_|/|_N_|.
+  number of points in the space, <em>N</em>, we get <em>p</em> = |<em>T</em>|/|<em>N</em>|.
 This of course is also the probability that a random point drawn
 uniformly from the space hits the target. 
 </p>
@@ -140,7 +140,7 @@ uniformly from the space hits the target.
 
 **Searches as distributions on the space of points**
 
-
+_posts/2015/2015-03-29-fitness-surface.md
 
 <p>DEM consider the probability distribution of all outcomes of a
 search. Different instances of the search can find different results,
@@ -149,8 +149,8 @@ random processes later during the search. They assume very little
 about the machinery of the search -- they simply identify the search
 with the distribution of results that it gets. Suppose that two
 searches lead to the same distribution of outcomes, say a probability
-0.6 of coming up with point _x<sub>1</sub>_, probability 0.4
-of being coming up with _x<sub>12</sub>_,
+0.6 of coming up with point </em>x<sub>1</sub></em>, probability 0.4
+of being coming up with <em>x<sub>12</sub></em>,
 and probability 0 of everything else. They consider these two
 processes to be the same identical search. They don't consider what
 intermediate steps the searches go through. Correspondingly, two
@@ -195,14 +195,14 @@ included in their space.
 <p>A probability distribution on a set of _N_
 points simply assigns probabilities to each of them. These
 probabilities can be positive or zero, but not negative, and they
-must add up to 1. So DEM consider the _N_ probabilities _a<sub>1</sub>_,
-_a<sub>2</sub>_,
-..., _a<sub>N</sub>_. The conditions that they be
+  must add up to 1. So DEM consider the <em>N</em> probabilities <em>a<sub>1</sub></em>,
+  <em>a<sub>2</sub></em>,
+  ..., <em>a<sub>N</sub></em>. The conditions that they be
 nonnegative and add up to 1 forces them to lie in a region of
-_N_-dimensional space called a simplex. For example, if _N_
+  <em>N</em>-dimensional space called a simplex. For example, if <em>N</em>
 is 3, the numbers must lie in an equilateral triangle in a
-3-dimensional space of points (_x_,_y_,_z_), where
-_x_+_y_+_z_ = 1, with its corners on the points
+  3-dimensional space of points <em>(x,y,z)</em>, where
+<em>x+y+z = 1</em>, with its corners on the points
 (1,0,0), (0,1,0), and (0,0,1). For that small case, each probability
 distribution would have three probabilities, and be a point in the
 triangle such as (0.2344, 0.6815, 0.0841). 
@@ -234,10 +234,10 @@ search.
 points in the simplex, one might get one that assigns a higher
 probability to the target, or one that assigns a lower probability of
 the target. On average, they argue, one gets one that has the
-probability _p_ of hitting the target. DEM show that, in the
-original uniform distribution of searches, at most a fraction _p/q_
+  probability <em>p</em> of hitting the target. DEM show that, in the
+  original uniform distribution of searches, at most a fraction <em>p/q</em>
 of them will have a probability of finding the target as large as, or
-larger than _q_. 
+  larger than <em>q</em>. 
 </p>
 
 
@@ -256,7 +256,7 @@ built that information in.
 
 <p>In Joe's earlier post, he argued that Dembski and Marks were
 examining the choice of a fitness surfaces from among all possible
-fitness surfaces. _He was wrong._ In fact, most of the
+  fitness surfaces. <em>He was wrong.</em> In fact, most of the
 searches in their distribution of searches cannot involve going
 uphill on any fitness surface. One is already in a very small portion
 of their distribution of searches as soon as the process is doing
@@ -287,8 +287,8 @@ there are 3 others possible at that site. Each DNA sequence has a
 fitness. Let's assume that the organism has just one DNA sequence, so
 it is located at one point in the genotype space. If the most fit of
 these 3000 neighbors has a higher fitness than the present DNA
-sequence, let's assume that the organism changes its DNA sequence to
-that DNA sequence. Otherwise it stays the same. It goes through _m-1_
+sequence, let's assume that the organism changes its DNA sequence to 
+that DNA sequence. Otherwise it stays the same. It goes through <em>m-1</em>
 generations of this. 
 </p>
 
@@ -311,7 +311,7 @@ see what it will do.
 <p>To make the case even simpler, let's assume that all the genotypes
 have different fitness values -- there are no ties. There is then
 only one genotype that has the highest fitness. For our test case,
-let's define that one as the target _T_. In DEM's argument, the
+  let's define that one as the target <em>T</em>. In DEM's argument, the
 target can be defined in any way you want. It could even be a set of
 genotypes of unusually low fitness. But as the issue for evolution is
 whether natural selection can find highly-fit adaptations, it does
@@ -321,7 +321,7 @@ especially since natural selection will actively move away from it.
 
 
 <p>Let's also simplify things by choosing the starting genotype at
-random from among all possibilities. Our GUC Bug then makes _m_
+  random from among all possibilities. Our GUC Bug then makes <em>m</em>
 steps, each time to the most fit of the 3001 sequences that consist
 of its own genotype, plus the genotypes of its 3000 current
 neighbors. 
@@ -334,7 +334,7 @@ neighbors.
 
 <p>Remember that if we drew at random from a distribution (a
 "search") which itself was randomly chosen from the simplex
-of all probability distributions, we would have only a probability _p_
+of all probability distributions, we would have only a probability <em>p</em>
 of hitting the target. That is the same as if we just drew the
 outcome randomly from the set of possible DNA sequences. In the case
 of our GUC Bug, we start out with a randomly sampled genotype, and if
@@ -343,14 +343,14 @@ the target.
 </p>
 
 
-<p>But if we let the bug do just one more step, so _m = 2_,
+<p>But if we let the bug do just one more step, so <em>m = 2</em>,
 it will move to the fittest of the 3001 immediate neighbors. This
 mimics the effect of natural selection, and that makes us much more
 likely to hit the target. The GUC Bug will find the target if it
 starts with the genotype which is the target, or if it starts with
 any genotype that is an immediate neighbor of the target. As there
 are 3000 neighbors of each of these DNA sequences, the probability of
-hitting the target will be about 3001 times greater than _p_.</p>
+hitting the target will be about 3001 times greater than <em>p</em>.</p>
 
 
 <p>If we take more steps, it is not clear how much larger is the set
@@ -358,12 +358,12 @@ of starting points that will allow us to arrive at the target. It
 depends on how smooth the fitness surface is. At its smoothest, the
 fitness surface has no local peaks. For each genotype outside the
 target, there is a best neighbor of higher fitness, so the GUC Bug
-will move to that neighbor. If _m = 50_,
+  will move to that neighbor. If <em>m = 50</em>,
 there will be a great many neighbor genotypes that are less than 50
-steps away from the target. In fact, there will be 1.211Ã10<sup>107</sup>
+steps away from the target. In fact, there will be 1.211x10<sup>107</sup>
 of those neighbors in all. That's a lot. All of those genotypes are
-starting points that will lead to _T_ in 49 steps or less. So
-the probability of a GUC Bug reaching the target is not just _p_, in the most favorable case it is vastly
+  starting points that will lead to <em>T</em> in 49 steps or less. So
+  the probability of a GUC Bug reaching the target is not just <em>p</em>, in the most favorable case it is vastly
 larger than that. 
 </p>
 
@@ -387,9 +387,9 @@ search bug?**
 
 
 <p>This immediately establishes that most of the searches in DEM's
-space of searches are much worse at finding the target _T_ than
+  space of searches are much worse at finding the target <em>T</em> than
 any search that has a GUC Bug and a fitness surface. In our case the
-average chance of success of one of their searches is only _p_,
+  average chance of success of one of their searches is only <em>p</em>,
 which is more than 3000 times lower than the average for a GUC Bug
 that looks at neighbors on a fitness surface once. So a GUC Bug
 moving on a fitness surface must be far more successful than a random
