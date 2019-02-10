@@ -190,7 +190,7 @@ included in their space.
 **DEM's "Search For a Search"**
 
 
-<p>A probability distribution on a set of _N_
+<p>A probability distribution on a set of <em>N</em>
 points simply assigns probabilities to each of them. These
 probabilities can be positive or zero, but not negative, and they
   must add up to 1. So DEM consider the <em>N</em> probabilities <em>a<sub>1</sub></em>,
