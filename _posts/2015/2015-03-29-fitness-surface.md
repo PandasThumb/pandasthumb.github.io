@@ -147,7 +147,7 @@ random processes later during the search. They assume very little
 about the machinery of the search -- they simply identify the search
 with the distribution of results that it gets. Suppose that two
 searches lead to the same distribution of outcomes, say a probability
-0.6 of coming up with point </em>x<sub>1</sub></em>, probability 0.4
+0.6 of coming up with point <em>x<sub>1</sub></em>, probability 0.4
 of being coming up with <em>x<sub>12</sub></em>,
 and probability 0 of everything else. They consider these two
 processes to be the same identical search. They don't consider what
