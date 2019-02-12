@@ -12,9 +12,9 @@
   <link rel="stylesheet" type='text/css' href="{{ site.baseurl }}/css/github.css" />
   <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/favicon.ico" />
   {% feed_meta %}
-  <script src="//code.jquery.com/jquery-{{ site.jquery }}.min.js"></script>
-  <script src="https://use.fontawesome.com/e6a24c6dde.js"></script>
-  <script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>  
+  <script type="text/javascript" src="//code.jquery.com/jquery-{{ site.jquery }}.min.js"></script>
+  <script type="text/javascript" src="https://use.fontawesome.com/e6a24c6dde.js"></script>
+  <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>  
   <script src="{{ site.baseurl }}/js/local.js"></script>
 {% if page.top_extra %}{{ page.top_extra | liquify }}{% endif %}
 </head>
