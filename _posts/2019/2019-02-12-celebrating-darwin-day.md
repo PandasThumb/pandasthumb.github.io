@@ -17,13 +17,13 @@ But first, a quick introduction to Behe for those who may not know who Behe is o
 
 Fast forward to 2019 and Behe is at it again. In <em>Darwin Devolves</em>, Behe makes the argument that natural selection, which he prefers to call "Darwinism," is driven largely, even exclusively, by mutations that degrade or destroy protein function. At the outset, it must be said that we have known for many decades that, occasionally, harming or even destroying a gene or protein can actually be <em>good</em> for the organism. What Behe is saying is that harming genes is the <em>only</em> way that unguided mutations can ever help an organism. That's just not the case, but I'll get to that later.
 
-<img class="aligncenter size-medium wp-image-5935" src="https://thehumanevolutionblog.files.wordpress.com/2019/02/screen-shot-2019-02-12-at-12.04.01-am.png?w=300" alt="Screen Shot 2019-02-12 at 12.04.01 AM" width="300" height="218" />
+<img style="display: block; margin: auto; width: auto;" src="https://thehumanevolutionblog.files.wordpress.com/2019/02/screen-shot-2019-02-12-at-12.04.01-am.png?w=300" alt="Screen Shot 2019-02-12 at 12.04.01 AM" width="300" height="218" />
 
 Back to the polar bears. Behe offers them as an example of how harming genes can help an organism and lead to adaptive evolution. Imagine an ancestor bear population that looked pretty much like brown bears. Then came some random mutations that reduced the production or deposition of pigment into the fur of the bears. This made the bears white and - <em>voilà!</em> - the bears acquired natural camouflage in snowy climates so as to better sneak up on their prey.
 
 This seems like a pretty straightforward example and most people will simply take it at face value. Behe jumps from this example to his claim that this is all that unguided mutations <em>can</em> do. However, even in this apparently "pro-Darwinism" example, Behe exaggerates his claims and misrepresents what science has actually revealed. The evolution of polar bears was <em>not</em> only a matter of harmful mutations.
 
-<img class="aligncenter size-medium wp-image-5936" src="https://thehumanevolutionblog.files.wordpress.com/2019/02/screen-shot-2019-02-12-at-12.08.40-am.png?w=300" alt="Screen Shot 2019-02-12 at 12.08.40 AM" width="300" height="190" />
+<img style="display: block; margin: auto; width: auto;" src="https://thehumanevolutionblog.files.wordpress.com/2019/02/screen-shot-2019-02-12-at-12.08.40-am.png?w=300" alt="Screen Shot 2019-02-12 at 12.08.40 AM" width="300" height="190" />
 
 The key reference here is a <a href="https://www.sciencedirect.com/science/article/pii/S0092867414004887" target="_blank" rel="noopener noreferrer">2014 paper</a> in <span style="text-decoration: underline;">Cell</span>. In this study, researchers did genome sequencing of 89 polar bears and brown bears and discovered the molecular changes that distinguish these very closely related species, using the giant panda as the reference sample. The results were fascinating. For example, the analysis revealed that polar bears and brown bears have been separate populations with limited gene flow for less than 500,000 years.
 
@@ -35,7 +35,7 @@ One of the genes that experienced the strongest selection is APOB, which encodes
 
 First of all, as shown in Table 1 of the paper, <em>APOB</em> harbors the <em>second</em> most strongly-selected set of variants, not the first, but we can let that one slide.
 
-<img class="aligncenter size-full wp-image-5937" src="https://thehumanevolutionblog.files.wordpress.com/2019/02/screen-shot-2019-02-12-at-12.23.38-am.png" alt="Screen Shot 2019-02-12 at 12.23.38 AM" width="744" height="432" />
+<img style="display: block; margin: auto; width: auto;" src="https://thehumanevolutionblog.files.wordpress.com/2019/02/screen-shot-2019-02-12-at-12.23.38-am.png" alt="Screen Shot 2019-02-12 at 12.23.38 AM" width="744" height="432" />
 
 Behe continues:
 
@@ -73,4 +73,4 @@ If you are wondering what the word "devolving" means, join the club. I'll leave 
 
 For more of the problems with <em>Darwin Devolves</em>, see <a href="http://science.sciencemag.org/content/363/6427/590" target="_blank" rel="noopener noreferrer">my review in <em>Science</em></a> (co-authored with Richard Lenski and Josh Swamidass, <a href="https://blogs.sciencemag.org/books/2019/02/07/darwin-devolves/?r3f_986=https://www.google.com/" target="_blank" rel="noopener noreferrer">open-access version</a>), my essay in Skeptic magazine (available in a couple weeks), and <a href="http://www.adventuresinpoortaste.com/2019/02/12/darwin-devolves-whos-the-one-really-going-backward-here/" target="_blank" rel="noopener noreferrer">my book review in AiPT!</a>
 
-<img class="alignleft size-medium wp-image-1275" src="https://thehumanevolutionblog.files.wordpress.com/2016/01/logo-humanevblog.png?w=177" alt="Logo-HumanEvBlog" width="177" height="300" />
+<img style="display: block; margin: auto; width: auto;" src="https://thehumanevolutionblog.files.wordpress.com/2016/01/logo-humanevblog.png?w=177" alt="Logo-HumanEvBlog" width="177" height="300" />
