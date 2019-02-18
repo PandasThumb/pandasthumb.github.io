@@ -4,7 +4,7 @@ date: '2019-02-18 12:00:00 -07:00'
 author: Matt Young
 --- 
 Photograph by <strong>Tom Gillespie</strong>.<br/>
-Photography Contest, <strong>Honorable Mention</stromg>.<br/>
+Photography Contest, <strong>Honorable Mention</strong>.<br/>
 <figure>
 <img src="/uploads/2019/Gillespie.Luna_Moth.jpg" alt="Luna moth"/>
 <figcaption>
