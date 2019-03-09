@@ -23,7 +23,7 @@ In recent months, Holloway has presented arguments that there is a mutual-inform
 Here are some links to places that he made arguments:
 <ul>
   <li> <a href="http://theskepticalzone.com/wp/evo-info-4-non-conservation-of-algorithmic-specified-complexity/comment-page-1/"> In comments on a post by Tom English at The Skeptical Zone</a></li>
-http://theskepticalzone.com/wp/evo-info-4-non-conservation-of-algorithmic-specified-complexity/comment-page-1/"> A set of dramatic assertions at the Discovery Institute's anti-artifical-intelligence blog Mind Matters</a>
+  <li> <a href="http://theskepticalzone.com/wp/evo-info-4-non-conservation-of-algorithmic-specified-complexity/comment-page-1/"> A set of dramatic assertions at the Discovery Institute's anti-artifical-intelligence blog Mind Matters</a>
 <li> <a href="https://pandasthumb.org/archives/2018/11/Eric-Holloway-needs-our-help.html"> In some comments after my post at Panda's Thumb</a> (ignore most of the trollery and troll-chasing and look for the comments by Holloway, posting as user "yters" and identifying himself).</li>
 <li> <a href="https://discourse.peacefulscience.org/t/eric-holloway-algorithmic-specified-complexity/1375/14"> At Joshua Swamidass's Peaceful Science blog</a></li>
   </ul>
