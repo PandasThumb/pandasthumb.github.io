@@ -22,11 +22,12 @@ What about Holloway's latest arguments?  Let me comment briefly below ...
 In recent months, Holloway has presented arguments that there is a mutual-information conservation law showing that a function applied to algorithmic complexity cannot increase the amount of Algorithmic Specified Complexity in a genome. 
 Here are some links to places that he made arguments:
 <ul>
-  <li> <a href="http://theskepticalzone.com/wp/evo-info-4-non-conservation-of-algorithmic-specified-complexity/comment-page-1/"> In comments on a post by Tom English at The Skeptical Zone</a></li>
+
   <li> <a href="http://theskepticalzone.com/wp/evo-info-4-non-conservation-of-algorithmic-specified-complexity/comment-page-1/"> A set of dramatic assertions at the Discovery Institute's anti-artifical-intelligence blog Mind Matters</a>
 <li> <a href="https://pandasthumb.org/archives/2018/11/Eric-Holloway-needs-our-help.html"> In some comments after my post at Panda's Thumb</a> (ignore most of the trollery and troll-chasing and look for the comments by Holloway, posting as user "yters" and identifying himself).</li>
 <li> <a href="https://discourse.peacefulscience.org/t/eric-holloway-algorithmic-specified-complexity/1375/14"> At Joshua Swamidass's Peaceful Science blog</a></li>
-  </ul>
+  <li> <a href="http://theskepticalzone.com/wp/evo-info-4-non-conservation-of-algorithmic-specified-complexity/comment-page-1/"> In comments on a post by Tom English at The Skeptical Zone</a></li>
+</ul>
 The strong implication was that all this somehow showed that natural selection could not put Specified Complxity into genomes. I and others have asked for clarification of this.  How does this work?  Why is Algorithmic Specified Information, a measure of the unusual simplicity of an algorithm, relevant to fitness or adaptation?  How does it refute simple population genetics calculations, that show that highly-fit genotypes can increase greatly in frequency in a population?  Before it can be taken to have any force, the argument needed careful explanation.  But alas, Holloway never engaged with these issues.
 
 Having gone off without explaining, now he is again making declarations that ID is winning, but the ID arguments he has in mind are about why consciousness cannot arise from evolutionary processes.  I am not going to argue with him here -- that would involve a careful consideration of consciousness in animals, for example.  But I do want to point out the likelihood that if people do engage with that topic, they may be disappointed after a while when they find that Holloway has absented himself, gone somewhere else, and, of course, declared that he has found no sensible arguments against his position.
