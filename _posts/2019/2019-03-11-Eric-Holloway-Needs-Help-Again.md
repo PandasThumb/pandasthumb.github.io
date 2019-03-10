@@ -1,6 +1,6 @@
 ---
 title: 'Eric Holloway Needs Help Again'
-date: '2019-03-12 12:00:00 -07:00'
+date: '2019-03-11 12:00:00 -07:00'
 author: Joe Felsenstein
 --- 
 
@@ -10,7 +10,7 @@ Eric Holloway just made a dramatic announcement on The Skeptical Zone, in Dieb's
 https://uncommondescent.com/evolution/eric-holloway-atheists-agnostics-more-skeptical-of-evolution-now/"
 
 The link is to a post by "News" (Denyse O'Leary) at Uncommon Descent which quotes from <a href="https://www.patheos.com/blogs/eidos/2019/01/a-new-journal-for-constantinean-techies/"><strong>a post at a blog called Eidos</strong></a>, where Holloway says that in his personal conversations with "atheists and agnostics" many of them agree with him that they evolution cannot explain consciousness.  Then he goes on to announce his own "journal" that will discuss that.  That's all.  No mention of the mathematical arguments that Holloway and his co-thinkers have been making that purport to show that evolutionary mechanisms cannot account for new information getting into the genome.
-
+https://pandasthumb.org/archives/2019/02/celebrating-darwin-day.html#disqus_thread
 Now, I have no problem with Holloway feeling that he has two arguments for ID, the second even more convincing than the first.  But does it mean that he has abandoned his previous argument, the technical argument using Algorithmic Specified Complexity?  Is he intending to the return to the discussion of how that argument works?  Or is he going off to declare success, leaving the rest of us puzzled as to what that argument was and how it actually worked.
 
 Now Holloway has done this at least twice before -- announced that there is no sensible counter-argument to his arguments.  In fact, I've commented on it here <a href="https://pandasthumb.org/archives/2018/11/Eric-Holloway-needs-our-help.html"><strong>in a post last November</strong></a>.  There I noted a 2018 statement he made <a href="https://mindmatters.ai/2018/10/does-information-theory-support-design-in-nature/"><strong>at the Discovery Institute's "Mind Matters" site</strong></a> about there being no counterarguments to information-theory based arguments for ID.  In my PT post in November I gave extensive links to the detailed refutations that have appeared here and at TSZ for those arguments.  I also pointed out that he did this once before, in 2011, about William Dembski's No Free Lunch argument.  As I noted, also with links, it had been knocked down very thoroughly by seven people soon after it appeared.  But somehow all seven counterarguments were invisible to Holloway!
