@@ -9,7 +9,7 @@ Eric Holloway just made a dramatic announcement on The Skeptical Zone, in Dieb's
 
 https://uncommondescent.com/evolution/eric-holloway-atheists-agnostics-more-skeptical-of-evolution-now/"
 
-The link is to a post by "News" (Denyse O'Leary) at Uncommon Descent which quotes from <a href="https://www.patheos.com/blogs/eidos/2019/01/a-new-journal-for-constantinean-techies/"><strong>a post at a blog called Eidos</strong></a>, where Holloway says that in his personal conversations with "atheists and agnostics" many of them agree with him that they evolution cannot explain consciousness.  Then he goes on to announce his own "journal" that will discuss that.  That's all.  No mention of the mathematical arguments that Holloway and his co-thinkers have been making that purport to show that evolutionary mechanisms cannot account for new information getting into the genome.
+The link is to a post by "News" (Denyse O'Leary) at Uncommon Descent which quotes from <a href="https://www.patheos.com/blogs/eidos/2019/01/a-new-journal-for-constantinean-techies/"><strong>a post at a blog called Eidos</strong></a>, where Holloway says that in his personal conversations with "atheists and agnostics" many of them agree with him that evolution cannot explain consciousness.  Then he goes on to announce his own "journal" that will discuss that.  That's all.  No mention of the mathematical arguments that Holloway and his co-thinkers have been making that purport to show that evolutionary mechanisms cannot account for new information getting into the genome.
 
 Now, I have no problem with Holloway feeling that he has two arguments for ID, the second even more convincing than the first.  But does it mean that he has abandoned his previous argument, the technical argument using Algorithmic Specified Complexity?  Is he intending to the return to the discussion of how that argument works?  Or is he going off to declare success, leaving the rest of us puzzled as to what that argument was and how it actually worked.
 
@@ -23,10 +23,11 @@ In recent months, Holloway has presented arguments that there is a mutual-inform
 Here are some links to places that he made arguments:
 <ul>
 <li> <a href="https://discourse.peacefulscience.org/t/eric-holloway-algorithmic-specified-complexity/1375/14"> At Joshua Swamidass's Peaceful Science blog</a></li>
-  <li> <a href="https://mindmatters.ai/2018/10/does-information-theory-support-design-in-nature/"> A set of dramatic assertions at the Discovery Institute's anti-artifical-intelligence blog Mind Matters</a>
+  <li> <a href="https://mindmatters.ai/2018/10/does-information-theory-support-design-in-nature/"> A set of dramatic assertions at the Discovery Institute's anti-artifical-intelligence blog Mind Matters</a></li>
 <li> <a href="https://pandasthumb.org/archives/2018/11/Eric-Holloway-needs-our-help.html"> In some comments after my post at Panda's Thumb</a> (ignore most of the trollery and troll-chasing and look for the comments by Holloway, posting as user "yters" and identifying himself).</li>
   <li> <a href="http://theskepticalzone.com/wp/evo-info-4-non-conservation-of-algorithmic-specified-complexity/comment-page-1/"> In comments on a post by Tom English at The Skeptical Zone</a></li>
 </ul>
+
 Holloway also says that he has a paper in press at the ID journal BIO-Complexity, one that has not appeared yet.
 
 The strong implication was that all this somehow showed that natural selection could not put Specified Complxity into genomes. I and others have asked for clarification of this.  How does this work?  Why is Algorithmic Specified Information, a measure of the unusual simplicity of an algorithm, relevant to fitness or adaptation?  How does it refute simple population genetics calculations, that show that highly-fit genotypes can increase greatly in frequency in a population?  Before it can be taken to have any force, the argument needed careful explanation.  But alas, Holloway never engaged with these issues.
