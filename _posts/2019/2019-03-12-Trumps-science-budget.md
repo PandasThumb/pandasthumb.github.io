@@ -17,7 +17,7 @@ What Mr. Trump's record-setting $5 trillion budget also includes, <a href="https
 
 > a cut of $5 billion, or 13&nbsp; %, in the NIH budget
 
-> an 8&nbsp;% cut in NASA's science portfolio
+> a cut of 8&nbsp;% in NASA's science portfolio
 
 > a cut of $1 billion, or 12&nbsp;%, in the NSF budget; a cut of $5.5 billion, or 17&nbsp;% in DOE's Office of Science, and virtual elimination of the Office of Energy Efficiency and Renewable Energy
 
