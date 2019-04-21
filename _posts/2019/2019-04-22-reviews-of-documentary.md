@@ -33,3 +33,6 @@ Reviews of "We Believe in Dinosaurs." Links courtesy of Dan Phelps. Excerpts by 
 
 
 "Ultimately, the film struggles with its ambition. Brown and Ross attempt to tell the entire story of the Ark Encounter, down to every nail used to build the boat and every legal battle fought to ensure specific tax incentives. When the credits finally roll, and there is even more information being fed into your eyeballs—it’s just too much." &ndash; <a href="https://theplaylist.net/we-believe-dinosaurs-review-20190419/">Charles Barfield, The Playlist</a>.
+
+
+You may also see a clip from the film and a short background article in The Playlist <a href="https://theplaylist.net/we-believe-in-dinosaurs-exclusive-20190411/">here</a>.
