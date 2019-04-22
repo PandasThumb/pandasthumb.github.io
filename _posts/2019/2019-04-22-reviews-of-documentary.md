@@ -35,4 +35,13 @@ Reviews of "We Believe in Dinosaurs." Links courtesy of Dan Phelps. Excerpts by 
 "Ultimately, the film struggles with its ambition. Brown and Ross attempt to tell the entire story of the Ark Encounter, down to every nail used to build the boat and every legal battle fought to ensure specific tax incentives. When the credits finally roll, and there is even more information being fed into your eyeballs—it’s just too much." &ndash; <a href="https://theplaylist.net/we-believe-dinosaurs-review-20190419/">Charles Barfield, The Playlist</a>.
 
 
+"The multi-year journey features a number of fascinating and complex personalities, including Dan Phelps, a geologist and head of the Kentucky Paleontology Society who serves as a frequent and vocal critic of the museum’s faulty science; David MacMillan, a former creationist who could no longer reconcile his beliefs with the facts of the real world; and the Tri-State Free Thinkers, an atheist group who show up on opening day to protest the museum’s message of “incest and genocide,” for which a conservative radio host condemns their leader to an eternity of damnation.
+
+
+"Notably absent are any direct interviews with Ken Ham, founder of Answers in Genesis, ....
+
+
+"We Believe in Dinosaurs illustrates the ever-growing divide between religion and science, and manages a fairly even-handed portrayal of both sides of the debate, despite the clear skepticism of the filmmakers toward the Creationist belief system. Some stones are left unturned, and it would have made for a compelling addition to explore the conflict between the teachings of Answers in Genesis and their actions, such as Ham’s decidedly non-Christian scheme to escape tax liability by selling the Ark Encounter land to his own non-profit organization for $10. But the existing material is certainly captivating and disquieting enough to engage with." &ndash; <a href="https://www.lamplightreview.com/we-believe-in-dinosaurs-review/">Brent Hankins, The Lamplight Review</a>. 
+
+
 You may also see a clip from the film and a short background article in The Playlist <a href="https://theplaylist.net/we-believe-in-dinosaurs-exclusive-20190411/">here</a>.
