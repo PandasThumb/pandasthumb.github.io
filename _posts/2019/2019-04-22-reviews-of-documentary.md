@@ -22,6 +22,7 @@ Reviews of "We Believe in Dinosaurs." Links courtesy of Dan Phelps. Excerpts by 
 
 "<strong>Monica Long Ross</strong> and <strong>Clayton Brown</strong>'s look at the Ark Encounter, Kentucky’s monument to young-earth creationism, highlights the false legitimacy afforded by competent design. Most responsible for that is <strong>Patrick Marsh</strong>, who created the Jaws ride and whose enthusiastic participation almost feels like a betrayal. Opposite him is beleaguered paleontologist and audience proxy <strong>Dan Phelps</strong>, whose role in the drama can sometimes feel a little Quixotic, with the Ark standing in for windmills. ... I could have done with a a smidgen of humor in a film about people who believe dinosaurs lived a few thousand years ago." &ndash; <a href="https://www.filminquiry.com/san-francisco-international-film-fest-week-1-round-up/">Arlin Goldin, Film Inquiry</a>.
 
+<!--more-->
 
 "And while the film checks all the boxes you expect from a documentary about this issue, with interviews with believers and non-believers alike, by trying to cover such a massive story (both figuratively and literally) ‘Dinosaurs’ spreads itself so thin and loses its grip on the basics of storytelling.
 
@@ -45,3 +46,9 @@ Reviews of "We Believe in Dinosaurs." Links courtesy of Dan Phelps. Excerpts by 
 
 
 You may also see a clip from the film and a short background article in The Playlist <a href="https://theplaylist.net/we-believe-in-dinosaurs-exclusive-20190411/">here</a>.
+
+
+<strong>Review added</strong> 4/23/19, 4:25 p.m.:  "The bigger story here, though, is the massive investment in anti-science propaganda.  To justify their literal acceptance of Biblical content that is inconsistent with scientific fact, these folks behind the Ark Encounter believe that they need to discredit science itself.  And they’re not just defending the literal occurrence of every Bible story, but also the chronology of Bishop Ussher who, in the mid 1600s, calculated that the earth was created in 4004 B.C.  That means that the Ark Encounter aggressively explains that the Earth and the human race, despite fossil evidence, are each 6,000 years old – and that dinosaurs lived alongside humans (and voyaged on the Ark). It also means that they seek to discredit the Theory of Evolution and the scientific method itself (while enjoying its byproducts – vaccines, for example).
+  
+
+"When you distill their beliefs, these neo-creationists are essentially turbanless Taliban. ...  &ndash; <a href="https://www.themoviegourmet.com/?p=28310">The Movie Gourmet</a>.
