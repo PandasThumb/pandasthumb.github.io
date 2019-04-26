@@ -52,3 +52,9 @@ You may also see a clip from the film and a short background article in The Play
   
 
 "When you distill their beliefs, these neo-creationists are essentially turbanless Taliban. ...  &ndash; <a href="https://www.themoviegourmet.com/?p=28310">The Movie Gourmet</a>.
+
+
+<strong>Review added</strong> 4/26/19, 9:20 a.m.: "[T]he film never comes across as mocking, letting all its participants speak for themselves and leaving the viewer to make sense of it all. It is in large part an ethnography, providing a glimpse inside a culture that gets relatively little exposure in media. Some will find it disturbing, especially with regard to the propaganda on display, but it deserves credit for making room for everyone involved to be seen as a human being, and the story of what actually happens once the Ark is opened is an interesting one, raising questions about the real motives behind its creation.
+
+
+"What really matters about this film, however, is the way it fits into the bigger societal conversation about truth, opinion and fact and how we manage these things in a democracy. Through the microcosm of the Ark story, Brown and Ross touch on much bigger things, bringing them down to a scale that's easier to grasp. in a key scene, Young Earth Creatonists tell one another that they shouldn't be talking about Bible stories because that makes them sound like fiction - instead thy should talk about Bible accounts or similar. This is a film about the value of stories and the way that, whether we believe them to be fact or fiction, they shape the way we understand the world." &ndash; <a href="https://www.eyeforfilm.co.uk/review/we-believe-in-dinosaurs-2018-film-review-by-jennie-kermode">Jennie Kermode, Eye for Film (U.K.)</a>.
