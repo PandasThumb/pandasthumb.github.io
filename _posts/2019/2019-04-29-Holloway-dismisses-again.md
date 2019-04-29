@@ -48,3 +48,5 @@ reading the rebuttals first. Most of them are quite confusingly worded and they�
 The only somewhat decent “rebuttals” are by Devine, and they are not so much rebuttals as they are identifying what I mentioned above, 
 that Dembski’s mathematical work is already preempted in much of standard information theory and statistical literature.
 </blockquote>
+
+<em>(I will try to pa-troll this thread and delete any off-topic arguments, both the comments by off-topic trolls and by troll-chasers)</em>
