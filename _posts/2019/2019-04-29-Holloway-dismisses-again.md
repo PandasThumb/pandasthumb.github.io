@@ -25,6 +25,8 @@ and
 This way we can infer design by just looking at an artifact without any knowledge of the artifact’s history.
 </blockquote>
 
+<!--more-->
+
 Now that is surprising, because Dembski very specifically cited Fisher's approach to statistical testing as the justification
 for his Design Inference.  Far from replacing Fisher's method, <em>he was using it</em>.  His use of CSI required us to make a specification
 of a target set <strong>T</strong> and then compute the probability of getting a genome that was in that target set under "chance and 
