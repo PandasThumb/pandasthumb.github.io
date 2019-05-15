@@ -30,6 +30,7 @@ extant forms descended from that Explosion show up related to Cnidarians and Cte
 short, nothing much new. We've discussed these arguments before. CRB is a conservative publication. Although it has the 
 name "Claremont Review of Books" it seems not to be affiliated with the Claremont Colleges.
 </blockquote>
+<P>
 I need to correct one statement there -- Gelernter's article refers to one of those books by Meyer, <em>Darwin's Doubt</em>, and does not mention
 the other, <em>Signature in the Cell</em>.
 <P>
