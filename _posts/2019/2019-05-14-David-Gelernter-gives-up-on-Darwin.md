@@ -8,7 +8,7 @@ On the thread about Eric Holloway's dismissal of criticisms of ID, a commenter, 
 an article in the conservative online magazine <em>Claremont Review of Books</em> by Yale University computer scientist 
 and contrarian David Gelernter.  This thread is intended to allow discussion of that article without disrupting the Eric Holloway
 thread.  Let's take a look ...
-<!--mode-->
+<!--more-->
 camsail writes:
 <blockquote>
 This supportive review of pro-ID books appears in CRB this month. Given the review author is well respected... I would 
