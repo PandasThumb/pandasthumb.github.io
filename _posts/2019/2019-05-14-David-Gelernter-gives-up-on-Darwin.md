@@ -21,6 +21,7 @@ communicate. Feel free to delete as off topic. Here's the link to the review:
 demand a subscription)</em>.
 <P>
 Here is my own reaction to the article:
+<P>
 <blockquote>
 I read Gelernter's article. Although he is a very competent computer scientist, he mostly just buys into the arguments 
 Stephen Meyer makes in <em>Signature In the Cell</em> and in <em>Darwin's Doubt</em>, plus adding in Doug Axe's recent arguments. He 
