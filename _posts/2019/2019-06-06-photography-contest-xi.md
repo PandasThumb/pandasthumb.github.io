@@ -3,6 +3,7 @@ title: 'Photography Contest XI'
 date: '2019-06-06 11:00:00 -06:00'
 author: Matt Young
 ---
+
 <figure>
 <img src="/uploads/2019/IMG_2385_Instamatic_600.jpg" alt="Kodak Instamatic"/>
 <figcaption>Kodak Instamatic 814, 1968-70.
