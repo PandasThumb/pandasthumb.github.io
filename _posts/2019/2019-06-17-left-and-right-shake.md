@@ -13,6 +13,8 @@ Heritability refers to the <i>variation</i> in a trait that is due to the geneti
 
 The purpose of this article is not to discuss whether intelligence is heritable, but rather what certain of my fellow leftists think about it. I raise the issue because of a recent &ndash; and courageous &ndash; <a href="https://www.theatlantic.com/ideas/archive/2019/05/self-censorship-campus-bad-science/589969/">article</a> by Luana Maroja, a professor of biology at Williams College, in <i>The Atlantic</i> magazine. Professor Maroja estimates that the heritability of intelligence among humans is perhaps 50&nbsp;%. She bemoans (and that is perhaps not too strong a word) that
 
+<!--more-->
+
 <blockquote>some students argued instead that it is impossible to measure IQ in the first place, that IQ tests were invented to ostracize minority groups, or that IQ is not heritable at all. None of these arguments is true. In fact, IQ can certainly be measured, and it has some predictive value. While the score may not reflect satisfaction in life, it does correlate with academic success. And while IQ is very highly influenced by environmental differences, it also has a substantial heritable component; about 50 percent of the variation in measured intelligence among individuals in a population is based on variation in their genes [here she cites Professor Plomin, above]. Even so, some students, without any evidence, started to deny the existence of heritability as a biological phenomenon[,]</blockquote>
 
 in part because of their "a priori moral commitment to equality, anti-racism, and anti-sexism."
