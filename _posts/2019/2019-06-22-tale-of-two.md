@@ -4,7 +4,7 @@ date: '2019-06-22 12:00:00 -06:00'
 author: David MacMillan
 ---
 <figure>
-<img src="/uploads/2019/Chandra_Image_600.jpg" alt="Chandra image/>
+<img src="/uploads/2019/Chandra_Image_600.jpg" alt="Chandra image"/>
 <figcaption>Distant barred spiral galaxy plowing deep into the heart of a galaxy cluster.  <small>http://chandra.harvard.edu/photo/2014/eso137/. Photo credits (it is a composite): X-ray: NASA/CXC/UAH/M.Sun et al; Optical: NASA, ESA, & the Hubble Heritage Team (STScI/AURA).</small>
 </figcaption>
 </figure>
