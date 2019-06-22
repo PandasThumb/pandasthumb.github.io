@@ -57,6 +57,12 @@ How many giraffes blew their brains to pieces when bending down—how many passe
 
 Yet when the Ark Encounter opened in 2016, they displayed a hypothesized giraffe-okapi hybrid, admitting that the two species shared a common ancestor.
 
+<figure>
+<img src="/uploads/2019/MacMillan_Giraffe-Okapi-Hybrid_600.jpg" alt="Giraffe-okapi hybrid"/>
+<figcaption>Giraffe-okapi hybrid. <small>Courtesy of Daniel Phelps.</small>
+</figcaption>
+</figure>
+
 I maxed out my university's inter-library loan allowance to download as many biology papers as I could. If giraffes and okapis, giant pandas and black bears, saber-toothed cats and cheetahs could each share common ancestors, what would stop all carnivorans from sharing a common ancestor? What would stop carnivorans from sharing a common ancestor with ruminants? Why not go all the way back?
 
 In time, I realized that evolutionary biology just...worked. I was still a creationist, believing that the universe was young and that the Flood myth was true, but I accepted that evolution was a valid paradigm. In 2011, I read <a href="http://toddcwood.blogspot.com/2009/09/truth-about-evolution.html"> an article by fellow creationist Todd Wood</a> that resonated deeply with me:
