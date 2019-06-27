@@ -27,7 +27,7 @@ Hughes Mountain columns, by **James Kocher**.
 <figcaption>
 <a href="https://en.wikipedia.org/wiki/Hughes_Mountain">Hughes Mountain Natural Area, Irondale, Missouri</a>. </figcaption>
 </figure>
-Mr. Kocher writes: "This mountain is composed of <a href="https://en.wikipedia.org/wiki/Columnar_jointing">columnar-jointed rhyolitic ash-flow tuff-ignimbrite</a>.  This mountain is composed of columnar-jointed rhyolitic ash-flow tuff-ignimbrite. The single column in the foreground is broken, and shows a plane of deposition with several crushed/flattened pumice fragments. These fragments are the lighter-colored blotches in the darker ash matrix. Age = ~1.4 Ga; Neoproterozoic. U.S. quarter for scale."
+Mr. Kocher writes: "This mountain is composed of <a href="https://en.wikipedia.org/wiki/Columnar_jointing">columnar-jointed rhyolitic ash-flow tuff-ignimbrite</a>. The single column in the foreground is broken, and shows a plane of deposition with several crushed/flattened pumice fragments. These fragments are the lighter-colored blotches in the darker ash matrix. Age = ~1.4 Ga; Neoproterozoic. U.S. quarter for scale."
 
 -----
 
