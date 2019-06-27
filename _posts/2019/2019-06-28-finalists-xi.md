@@ -16,7 +16,7 @@ Unidentified dragonfly molting, by **Al Denelsbeck**.
 <figure>
 <img src="/uploads/2019/Denelsbeck.Unidentified_dragonfly_molting.JPG" alt="Dragonfly molting"/>
 <figcaption>
-<a href="https://en.wikipedia.org/wiki/Dragonfly">Dragonfly</a> molting. The photographer writes, "Caught a dragonfly immediately after molting into final instar, still perched on its recently-vacated exoskeleton - there's something disconcerting with seeing how much an arthropod enlarges beyond its former body. I'm leaning towards this being a blue dasher, <i>Pachydiplax longipennis</i>, because that's the most common around here, but without coloration I couldn't confirm. The lack of coloration - in fact the near-total lack of pigmentation to the new exoskeleton - was the bit that drew my attention the most, because the wing muscles are plainly visible within."</figcaption>
+<a href="https://en.wikipedia.org/wiki/Dragonfly">Dragonfly</a> molting. The photographer writes, "Caught a dragonfly immediately after molting into final instar, still perched on its recently-vacated exoskeleton &ndash; there's something disconcerting with seeing how much an arthropod enlarges beyond its former body. I'm leaning towards this being a blue dasher, <i>Pachydiplax longipennis</i>, because that's the most common around here, but without coloration I couldn't confirm. The lack of coloration &ndash; in fact the near-total lack of pigmentation to the new exoskeleton &ndash; was the bit that drew my attention the most, because the wing muscles are plainly visible within."</figcaption>
 </figure>
 
 -----
@@ -27,7 +27,7 @@ Hughes Mountain Columns, by **James Kocher**.
 <figcaption>
 <a href="https://en.wikipedia.org/wiki/Hughes_Mountain">Hughes Mountain Natural Area, Irondale, Missouri</a>. </figcaption>
 </figure>
-Mr. Kocher writes: "This mountain is composed of <a href="https://en.wikipedia.org/wiki/Columnar_jointing">columnar-jointed rhyolitic ash-flow tuff-ignimbrite</a>.  Column in foreground show broken plane of deposition with numerous crushed pumice fragments. Age = ~1.4 Ga; Neoproterozoic.  U.S. quarter for scale."
+Mr. Kocher writes: "This mountain is composed of <a href="https://en.wikipedia.org/wiki/Columnar_jointing">columnar-jointed rhyolitic ash-flow tuff-ignimbrite</a>.  Columns in the foreground show broken planes of deposition with numerous crushed pumice fragments. Age = ~1.4 Ga; Neoproterozoic.  U.S. quarter for scale."
 
 -----
 
@@ -35,7 +35,7 @@ Mantid fly, by **Mark Sturtevant**.
 <figure>
 <img src="/uploads/2019/Sturtevant.MantidFly.jpg" alt="Mantid fly"/>
 <figcaption>
-<a href="https://bugguide.net/node/view/71736"><i>Dicromantispa sayi</i></a> &ndash; mantidfly. The photographer writes, "Mantidflies belong to the insect order Neuroptera and are related to more familiar insects like lacewings and antlions. Adult mantidlfies clearly show convergent evolution with praying mantids, which are members of a completely different insect order. Both kinds of insects are visual predators that use their raptorial forelimbs to grab up insect prey. Mantidly biology is otherwise very different from praying mantids. These insects have a larval stage, and during this stage they are parasitoids on other insects or spiders. ‘Parasitoid’ is the technically accurate term since they kill their hosts rather than merely encumber them. The larva of this species of mantidfly enters the egg sac of a spider (usually one belonging to a jumping spider) and eats the eggs, all while the female spider is guarding them!"</figcaption> 
+<a href="https://bugguide.net/node/view/71736"><i>Dicromantispa sayi</i></a> &ndash; mantidfly. The photographer writes, "Mantidflies belong to the insect order Neuroptera and are related to more familiar insects like lacewings and antlions. Adult mantidlfies clearly show convergent evolution with praying mantids, which are members of a completely different insect order. Both kinds of insects are visual predators that use their raptorial forelimbs to grab up insect prey. Mantid fly biology is otherwise very different from praying mantids. These insects have a larval stage, and during this stage they are parasitoids on other insects or spiders. ‘Parasitoid’ is the technically accurate term since they kill their hosts rather than merely encumber them. The larva of this species of mantidfly enters the egg sac of a spider (usually one belonging to a jumping spider) and eats the eggs, all while the female spider is guarding them!"</figcaption> 
 </figure>
 
 -----
@@ -52,9 +52,9 @@ on the River Derwent, which runs through Chatsworth House Park. It's the first t
 
 Great egret, by **John Trawick**.
 <figure>
-<img src="/uploads/2018/Sturtevant.3.American_Rubyspots.jpg" alt="Damselflies"/>
+<img src="/uploads/2019/Trawick.Ardea_alba.jpg" alt="Damselflies"/>
 <figcaption>
-<a href="https://www.audubon.org/field-guide/bird/great-egret"><i>Ardea alba</i></a> &ndash; great egret. The photographer writes, "A common and beautiful wading bird. This photograph was taken with a Nikon D7100 at Lake Murray Reservoir in San Diego, California. The reservoir is also part of Mission Trails Regional Park. In the winter, these are common and I happened on this one on a weekend morning when I often walk around the lake. Egrets are predators and hunt in shallow water."</figcaption>
+<a href="https://www.audubon.org/field-guide/bird/great-egret"><i>Ardea alba</i></a> &ndash; great egret. The photographer writes, "A common and beautiful wading bird. This photograph was taken with a Nikon D7100 at Lake Murray Reservoir in San Diego, California. The reservoir is also part of Mission Trails Regional Park. In the winter, these are common, and I happened on this one on a weekend morning when I often walk around the lake. Egrets are predators and hunt in shallow water."</figcaption>
 </figure>
 <br/><br/>
 
