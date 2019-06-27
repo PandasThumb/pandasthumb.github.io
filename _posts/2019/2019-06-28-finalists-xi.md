@@ -40,12 +40,12 @@ Mantid fly, by **Mark Sturtevant**.
 
 -----
 
-Eurasian oystercatcher, by **Marilyn Susek**.
+Unknown food spoilage mold, by **Marilyn Susek**.
 <figure>
-<img src="/uploads/2019/Susek.Eurasian_Oystercatcher.jpg" alt="Oystercatcher"/>
+<img src="/uploads/2019/Susek.Unidentified_Mold.jpg" alt="Mold"/>
 <figcaption>
-<a href="https://en.wikipedia.org/wiki/Eurasian_oystercatcher"><i>Haematopus ostralegus</i></a> &ndash; Eurasian oystercatcher. The photographer writes, "The photo was taken on the 7th June 2019 in the grounds of Chatsworth Stately House, Derbyshire, UK
-on the River Derwent, which runs through Chatsworth House Park. It's the first time I have ever seen one, and it was the only one there on that day."</figcaption>
+<a href="https://en.wikipedia.org/wiki/Mold">Unknown food spoilage mold</a>. The photographer notes that "it has found a home on some forgotten leftover elderberry syrup of mine." We (PT, that is) managed on short notice to find an expert, who writes, "Molds are notoriously difficult genus to identify on natural substrates" and adds that it is "possibly <i>Aspergillus</i> or <i>Penicillium</i> sp.," but there is no way to be sure without microscopy or DNA.
+</figcaption>
 </figure>
 
 -----
