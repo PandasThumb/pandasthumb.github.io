@@ -21,7 +21,7 @@ Unidentified dragonfly molting, by **Al Denelsbeck**.
 
 -----
 
-Hughes Mountain Columns, by **James Kocher**.
+Hughes Mountain columns, by **James Kocher**.
 <figure>
 <img src="/uploads/2019/Kocher_HughesMtnColumns.jpg" alt="Hughes Mountain columns"/>
 <figcaption>
