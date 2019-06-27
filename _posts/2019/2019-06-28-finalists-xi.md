@@ -14,7 +14,7 @@ The finalists are presented in alphabetical order of last name. Please look thro
 
 Cactus Island, by **Al Denelsbeck**.
 <figure>
-<img src="2019/Denelsbeck.Unidentified_dragonfly_molting.JPG" alt="Dragonfly molting"/>
+<img src="/uploads/2019/Denelsbeck.Unidentified_dragonfly_molting.JPG" alt="Dragonfly molting"/>
 <figcaption>
 <a href="https://en.wikipedia.org/wiki/Dragonfly">Dragonfly</a> molting." The photographer writes, "Caught a dragonfly immediately after molting into final instar, still perched on its recently-vacated exoskeleton - there's something disconcerting with seeing how much an arthropod enlarges beyond its former body. I'm leaning towards this being a blue dasher, <i>Pachydiplax longipennis</i>, because that's the most common around here, but without coloration I couldn't confirm. The lack of coloration - in fact the near-total lack of pigmentation to the new exoskeleton - was the bit that drew my attention the most, because the wing muscles are plainly visible within."</figcaption>
 </figure>
