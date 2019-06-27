@@ -12,11 +12,11 @@ The finalists are presented in alphabetical order of last name. Please look thro
 
 -----
 
-Cactus Island, by **Al Denelsbeck**.
+Unidentified dragonfly molting, by **Al Denelsbeck**.
 <figure>
 <img src="/uploads/2019/Denelsbeck.Unidentified_dragonfly_molting.JPG" alt="Dragonfly molting"/>
 <figcaption>
-<a href="https://en.wikipedia.org/wiki/Dragonfly">Dragonfly</a> molting." The photographer writes, "Caught a dragonfly immediately after molting into final instar, still perched on its recently-vacated exoskeleton - there's something disconcerting with seeing how much an arthropod enlarges beyond its former body. I'm leaning towards this being a blue dasher, <i>Pachydiplax longipennis</i>, because that's the most common around here, but without coloration I couldn't confirm. The lack of coloration - in fact the near-total lack of pigmentation to the new exoskeleton - was the bit that drew my attention the most, because the wing muscles are plainly visible within."</figcaption>
+<a href="https://en.wikipedia.org/wiki/Dragonfly">Dragonfly</a> molting. The photographer writes, "Caught a dragonfly immediately after molting into final instar, still perched on its recently-vacated exoskeleton - there's something disconcerting with seeing how much an arthropod enlarges beyond its former body. I'm leaning towards this being a blue dasher, <i>Pachydiplax longipennis</i>, because that's the most common around here, but without coloration I couldn't confirm. The lack of coloration - in fact the near-total lack of pigmentation to the new exoskeleton - was the bit that drew my attention the most, because the wing muscles are plainly visible within."</figcaption>
 </figure>
 
 -----
@@ -31,29 +31,30 @@ Mr. Kocher writes: "This mountain is composed of <a href="https://en.wikipedia.o
 
 -----
 
-Sinai fan-fingered gecko, by **Michael Siccha**.
+Mantid fly, by **Mark Sturtevant**.
 <figure>
-<img src="/uploads/2018/Siccha.Ptyodactylus_guttasus_on_Chapel_of_Ascension.jpg" alt="Gecko"/>
+<img src="/uploads/2019/Sturtevant.MantidFly.jpg" alt="Mantid fly"/>
 <figcaption>
-<a href="http://reptile-database.reptarium.cz/species?genus=Ptyodactylus&species=guttatus"><i>Ptyodactylus guttatus HEYDEN, 1827</i></a> &ndash; Sinai fan-fingered gecko, probably a female. The photographer writes, "What I personally like most about the picture (and what you cannot really see on the image) is the location where I took it. The gecko sits on some of the stone tracery on the outside of the Chapel of Ascension on the Mount of Olives in Jerusalem. The red dots at the hip of the individual are parasitic mites, full of gecko blood."</figcaption> 
+<a href="https://bugguide.net/node/view/71736"><i>Dicromantispa sayi</i></a> &ndash; mantidfly. The photographer writes, "Mantidflies belong to the insect order Neuroptera and are related to more familiar insects like lacewings and antlions. Adult mantidlfies clearly show convergent evolution with praying mantids, which are members of a completely different insect order. Both kinds of insects are visual predators that use their raptorial forelimbs to grab up insect prey. Mantidly biology is otherwise very different from praying mantids. These insects have a larval stage, and during this stage they are parasitoids on other insects or spiders. ‘Parasitoid’ is the technically accurate term since they kill their hosts rather than merely encumber them. The larva of this species of mantidfly enters the egg sac of a spider (usually one belonging to a jumping spider) and eats the eggs, all while the female spider is guarding them!"</figcaption> 
 </figure>
 
 -----
 
-American rubyspot damselflies, by **Mark Sturtevant**.
+Eurasian oystercatcher, by **Marilyn Susek**.
+<figure>
+<img src="/uploads/2019/Susek.Eurasian_Oystercatcher.jpg" alt="Oystercatcher"/>
+<figcaption>
+<a href="https://en.wikipedia.org/wiki/Eurasian_oystercatcher"><i>Haematopus ostralegus</i></a> &ndash; Eurasian oystercatcher. The photographer writes, "The photo was taken on the 7th June 2019 in the grounds of Chatsworth Stately House, Derbyshire, UK
+on the River Derwent, which runs through Chatsworth House Park. It's the first time I have ever seen one, and it was the only one there on that day."</figcaption>
+</figure>
+
+-----
+
+Great egret, by **John Trawick**.
 <figure>
 <img src="/uploads/2018/Sturtevant.3.American_Rubyspots.jpg" alt="Damselflies"/>
 <figcaption>
-<a href="https://www.odonatacentral.org/index.php/FieldGuideAction.get/id/42272"><i>Hetaerina americana</i></a> &ndash; American rubyspot damselflies. The photographer writes, "These lay their eggs in rivers and streams, and like other damselflies and the related dragonflies, their immature stage is spent in water. Here, a female is eating another damselfly that had just emerged from the water as an adult. It is easy to forget that these delicate and beautiful insects are dedicated predators. A male rubyspot stands guard in the background in this scene. Males defend these sorts of territories against rival males by using their bright red colors as an aggressive display. Females generally mate with males that ‘own’ a desirable territory. The river in the background is the Flint river, and this picture was taken near Flint Michigan. Although the situation with Flint and its river has considerable notoriety these days, it should be said that the river itself is teeming with life."</figcaption>
-</figure>
-
------
-
-Ladybird beetle, by **Marilyn Susek**.
-<figure>
-<img src="/uploads/2018/Susek.Adalia_bipunctata.jpg" alt="Ladybird beetle"/>
-<figcaption>
-<a href="https://en.wikipedia.org/wiki/Adalia_bipunctata"><i>Adalia bipunctata</i></a> &ndash; two-spotted ladybird. The photographer writes, "This photograph could be titled 'proof of the pudding, down the hatch.' It is proof that the ladybird beetle eats aphids. It was taken way back in 2010 in the shops car park, Rotherham, S. Yorkshire." She adds, "I would like to say the aphid is a rose aphid but I'm not sure; there are a lot of types of <a href="http://influentialpoints.com/Gallery/Aphid_genera.htm">aphid</a>."</figcaption>
+<a href="https://www.audubon.org/field-guide/bird/great-egret"><i>Ardea alba</i></a> &ndash; great egret. The photographer writes, "A common and beautiful wading bird. This photograph was taken with a Nikon D7100 at Lake Murray Reservoir in San Diego, California. The reservoir is also part of Mission Trails Regional Park. In the winter, these are common and I happened on this one on a weekend morning when I often walk around the lake. Egrets are predators and hunt in shallow water."</figcaption>
 </figure>
 <br/><br/>
 
