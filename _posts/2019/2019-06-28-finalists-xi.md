@@ -4,32 +4,30 @@ date: '2019-06-28 12:00:00 -06:00'
 author: Matt Young
 ---
 
-Here are the finalists of the 2019 photography contest. We received 15 photographs from 5 photographers. All of the pictures were excellent, as you will no doubt see during the coming months. With assistance from our wife, we chose 1 photograph by each photographer and display them below the proverbial fold. The text, if any, was written by the photographers and lightly edited for consistency.
+Here are the finalists of the 2019 photography contest. We received 15 photographs from 5 photographers. All of the pictures were excellent, as you will no doubt see during the coming months. With assistance from our wife, we chose 1 photograph by each photographer and display them below the proverbial fold. We chose the photographs more on the basis of their pictorial quality than on their scientific interest. The text, if any, was written by the photographers and lightly edited for consistency.
 
 The finalists are presented in alphabetical order of last name. Please look through their photographs before voting for your favorite. Polling will close Friday, July 8, at approximately 9 a.m. MDT, and we will display the winner at noon that day.
-
-Reed Cartwright contributed to this post.
 
 <!--more-->
 
 -----
 
-Double Rainbow, by **Dan Moore**.
+Cactus Island, by **Al Denelsbeck**.
 <figure>
-<img src="/uploads/2018/Moore.Double_Rainbow.jpg" alt="Rainbow"/>
+<img src="2019/Denelsbeck.Unidentified_dragonfly_molting.JPG" alt="Dragonfly molting"/>
 <figcaption>
-<a href="https://en.wikipedia.org/wiki/Rainbow#Variations"><i>Double rainbow</i></a>. </figcaption>
+<a href="https://en.wikipedia.org/wiki/Dragonfly">Dragonfly</a> molting." The photographer writes, "Caught a dragonfly immediately after molting into final instar, still perched on its recently-vacated exoskeleton - there's something disconcerting with seeing how much an arthropod enlarges beyond its former body. I'm leaning towards this being a blue dasher, <i>Pachydiplax longipennis</i>, because that's the most common around here, but without coloration I couldn't confirm. The lack of coloration - in fact the near-total lack of pigmentation to the new exoskeleton - was the bit that drew my attention the most, because the wing muscles are plainly visible within."</figcaption>
 </figure>
 
 -----
 
-Cactus Island, by **Alan Rice**.
+Hughes Mountain Columns, by **James Kocher**.
 <figure>
-<img src="/uploads/2018/Rice_Alan.Isla Incahuasi.jpg" alt="Cactus Island"/>
+<img src="/uploads/2019/Kocher_HughesMtnColumns.jpg" alt="Hughes Mountain columns"/>
 <figcaption>
-<a href="https://en.wikipedia.org/wiki/Isla_Incahuasi"><i>Isla Incahuasi</i></a> (Casa del Inca), informally called "Cactus Island." The photographer writes, "The Isla Incahuasi sits near the center of the of the Salar de Uyuni, Bolivia, the world's largest salt flat.
-  The predominant large cactus is <i>Echinopsis atacamensis</i>, which is native to Chile, Argentina, and Bolivia.  The Island is many kilometers from the nearest mainland and hosts an interesting subset of the local native vegetation.  Despite its isolated location and scant rainfall, it is dramatically covered with abundant plant life."</figcaption>
+<a href="https://en.wikipedia.org/wiki/Hughes_Mountain">Hughes Mountain Natural Area, Irondale, Missouri</a>. </figcaption>
 </figure>
+Mr. Kocher writes: "This mountain is composed of <a href="https://en.wikipedia.org/wiki/Columnar_jointing">columnar-jointed rhyolitic ash-flow tuff-ignimbrite</a>.  Column in foreground show broken plane of deposition with numerous crushed pumice fragments. Age = ~1.4 Ga; Neoproterozoic.  U.S. quarter for scale."
 
 -----
 
