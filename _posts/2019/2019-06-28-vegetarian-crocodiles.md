@@ -18,11 +18,11 @@ As an ex-creationist, I have a pretty good idea how groups like Answers In Genes
 
 <!--more-->
 
-<blockquote><a href="https://www.nytimes.com/2019/06/27/science/crocodiles-vegetarian-teeth.html">Crocodiles Went Through a Vegetarian Phase, Too: Ancestors of modern crocodiles evolved to survive on a plant diet at least three times, researchers say.</a></blockquote>
+<blockquote><a href="https://www.nytimes.com/2019/06/27/science/crocodiles-vegetarian-teeth.html">Crocodiles Went Through a Vegetarian Phase, Too: Ancestors of modern crocodiles evolved to survive on a plant diet at least three times, researchers say.</a>
 
 For the new study, Mr. Melstrom and his co-author, Randall Irmis, analyzed 146 teeth from 16 extinct crocodyliform species. They used a method called orientation patch count rotated. From a scan of an object, the method generates a numerical score indicating the complexity of the object’s shape. “It allows us to compare teeth that have no landmarks in common,” said Mr. Melstrom.
 
-The researchers gathered the complexity scores of the teeth and compared them to those of living reptiles and mammals with known diets. Half of the ancient species seemed to have been on the plant-eating end of the spectrum — “a genuine surprise,” Mr. Melstrom said.
+The researchers gathered the complexity scores of the teeth and compared them to those of living reptiles and mammals with known diets. Half of the ancient species seemed to have been on the plant-eating end of the spectrum — “a genuine surprise,” Mr. Melstrom said.</blockquote>
 
 But in their haste to trumpet their victory, creationists might miss a critical fact: these surprising results were based solely on the very sort of scientific inquiry they believe is impossible! Since they don't believe it's possible to tell what a creature ate based on its fossils alone, they can't actually affirm this research. It would be "historical science," and they would be forced to claim ignorance over whether these extinct crocodilians were actually herbivorous or not.
 
