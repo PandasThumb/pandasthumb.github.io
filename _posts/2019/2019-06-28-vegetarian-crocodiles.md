@@ -16,6 +16,8 @@ Young-earth creationists, who believe that all species are secretly capable of t
 
 As an ex-creationist, I have a pretty good idea how groups like Answers In Genesis will respond to new findings in science. I predict they'll greet the following news as proof they've been right all along:
 
+<!--more-->
+
 <blockquote><a href="https://www.nytimes.com/2019/06/27/science/crocodiles-vegetarian-teeth.html">Crocodiles Went Through a Vegetarian Phase, Too: Ancestors of modern crocodiles evolved to survive on a plant diet at least three times, researchers say.</a></blockquote>
 
 For the new study, Mr. Melstrom and his co-author, Randall Irmis, analyzed 146 teeth from 16 extinct crocodyliform species. They used a method called orientation patch count rotated. From a scan of an object, the method generates a numerical score indicating the complexity of the object’s shape. “It allows us to compare teeth that have no landmarks in common,” said Mr. Melstrom.
