@@ -6,7 +6,7 @@ author: Matt Young
 
 Here are the finalists of the 2019 photography contest. We received 15 photographs from 5 photographers. All of the pictures were excellent, as you will no doubt see during the coming months. With assistance from our wife, we chose 1 photograph by each photographer and display them below the proverbial fold. We chose the photographs more on the basis of their pictorial quality than on their scientific interest. The text, if any, was written by the photographers and lightly edited for consistency.
 
-The finalists are presented in alphabetical order of last name. Please look through their photographs before voting for your favorite. Polling will close Friday, July 8, at approximately 9 a.m. MDT, and we will display the winner at noon that day.
+The finalists are presented in alphabetical order of last name. Please look through their photographs before voting for your favorite. Polling will close <strike>Friday</strike> Monday, July 8, at approximately 9 a.m. MDT, and we will display the winner at noon that day.
 
 <!--more-->
 
