@@ -25,7 +25,7 @@ article by Gelernter <a href="https://pandasthumb.org/archives/2019/05/David-Gel
 
 [![Gelernter-Meyer-Berlinski interview](http://img.youtube.com/vi/noj4phMT9OE/0.jpg)](http://www.youtube.com/watch?v=noj4phMT9OE)
 
-<P>
+
 I need you to help me understand this dramatic new development.
 The assignment for you is to see if you can answer these study questions:
 
