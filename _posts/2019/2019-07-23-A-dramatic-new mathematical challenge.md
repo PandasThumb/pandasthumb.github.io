@@ -22,9 +22,9 @@ there are longer videos expanding on the views of Meyer and Berlinski (<a
 href="https://www.youtube.com/watch?v=FDSpLBNQk5I"><strong>here</strong></a> and <a
 href="https://www.youtube.com/watch?v=LuEaJDksxls"><strong>here</strong></a>, and we very recently discussed an
 article by Gelernter <a href="https://pandasthumb.org/archives/2019/05/David-Gelernter-gives-up-on-Darwin.html"><strong>here</strong></a>).
-<iframe width="640">
+
 [![Gelernter-Meyer-Berlinski interview](http://img.youtube.com/vi/noj4phMT9OE/0.jpg)](http://www.youtube.com/watch?v=noj4phMT9OE)
-</iframe>
+
 <P>
 I need you to help me understand this dramatic new development.
 The assignment for you is to see if you can answer these study questions:
