@@ -23,7 +23,7 @@ href="https://www.youtube.com/watch?v=FDSpLBNQk5I"><strong>here</strong></a> and
 href="https://www.youtube.com/watch?v=LuEaJDksxls"><strong>here</strong></a>, and we very recently discussed an
 article by Gelernter here (more precisely, <a href="https://pandasthumb.org/archives/2019/05/David-Gelernter-gives-up-on-Darwin.html"><strong>here</strong></a>).
 
-[![Gelernter-Meyer-Berlinski interview](http://img.youtube.com/vi/noj4phMT9OE/0.jpg){:height="50%" width="50%"}](http://www.youtube.com/watch?v=noj4phMT9OE)
+[![Gelernter-Meyer-Berlinski interview](http://img.youtube.com/vi/noj4phMT9OE/0.jpg)](http://www.youtube.com/watch?v=noj4phMT9OE)
 
 <P>
 I need you to help me understand this dramatic new development.
