@@ -28,6 +28,7 @@ article by Gelernter <a href="https://pandasthumb.org/archives/2019/05/David-Gel
 
 I need you to help me understand this dramatic new development.
 
+<!--more-->
 
 The assignment for you is to see if you can answer these study questions:
 
