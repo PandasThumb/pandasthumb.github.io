@@ -21,7 +21,7 @@ Gelernter".  It is one hour long, and I have not yet been through it all.  In ca
 there are longer videos expanding on the views of Meyer and Berlinski (<a
 href="https://www.youtube.com/watch?v=FDSpLBNQk5I"><strong>here</strong></a> and <a
 href="https://www.youtube.com/watch?v=LuEaJDksxls"><strong>here</strong></a>, and we very recently discussed an
-article by Gelernter here (more precisely, <a href="https://pandasthumb.org/archives/2019/05/David-Gelernter-gives-up-on-Darwin.html"><strong>here</strong></a>).
+article by Gelernter <a href="https://pandasthumb.org/archives/2019/05/David-Gelernter-gives-up-on-Darwin.html"><strong>here</strong></a>).
 
 [![Gelernter-Meyer-Berlinski interview](http://img.youtube.com/vi/noj4phMT9OE/0.jpg)](http://www.youtube.com/watch?v=noj4phMT9OE)
 
