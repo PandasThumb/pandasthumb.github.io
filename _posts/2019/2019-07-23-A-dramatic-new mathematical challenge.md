@@ -58,6 +58,5 @@ Intelligent Design in Italian school curricula?</li>
 <em>As usual, I will pa-troll this discussion, eliminating off-topic trolling and off-topic troll-chasing.</em>
 
 
-<p>
 * (The Tower has a famous and scurrilous nickname -- if you can handle a little off-color humor, ask a knowledgeable friend about its nickname, or search on Google for "Hoover Tower interesting nickname")
-</p>
+
