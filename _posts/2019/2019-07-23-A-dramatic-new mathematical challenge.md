@@ -23,7 +23,7 @@ href="https://www.youtube.com/watch?v=FDSpLBNQk5I"><strong>here</strong></a> and
 href="https://www.youtube.com/watch?v=LuEaJDksxls"><strong>here</strong></a>, and we very recently discussed an
 article by Gelernter here (more precisely, <a href="https://pandasthumb.org/archives/2019/05/David-Gelernter-gives-up-on-Darwin.html"><strong>here</strong></a>).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Gelernter-Meyer-Berlinski interview](http://img.youtube.com/vi/noj4phMT9OE/0.jpg#center)](http://www.youtube.com/watch?v=noj4phMT9OE)
+[![Gelernter-Meyer-Berlinski interview](http://img.youtube.com/vi/noj4phMT9OE/0.jpg#center)](http://www.youtube.com/watch?v=noj4phMT9OE)
 
 <P>
 I need you to help me understand this dramatic new development.
@@ -54,4 +54,6 @@ Intelligent Design in Italian school curricula?</li>
 
 <em>As usual, I will pa-troll this discussion, eliminating off-topic trolling and off-topic troll-chasing.</em>
 
+<p>
 \* (The Tower has a famous and scurrilous nickname -- if you can handle a little off-color humor, ask a knowledgeable friend about its nickname, or search for "Hoover Tower" on tripadvisor.com)
+</p>
