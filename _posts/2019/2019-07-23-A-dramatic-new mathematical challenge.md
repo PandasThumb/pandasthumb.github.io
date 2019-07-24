@@ -23,7 +23,7 @@ href="https://www.youtube.com/watch?v=FDSpLBNQk5I"><strong>here</strong></a> and
 href="https://www.youtube.com/watch?v=LuEaJDksxls"><strong>here</strong></a>, and we very recently discussed an
 article by Gelernter <a href="https://pandasthumb.org/archives/2019/05/David-Gelernter-gives-up-on-Darwin.html"><strong>here</strong></a>).
 
-[![Gelernter-Meyer-Berlinski interview](https://user-images.githubusercontent.com/15114224/61764795-3d301280-ad8f-11e9-927b-484245ee535b.jpg)](http://www.youtube.com/watch?v=noj4phMT9OE)
+[![Gelernter-Meyer-Berlinski interview](http://img.youtube.com/vi/noj4phMT9OE/0.jpg)](http://www.youtube.com/watch?v=noj4phMT9OE)
 
 
 (sorry for the size -- I can't figure out how to resize this video preview)
