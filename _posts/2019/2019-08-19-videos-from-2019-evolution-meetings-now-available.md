@@ -20,7 +20,7 @@ American researchers,
 in evolutionary biology.  For works that are more concentrated on molecular
 evolution, see also the Society for Molecular Biology and Evolution, which met
 July 21-25 in Manchester, U.K.  Their meeting website is <a
-href="http://smbe2019.org"><strong>here</strong></a>.  They have abtsracts of
+href="http://smbe2019.org"><strong>here</strong></a>.  They have abstracts of
 the talks and posters available, but no videos.  The European Society for
 Evolutionary Biology will meet this year starting today (!) in Turku, Finland.
 Its meeting website is <a href="https://eseb2019.fi/"><strong>here</strong></a>.
