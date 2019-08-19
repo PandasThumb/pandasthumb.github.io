@@ -3,8 +3,9 @@ title: 'Videos from the 2019 Evolution Meeting are now available'
 date: '2019-08-19 12:00:00 -06:00'
 author: Joe Felsenstein
 ---
-
-![image](https://github.com/CartwrightLab/PandasThumb/issues/9#issue-482537792)
+<figure>
+<img src="/uploads/2019/evolution-2019-logo200x200.png" alt="Evolution 2019 logo"/>
+</figure>
 
 
 The videos from the 2019 Evolution Meetings held June 21-25 in Providence, Rhode Island
