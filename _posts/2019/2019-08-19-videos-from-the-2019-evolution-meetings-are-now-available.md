@@ -4,7 +4,7 @@ date: '2019-08-19 12:00:00 -06:00'
 author: Joe Felsenstein
 ---
 
-https://github.com/CartwrightLab/PandasThumb/issues/9#issue-482537792
+![image](https://github.com/CartwrightLab/PandasThumb/issues/9#issue-482537792)
 
 
 The videos from the 2019 Evolution Meetings held June 21-25 in Providence, Rhode Island
