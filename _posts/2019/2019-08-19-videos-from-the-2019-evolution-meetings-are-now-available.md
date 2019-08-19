@@ -4,7 +4,7 @@ date: '2019-08-19 12:00:00 -06:00'
 author: Joe Felsenstein
 ---
 <figure>
-<img src="/uploads/2019/evolution-2019-logo200x200.png" alt="Evolution 2019 logo"/>
+<img src="https://github.com/CartwrightLab/PandasThumb/blob/master/uploads/2019/evolution2019meetings200x200.png" alt="Evolution 2019 logo"/>
 </figure>
 
 
