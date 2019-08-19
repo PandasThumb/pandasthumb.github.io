@@ -4,6 +4,9 @@ date: '2019-08-19 12:00:00 -06:00'
 author: Joe Felsenstein
 ---
 
+https://github.com/CartwrightLab/PandasThumb/issues/9#issue-482537792
+
+
 The videos from the 2019 Evolution Meetings held June 21-25 in Providence, Rhode Island
 have now been posted.  The web site of the meeting is <a href="https://www.evolutionmeetings.org/evolution-2019---providence.html"><strong>here</strong></a>.  It is a joint meeting of three societies, the
 American Society of Naturalists, the Society of Systematic Biologists, and the
