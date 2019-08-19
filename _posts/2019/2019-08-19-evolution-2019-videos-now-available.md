@@ -9,7 +9,7 @@ have now been posted.  The web site of the meeting is <a href="https://www.evolu
 American Society of Naturalists, the Society of Systematic Biologists, and the
 Society for the Study of Evolution.  369 videos, mostly of 15-minute
 contributed talks, but some of major one-hour talks, will be found <a
-href="https://www.youtube.com/channel/UCjWLdxl3FmovYtO53lU0SBw/videos"><strong>here</strong>.
+href="https://www.youtube.com/channel/UCjWLdxl3FmovYtO53lU0SBw/videos"><strong>here</strong></a>.
 
 They will give you a good picture of contemporary work, mostly by North
 American researchers,
