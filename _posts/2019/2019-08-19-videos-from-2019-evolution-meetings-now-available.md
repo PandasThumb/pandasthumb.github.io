@@ -3,6 +3,7 @@ title: 'Videos from the 2019 Evolution Meeting are now available'
 date: '2019-08-19 12:00:00 -06:00'
 author: Joe Felsenstein
 ---
+
 <figure>
 <img src="https://github.com/CartwrightLab/PandasThumb/blob/master/uploads/2019/evolution2019meetings1200x200.jpg" alt="Evolution 2019 logo"/>
 </figure>
