@@ -4,10 +4,10 @@ date: '2019-08-22 12:00:00 -06:00'
 author: Joe Felsenstein
 ---
 
-David Gelernter's abandonment of support for modern evolutionary biology seems to be gaining support.  First the Hoover Institution jumped on the
-bandwagon, now the conservative Catholic-tinged magazine of Christian and Jewish thought <em>First Things</em> is on board.  An article appeared at their website 
+David Gelernter's <a href="https://pandasthumb.org/archives/2019/05/David-Gelernter-gives-up-on-Darwin.html"><strong>abandonment of support for modern evolutionary biology</strong></a> seems to be gaining support.  First the Hoover Institution <a href="https://pandasthumb.org/archives/2019/07/A-dramatic-new-mathematical-challenge.html"><strong>jumped on the
+bandwagon</strong></a>, now the conservative Catholic-tinged magazine of Christian and Jewish thought <em>First Things</em> is on board.  An article appeared at their website 
 yesterday by George Weigel, entitled
-<a href="https://www.firstthings.com/web-exclusives/2019/08/getting-beyond-darwin"><strong>"Getting beyond Darwin"</strong></a>, by George Weigel.  He offers various judgements that Gelernter is correct.  Summarizing Gelernter approvingly, he
+<a href="https://www.firstthings.com/web-exclusives/2019/08/getting-beyond-darwin"><strong>"Getting beyond Darwin"</strong></a>.  He offers various judgements that Gelernter is correct.  Summarizing Gelernter approvingly, he
 writes that
 
 <blockquote>
