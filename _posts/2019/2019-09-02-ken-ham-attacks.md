@@ -10,9 +10,9 @@ author: Dan Phelps
 </figcaption>
 </figure>
 
-<i>We received an e-mail from Dan Phelps today, regarding what he calls "The latest inanity from Ken Ham." We had to look carefully to realize that the word was "inanity." Here is Mr. Phelps's e-mail, lightly edited for HTML. The photographs may be found in Wikipedia. We could not track down their origins, so we assume they are subject to the same copyright as Wikipedia, specifically, CC BY-SA. — Matt Young
+<i>We received an e-mail from Dan Phelps today, regarding what he calls "The latest inanity from Ken Ham." We had to look carefully to realize that the word was "inanity." Here is Mr. Phelps's e-mail, lightly edited for HTML. The photographs may be found in Wikipedia. We could not track down their origins, so we assume they are subject to the same copyright as Wikipedia, specifically, CC BY-SA. — Matt Young</i>
 
-Herewith, Mr. Phelps's e-mail: </i> 
+Herewith, Mr. Phelps's e-mail: 
 
 
 The evidence for feathers in <i>Tyrannosaurus rex</i> is weak, but there is abundant evidence for feathers in its relatives and ancestors.
