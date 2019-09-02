@@ -21,6 +21,8 @@ For some of the evidence for feathers in <i>Tyrannosaurus</i> relatives, see: <a
 
 Finally, Mr. Phelps provided these photographs, taken from Wikipedia, in which you can see evidence of feathers:
 
+<!--more-->
+
 <figure>
 <img src="/uploads/2019/Microraptor_600.jpg" alt="Microraptor"/>
 <figcaption>Microraptor</figcaption>
