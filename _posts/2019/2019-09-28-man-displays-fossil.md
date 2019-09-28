@@ -1,6 +1,6 @@
 ---
 title: 'Man displays fossil hidden by ancestors'
-date: '2019-09-28  15:30:00 -06:00'
+date: '2019-09-28  16:04:00 -06:00'
 author: Matt Young
 ---
 <figure>
