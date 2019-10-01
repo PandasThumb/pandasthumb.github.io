@@ -1,6 +1,6 @@
 ---
 title: 'AIG blames school shootings on teaching science'
-date: '2019-12-01 11:35:00 -06:00'
+date: '2019-10-01 11:40:00 -06:00'
 author: Dan Phelps
 ---
 
