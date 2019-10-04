@@ -5,7 +5,7 @@ author: Matt Young
 ---
 <figure>
 <img src="/uploads/2019/Edis_Conspiracy_Theories_Cover.jpg" alt="Book cover"/>
-<figcaption>Front cover of the book <i>Cosmic Conspiracy Theories: How Theologies Evade Science</i>, as displayed on its <a href="https://www.amazon.co.uk/Theology-Science-Genesis-Astrobiology-General/dp/9813235039">Amazon (US) web page</a>.
+<figcaption>Front cover of the book <i>Theology and Science: From Genesis to Astrobiology</i>, as displayed on its <a href="https://www.amazon.co.uk/Theology-Science-Genesis-Astrobiology-General/dp/9813235039">Amazon (US) web page</a>.
 </figcaption>
 </figure>
 
