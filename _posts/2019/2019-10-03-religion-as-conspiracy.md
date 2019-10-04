@@ -1,11 +1,11 @@
 ---
 title: 'Religion as a conspiracy theory'
-date: '2020-10-04 12:00:00 -06:00'
+date: '2020-10-04 08:50:00 -06:00'
 author: Matt Young
 ---
 <figure>
 <img src="/uploads/2019/Edis_Conspiracy_Theories_Cover.jpg" alt="Book cover"/>
-<figcaption>Front cover of the book <i>Theology and Science: From Genesis to Astrobiology</i>, as displayed on its <a href="https://www.amazon.co.uk/Theology-Science-Genesis-Astrobiology-General/dp/9813235039">Amazon (US) web page</a>.
+<figcaption>Front cover of the book <i>Theology and Science: From Genesis to Astrobiology</i>, as displayed on <a href="https://www.amazon.co.uk/Theology-Science-Genesis-Astrobiology-General/dp/9813235039">the publisher's web page</a>.
 </figcaption>
 </figure>
 
@@ -15,7 +15,7 @@ Professor Edis examines the views of young-earth creationists, intelligent-desig
 
 <!--more-->
 
-Intelligent-design creationism, in contrast to young-earth creationism, does not need to rely on a literal interpretation of a holy book. Rather, it employs a version of the argument from design and argues that the complexity we see in nature must necessarily be a result of design by an intelligent agent. IDC modernizes the argument from design and argues that <i>information</i> cannot be created by "mindless material processes." Design is not only obvious, but also supported by highly sophisticated arguments. IDC thus need not engage in a conspiracy theory. Nevertheless, argues Prof. Edis, when ID creationists recognized that they were not making inroads against scientific materialism, they too fell back on a conspiracy theory, charging that "Darwinists" are conspiring to stifle IDC.
+Intelligent-design creationism (IDC), in contrast to young-earth creationism, does not need to rely on a literal interpretation of a holy book. Rather, it employs a version of the argument from design and argues that the complexity we see in nature must necessarily be a result of design by an intelligent agent. IDC modernizes the argument from design and argues that <i>information</i> cannot be created by "mindless material processes." Design is not only obvious, but also supported by highly sophisticated arguments. IDC thus need not engage in a conspiracy theory. Nevertheless, argues Prof. Edis, when ID creationists recognized that they were not making inroads against scientific materialism, they too fell back on a conspiracy theory, charging that "Darwinists" are conspiring to stifle IDC.
 
 Liberal theologians, I thought, were a little harder to pigeonhole. Professor Edis argues that liberal theologians accept virtually all of science, including the modern theory of evolution. Theology, he says, is not "a rival to science," but rather supplies the "back story." Thus, if liberals accept science, they have to "reviv[e] some aspects of a cosmic conspiracy theory." Specifically, they need God to go behind the scenes and, for example, purposefully create beneficial mutations. But God deliberately hides the fact that the mutations are not all random – so God becomes the ultimate conspirator (I think, actually, conspiracies require two or more conspirators, but to point that out would be picky). How does God hide that some mutations are directed? Quantum mechanics! Incidentally, I loved this analogy:
 <blockquote>Theologians are demanding substantial interference in the structure of physics. Consider a casino operator who cheats, but only rarely, and only in order to reward gamblers who belong to a favorite religious sect. If done rarely enough, the signal of interference will be lost in the noise, and the record of the games in the casino will not support the claim of non-random interference. </blockquote>
