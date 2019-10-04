@@ -1,6 +1,6 @@
 ---
 title: 'Religion as a conspiracy theory'
-date: '2020-10-04 08:50:00 -06:00'
+date: '2019-10-04 09:01:00 -06:00'
 author: Matt Young
 ---
 <figure>
