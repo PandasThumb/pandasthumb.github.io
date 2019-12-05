@@ -4,7 +4,7 @@ date: '2019-12-05 12:00:00 -07:00'
 author: Joe Felsenstein
 ---
 
-![HouseAtPoohCorner](/uploads/2019/HouseAtPoohCorner.jpg#center)
+![House At Pooh Corner](/uploads/2019/HouseAtPoohCorner.jpg#right)
 <P>
 <p>
 Eric Holloway has been asserting that William Dembski's arguments
