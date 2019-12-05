@@ -1,6 +1,6 @@
 ---
 title: 'Is Algorithmic Specified Complexity Useless for Analyzing Evolution?'
-date: '2019-12-05 12:00:00 -07:00'
+date: '2019-12-06 12:00:00 -07:00'
 author: Joe Felsenstein
 ---
 <p align="center">
