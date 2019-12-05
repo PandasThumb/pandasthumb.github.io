@@ -182,7 +182,7 @@ one must have genetic variation in a population of more than one individual.
 </p><p>
 
 In the case where we do not use ASC, but use Complex Specified Information, the
-Specified Informatio (SI) quantity is intrinsically meaningful.  Whether or not it is conserved,
+Specified Information (SI) quantity is intrinsically meaningful.  Whether or not it is conserved,
 at least the relevance of the quantity
 is easy to establish.  In William Dembski's original argument that the
 presence of CSI indicates Design (2002) the specification is defined on a scale
@@ -201,10 +201,9 @@ specified in advance is ... the ability to propagate genes in
 reproduction."
 </blockquote>
 
-The scale on which SI is defined is basically a scale of fitnesses of
+The scale on which SI is defined is basically either a scale of fitnesses of
 genotypes, or a closely-related one that is a component of fitness such
-as viability.
-It is a quantity that may or may not be difficult to
+as viability.  It is a quantity that may or may not be difficult to
 increase, but there is little doubt that increasing it is desirable,
 and that genotypes that have higher values on those specification
 scales will make a larger contribution to the gene pool of the next
