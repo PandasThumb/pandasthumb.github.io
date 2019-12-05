@@ -93,7 +93,7 @@ ASC will be found in the papers by
 and <a href="https://www.robertmarks.org/REPRINTS/2014_AlgorithmicSpecifiedComplexity.pdf"><strong>Ewert, Dembski and Marks (2014)</strong></a>.
 
 Nemati and Holloway have recently published <a href="https://www.bio-complexity.org/ojs/index.php/main/article/view/BIO-C.2019.2/BIO-C.2019.2"><strong>a scientific paper</strong></a> at the Discovery Institute's house journal BIO-Complexity, presenting a proof of conservation of ASC.  There has been discussion at The Skeptical Zone of the technical issues with ASC -- is it conserved or is it not?  In particular, 
-Tom English, in a (<a href="http://theskepticalzone.com/wp/evo-info-4-non-conservation-of-algorithmic-specified-complexity/"><strong>here</strong></a> and <a href="http://theskepticalzone.com/wp/non-conservation-of-algorithmic-specified-complexity/"><strong>here</strong></a>) has presented
+Tom English (<a href="http://theskepticalzone.com/wp/evo-info-4-non-conservation-of-algorithmic-specified-complexity/"><strong>here</strong></a> and <a href="http://theskepticalzone.com/wp/non-conservation-of-algorithmic-specified-complexity/"><strong>here</strong></a>) has presented
 detailed mathematical argument at The Skeptical Zone</strong></a> showing simple cases which are
 counterexamples to the claims by Nemati and Holloway, and has identified errors in their proof.  See also the comments by English in the discussion on those posts.
 
