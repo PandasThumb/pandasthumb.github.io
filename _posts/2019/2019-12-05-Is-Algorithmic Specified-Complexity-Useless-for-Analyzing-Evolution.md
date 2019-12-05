@@ -4,7 +4,7 @@ date: '2019-12-05 12:00:00 -07:00'
 author: Joe Felsenstein
 ---
 
-<img src="/uploads/2019/HouseAtPoohCorner.jpg" style='float: center; width:40%; padding-right: 15px; padding-top: 3px;’>
+<img src="/uploads/2019/HouseAtPoohCorner.jpg" style='float: left; width:40%; padding-right: 15px; padding-top: 3px;’>
 
 Eric Holloway has been asserting that William Dembski's arguments
 about conservation of Complex Specified Information are valid, that they have
