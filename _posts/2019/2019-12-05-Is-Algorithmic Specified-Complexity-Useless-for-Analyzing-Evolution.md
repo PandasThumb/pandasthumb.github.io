@@ -4,7 +4,7 @@ date: '2019-12-05 12:00:00 -07:00'
 author: Joe Felsenstein
 ---
 
-<figure align="center">
+<figure halign="center">
 <img src="/uploads/2019/HouseAtPoohCorner.jpg" alt="House At Pooh Corner cover"/>
 </figure>
 <p>
