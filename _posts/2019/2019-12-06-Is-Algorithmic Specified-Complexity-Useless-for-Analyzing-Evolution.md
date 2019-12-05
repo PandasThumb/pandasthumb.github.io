@@ -36,8 +36,8 @@ Instead he
 points to the concept of Algorithmic Specified
 Complexity, arguing that this is the essential part of the
 proof that Complex Specified Information is conserved, and hence that
-observation of this version of CSI implies Design.  There has been much discussion here and at
-The Skeptical Zone of the technical issues with ASC -- is it conserved or is it not?
+observation of this version of CSI implies Design.  
+
 
 </p><p>
 But no one has asked
@@ -87,17 +87,15 @@ it needs long string that is computed by a short program.  To get a moderate
 amount of ASC, one could have a long string computed by medium-length program,
 or a medium-length string computed by a short program.  Randomness deficiency 
 was invented by information theory researcher Leonid Levin and is discussed by him in a 1984 paper
-(<a href="https://core.ac.uk/download/pdf/82092683.pdf">here</a>).  Definitions and explanations of
+  (<a href="https://core.ac.uk/download/pdf/82092683.pdf"><strong>here</strong></a>).  Definitions and explanations of
 ASC will be found in the papers by 
 <a href="https://robertmarks.org/REPRINTS/2013_OnTheImprobabilityOfAlgorithmicSpecifiedComplexity.pdf"><strong>Ewert, Marks, and Dembski (2013)</strong></a>,
 and <a href="https://www.robertmarks.org/REPRINTS/2014_AlgorithmicSpecifiedComplexity.pdf"><strong>Ewert, Dembski and Marks (2014)</strong></a>.
 
-
-</p><p>
-Tom English, in a <a href="http://theskepticalzone.com/wp/evo-info-4-non-conservation-of-algorithmic-specified-complexity/"><strong>
-detailed post at The Skeptical Zone</strong></a> has presented a simple case which is
-a counterexample to claims by Eric Holloway that Algorithmic Specified Complexity satisfies a
-conservation law.  See also his comments in the discussion on that post.
+Nemati and Holloway have recently published <a href="https://www.bio-complexity.org/ojs/index.php/main/article/view/BIO-C.2019.2/BIO-C.2019.2"><strong>a scientific paper</strong></a> at the Discovery Institute's house journal BIO-Complexity, presenting a proof of conservation of ASC.  There has been discussion at The Skeptical Zone of the technical issues with ASC -- is it conserved or is it not?  In particular, 
+Tom English, in a (<a href="http://theskepticalzone.com/wp/evo-info-4-non-conservation-of-algorithmic-specified-complexity/"><strong>here</strong></a> and <a href="http://theskepticalzone.com/wp/non-conservation-of-algorithmic-specified-complexity/"><strong>here</strong></a>) has presented
+detailed mathematical argument at The Skeptical Zone</strong></a> has shown simple cases which are
+counterexamples to the claims by Nemati and Holloway.  See also the comments by English in the discussion on those posts.
 
 </p><p>
 But the real question is not whether the randomness deficiency is conserved,
@@ -332,5 +330,6 @@ even if ASC of organisms could somehow be defined, and even if
 some limit on its change could somehow be proven,
 the non-increase of ASC would not establish any
 limits on what natural selection can do to improve fitness.
-
 </p>
+
+<em>Thanks to Tom English for helpful comments on an earlier draft of this post.</em>
