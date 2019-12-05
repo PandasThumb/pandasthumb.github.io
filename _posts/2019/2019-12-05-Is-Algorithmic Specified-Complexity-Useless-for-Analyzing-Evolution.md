@@ -242,11 +242,11 @@ its fitness is sufficiently high, whether or not that is associated with complic
 phenotypes or with a long genome.
 
 The name
-Algorithmic Specified Complexity is even more confusing.  It is a number that
-is high when the bit string that describes the organism is long, but when
-it can be computed by a short program.  I think.  Or perhaps when the
+Algorithmic Specified Complexity is even more confusing.  ASC is a number that
+is high when the bit string that describes the organism is long, but 
+can be computed by a relatively short program.  I think.  Or perhaps when the
 bit string which encodes the genome of the organism is long, but can be computed
-by a short program.  If anything
+by a relatively short program.  If anything
 is needed, it is a careful discussion of how ASC relates to the length of
 the genome, the length of a description of the phenotype, to fitness, and to
 achieving a complicated structure.
