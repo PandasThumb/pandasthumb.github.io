@@ -273,9 +273,9 @@ organisms cannot be achieved by evolutionary processes such as
 natural selection would be a major refutation of modern evolutionary
 biology.  William Dembski's Law of Conservation of Complex Specified
 Information attempted such a proof, but this proof fails, and Dembski's
-Law of Conservation of Complex Specified Information
-is no longer discussed by proponents of Intelligent Design,
-except in occasional mistaken assertions that such a law has been proven.
+LCCSI is no longer discussed by proponents of Intelligent Design,
+except in occasional mistaken assertions that such a law has been proven 
+in a form that shows that high levels of fitness cannot be achieved from lower ones.
 
 </p><p>
 3. By contrast, the ASC algorithmic complexity measure is
