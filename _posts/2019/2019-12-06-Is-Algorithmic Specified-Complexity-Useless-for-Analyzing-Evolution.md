@@ -252,7 +252,7 @@ the genome, the length of a description of the phenotype, to fitness, and to
 achieving a complicated structure.
 
 </p><p>
-I suggest that no such connection is possible.  Whether or not I am
+I suggest that no connection of ASC to fitness is possible.  Whether or not I am
 right about that, the matter needs to be addressed before anyone
 can say that there is conservation of ASC, and that this shows that
 there some limit to the ability of evolutionary processes to
