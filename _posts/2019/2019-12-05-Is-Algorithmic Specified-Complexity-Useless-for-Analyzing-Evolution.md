@@ -307,7 +307,7 @@ description of the individual's phenotype?
 This uncertainty
 has <em>not been addressed at all</em> in the ASC
 arguments about evolving systems, rendering those arguments
-meaningless.
+even more meaningless.
 
 </p><p>
 6. If, as I argue, there is no correlation between high ASC and high fitness,
