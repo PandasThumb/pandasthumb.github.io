@@ -217,7 +217,7 @@ without already having started with fitness at least that high,
 it will have shown that there is a barrier to achieving that
 state by normal evolutionary processes such as natural selection.
 But, alas for William Dembski and company, the
-conservation of CSI is basically unprovable (for an accessible argument, see
+conservation of CSI is basically unprovable in the form that would be needed to show that (for an accessible argument, see
 <a href="https://ncse.ngo/has-natural-selection-been-refuted-arguments-william-dembski"><strong>
 see my article on that</strong></a>).  I have also shown in a straightforward
 population genetics calculation <a href="http://theskepticalzone.com/wp/natural-selection-can-put-functional-information-into-the-genome/"><strong>at The Skeptical Zone</strong></a>
