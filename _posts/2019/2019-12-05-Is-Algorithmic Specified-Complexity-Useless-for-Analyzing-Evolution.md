@@ -50,12 +50,10 @@ whether normal evolutionary processes can accumulate information in the genome.
 
 </p><p>
 Why do I think that ASC is irrelevant to establishing conservation of CSI in all these arguments?  Let me explain.
-</p><p>
-</p><p>
-&lt;!--more--&gt;  (the "fold" tag is here)
+</p>
 
 <!--more-->
-</p><p>
+<p>
 <strong>Algorithmic Specified Complexity </strong>
 
 </p><p>
