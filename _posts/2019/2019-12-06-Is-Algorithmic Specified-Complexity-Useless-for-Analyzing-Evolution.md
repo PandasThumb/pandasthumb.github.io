@@ -158,9 +158,9 @@ show that biological systems cannot achieve simplicity.
 <strong>Another Issue</strong>
 
 </p><p>
-Specified-complexity Arguments about evolution have another problem.
+Specified-complexity arguments about evolution have another problem.
 Whether they are for ASC or for the
-earlier quantity CSI, the change of the genotype under normal evolutionary
+earlier criterion CSI, the change of the genotype under normal evolutionary
 processes is modeled by a function applied to the genotype.  This might be
 a description of what mutation does to a genome, if we allow random functions.
 But it is not a good description
