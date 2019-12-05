@@ -85,8 +85,11 @@ the shortest program that gives it as its output.
 That means that to get a genome (or binary string) that has a large amount of ASC,
 it needs long string that is computed by a short program.  To get a moderate
 amount of ASC, one could have a long string computed by medium-length program,
-or a medium-length string computed by a short program.  ASC was apparently invented by the information theory researcher Leonid Levin. Definitions and explanations of
-ASC will be found in the papers by <a href="https://robertmarks.org/REPRINTS/2013_OnTheImprobabilityOfAlgorithmicSpecifiedComplexity.pdf"><strong>Ewert, Marks, and Dembski (2013)</strong></a>,
+or a medium-length string computed by a short program.  Randomness deficiency 
+was invented by information theory researcher Leonid Levin and is discussed by him in a 1984 paper
+(<a href="https://core.ac.uk/download/pdf/82092683.pdf">here</a>).  Definitions and explanations of
+ASC will be found in the papers by 
+<a href="https://robertmarks.org/REPRINTS/2013_OnTheImprobabilityOfAlgorithmicSpecifiedComplexity.pdf"><strong>Ewert, Marks, and Dembski (2013)</strong></a>,
 and <a href="https://www.robertmarks.org/REPRINTS/2014_AlgorithmicSpecifiedComplexity.pdf"><strong>Ewert, Dembski and Marks (2014)</strong></a>.
 
 
