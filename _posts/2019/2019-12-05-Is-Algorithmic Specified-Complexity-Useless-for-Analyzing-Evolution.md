@@ -4,9 +4,8 @@ date: '2019-12-05 12:00:00 -07:00'
 author: Joe Felsenstein
 ---
 
-<figure>
+<figure alignb="middle">
 <img src="/uploads/2019/HouseAtPoohCorner.jpg" alt="House At Pooh Corner cover"/>
-<figcaption>The House at Pooh Corner</figcaption>
 </figure>
 <p>
 Eric Holloway has been asserting that William Dembski's arguments
