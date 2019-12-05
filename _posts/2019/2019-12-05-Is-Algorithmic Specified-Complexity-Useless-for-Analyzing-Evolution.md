@@ -3,8 +3,9 @@ title: 'Is Algorithmic Specified Complexity Useless for Analyzing Evolution?'
 date: '2019-12-05 12:00:00 -07:00'
 author: Joe Felsenstein
 ---
-
+<figure>
 <img style="float:center", src="uploads/2019/HouseAtPoohCorner.jpg">
+</figure>
 <P>
 <p>
 Eric Holloway has been asserting that William Dembski's arguments
