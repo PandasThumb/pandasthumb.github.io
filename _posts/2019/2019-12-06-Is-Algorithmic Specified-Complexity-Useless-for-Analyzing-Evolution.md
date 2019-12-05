@@ -164,9 +164,9 @@ earlier criterion CSI, the change of the genotype under normal evolutionary
 processes is modeled by a function applied to the genotype.  This might be
 a description of what mutation does to a genome, if we allow random functions.
 But it is not a good description
-of natural selection.  In natural selection, individuals of different genotypes
-reproduce, and those with higher fitness are proportionately more likely to
-survive.  It is not a matter of applying some arbitrary function to a single
+of natural selection.  In natural selection, a population of individuals of different genotypes
+survives and reproduces, and those individuals with higher fitness are proportionately more likely to
+survive and reproduce.  It is not a matter of applying some arbitrary function to a single
 genotype, but of using
 the fitnesses of more than one genotype to choose among the results of changes of genotype.  Thus
 modeling biological evolution by functions applied to individual genotypes is
