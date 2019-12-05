@@ -94,7 +94,7 @@ and <a href="https://www.robertmarks.org/REPRINTS/2014_AlgorithmicSpecifiedCompl
 Tom English, in a <a href="http://theskepticalzone.com/wp/evo-info-4-non-conservation-of-algorithmic-specified-complexity/"><strong>
 detailed post at The Skeptical Zone</strong></a> has presented a simple case which is
 a counterexample to claims by Eric Holloway that Algorithmic Specified Complexity satisfies a
-conservation law.
+conservation law.  See also his comments in the discussion on that post.
 
 </p><p>
 But the real question is not whether the randomness deficiency is conserved,
@@ -128,8 +128,7 @@ Or to the extent that it brings about organisms that are <em>not</em> simply
 describable?  I don't think that Holloway has at all made this clear.
 
 <p>
-For that matter, there is another Pooish muddle in my brain.  What is it
-that the computation is computing?  A  binary string representing the genotype?
+For that matter, there is another Pooish muddle in my brain.  What is it that the computation is computing?  A  binary string representing the genotype?
 Or a binary string representing the phenotype?  All
 of this is left distressingly unclear in the ASC arguments,
 however meticulously the
