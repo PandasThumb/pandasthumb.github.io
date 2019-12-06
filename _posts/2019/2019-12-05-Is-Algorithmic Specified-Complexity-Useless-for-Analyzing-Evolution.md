@@ -5,7 +5,7 @@ author: Joe Felsenstein
 ---
 
 <figure>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/uploads/2019/HouseAtPoohCorner.jpg" width="254px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/uploads/2019/HouseAtPoohCorner.jpg" width="254px">
 <figcaption>
 </figcaption>
 </figure>
