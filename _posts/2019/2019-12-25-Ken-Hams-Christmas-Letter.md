@@ -22,4 +22,4 @@ And finally,
 
 >Trust me, I am not blaming you for believing what we said – that’s an easy mistake to make! In fact, let’s just forget what we said in the feasibility report! Let’s just let bygones be bygones! Merry Christmas from all of us here at Ark Encounter. And remember, for a paltry $48 you can visit the Ark and learn why God found it necessary to drown twenty billion people. It’s the perfect way to get into the holiday spirit!
 
-Remind us never to trust anyone who says, "Trust me."
+Incidentally, remind us never to trust anyone who says, "Trust me."
