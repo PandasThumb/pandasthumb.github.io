@@ -70,3 +70,33 @@ If you want to use markdown syntax inside the `figure` tag, the Kramdown documen
 
 If you want to specify a `figure`/`img` that floats to the right or left you can use `class="on-the-left-side"` or `class="on-the-right-side"` attributes in the image tag. This will make the figures consume 33% of the content width with fully sized and scale nicely on mobiles.
 
+## Running PT Locally on Windows
+
+The PT website is built using [Jekyll](https://jekyllrb.com/). To work with PT locally on Windows, follow the instructions at [Jekyll on Windows](https://jekyllrb.com/docs/installation/windows/).  Once Jekyll is installed and you have cloned a copy of the PT repo locally, run 'Start Command Prompt with Ruby' and use the following commands.
+
+```bat
+cd PandasThumb   # or where ever you placed your clone
+bundler install  # install the Ruby files needed to build the website
+_bin\server.bat  # run a local server
+```
+
+It can take a while before the server is ready to serve pages because it has to build a lot of files. Enabling incremental builds will make this process go faster on subsequent runs. The output of Jekyll should look something like this.
+
+```
+Configuration file: C:/Users/cartw/Documents/PandasThumb/_config.yml
+            Source: C:/Users/cartw/Documents/PandasThumb
+       Destination: C:/Users/cartw/Documents/PandasThumb/_site
+ Incremental build: enabled
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+                    done in 233.09 seconds.
+ Auto-regeneration: enabled for 'C:/Users/cartw/Documents/PandasThumb'
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+```
+
+Once the server is running you will be able to look at it by visiting `http://127.0.0.1:4000/`.
+
+Now whenever you add a file or make a change to the source directory, Jekyll will rebuild the site (incrementally) and you will be able to preview the results locally.
+
+Make sure when you are finished to check your changes into your local git repo and push them to your remote repo.
