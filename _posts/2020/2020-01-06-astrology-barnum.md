@@ -1,5 +1,5 @@
 ---
-title: 'Astrology. Barnum, and me'
+title: 'Astrology, Barnum, and me'
 date: '2020-01-06 13:18:00 -07:00'
 author: Matt Young
 ---
