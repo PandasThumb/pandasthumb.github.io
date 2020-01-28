@@ -69,5 +69,5 @@ To me this pretty dramatically answers the question of whether information conte
 Clearly it did:  the terminal state of AlphaZero knows how to play chess with superhuman
 ability, whereas the starting state knew nothing but how to make a legal move and determine
 if that terminated the game and if so, with what outcome (i.e. it knew a checkmate when it
-blundered into one).
+stumbled into one).
 
