@@ -29,7 +29,7 @@ extremely difficult, the question of whether a terminal position in a game is a 
 draw is easy to determine:  there is a clear "fitness criterion".  The algorithm played 
 like a blithering idiot at first, but versions of its net that had more successful weightings 
 rapidly outcompeted the others, and its play became steadily more "purposeful."  Interestingly, 
-there was some apparent recaputulation of human improvement in chess:  AlphaZero had an early 
+there was some apparent recapitulation of human improvement in chess:  AlphaZero had an early 
 infatuation with opening variations which had been abandoned by the top human players, but 
 like the humans, eventually moved away from them.  (I got some teasing over this, as my 
 favorite opening variation is one of those that AlphaZero discarded as it "matured.")
