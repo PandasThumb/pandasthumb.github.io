@@ -1,6 +1,6 @@
 ---
 title: 'Complex information arising from random processes:  the chess program AlphaZero'
-date: '2020-01-30 12:00:00 -07:00'
+date: '2020-01-28 12:00:00 -07:00'
 author: Joe Felsenstein
 ---
 <em>(This is a guest post put up by Joe for commenter MaryKaye, who is its author)</em>
