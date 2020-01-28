@@ -37,7 +37,7 @@ favorite opening variation is one of those that AlphaZero discarded as it "matur
 People have asked whether the programmers "cheated" and snuck some chess knowledge, beyond
 the rules, into AlphaZero.  But AlphaZero calculates substantially fewer positions per second
 than Stockfish (a major handicap) and yet outperforms it.  If we knew how to make an algorithm
-that much better than Stockfish by human design, we'd have done so--there is a substantial
+that much better than Stockfish by human design, we'd have done so -- there is a substantial
 prize involved in winning the World Computer Chess Championship, as well as prestige.  
 
 The human World Champion, among others, studied AlphaZero's games and noted that its style is
