@@ -38,6 +38,6 @@ He concludes,
 
 >Ministers and other religious educators, and not just students, need to become informed about evolutionary biology. Furthermore, there are many theological resources now available that can help students—outside of the classroom—integrate their religious beliefs with a sound scientific understanding of Darwin’s revolution.
 
-I am not in any sense religious, but I consider the existence of religious people to be in empirical fact; given that fact, I cannot disagree in any way with the sentiment expressed in Prof. Haught's essay.
+I am a nontheist, but I consider the existence of religious people to be in empirical fact; given that fact, I cannot disagree in any way with the sentiment expressed in Prof. Haught's essay.
 
 
