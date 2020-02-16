@@ -22,7 +22,7 @@ To be safe, we received further permission from the parent to post the quiz publ
 
 OK, OK, stop here and review your answers before you go on to the published "answers." The quiz has no time limit, so take your time. I look forward to your comments.
 
-<--more-->
+<!--more-->
 
 <figure> 
 <img src="/uploads/2020/Ham Test_3.jpeg" alt="Answers"/>
