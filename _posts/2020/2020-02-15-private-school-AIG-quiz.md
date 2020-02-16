@@ -8,7 +8,7 @@ Today we received the following quiz, along with the title of this article, from
 
 >An acquaintance in a rural part of [nameless state] sent me the attached "quiz," presumably because of the upcoming documentary [<a href="https://pandasthumb.org/archives/2020/02/we-believe-on-pbs-february-17.html">We Believe in Dinosaurs</a>]. They send their pre-high school age child to a private school because the local rural [nameless state] public school is so bad. They are rather upset their child received this "quiz," which appears to be inspired by Answers in Genesis and the bizarre writings of Ken Ham. The parent gave me permission to send this as long as no identifying details were included.
 
-To be safe, we received further permission from the parent to post the quiz publicly on PT. At the risk of appearing paranoid, we left out the name of the state and any other poissible identifying material, as well as the name of our contact. I am posting the questions here, above the fold. The "correct" "answers" are given below the fold. Unless I am mistaken, only four of the "answers" are actually correct. Go ahead and take the quiz, and see for yourself.
+To be safe, we received further permission from the parent to post the quiz publicly on PT. At the risk of appearing paranoid, we left out the name of the state and any other possible identifying material, as well as the name of our contact. I am posting the questions here, above the fold. The "correct" "answers" are given below the fold. Unless I am mistaken, only four of the "answers" are actually correct. Go ahead and take the quiz, and see for yourself.
 
 <figure> 
 <img src="/uploads/2020/Ham Test_1.jpeg" alt="Test questions"/>
