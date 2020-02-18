@@ -4,7 +4,7 @@ date: '2020-02-17 13:00:00 -07:00'
 author: Matt Young
 ---
 
-<big><strong>Tonight's the night!</strong></big>
+<strike>Tonight's the night!</strike>
 
 As we <a href="https://pandasthumb.org/archives/2019/11/we-believe-on-PBS.html">announced last fall</a>, the film <a href="http://www.pbs.org/independentlens/films/we-believe-in-dinosaurs/">We Believe in Dinosaurs will air on PBS</a>, Monday, February 17, at 10:00 p.m., EST.  
 
