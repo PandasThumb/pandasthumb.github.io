@@ -1,6 +1,6 @@
 ---
 title: 'Cranky Uncle versus Climate Change: book review'
-date: '2020-02-26 14:10:00 -07:00'
+date: '2020-02-27 14:15:00 -07:00'
 author: Matt Young
 ---
 <figure>
