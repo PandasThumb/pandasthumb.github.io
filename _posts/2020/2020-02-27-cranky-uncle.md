@@ -1,5 +1,5 @@
 ---
-title: 'Cranky Uncle versus Climate Change: book review'
+title: 'Cranky Uncle vs. Climate Change: book review'
 date: '2020-02-27 14:15:00 -07:00'
 author: Matt Young
 ---
@@ -9,7 +9,7 @@ author: Matt Young
 </figcaption>
 </figure>
 
-Several years ago, I sent a copy of Jeffrey Bennett's book, [A Global Warming Primer](https://www.amazon.com/Global-Warming-Primer-Answering-Consequences/dp/1937548783): Answering Your Questions about the Science, the Consequences, and the Solutions, to the EPA administrator, Scott Pruitt. The current EPA administrator, [Andrew Wheeler](https://en.wikipedia.org/wiki/Andrew_R._Wheeler), is not as obvious a climate denialist as Mr. Pruitt, but at best he downplays the IPCC report and the importance of global warming, and I think he would probably profit from a close reading of the new book [Cranky Uncle versus Climate Change](https://www.amazon.com/dp/B07RBPNJH3/), by John Cook. Dr. Cook is the founder of the influential website [SkepticalScience](https://skepticalscience.com/).
+Several years ago, I sent a copy of Jeffrey Bennett's book, [A Global Warming Primer](https://www.amazon.com/Global-Warming-Primer-Answering-Consequences/dp/1937548783): Answering Your Questions about the Science, the Consequences, and the Solutions, to the EPA administrator, Scott Pruitt. The current EPA administrator, [Andrew Wheeler](https://en.wikipedia.org/wiki/Andrew_R._Wheeler), is not as obvious a climate denialist as Mr. Pruitt, but at best he downplays the IPCC report and the importance of global warming, and I think he would probably profit from a close reading of the new book [Cranky Uncle vs. Climate Change](https://www.amazon.com/dp/B07RBPNJH3/), by John Cook. Dr. Cook is the founder of the influential website [SkepticalScience](https://skepticalscience.com/).
 
 Dr. Cook, a psychologist, focuses on countering misinformation (or, as I would insist, *disinformation*) about climate change, according to his Amazon biography. He is a research assistant professor at George Mason University and also an excellent artist. To give a feel for the book, I will reproduce one page:
 
