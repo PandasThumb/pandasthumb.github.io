@@ -12,7 +12,7 @@ Unfortunately, Rev. Prather bases at least some of his understanding on the book
 
 I have had the misfortune to have read two books by Gerald Schroeder: the aforementioned *Genesis and the Big Bang*, and a later book, *[The Science of God](https://www.amazon.com/dp/B002BOQMAK): The Convergence of Scientific and Biblical Wisdom*, and I also cannot find my copies. I understood them in detail.
 
-<--!more-->
+<!--more-->
 
 Let me make two observations: First, Dr. Schroeder is not "a renowned Israeli physicist." A search of Google Scholar shows a measurable number of papers, largely concerning aquaculture, and (I think) nothing more recent than 1989. Earlier papers, from the 60's, have to do with radon, radiation, and neutron-activation analysis, and are possibly related to his thesis work at MIT. His citation index is fairly high, presumably because of his popular books. I did not look exhaustively, but none of the publications I discovered had a byline at the Weizmann Institute of Science. When he wrote his aquaculture papers, he worked at places with names like Fish and Aquaculture Research Station. I have a clear memory of someone, years ago, trying to find out whether Dr. Schroeder had ever been on the faculty at Weizmann and coming up empty-handed. He is, however, an Orthodox Jew.
 
