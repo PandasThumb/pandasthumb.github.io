@@ -63,18 +63,18 @@ body > div.page-fill {
 
 body > div.page-fill div {
 	position: absolute;
-	background: #0F5F2E;
+	background: #7676A3;
 	width: 100%;
 	height: 100vh;
 	z-index: -1;
 }
 
 body > div.grid-fill > div.grid {
-	background: #0F5F2E;
+	background: #7676A3;
 }
 
 body > footer > div.grid {
-  background: #0F5F2E;
+  background: #7676A3;
 }
 
 body > footer {
