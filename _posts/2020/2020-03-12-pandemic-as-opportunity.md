@@ -1,6 +1,6 @@
 ---
 title: 'Pandemic as opportunity'
-date: '2019-03-12 12:00:00 -06:00'
+date: '2019-03-12 12:35:00 -06:00'
 author: Matt Young
 ---
 <figure>
