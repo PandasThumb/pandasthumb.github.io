@@ -4,6 +4,12 @@ date: '2020-03-12 01:06:00 -06:00'
 author: Matt Young
 ---
 
+<figure>
+<img src="/uploads/2020/Coronavirus_CDC_600_2.jpg" alt="Coronavirus"/>
+<figcaption><small>Credit: Public Health Image Library.</small>
+</figcaption>
+</figure>
+
 Andrew Fabich thinks that the "[coronavirus outbreak is possibly the greatest outreach opportunity for the church worldwide](https://answersingenesis.org/culture/coronavirus/)" (as quoted approvingly in the Answers in Genesis website). Dr. [Fabich](https://answersingenesis.org/bios/andrew-fabich/), a microbiologist at [Truett McConnell University](https://truett.edu/), advises that "[t]he church needs to respond to the current situation sensibly and centered around the gospel. Here are some things we should be doing during this time of worldwide panic." He lists three specific items:
 <!--more-->
 ><ol><li>Put together a medical mission team in your church for a local response …. <i>The beauty of such a team is that infectious disease outbreaks happen regularly</i> [italics mine]. Having something in place will mobilize the church moving forward.</li>
