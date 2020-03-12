@@ -3,11 +3,6 @@ title: 'Pandemic as opportunity'
 date: '2020-03-12 01:06:00 -06:00'
 author: Matt Young
 ---
-<figure>
-<img src="/uploads/2020/Coronavirus_CDC_600_2.jpg/" alt="Coronavirus"/>
-<figcaption><small>Credit: Public Health Image Library.</small>
-</figcaption>
-</figure>
 
 Andrew Fabich thinks that the "[coronavirus outbreak is possibly the greatest outreach opportunity for the church worldwide](https://answersingenesis.org/culture/coronavirus/)." Dr. [Fabich](https://answersingenesis.org/bios/andrew-fabich/), a microbiologist at [Truett McConnell University](https://truett.edu/), advises that "[t]he church needs to respond to the current situation sensibly and centered around the gospel. Here are some things we should be doing during this time of worldwide panic." He lists three specific items:
 <!--more-->
