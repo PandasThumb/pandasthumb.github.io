@@ -17,9 +17,9 @@ Mr. Ham’s complaints about the film “We Believe in Dinosaurs” are projecti
 
 Ham also complains about the use of dinosaurs in the film yet has ample space in his so-called museum depicting dinosaurs and promoting the insane ideas that they lived with people and that some of them breathed fire. Amusingly, the fire-breathing part isn’t mentioned in the wooden Ark-shaped building at his amusement park. Noah must not have had access to asbestos. Moreover, Ham has been referring to dinosaurs as “missionary lizards” during his preaching and fund raising for at least three decades.
 
-<!--more-->
-
 Although the rank pseudoscience, pseudohistory and absolute nonsense promoted by Ham and his fake-science organizations are what motivate me to complain, I’m astounded by the brazen hustles that have been used to milk city, county, and state government out of money. This money whether it be rebates of sales tax, or the gratis things received by the Ark and mentioned below, ultimately are taken away from taxpayers.
+
+<!--more-->
 
 Ham says the documentary “focused on one small town [Williamstown] that has no major hotels or restaurants and whose struggling downtown is not convenient to interstate drivers.”
 
