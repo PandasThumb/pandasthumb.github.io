@@ -13,7 +13,7 @@ author: Dan Phelps
 <i>[Reprinted](https://www.kentucky.com/opinion/op-ed/article241065276.html) from the Lexington Herald-Leader with permission of the author. Matt Young will be the principal moderator of the comment thread. </i>
 
 I read Ken Ham’s February 28 op-ed “[Don’t believe ‘agenda-driven propaganda’ film about Ark Park](https://www.kentucky.com/opinion/op-ed/article240622332.html)” with much amusement and more than a bit of disgust.
-Mr. Ham’s complaints about the film “We Believe in Dinosaurs” are projections of his own behavior onto the film makers. He complains of bias and propaganda, which he is a master at, and misrepresentations and errors, without being able to provide a specific example of anything factually wrong. In fact, the makers of the film were careful to let everyone speak for themselves with very little commentary. This is clear to anyone who has actually seen the film.
+Mr. Ham’s complaints about the film “[We Believe in Dinosaurs](https://www.webelieveindinosaurs.net/)” are projections of his own behavior onto the film makers. He complains of bias and propaganda, which he is a master at, and misrepresentations and errors, without being able to provide a specific example of anything factually wrong. In fact, the makers of the film were careful to let everyone speak for themselves with very little commentary. This is clear to anyone who has actually seen the film.
 
 Ham also complains about the use of dinosaurs in the film yet has ample space in his so-called museum depicting dinosaurs and promoting the insane ideas that they lived with people and that some of them breathed fire. Amusingly, the fire-breathing part isn’t mentioned in the wooden Ark-shaped building at his amusement park. Noah must not have had access to asbestos. Moreover, Ham has been referring to dinosaurs as “missionary lizards” during his preaching and fund raising for at least three decades.
 
@@ -29,4 +29,4 @@ In August 2011, I attended a “[Listening Session](https://pandasthumb.org/arch
 
 Mr. Ham’s attitude towards Williamstown after they bent over backward and forward for him on repeated occasions is nothing less than despicable.
 
-<i>Dan Phelps, President, Kentucky Paleontological Society; Geology and Paleontology Instructor, Jefferson Community and Technical College, Louisville, Kentucky; also a major participant in the film [We Believe in Dinosaurs](https://www.webelieveindinosaurs.net/). He can be reached at edrioasteroid@msn.com.</i>
+<i>Dan Phelps, President, Kentucky Paleontological Society; Geology and Paleontology Instructor, Jefferson Community and Technical College, Louisville, Kentucky; also a major participant in the film "We Believe in Dinosaurs". He can be reached at edrioasteroid@msn.com.</i>
