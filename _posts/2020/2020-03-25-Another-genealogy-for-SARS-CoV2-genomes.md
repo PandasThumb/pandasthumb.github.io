@@ -17,7 +17,7 @@ what they are doing.  I would expect both trees to show quite compatible structu
 the same genomes as they were produced at different times, so we have to look at the branches connecting the genomes that they have
 in common).
 
-Rambaut's twitter feed and article are include resources on phylogeography -- the geographic distribution of the genealogical tree.
+Rambaut's twitter feed and article also include resources on phylogeography -- the geographic distribution of the genealogical tree.
 They both try to estimate when the epidemic started.  I think that Andrew's tree estimates the time of the first fork in the tree,
 while Trevor tries to estimate when the first genome entered humans.  On a quick read these come to quite consistent results, the former  
 a little later than the latter.  If
