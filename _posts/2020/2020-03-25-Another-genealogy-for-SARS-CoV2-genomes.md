@@ -23,10 +23,10 @@ while Trevor tries to estimate when the first genome entered humans.  On a quick
 a little later than the latter.  If
 you want to explore their findings further look at their Twitter feeds, which can be found here: 
 <ul>
-<li> <a href="https://twitter.com/trvrb"><strong>Trevor Bedord's Twitter feed</strong></a>
-<li> <a href="https://twitter.com/arambaut"><strong>Andrew Rambaut's Twitter feed</strong></a>
+  <li> <a href="https://twitter.com/trvrb"><strong>Trevor Bedord's Twitter feed</strong></a></li>
+  <li> <a href="https://twitter.com/arambaut"><strong>Andrew Rambaut's Twitter feed</strong></a></li>
 </ul>
-As a bonus I include a link to my colleague <a href="https://twitter.com/CT_Bergstrom"><strong>Carl Bergstrom's Twitter feed</strong></strong></a> -- he was, I think,
+As a bonus I include a link to my colleague <a href="https://twitter.com/CT_Bergstrom"><strong>Carl Bergstrom's Twitter feed</strong></a> -- he was, I think,
 the original popularizer of "Flatten The Curve", and his figure on that was retweeted by President Obama.  He is not only an expert
 in mathematical modeling of information transmission in biology and on the internet, but has been working seemingly tirelessly to debunk wrong arguments online 
 that seek to minimize our response to the pandemic.
