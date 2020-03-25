@@ -11,7 +11,7 @@ of one of them, inferred 3 weeks ago by Andrew Rambaut, a major researcher in mo
 </figure>
 (This is a screenshot -- the Rambaut article with its interactive figures <a href="http://virological.org/t/phylodynamic-analysis-176-genomes-6-mar-2020/356"><strong>can be found here</strong></a>).
 <!--more-->
-We've seen here in <a href=""><strong>my earlier post</strong></a> a tree of genomes produced by Trevor Bedford of the Fred Hutchinson Cancer Research Center
+We've seen here in <a href="https://pandasthumb.org/archives/2020/03/Evolutionary-biology-in-real-time.html"><strong>my earlier post</strong></a> a tree of genomes produced by Trevor Bedford of the Fred Hutchinson Cancer Research Center
 here in Seattle.  I haven't compared them yet, so maybe you should do that.  I know both these guys and they both really know
 what they are doing.  I would expect both trees to show quite compatible structure (keep in mind that they will not contain exactly
 the same genomes as they were produced at different times, so we have to look at the branches connecting the genomes that they have
