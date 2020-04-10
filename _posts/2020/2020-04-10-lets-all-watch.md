@@ -5,8 +5,8 @@ author: Matt Young
 ---
 
 <figure>
-<img src="/uploads/2020/DSC03293_Deanna_600.jpg" alt="Masked woman"/>
-<figcaption>Who is that masked woman? It is the author's wife wearing a home-made mask with Cottonwood Marsh in the background. We did not wear masks during our 1-hour or so walk around Walden Ponds in Boulder, but people were extremely careful to stay 2 or more meters apart.
+<img src="/uploads/2020/" alt="Poster"/>
+<figcaption>
 </figcaption>
 </figure>
 
