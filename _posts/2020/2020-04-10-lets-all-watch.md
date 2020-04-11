@@ -1,6 +1,6 @@
 ---
 title: 'Let&apos;s all watch We Believe in Dinosaurs together'
-date: '2020-04-11 09:30:00 -07:00'
+date: '2020-04-11 09:40:00 -06:00'
 author: Matt Young
 ---
 
