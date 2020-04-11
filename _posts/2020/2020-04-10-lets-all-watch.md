@@ -1,12 +1,12 @@
 ---
-title: 'Let&#39;s all watch We Believe in Dinosaurs together'
-date: '2020-05-10 16:00:00 -07:00'
+title: 'Let&apos;s all watch We Believe in Dinosaurs together'
+date: '2020-04-11 09:30:00 -07:00'
 author: Matt Young
 ---
 
 <figure>
-<img src="/uploads/2020/" alt="Poster"/>
-<figcaption>
+<img src="/uploads/2020/We_Believe_Poster.jpg" alt="Poster"/>
+<figcaption>Poster for the film, "We Believe in Dinosaurs."
 </figcaption>
 </figure>
 
@@ -21,4 +21,4 @@ Let us all watch [We Believe in Dinosaurs](https://en.wikipedia.org/wiki/We_Beli
 
 >[Here](https://www.facebook.com/events/150844539582489/) is a Facebook event to share widely.
 
-To participate in the event, [Click this link](https://scistarter.org/viewing-party-we-believe-in-dinosaurs), which is provided by  SciStarter.org, the group that puts on Citizen Science Month. They will ask you to register with Zoom, whereupon you will receive a link to the conference.
+To participate in the event, [Click this link](https://scistarter.org/viewing-party-we-believe-in-dinosaurs), which is provided by  SciStarter.org, the group that puts on [Citizen Science Month](https://scistarter.org/citizensciencemonth). They will ask you to register with Zoom, whereupon you will receive a link to the conference. The procedure is to get the film on iTunes, Amazon, Google Play, or whatever, and *hit PLAY at 7&nbsp;p.m. CDT*.  Filmmakers Clayton Brown, Amy Ellison, and Monica Long Ross, as well as the two of the principals, David MacMillan and Dan Phelps, will provide exclusive commentary and insights during the run of the film and also respond to your questions live in Zoom. 
