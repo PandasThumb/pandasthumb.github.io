@@ -16,7 +16,7 @@ This Tweet by  was posted on April 25. He is becoming more strident in complaini
 
 [Mr. Phelps's suspicions had been aroused when on April 24 he received the following e-mail from Mr. Ham.] They are really wanting to reopen and it just isn’t possible. They are bound to start screaming loudly about “persecution” soon. 
 
-<blockquote><div align="center"><strong>Help us plan our reopening!</strong>
+<blockquote><div align="center"><strong>Help us plan our reopening!</strong><br/>
 
 As you may be aware, both the Ark Encounter and Creation Museum have been closed since March 17 due to the public health efforts to contain COVID-19 (coronavirus). We have already started planning for when we will be able to reopen. Even though we don’t know yet what the government and health agency requirements might be for us when we reopen, we would greatly value your input through a short survey as we plan for many possible modifications in our operations. </div></blockquote>
 
