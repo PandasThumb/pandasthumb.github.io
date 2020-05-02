@@ -12,7 +12,7 @@ author: Matt Young and Joe Felsenstein
 
 As [promised](https://pandasthumb.org/archives/2020/04/lets-all-watch.html), we watched [We Believe in Dinosaurs](https://en.wikipedia.org/wiki/We_Believe_in_Dinosaurs) together, along with Clayton Brown, Monica Long Ross, and Amy Ellison, the directors and producers; [David MacMillan and Dan Phelps](https://pandasthumb.org/archives/2016/12/we-believe-in-dinosaurs.html), two of the principals in the movie; and about 40 of our closest friends. Specifically, we all rented the film and simultaneously joined a Zoom meeting. We pressed Play at the same time and listened as Mr. Brown et al. discussed what we were seeing on the movie screen. The rest of us lesser mortals typed our questions or comments, and they were answered in more or less real time or after the movie was over. 
 
-You may see a recording of the watch party [here](https://www.facebook.com/WeBelieveInDinosaurs/videos/we-believe-in-dinosaurs-live-watch-party/2651123065125007/). Note that we watched the full-length version; the [PBS version](https://www.pbs.org/independentlens/films/we-believe-in-dinosaurs/) is 15&nbsp;min shorter, so will not synch with the commentary.
+You may see a recording of the watch party <strong>[here](https://www.facebook.com/WeBelieveInDinosaurs/videos/we-believe-in-dinosaurs-live-watch-party/2651123065125007/)</strong>. Note that we watched the full-length version; the [PBS version](https://www.pbs.org/independentlens/films/we-believe-in-dinosaurs/) is 15&nbsp;min shorter, so will not synch with the commentary.
 
 Joe Felsenstein says,
 
