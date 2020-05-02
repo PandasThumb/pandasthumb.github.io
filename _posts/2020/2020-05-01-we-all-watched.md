@@ -30,8 +30,8 @@ Incidentally, Dan Phelps reminds us,
 
 >The film initially had 7.8 out of 10 stars on [IMDB](https://www.imdb.com/title/tt6316506/). Eric Hovind [asked his followers to review it](https://creationtoday.org/eric-hovind-on-pbs-hey-mom-look-im-on-tv/), saying,
 
->>After you watch the film, [sic] (embedded below) you may want to consider a review on Amazon, Rotten Tomatoes and IMDB to let others know what they are going to encounter
+>>After you watch the film, [sic] (embedded below) you may want to consider a review on Amazon, Rotten Tomatoes and IMDB to let others know what they are going to encounter.
 
->and it immediately dropped to 5.8. We would like to encourage people who have actually seen the film to rate it at the IMDB site; it is now at 6.3 stars.
+>The rating was stable at 7.8 stars for a couple of months with no new reviews, then plunged to 5.8 right after Hovind posted his piece. We would like to encourage people who have actually seen the film to rate it at the IMDB site; it is now at 6.3 stars.
 
 Mr. Phelps has to some extent got his wish, though: Of the 15 reviews on IMDB, 12 award it 9 or 10 stars, and 2 award it 8 stars. 
