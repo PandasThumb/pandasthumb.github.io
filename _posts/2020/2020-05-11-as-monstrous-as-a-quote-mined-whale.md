@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "As Monstrous as a Quote-Mined Whale"
 date: '2020-05-11 15:57:00'
 author: John Harshman
