@@ -15,7 +15,7 @@ The commonly quoted bit (page 184; all quotes from the 1st edition of the Origin
 The video proceeds to laugh at Darwin for suggesting that whales evolved from bears and shows evolutionary biologists laughing at Darwin for the same thing. (It then proceeds to laugh at the evolutionary biologists, but that’s another subject.)
 
 But if you read carefully, Darwin wasn’t suggesting a line of descent at all, merely a scenario for possible future adaptation. He’s not saying that bears turned into whales. He’s saying that a population of bears, in a particular environment with a particular food source, might end up converging on a whale-like phenotype. Not clear from the quote? Then consider the context. 
-
+<!--more-->
 Here’s the beginning of the paragraph, setting up this and other examples and explaining the point (page 183):
 
 <blockquote>I will now give two or three instances of diversified and of changed habits in the individuals of the same species. When either case occurs, it would be easy for natural selection to fit the animal, by some modification of its structure, for its changed habits, or exclusively for one of its several different habits. But it is difficult to tell, and immaterial for us, whether habits generally change first and structure afterwards; or whether slight modifications of structure lead to changed habits; both probably often change almost simultaneously.</blockquote>
