@@ -1,7 +1,7 @@
 ---
-title: 'Discussion: Is William Dembski's CSI argument mistaken or merely useless?'
+title: "Discussion: Is William Dembski's CSI argument mistaken or merely useless?"
 date: '2020-05-16 19:00:00 -08:00'
-author: Joe Felsenstein
+author: 'Joe Felsenstein'
 ---
 
 At Josh Swamidass's site Peaceful Science, <a href="https://discourse.peacefulscience.org/t/covid-19-genome-and-design-detection/10675?u=joe_felsenstein">there has arisen</a> some technical discussion of the detection of
