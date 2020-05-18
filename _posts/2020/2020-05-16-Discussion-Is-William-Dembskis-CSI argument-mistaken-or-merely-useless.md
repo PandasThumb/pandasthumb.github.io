@@ -26,6 +26,7 @@ Here are some resources:
    * <a href="https://pandasthumb.org/archives/2013/04/does-csi-enable.html">My post at PT in 2013</a> which explains why the conditions Dembski put on his use of the SC criterion in his 2005 article made the SC criterion a waste of time -- to use it one must first answer the very question that SC is supposed to enable you to answer.
    * Dan Eastwood;'s <a href="https://dreadtomatoaddiction.blogspot.com/2016/02/deconstructing-dembski-2005.html">2016 post at his own blog</a> explaining the problems with Dembski's Specified Complexity quantity.
    * Dan Eastwood's comments (for example, <a href="https://discourse.peacefulscience.org/t/covid-19-genome-and-design-detection/10675/22">here</a> and <a href="https://discourse.peacefulscience.org/t/covid-19-genome-and-design-detection/10675/24">here</a>) and my comments (<a href="https://discourse.peacefulscience.org/t/covid-19-genome-and-design-detection/10675/25">here</a> and <a href="https://discourse.peacefulscience.org/t/covid-19-genome-and-design-detection/10675/26">here</a>), and others by both of us in that thread.
+   * My <a href="https://pandasthumb.org/archives/2019/12/Is-Algorithmic-Specified-Complexity-Useless-for-Analyzing-Evolution.html">post here at PT</a> last year as to why the Algorithmic Specified Complexity (ASC) measure is irrelevant to any argument about barriers to adaptation in evolution.
 
 
 Let me start off the PT discussion by offering some possibly-controversial opinions:
