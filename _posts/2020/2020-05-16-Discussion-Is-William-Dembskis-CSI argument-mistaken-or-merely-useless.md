@@ -1,6 +1,6 @@
 ---
 title: 'Discussion: Is William Dembski's CSI argument mistaken or merely useless?'
-date: '2020-05-06 19:00:00 -08:00'
+date: '2020-05-16 19:00:00 -08:00'
 author: Joe Felsenstein
 ---
 
