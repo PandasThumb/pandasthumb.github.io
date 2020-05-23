@@ -10,7 +10,7 @@ Photography contest, **Honorable Mention**.
 
 <figure>
 <img src="/uploads/2020/Burnett.Heron.Egret.jpg" alt="Heron and egret"/>
-<figcaption>A great blue heron (<a href="https://en.wikipedia.org/wiki/Great_blue_heron">Ardea herodias</a>) and a great egret (<a href="https://en.wikipedia.org/wiki/Great_egret">Ardea alba</a>)
+<figcaption>A great blue heron (<i><a href="https://en.wikipedia.org/wiki/Great_blue_heron">Ardea herodias</a></i>) and a great egret (<i><a href="https://en.wikipedia.org/wiki/Great_egret">Ardea alba</a></i>)
 studiously ignoring each other. San Francisco Bay, off Crown Beach, Alameda, California.
 </figcaption>
 </figure>
