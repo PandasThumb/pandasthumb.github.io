@@ -1,5 +1,5 @@
 ---
-title: 'Ardea herodia &ndash; Ardea alba'
+title: 'Ardea herodias &ndash; Ardea alba'
 date: '2020-05-25 12:00:00 -06:00'
 author: Matt Young
 ---
