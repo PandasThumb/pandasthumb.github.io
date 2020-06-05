@@ -9,12 +9,13 @@ author: Faizal Ali
 </figure>
 
 Have a look at this article from the Khan Academy, in particular the section entitled Natural Selection:
-
-<a href="https://www.khanacademy.org/science/biology/her/evolution-and-natural-selection/a/darwin-evolution-natural-selection">Darwin, evolution, &amp; natural selection</a>
+<P>
+<a href="https://www.khanacademy.org/science/biology/her/evolution-and-natural-selection/a/darwin-evolution-natural-selection">Darwin, evolution, &amp; natural selection</a>.
+<P>
 
 What do you think?  Is it a reasonably accurate and informative, if perhaps a bit bland and prosaic, summary of some of the key elements of the theory of evolution, suitable for the average high school student?
 
-What if someone was to tell you that it is, instead, a “mass-mind tool of financial interests”, designed to indoctrinate unwitting students into accepting an outdated concept that is no longer accepted by modern science?  That is the view of Suzan Mazur, who has written a scathing response to this seemingly benign article on [her blog](https://oscillations.net/2020/05/23/sal-khan-end-mass-mind-teaching-of-darwinian-natural-selection/).  
+What if someone was to tell you that it is, instead, a “mass-mind tool of financial interests”, designed to indoctrinate unwitting students into accepting an outdated concept that is no longer accepted by modern science?  That is the view of Suzan Mazur, who has written a scathing response to this seemingly benign article on  <a href="https://oscillations.net/2020/05/23/sal-khan-end-mass-mind-teaching-of-darwinian-natural-selection/">her blog</a>.  
 
 <!--more-->
 Mazur, for those not familiar with her (which I suspect will be most of you) is a freelance writer who mostly writes about science.  In the [opinions of some,](https://sandwalk.blogspot.com/2016/12/suzan-mazur-doesnt-like-carl-zimmer.html0) however, [she is not very good at this](https://freethoughtblogs.com/pharyngula/2016/12/06/susan-mazur-vs-carl-zimmer-really/).  Her main stock in trade is arguing that the theory of evolution is a failed idea that needs to be replaced by a new scientific paradigm.  As a result of this, she has a tendency to pump up and proselytize for the claims of creationists and other assorted and sundry crackpots.  Though, as we shall see, there are times where she will also misunderstand and/or misrepresent the views of legitimately informed scientists.
