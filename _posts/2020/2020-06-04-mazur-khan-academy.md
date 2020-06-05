@@ -3,7 +3,7 @@ title: Is Teaching Natural Selection a "Mass-Mind Tool of Financial Interests"?
 date: 2020-06-05
 author: Faizal Ali
 ---
-
+<P>
 <figure>
 <img src="/uploads/2020/butterflies.png"/>
 </figure>
