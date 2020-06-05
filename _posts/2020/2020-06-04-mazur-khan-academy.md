@@ -10,7 +10,7 @@ author: Faizal Ali
 <P>
 Have a look at this article from the Khan Academy, in particular the section entitled Natural Selection:
 <P>
-<a href="https://www.khanacademy.org/science/biology/her/evolution-and-natural-selection/a/darwin-evolution-natural-selection">Darwin, evolution, &amp; natural selection</a>.
+<<strong>a href="https://www.khanacademy.org/science/biology/her/evolution-and-natural-selection/a/darwin-evolution-natural-selection">Darwin, evolution, &amp; natural selection</a></strong>.
 <P>
 
 What do you think?  Is it a reasonably accurate and informative, if perhaps a bit bland and prosaic, summary of some of the key elements of the theory of evolution, suitable for the average high school student?
