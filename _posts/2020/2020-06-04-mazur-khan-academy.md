@@ -6,6 +6,7 @@ author: Faizal Ali
 
 <figure>
 <img src="/uploads/2020/butterflies.png"/>
+<figcaption><small>Picture credit, <a href="https://www.khanacademy.org/science/biology/her/evolution-and-natural-selection/a/darwin-evolution-natural-selection">Khan Academy</a>.</small></figcaption>
 </figure>
 
 Have a look at this article from the Khan Academy, in particular the section entitled Natural Selection:
