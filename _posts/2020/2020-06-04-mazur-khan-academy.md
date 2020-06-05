@@ -3,8 +3,9 @@ title: Is Teaching Natural Selection a "Mass-Mind Tool of Financial Interests"?
 date: 2020-06-05
 author: Faizal Ali
 ---
+
 <figure>
-<img src="/uploads/2020/butterflies.png" />
+<img src="/uploads/2020/butterflies.png"/>
 </figure>
 
 Have a look at this article from the Khan Academy, in particular the section entitled Natural Selection:
