@@ -43,6 +43,5 @@ The rules of the contest are simple:
 >The decision of the judges is irrevocable. The judges remain irrepressibly and irreducibly irascible, irreverent, and irredeemable, irregardless and irrespective, but not, we hope, irrational or irritable. We hope for a veritable irruption of entries this year.
 
 >Even though we are getting fairly good at running contests, we reserve the right to change any of the rules, or add or subtract rules at any time at our discretion.
-</blockquote>
 
 We will choose a number of finalists and open voting for the winner at 12:00 p.m., Monday, June 22. Voting will end Monday, June 29, <i>at 9:00 a.m.</i>, and the winner will be announced at 12:00. Note, only 1 week for voting this year.
