@@ -22,27 +22,27 @@ If we get enough entries, consistently with Rules 11 and 12, we may add categori
 
 The rules of the contest are simple:
 
-<blockquote>We will consider any photograph that displays scientific interest – biological, paleontological, geological, or astronomical, for example.
+>We will consider any photograph that displays scientific interest – biological, paleontological, geological, or astronomical, for example.
 
-Submit photographs in JPEG format.
+>Submit photographs in JPEG format.
 
-Reduce photographs to an information content of 600 pixels horizontally. If creationists require a definition of information, they may apply in writing to the management.
+>Reduce photographs to an information content of 600 pixels horizontally. If creationists require a definition of information, they may apply in writing to the management.
 
-Photographs may be enhanced but may not be montages. High dynamic range photographs are, however, accepted. Submit a maximum of 3 photographs (or 5 photographs per family) to thousandwords@pandasthumb.org.
+>Photographs may be enhanced but may not be montages. High dynamic range photographs are, however, accepted. Submit a maximum of 3 photographs (or 5 photographs per family) to thousandwords@pandasthumb.org.
 
-Submit the photographs as attachments to an e-mail (not embedded in the body of the e-mail). The subject line to the e-mail must have the form YourLastName_PhotographyContest. The filenames for the photographs must have the form YourLastName_Descriptor as, for example, Young_Oxytropis_sericea or Young_Table_Mountain, as appropriate.
+>Submit the photographs as attachments to an e-mail (not embedded in the body of the e-mail). The subject line to the e-mail must have the form YourLastName_PhotographyContest. The filenames for the photographs must have the form YourLastName_Descriptor as, for example, Young_Oxytropis_sericea or Young_Table_Mountain, as appropriate.
 
-In your e-mail, identify the subject of the photograph: common and biological name, mineral type, or geological formation, for example. Provide a link that will allow a reader to learn more about the subject. You may add descriptive text in the body of the e-mail if you like.
+>In your e-mail, identify the subject of the photograph: common and biological name, mineral type, or geological formation, for example. Provide a link that will allow a reader to learn more about the subject. You may add descriptive text in the body of the e-mail if you like.
 
-Depending on the number of photographs submitted, we may post the best submissions and ask our readers to vote for the best photograph. Likewise, we may establish several categories with separate entries and separate ballots. In particular, students 16 and under should so identify themselves; if we receive enough entries, we will establish a student category.
+>Depending on the number of photographs submitted, we may post the best submissions and ask our readers to vote for the best photograph. Likewise, we may establish several categories with separate entries and separate ballots. In particular, students 16 and under should so identify themselves; if we receive enough entries, we will establish a student category.
 
-By submitting a photograph, you stipulate that you are the owner of the copyright and grant The Panda’s Thumb a nonexclusive license to publish the photograph on its blog. The photograph will be subject to a Creative Commons Attribution-Noncommercial-No Derivatives license.
+>By submitting a photograph, you stipulate that you are the owner of the copyright and grant The Panda’s Thumb a nonexclusive license to publish the photograph on its blog. The photograph will be subject to a Creative Commons Attribution-Noncommercial-No Derivatives license.
 
-Regular contributors to The Panda’s Thumb are not eligible to enter the contest.
+>Regular contributors to The Panda’s Thumb are not eligible to enter the contest.
 
-The decision of the judges is irrevocable. The judges remain irrepressibly and irreducibly irascible, irreverent, and irredeemable, irregardless and irrespective, but not, we hope, irrational or irritable. We hope for a veritable irruption of entries this year.
+>The decision of the judges is irrevocable. The judges remain irrepressibly and irreducibly irascible, irreverent, and irredeemable, irregardless and irrespective, but not, we hope, irrational or irritable. We hope for a veritable irruption of entries this year.
 
-Even though we are getting fairly good at running contests, we reserve the right to change any of the rules, or add or subtract rules at any time at our discretion.
+>Even though we are getting fairly good at running contests, we reserve the right to change any of the rules, or add or subtract rules at any time at our discretion.
 </blockquote>
 
 We will choose a number of finalists and open voting for the winner at 12:00 p.m., Monday, June 22. Voting will end Monday, June 29, <i>at 9:00 a.m.</i>, and the winner will be announced at 12:00. Note, only 1 week for voting this year.
