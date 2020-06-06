@@ -23,11 +23,11 @@ This, after the mandatory attack on evolution, quoting Stephen Jay Gould out of 
 
 Mr. Ham's bottom line or lines seem to be the quotation above and the following:
 
->1. There is no biblical justification for claiming that people from different so-called races (best described as people groups) should not marry.
+<blockquote>1. There is no biblical justification for claiming that people from different so-called races (best described as people groups) should not marry.
 
->2. The biblical basis for marriage makes it clear that a Christian should marry only a Christian. 
+2. The biblical basis for marriage makes it clear that a Christian should marry only a Christian. 
 >When Christians legalistically impose nonbiblical ideas, such as no interracial marriage, onto their culture, they are helping to perpetuate prejudices that have often arisen from evolutionary influences. If we are really honest, in countries like America, the main reason for Christians being against interracial marriage is, in most instances, really because of skin color.
 
->The church could greatly relieve the tensions over racism (particularly in countries like America), if only the leaders would teach biblical truths about our shared ancestry ....
+The church could greatly relieve the tensions over racism (particularly in countries like America), if only the leaders would teach biblical truths about our shared ancestry ....</blockquote>
 
 Mr. Ham is not free of prejudice against non-Christians. Nevertheless, I have to give him a lot of credit for producing this document, because I have a suspicion that a great many of his right-wing, evangelical Christian followers may be inherently racists (birthers, for example), and Mr. Ham has done us all a great service by opposing racism in terms that they can perhaps appreciate.
