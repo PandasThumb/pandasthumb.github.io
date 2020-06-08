@@ -8,3 +8,5 @@ author: Matt Young
 <figcaption><i><a href="https://en.wikipedia.org/wiki/Muskrat">Ondatra zibethicus</a></i> &ndash; muskrat, munching what I think is a broad-leaved cattail, Elmer's Two-Mile Creek, Boulder, Colorado, May, 2020. 
 </figcaption>
 </figure>
+<br/>
+<strong>... And please don't forget the photography contest!</strong>
