@@ -6,7 +6,7 @@ author: Matt Young
 Photograph by <strong>Tom Gillespie</strong>.<br/>
 Photography Contest, <strong>Honorable Mention</strong>.<br/>
 <figure>
-<img src="/uploads/2019/Gillespie.Luna_Moth.jpg" alt="Luna moth"/>
+<img src="{{ site.baseurl }}/uploads/2019/Gillespie.Luna_Moth.jpg" alt="Luna moth"/>
 <figcaption>
 <br/><a href="http://www.butterfliesandmoths.org/species/Actias-luna">Actias luna</a>, luna moth, Duluth, Georgia. Mr. Gillespie writes, "Shot from underneath, as it was resting upside-down in my azalea bush." 
 </figcaption>

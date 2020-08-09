@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 7056
 basename: best_id_takedow
 ---
-<img src="/uploads/2014/behe-dunce.jpg" alt="behe-dunce.jpg" width="200" height="386" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />Michael Behe is very thrilled that a PNAS paper published this year "confirms a key inference I made in 2007 in The Edge of Evolution." The Discovery Institute is also thrilled, enough so to reprint Behe's [July 14, 2014 op-ed](http://www.evolutionnews.org/2014/07/a_key_inference087761.html) on ENV as this [year's #4 in the top-story countdown](http://www.evolutionnews.org/2014/12/a_key_inference_1092261.html).
+<img src="{{ site.baseurl }}/uploads/2014/behe-dunce.jpg" alt="behe-dunce.jpg" width="200" height="386" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />Michael Behe is very thrilled that a PNAS paper published this year "confirms a key inference I made in 2007 in The Edge of Evolution." The Discovery Institute is also thrilled, enough so to reprint Behe's [July 14, 2014 op-ed](http://www.evolutionnews.org/2014/07/a_key_inference087761.html) on ENV as this [year's #4 in the top-story countdown](http://www.evolutionnews.org/2014/12/a_key_inference_1092261.html).
 
 Says Behe, regarding what he describes as "the need for multiple, specific changes in a particular malarial protein (called PfCRT) for the development of resistance to chloroquine" : 
 

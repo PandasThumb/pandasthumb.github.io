@@ -25,7 +25,7 @@ After watching the video, I clicked the ["Learn more about The Watchmaker" butto
 > **We believe the \[Intelligent Design\] movement is helpful to the Biblical Creationism movement because it causes people to see the lunacy of the Theory of Evolution.**
 
 
-<img src="/uploads/2006/paley.jpg" alt="paley.jpg" width="267" height="420" />
+<img src="{{ site.baseurl }}/uploads/2006/paley.jpg" alt="paley.jpg" width="267" height="420" />
 
 By George - I think they got it!  (And from the way Dembski is pumping the video on his blog, one must assume he approves...)
 

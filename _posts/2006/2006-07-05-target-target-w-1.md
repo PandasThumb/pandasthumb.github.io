@@ -10,7 +10,7 @@ basename: target_target_w_1
 ---
 Genetic Algorithms are simplified simulations of evolution that often produce surprising and useful answers in their own right. Creationists and Intelligent Design proponents often criticize such algorithms for not generating true novelty, and claim that these mathematical recipes always sneak the "answer" into the program via the algorithm's fitness testing functions.
 
-<img src="/uploads/2006/4steiner.gif" alt="4steiner.gif" width="281" height="154" style="float:right;" />
+<img src="{{ site.baseurl }}/uploads/2006/4steiner.gif" alt="4steiner.gif" width="281" height="154" style="float:right;" />
 
 There's a little problem with this claim, however.  While some Genetic Algorithms, such as Richard Dawkin's ["Weasel" simulation](http://en.wikipedia.org/wiki/Weasel_program), or the "Hello World" genetic algorithm discussed [a few days ago](/archives/2006/06/evolution-of-co-2.html) on the Thumb, indeed include a precise description of the intended "Target" during "fitness testing" on of the numerical organisms being bred by the programmer, such precise specifications are normally only used for _tutorial demonstrations_ rather than generation of _true novelty_.
 
@@ -76,7 +76,7 @@ For my investigation of Evolutionary Algorithms, I picked "Steiner's Problem" as
 
 Here is the Steiner Solution for a four-node system.  The four nodes are connected by five line segments, which meet at two "variable" nodes in the interior of the figure.  The 120-degree angles between segments are typical of Steiner networks.
 
-<img src="/uploads/2006/4steiner.gif" alt="4steiner.gif" width="281" height="154" />
+<img src="{{ site.baseurl }}/uploads/2006/4steiner.gif" alt="4steiner.gif" width="281" height="154" />
 
 I first became interested in Steiner networks because of their connection to minimal surfaces, and to physical analogs like soap films.  These are useful in some minimization problems because surface tension in the soap films acts to minimize the total area of film.  This property allows Steiner network problems to be solved directly with soap films.  First, two parallel clear plates are connected by posts which represent the nodes or "cities" of the problem.  Then, the assembly is dipped into a solution of soapy water, and then carefully withdrawn to produce the Steiner Solution (one hopes).
 
@@ -84,15 +84,15 @@ See R. Courant and H. Robbins, _What is Mathematics?_, Oxford University Press 1
 
 Here is a pair of plates set up to demonstrate the four-node system shown above with soap films.  The Steiner Solution appears in animation.
 
-<img src="/uploads/2006/4soap.gif" alt="4soap.gif" width="273" height="349" />
+<img src="{{ site.baseurl }}/uploads/2006/4soap.gif" alt="4soap.gif" width="273" height="349" />
 
 Because I wanted something a little more challenging than the simple four-node system, I chose five nodes arranged as shown (the Steiner Solution appears in animation).
 
-<img src="/uploads/2006/5steiner.gif" alt="5steiner.gif" width="358" height="233" />
+<img src="{{ site.baseurl }}/uploads/2006/5steiner.gif" alt="5steiner.gif" width="358" height="233" />
 
 Here is a soap-film realization of the five-node system.  Here, seven segments are joined with three variable nodes to make the compact network shown - the proper Steiner Solution for the 5-node system.  Again, the segments meet at 120-degree angles.
 
-<img src="/uploads/2006/5soap.gif" alt="5soap.gif" width="421" height="318" />
+<img src="{{ site.baseurl }}/uploads/2006/5soap.gif" alt="5soap.gif" width="421" height="318" />
 
 Besides being visually complex, Steiner Solutions are _irreducibly complex_ - if any segment is removed or re-routed, connectivity between nodes can disappear completely.  And Steiner Solutions are _Complex Specified Information_.  For the four and five-node systems shown, Steiner Solutions are "complex" because generation of a proper Steiner Solution by making random guesses has a very low probability of success.  And, they are "Specified" because there is but one proper Steiner Solution for each system.
 
@@ -100,7 +100,7 @@ Besides being visually complex, Steiner Solutions are _irreducibly complex_ - if
 
 I wanted my genetic algorithm to be able to develop structures like those shown here - not as complicated as real organisms, to be sure, but just complicated enough to be interesting.  I set up a structure with five fixed points representing the permanent nodes to be connected.  These are red in the diagram below.  I chose a maximum of four "variable" nodes, shown in green in the figure.  The "variable" nodes can have arbitrary locations within the overall problem space (1000 by 1000 units). The five fixed nodes sit comfortably inside the 1000-by-1000 region, ranging from 200 to 800 horizontally, and 300 to 733 vertically.
 
-<img src="/uploads/2006/5nodewpt.gif" alt="5nodewpt.gif" width="398" height="243" />
+<img src="{{ site.baseurl }}/uploads/2006/5nodewpt.gif" alt="5nodewpt.gif" width="398" height="243" />
 
 For the Genetic Algorithm approach I was developing, I wanted the competing digital "organisms" to be described by expressing strings of "DNA."  A string with 62 elements was established as the "DNA" template.  An element can be either a base 10 digit (0-9) or binary bit F(or 0, False) and T(or 1, True).  
 
@@ -127,13 +127,13 @@ Following the 26 (=2+24) digits specifying number of active nodes and locations 
 
 02420381349550575404627243**FFFFTFFFFTFTFFTFFFTFTFFFFFFTTTTFFFFF**
 
-<img src="/uploads/2006/nodemap.gif" alt="nodemap.gif" width="482" height="60" />
+<img src="{{ site.baseurl }}/uploads/2006/nodemap.gif" alt="nodemap.gif" width="482" height="60" />
 
 The complete "expression" of the digital organism 
 02420381349550575404627243FFFFTFFFFTFTFFTFFFTFTFFFFFFTTTTFFFFF
 is shown  below.  Because only two of the variable nodes are activated, nodes 8 and 9 (and any possible connections) are not actually "expressed." In the diagram, the fixed nodes (common to all organisms) are in black, the activated variable nodes in red, and inactive variable nodes and connections in green.  The organism's "fitness" is simply the sum of the lengths of the active (black) line segments.
 
-<img src="/uploads/2006/dnaexamp.gif" alt="dnaexamp.gif" width="325" height="301" />
+<img src="{{ site.baseurl }}/uploads/2006/dnaexamp.gif" alt="dnaexamp.gif" width="325" height="301" />
 
 In the Genetic Algorithm itself, the DNA strings for a population of around 2000 random solutions are tested, mutated, and bred over a few hundred generations.  Mutation is easily performed, and requires no knowledge of actual coordinates or connections.  If a mutation is to affect one of the first 26 digits of an organism's DNA, that digit will be replaced by a random digit from 0 to 9, ensuring the mutated DNA can still be "read."  (The first two digits are limited to just 00-04.) Likewise, mutations in the 36-bit connections map part of the DNA string will be replaced by a random new bit (T or F).  Sex is also easy to simulate: for two organisms to be mated, a crossover position is selected, and corresponding sections of DNA are exchanged to form two new organisms.  (So, if AB mates with CD, the offspring are AD and CB, with sections A and C having equal lengths, and likewise sections B and D.)  Both offspring inherit "genes" from both parents.  As is common in Genetic Algorithms, some "elite" members of the population are usually retained as-is (i.e. asexual reproduction instead of sexual reproduction).
 
@@ -143,7 +143,7 @@ All that remains is getting the whole thing started, and implementing a "Fitness
 
 The first generation, being generated randomly, is typically a sorry-looking bunch of recruits for Steiner Solution Candidates.  Three such initial solutions are shown below.  In this figure, the first and third "organisms" connect all the nodes, while the second has a fatal flaw: the top node is not connected to any other node.  I defined the "fitness" of the organism as simply as the net length of all activated segments, or 100,000 if any fixed node is unconnected.  It's important to note that the "fitness" thus defined does not depend on the exact number of active variable nodes, or the angles between connected segments, or upon anything other than the total length of active segments.  While both first and third solutions at least connect the fixed nodes, they are both far different than the proper Steiner Solution for the five-node system. The Fitness Test knows nothing of this solution, however; all it tells us is that the solution on the right is a little shorter, and therefore "fitter," than the solution on the left.  Because the middle solution misses a node, it is "unfit."
 
-<img src="/uploads/2006/gen-0.gif" alt="gen-0.gif" width="589" height="158" />
+<img src="{{ site.baseurl }}/uploads/2006/gen-0.gif" alt="gen-0.gif" width="589" height="158" />
 
 The genetic algorithm proceeds by simulating heredity, mutations, and selection.  Each population (of 2000 or so solutions) is graded, and those solutions that do better (shorter networks) are given a better shot at contributing to the next generation than ones that do worse.  During the process, occasional mutations, and sex (via crossovers) are employed in every generation.
 
@@ -151,7 +151,7 @@ The genetic algorithm proceeds by simulating heredity, mutations, and selection.
 
 After 100-200 generations, the algorithm inevitably converges on answers that represent very compact, efficient networks.  By "converge," I mean that the most fit members of the population represent the same "adapted" configuration.  After hundreds of simulations, I found that there were only a dozen or so viable configurations that were evolved.  Eliminating left-right symmetrical solutions, the six most common adaptations appear below. The structure on top, and its left-right mirror image, occurs most frequently (62 % of the runs), and others less often (see figure).  About one out of 200 runs, or 0.5% of the time, the solution happens to be the elegant, symmetrical shape shown on the bottom of the figure.  This happens to be the actual "Steiner's Solution" for this five-node network.  And while the ideal Steiner Solution was indeed a goal of my experiment, _it was not a pre-specified "target."_  And the other five common adaptations were not specified as "targets" either, yet they evolved time and again.  I call the non-Steiner solutions "MacGyvers," in honor of the [MacGyver television show](http://www.rdanderson.com/macgyver/macgyver.htm), whose star was famed for finding novel uses for objects at hand, such as using the graphite in a pencil to short out an electric circuit, in lieu of a wire or metal conductor.  The "MacGyver" solutions are not as elegant and pretty as the formal Steiner solutions, but they get the job done, and often quite efficiently.
 
-<img src="/uploads/2006/ga-sols.GIF" alt="ga-sols.GIF" width="319" height="944" />
+<img src="{{ site.baseurl }}/uploads/2006/ga-sols.GIF" alt="ga-sols.GIF" width="319" height="944" />
 
 Why does the formal Steiner solution appear relatively rarely?  One reason is that I was testing total length only, and not "shortest connectivity between all pairs of fixed nodes," which is a hallmark of formal Steiner solutions.  Another is that, while the _genetic_ distance between various "MacGyver" solutions and the single Steiner solution is quite large, the actual difference in total length units is small.  For example, the third "MacGyver"solution, which occurs 9% of the time, and which has length 1217, is only five length units longer than the proper Steiner solution (1212 units), or just 0.4% longer.  Given the population size and number of generations, that's not much of a fitness difference for Selection to act on, and because the 1217-length solution has simpler geometry (only two variable nodes required, in contrast to the Steiner's three), it evolves more often.  It's worth noting that Selection over many generations is optimizing not only the connection maps between nodes, but the actual locations of variable nodes as well.  That's why the Genetic Algorithm produces solutions in which segments often meet at 120-degree angles, much as soap films do.
 
@@ -167,19 +167,19 @@ When I discussed this with William Dembski in 2001, he said I was simply "front-
 
 It wasn't until I started investigating whether some of the "MacGyver" solutions could _also_ be realized with soap films that things really got interesting.  I quickly found that several of the configurations that evolved from the genetic algorithm could also be obtained with soap films, simply by pulling the parallel plates out of the soap solution at angles other than horizontal.  A soap-film incarnation of one of the "MacGyver" shapes appears below.
 
-<img src="/uploads/2006/macguyvr.gif" alt="macguyvr.gif" width="426" height="320" />
+<img src="{{ site.baseurl }}/uploads/2006/macguyvr.gif" alt="macguyvr.gif" width="426" height="320" />
 
 **ALGORITHM RESULTS WITH NO CORRESPONDING PHYSICAL ANALOGS**
 
 Not all of the "MacGyvers" could be obtained with soap films, however.  The shape below, which I named the "Face Plant," features four segments meeting at a common point.  While this presented no problem for DNA representations of solutions, it is almost impossible in real soap films, as the junction of four films is invariably a very unstable equilibrium.  In soap films, such junctions of four segments will quickly resolve into a bow-tie shape as typified in the solution to the four-node Steiner System discussed above.  The "Face Plant" turned out to be a MacGyver solution that could easily exist in the genetic algorithm, but could _not_ be realized with minimal-surface soap films.
 
-<img src="/uploads/2006/join4.gif" alt="join4.gif" width="286" height="174" />
+<img src="{{ site.baseurl }}/uploads/2006/join4.gif" alt="join4.gif" width="286" height="174" />
 
 **PHYSICAL ANALOGS WITH NO CORRESPONDING ALGORITHM RESULTS**
 
 If that wasn't strange enough, soon I stumbled on "The Doggie" - a stable soap-film configuration that _never_ appeared during the genetic algorithms simulations.  Even the formal (but topologically tricky) Steiner Solution popped out one of 200 runs on average - why did the Doggie, or related structures like the Dubya, never appear?
 
-<img src="/uploads/2006/doggiean.gif" alt="doggiean.gif" width="408" height="301" />
+<img src="{{ site.baseurl }}/uploads/2006/doggiean.gif" alt="doggiean.gif" width="408" height="301" />
 
 After several frustrated attempts at "doggie" evolution, I decided to go ahead and do what Dembski implies I am doing for all such shapes - deliberately perform some "genetic engineering" to "front-load" the system with a specified solution.
 
@@ -188,7 +188,7 @@ Accordingly, I deduced the DNA configuration for a typical "Doggie," and forced 
 "the Doggie" length = 1403
 01540600667530350405390474FFFFTFFFFTFFFFFFTFFFFFTFFFTFFFFFFFFF
 
-<img src="/uploads/2006/doggie.gif" alt="doggie.gif" width="304" height="174" />
+<img src="{{ site.baseurl }}/uploads/2006/doggie.gif" alt="doggie.gif" width="304" height="174" />
 
 Sure enough, the "Doggie" was much more fit than most members of the initial (random) population, and persisted for several generations.  However, at 150 to 200 units longer than all of the "MacGyver" solutions, it was quickly out-competed and forced to extinction by such solutions.  After a dozen generations or so, "The Doggie" was simply wiped out by the competition.
 
@@ -244,21 +244,21 @@ For the Brachts and Dembskis of the worlds, here is yet another physical analogy
 
 Here are two physical realizations of such networks - just two members of untold billions from the "hypervolume" of possible solutions.  The first network here connects all fixed points, as required; it consists of 11 sticks joining the five fixed and four variable nodes (bolts), and has a (scaled) length of 2874 units. This is representative of the typical "organism on the street," selected randomly from the vast hypervolume of solutions.
 
-<img src="/uploads/2006/2874.jpg" alt="2874.jpg" width="277" height="212" />
+<img src="{{ site.baseurl }}/uploads/2006/2874.jpg" alt="2874.jpg" width="277" height="212" />
 
 The second network also connects the fixed points, but with only seven sticks, with a total length of 1212 units.  This "house-like" structure represents the formal Steiner Solution for the five-node system
 
-<img src="/uploads/2006/1212.jpg" alt="1212.jpg" width="249" height="187" />
+<img src="{{ site.baseurl }}/uploads/2006/1212.jpg" alt="1212.jpg" width="249" height="187" />
 
 When Bracht or Dembski say that Steiner Solutions are somehow implicitly imbedded in the fitness function, that's like saying **_the specific design of a house is implicitly imbedded in the concepts of nails, lumber and economy._** No, it's not.
 
 Other creationist/ID critics have written me to say that the desired answers were already present in the initial population, and that all my program was doing was removing "redundant" connections to reveal the best minimal networks.  Sorry, but that doesn't wash either.  I tried to reduce the 2874-unit-long "monster" above by removing redundant connections.  My first attempt got the length down to  1473 units (or 21% longer than the Steiner's 1212).
 
-<img src="/uploads/2006/1473.jpg" alt="1473.jpg" width="272" height="196" />
+<img src="{{ site.baseurl }}/uploads/2006/1473.jpg" alt="1473.jpg" width="272" height="196" />
 
 I tried again, this time acheiving a length of 1368 units (or about 13% longer than the Steiner).
 
-<img src="/uploads/2006/1368.jpg" alt="1368.jpg" width="281" height="209" />
+<img src="{{ site.baseurl }}/uploads/2006/1368.jpg" alt="1368.jpg" width="281" height="209" />
 
 So, evolving solutions like the Steiner or the MacGyvers involves more than just knocking out some redundant segments of random networks.  It really requires selection, reproduction, and mutation - just like real evolution.
 

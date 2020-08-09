@@ -9,7 +9,7 @@ post_id: 6566
 basename: mammatus_cloud
 ---
 <figure>
-<img src="/uploads/2012/IMG_2931_MammatusCloud_600.jpg" alt="IMG_2931_MammatusCloud_600.jpg" width="600" height="400" />
+<img src="{{ site.baseurl }}/uploads/2012/IMG_2931_MammatusCloud_600.jpg" alt="IMG_2931_MammatusCloud_600.jpg" width="600" height="400" />
 <figcaption markdown="span">
 <big>[Mammatus cloud](http://www.tornadochaser.net/mammatus.htm), Goose Creek Path, Boulder, Colorado, August, 2012.</big> 
 

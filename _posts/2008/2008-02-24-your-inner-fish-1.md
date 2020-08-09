@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3595
 basename: your_inner_fish_1
 ---
-[<img src="/uploads/2008/inner fish-thumb-100x100.jpg" alt="inner fish.jpg" width="100" height="100" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/inner%20fish.html)Neil Shubin, author of "[Your Inner Fish](http://www.amazon.com/Your-Inner-Fish-Journey-3-5-Billion-Year/dp/0375424474)" can be heard [discussing](http://www.cbc.ca/quirks/media/2007-2008/mp3/qq-2008-02-23.mp3) the fascinating story of evolution.
+[<img src="{{ site.baseurl }}/uploads/2008/inner fish-thumb-100x100.jpg" alt="inner fish.jpg" width="100" height="100" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/inner%20fish.html)Neil Shubin, author of "[Your Inner Fish](http://www.amazon.com/Your-Inner-Fish-Journey-3-5-Billion-Year/dp/0375424474)" can be heard [discussing](http://www.cbc.ca/quirks/media/2007-2008/mp3/qq-2008-02-23.mp3) the fascinating story of evolution.
 
 Shubin discusses a variety of strong evidences that support our common ancestry, one in particular caught my eye/ear.
 

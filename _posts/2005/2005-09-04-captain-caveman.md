@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1366
 basename: captain_caveman
 ---
-<img src="/uploads/2005/captaincaveman.jpg" alt="" width="158" height="194" style="float:left;" />
+<img src="{{ site.baseurl }}/uploads/2005/captaincaveman.jpg" alt="" width="158" height="194" style="float:left;" />
 
 Tonight on _[Harvey Birman, Attorney at Law](http://www.adultswim.com/shows/birdman/index.html?showId=316907&amp;name=Harvey%20Birdman&amp;timezone=EST)_, Captain Caveman sues his son's school because it doesn't teach evolution.
 

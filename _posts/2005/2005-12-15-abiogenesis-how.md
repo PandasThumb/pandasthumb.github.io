@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1684
 basename: abiogenesis_how
 ---
-[<img src="/uploads/2006/plosRobinson0511-thumb.jpg" alt="plosRobinson0511.jpg" width="70" height="70" />](/uploads/2006/plosRobinson0511.jpg)
+[<img src="{{ site.baseurl }}/uploads/2006/plosRobinson0511-thumb.jpg" alt="plosRobinson0511.jpg" width="70" height="70" />](/uploads/2006/plosRobinson0511.jpg)
 In my [last post](http://www.pandasthumb.org/archives/2005/12/human_evolution.html#more) I mentioned in passing the feature article appearing in [November's issue of PLoS biology](http://biology.plosjournals.org/perlserv/?request=get-toc&amp;issn=1545-7885&amp;volume=3&amp;issue=11).
 
 In [that paper](http://biology.plosjournals.org/perlserv/?request=get-pdf&amp;file=10.1371_journal.pbio.0030396-S.pdf), Richard Robinson describes some of the difficulties faced by researchers into the [Origin of Life](http://wiki.cotch.net/index.php/Abiogenesis). The origin of replicating molecules is a question of intense interest to biologists because replication is the required (and perhaps sufficient) condition for subsequent evolution. ("Give biologists a cell and they'll give you the world" is how Robinson puts it.)

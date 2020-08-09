@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 6772
 basename: keep_calm_and_a
 ---
-<img src="/uploads/2013/junk_DNA_front.png" alt="junk_DNA_front.png" width="100" height="133" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />The SMBE meeting is coming up next week in Chicago, and I am going for the first time, in part to present some of my work combining fossils and molecular data in Bayesian dating analyses\*, and partially because I wanted to see the junk DNA symposium in person: [http://smbe2013.org/2013/Scientific-Program/2013-Symposia.aspx](http://smbe2013.org/2013/Scientific-Program/2013-Symposia.aspx)
+<img src="{{ site.baseurl }}/uploads/2013/junk_DNA_front.png" alt="junk_DNA_front.png" width="100" height="133" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />The SMBE meeting is coming up next week in Chicago, and I am going for the first time, in part to present some of my work combining fossils and molecular data in Bayesian dating analyses\*, and partially because I wanted to see the junk DNA symposium in person: [http://smbe2013.org/2013/Scientific-Program/2013-Symposia.aspx](http://smbe2013.org/2013/Scientific-Program/2013-Symposia.aspx)
 
 > **July 11, 2013 (Thursday)**
 > Afternoon Symposia (3:00 - 6:30 p.m., coffee break 4:30 - 5:00 p.m.)
@@ -21,7 +21,7 @@ The abstract of this session leaves something to be desired in terms of demonstr
 
 I'm hoping there is some science press there, and very interested to see what the reactions of SMBE participants will be.  To stir the pot, and to popularize Ryan Gregory's [Onion Test](http://www.genomicron.evolverzone.com/2007/04/onion-test/) to people who might need it,  I've even [made a t-shirt that some of us will be wearing](http://www.funnyshirts.org/design/b1d3356d02b17d2667dd8098f909a993_40597):
 
-<img src="/uploads/2013/junk_DNA_shirt.png" alt="junk_DNA_shirt.png" width="748" height="389" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2013/junk_DNA_shirt.png" alt="junk_DNA_shirt.png" width="748" height="389" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 I've ordered a few extras that I am giving away, [but order your own now!](http://www.funnyshirts.org/design/b1d3356d02b17d2667dd8098f909a993_40597)  If you order rush delivery today, you can still get it by Saturday or Monday, or for a day or two later you could get it shipped to the conference hotel.  (Note: I make no money -- funnyshirts.org has a great "KEEP CALM" template that made this super-easy.)
 

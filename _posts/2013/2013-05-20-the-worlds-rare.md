@@ -11,7 +11,7 @@ basename: the_worlds_rare
 Photograph by **Huajin Sun**.
 
 <figure>
-<img src="/uploads/2013/RarestBirdsCover_600.jpg" alt="RarestBirdsCover_600.jpg" width="600" height="777" />
+<img src="{{ site.baseurl }}/uploads/2013/RarestBirdsCover_600.jpg" alt="RarestBirdsCover_600.jpg" width="600" height="777" />
 <figcaption markdown="span">
 <big>[_Grus japonensis_](https://en.wikipedia.org/wiki/Red-crowned_Crane) -- red-crowned crane. This photograph, which adorns the dust jacket of [The World's Rarest Birds](press.princeton.edu/titles/9844.html‎), earned second prize in the "endangered or data-deficient" category of a worldwide photo contest. I will review the book briefly, below the fold.</big> 
 

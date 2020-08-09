@@ -92,7 +92,7 @@ This is a \*crucial\* distinction to get before we proceed, so I encourage reade
 
 Here's is Templeton's depiction of this phenomenon:
 
-<img src="/uploads/2012/Templeton_1999_AA_Fig5_geographic_distance_in_miles_vs_genetic_distance.png" alt="Templeton_1999_AA_Fig5_geographic_distance_in_miles_vs_genetic_distance.png" width="533" height="605" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2012/Templeton_1999_AA_Fig5_geographic_distance_in_miles_vs_genetic_distance.png" alt="Templeton_1999_AA_Fig5_geographic_distance_in_miles_vs_genetic_distance.png" width="533" height="605" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 **2. Under that criterion, are there human races?** Coyne answers "yes", because we can see obvious differences between humans in different locations.  But that, by itself, does not establish that the differences are discrete and categorical, which is what would have to be the case for ideas like "counting the number of races" and "distinguishing one race from the next" to make sense.  Quite often, geneticists like Coyne seem to be being mislead by the fact that _sampling is usually discrete_.  Usually, scientists go and get some samples from one region in Africa, some samples from one region in Europe, some from a region or two in Asia, etc.  Before there was genetic sampling, there were similar issues in skull measurements, photographs, anthropologists' monographs, etc. 
 
@@ -104,13 +104,13 @@ For example, even though there are all kinds of definitions of "species", and th
 
 Finally, Coyne asserts at one point in his blogpost that races exist in humans much as subspecies exist in other species.  But in terms of genetic divergence, at least, this is difficult to support.  Templeton points out that the genetic divergence among living humans is much less than that typically observed between subspecies.  This is not controversial or poorly known so I won't argue this in detail.  Templeton (1999) provides a graphical version:
 
-[<img src="/uploads/2012/Templeton_1999_AA_Fig1_Fst_for_humans_mammals_compared-thumb-700x619-952.png" alt="Templeton_1999_AA_Fig1_Fst_for_humans_mammals_compared.png" width="700" height="619" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/assets_c/2012/02/Templeton_1999_AA_Fig1_Fst_for_humans_mammals_compared-952.html)
+[<img src="{{ site.baseurl }}/uploads/2012/Templeton_1999_AA_Fig1_Fst_for_humans_mammals_compared-thumb-700x619-952.png" alt="Templeton_1999_AA_Fig1_Fst_for_humans_mammals_compared.png" width="700" height="619" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/assets_c/2012/02/Templeton_1999_AA_Fig1_Fst_for_humans_mammals_compared-952.html)
 
 (Note: see [further discussion of criticism of Templeton (1998)'s Figure 1 at this comment](http://pandasthumb.org/archives/2012/02/continuous-geog.html#comment-279881).)
 
 Or, we can compare the branch lengths of a tree of built of the aligned sequences from the mitochondria of humans and our ape relatives:
 
-<img src="/uploads/2012/Gagneux_etal_1999_PNAS_mtDNA_African_hominids_Fig1_phylogeny.png" alt="Gagneux_etal_1999_PNAS_mtDNA_African_hominids_Fig1_phylogeny.png" width="405" height="602" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2012/Gagneux_etal_1999_PNAS_mtDNA_African_hominids_Fig1_phylogeny.png" alt="Gagneux_etal_1999_PNAS_mtDNA_African_hominids_Fig1_phylogeny.png" width="405" height="602" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 (From: [Gagneux et al. 1999](http://www.pnas.org/content/96/9/5077.full), _[PNAS](http://www.pnas.org/)_; [full-resolution figure](http://www.pnas.org/content/96/9/5077/F1.large.jpg)) (Hat tip: [Reed Cartwright](http://dererumnatura.us/archives/2005/09/chimps-are-laug.html))
 
@@ -136,7 +136,7 @@ Edwards points out that the problem with Lewontin's statement is that it is only
 > 
 > Now suppose there are k similar loci, all with gene frequency p in population 1 and q in population 2. The ratio of the within-to-total variability is still 84% at each locus. The total number of "+" genes in an individual will be binomial with mean kp in population 1 and kq in population 2, with variance kpq in both cases. Continuing with the former gene frequencies and taking k=100 loci (say), the mean numbers are 30 and 70 respectively, with variances 21 and thus standard deviations of 4.58. With a difference between the means of 40 and a common standard deviation of less than 4.6, there is virtually no overlap between the distributions, and the probability of misclassification is infinitesimal, simply on the basis of counting the number of "+" genes. Fig. 1 shows how the probability falls off for up to 20 loci.
 > 
-> <img src="/uploads/2012/Edwards_2003_BioEssays_Lewontins_Fallacy_Fig1_probability_of_misclassification.png" alt="Edwards_2003_BioEssays_Lewontins_Fallacy_Fig1_probability_of_misclassification.png" width="437" height="371" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+> <img src="{{ site.baseurl }}/uploads/2012/Edwards_2003_BioEssays_Lewontins_Fallacy_Fig1_probability_of_misclassification.png" alt="Edwards_2003_BioEssays_Lewontins_Fallacy_Fig1_probability_of_misclassification.png" width="437" height="371" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 This sort of information (obviously the between-population allele frequencies always differ between loci in real life, but this doesn't matter much for the classification) is what lets the clustering algorithms find their clusters, and place people into them. Edwards concludes:
 

@@ -16,7 +16,7 @@ It's Halloween, so it's time for a roundup of the SCARIEST October stories in th
 
 The actual plant isn't very big, and the traps don't get bigger than a quarter, but imagine what a bug would think, if bugs could think:
 
-> [<img src="/uploads/2013/VFT_ne1-thumb-500x546-1421.jpg" alt="VFT_ne1.JPG" width="500" height="546" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/assets_c/2013/10/VFT_ne1-1421.html)
+> [<img src="{{ site.baseurl }}/uploads/2013/VFT_ne1-thumb-500x546-1421.jpg" alt="VFT_ne1.JPG" width="500" height="546" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/assets_c/2013/10/VFT_ne1-1421.html)
 > 
 > The Venus Flytrap: So inviting, yet so dangerous. Source: [wikipedia](http://en.wikipedia.org/wiki/File:VFT_ne1.JPG).
 
@@ -30,17 +30,17 @@ In any event, ["dcoppedge" has definitely written lots of posts for the DI's Evo
 
 Anyway, you know who else likes Venus Flytraps?  Why, evolutionists.  [Have a look at the logo for next year's Evolution 2014 meeting](http://evolution2014.org/) in Raleigh, North Carolina:
 
-[<img src="/uploads/2013/evo_2014_logo_banner-thumb-700x106-1424.jpg" alt="evo_2014_logo_banner.jpg" width="700" height="106" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/assets_c/2013/10/evo_2014_logo_banner-1424.html)
+[<img src="{{ site.baseurl }}/uploads/2013/evo_2014_logo_banner-thumb-700x106-1424.jpg" alt="evo_2014_logo_banner.jpg" width="700" height="106" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/assets_c/2013/10/evo_2014_logo_banner-1424.html)
 
 Venus Flytraps are native only to a small region of swampy, coastal North and South Carolina.  So that's one reason to put them on the Evolution 2014 banner.  But why that species and not some other endemic species?  Obviously, Reason #1 is that flytraps are just awesome, but reason #2 is that Charles Darwin himself realized they were awesome, famously calling the Venus Flytrap "[the most wonderful plant in the world](https://www.google.com/search?q=venus+flytrap+%22most+wonderful+plant%22&amp;oq=venus+flytrap+%22most+wonderful+plant%22&amp;aqs=chrome..69i57.7504j0j4&amp;sourceid=chrome&amp;espv=210&amp;es_sm=119&amp;ie=UTF-8#es_sm=119&amp;espv=210&amp;q=venus+flytrap+%22most+wonderful+plant+in+the+world%22)."  (I believe [this is the original letter](http://www.darwinproject.ac.uk/entry-8773), although the Darwin Correspondence Project does not have the full text online yet.  The letter was published in _Natural History_ in 1923 by Frank Morton Jones; Harvard Forest has conveniently [put the article online at this website](http://harvardforest.fas.harvard.edu/frank-jones/bibliography), [direct PDF link](http://harvardforest.fas.harvard.edu/sites/harvardforest.fas.harvard.edu/files/frankMortonJones/pdf%20files/Wonderful%20Plant.pdf))
 
 Here's the actual quote, in Darwin's handwriting!
 
-<img src="/uploads/2013/Jones_1923_NatHist_Most_Wonderful_Plant_letter_quote.png" alt="Jones_1923_NatHist_Most_Wonderful_Plant_letter_quote.png" width="403" height="148" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2013/Jones_1923_NatHist_Most_Wonderful_Plant_letter_quote.png" alt="Jones_1923_NatHist_Most_Wonderful_Plant_letter_quote.png" width="403" height="148" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 Here's the full page of the letter (click to zoom).
 
-[<img src="/uploads/2013/Jones_1923_NatHist_Most_Wonderful_Plant_letter_last_page-thumb-500x470-1428.png" alt="Jones_1923_NatHist_Most_Wonderful_Plant_letter_last_page.png" width="500" height="470" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/assets_c/2013/10/Jones_1923_NatHist_Most_Wonderful_Plant_letter_last_page-1428.html)
+[<img src="{{ site.baseurl }}/uploads/2013/Jones_1923_NatHist_Most_Wonderful_Plant_letter_last_page-thumb-500x470-1428.png" alt="Jones_1923_NatHist_Most_Wonderful_Plant_letter_last_page.png" width="500" height="470" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/assets_c/2013/10/Jones_1923_NatHist_Most_Wonderful_Plant_letter_last_page-1428.html)
 
 ...and Jones (1923) has some great commentary reviewing the correspondence between Darwin, Asa Gray, and Canby, including material on how it was Darwin who figured out that the gaps between the teeth of the Flytrap probably had the function of letting small insects escape, after which the trap could reopen without undergoing an expensive digestion step -- whereas large beetles and the like were trapped by their size and doomed to a grisly death and digestion in an acid bath.  
 
@@ -60,13 +60,13 @@ Even more distant relatives are still carnivorous, but lack motion -- they eithe
 
 Knowing just this information, the basic story is pretty clear to an evolutionist.  In the massive 1989 review book _Carnivorous Plants_ by Juniper et al., which reviewed all work up to that point, but which was published just before molecular phylogenetics took off, the story was clear enough to diagram:
 
-> [<img src="/uploads/2013/Juniper_etal_1989_Carnivorous_Plants_p303_Dionaea_evo-thumb-729x931-1416.png" alt="Juniper_etal_1989_Carnivorous_Plants_p303_Dionaea_evo.png" width="600" height="780" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/assets_c/2013/10/Juniper_etal_1989_Carnivorous_Plants_p303_Dionaea_evo-1416.html)
+> [<img src="{{ site.baseurl }}/uploads/2013/Juniper_etal_1989_Carnivorous_Plants_p303_Dionaea_evo-thumb-729x931-1416.png" alt="Juniper_etal_1989_Carnivorous_Plants_p303_Dionaea_evo.png" width="600" height="780" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/assets_c/2013/10/Juniper_etal_1989_Carnivorous_Plants_p303_Dionaea_evo-1416.html)
 > 
 > Figure 19 from Juniper et al. (1989), Carnivorous Plants. Shows the evolutionary origin of the Venus flytrap, _Dionaea muscipula_.
 
 What happened when molecular phylogenetics was applied to carnivorous plants?  Well, a new test of the hypothesis was available.  Cameron et al. (2002) showed the results:
 
-> <img src="/uploads/2013/Cameron_etal_2002_AmJBot_Fig3_evo_Venus_flytrap.gif" alt="Cameron_etal_2002_AmJBot_Fig3_evo_Venus_flytrap.gif" width="291" height="440" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+> <img src="{{ site.baseurl }}/uploads/2013/Cameron_etal_2002_AmJBot_Fig3_evo_Venus_flytrap.gif" alt="Cameron_etal_2002_AmJBot_Fig3_evo_Venus_flytrap.gif" width="291" height="440" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 > 
 > Figure 3 from [Cameron et al. (2002)](http://www.amjbot.org/content/89/9/1503.full), showing the phylogeny of the Venus Flytrap (_Dionaea_) and related carnivorous and non-carnivorous plants.
 
@@ -118,7 +118,7 @@ _Crustaceans_ are arthropods; well-known crustaceans include shrimp, crabs, lobs
 
 "_Cirri-pede_" means basically "hairy-feet", and is the technical term for barnacles, which during their larval stage look like fairly normal crustacean with a head, eyes, and legs:
 
-> <img src="/uploads/2013/cyprid_barnacle.gif" alt="cyprid_barnacle.gif" width="151" height="159" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+> <img src="{{ site.baseurl }}/uploads/2013/cyprid_barnacle.gif" alt="cyprid_barnacle.gif" width="151" height="159" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 > 
 > Cyprid stage of a barnacle (the last stage before sticking to a rock). Source: [http://www.mesa.edu.au/friends/seashores/barnacles.html](http://www.mesa.edu.au/friends/seashores/barnacles.html)
 
@@ -138,7 +138,7 @@ Being parasitized by the head-roots of some crustacean with low respect for the 
 
 Rhizocephalans have been in the news latest due to [R.R. Helm's article on _Sacculina_, the parasitic castrators of crabs](http://deepseanews.com/2013/10/this-may-be-the-oceans-most-horrifying-monster-and-youve-probably-never-heard-of-it/).  
 
-> <img src="/uploads/2013/Haeckel_Sacculina-600x671.jpg" alt="Haeckel_Sacculina-600x671.jpg" width="600" height="671" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+> <img src="{{ site.baseurl }}/uploads/2013/Haeckel_Sacculina-600x671.jpg" alt="Haeckel_Sacculina-600x671.jpg" width="600" height="671" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 > 
 > Haeckel's drawing of Sacculina rhizoids parasitizing a crab. [Source](http://commons.wikimedia.org/wiki/File:Haeckel_Sacculina.jpg).
 
@@ -172,7 +172,7 @@ I've mostly been trying to scare the creationists and the squeamish here, but he
 
 Well, imagine you've signed up for a relaxing summer cruise in Alaska.  You will see glaciers and whales and sea otters, and enjoy the beauty of nature and learn a little biology while you're at it.  Then you realize, to your horror, that you are on [_this boat_](http://www.evolutionnews.org/2013/10/join_discovery078511.html):
 
-> <img src="/uploads/2013/DI_Alaska_Cruise.png" alt="DI_Alaska_Cruise.png" width="631" height="305" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+> <img src="{{ site.baseurl }}/uploads/2013/DI_Alaska_Cruise.png" alt="DI_Alaska_Cruise.png" width="631" height="305" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 > 
 > It's a [once-in-a-lifetime chance](http://www.discovery.org/cruise/): participate in a floating conference about intelligent design, with some of the world's most stunning natural scenery as a backdrop. What better place and what better time -- Alaska at the height of summer! -- to meet the stars of Discovery Institute and learn in depth about the ultimate questions that science has ever asked: How did the universe begin? How did life arise? How did complex life develop?
 > 

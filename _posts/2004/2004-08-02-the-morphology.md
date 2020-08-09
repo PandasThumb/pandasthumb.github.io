@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 352
 basename: the_morphology
 ---
-<img src="/uploads/2005/steves.jpg" alt="" style="float:left;" />
+<img src="{{ site.baseurl }}/uploads/2005/steves.jpg" alt="" style="float:left;" />
 [The National Center for Science Education's](http://www.ncseweb.org/) [Project Steve](http://www.ncseweb.org/article.asp?category=18) now has a published paper appearing in the estimable journal, "The Annals of Improbable Research" (AIR).
 
 http://www.improbable.com/airchives/paperair/volume10/v10i4/morph-steve-10-4.pdf

@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3014
 basename: dr_west_meet_dr
 ---
-<img src="/uploads/2007/Tinkle%20Giant%20Beaver.jpg" alt="Tinkle%20Giant%20Beaver.jpg" width="306" height="452" style="float:left;" />As many have noted, the Intelligent Design movement's echo chamber has been recently belaboring the connection between Darwinian evolutionary ideas and eugenics.  That's not surprising: the Discovery Institute-headed machine has been on the ropes for a while, unable to make any significant scientific, legal or political headway against evolution science (a.k.a. "Darwinism" in ID/Creationist parlance), and it has naturally turned to what it does best, that is media-based attack campaigns on straw-man stand-ins for evolutionary biology.  
+<img src="{{ site.baseurl }}/uploads/2007/Tinkle%20Giant%20Beaver.jpg" alt="Tinkle%20Giant%20Beaver.jpg" width="306" height="452" style="float:left;" />As many have noted, the Intelligent Design movement's echo chamber has been recently belaboring the connection between Darwinian evolutionary ideas and eugenics.  That's not surprising: the Discovery Institute-headed machine has been on the ropes for a while, unable to make any significant scientific, legal or political headway against evolution science (a.k.a. "Darwinism" in ID/Creationist parlance), and it has naturally turned to what it does best, that is media-based attack campaigns on straw-man stand-ins for evolutionary biology.  
 
 The transparent goal of this new P.R. offensive is to tarnish 150 years of scientific discovery with the stain of one of its aberrations, the logical equivalent of attacking experimental medicine by claiming that it is based on analogous principles as Josef Mengele's experiments in Nazi concentration camps.  Oblivious to logic and intellectual honesty, the "Darwinism = eugenics" meme nevertheless has been widely promoted by several ID advocates, most prominently by John G. West, Associate Director of the Discovery Institute's Center for ~~the Renewal of~~ Science and Culture.
 
@@ -37,7 +37,7 @@ Tinkle opposed evolution and Darwinian theory, but was an enthusiastic proponent
 > \[Scientists who are working at the task of improving the human race\] would like to increase the birth rate of families having good heredity, while those people having poor heredity should not marry at all.\[8, p. 131\]
 
   
-<img src="/uploads/2007/Tinkle%20figure.jpg" alt="Tinkle%20figure.jpg" width="539" height="517" />
+<img src="{{ site.baseurl }}/uploads/2007/Tinkle%20figure.jpg" alt="Tinkle%20figure.jpg" width="539" height="517" />
 _Figure 65 from Tinkle's "Fundamentals of Zoology" illustrates the effect of differential reproduction on 
 human population demographics.  Pace the Discovery Institute propaganda, Tinkle did not need 
 "Darwinism" or materialism to draw his eugenical conclusions._

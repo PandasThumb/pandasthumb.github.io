@@ -13,7 +13,7 @@ Photograph by **David Cox**.
 Photography contest, Finalist.
 
 <figure>
-<img src="/uploads/2014/Cox.Aeshna_multicolor.jpg" alt="Cox.Aeshna_multicolor.jpg" width="600" height="533" />
+<img src="{{ site.baseurl }}/uploads/2014/Cox.Aeshna_multicolor.jpg" alt="Cox.Aeshna_multicolor.jpg" width="600" height="533" />
 <figcaption markdown="span">
 <big>[_Aeshna multicolor_](http://en.wikipedia.org/wiki/Blue-eyed_Darner) -- blue-eyed darner.</big>
 

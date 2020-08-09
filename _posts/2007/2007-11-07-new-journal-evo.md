@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3381
 basename: new_journal_evo
 ---
-<img src="/uploads/2007/cda_displayimage.jpg" alt="cda_displayimage.jpg" width="95" height="128" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
+<img src="{{ site.baseurl }}/uploads/2007/cda_displayimage.jpg" alt="cda_displayimage.jpg" width="95" height="128" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
 
 Hat tip [Sparc](http://pandasthumb.org/archives/2007/11/national-scienc.html#comment-134244)
 

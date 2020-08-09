@@ -18,9 +18,9 @@ There you have it: Darwin and Haeckel were ignorant of diversity in embryo gastr
 
 Imagine my surprise when I actually took a look at Haeckel's _Anthropogenie_ (1891 edition):
 
-> <img src="/uploads/2006/Haeckel_1891_Anthropogenie_4th-ed_gastrulation_worm_frog_etc.jpg" alt="" style="" />
+> <img src="{{ site.baseurl }}/uploads/2006/Haeckel_1891_Anthropogenie_4th-ed_gastrulation_worm_frog_etc.jpg" alt="" style="" />
 > 
-> <img src="/uploads/2006/Haeckel_1891_Anthropogenie_4th-ed_gastrulation_fisch_krebs_etc.jpg" alt="" style="" />
+> <img src="{{ site.baseurl }}/uploads/2006/Haeckel_1891_Anthropogenie_4th-ed_gastrulation_fisch_krebs_etc.jpg" alt="" style="" />
 > 
 > (source: Ernst Haeckel (1891). _Anthropogenie_, fourth edition (revised and expanded).  Leipzig: Verlag von Wilhelm Engelman, 1891.)
 

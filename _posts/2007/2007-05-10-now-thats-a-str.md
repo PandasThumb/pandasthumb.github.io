@@ -28,7 +28,7 @@ The beautiful thing about this paper is how simple the experimental design is.  
 
 Here is one of the figures from the paper. Note: a "GBU" is a "Giraffe Browsing Unit", an overly technical term for "giraffe bite."  So this chart is showing how much leaf biomass is available per bite for the giraffes, at 1 m, 2.5 m, and 4 m.
 
-<img src="/uploads/2007/Cameron_du_Toit_2007_AmNat_Winning_by_a_Neck_Fig2a.jpg" alt="Cameron_du_Toit_2007_AmNat_Winning_by_a_Neck_Fig2a.jpg" width="681" height="483" style="" />
+<img src="{{ site.baseurl }}/uploads/2007/Cameron_du_Toit_2007_AmNat_Winning_by_a_Neck_Fig2a.jpg" alt="Cameron_du_Toit_2007_AmNat_Winning_by_a_Neck_Fig2a.jpg" width="681" height="483" style="" />
 
 Open bars are for the fenced trees, black bars for the unfenced control trees.  You can see that the unfenced trees are severely denuded of leafy biomass at the low elevations, being heavily browsed by numerous critters.  Giraffes, on the other hand, avoid this competition. Conclusion:
 

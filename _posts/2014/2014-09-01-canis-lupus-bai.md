@@ -13,7 +13,7 @@ Photograph by **Dan Stodola**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2014/Stodola.MexicanWolf.jpg" alt="Stodola.MexicanWolf.jpg" width="600" height="387" />
+<img src="{{ site.baseurl }}/uploads/2014/Stodola.MexicanWolf.jpg" alt="Stodola.MexicanWolf.jpg" width="600" height="387" />
 <figcaption markdown="span">
 <big>[_Canis lupus baileyi_](http://en.wikipedia.org/wiki/Mexican_wolf) -- Mexican wolf, Brookfield Zoo, Illinois.</big>
 

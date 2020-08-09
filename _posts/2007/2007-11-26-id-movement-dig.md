@@ -10,7 +10,7 @@ blog_id: 2
 post_id: 3427
 basename: id_movement_dig
 ---
-<img src="/uploads/2007/flunked-thumb-100x31.jpg" alt="" />On the one hand, we've got Casey Luskin over at Evolution "News" and Views opting to take the High Road, castigating those mean-spirited "_Darwinists_" for their naughty behavior in this holiday season.  
+<img src="{{ site.baseurl }}/uploads/2007/flunked-thumb-100x31.jpg" alt="" />On the one hand, we've got Casey Luskin over at Evolution "News" and Views opting to take the High Road, castigating those mean-spirited "_Darwinists_" for their naughty behavior in this holiday season.  
 
 Luskin's November 24, 2007 piece, [**PBS Special Brings Out Darwinists Lacking the Thanksgiving Spirit**](http://www.evolutionnews.org/2007/11/pbs_brings_out_darwinists_lack.html),  concludes with this:
 
@@ -19,7 +19,7 @@ Luskin's November 24, 2007 piece, [**PBS Special Brings Out Darwinists Lacking t
 
 On the other hand, we've got the official website for the upcoming Ben Stein movie "_Expelled - No Intelligence Allowed_" plugging a little video they've made called [**Darwin Daze Sock Hop**](http://www.expelledthemovie.com/playground.php).
 
-<img src="/uploads/2007/jibjab.jpg" alt="" />
+<img src="{{ site.baseurl }}/uploads/2007/jibjab.jpg" alt="" />
 
 So how does displaying Genie Scott's panties advance the Intelligent Design Movement?  Read on...
 
@@ -31,7 +31,7 @@ The JibJab copy of the video is [here](http://www.jibjab.com/starring_you/receip
 
 To see the video on the Expelled website, click on "Darwin Daze Sock Hop" [**here**](http://www.expelledthemovie.com/playground.php).
 
-<img src="/uploads/2007/jibjab2.jpg" alt="" />
+<img src="{{ site.baseurl }}/uploads/2007/jibjab2.jpg" alt="" />
 
 I guess it's all a case of the right hand not knowing what the left hand is doing, namely shooting the hands' owner in the foot, which happened to be placed in the owner's mouth, all while the owner was digging himself another nice deep hole in his pothole-littered High Road.
 

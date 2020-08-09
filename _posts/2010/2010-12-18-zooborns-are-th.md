@@ -17,11 +17,11 @@ The book with the fennec fox on the cover is for all ages and would make a good 
 
 <div style="margin-left: auto; margin-right: auto; width: 400px;">
 <div style="text-align: center; float: left; width:200px;">
-<img alt="All_Ages.gif" src="/uploads/2010/All_Ages.gif" width="170" height="174" class="mt-image-none" style="" /><br/><a href="http://www.amazon.com/gp/product/1439195315">Amazon</a>
+<img alt="All_Ages.gif" src="{{ site.baseurl }}/uploads/2010/All_Ages.gif" width="170" height="174" class="mt-image-none" style="" /><br/><a href="http://www.amazon.com/gp/product/1439195315">Amazon</a>
 </div>
 
 <div style="text-align: center; float: left; width:200px;">
-<img alt="Young_Children.gif" src="/uploads/2010/Young_Children.gif" width="170" height="170" class="mt-image-none" style="" /><br/><a href="http://www.amazon.com/gp/product/1442412720">Amazon</a>
+<img alt="Young_Children.gif" src="{{ site.baseurl }}/uploads/2010/Young_Children.gif" width="170" height="170" class="mt-image-none" style="" /><br/><a href="http://www.amazon.com/gp/product/1442412720">Amazon</a>
 </div>
 </div>
 <div style="clear: both;">&nbsp;</div>

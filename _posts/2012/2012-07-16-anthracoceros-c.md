@@ -13,7 +13,7 @@ Photograph by **Siromi Samarasinghe**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2012/SamarasingheS.Anthracoceros_coronatus.JPG" alt="SamarasingheS.Anthracoceros_coronatus.JPG" width="596" height="600" />
+<img src="{{ site.baseurl }}/uploads/2012/SamarasingheS.Anthracoceros_coronatus.JPG" alt="SamarasingheS.Anthracoceros_coronatus.JPG" width="596" height="600" />
 <figcaption markdown="span">
 <big>_[Anthracoceros coronatus](http://en.wikipedia.org/wiki/Malabar_Pied_Hornbill)_ -- Malabar pied hornbill, Bundala National Park, Sri Lanka.</big>
 

@@ -9,7 +9,7 @@ blog_id: 2
 post_id: 2430
 basename: stupid_id_state_1
 ---
-<img src="/uploads/2006/head.jpg" alt="head.jpg" width="200" height="154" style="float:left;" /> Okay, cubs, it's time to play everyone's favorite game, "Who Said Something Stupid?" Rules are simple: in your comment to this post, identify the dim bulb who uttered each of the following outrageous statements. Creativity in your guess will be rewarded, but points will be deducted for snorts and guffaws that lead to spewing coffee on your keyboard. 
+<img src="{{ site.baseurl }}/uploads/2006/head.jpg" alt="head.jpg" width="200" height="154" style="float:left;" /> Okay, cubs, it's time to play everyone's favorite game, "Who Said Something Stupid?" Rules are simple: in your comment to this post, identify the dim bulb who uttered each of the following outrageous statements. Creativity in your guess will be rewarded, but points will be deducted for snorts and guffaws that lead to spewing coffee on your keyboard. 
 
 After finding the author of the quote, place your vote for the stupidest statement of the month. Winners will be decided by me at an arbitrary point in time, and will be notified telepathically. The prize for correctly identifying all of the authors will be a sincere pat on the back (i.e., with claws retracted) and a virtual pint of virtual Pilsener at the virtual Pub.
 

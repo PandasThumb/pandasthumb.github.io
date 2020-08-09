@@ -12,7 +12,7 @@ We are looking to expand our genomics faculty by hiring a comparative genomicist
 
 
 <div style="margin-left:auto; margin-right:auto; width:500px; margin-top: 1em; margin-bottom: 1em">
-<img alt="logo-biodesign-sm.png" src="/uploads/2013/logo-biodesign-sm.png" width="200" height="56" style="margin-left: 0px; margin-right: 100px" /><img alt="logo-sols-sm.png" src="/uploads/2013/logo-sols-sm.png" width="200" height="51" style="margin-left: 0px; margin-right: 0px" />
+<img alt="logo-biodesign-sm.png" src="{{ site.baseurl }}/uploads/2013/logo-biodesign-sm.png" width="200" height="56" style="margin-left: 0px; margin-right: 100px" /><img alt="logo-sols-sm.png" src="{{ site.baseurl }}/uploads/2013/logo-sols-sm.png" width="200" height="51" style="margin-left: 0px; margin-right: 0px" />
 </div>
 
 

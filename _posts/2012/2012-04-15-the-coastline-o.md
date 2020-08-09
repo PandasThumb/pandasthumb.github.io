@@ -16,7 +16,7 @@ Williamstown, Kentucky, a city that is apparently near the fantasied location of
 Inspired (I think) by that article, reader Dan Phelps sent us the following proposal to develop a coastline to spur economic development in Kentucky.
 
 <figure>
-<img src="/uploads/2012/CretaceousCoastlines_600.jpg" alt="CretaceousCoastlines_600.jpg" width="600" height="774" />
+<img src="{{ site.baseurl }}/uploads/2012/CretaceousCoastlines_600.jpg" alt="CretaceousCoastlines_600.jpg" width="600" height="774" />
 <figcaption markdown="span">
 
 </figcaption>

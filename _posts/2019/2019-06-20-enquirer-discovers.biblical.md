@@ -4,7 +4,7 @@ date: '2019-06-20 18:30:00 -06:00'
 author: Matt Young
 ---
 <figure>
-<img src="/uploads/2019/National_Enquirer_Piece_With_Caption_600.jpg" alt="Headline"/>
+<img src="{{ site.baseurl }}/uploads/2019/National_Enquirer_Piece_With_Caption_600.jpg" alt="Headline"/>
 <figcaption>
 </figcaption>
 </figure>

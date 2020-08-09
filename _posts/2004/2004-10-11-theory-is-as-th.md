@@ -101,7 +101,7 @@ In most vertebrates, organic phosphates modulate the oxygen affinity of hemoglob
 Lamprey hemoglobin is not modulated by organic phosphates, it has PSS (proline, serine) at the equivalent position of the mammalian HKH triad (see figure 1). Most hagfish hemoglobins are not modulated by organic phosphates (Brittain & Wells 1986). However, some hagfish hemoglobins that form dimers in the deoxyform are modulated (weakly) by ATP (Nikinmaa 2001). Hagfish have TKS (threonine) in the equivalent position of the mammalian HKH triad.
 
 <figure>
-<img src="/uploads/2006/haemoglobin_textbox_1.jpg" alt="" width="640" />
+<img src="{{ site.baseurl }}/uploads/2006/haemoglobin_textbox_1.jpg" alt="" width="640" />
 <figcaption markdown="span">
 **Figure 1.** Aligned sequences of Rat (204569),Bony fish (2154747, 2154902, 38606321), Sharks (4512338, 451454), beta hemoglobins with Hagfish (5114419) and Lamprey(7677498) globins. Sequences are aligned to the hagfish sequence, so that the mammalian amino acids that form the 2,3-diphosphoglycerate binding site are at different locations than stated in the text. Histidine 2 (H) is at position 11, lysine 82 (K) is at position 96 and histidine 143 (H) is at position 158. Note the significant variation at these positions.
 </figcaption>
@@ -121,7 +121,7 @@ Sharks have dimers which associate to tetramers; these are also modulated by ATP
 
 
 <figure>
-<img src="/uploads/2005/Haemoglobin_tree.gif" alt="" width="720" />
+<img src="{{ site.baseurl }}/uploads/2005/Haemoglobin_tree.gif" alt="" width="720" />
 <figcaption markdown="span">
 **Figure 2.** This shows the same information as above in a more graphical way, showing that the 2,3-diposphoglyerate binding site is the result of concerted evolution of organic phosphate binding sites, with a significant flexibility in structure.
 </figcaption>

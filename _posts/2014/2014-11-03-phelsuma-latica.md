@@ -13,7 +13,7 @@ Photograph by **Tony Gamble**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2014/Gamble.Phelsuma_laticauda_dorsum.jpg" alt="Gamble.Phelsuma_laticauda_dorsum.jpg" width="600" height="671" />
+<img src="{{ site.baseurl }}/uploads/2014/Gamble.Phelsuma_laticauda_dorsum.jpg" alt="Gamble.Phelsuma_laticauda_dorsum.jpg" width="600" height="671" />
 <figcaption markdown="span">
 <big>[_Phelsuma laticauda_](http://en.wikipedia.org/wiki/Gold_dust_day_gecko) -- gold dust day gecko.</big>
 

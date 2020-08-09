@@ -9,7 +9,7 @@ blog_id: 2
 post_id: 7076
 basename: troubles_in_par
 ---
-<img src="/uploads/2015/adam-and-eve-cast-out-of-paradise-after-eating-from-the-tree-of-knowledge-in-the-garden-of-eden.png" alt="adam-and-eve-cast-out-of-paradise-after-eating-from-the-tree-of-knowledge-in-the-garden-of-eden.png" width="325" height="280" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />I would like to introduce everyone to James Downard, and his website _[Troubles in Paradise](http://www.tortucan.com)_ (_TIP_). _TIP_ is available at [http://tortucan.wordpress.com/](http://tortucan.wordpress.com/) or [http://www.tortucan.com](http://www.tortucan.com).
+<img src="{{ site.baseurl }}/uploads/2015/adam-and-eve-cast-out-of-paradise-after-eating-from-the-tree-of-knowledge-in-the-garden-of-eden.png" alt="adam-and-eve-cast-out-of-paradise-after-eating-from-the-tree-of-knowledge-in-the-garden-of-eden.png" width="325" height="280" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />I would like to introduce everyone to James Downard, and his website _[Troubles in Paradise](http://www.tortucan.com)_ (_TIP_). _TIP_ is available at [http://tortucan.wordpress.com/](http://tortucan.wordpress.com/) or [http://www.tortucan.com](http://www.tortucan.com).
 
 James Downard is an activist with decades of experience tracking the creationists, stretching back to encounters with Stephen Meyer in Washington state in the early 1990s. In 2010, he did a guest post for PT, "[An Ill Wind in Tortuca](http://pandasthumb.org/archives/2010/01/an-ill-wind-in.html)", available at: [http://pandasthumb.org/archives/2010/01/an-ill-wind-in.html](http://pandasthumb.org/archives/2010/01/an-ill-wind-in.html)
 

@@ -10,11 +10,11 @@ basename: game_over_in_ri
 ---
 **By Marshall Berman, Kim Johnson and Dave Thomas**
 
-<img src="/uploads/2007/rip401.JPG" alt="rip401.JPG" width="141" height="207" style="float: right; margin: 0 0 20px 20px;" class="mt-image-right" />
+<img src="{{ site.baseurl }}/uploads/2007/rip401.JPG" alt="rip401.JPG" width="141" height="207" style="float: right; margin: 0 0 20px 20px;" class="mt-image-right" />
 
 After producing division and confusion for more than two years in Rio Rancho (New Mexico) science classes, the Rio Rancho School Board formally terminated the ill-fated experiment known as “Policy 401." First passed in August of 2005, the policy did not mention "Intelligent Design" (ID) by name, but was perceived by the community and press as favorable to ID and creationism arguments, and as encouraging discussion of these “alternatives" to evolution.  
 
-> <img src="/uploads/2007/rr_1-thumb-350x240.jpg" alt="" />
+> <img src="{{ site.baseurl }}/uploads/2007/rr_1-thumb-350x240.jpg" alt="" />
 > _All seats were filled during the Rio Rancho school board meeting of Dec. 3rd, 2007._
 
 The [original policy declared that](http://www.nmsr.org/401.htm) 
@@ -37,7 +37,7 @@ Renick’s reply was immediate:
 
 > You find His fingerprints everywhere.
 
-> <img src="/uploads/2007/rr_2-thumb-350x240.jpg" alt="" />
+> <img src="{{ site.baseurl }}/uploads/2007/rr_2-thumb-350x240.jpg" alt="" />
 > _IDNet-NM's executive director, Joe Renick, penning pages of comments for the Rio Rancho school board meeting of Dec. 3rd, 2007._
 
 The policy was [first passed in 2005](http://www.nmsr.org/riorncho.htm), when three people on the five-member board were supporters of ID: pastors Marty Scharfglass and Don Schlichte, and Kathy Jackson, whose husband Kevin Jackson had previously had a formal family organization [send copies of Michael Behe’s "Darwin’s Black Box" to state science teachers](http://www.nmsr.org/omdahl.htm).  Jackson was later elected Mayor of Rio Rancho, but was [forced to resign after a series of financial scandals](http://www.nmsr.org/whatsnew.htm#jackson).  In the last school board election, Kathy Jackson was replaced by science supporter Divyesh Patel, and pastors Schlichte and Scharfglass suddenly found themselves in the minority regarding Policy 401.  Patel was joined by the two members who opposed the policy from its inception, board president Lisa Cour and member Margaret Terry, and the topic of this divisive policy was re-visited, culminating in a vote on December 3rd, 2007.
@@ -60,7 +60,7 @@ Board president Cour made a few additional comments, pointing out that the Rio R
 
 > Just because evolution is embraced by evil and unethical people, it does not mean evolution is evil.
 
-> <img src="/uploads/2007/rr_3-thumb-350x240.jpg" alt="" />
+> <img src="{{ site.baseurl }}/uploads/2007/rr_3-thumb-350x240.jpg" alt="" />
 > _The Media Circus at the Rio Rancho school board meeting of Dec. 3rd, 2007. KOB TV-4 got it wrong, saying > Dozens showed up from both sides to voice their opinion tonight.
 > 
 >  KRQE TV-13 did **much** better: 

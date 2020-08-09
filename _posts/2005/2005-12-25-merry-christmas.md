@@ -8,4 +8,4 @@ blog_id: 2
 post_id: 1766
 basename: merry_christmas
 ---
-<img src="/uploads/2005/santa.jpg" alt="" style="" />
+<img src="{{ site.baseurl }}/uploads/2005/santa.jpg" alt="" style="" />

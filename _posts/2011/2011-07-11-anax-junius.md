@@ -12,7 +12,7 @@ Photograph by **Noah Young**.
 
 
 <figure>
-<img src="/uploads/2011/Common-Green-Darner---Anax-junius-by-Noah-Young.jpg" alt="Common-Green-Darner---Anax-junius-by-Noah-Young.jpg" width="600" height="400" />
+<img src="{{ site.baseurl }}/uploads/2011/Common-Green-Darner---Anax-junius-by-Noah-Young.jpg" alt="Common-Green-Darner---Anax-junius-by-Noah-Young.jpg" width="600" height="400" />
 <figcaption markdown="span">
 <big>[_Anax junius_](http://bugguide.net/node/view/585) -- common green darner, Boulder, Colorado.</big>
 

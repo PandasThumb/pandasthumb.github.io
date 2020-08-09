@@ -11,12 +11,12 @@ Today we received the following quiz, along with the title of this article, from
 To be safe, we received further permission from the parent to post the quiz publicly on PT. At the risk of appearing paranoid, we left out the name of the state and any other possible identifying material, as well as the name of our contact. I am posting the questions here, above the fold. The "correct" "answers" are given below the fold. Unless I am mistaken, only four of the "answers" are actually correct. Go ahead and take the quiz, and see for yourself.
 
 <figure> 
-<img src="/uploads/2020/Ham Test_1.jpeg" alt="Test questions"/>
+<img src="{{ site.baseurl }}/uploads/2020/Ham Test_1.jpeg" alt="Test questions"/>
 <figcaption>Page 1 of the quiz.</figcaption>
 </figure>
 
 <figure> 
-<img src="/uploads/2020/Ham Test_2.jpeg" alt="Test questions"/>
+<img src="{{ site.baseurl }}/uploads/2020/Ham Test_2.jpeg" alt="Test questions"/>
 <figcaption>Page 2 of the quiz.</figcaption>
 </figure>
 
@@ -25,17 +25,17 @@ OK, OK, stop here and review your answers before you go on to the published "ans
 <!--more-->
 
 <figure> 
-<img src="/uploads/2020/Ham Test_3.jpeg" alt="Answers"/>
+<img src="{{ site.baseurl }}/uploads/2020/Ham Test_3.jpeg" alt="Answers"/>
 <figcaption>Page 3, answers, of the quiz.</figcaption>
 </figure>
 
 <figure> 
-<img src="/uploads/2020/Ham Test_4.jpeg" alt="Answers"/>
+<img src="{{ site.baseurl }}/uploads/2020/Ham Test_4.jpeg" alt="Answers"/>
 <figcaption>Page 4, answers, of the quiz.</figcaption>
 </figure>
 
 <figure> 
-<img src="/uploads/2020/Ham Test_5.jpeg" alt="Answers"/>
+<img src="{{ site.baseurl }}/uploads/2020/Ham Test_5.jpeg" alt="Answers"/>
 <figcaption>Page 5, answers, of the quiz.</figcaption>
 </figure>
 

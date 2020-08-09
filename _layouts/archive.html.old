@@ -1,0 +1,23 @@
+---
+layout: default
+header_title: Archives
+---
+<section class="archive">
+  <div class="grid item">
+    <div class="unit whole">
+      <article>
+        <header>
+        	<h1>Archive of Articles from {{ page.date | date: "%Y" }}</h1>
+        </header>
+        <ul class="pagelist">
+		{% for post in page.posts %}
+		  <li><time pubdate="pubdate" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%B %-d, %Y' }}</time>:
+                  <a href="{{ site.url }}{{ site.baseurl }}{{ post.url | relative_url }}">{{ post.title }}</a>
+                  by {{ post.author }}.
+                  </li>
+                 {% endfor %}
+        </ul>
+      </article>
+    </div>
+  </div>
+</section>

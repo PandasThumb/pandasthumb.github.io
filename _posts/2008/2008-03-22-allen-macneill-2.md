@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3672
 basename: allen_macneill_2
 ---
-[<img src="/uploads/2008/Allen_2007-thumb-100x127.jpg" alt="Allen_2007.jpg" width="100" height="127" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/Allen_2007.html)[Allen MacNeill](http://evolutionlist.blogspot.com/), who teaches introductory biology and evolution at the Cornell University in Ithaca NY, left a [comment](http://pandasthumb.org/archives/2008/03/getexpelled-rsv.html#comment-147828) which I believe deserves more attention
+[<img src="{{ site.baseurl }}/uploads/2008/Allen_2007-thumb-100x127.jpg" alt="Allen_2007.jpg" width="100" height="127" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/Allen_2007.html)[Allen MacNeill](http://evolutionlist.blogspot.com/), who teaches introductory biology and evolution at the Cornell University in Ithaca NY, left a [comment](http://pandasthumb.org/archives/2008/03/getexpelled-rsv.html#comment-147828) which I believe deserves more attention
 
 Allen MacNeill wrote:
 

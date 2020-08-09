@@ -13,7 +13,7 @@ _with contributions by Matt Young_
 We forgot to declare a winner of the "general" category yesterday  The winner is Nicholas Plummer for his splendid photograph of a Robber Fly Eating a Wasp.
 
 <figure>
-<img src="/uploads/2010/plummer.promachus_and_vespula.jpg" alt="" width="600" height="444" />
+<img src="{{ site.baseurl }}/uploads/2010/plummer.promachus_and_vespula.jpg" alt="" width="600" height="444" />
 <figcaption markdown="span">
 Robber fly (possibly _Promachus rufipes_, [red-footed cannibalfly](http://www.insectimages.org/browse/subthumb.cfm?sub=20329)) eating [a wasp](http://en.wikipedia.org/wiki/Vespula) that it has caught in flight, by Nicholas Plummer.
 

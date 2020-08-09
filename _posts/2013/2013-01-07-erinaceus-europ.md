@@ -11,7 +11,7 @@ basename: erinaceus_europ
 Photograph by **Sarah Boosey**.
 
 <figure>
-<img src="/uploads/2013/Hedgehog_600.jpg" alt="Hedgehog_600.jpg" width="600" height="384" />
+<img src="{{ site.baseurl }}/uploads/2013/Hedgehog_600.jpg" alt="Hedgehog_600.jpg" width="600" height="384" />
 <figcaption markdown="span">
 <big>[_Erinaceus europaeus_](http://www.britishhedgehogs.org.uk/FAQS/general.htm), hedgehog, East Dereham, Norfolk, UK.</big>
 

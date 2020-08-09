@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3812
 basename: gamblers_ruin_i
 ---
-<img src="/uploads/2008/21poster.jpg" alt="" width="200" height="280" style="float:right;" />
+<img src="{{ site.baseurl }}/uploads/2008/21poster.jpg" alt="" width="200" height="280" style="float:right;" />
 
 **by Joe Felsenstein<br />[http&#58;//www.gs.washington.edu/faculty/felsenstein.htm](http://www.gs.washington.edu/faculty/felsenstein.htm)**
 

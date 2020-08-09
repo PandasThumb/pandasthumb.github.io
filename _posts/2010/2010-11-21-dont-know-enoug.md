@@ -13,7 +13,7 @@ Some of our more recent trolls have reminded me of an article, [Unskilled and Un
 Figure 1 is a graph redrawn from the paper by Kruger and Dunning. It plots the students' predicted scores on a particular test on the x-axis versus their actual scores on the y-axis.  On average, 66 % of the students thought they were better than average at performing that test; in reality, only 50 % of the students could have been better than average. More interestingly, the students in the lowest quartile estimated their abilities at around the 60th percentile, whereas in fact they should have got the 12.5th percentile.  By contrast, the students in the 4th quartile estimated their abilities at around the 75th percentile, whereas in fact they should have got the 87.5th percentile.  Kruger and Dunning provide 3 more graphs that pertain to other tests, but they all look roughly the same. There is more, but I won't bother you with it; let it suffice to say that the least competent students vastly overestimated their own abilities. Remind you of anyone?
 
 <figure>
-<img src="/uploads/2010/UnskilledGraph_600.jpg" alt="UnskilledGraph_600.jpg" width="600" height="459" />
+<img src="{{ site.baseurl }}/uploads/2010/UnskilledGraph_600.jpg" alt="UnskilledGraph_600.jpg" width="600" height="459" />
 <figcaption markdown="span">
 <big>Figure 1. Students' actual scores on a certain test versus their predicted scores. The weaker students substantially overestimate their abilities compared to everyone else's, whereas the stronger students slightly underestimate theirs.</big> \[After Kruger and Dunning's Figure 1.\]
 

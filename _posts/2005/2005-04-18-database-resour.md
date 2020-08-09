@@ -9,8 +9,8 @@ blog_id: 2
 post_id: 900
 basename: database_resour
 ---
-<img src="/uploads/2005/SGD-to-thumb.gif" alt="" style="float:left;" />
-<img src="/uploads/2005/SGD-thumb.gif" alt="" />
+<img src="{{ site.baseurl }}/uploads/2005/SGD-to-thumb.gif" alt="" style="float:left;" />
+<img src="{{ site.baseurl }}/uploads/2005/SGD-thumb.gif" alt="" />
 Everyone with a serious interest in biology is aware of PubMed and Genbank, the major literature and sequence databases at NIH. But there are a large number of more specialized and professionally curated databases that allow the researcher unparalleled glimpses into an organism's genetics, molecular biology, physiology and evolution. Over the next few articles, I'd like to highlight some of these databases, showing how they are used and how critical they are for an understanding of the organism. These databases often have deep and highly technical content, but they also have much that is accessible to the non-specialist. And in genomics there are always more questions being asked than there are people to supply answers. As with planetary image analysis and observational astronomy, there may be some areas of opportunity for talented amateurs (especially those with a computational background) who wish to make a contribution to the field.
 
 The first database I'll be highlighting is the one I use most -- several times a day, at least. In fact, I use it so much that the [Saccharomyces Genome Database](www.yeastgenome.org) is my browser homepage.

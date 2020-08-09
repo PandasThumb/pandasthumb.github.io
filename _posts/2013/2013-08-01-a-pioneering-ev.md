@@ -10,7 +10,7 @@ basename: a_pioneering_ev
 ---
 Jean Baptiste Pierre Antoine de Monet, Chevalier de Lamarck, would have been 269 today (August 1), were it not for his untimely death at 85.  But he did accomplish a few things -- he was one of the greatest pioneers of invertebrate biology (and he coined the words "invertebrate" and "biology").  And he put forward one of the very earliest theories of evolution, one that had proposed mechanisms.  A major mechanism he proposed, to explain adaptation in place of natural selection, was that effects of use and disuse of organs would be passed on to the next generation by inheritance of acquired characters.  Although that inheritance has come to be called "Lamarckian inheritance", he did not invent it -- it was commonly known to be true in those days.
 
-<img src="/uploads/2013/LamarckStatue512px.jpg" alt="LamarckStatue512px.jpg" width="256" height="385" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2013/LamarckStatue512px.jpg" alt="LamarckStatue512px.jpg" width="256" height="385" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 He was wrong about inheritance, but he got another important fact right ...
 

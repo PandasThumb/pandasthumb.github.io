@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2689
 basename: the_twelve_days
 ---
-<img src="/uploads/2005/santa.jpg" alt="" width="187" height="250" style="float:right;" />
+<img src="{{ site.baseurl }}/uploads/2005/santa.jpg" alt="" width="187" height="250" style="float:right;" />
 
 In the spirit of the season, [Tom Lehrer](http://members.aol.com/quentncree/lehrer/xmas.htm), [Weird Al Yankovic](http://www.lyricsfreak.com/w/weird-al-yankovic/145864.html) and [overwhelming evidence](http://www.overwhelmingevidence.com/),  and as we can't do flash animations with flatulence noises, once more the Panda's Thumb Offensive Morris Dancing Troop and Precision Yodelling Team bring you . . .
 

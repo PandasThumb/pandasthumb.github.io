@@ -18,13 +18,13 @@ Professor Hill claims that Amie Wilkinson, a mathematics professor at the Univer
 Oddly, an editor at the *New York Journal of Mathematics* contacted Prof. Hill and offered to publish the paper. It appears as though the paper was actually typeset, because you can see a pdf of it <a href="https://www.emis.de/journals/NYJM/j/2017/23-72p.pdf">here</a>, and the title page looks like this:
 
 <figure>
-<img src="/uploads/2018/NY_J_Math_2.jpg" alt="Title page"/>
+<img src="{{ site.baseurl }}/uploads/2018/NY_J_Math_2.jpg" alt="Title page"/>
 </figure>
 
 Yet if you go to the journal, you will find a <a href="http://nyjm.albany.edu/j/2017/23-72v.pdf">substitute paper</a>, 
 
 <figure>
-<img src="/uploads/2018/NY_J_Math_1.jpg" alt="Title page"/>
+<img src="{{ site.baseurl }}/uploads/2018/NY_J_Math_1.jpg" alt="Title page"/>
 </figure>
 
 which has almost the same pagination and must have been rushed into print within a few days, if Prof. Hill’s chronology is accurate. Professor Hill blames the retraction on Benson Farb, a member of the editorial board, who is married to Prof. Wilkinson and whose father-in-law is the anonymous statistician. Professor Farb supposedly wrote a somewhat intemperate letter threatening the editor of the journal with its imminent demise, unless the paper was pulled. Professor Farb posted a <a href="https://www.math.uchicago.edu/~farb/statement">Statement in response to Ted Hill’s unfounded allegations</a>, in which he says he was indeed concerned about the quality of the paper and also the appropriateness for a theoretical mathematics journal. He notes in his statement that Prof. Wilkinson had no role in the process. 

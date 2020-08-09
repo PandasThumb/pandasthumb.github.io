@@ -12,7 +12,7 @@ Photograph by **Robert Dullien**.
 
 
 <figure>
-<img src="/uploads/2016/Dullien_Sandhill_Crane_600.JPG" alt="Dullien_Sandhill_Crane_600.JPG" width="600" height="636" />
+<img src="{{ site.baseurl }}/uploads/2016/Dullien_Sandhill_Crane_600.JPG" alt="Dullien_Sandhill_Crane_600.JPG" width="600" height="636" />
 <figcaption markdown="span">
 <big>[_Grus canadensis_](https://www.allaboutbirds.org/guide/Sandhill_Crane/id) -- sandhill crane.</big>
 

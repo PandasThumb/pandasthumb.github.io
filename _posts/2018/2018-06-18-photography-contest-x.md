@@ -6,7 +6,7 @@ author: Matt Young
 Dust your tripods, dig out your cameras, clean your lenses (but please not with a dry cloth), enhance your best pictures (and, if you have entered before, remember that you are not limited to 3 good pictures per lifetime). The tenth (!) Panda's Thumb photography contest, begins – now!
 
 <figure>
-<img src="/uploads/2018/IMG_2154_Twin-Lens_Reflex_600.jpg" alt="Camera"/>
+<img src="{{ site.baseurl }}/uploads/2018/IMG_2154_Twin-Lens_Reflex_600.jpg" alt="Camera"/>
 <figcaption>
 <a href="https://en.wikipedia.org/wiki/Lubitel">Soviet-era twin-lens reflex camera</a>. Camera courtesy of <b>Angie Spiegel</b>.
 </figcaption>

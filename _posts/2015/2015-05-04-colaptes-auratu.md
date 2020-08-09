@@ -11,7 +11,7 @@ basename: colaptes_auratu
 Photograph by [Louis Shackleton](http://louisshackletonphotography.com/).
 
 <figure>
-<img src="/uploads/2015/Shackleton.Colaptes_auratus.jpg" alt="Shackleton.Colaptes_auratus.jpg" width="600" height="400" />
+<img src="{{ site.baseurl }}/uploads/2015/Shackleton.Colaptes_auratus.jpg" alt="Shackleton.Colaptes_auratus.jpg" width="600" height="400" />
 <figcaption markdown="span">
 <big>[_Colaptes auratus_](http://en.wikipedia.org/wiki/Northern_flicker) -- female yellow-shafted northern flicker, University of North Carolina at Wilmington campus. Mr. Shackleton writes, "She is gaping, that is, thermoregulating by opening her beak and just breathing, because birds do not sweat."</big>
 

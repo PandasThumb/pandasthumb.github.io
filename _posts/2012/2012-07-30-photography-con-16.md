@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 6561
 basename: photography_con_16
 ---
-<img src="/uploads/2012/IMG_2857_Argoflex_600.jpg" alt="IMG_2857_Argoflex_600.jpg" width="308" height="464" style="float:left;" />
+<img src="{{ site.baseurl }}/uploads/2012/IMG_2857_Argoflex_600.jpg" alt="IMG_2857_Argoflex_600.jpg" width="308" height="464" style="float:left;" />
 
 
 The fourth Panda's Thumb photography contest, 

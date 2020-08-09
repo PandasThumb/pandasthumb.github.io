@@ -18,7 +18,7 @@ The gene that the authors looked at codes for the protein semenogelin, which und
 
 Dorus and coworkers decided to look at the evolution of semenogelin in humans and several related species, and attempted to see if there was a correlation between evolutionary rate and mating system.  What they found was that in species in which females mate with multiple males, semenogelin has been evolving faster than in those who are monogamous or polygynous.  The results are shown in graph A of the following figure, and they look quite similar to the correlation between female promiscuity and testes size shown in graph B.       
 
-<img src="/uploads/2005/ng1471-F2.gif" alt="" />
+<img src="{{ site.baseurl }}/uploads/2005/ng1471-F2.gif" alt="" />
 
 On the Y-axis, the lower-case Greek letter 'omega' represents the ratio of nonsynonymous to synonymous mutations.  A ratio above 1 indicates positive Darwinian selection, whereas a number less than 1 represents purifying selection, and a ratio of exactly 1 represents neutral evolution.  We can see that there appears to have been substantial positive selection in chimpanzees (who also have the highest slut factor), somewhat less but still decidedly positive for macaques, and around one or less for the rest of us prudes.  We humans, yet again, fall somewhere in the middle.  
 

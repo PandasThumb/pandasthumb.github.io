@@ -13,7 +13,7 @@ The majority of U.S. medical schools do not require evolutionary biology as a pr
 Evolutionary training can help doctors look at diseases in a different light ([Nesse et al, 2006](http://www-personal.umich.edu/~nesse/Articles/NesseOmennStearns-MedNeedsEvolAnnot-Science-2006.pdf)). Take, for instance, [sickle cell anemia](http://www.nature.com/scitable/topicpage/natural-selection-uncovering-mechanisms-of-evolutionary-adaptation-34539): carriers of the sickle cell trait, a disease which is highly prevalent in tropical regions, are resistant to malaria, likely as a result of natural selection. This knowledge is helpful in developing ways to prevent malaria and perhaps similar evolutionary links between other diseases or infections and protective traits exist, but examining this hypothesis requires a thorough understanding of evolution and population genetics. Based on examples like this proponents of evolutionary medicine believe evolutionary biology should be considered a core subject for medical students, side by side with anatomy, physiology, biochemistry, and embryology, and that medical license exams should include questions about evolutionary biology.
 
 <figure>
-<img src="/uploads/2015/sickle%20cell.jpg" alt="" width="400" height="300" style="float:right;" />
+<img src="{{ site.baseurl }}/uploads/2015/sickle%20cell.jpg" alt="" width="400" height="300" style="float:right;" />
 <figcaption markdown="span">
 People with sickle-cell anemia, whose bodies produce abnormal, crescent-shaped red blood cells, also carry genes that protect against malaria. This is most likely the reason sickle cell anemia is so common in areas where malaria is highly prevalent.
 

@@ -18,4 +18,4 @@ They simply [_re-announced the release of the revised booklet, without mentionin
 
 Anyway, there has been a little progress.  Now all they need to do is to get rid of the aforementioned [**lies**](http://pandasthumb.org/archives/2007/11/sex-lies-and-a.html).
 
-<img src="/uploads/2007/oldvsnew.jpg" alt="oldvsnew.jpg" width="419" height="430" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
+<img src="{{ site.baseurl }}/uploads/2007/oldvsnew.jpg" alt="oldvsnew.jpg" width="419" height="430" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />

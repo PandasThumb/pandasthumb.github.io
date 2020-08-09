@@ -10,7 +10,7 @@ basename: casey_luskin_th_2
 ---
 In a response to publication of the [Cheng, _et al_ paper in PNAS](http://www.pnas.org/content/107/50/21593.abstract?sid=c12a7d0a-07fd-4458-851d-d83bd7210112) which demonstrated an evolutionary pathway to the antifreeze gene that protects fish from freezing in Antarctic water (see also [my post on it](http://pandasthumb.org/archives/2011/01/gene-duplicatio-1.html)), Casey Luskin, attack gerbil of the Disco 'Tute, [ invokes Stephen Jay Gould's infamous "just so" phrase](http://www.evolutionnews.org/2011/01/a_fishy_story_about_antifreeze043141.html).  Luskin then kindly outlines the three steps in constructing a "just so" story to account for biological phenomena.  Here I'll walk through Casey's steps for a parallel case to show just how specious his claim is.  The parallel case is accounting for how a particular boulder, indicated below by the red arrow, got to where it was in a landslide (image used by permission of [Air-and-Space Museum](http://www.air-and-space.com/home.htm)).
 
-<img src="/uploads/2011/Landslide.jpg" alt="Landslide.jpg" width="756" height="501" />
+<img src="{{ site.baseurl }}/uploads/2011/Landslide.jpg" alt="Landslide.jpg" width="756" height="501" />
 
 Luskin's main complaint about the Cheng, _et al._ paper is that it invokes various processes (_known to occur in nature_) to account for the end product:
 

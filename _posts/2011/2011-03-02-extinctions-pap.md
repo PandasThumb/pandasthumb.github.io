@@ -9,7 +9,7 @@ blog_id: 2
 post_id: 4894
 basename: extinctions_pap
 ---
-[<img src="/uploads/2011/Barnosky_etal_2011_Nature_Fig1-thumb-400x311-611.jpg" alt="Barnosky_etal_2011_Nature_Fig1.jpg" width="400" height="311" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](/uploads/2011/Barnosky_etal_2011_Nature_Fig1-thumb-400x311-611.jpg)This isn't exactly about creationism/evolution, but it's still pretty cool.  And I will find a way to tie it in, since I haven't blogged on PT in, I think, months.
+[<img src="{{ site.baseurl }}/uploads/2011/Barnosky_etal_2011_Nature_Fig1-thumb-400x311-611.jpg" alt="Barnosky_etal_2011_Nature_Fig1.jpg" width="400" height="311" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](/uploads/2011/Barnosky_etal_2011_Nature_Fig1-thumb-400x311-611.jpg)This isn't exactly about creationism/evolution, but it's still pretty cool.  And I will find a way to tie it in, since I haven't blogged on PT in, I think, months.
 
 Contrary to what creationists believe, evolutionary biologists don't sit around in biology departments plotting to overthrow God and morality.  We spend our time doing things like statistics and programming and specimen preparation and experimental manipulation and DNA sequencing and field observation, and then give and hear talks and discussions about this research.  The main thing we are interested in is not "proving evolution", it is discovering cool facts and devising hypotheses to explain them, and then devising tests of those hypotheses (typically, statistical tests, something which creationists almost always ignore).  In short, it's like any other science.
 

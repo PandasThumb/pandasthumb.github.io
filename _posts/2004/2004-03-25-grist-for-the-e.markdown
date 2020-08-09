@@ -12,7 +12,7 @@ Dembski's "Explanatory Filter" (EF) claims to be a reliable technique for detect
 
 Before going into the reasons that the EF is a psuedo-algorithm, I'd like to present an example of what Dawkins calls a "designoid," that is, something that appears designed but isn't. A "false positive" for the EF, if you will.
 
-<a href="/uploads/2005/brauer_fig3.jpg"><img alt="brauer_fig3.jpg" src="/uploads/2005/brauer_fig3-thumb.jpg" width="100" height="152" border="0" /></a>
+<a href="/uploads/2005/brauer_fig3.jpg"><img alt="brauer_fig3.jpg" src="{{ site.baseurl }}/uploads/2005/brauer_fig3-thumb.jpg" width="100" height="152" border="0" /></a>
 
 <!--more-->
 

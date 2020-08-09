@@ -4,7 +4,7 @@ date: '2019-08-23 17:15:00 -06:00'
 author: Matt Young
 ---
 <figure>
-<img src="/uploads/2019/Grant_County_BOE_Head_600.jpg" alt="Headline"/>
+<img src="{{ site.baseurl }}/uploads/2019/Grant_County_BOE_Head_600.jpg" alt="Headline"/>
 </figure>
 
 Head writers have to save space. In plain English, this headline from the Grant County News says, "The Grant County Board of Education is appealing the assessed valuation of the Ark Park by the County's Property Value Administration," which I take to be the assessor's office. According to the article, which was not on the Web when we received it from Dan Phelps, the Board of Education had appealed the PVA's valuation, lost, and is now suing.

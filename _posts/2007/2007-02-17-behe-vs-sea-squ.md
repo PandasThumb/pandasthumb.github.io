@@ -22,7 +22,7 @@ Let's have a look at some of these functions. But first a little background. The
 
 Molecular phylogeny suggests that trypsin and the clotting enzymes share a common ancestor \[3\]. Furthermore, the clotting enzymes prothrombin/thrombin, Factor X, Factor IX, Factor VII, and several others, all appear to be duplicates of each other \[3,4\].
 
-[<img src="/uploads/2007/Slide1-thumb.GIF" alt="Slide1.GIF" width="640" height="480" />](/uploads/2007/Slide1.GIF)
+[<img src="{{ site.baseurl }}/uploads/2007/Slide1-thumb.GIF" alt="Slide1.GIF" width="640" height="480" />](/uploads/2007/Slide1.GIF)
 
 **Figure 1**. Click for larger version. Gene duplication in the clotting system. Orange, duplicates of core serine proteases, Factors X, VII and IX are all believed to be derived from prothrombin, in turn derived from another serine protease. Light Blue: Factors VIII and V are duplicates of the [ceruloplasmin](http://en.wikipedia.org/wiki/Ceruloplasmin) family. Yellow, factor XIII is a member of the transglutamase family. Dark blue, Factor XI, is a duplicate of [prekallikrein](http://en.wikipedia.org/wiki/Kallikrein).
 
@@ -46,7 +46,7 @@ But you would be wrong. This is a key point on which Behe's argument turns. The 
 
 In case you think this is a bit far fetched, [sea squirts](http://en.wikipedia.org/wiki/Ascidian) have a thrombin-like serine protease that can convert mammalian fibrinogen to fibrin, making a clot \[14\]. But sea squirts don't have fibrinogen \[15\], in fact they don't clot their heamolymph (their equivalent of blood) either, they just plug all cuts with a loose haemocyte patch. So the thrombin-like protein must be doing something different, yet it is capable of acting like thrombin. So much for Behe's "thumb twiddling". 
 
-[<img src="/uploads/2007/Clotting_System-thumb.gif" alt="Clotting_System.gif" width="640" height="607" />](/uploads/2007/Clotting_System.gif)
+[<img src="{{ site.baseurl }}/uploads/2007/Clotting_System-thumb.gif" alt="Clotting_System.gif" width="640" height="607" />](/uploads/2007/Clotting_System.gif)
 
 **Figure 2.** Click for a larger version. The clotting systems of various chordates. Fish lack the intrinsic coagulation system, Jawless fish lack Factor X and the cephalochordates lack pretty much everything except a thrombin-like protein, but they can still clot their haemolymph. Sea squirts (not shown), have a thrombin-like protein but don't clot their haemolymph.
 
@@ -60,7 +60,7 @@ Inspection of the non-clotting roles of the clotting enzymes also suggest how a 
 
 In developing embryos, development of blood vessels (angiogenesis) depends on thrombin activating PAR-1 \[5\]. However, you can knock out the thrombin pathway and the blood vessels will still form. Factor VII and Factor X can substitute for thrombin \[5,6\]. Thus a smaller, simpler version of the clotting system can work doing a non-clotting job of activating PARs, and this system could be built up into a full system acting on PARs by duplication and mutation with neofunctionalisation, and then mutations which allowed the protothrombin to act on a protofibrinogen would have produced a workable primitive clotting system.
 
-[<img src="/uploads/2007/Pathway-thumb.jpg" alt="Pathway.jpg" width="440" height="145" />](/uploads/2007/Pathway.jpg)
+[<img src="{{ site.baseurl }}/uploads/2007/Pathway-thumb.jpg" alt="Pathway.jpg" width="440" height="145" />](/uploads/2007/Pathway.jpg)
 
 **Figure 3.** Despite knocking out thrombin, Factor X and Factor VI activate angiogenesis by alternate pathways. Figure taken from \[5\]
 

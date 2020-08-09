@@ -4,7 +4,7 @@ date: '2019-10-31 10:05:00 -06:00'
 author: Matt Young
 ---
 <figure>
-<img src="/uploads/2019/Virginia_Film_Festival_600.jpg" alt="Panel"/>
+<img src="{{ site.baseurl }}/uploads/2019/Virginia_Film_Festival_600.jpg" alt="Panel"/>
 <figcaption>Left to right, Paul Jones, moderator; Clayton Brown and Monica Long Ross, filmmakers; and David MacMillan and Dan Phelps. <small>https://www.youtube.com/watch?v=QtkzfCrW3CE</small>
 </figcaption>
 </figure>

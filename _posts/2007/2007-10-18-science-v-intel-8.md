@@ -9,7 +9,7 @@ blog_id: 2
 post_id: 3318
 basename: science_v_intel_8
 ---
-[<img src="/uploads/2007/flunked-thumb-100x31.jpg" alt="flunked.jpg" width="100" height="31" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/flunked1.html)
+[<img src="{{ site.baseurl }}/uploads/2007/flunked-thumb-100x31.jpg" alt="flunked.jpg" width="100" height="31" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/flunked1.html)
 
 I think that most people would agree that the terms [Religion, Scripture, Spirituality](http://www.utoronto.ca/stmikes/cont_ed/courses/noncredit/pastoral.html) describe quite accurately the context for Denyse O'Leary's "teaching" of a non-credit course in Pastoral Care about "Intelligent Design". I hope she can find a suitable textbook which accurately describes Intelligent Design.
 

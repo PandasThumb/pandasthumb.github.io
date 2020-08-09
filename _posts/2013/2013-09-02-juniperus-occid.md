@@ -13,7 +13,7 @@ Photograph by **James Rice**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2013/Rice.Juniperus%20occidentalis.jpg" alt="Rice.Juniperus occidentalis.jpg" width="600" height="926" />
+<img src="{{ site.baseurl }}/uploads/2013/Rice.Juniperus%20occidentalis.jpg" alt="Rice.Juniperus occidentalis.jpg" width="600" height="926" />
 <figcaption markdown="span">
 <big>[_Juniperus occidentalis_](http://en.wikipedia.org/wiki/Juniperus_occidentalis) var. _australis_ -- Sierra juniper. Mr. Rice writes, "This specimen is called "the Bennett juniper."  It is located in the Stanislaus National Forest of California, and is considered the oldest and largest example at possibly 3000 years old, with a height of 26 m and a diameter of 3.88 m.</big>
 

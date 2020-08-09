@@ -4,7 +4,7 @@ date: '2019-07-12 16:45 -06:00'
 author: Jonathan Kane
 ---
 <figure>
-<img src="/uploads/2019/Kane_Senter_Review_Cover_600.jpg" alt="Book cover"/>
+<img src="{{ site.baseurl }}/uploads/2019/Kane_Senter_Review_Cover_600.jpg" alt="Book cover"/>
 </figure>
 
 <em><b>Jonathan Kane</b> is a science writer who has written four previous posts for Panda's Thumb: <a href="https://pandasthumb.org/archives/2016/11/creationist-class.html">Creationist classification of theropods</a>, <a href="https://pandasthumb.org/archives/2017/10/five-principles.html">Five principles for arguing against creationism</a>, <a href="https://pandasthumb.org/archives/2018/03/general-intelligence.html">General intelligence: What we know and how we know it</a>, and <a href="https://pandasthumb.org/archives/2018/10/John-Woodmorappe-vs.html">John Woodmorappe vs. modern creation science: a response</a>. He is the editor and primary author of <a href="https://www.amazon.com/Gods-Word-Human-Reason-Perspective/dp/1629013722">God’s Word or Human Reason? An Inside Perspective on Creationism</a>, co-authored with Emily Willoughby, T. Michael Keesey, Glenn Morton, and James R. Comer, published December 2016 by Inkwater Press. This post is a review of <a href="https://www.cambridgescholars.com/fire-breathing-dinosaurs-the-hilarious-history-of-creationist-pseudoscience-at-its-silliest">Fire-Breathing Dinosaurs? The Hilarious History of Creationist Pseudoscience at Its Silliest</a> by Philip J. Senter. Published by Cambridge Scholars Publishing, 211 pages. Matt Young is this post's moderator.</em>

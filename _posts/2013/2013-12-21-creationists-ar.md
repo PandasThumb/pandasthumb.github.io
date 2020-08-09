@@ -11,7 +11,7 @@ basename: creationists_ar
 A reader asks _weather_ anyone knows what book this page comes from _or not_:
 
 <figure>
-<img src="/uploads/2013/MysteryWorkbook_600.jpg" alt="MysteryWorkbook_600.jpg" width="600" height="786" />
+<img src="{{ site.baseurl }}/uploads/2013/MysteryWorkbook_600.jpg" alt="MysteryWorkbook_600.jpg" width="600" height="786" />
 <figcaption markdown="span">
 </figcaption>
 </figure>

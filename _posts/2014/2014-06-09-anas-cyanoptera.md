@@ -9,7 +9,7 @@ post_id: 6967
 basename: anas_cyanoptera
 ---
 <figure>
-<img src="/uploads/2014/IMG_0622CinnamonTeal_600.jpg" alt="IMG_0622CinnamonTeal_600.jpg" width="600" height="713" />
+<img src="{{ site.baseurl }}/uploads/2014/IMG_0622CinnamonTeal_600.jpg" alt="IMG_0622CinnamonTeal_600.jpg" width="600" height="713" />
 <figcaption markdown="span">
 <big>[_Anas cyanoptera_](http://www.allaboutbirds.org/guide/cinnamon_teal/lifehistory) -- cinnamon teal, Walden Ponds, Boulder, Colorado.</big>
 

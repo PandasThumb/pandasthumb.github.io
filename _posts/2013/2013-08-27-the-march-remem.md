@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 6809
 basename: the_march_remem
 ---
-<img src="/uploads/2013/march1963c.jpg" alt="march1963c.jpg" width="141" height="136" class="mt-image-none" />
+<img src="{{ site.baseurl }}/uploads/2013/march1963c.jpg" alt="march1963c.jpg" width="141" height="136" class="mt-image-none" />
 
 Fifty years ago, on the evening of August 27, 1963, I boarded a chartered
 bus in Rochester, New York, to travel overnight to the March on

@@ -13,7 +13,7 @@ _In the next few weeks, we'll be posting a series of articles for the general pu
 Imagine you could go back in time and meet your great grandmother or even your great-great-great-great-great grandmother, when they were your age. Would they look like you? Or would they look more like your siblings or cousins? Maybe you would all look a little different. Scientists try to figure out how the distant ancestors of apes, other animals, plants, and all organisms living today looked and behaved, much in the same way that people use a family tree to trace their ancestry.
 
 <figure>
-<img src="/uploads/2014/primate-family-tree-780x520_0.gif" alt="primate-family-tree-780x520_0.gif" width="450" height="300" style="float:right;" />
+<img src="{{ site.baseurl }}/uploads/2014/primate-family-tree-780x520_0.gif" alt="primate-family-tree-780x520_0.gif" width="450" height="300" style="float:right;" />
 <figcaption markdown="span">
 The common ancestor of great apes lived about 18 million years ago.
 Source: Smithsonian National Museum of Natural History http://humanorigins.si.edu/evidence/genetics

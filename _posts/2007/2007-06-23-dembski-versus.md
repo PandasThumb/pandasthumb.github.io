@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3095
 basename: dembski_versus
 ---
-<img src="/uploads/2007/Logo130X120.jpg" alt="Logo130X120.jpg" width="130" height="120" style="float:left;" />After lamenting the honorary degree bestowed on Judge Jones, Dembski has set his sights on the [ Council of Europe](http://assembly.coe.int/main.asp?Link=/documents/workingdocs/doc07/edoc11297.htm) who recently released a working document
+<img src="{{ site.baseurl }}/uploads/2007/Logo130X120.jpg" alt="Logo130X120.jpg" width="130" height="120" style="float:left;" />After lamenting the honorary degree bestowed on Judge Jones, Dembski has set his sights on the [ Council of Europe](http://assembly.coe.int/main.asp?Link=/documents/workingdocs/doc07/edoc11297.htm) who recently released a working document
 
 > The theory of evolution is being attacked by religious fundamentalists who call for creationist theories to be taught in European schools alongside or even in place of it. From a scientific view point there is absolutely no doubt that evolution is a central theory for our understanding of the Universe and of life on Earth.
 > 

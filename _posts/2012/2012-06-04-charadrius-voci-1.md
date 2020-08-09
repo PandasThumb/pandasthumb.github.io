@@ -9,7 +9,7 @@ post_id: 6525
 basename: charadrius_voci_1
 ---
 <figure>
-<img src="/uploads/2012/IMG_2743_Killdeer_600.jpg" alt="IMG_2743_Killdeer_600.jpg" width="600" height="400" />
+<img src="{{ site.baseurl }}/uploads/2012/IMG_2743_Killdeer_600.jpg" alt="IMG_2743_Killdeer_600.jpg" width="600" height="400" />
 <figcaption markdown="span">
 <big>[_Charadrius vociferus_](http://en.wikipedia.org/wiki/Killdeer) -- killdeer.</big> Walden Ponds, Boulder, Colorado.
 

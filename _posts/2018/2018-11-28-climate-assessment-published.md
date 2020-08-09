@@ -4,7 +4,7 @@ date: '2018-11-28 12:00:00 -07:00'
 author: Matt Young
 ---
 <figure>
-<img src="/uploads/2018/Climate_Assessment_Cover.jpg" alt="Report cover"/>
+<img src="{{ site.baseurl }}/uploads/2018/Climate_Assessment_Cover.jpg" alt="Report cover"/>
 <figcaption>
 Photograph credit: National Park Service.
 </figcaption>

@@ -5,7 +5,7 @@ author: Matt Young
 ---
 
 <figure>
-<img src="/uploads/2016/We_Believe_in_Dinosaurs_600.jpg" alt="Dinosaur" />
+<img src="{{ site.baseurl }}/uploads/2016/We_Believe_in_Dinosaurs_600.jpg" alt="Dinosaur" />
 </figure>
 
 The new film, "We believe in dinosaurs," follows the construction of the [Ark "replica"](https://pandasthumb.org/archives/2016/04/the-ark-park-is.html) in Kentucky for several years and features Dan Phelps, who has often provided [fodder](https://pandasthumb.org/archives/2012/08/behind-the-scen.html) for Panda's Thumb; David MacMillan, the former creationist who wrote a [series](https://pandasthumb.org/archives/2014/05/understanding-c.html) for Panda's Thumb; and Doug Henderson, who fabricated many of the dinosaurs and other exhibits in the Ark "replica." Mr. Phelps also posted an [article](https://ncse.com/library-resource/kentucky-gets-ark-shaped-second-creation-museum) describing his visit to the Ark Park on the website of the [National Center for Science Education](https://ncse.com).

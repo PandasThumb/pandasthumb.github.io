@@ -9,7 +9,7 @@ post_id: 6524
 basename: castor_canadens
 ---
 <figure>
-<img src="/uploads/2012/IMG_2597_Beaver_600.jpg" alt="IMG_2597_Beaver_600.jpg" width="600" height="450" />
+<img src="{{ site.baseurl }}/uploads/2012/IMG_2597_Beaver_600.jpg" alt="IMG_2597_Beaver_600.jpg" width="600" height="450" />
 <figcaption markdown="span">
 <big>[_Castor canadensis_](http://en.wikipedia.org/wiki/North_American_Beaver) -- American beaver.  Sorry, the beavers are asleep now, but they deforested this area to build a lodge.</big> Walden Ponds, Boulder, Colorado. 
 

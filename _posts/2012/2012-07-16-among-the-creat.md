@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 6553
 basename: among_the_creat
 ---
-<img src="/uploads/2012/RosenhouseCover.jpg" alt="RosenhouseCover.jpg" width="308" height="464" style="float:right;" />
+<img src="{{ site.baseurl }}/uploads/2012/RosenhouseCover.jpg" alt="RosenhouseCover.jpg" width="308" height="464" style="float:right;" />
 
 Jason Rosenhouse moved from the east coast to Kansas for a postdoc. He had studied a bit about creationism while a graduate student at Dartmouth, so it would be an exaggeration to say that he was surprised to learn that not everyone in Kansas was a liberal Democrat (even by today's standard of liberalism). Nevertheless, for reasons that are not made completely clear, he humored his inner anthropologist and attended a handful of creationist conferences over a period of several years. The result is the splendid book _[Among the Creationists](http://www.amazon.com/Among-Creationists-Dispatches-Anti-Evolutionist-Front/dp/0199744637): Dispatches from the Anti-Evolutionist Front Line_, which both shows creationists as regular people, just like scientists, and also takes them seriously, without condescension or sarcasm.
 

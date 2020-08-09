@@ -22,7 +22,7 @@ Reed Cartwright contributed to this post.
 Eclipse, by **Keith Barkley**.
 
 <figure>
-<img src="/uploads/2014/Barkley.Eclipse.jpg" alt="Barkley.Eclipse.jpg" width="600" height="400" />
+<img src="{{ site.baseurl }}/uploads/2014/Barkley.Eclipse.jpg" alt="Barkley.Eclipse.jpg" width="600" height="400" />
 <figcaption markdown="span">
 <big>[Solar eclipse](http://en.wikipedia.org/wiki/Solar_eclipse), May 20, 2012. Mr. Barkley writes, "I lucked out that the eclipse was still going on during local sunset. One of the few eclipse images you will see that was taken without a sun-viewing filter on the lens."</big>
 
@@ -35,7 +35,7 @@ Eclipse, by **Keith Barkley**.
 Blue-eyed darner, by **David Cox**.
 
 <figure>
-<img src="/uploads/2014/Cox.Aeshna_multicolor.jpg" alt="Cox.Aeshna_multicolor.jpg" width="600" height="533" />
+<img src="{{ site.baseurl }}/uploads/2014/Cox.Aeshna_multicolor.jpg" alt="Cox.Aeshna_multicolor.jpg" width="600" height="533" />
 <figcaption markdown="span">
 <big>[_Aeshna multicolor_](http://en.wikipedia.org/wiki/Blue-eyed_Darner) -- blue-eyed darner.</big>
 
@@ -48,7 +48,7 @@ Blue-eyed darner, by **David Cox**.
 Parasitized moth larva, by **Al Denelsbeck**.
 
 <figure>
-<img src="/uploads/2014/Denelsbeck.Acharia_stimulea.jpg" alt="Denelsbeck.Acharia_stimulea.jpg" width="600" height="400" />
+<img src="{{ site.baseurl }}/uploads/2014/Denelsbeck.Acharia_stimulea.jpg" alt="Denelsbeck.Acharia_stimulea.jpg" width="600" height="400" />
 <figcaption markdown="span">
 
 <big>[_Acharia stimulea_](http://bugguide.net/node/view/507) -- saddleback caterpillar moth larva, which has been parasitized by a species of [Braconid wasp](http://bugguide.net/node/view/170), of the superfamily Ichneumonoidea. Mr.  Denelsbeck writes, "Darwin, of course, made a comment in a letter to a colleague regarding the nasty life cycle of the Ichneumon family. The wasp has laid eggs in either the caterpillar itself, or in the eggs that would hatch the caterpillar, and the wasp's larva hatched and commenced eating the caterpillar from the inside. Seen here, the larva have come to the surface and spun their cocoons outside the caterpillar's body to pupate within, soon to emerge outside as adults. The caterpillar, already ravaged internally, will live only a few more days.</big>
@@ -64,7 +64,7 @@ Parasitized moth larva, by **Al Denelsbeck**.
 Honeysuckle, by **Richard Meiss**.
 
 <figure>
-<img src="/uploads/2014/Meiss-Honeysuckle_Second_Flowering.jpg" alt="Meiss-Honeysuckle_Second_Flowering.jpg" width="600" height="496" />
+<img src="{{ site.baseurl }}/uploads/2014/Meiss-Honeysuckle_Second_Flowering.jpg" alt="Meiss-Honeysuckle_Second_Flowering.jpg" width="600" height="496" />
 <figcaption markdown="span">
 <big>[_Lonicera X bella_](http://mdc.mo.gov/sites/default/files/resources/2010/08/9675_6621.pdf) -- Asian bush honeysuckle. Mr. Meiss writes, "This photo shows the coexisting ripe berries and new flowers of the Asian bush honeysuckle, an invasive species in the American midwest. This 'second flowering' in mid-September was induced by the very hot and dry summer of 2012.  The phenomenon, an adaptation to environmental stress, was also widely noted in the British Isles; its prevalence is likely related to global warming.  In this case, it may give a 'leg up' to an already-troublesome invasive species."</big>
 
@@ -77,7 +77,7 @@ Honeysuckle, by **Richard Meiss**.
 Flightless Gal&aacute;pagos cormorant, by **Dan Moore**.
 
 <figure>
-<img src="/uploads/2014/Moore.Galapagos_Flightless_Cormorant.jpg" alt="Moore.Galapagos_Flightless_Cormorant.jpg" width="600" height="400" />
+<img src="{{ site.baseurl }}/uploads/2014/Moore.Galapagos_Flightless_Cormorant.jpg" alt="Moore.Galapagos_Flightless_Cormorant.jpg" width="600" height="400" />
 <figcaption markdown="span">
 <big>[_Phalacrocorax harrisi_](en.wikipedia.org/wiki/Flightless_cormorant) -- flightless Gal&aacute;pagos cormorant.  Mr. Moore writes, "Having made its way to a small set of islands we now call the Gal&aacute;pagos and given sufficient food and no predators, the cormorant had no need to fly, so over the years lost its full-feathered wings. Its bright-orange companion is [_Grapsus grapsus_](http://pandasthumb.org/archives/2009/06/grapsus-grapsus.html) -- the Sally Lightfoot crab."</big> 
 

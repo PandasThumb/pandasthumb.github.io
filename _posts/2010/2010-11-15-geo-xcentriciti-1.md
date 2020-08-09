@@ -58,7 +58,7 @@ Fortunately, in [the original image](http://photojournal.jpl.nasa.gov/catalog/PI
 
 So "Eppur si muove" because it um, doesn't move (with respect to the background stars  as seen from Mars).
 
-[<img src="/uploads/2010/Galilean_sunspots-thumb-400x294-565.png" alt="Galilean_sunspots.png" width="400" height="294" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](/uploads/2010/Galilean_sunspots.png)Image credit; Topper, D. Galileo, Sunspots, and the Motions of the Earth: Redux Isis, Vol. 90, No. 4 (Dec., 1999), pp. 757-767
+[<img src="{{ site.baseurl }}/uploads/2010/Galilean_sunspots-thumb-400x294-565.png" alt="Galilean_sunspots.png" width="400" height="294" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](/uploads/2010/Galilean_sunspots.png)Image credit; Topper, D. Galileo, Sunspots, and the Motions of the Earth: Redux Isis, Vol. 90, No. 4 (Dec., 1999), pp. 757-767
 Illustration of the annual variation in the paths sunspots take across the sun, and the heliocentric projection which explains it. 
 
 

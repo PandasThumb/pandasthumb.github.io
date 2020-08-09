@@ -12,7 +12,7 @@ Photograph by **Dan Phelps**.
 
 
 <figure>
-<img src="/uploads/2015/GentooPenguinsDancoIs_600.JPG" alt="GentooPenguinsDancoIs_600.JPG" width="600" height="450" />
+<img src="{{ site.baseurl }}/uploads/2015/GentooPenguinsDancoIs_600.JPG" alt="GentooPenguinsDancoIs_600.JPG" width="600" height="450" />
 <figcaption markdown="span">
 <big>[_Pygoscelis papua_](http://en.wikipedia.org/wiki/Gentoo_penguin) -- gentoo penguin, [Danco Island](http://en.wikipedia.org/wiki/Danco_Island), Antarctica.</big>
 

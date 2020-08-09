@@ -9,7 +9,7 @@ post_id: 6428
 basename: darwin_day_is_f
 ---
 <figure>
-<img src="/uploads/2012/Darwin_EllenSharples_1816.jpg" alt="Darwin_EllenSharples_1816.jpg" width="600" height="732" />
+<img src="{{ site.baseurl }}/uploads/2012/Darwin_EllenSharples_1816.jpg" alt="Darwin_EllenSharples_1816.jpg" width="600" height="732" />
 <figcaption markdown="span">
 Charles Darwin in 1816. Detail of a [painting](http://commons.wikimedia.org/wiki/File:Charles_and_Catherine_Darwin,_1816,_by_Sharples.jpg) by Ellen Sharples. Public domain.
 

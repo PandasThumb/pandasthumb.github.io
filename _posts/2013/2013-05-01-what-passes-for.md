@@ -11,7 +11,7 @@ basename: what_passes_for
 Snopes.com yesterday [verified](http://www.snopes.com/photos/signs/sciencetest.asp) that a "science" test (below the fold) given to 4th graders at a sectarian school is in fact real. Answers in Genesis, meanwhile, [vilifies](http://www.answersingenesis.org/articles/2013/04/30/atheists-attack-christian-school) anyone who objects to such nonsense being taught as science, calling them "intolerant atheists" who "viciously attack \[a\] Christian school."
 
 <figure>
-<img src="/uploads/2013/CreationistScienceTest.jpg" alt="CreationistScienceTest.jpg" width="591" height="1570" />
+<img src="{{ site.baseurl }}/uploads/2013/CreationistScienceTest.jpg" alt="CreationistScienceTest.jpg" width="591" height="1570" />
 <figcaption markdown="span">
 Thanks to Glenn Branch for the links.
 

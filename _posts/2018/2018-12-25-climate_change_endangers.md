@@ -5,7 +5,7 @@ author: Matt Young
 ---
 
 <figure>
-<img src="/uploads/2018/IMG_3708_Iguana_600.jpg" alt="Iguana"/>
+<img src="{{ site.baseurl }}/uploads/2018/IMG_3708_Iguana_600.jpg" alt="Iguana"/>
 <figcaption>
 <a href="https://en.wikipedia.org/wiki/Marine_iguana"><i>Amblyrhynchus cristatus</i></a> &ndash; Galápagos marine iguana.
 </figcaption>

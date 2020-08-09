@@ -9,7 +9,7 @@ post_id: 7127
 basename: model_of_the_beagle
 ---
 <figure>
-<img src="/uploads/2015/Pena_Lego_Beagle_600.jpg" alt="Pena_Lego_Beagle_600.jpg" width="600" height="448" />
+<img src="{{ site.baseurl }}/uploads/2015/Pena_Lego_Beagle_600.jpg" alt="Pena_Lego_Beagle_600.jpg" width="600" height="448" />
 <figcaption markdown="span">
 Model of the HMS _Beagle_ constructed by Luis Pe&ntilde;a out of more than 2000 Lego pieces.
 
@@ -29,7 +29,7 @@ Asked for more detail, Dr. Pe&ntilde;a writes,
 > My project includes a scale model of the HMS _Beagle_ and three little dioramas with key moments of the trip (Patagonia, Andes Mountains, and Gal&aacute;pagos Islands). There are minifigures of Charles Darwin, Robert FitzRoy, and another six members of the crew. The ship is made with 2,024 Lego pieces, and the sails are made of bricks.
 > 
 > <figure>
-> <img src="/uploads/2015/Pena_Darwin_Deck_450.jpg" alt="Pena_Darwin_Deck_450.jpg" width="450" height="157" />
+> <img src="{{ site.baseurl }}/uploads/2015/Pena_Darwin_Deck_450.jpg" alt="Pena_Darwin_Deck_450.jpg" width="450" height="157" />
 > <figcaption markdown="span">
 > A scene aboard the _Beagle_ (left), and Darwin and FitzRoy (right).
 > 

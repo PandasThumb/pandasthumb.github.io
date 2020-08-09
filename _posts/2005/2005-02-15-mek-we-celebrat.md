@@ -12,7 +12,7 @@ Someone stole my idea.
 
 In celebration of [Darwin Day](http://www.darwinday.org/home/index.html), someone has set the _Origin of Species_ to [Dub](http://en.wikipedia.org/wiki/Dub_music), a kind of music related to Reggae.  No, really.    
 
-<img src="/uploads/2005/Origin Album cover2.jpg" alt="" />
+<img src="{{ site.baseurl }}/uploads/2005/Origin Album cover2.jpg" alt="" />
 
 This new artistic endeavor is the creation of the [Genomic Dub Collective](http://www.infection.bham.ac.uk/BPAG/Dub/GDC.html), a group which aims to "create a new musical genre... that celebrates recent successes in the field of genomics and evolutionary biology."  Why someone didn't think of this before, I'll never know.  The group draws talent from a Microbial Genomicist and a Jamaican scientist of some sort.  
 

@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2069
 basename: no_joke_someone
 ---
-<img src="/uploads/2006/Antunesa_etal_2006_rhino_print_in_coprolite_small.gif" alt="Fossil rhino footprint in, um..." width="125" height="92" style="float:left;" />[April Fool's Day](http://www.google.com/search?sourceid=mozclient&amp;ie=utf-8&amp;oe=utf-8&amp;q=April+fools+day) is just around the corner.  And while [this paper in the august journal  _Annales de PalÃ©ontologie_](http://dx.doi.org/10.1016/j.annpal.2005.09.002) isn't supposed to be a joke, it definitely should be:
+<img src="{{ site.baseurl }}/uploads/2006/Antunesa_etal_2006_rhino_print_in_coprolite_small.gif" alt="Fossil rhino footprint in, um..." width="125" height="92" style="float:left;" />[April Fool's Day](http://www.google.com/search?sourceid=mozclient&amp;ie=utf-8&amp;oe=utf-8&amp;q=April+fools+day) is just around the corner.  And while [this paper in the august journal  _Annales de PalÃ©ontologie_](http://dx.doi.org/10.1016/j.annpal.2005.09.002) isn't supposed to be a joke, it definitely should be:
 
 Miguel Telles Antunesa, Ausenda C. Balbino and LÃ©onard Ginsburg (2006). "[Miocene Mammalian footprints in coprolites from Lisbon, Portugal](http://dx.doi.org/10.1016/j.annpal.2005.09.002)." _Annales de PalÃ©ontologie_, 92(1), pp. 13-30. January-March 2006.
 
@@ -58,7 +58,7 @@ It's nice to see scientists exhibit such obvious expertise and joy in the subjec
 
 Here is a drawing that reconstructs the difficult-to-interpret photograph at the top of the post:
 
-> <img src="/uploads/2006/Antunesa_etal_2006_rhino_print_in_coprolite_drawing.gif" alt="Drawing of fossil rhino footprint in, um..." width="340" height="310" style="" />
+> <img src="{{ site.baseurl }}/uploads/2006/Antunesa_etal_2006_rhino_print_in_coprolite_drawing.gif" alt="Drawing of fossil rhino footprint in, um..." width="340" height="310" style="" />
 > **Fig. 2.** Drawing of the coprolite in the same position. The arrow approximately indicates the direction and extension of the foot displacement by sliding on the dung.
 
 PS: I know this is funny, but in the comments, please make artful use of @#\*$!%(## rather than just typing the obvious words.  We would prefer that PT not be banned by nanny programs and the like.

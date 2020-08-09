@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3577
 basename: some_good_news_1
 ---
-[<img src="/uploads/2008/pandathumbla7-thumb-118x121.jpg" alt="pandathumbla7.jpg" width="118" height="121" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/pandathumbla7.html) 
+[<img src="{{ site.baseurl }}/uploads/2008/pandathumbla7-thumb-118x121.jpg" alt="pandathumbla7.jpg" width="118" height="121" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/pandathumbla7.html) 
 Our friends at [Florida Citizens for Science](http://www.flascience.org/wp/) report  on a variety of [positive developments](http://www.flascience.org/wp/?p=439). All this may very well be related to the public hearing in which so many creationists got to demonstrate the deep level of ignorance amongst the public when it comes to evolution and evolutionary theory.
 
 1. [Monroe County](http://www.flascience.org/wp/?p=439) approves resolution in favor of the proposed standards

@@ -9,7 +9,7 @@ post_id: 6884
 basename: cyanocitta_stel
 ---
 <figure>
-<img src="/uploads/2013/IMG_3495StellersJay_600.jpg" alt="IMG_3495StellersJay_600.jpg" width="600" height="800" />
+<img src="{{ site.baseurl }}/uploads/2013/IMG_3495StellersJay_600.jpg" alt="IMG_3495StellersJay_600.jpg" width="600" height="800" />
 <figcaption markdown="span">
 <big>[_Cyanocitta stelleri_](http://www.allaboutbirds.org/guide/Stellers_jay/id) &ndash; Steller's jay, Chautauqua Park, Boulder, Colorado, 2013.</big>
 

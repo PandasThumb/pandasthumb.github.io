@@ -9,7 +9,7 @@ post_id: 7190
 basename: recurvirostra_a_1
 ---
 <figure>
-<img src="/uploads/2016/DSC00949_Avocet_600_2.JPG" alt="DSC00949_Avocet_600_2.JPG" width="599" height="450" />
+<img src="{{ site.baseurl }}/uploads/2016/DSC00949_Avocet_600_2.JPG" alt="DSC00949_Avocet_600_2.JPG" width="599" height="450" />
 <figcaption markdown="span">
 <big>[_Recurvirostra americana_](https://www.allaboutbirds.org/guide/American_Avocet/lifehistory) -- American avocet, Cottonwood Lake, Boulder, Colorado, 3 days ago.</big>
 

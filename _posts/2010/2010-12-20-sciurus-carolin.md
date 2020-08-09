@@ -13,7 +13,7 @@ Photograph by **Tom Faller**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2010/Faller.Brevard%20White%20Squirrel.jpg" alt="Faller.Brevard White Squirrel.jpg" width="600" height="875" />
+<img src="{{ site.baseurl }}/uploads/2010/Faller.Brevard%20White%20Squirrel.jpg" alt="Faller.Brevard White Squirrel.jpg" width="600" height="875" />
 <figcaption markdown="span">
 <big>_Sciurus carolinensis_ -- [Brevard white squirrel](http://brevardnc.org/faq/), Brevard, North Carolina.</big> Mr. Faller writes,  "Not albino; descendants of a white squirrel pair, protected in Brevard, N. C. limits."
 

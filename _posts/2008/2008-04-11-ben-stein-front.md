@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3736
 basename: ben_stein_front
 ---
-[<img src="/uploads/2008/banner-thumb-125x35.jpg" alt="banner.jpg" width="125" height="35" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://www.expelledexposed.com)Yet another scathing review, this time from the [Huffington Post's](http://www.huffingtonpost.com/valerie-tarico/ben-stein-front-man-for-c_b_96263.html) Valerie Tarico. The meme of a "Manufactroversy" combined with meme of 'flunked' seem to be catching on.
+[<img src="{{ site.baseurl }}/uploads/2008/banner-thumb-125x35.jpg" alt="banner.jpg" width="125" height="35" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://www.expelledexposed.com)Yet another scathing review, this time from the [Huffington Post's](http://www.huffingtonpost.com/valerie-tarico/ben-stein-front-man-for-c_b_96263.html) Valerie Tarico. The meme of a "Manufactroversy" combined with meme of 'flunked' seem to be catching on.
 
 > How long have creationists been talking about "Darwinism" as if no one but Darwin had noticed the fossil record or the DNA code in the last 100 years? It does get tiresome, responding to their ever evolving anti-evolutionary rhetoric. But we need to expose the bizarre supernaturalist agenda behind all the sudden whining about academic freedom. And somebody needs to gently remind Stein and his creationist cronies that they haven't been expelled from school, they flunked.
 

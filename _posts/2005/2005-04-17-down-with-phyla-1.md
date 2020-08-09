@@ -23,7 +23,7 @@ The paper begins with [nematodes](http://www.ucmp.berkeley.edu/phyla/ecdysozoa/n
 
 Fitch and Sudhaus (2002) begin by noting that in certain lineages of nematodes, the mouth has shifted from a terminal position ("terminal" means that the mouth is at the front tip of the worm, to a "neural" position (twisted to be on the same side of the body as the neural cord) or to an "abneural" position (twisted to be on the opposite side of the neural chord).  See their Figure 1a:
 
-> <img src="/uploads/2005/Fitch_Sudhaus_2002_Fig1a.gif" alt="" />
+> <img src="{{ site.baseurl }}/uploads/2005/Fitch_Sudhaus_2002_Fig1a.gif" alt="" />
 > 
 > **Note:** This figure shows three nematode species, _Hypodontus macropi_ (mouth is neural), _Gaigeria pachyscelis_ (mouth is abneural), and _Oscheius_ sp. (mouth is terminal).  Red indicates the appearance of the character change in the phylogeny.
 
@@ -39,7 +39,7 @@ Fitch and Sudhaus conclude that -- rather like [a "language" is a dialect with a
 
 Fitch and Sudhaus show this inconsistency in their Figure 1b:
 
-> <img src="/uploads/2005/Fitch_Sudhaus_2002_Fig1b.gif" alt="" />
+> <img src="{{ site.baseurl }}/uploads/2005/Fitch_Sudhaus_2002_Fig1b.gif" alt="" />
 > 
 > **Note:** This figure shows that in Linnaean taxonomy, not all character changes in organisms are treated equally, even if they are identical changes. (Red = new character on the phylogeny)
 

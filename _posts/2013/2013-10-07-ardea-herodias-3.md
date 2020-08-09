@@ -13,7 +13,7 @@ Photograph by **Tom Gillespie**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2013/Gillespie.Great_Blue_Heron.jpg" alt="Gillespie.Great_Blue_Heron.jpg" width="600" height="900" />
+<img src="{{ site.baseurl }}/uploads/2013/Gillespie.Great_Blue_Heron.jpg" alt="Gillespie.Great_Blue_Heron.jpg" width="600" height="900" />
 <figcaption markdown="span">
 <big>[_Ardea herodias_](http://en.wikipedia.org/wiki/Great_Blue_Heron) -- great blue heron, December 2012, near Nashville, Tennessee.</big>
 

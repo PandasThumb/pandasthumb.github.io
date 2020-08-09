@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 4913
 basename: primordial_soup_2
 ---
-<img src="/uploads/2010/PrimordialSoupPPR.jpg" alt="PrimordialSoupPPR.jpg" width="400" height="379" style="float:left;" />
+<img src="{{ site.baseurl }}/uploads/2010/PrimordialSoupPPR.jpg" alt="PrimordialSoupPPR.jpg" width="400" height="379" style="float:left;" />
 
 It's been a while since I [wrote about Primordial Soup](http://pandasthumb.org/archives/2010/02/primordial-soup-1.html) - and it's Back in the News!
 

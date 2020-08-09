@@ -11,7 +11,7 @@ basename: sciurus_sp
 Photograph by **Mike Elzinga**.
 
 <figure>
-<img src="/uploads/2010/Mixed%202B.jpg" alt="Mixed 2B.jpg" width="600" height="405" />
+<img src="{{ site.baseurl }}/uploads/2010/Mixed%202B.jpg" alt="Mixed 2B.jpg" width="600" height="405" />
 <figcaption markdown="span">
 <big>_Sciurus_ sp. -- possibly a melanistic form of _S. carolinensis_, or Eastern gray squirrel, Kalamazoo, Michigan.</big> The photographer says, "I was surmising this is a cross between the [fox squirrel](http://en.wikipedia.org/wiki/Fox_squirrel) (_Sciurus niger_) and the black or melanistic form of the [eastern grey squirrel](http://en.wikipedia.org/wiki/Eastern_gray_squirrel) (_Sciurus carolinensis_).  They mingle rather frequently under the bird feeders in my back yard.  However, from the clearer close-up with the telephoto lens, I noticed that the ears of the mixed color squirrel are pretty much the same shape and size as those of the black squirrel \[_S. carolinensis_\].  The fox squirrels have thicker, stubbier ears.
 

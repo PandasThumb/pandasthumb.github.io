@@ -10,7 +10,7 @@ basename: the_nature_of_i
 ---
 On UcD, Bill Dembski provides a [somewhat confusing commentary](http://www.uncommondescent.com/archives/1958) on the following picture from [My Confined Space](http://www.myconfinedspace.com/2007/01/06/intelligent-design-zoo/)
 
-[<img src="/uploads/2007/creationism-thumb.jpg" alt="creationism.jpg" width="243" height="320" />](/uploads/2007/creationism.jpg)
+[<img src="{{ site.baseurl }}/uploads/2007/creationism-thumb.jpg" alt="creationism.jpg" width="243" height="320" />](/uploads/2007/creationism.jpg)
 
 WAD wrote:
 

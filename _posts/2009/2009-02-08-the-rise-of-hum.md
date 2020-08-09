@@ -22,7 +22,7 @@ Both Myers and Dunford pointed out those heterozygotes for the type of chromosom
 
 ID proponents on human chromosome 2 sometimes bring up the fact that a telomeric fusion results in a dicentric chromosome, that is, a chromosome with two centromeres. The following illustration of a similar kind of fusion shows how a dicentric chromosome can come about:
 
-<img src="/uploads/2009/dicentric.jpg" alt="dicentric.jpg" width="432" height="325" class="mt-image-none" />
+<img src="{{ site.baseurl }}/uploads/2009/dicentric.jpg" alt="dicentric.jpg" width="432" height="325" class="mt-image-none" />
 
 Since the centromere is the point at which the spindle attaches to the chromosome at mitosis and meiosis, wouldn't having two centromeres result in the possibility of the spindle attaching at **two**  points on the chromosome, pulling it apart? A common counterargument to this is that in many dicentrics, one centromere becomes inactivated, and, indeed, that seems to be the case in human chromosome 2.  But doesn't that mean we now need _two mutations_--first the fusion, then the centromere inactivation-- to get a viable chromosome? Doesn't that dramatically reduce the probability of the fusion becoming fixed? 
 

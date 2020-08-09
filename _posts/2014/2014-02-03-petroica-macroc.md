@@ -13,7 +13,7 @@ Photograph by **Erik Duerr**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2014/Duerr.Petroica_macrocephala_macrocephala_1.jpg" alt="Duerr.Petroica_macrocephala_macrocephala_1.jpg" width="600" height="462" />
+<img src="{{ site.baseurl }}/uploads/2014/Duerr.Petroica_macrocephala_macrocephala_1.jpg" alt="Duerr.Petroica_macrocephala_macrocephala_1.jpg" width="600" height="462" />
 <figcaption markdown="span">
 <big>[_Petroica macrocephala_](http://nzbirdsonline.org.nz/species/tomtit) -- South Island tomtit, New Zealand.  Mr. Duerr writes, "I would never have been  able to get such a close up photo of such a small bird if it weren't  for the fact that birds in NZ are designed not to be afraid of  humans."</big>
 

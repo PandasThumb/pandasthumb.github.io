@@ -22,7 +22,7 @@ In establishing that the adaptive immune system evolved, we need to show that th
 
 Basically, they are glue. The Ig superfamily is involved in cell-to cell adhesion and cell-surface adhesion. Sticking to things, or sticking to other cells, is a fundamental biological property that is found in the deepest cell lineages. In bacteria, the Ig superfamily proteins are cell surface proteins. In sponges, the Ig surface domain is fused to a common intracellular signalling domain, tyrosine kinase. This may surprise people, as most of us thing of glue as a passive thing, but the molecular glues are also active signalling molecules. In development, they help guide cells to their destinations, in phagocytes, the cellular scavengers that, amongst other things, engulf and consume bacteria; they help direct phagocytes to sites of infection. 
 
-[<img src="/uploads/2006/globin2-thumb.jpg" alt="globin2.jpg" width="500" height="453" />](/uploads/2006/globin2.jpg)
+[<img src="{{ site.baseurl }}/uploads/2006/globin2-thumb.jpg" alt="globin2.jpg" width="500" height="453" />](/uploads/2006/globin2.jpg)
 
 Proteins with an immunoglobulin structure, taken from Pancer et al., 2004. The molecular glue nectin is shown in the middle.
 
@@ -32,7 +32,7 @@ Let's take a brief recap here. Molecules which have the same overall structure a
 
 But wait, there is more! When Behe (and most of the ID community) write on the immune system, they ignore the [ innate immune system](http://en.wikipedia.org/wiki/Innate_immune_system). The innate immune system is very old, much older than the adaptive immune system. It is present in some form in all metazoans investigated to date. It includes amongst its repertoire secreted proteins that immobilise bacteria in a sticky mass, and a series of non-rearranging receptors for bits of bacterial cell surface. In molluscs, one of the anti-parasite molecules is FREP, which has an Ig non-rearranging V domain at the business end. In the invertebrate cephalochordate [ Amphioxus](http://en.wikipedia.org/wiki/Amphioxus), there is a family of very immunoglobulin like-molecules, Variable domain Chitin Binding Proteins, which are involved in innate immunity. In lampreys and hagfish, jawless vertebrates, there are Ig fold proteins that are almost the spitting image of modern rearranging immunoglobulins that are found in the equivalent of lymphocytes and are involved in innate immunity.
 
-[<img src="/uploads/2006/gloubulin1-thumb.jpg" alt="gloubulin1.jpg" width="500" height="252" />](/uploads/2006/gloubulin1.jpg)
+[<img src="{{ site.baseurl }}/uploads/2006/gloubulin1-thumb.jpg" alt="gloubulin1.jpg" width="500" height="252" />](/uploads/2006/gloubulin1.jpg)
 
 Precursors of an antigen specific receptor, taken from Pancer et al., 2004
 

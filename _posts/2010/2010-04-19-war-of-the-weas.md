@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 4597
 basename: war_of_the_weas
 ---
-<img src="/uploads/2010/34-3.jpg" alt="34-3.jpg" width="150" height="199" style="float:left;" class="mt-image-none" />
+<img src="{{ site.baseurl }}/uploads/2010/34-3.jpg" alt="34-3.jpg" width="150" height="199" style="float:left;" class="mt-image-none" />
 
 PT veterans may remember several posts from 2006, in a summer-long series of articles about Genetic Algorithms, Dawkins' Weasel, and Fixed Targets.
 

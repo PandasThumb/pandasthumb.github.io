@@ -13,7 +13,7 @@ Photograph by **Vincent Connors**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2013/Connors.Egretta%20thula.jpg" alt="Connors.Egretta thula.jpg" width="600" height="425" />
+<img src="{{ site.baseurl }}/uploads/2013/Connors.Egretta%20thula.jpg" alt="Connors.Egretta thula.jpg" width="600" height="425" />
 <figcaption markdown="span">
 <big>[_Egretta thula_](http://en.wikipedia.org/wiki/Snowy_Egret) -- snowy egret, Bennett's Point, South Carolina, May, 2010.</big>
 

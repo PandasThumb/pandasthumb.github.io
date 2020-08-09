@@ -9,7 +9,7 @@ post_id: 7134
 basename: noahs_ark_was_a
 ---
 <figure>
-<img src="/uploads/2015/Coracle.png" alt="Coracle.png" width="600" height="592" />
+<img src="{{ site.baseurl }}/uploads/2015/Coracle.png" alt="Coracle.png" width="600" height="592" />
 <figcaption markdown="span">
 <big>[By Nile and Tigris](https://commons.wikimedia.org/wiki/File:By_Nile_and_Tigris_-_a_narrative_of_Journeys_in_Egypt_and_Mesopotamia_on_behalf_of_the_British_Museum_between_the_years_1886_and_1913_(1920)_(14757346146).jpg) Journeys in Egypt and Mesopotamia on behalf of the British Museum between the years 1886 and 1913 (1920), showing _coracles_, or circular boats woven from reeds and sealed with pitch. Wikimedia, public domain.</big>
 

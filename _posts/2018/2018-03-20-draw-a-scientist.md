@@ -8,7 +8,7 @@ Before we begin, please take a moment to draw a mental picture of a scientist. T
 <!--more-->
 
 <figure>
-<img src="/uploads/2018/Draw_a_Scientist_600.jpg" alt="Drawing"/>
+<img src="{{ site.baseurl }}/uploads/2018/Draw_a_Scientist_600.jpg" alt="Drawing"/>
 <figcaption>
 <small>Anonymous third-grade girl in San Antonio. Leon Walls, <i>Science</i></small>
 </figcaption>

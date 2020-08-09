@@ -71,7 +71,7 @@ All that remains is to evaluate the final "estimate," which is just the sum of t
 
 Here follows the proof that this sum is just a roundabout way of calculating the sum of the first N integers, which the brilliant Gauss found useful as a child to escape some boring math drills: instead of adding the numbers up, Gauss realized the sum of the first N numbers was just (N\*(N+1)/2).
 
-<img src="/uploads/2006/midpoint.gif" alt="midpoint.gif" width="422" height="300" />
+<img src="{{ site.baseurl }}/uploads/2006/midpoint.gif" alt="midpoint.gif" width="422" height="300" />
 
 And that's that.  Unlike the normal he-said/she-said arguments, this disagreement boils down to basic Math.
 

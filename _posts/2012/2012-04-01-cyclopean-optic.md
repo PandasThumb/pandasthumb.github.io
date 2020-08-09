@@ -9,7 +9,7 @@ post_id: 6492
 basename: cyclopean_optic
 ---
 <figure>
-<img src="/uploads/2012/CyclopeanWaveguide_600.jpg" alt="CyclopeanWaveguide_600.jpg" width="600" height="400" />
+<img src="{{ site.baseurl }}/uploads/2012/CyclopeanWaveguide_600.jpg" alt="CyclopeanWaveguide_600.jpg" width="600" height="400" />
 <figcaption markdown="span">
 <big>_Undaerector callahanis_ -- Cyclopean optical waveguide</big>
 

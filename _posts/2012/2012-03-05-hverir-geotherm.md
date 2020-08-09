@@ -9,7 +9,7 @@ post_id: 6472
 basename: hverir_geotherm
 ---
 <figure>
-<img src="/uploads/2012/IMG_0393_Hverir_600.jpg" alt="IMG_0393_Hverir_600.jpg" width="600" height="450" />
+<img src="{{ site.baseurl }}/uploads/2012/IMG_0393_Hverir_600.jpg" alt="IMG_0393_Hverir_600.jpg" width="600" height="450" />
 <figcaption markdown="span">
 <big>[Hverir geothermal area](http://en.wikipedia.org/wiki/Krafla), Iceland, 2010.</big>
 

@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 6585
 basename: save_siccar_poi
 ---
-[<img src="/uploads/2012/rocksdontlie-thumb-300x456-1117.jpg" alt="rocksdontlie.jpg" width="300" height="456" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/assets_c/2012/09/rocksdontlie-1117.html)
+[<img src="{{ site.baseurl }}/uploads/2012/rocksdontlie-thumb-300x456-1117.jpg" alt="rocksdontlie.jpg" width="300" height="456" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/assets_c/2012/09/rocksdontlie-1117.html)
 I recently acquired the new book ["The Rocks Don't Lie: A Geologist Investigates Noah's Flood"](http://www.amazon.com/Rocks-Dont-Lie-Geologist-Investigates/dp/0393082393/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1346860418&amp;sr=1-1&amp;keywords=the+rocks+don%27t+lie) by David Montgomery.  It's a splendid read, and very much applicable to the readership of Panda's Thumb.  The book has some excellent pictures and discussions regarding Siccar Point in Scotland, "_**...celebrated as the place where Scottish farmer James Hutton discovered geologic time.**_."  Siccar Point graces the cover of Montgomery's book. 
 
 Just last Thursday, I cited Siccar Point in a [lecture on the Flood](http://www.passcal.nmt.edu/~dthomas/classes/SS189flood.pdf) for our new social studies class at New Mexico Tech in Socorro. (See slides 56-58).  I have resolved to visit Siccar Point - it's on my bucket list.

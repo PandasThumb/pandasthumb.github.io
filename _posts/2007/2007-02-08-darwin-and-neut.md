@@ -29,9 +29,9 @@ Gavrilets work, not surprisingly, has remained ignored by most Intelligent Desig
 
 So it should not come as a surprise that Sewell Wright's selective landscape pictures of hill climbing are flawed and that the properties of high dimensional fitness landscapes are very different from low dimensional ones (Gavrilets, [Harvey](http://www.cogs.susx.ac.uk/users/inmanh/inman_thesis.html))
 
-<img src="/uploads/2007/Picture%201.png" alt="Picture%201.png" width="304" height="241" />
+<img src="{{ site.baseurl }}/uploads/2007/Picture%201.png" alt="Picture%201.png" width="304" height="241" />
 
-<img src="/uploads/2007/Picture%202.png" alt="Picture%202.png" width="307" height="256" />
+<img src="{{ site.baseurl }}/uploads/2007/Picture%202.png" alt="Picture%202.png" width="307" height="256" />
 
 Both figures from R Shipman, M Shackleton and I Harvey **The use of neutral genotype-phenotype mappings for improved evolutionary search** BT Technol J Vol  18 No 4 October 2000
 

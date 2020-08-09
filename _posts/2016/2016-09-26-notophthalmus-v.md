@@ -11,7 +11,7 @@ basename: notophthalmus_v
 Photograph by **Barbara Gilman**.
 
 <figure>
-<img src="/uploads/2016/IMG_0547_Red_Eft_600.JPG" alt="IMG_0547_Red_Eft_600.JPG" width="600" height="450" />
+<img src="{{ site.baseurl }}/uploads/2016/IMG_0547_Red_Eft_600.JPG" alt="IMG_0547_Red_Eft_600.JPG" width="600" height="450" />
 <figcaption markdown="span">
 <big>[_Notophthalmus viridescens_](https://en.wikipedia.org/wiki/Eastern_newt) -- red eft, Monroe, New York. The red eft is a juvenile stage of the eastern newt. We used to see many of them in that area, but now they have become uncommon.</big>
 

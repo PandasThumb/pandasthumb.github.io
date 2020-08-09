@@ -13,7 +13,7 @@ What do flamingoes and pigeons have in common? You might say very little---after
 The groundbreaking new study used phylogenomics to compare the genes of 48 bird species. It is the first study of its kind to use whole genomes to construct the tree of birds, thousands of genes altogether. Prior studies attempting to resolve some of the more controversial bird relationships only examined 10--20 genes, meaning that the researchers in the new study had much more data to analyze and could be more confident in their results.
 
 <figure>
-<img src="/uploads/2014/flamingo%20and%20pigeon.jpg" alt="" width="600" height="250" style="" />
+<img src="{{ site.baseurl }}/uploads/2014/flamingo%20and%20pigeon.jpg" alt="" width="600" height="250" style="" />
 <figcaption markdown="span">
 Flamingoes and pigeons are more closely related than you might think, according to a new study.     Images: Wikipedia
 
@@ -27,7 +27,7 @@ Jarvis et. al. (2014) found that the bird big bang happened immediately after th
 First of all, the team developed a custom algorithm for filtering out gene sequences that were unaligned or incorrectly aligned. Once the data from the aligned genes were gathered, the researchers used a new and more efficient [program](http://sco.h-its.org/exelixis/web/software/examl/index.html) (implementing a [maximum likelihood](http://en.wikipedia.org/wiki/Maximum_likelihood) model) to construct the phylogenetic relationships from the raw data. Finally, the researchers used a method called [data binning](http://en.wikipedia.org/wiki/Data_binning) to reduce errors that arise from the mathematical assumption that species divergence occurred instantaneously (when it more likely occurred gradually). Using these new methods and the added information from so many genes, the researchers were able to confirm and reject with more conviction some of the branches proposed by the previous studies, like the flamingo-pigeon relationship.
 
 <figure>
-<img src="/uploads/2015/Red-billed_Tropicbird_JCB.jpg" alt="" width="300" height="200" style="float:right;" />
+<img src="{{ site.baseurl }}/uploads/2015/Red-billed_Tropicbird_JCB.jpg" alt="" width="300" height="200" style="float:right;" />
 <figcaption markdown="span">
 The red-billed tropicbird is a member of the Tropicbird family, which is excluded from Pelecaniformes in the new phylogenetic tree of birds.    Image: Wikipedia
 

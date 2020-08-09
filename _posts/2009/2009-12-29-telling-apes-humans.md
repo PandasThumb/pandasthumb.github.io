@@ -16,7 +16,7 @@ Creationists are always very definite that there are absolutely, _absolutely_ no
 Very well then.  Here are some photos of fossil skulls, all to the same scale. Some are of humans, some of apes.  Care to identify which are which?
 
 
-|<img src="/uploads/2009/HomoSap.png" alt="Fossil 1" />|<img src="/uploads/2009/ER1813.png" alt="Fossil 2" /><br /><img src="/uploads/2009/D2700.png" alt="Fossil 3" /> 
+|<img src="{{ site.baseurl }}/uploads/2009/HomoSap.png" alt="Fossil 1" />|<img src="{{ site.baseurl }}/uploads/2009/ER1813.png" alt="Fossil 2" /><br /><img src="{{ site.baseurl }}/uploads/2009/D2700.png" alt="Fossil 3" /> 
 
 
 
@@ -50,7 +50,7 @@ As a further disproof of AIG's claim that "When complete fossils are found, they
 
 By the way, in case you were wondering, this is what a _real_ ape skull (a female chimpanzee) looks like:
 
-<img src="/uploads/2009/Chimp.jpg" alt="Chimp skull" />
+<img src="{{ site.baseurl }}/uploads/2009/Chimp.jpg" alt="Chimp skull" />
 
 Not much similarity, you may notice, to the 'ape' skull(s) above.
 

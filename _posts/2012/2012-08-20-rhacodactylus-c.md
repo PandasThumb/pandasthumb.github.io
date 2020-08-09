@@ -13,7 +13,7 @@ Photograph by **Dan Stodola**.
 Photography contest, Honorable Mention. 
 
 <figure>
-<img src="/uploads/2012/Stodola.CrestedGecko.jpg" alt="Stodola.CrestedGecko.jpg" width="600" height="537" />
+<img src="{{ site.baseurl }}/uploads/2012/Stodola.CrestedGecko.jpg" alt="Stodola.CrestedGecko.jpg" width="600" height="537" />
 <figcaption markdown="span">
 <big>[_Rhacodactylus ciliatus_](http://en.wikipedia.org/wiki/Crested_Gecko) -- New Caledonian crested gecko.</big>
 

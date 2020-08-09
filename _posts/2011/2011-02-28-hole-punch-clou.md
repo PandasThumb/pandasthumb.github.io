@@ -9,7 +9,7 @@ post_id: 4877
 basename: hole-punch_clou
 ---
 <figure>
-<img src="/uploads/2011/IMG_0743_HolePunchCloud.JPG" alt="IMG_0743_HolePunchCloud.JPG" width="600" height="450" />
+<img src="{{ site.baseurl }}/uploads/2011/IMG_0743_HolePunchCloud.JPG" alt="IMG_0743_HolePunchCloud.JPG" width="600" height="450" />
 <figcaption markdown="span">
 <big>[Hole-punch cloud](http://www.meteorologynews.com/2009/10/12/hole-punch-cloud-not-ufo-spotted-over-moscow/), Westmann Islands, Iceland, 2010.</big>
 

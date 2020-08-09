@@ -68,7 +68,7 @@ Notes:
 
 4. Don't miss the nice scientific chart at 11:30:
 
-<img src="/uploads/2012/Sanford_talk_Loma_Linda_decay_of_lifespan_in_OT.png" alt="Sanford_talk_Loma_Linda_decay_of_lifespan_in_OT.png" width="497" height="375" class="mt-image-none" />
+<img src="{{ site.baseurl }}/uploads/2012/Sanford_talk_Loma_Linda_decay_of_lifespan_in_OT.png" alt="Sanford_talk_Loma_Linda_decay_of_lifespan_in_OT.png" width="497" height="375" class="mt-image-none" />
 
 About this graph, Sanford says:
 

@@ -4,7 +4,7 @@ date: '2019-02-11 16:57:00 -07:00'
 author: Matt Young
 ---
 <figure>
-<img src="/uploads/2019/Charles_Darwin_1830s_600.jpg" alt="Charles Darwin"/>
+<img src="{{ site.baseurl }}/uploads/2019/Charles_Darwin_1830s_600.jpg" alt="Charles Darwin"/>
 <figcaption>
 Charles Darwin in the 1830's. <small>Wikimedia, public domain.</small>
 </figcaption>

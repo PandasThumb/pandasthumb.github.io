@@ -8,10 +8,10 @@ blog_id: 2
 post_id: 3769
 basename: ben_steins_care
 ---
-<img src="/uploads/2008/stein_T.JPG" alt="stein_T.JPG" width="480" height="700" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2008/stein_T.JPG" alt="stein_T.JPG" width="480" height="700" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 And, lest there be any doubt what the true motivation for [Expelled](http://www.expelledexposed.com) is, check out this screen grab from the "Leader's DVD" handed out at preview screenings...
 
-<img src="/uploads/2008/outreach.jpg" alt="" />
+<img src="{{ site.baseurl }}/uploads/2008/outreach.jpg" alt="" />
 
 More [Expelled](http://www.expelledexposed.com) info.

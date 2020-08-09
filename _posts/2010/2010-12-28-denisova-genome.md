@@ -12,7 +12,7 @@ Last week a paper was published on the DNA sequencing of the complete genome of 
 
 1) The results showed that the Denisova individual was more closely related to Neanderthals than to modern humans. However, the Denisovan does not fall within the range of Neanderthal variation. There are a few lines of evidence suggesting that the Denisovan and Neanderthal lineages had separate histories once they diverged and did not form a single population. The Neanderthal genomes sequenced so far have low genetic diversity, indicating that Neanderthals passed through a genetic bottleneck after splitting from the Denisovans. With only one Denisovan genome available as yet, we don't know how diverse they were.
 
-<img src="/uploads/2010/Denisova1.png" alt="Denisova1.png" width="428" height="349" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2010/Denisova1.png" alt="Denisova1.png" width="428" height="349" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 2) Even more spectacular was the finding that the Denisovan genome appears to have made a genetic contribution of about 4.8% (+/- 0.5%) to the genomes of living [Melanesians](http://en.wikipedia.org/wiki/Melanesia). Interestingly, they did not contribute to the genomes of modern populations such as Han Chinese and Mongolians which live near Denisova now. The Denisovans obviously interbred with the ancestors of modern Melanesians at some point, but it seems unlikely to have happened at Denisova, which suggests that the Denisovans lived over a considerable area of eastern Asia.
 

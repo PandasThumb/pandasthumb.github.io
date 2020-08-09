@@ -11,7 +11,7 @@ basename: photography_con_27
 Polish your lenses, dust off your tripods, search your archives (and, if you have entered before, remember that you are not limited to 3 good pictures per lifetime) -- the eighth Panda's Thumb photography contest, begins -- now!
 
 <figure>
-<img src="/uploads/2016/DSC00976_Light_Meter_600.jpg" alt="DSC00976_Light_Meter_600.jpg" width="600" height="450" />
+<img src="{{ site.baseurl }}/uploads/2016/DSC00976_Light_Meter_600.jpg" alt="DSC00976_Light_Meter_600.jpg" width="600" height="450" />
 <figcaption markdown="span">
 <big>[Pierce extinction meter](http://lightmetermuseum.com/Light%20meters/Pierce/index.html), still-camera version. They [sold for $1.95](https://books.google.com/books?id=tWMzAQAAMAAJ&amp;pg=PA190&amp;lpg=PA190&amp;dq=pierce+extinction+meter) in 1946.</big>
 

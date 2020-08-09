@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 4542
 basename: primordial_soup_1
 ---
-<img src="/uploads/2010/PrimordialSoupPPR.jpg" alt="PrimordialSoupPPR.jpg" width="400" height="379" style="float:left;" />
+<img src="{{ site.baseurl }}/uploads/2010/PrimordialSoupPPR.jpg" alt="PrimordialSoupPPR.jpg" width="400" height="379" style="float:left;" />
 
 Science Daily **[reports today that ](http://www.sciencedaily.com/releases/2010/02/100202101245.htm)**
 

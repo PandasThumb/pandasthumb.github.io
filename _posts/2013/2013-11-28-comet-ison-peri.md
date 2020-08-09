@@ -14,7 +14,7 @@ Update:  Here is a remarkable picture from the Nasa site above, taken on Novembe
 
 
 <figure>
-<img src="/uploads/2013/CometIsonNasa_600.jpg" alt="CometIsonNasa_600.jpg" width="600" height="319" />
+<img src="{{ site.baseurl }}/uploads/2013/CometIsonNasa_600.jpg" alt="CometIsonNasa_600.jpg" width="600" height="319" />
 <figcaption markdown="span">
 </figcaption>
 </figure>

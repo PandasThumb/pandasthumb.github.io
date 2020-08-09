@@ -14,7 +14,7 @@ basename: now_book_on_und
 ---
 I occasionally get books for review unsolicited, and many of them are not worth noticing. However, Kostas Kampourakis' _Understanding Evolution_ is a wonderful resource for students of all kinds, including biology students.
 
-<img alt="9781107034914.jpg" src="/uploads/2014/9781107034914.jpg" width="180" height="258" class="mt-image-none" style="" align="right" />
+<img alt="9781107034914.jpg" src="{{ site.baseurl }}/uploads/2014/9781107034914.jpg" width="180" height="258" class="mt-image-none" style="" align="right" />
 
 <!--more-->
 

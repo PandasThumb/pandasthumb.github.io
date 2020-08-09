@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1971
 basename: science_ohio_sc_1
 ---
-<img src="/uploads/2006/TrojanPandaSmall[1].jpg" alt="TrojanPandaSmall[1].jpg" width="280" height="210" style="float:left;" />
+<img src="{{ site.baseurl }}/uploads/2006/TrojanPandaSmall[1].jpg" alt="TrojanPandaSmall[1].jpg" width="280" height="210" style="float:left;" />
 In the February 24, 2006 edition of Science, Constance Holden writes about the devastating loss for Intelligent Design activists in Ohio.
 
 SCIENCE AND RELIGION: [Ohio School Board Boots Out ID](http://www.sciencemag.org/cgi/content/full/311/5764/1083?rss=1) by Constance Holden Science 24 February 2006: Vol. 311. no. 5764, p. 1083

@@ -14,7 +14,7 @@ I started with the regression lines of log (cranial capacity) and log (body mass
 
 Then I just calculated a body size for each cranial capacity measurement, and re-did the chart as a chart of brain mass as a percentage of (extrapolated) body mass: \[2\]
 
-<img src="/uploads/2006/fossil_hominin_brain_percent_lg.png" alt="Hominin brain mass as a percentage of body mass" width="597" height="621" style="" />
+<img src="{{ site.baseurl }}/uploads/2006/fossil_hominin_brain_percent_lg.png" alt="Hominin brain mass as a percentage of body mass" width="597" height="621" style="" />
 
 The slope is of course somewhat flatter in this chart, which shows the effect of controlling for the increase in body size.  Absolute brain mass approximately _tripled_ in human evolution, but brain mass as a _percentage_ of body mass appears to have _doubled_ in human evolution.  This should be about what everyone expected anyway, but it is nice to see it on the chart.
 

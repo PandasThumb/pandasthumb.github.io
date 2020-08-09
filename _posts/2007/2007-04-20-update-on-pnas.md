@@ -14,7 +14,7 @@ First, the comments.  Some commentators have reacted along the following lines: 
 
 Unfortunately -- and I mean unfortunately because I wish one of these options was true -- neither idea is a supportable interpretation of the authors' views.  Have another look at Figure 3 from the Liu & Ochman paper:
 
-<img src="/uploads/2007/Liu_Ochman_fig3.jpg" alt="" style="" />
+<img src="{{ site.baseurl }}/uploads/2007/Liu_Ochman_fig3.jpg" alt="" style="" />
 
 
 * The boxes contain the names of all 24 core flagellar proteins that the authors identified.
@@ -68,7 +68,7 @@ Here they are just talking about the _E. coli_ K12 genome. We have already discu
 
 Let's look at Figure 3 again.
 
-<img src="/uploads/2007/Liu_Ochman_fig3.jpg" alt="" style="" />
+<img src="{{ site.baseurl }}/uploads/2007/Liu_Ochman_fig3.jpg" alt="" style="" />
 
 The _E. coli_ hits are the blue lines, and the matched E. coli proteins are the yellow boxes.  I count ~~14~~ 15 blue lines linking 10 yellow boxes, all axial proteins.
 
@@ -134,31 +134,31 @@ This conclusion sentence is the 5th or 6th time the authors explicitly endorse t
 
 Now, why am I skeptical?  I posted some scattershot reasons on Monday.  Some us PT posters are chewing on more technical issues.  But to really get a visceral sense of the problem of claiming that all the flagellar genes are homologous, you just have to look at some structures.  Here is FliI, the ATPase that powers the secretion of axial proteins like FliC:
 
-<img src="/uploads/2007/FliI_structure.jpg" alt="" />
+<img src="{{ site.baseurl }}/uploads/2007/FliI_structure.jpg" alt="" />
 
 (from [Imada et al. 2007, _PNAS_](http://www.pnas.org/cgi/doi/10.1073/pnas.0608090104))
 
 Here is FliC, aka flagellin, which is supposed to be just two homology links away from FliI in the Liu/Ochman Figure 3:
 
-<img src="/uploads/2007/FliC_single.jpg" alt="" />
+<img src="{{ site.baseurl }}/uploads/2007/FliC_single.jpg" alt="" />
 
 (from [Yonekura et al. 2003, _Nature_](http://www.nature.com/nature/journal/v424/n6949/fig_tab/nature01830_F1.html))
 
 You can also compare the two proteins when assembled into multimers.  FliI assembles into a homohexamer:
 
-<img src="/uploads/2007/FliI_hexamer.jpg" alt="" />
+<img src="{{ site.baseurl }}/uploads/2007/FliI_hexamer.jpg" alt="" />
 
 (from [Imada et al. 2007, _PNAS_](http://www.pnas.org/cgi/doi/10.1073/pnas.0608090104))
 
 FliC assembles into the flagellar filament:
 
-<img src="/uploads/2007/flagellin_structure.jpg" alt="" />
+<img src="{{ site.baseurl }}/uploads/2007/flagellin_structure.jpg" alt="" />
 
 (from [here](http://www.fbs.osaka-u.ac.jp/eng/publications/namba2003/Namba2003eng.html))
 
 For comparison, this is what two protein structures look like when they are homologous.  These are the homologous domains in CheC (a chemotaxis protein in some flagella), and FliM (part of the flagellum base, which interacts with chemotaxis proteins to produce the switching in rotation direction).  (FliM is basically two main domains, homologous to CheC + FliN.  Liu & Ochman caught the FliN homology but apparently not the CheC one.)
 
-<img src="/uploads/2007/FliM-CheC_homology.png" alt="" style="" />
+<img src="{{ site.baseurl }}/uploads/2007/FliM-CheC_homology.png" alt="" style="" />
 (from [Park et al. 2006](http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=Structure+of+FliM+provides+insight+into+assembly+of+the+switch+complex+in+the+bacterial+flagella+motor&amp;btnG=Search), [in PNAS](http://www.pnas.org/cgi/doi/10.1073/pnas.0602811103)) 
 
 You might have noticed that FliC and FliI do not exactly exhibit the kind of structural similarity shown by the homologous FliM and CheC.

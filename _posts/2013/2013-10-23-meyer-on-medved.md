@@ -58,11 +58,11 @@ Regarding dating the "Explosion", surely it is more important to get correct the
 
 **2.** Meyer says that transitional fossils for the Cambrian groups don't exist, but fossils with morphology transitional between the crown phyla do exist, oodles of them.  Meyer just doesn't have the knowledge, either of fossils or methodology, to know a transitional fossil even if it is right there in front of him.  [I made the basic argument previously](http://pandasthumb.org/archives/2013/06/meyers-hopeless-2.html), but it can be done even more clearly with the amazing new study by Legg et al., which coded and analyzed hundreds of characters of hundreds of Cambrian arthropods and arthropod relatives.
 
-> <img src="/uploads/2013/Legg_etal_2013_NatComm_panarthropod_phylogeny.png" alt="Legg_etal_2013_NatComm_panarthropod_phylogeny.png" width="578" height="872" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+> <img src="{{ site.baseurl }}/uploads/2013/Legg_etal_2013_NatComm_panarthropod_phylogeny.png" alt="Legg_etal_2013_NatComm_panarthropod_phylogeny.png" width="578" height="872" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 ...and, if we zoom in on the base of the tree:
 
-> <img src="/uploads/2013/Legg_etal_2013_NatComm_Figure4ab_Lobopodia_etc_bigger.png" alt="Legg_etal_2013_NatComm_Figure4ab_Lobopodia_etc_bigger.png" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+> <img src="{{ site.baseurl }}/uploads/2013/Legg_etal_2013_NatComm_Figure4ab_Lobopodia_etc_bigger.png" alt="Legg_etal_2013_NatComm_Figure4ab_Lobopodia_etc_bigger.png" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 > 
 > Figure 4: Phylogeny of panarthropoda (just parts a & b).
 

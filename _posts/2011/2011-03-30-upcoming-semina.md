@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 4924
 basename: upcoming_semina
 ---
-[<img src="/uploads/2011/vertuvian_colour_small-thumb-300x388-619.jpg" alt="vertuvian_colour_small.jpg" width="300" height="388" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](/uploads/2011/vertuvian_colour_small.jpg)Fellow Oregonians -- this looks like a great series!  I've seen Bustamante talk before, he does amazing research.  So it should be great, if you can stand hanging out with the Ducks, that is...
+[<img src="{{ site.baseurl }}/uploads/2011/vertuvian_colour_small-thumb-300x388-619.jpg" alt="vertuvian_colour_small.jpg" width="300" height="388" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](/uploads/2011/vertuvian_colour_small.jpg)Fellow Oregonians -- this looks like a great series!  I've seen Bustamante talk before, he does amazing research.  So it should be great, if you can stand hanging out with the Ducks, that is...
 
 (And, by the way, evolutionary theory is literally the warp and woof of genomics.  If you took genomics and somehow deleted all of the methods and analyses derived from evolutionary theory, the whole field and industry would crumple into a quivering pile of meaningless digital goo.  There are areas where ID people are wrong and can at least state arguments of some sort -- but then there are vast areas like population genomics where ID people don't even know enough to realize that there is a vast, hugely successful enterprise that is entirely built upon principles they would disagree with.) 
 

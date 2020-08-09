@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 6924
 basename: svante_paabo_on
 ---
-<img src="/uploads/2014/Paabo_2014_Neanderthal_Man_cover.jpg" alt="Paabo_2014_Neanderthal_Man_cover.jpg" width="300" height="300" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />People have been sending me this, so I might as well blog it.  In February 2014, Svante Pääbo, who led the Neanderthal genome project, [published a popular book](http://www.amazon.com/Svante-P%C3%A4%C3%A4bo/e/B00GJ9XR7O) on the sequencing of the Neanderthal genome, and reactions to it.
+<img src="{{ site.baseurl }}/uploads/2014/Paabo_2014_Neanderthal_Man_cover.jpg" alt="Paabo_2014_Neanderthal_Man_cover.jpg" width="300" height="300" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />People have been sending me this, so I might as well blog it.  In February 2014, Svante Pääbo, who led the Neanderthal genome project, [published a popular book](http://www.amazon.com/Svante-P%C3%A4%C3%A4bo/e/B00GJ9XR7O) on the sequencing of the Neanderthal genome, and reactions to it.
 
 I haven't yet read the book, although I'm sure it's great, based on talks I have seen by Pääbo.  However, there is one passage that PT readers may find particularly interesting:
 

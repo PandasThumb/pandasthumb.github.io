@@ -17,7 +17,7 @@ Because acquiring data from experiments can be costly and time-consuming, we oft
 Let's look at the [treeshrew](http://en.wikipedia.org/wiki/Treeshrew), for instance. It looks like a rodent but actually shares some internal similarities with primates (studied by Sir Wilfrid Le Gros Clark in the 1920s), like brain anatomy and reproductive traits. To figure out if the treeshrew is more similar to rodents or primates, we could sequence its genome and, using statistics, compare its genes to those of rodents and primates. But typical statistical models are based on subsets of populations, while by definition, genomic sequencing gives us a complete data set - all of the treeshrew's genes. These typical models may not be suitable for interpreting genomic data.
 
 <figure>
-<img src="/uploads/2014/treeshrew.jpg" alt="" width="300" height="150" style="float:left;" />
+<img src="{{ site.baseurl }}/uploads/2014/treeshrew.jpg" alt="" width="300" height="150" style="float:left;" />
 <figcaption markdown="span">
 The treeshrew.  Source: [Wikipedia](http://en.wikipedia.org/wiki/Treeshrew)
 

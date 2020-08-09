@@ -12,32 +12,32 @@ Below are all our finalists in the "Vegetable" section of our Photo Contest.  Pl
 
 
 <ul id="mygalleryview">
-<li><img src="/uploads/2009/Sprockett.passion_fruit_bloom.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2009/Sprockett.passion_fruit_bloom.jpg" />
 <div class="panel-overlay">
 <i>Passiflora coccinea</i> by Daniel Sprockett &mdash; Red Passion Flower, Red Grandilla, being visited by an unidentified flying invertebrate. Campanario Biological Station on the Osa Peninsula in Costa Rica.
 </div>
 </li>
-<li><img src="/uploads/2009/Opel.Drosera_cuneifolia.JPG" />
+<li><img src="{{ site.baseurl }}/uploads/2009/Opel.Drosera_cuneifolia.JPG" />
 <div class="panel-overlay">
 <i>Drosera cuneifolia</i> by Matthew Opel &mdash; a South African carnivorous plant, in cultivation.
 </div>
 </li>
-<li><img src="/uploads/2009/Zolnerowich.Controlledburn.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2009/Zolnerowich.Controlledburn.jpg" />
 <div class="panel-overlay">
 Controlled burn by Gregory Zolnerowich &mdash; The effects of fire as an ecological driver are a historical theme of the biological station. Konza Prairie Biological Station near Manhattan, Kansas, one of the original NSF Long-Term Ecological Research sites.
 </div>
 </li>
-<li><img src="/uploads/2009/wood.Calochilus.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2009/wood.Calochilus.jpg" />
 <div class="panel-overlay">
 <i>Calochilus robertsonii</i> by James Wood &mdash; peloric mutant of purple beard orchid flowering in the Peter Murrell Reserve, Tasmania. This species is apparently prone to developmental errors so that the labellum can be petaloid or (as in this case) all the petals develop the labellum (lip) characteristics. 
 </div>
 </li>
-<li><img src="/uploads/2009/Ford.Halobacterium.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2009/Ford.Halobacterium.jpg" />
 <div class="panel-overlay">
 <i>Halobacterium salinarum</i> by Matt W. Ford &mdash;  species NRC-1 growing around/on salt crystals on a dried-out plate.
 </div>
 </li>
-<li><img src="/uploads/2009/Collins.Water_Lily.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2009/Collins.Water_Lily.jpg" />
 <div class="panel-overlay">
 <i>Nymphaea caerulea</i> by David Collins &mdash; Egyptian blue lily, Zilker Botanical Garden, Austin, Texas, 2007.
 </div>

@@ -4,7 +4,7 @@ date: '2019-10-10 14:39:00 -06:00'
 author: Dan Phelps
 ---
 <figure>
-<img src="/uploads/2019/Hodge_Fig1_600.jpg" alt="Secular media enticing children"/>
+<img src="{{ site.baseurl }}/uploads/2019/Hodge_Fig1_600.jpg" alt="Secular media enticing children"/>
 <figcaption>"Secular" media enticing children with images of dinosaurs.
 </figcaption>
 </figure>
@@ -25,13 +25,13 @@ Hodge is upset that the world doesn’t teach a biblical view of dinosaurs and [
 Hodge then lays out the YEC version of history with dinosaurs created on day 6 according to Genesis 1:25. He goes onto a hilariously silly tangent about carnivores originally having been vegetarians, with Tyrannosaurs being vegetarian until Adam and Eve were cursed. This is illustrated with a <i>Tyrannosaurus</i> eating watermelon and other fruits and vegetables. 
 
 <figure>
-<img src="/uploads/2019/Hodge_Fig2_600.jpg" alt="Dinosaur eating fruit"/>
+<img src="{{ site.baseurl }}/uploads/2019/Hodge_Fig2_600.jpg" alt="Dinosaur eating fruit"/>
 <figcaption>Dinosaur eating plate of fruit...
 </figcaption>
 </figure>
 
 <figure>
-<img src="/uploads/2019/Hodge_Fig3_600.jpg" alt="Dinosaur swallowing watermelon"/>
+<img src="{{ site.baseurl }}/uploads/2019/Hodge_Fig3_600.jpg" alt="Dinosaur swallowing watermelon"/>
 <figcaption>... and swallowing watermelon whole.
 </figcaption>
 </figure>
@@ -68,7 +68,7 @@ Note that he reduces the wingspan from 160 to 60 feet and is somewhat more speci
 He then cites a 1902 Encyclopedia Britannica article on “sea dragons” and oddly cites a 1910 Encyclopedia Britannica article that says they don’t exist. (Huh??? How is this evidence for their existence?!) Then, bizarrely, a dictionary that describes dragons as “now rare” is also given as evidence. What spectacular evidence! Apparently, in Hodge’s mind, the fact that past peoples considered dragons to be plausible is evidence that dragons were real. Further “evidence” includes tales of St. George and the dragon, innumerable other dragon legends in Great Britain, the fact that dragons are depicted on the Bayeux Tapestry, numerous statues and stained-glass windows. In Hodge’s mind, the fact that the Leicestershire Art Museum (co-founded by Alfred Russell Wallace) has a tile mosaic of a dragon is evidence of real dragons. Considering these artworks as evidence for dragons is bizarre, but Hodge pushes on with more paintings, including the Wiston Dragon mural painted on a church wall circa 1300. And the Welsh National Flag is also “evidence.” Then we are treated to European royal seals and crests. Chinese symbols are also brought up, including the Chinese zodiac found on restaurant place mats. Amazingly, this Chinese restaurant placemat is presented as a slide in Hodge’s talk.
 
 <figure>
-<img src="/uploads/2019/Hodge_Fig4_600.jpg" alt="Chinese restaurant menu"/>
+<img src="{{ site.baseurl }}/uploads/2019/Hodge_Fig4_600.jpg" alt="Chinese restaurant menu"/>
 <figcaption> Menu from Chinese restaurant "proves" existence of dragons.
 </figcaption>
 </figure>
@@ -91,7 +91,7 @@ The next part of the talk is a discussion of dinosaur extinction. Apparently, Ho
 Near the end, Hodge claims that dinosaurs went extinct because of sin. This is because sin resulted in death and Noah’s Flood, which was followed by climate and environmental change, as well as human hunting. 
 
 <figure>
-<img src="/uploads/2019/Hodge_Fig5_600.jpg" alt="Reasons for extinction: sin"/>
+<img src="{{ site.baseurl }}/uploads/2019/Hodge_Fig5_600.jpg" alt="Reasons for extinction: sin"/>
 <figcaption> Sin as cause of mass extinction of dinosaurs.
 </figcaption>
 </figure>
@@ -99,7 +99,7 @@ Near the end, Hodge claims that dinosaurs went extinct because of sin. This is b
 After telling the audience that dinosaurs can be used as “missionary lizards” to convert people to fundamentalist Christianity, Hodge spends the final 8 minutes or so selling AiG books and videos, followed by a short prayer for the audience.
 
 <figure>
-<img src="/uploads/2019/Hodge_Fig6_600.jpg" alt="Dinosaurs as missionary lizards"/>
+<img src="{{ site.baseurl }}/uploads/2019/Hodge_Fig6_600.jpg" alt="Dinosaurs as missionary lizards"/>
 <figcaption> Dinosaurs as "missionary lizards."
 </figcaption>
 </figure>

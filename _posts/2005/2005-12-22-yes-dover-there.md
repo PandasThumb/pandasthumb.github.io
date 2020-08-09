@@ -10,12 +10,12 @@ basename: yes_dover_there
 ---
 Last summer I travel to Fairbanks, Alaska to attend the Evolution 2005 conference at the University of Alaska.  During my travels, I visited [North Pole](http://www.northpolealaska.com/) and stopped by [Santa Claus's house](http://www.santaclaushouse.com/).  Santa was there that day and eager to hear my Christmas list.
 
-<img src="/uploads/2005/santa.jpg" alt="santa" width="375" height="500" />
+<img src="{{ site.baseurl }}/uploads/2005/santa.jpg" alt="santa" width="375" height="500" />
 
 I can't say exactly what all I asked for because otherwise it won't come true.  However, the jolly old man came through for me earlier this week.  Yes, Dover, there is a Santa Claus.
 
 On my way out I feed Donner, who was looking a little warm in the surprisingly hot Alaska afternoon.
 
-<img src="/uploads/2005/donner.jpg" alt="donner" width="400" height="300" />
+<img src="{{ site.baseurl }}/uploads/2005/donner.jpg" alt="donner" width="400" height="300" />
 
 I have many more pictures from my Alaska trip and will post the rest of them when I catch another break.

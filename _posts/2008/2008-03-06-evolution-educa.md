@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3622
 basename: evolution_educa
 ---
-<img src="/uploads/2008/cda_displayimage.jpg" alt="cda_displayimage.jpg" width="95" height="128" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />Springerlink Journal " Evolution: Education and Outreach" has its second edition online in the [online first](http://www.springerlink.com/content/120878/?Content+Status=Accepted) category.
+<img src="{{ site.baseurl }}/uploads/2008/cda_displayimage.jpg" alt="cda_displayimage.jpg" width="95" height="128" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />Springerlink Journal " Evolution: Education and Outreach" has its second edition online in the [online first](http://www.springerlink.com/content/120878/?Content+Status=Accepted) category.
 
 The journal "promotes accurate understanding and comprehensive teaching of evolutionary theory for a wide audience. Targeting K-16 students, teachers and scientists alike, the journal presents articles to aid members of these communities in the teaching of evolutionary theory."
 

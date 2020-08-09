@@ -15,4 +15,4 @@ as well).   For more information on him see [my post a year ago](http://www.pand
 
 Below is a photo I took of the plaque on the back side of the statue of Lamarck in the Jardin des Plantes in Paris. His daughter is shown assuring the aged and blind Lamarck, who died in relative obscurity, that "Posterity will admire you, and she will avenge you, my father."
 
-<img src="/uploads/2010/lamarckplaque.jpg" alt="lamarckplaque.jpg" width="391" height="582" />
+<img src="{{ site.baseurl }}/uploads/2010/lamarckplaque.jpg" alt="lamarckplaque.jpg" width="391" height="582" />

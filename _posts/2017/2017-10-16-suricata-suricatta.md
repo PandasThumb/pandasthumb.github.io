@@ -7,7 +7,7 @@ Photograph by **Marilyn Susek**.
 
 Photography contest, Honorable Mention.
 <figure>
-<img src="/uploads/2017/Susek.Meerkat.jpg" alt="Meerkat"/>
+<img src="{{ site.baseurl }}/uploads/2017/Susek.Meerkat.jpg" alt="Meerkat"/>
 <figcaption>
 <a href="https://en.wikipedia.org/wiki/Meerkat"><i>Suricata suricatta</i></a> &ndash; meerkat, Yorkshire Wildlife Park, July 16, 2017.
 </figcaption>

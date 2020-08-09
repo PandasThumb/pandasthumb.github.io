@@ -11,7 +11,7 @@ basename: why_arent_more
 By **Brianne Fagan**.
 
 <figure>
-<img src="/uploads/2013/Solvay_conference_1927_600.jpg" alt="Solvay_conference_1927_600.jpg" width="600" height="434" />
+<img src="{{ site.baseurl }}/uploads/2013/Solvay_conference_1927_600.jpg" alt="Solvay_conference_1927_600.jpg" width="600" height="434" />
 <figcaption markdown="span">
 [1927 Solvay conference](http://upload.wikimedia.org/wikipedia/commons/6/6e/Solvay_conference_1927.jpg).
 

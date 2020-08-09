@@ -14,7 +14,7 @@ Photography contest, Honorable Mention
 
 
 <figure>
-<img src="/uploads/2011/Susek_ScarboroCliffs_Cormorant.jpg" alt="Susek_ScarboroCliffs_Cormorant.jpg" width="453" height="600" />
+<img src="{{ site.baseurl }}/uploads/2011/Susek_ScarboroCliffs_Cormorant.jpg" alt="Susek_ScarboroCliffs_Cormorant.jpg" width="453" height="600" />
 <figcaption markdown="span">
 <big>[_Phalacrocorax carbo_](http://en.wikipedia.org/wiki/Cormorant) -- cormorant, dolomite stone quarry at Stainton, near Tickhill, S. Yorkshire, UK.</big>
 

@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 7245
 basename: evolution_topic
 ---
-<img src="/uploads/2016/csiconlasvegas.jpg" alt="csiconlasvegas.jpg" width="616" height="344" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
+<img src="{{ site.baseurl }}/uploads/2016/csiconlasvegas.jpg" alt="csiconlasvegas.jpg" width="616" height="344" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
 If you don't know about this year's CSICON, [check it out](http://www.csiconference.org/)! There are several evolution-related talks, including Richard Dawkins (4:00 Friday Oct. 28th), Eugenie Scott (9:00 AM Saturday, Oct. 29th, "Sins of Evolution Education") and Bertha Vazquez (9:30 AM Sat., "The Teacher Institute for Evolutionary Science (TIES)").
 
 There is a paper session on Sunday, October 30th. At 9:45 AM I'll be presenting " War of the Weasels: An Update on Creationist Attacks on Genetic Algorithms," which I've discussed previously several times here on the Thumb (most recently [here](http://pandasthumb.org/archives/2016/01/target-target-w.html).)

@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 6844
 basename: new_dmanisi_skull
 ---
-<img src="/uploads/2013/D4500-oblique.jpg" alt="D4500-oblique.jpg" width="278" height="317" style="float:left;" class="mt-image-none" />
+<img src="{{ site.baseurl }}/uploads/2013/D4500-oblique.jpg" alt="D4500-oblique.jpg" width="278" height="317" style="float:left;" class="mt-image-none" />
 
 A new paper was recently published, and widely reported in the media, about a hominid skull discovered at the Dmanisi site in Georgia in 2005 (Lordkipanidze et al, 2013, Gibbons 2013). The fossil, D4500, is believed to belong to the same individual as a lower jaw fossil, D2600, previously found at the site. The combined skull, designated by the authors as "Skull 5" (the 5th skull from Dmanisi) is almost completely and perfectly preserved, making it one of the most spectacular finds in the entire hominid fossil record. And Dmanisi is rapidly becoming one of the most important sites ever found in the study of human evolution.
 
@@ -55,7 +55,7 @@ The News writer appears, in arguing for "the unity of the human race", to be sug
 
 Casey Luskin's [article at Evolution News and Views](http://www.evolutionnews.org/2013/10/skull_rewrites_078221.html) is hardly any better. There is little explanation of the significance of the Dmanisi fossils, and what there is mostly comes from the lengthy quotes he included. He misrepresents Donald Johanson by claiming that that he "disagree(s) that these \[Dmanisi\] skulls all represent one species", when what Johanson actually did was to express doubt that all early _Homo_ fossils should be merged into _Homo erectus_. Luskin has adopted a "small target" (indeed, "microscopic target") strategy. Although he makes plenty of criticisms, and drops in words like "spotty", "sketchy", and "gap(s)" as frequently as possible, he avoids saying anything about how the Dmanisi fossils should be classified. He says that the qualified statements of scientists "hardly inspire confidence", though if they had made confident assertions I'm sure that he would have complained about that too. Luskin may like to talk about "gaps", but look at Figure 4 from the Dmanisi paper:
 
-<img src="/uploads/2013/Dmanisi2013Fig4.png" alt="Dmanisi2013Fig4.png" width="551" height="467" class="mt-image-none" />
+<img src="{{ site.baseurl }}/uploads/2013/Dmanisi2013Fig4.png" alt="Dmanisi2013Fig4.png" width="551" height="467" class="mt-image-none" />
 
 The horizontal axis of the chart goes from projecting (prognathic) faces on the left to vertical (orthognathic) faces on the right, and from small brains on the bottom to large brains on the top. Modern humans are in the polygons on the top right; chimps and bonobos are in the polygons on the bottom left. There certainly is a sizable gap between modern apes and humans. The trouble, for Luskin, is that it is filled with specimens from the hominid fossil record. In particular, the Dmanisi skulls (the circles containing the numbers 2, 3, 4, and 5) are scattered fairly widely throughout that gap. Luskin has, in the past, argued that the Dmanisi hominids are apelike, but he was only able to make that claim [by dint of serious cherry-picking and misrepresentation of the evidence](http://pandasthumb.org/archives/2008/11/dmanisi-postcranial.html).
 

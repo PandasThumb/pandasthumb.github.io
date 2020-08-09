@@ -60,11 +60,11 @@ But perhaps this change was isolated, just one instance in hundreds of pages?  F
 
 The first chart shows the number of times the character strings "creation" and "design" appear in the drafts.  These strings can appear in a number of contexts ("creationism", "creation means...", "design theory"), but nevertheless there is one obvious, dramatic change across the drafts:
 
-<img src="/uploads/2005/Forrest_chart1.png" alt="Forrest testimony, Word Count Chart #1 showing how Pandas drafts switched from &apos;creation&apos; to &apos;design&apos;." width="810" height="463" style="" />
+<img src="{{ site.baseurl }}/uploads/2005/Forrest_chart1.png" alt="Forrest testimony, Word Count Chart #1 showing how Pandas drafts switched from &apos;creation&apos; to &apos;design&apos;." width="810" height="463" style="" />
 
 However, there are a few contexts in the drafts where the words "creation" and "design" might not refer to creationism and intelligent design.  So, a second search was done on the more specific strings "creationis" (catches "creationism" and "creationist", etc.) and "intelligent design":
 
-<img src="/uploads/2005/Forrest_chart2.png" alt="Forrest testimony, Word Count Chart #2 showing how Pandas drafts switched from &apos;creationis&apos; to &apos;intelligent design&apos;." width="810" height="463" style="" />
+<img src="{{ site.baseurl }}/uploads/2005/Forrest_chart2.png" alt="Forrest testimony, Word Count Chart #2 showing how Pandas drafts switched from &apos;creationis&apos; to &apos;intelligent design&apos;." width="810" height="463" style="" />
 
 As you can see, the results are even more dramatic.
 

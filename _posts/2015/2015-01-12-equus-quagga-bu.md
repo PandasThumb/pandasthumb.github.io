@@ -12,7 +12,7 @@ Photograph by **Alice Levine**.
 
 
 <figure>
-<img src="/uploads/2015/LevineDSC_84532_Zebras_600.jpg" alt="LevineDSC_84532_Zebras_600.jpg" width="600" height="414" />
+<img src="{{ site.baseurl }}/uploads/2015/LevineDSC_84532_Zebras_600.jpg" alt="LevineDSC_84532_Zebras_600.jpg" width="600" height="414" />
 <figcaption markdown="span">
 <big>[_Equus quagga burchellii_](http://en.wikipedia.org/wiki/Burchell%27s_zebra) -- Burchell's zebra, Namibia.</big>
 

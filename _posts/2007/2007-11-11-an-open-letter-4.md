@@ -16,7 +16,7 @@ Abbie Smith has [recently responded ](http://endogenousretrovirus.blogspot.com/2
 
 SIV Vpu is not a viroporin, HIV-1 O Vpu is not a viroporin. This is a new activity that evolved in HIV after the split from SIV over a 10 year timeframe and is part of the reason that the HIV-1 M clade is the most common type of HIV in the world. 
 
-[<img src="/uploads/2007/HIV_Vpu_timeline-thumb-640x480.gif" alt="HIV_Vpu_timeline.gif" width="640" height="480" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](/uploads/2007/HIV_Vpu_timeline.gif)
+[<img src="{{ site.baseurl }}/uploads/2007/HIV_Vpu_timeline-thumb-640x480.gif" alt="HIV_Vpu_timeline.gif" width="640" height="480" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](/uploads/2007/HIV_Vpu_timeline.gif)
 <small>Timeline of the evolution of new binding sites in HIV. Note that several new binding sites develop after the evolution of HIV.</small>
 
 Just to remind you Dr. Behe, a viroporin is an ion channel, in the case of the HIV-1 Vpu, it is a gated cation channel, which appears relatively Na+ specific (Ewart et al., 1996, Bell et al., 2007, Menhert et al., 2007). To go from its original form to the multisubunit structure with a new function required the development of a **new** binding site, which involves more than a single amino acid substitution (Paul et al., 1998). Not just any binding site will do, or you get a higgledy-piggledy mass of agglomerated protein, not an ion channel with ion selectivity. Furthermore, this is a _gated_ ion channel, not just a hole punched in the membrane, with a specific amino acid responsible for the gating (Mehnert et al., 2007). 
@@ -25,7 +25,7 @@ Importantly, this mutation, producing a mini-“molecular machine”, is benefic
 
 Dr. Behe, you can’t get out of this by claiming that the binding site is too simple, or not between completely different proteins. After all, your example binding site for humans is the Haemoglobin S point mutation. This is a one amino acid mutation that just destabilises the protein (what’s wrong with the [Apolipoprotein A1 mutation ](http://www.talkorigins.org/faqs/information/apolipoprotein.html) that confers resistance to heart attacks?). If a one amino acid mutation that just causes haemoglobin to gunge together counts, then a multi-mutation event that leads to the formation of an elegant gated ion-channel which increases viral infectivity must count by your very **own** criteria. 
 
-[<img src="/uploads/2007/HIV_Vpu_phylogeny-thumb-960x720.gif" alt="HIV_Vpu_phylogeny.gif" width="640" height="480" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](/uploads/2007/HIV_Vpu_phylogeny.gif)
+[<img src="{{ site.baseurl }}/uploads/2007/HIV_Vpu_phylogeny-thumb-960x720.gif" alt="HIV_Vpu_phylogeny.gif" width="640" height="480" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](/uploads/2007/HIV_Vpu_phylogeny.gif)
 <small>Evolution of HIIV binding sites in context of HIV binding.</small>
 
 So, contrary to your claims in “Edge of Evolution” there is at least one protein that fulfils all your criteria as enumerated in that book, new viral-protein-protein interactions which forms new basic machinery that has a survival benefit for the virus. This evolved in a mere 10 years, with the notable absence of any [Soros](http://en.wikipedia.org/wiki/Soro_%28fiction%29) [uplift fleet](http://en.wikipedia.org/wiki/Uplift_Universe). Also in this time a new Golgi targeting sequence, YRKI evolved (Pacyniak et al., 2005). Again, this is a multisubunit binding site that provides a benefit for the virus by targeting the Vpu-CD4 complex to the Golgi apparatus. Then there is the recently evolved D/GXLRLL sequence in HIV-M subtype C which binds adaptor protein complexes on the cell surface, resulting in targeting of Vpu to the cell surface and more efficient viral spread (Hill et al., 2007). You dismiss these examples generically because you claim that 
@@ -42,7 +42,7 @@ To conclude, contrary to you claims that zero binding sites have developed in HI
 
 However, this form of response, where you write on a blog I can’t post too, and I write on a blog you won’t post too, is very limiting. I hereby invite you to debate on a neutral site where there will be minimal distraction. I have created the “The VPU debate” weblog site, and I invite you to be a co-registrant. There we can concentrate on the mutations of Vpu and how they relate to your claims. I look forward to seeing you there.
 
-[<img src="/uploads/2007/Ian_Mug_Shot_Small-thumb-243x320.jpg" alt="Ian_Mug_Shot_Small.jpg" width="122" height="160" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](/uploads/2007/Ian_Mug_Shot_Small.jpg)
+[<img src="{{ site.baseurl }}/uploads/2007/Ian_Mug_Shot_Small-thumb-243x320.jpg" alt="Ian_Mug_Shot_Small.jpg" width="122" height="160" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](/uploads/2007/Ian_Mug_Shot_Small.jpg)
 
 
 <p>Yours sincerely</p>

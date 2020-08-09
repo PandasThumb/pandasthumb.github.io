@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3807
 basename: let_the_adventu
 ---
-<img src="/uploads/2008/Hibiscus_Sky.jpg" alt="Hibiscus_Sky.jpg" width="60%" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2008/Hibiscus_Sky.jpg" alt="Hibiscus_Sky.jpg" width="60%" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 Today is a wonderful day for Florida.  The long battle to have new science standards and to teach evolution in our public schools is finally over. In the coming years young Floridians will learn science as they never have before. 
 

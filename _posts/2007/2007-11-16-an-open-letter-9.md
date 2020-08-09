@@ -24,7 +24,7 @@ proteosome]( http://en.wikipedia.org/wiki/Proteasome ), or the flagellum, which 
 
 The Vpu viroporin is a gated ion channel, a mini-“molecular machine”; I know you don’t seem to be impressed by this, apparently because it doesn’t utilize ATP. But I divide my time equally between G-protein coupled receptors and signal transduction systems and ion channels, and you are ignoring the fact that ion channels, such as the Vpu ion channel, are major drivers of cellular activity. Changing ion gradients are critical for things from renal excretion to nerve activity. Everything from nicotinic receptors to renal sodium channels are built on the basic plan of Vpu.
 
-[<img src="/uploads/2007/Viroporin-thumb-400x240.jpg" alt="Viroporin.jpg" width="400" height="240" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](/uploads/2007/Viroporin.jpg)
+[<img src="{{ site.baseurl }}/uploads/2007/Viroporin-thumb-400x240.jpg" alt="Viroporin.jpg" width="400" height="240" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](/uploads/2007/Viroporin.jpg)
 
 I know you are impressed by large complexes such as the flagellum and the protesome, but biology doesn’t run on what you are impressed by. You dismiss a wide range of newly developed binding sites in HIV, such as the casein kinase binding site. Yet this is the canonical example of a regulatory binding site that links together important signal transduction cascades, everything from the binding of G-proteins to G-protein coupled receptors, to the protein kinase C activator cascades, to the MAPKinase regulatory cascades, to the calmoduin kinase binding that underlies nerve activity all rely on the same type of binding sites that you dismiss as “too simple”. 
 
@@ -37,7 +37,7 @@ And yes, you **did**, say the injected viral protein act as a nonspecific wad of
 
 Now, Vpu doesn’t do that, it forms an elegant targeting system that places CD4 into the proteosome queue.
 
-[<img src="/uploads/2007/Vpu_binding-thumb-500x294.jpg" alt="Vpu_binding.jpg" width="500" height="294" style="text-align: center; display: block; margin: 0 20px 20px 0;" class="mt-image-left" />](/uploads/2007/Vpu_binding.jpg)
+[<img src="{{ site.baseurl }}/uploads/2007/Vpu_binding-thumb-500x294.jpg" alt="Vpu_binding.jpg" width="500" height="294" style="text-align: center; display: block; margin: 0 20px 20px 0;" class="mt-image-left" />](/uploads/2007/Vpu_binding.jpg)
 
 Your explanation of the "wad of chewing gum" effect  in your most recent post is very different from what you wrote in you book and in your initial post. And while this version is more sophisticated (why didn’t you use that in your book), it is both biologically unrealistic and basically irrelevant. Your major claim is that binding sites need to develop two or more amino acid attachments simultaneously for any selectable binding. You spend ages on the mathematics of this. The probability of thee simultaneous amino acids mutations are the same whether it is a newly injected protein in a new host of opportunity or an established cellular protein. 
 

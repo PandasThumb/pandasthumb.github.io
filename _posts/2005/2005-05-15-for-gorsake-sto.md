@@ -27,4 +27,4 @@ All of which gives me an excuse to present the following cartoon, the
 caption of which seems appropriate. This is a classic Australian cartoon
 from 1933:
 
-<img src="/uploads/2006/StopLaughing.jpg" alt="" />
+<img src="{{ site.baseurl }}/uploads/2006/StopLaughing.jpg" alt="" />

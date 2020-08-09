@@ -44,32 +44,32 @@ overflow:auto !important;
 } 
 </style>
 <ul id="mygalleryview" >
-<li><img src="/uploads/2010/Lord.Oryctolagus_cuniculus.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2010/Lord.Oryctolagus_cuniculus.jpg" />
 <div class="panel-overlay">
 <i>Oryctolagus cuniculus</i>, <a href="http://en.wikipedia.org/wiki/European_Rabbit">European rabbit</a>, Victoria, B.C. by Ken Lord &mdash;  This species of rabbit was introduced to the area around Victoria British Columbia several decades ago, probably through the release of unwanted pets. Their population has grown enough for them to have become a pest.
 </div>
 </li>
-<li><img src="/uploads/2010/Moulton.Agapornis_roseicollis.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2010/Moulton.Agapornis_roseicollis.jpg" />
 <div class="panel-overlay">
 <i>Agapornis roseicollis</i>, <a href="http://en.wikipedia.org/wiki/Rosy-faced_Lovebird">rosy-faced lovebird</a> by Pete Moulton &mdash; These have established a large and growing feral population in the Phoenix metro area. The Sonoran desert habitats serve them very well, and they're thriving on a diet composed largely of mesquite beans, and nesting in cavities in the saguaros, or in the spaces under roof tiles.
 </div>
 </li>
-<li><img src="/uploads/2010/Riggins.Eichhornia-crassipes.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2010/Riggins.Eichhornia-crassipes.jpg" />
 <div class="panel-overlay">
 <i>Eichhornia crassipes</i>, <a href="http://en.wikipedia.org/wiki/Eichhornia_crassipes">water hyacinth</a> by Bob Riggins &mdash; Definitely an invasive species here in South Texas! Clogs up irrigation canals and other waterways. This one is floating in a whiskey barrel which serves as part of my goldfish pond. The water hyacinths are good at filtering water and removing toxic compounds.
 </div>
 </li>
-<li><img src="/uploads/2010/Schongalla.Apis_mellifera.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2010/Schongalla.Apis_mellifera.jpg" />
 <div class="panel-overlay">
 <i>Apis mellifera</i>, <a href="http://en.wikipedia.org/wiki/European_honey_bee">European honeybee</a>, Christchurch Botanic Gardens, New Zealand by Malcolm S. Schongalla &mdash; This species was introduced to New Zealand in 1839. It has suffered from worldwide population declines and "colony collapse disorder." This species holds the unlikely honor of being simultaneously invasive, valued, and in peril.
 </div>
 </li>
-<li><img src="/uploads/2010/Andreas.Carabus_nemoralis.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2010/Andreas.Carabus_nemoralis.jpg" />
 <div class="panel-overlay">
 <i>Carabus nemoralis</i>, <a href="en.wikipedia.org/wiki/Carabus_nemoralis">European ground beetle</a>,  Glendale, New York by Kurt Andreas &mdash;  A tramp species that recently found its way to my hometown.
 </div>
 </li>
-<li><img src="/uploads/2010/Denelsbeck.Balanus_improvisus.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2010/Denelsbeck.Balanus_improvisus.jpg" />
 <div class="panel-overlay">
 <i>Balanus improvisus</i>, <a href="http://en.wikipedia.org/wiki/Balanus_improvisus">bay barnacle</a> by Al Denelsbeck &mdash; They are now showing up far removed from their originating Atlantic home.  Here, I caught detail of the "toes" (cirri) during feeding, with a depth of field estimated at less than 2mm. And of course, Darwin spent no small amount of time working with barnacles and their taxonomy.
 </div>

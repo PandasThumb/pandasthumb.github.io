@@ -12,11 +12,11 @@ In an earlier posting, I promised to provide an overview of alternative codes in
 
 The classical view of DNA was straightforward, DNA gets transcribed into RNA, introns get removed and the resulting exons form a protein. Exons are coding sequences in genes, introns are pieces of DNA/RNA that interrupt exons. The first step involves RNA synthesis (transcription) where the DNA is transcribed into RNA and exons and introns are still present, the next step is RNA splicing where introns are being removed. Alternative splicing causes different exons to be combined into messenger RNA (mRNA). These mRNA are translated into proteins in a step called protein synthesis.
 
-<img src="/uploads/2007/tradgene.jpg" alt="tradgene.jpg" width="370" height="317" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2007/tradgene.jpg" alt="tradgene.jpg" width="370" height="317" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 Alternative splicing involves different exons and result in different proteins from the same gene
 
-<img src="/uploads/2007/altsplice.jpg" alt="altsplice.jpg" width="391" height="259" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2007/altsplice.jpg" alt="altsplice.jpg" width="391" height="259" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 [Source: The New Genetics](http://publications.nigms.nih.gov/thenewgenetics/thenewgenetics.pdf) NIH Publication No. 07-662
 
@@ -89,7 +89,7 @@ Remember this paper which was [quote-mined by Casey Luskin](/archives/2007/06/lu
 
 The paper shows the following figure (click to enlarge) which is Figure 2 in the original paper)
 
-[<img src="/uploads/2007/ARF-thumb-300x87.jpg" alt="ARF.jpg" width="300" height="87" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/archives/ARF1.html)
+[<img src="{{ site.baseurl }}/uploads/2007/ARF-thumb-300x87.jpg" alt="ARF.jpg" width="300" height="87" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/archives/ARF1.html)
 
 Notice how there is and ORF and an ARF, where ORF is the larger reading frame and ARF a subset, both ORF and ARF have a start and stop codon.
 
@@ -97,7 +97,7 @@ Notice how there is and ORF and an ARF, where ORF is the larger reading frame an
 
 The ENCODE project proposes a new definition of gene
 
-[<img src="/uploads/2007/def_gene-thumb-400x286.jpg" alt="def_gene.JPG" width="400" height="286" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/images/def_gene.html)
+[<img src="{{ site.baseurl }}/uploads/2007/def_gene-thumb-400x286.jpg" alt="def_gene.JPG" width="400" height="286" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/images/def_gene.html)
 
 > Figure 5. How the proposed definition of the gene can be applied to a sample case. A genomic region produces three primary transcripts. After alternative splicing, products of two of these encode five protein products, while the third encodes for a noncoding RNA (ncRNA) product. The protein products are encoded by three clusters of DNA sequence segments (A, B, and C; D; and E). In the case of the three-segment cluster (A, B, C), each DNA sequence segment is shared by at least two of the products. Two primary transcripts share a 5 untranslated region, but their translated regions D and E do not overlap. There is also one noncoding RNA product, and because its sequence is of RNA, not
 > protein, the fact that it shares its genomic sequences (X and Y) with the protein-coding genomic segments A and E does not make it a co-product of these protein-coding genes. In summary, there are

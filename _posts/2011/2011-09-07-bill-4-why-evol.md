@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 6349
 basename: bill_4_why_evol
 ---
-<img src="/uploads/2011/Bill&Ted2Crop.jpg" alt="Bill&amp;amp;Ted2Crop.jpg" width="196" height="221" style="float: right; margin: 0 0 20px 20px;" class="mt-image-right" />
+<img src="{{ site.baseurl }}/uploads/2011/Bill&Ted2Crop.jpg" alt="Bill&amp;amp;Ted2Crop.jpg" width="196" height="221" style="float: right; margin: 0 0 20px 20px;" class="mt-image-right" />
 
 The fourth [BILL](http://pandasthumb.org/archives/2011/07/they-have-ted-w.html) is a _tour de force_ of scientific explanation, presented by a well-known scholar described by a colleague (who introduces him in the video) as "the principal guru to go to on evolutionary genetics in the world."
 

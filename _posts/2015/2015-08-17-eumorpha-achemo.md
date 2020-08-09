@@ -11,7 +11,7 @@ basename: eumorpha_achemo
 Photograph by **Gabrielle Hovinen**.
 
 <figure>
-<img src="/uploads/2015/Eumorpha_achemon_Gabrielle_3_600.jpg" alt="Eumorpha_achemon_Gabrielle_3_600.jpg" width="600" height="450" />
+<img src="{{ site.baseurl }}/uploads/2015/Eumorpha_achemon_Gabrielle_3_600.jpg" alt="Eumorpha_achemon_Gabrielle_3_600.jpg" width="600" height="450" />
 <figcaption markdown="span">
 <big>[_Eumorpha achemon_](http://wiki.bugwood.org/HPIPM:Achemon_Sphinx) -- achemon sphinx moth.</big>
 

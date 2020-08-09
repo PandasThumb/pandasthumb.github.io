@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 4393
 basename: more_anti-scien
 ---
-<img src="/uploads/2009/langseth.jpg" alt="langseth.jpg" width="350" height="180" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" /> (Photo courtesy [LDEO](http://www.ldeo.columbia.edu/res/fac/oma/langseth/index.html)) 
+<img src="{{ site.baseurl }}/uploads/2009/langseth.jpg" alt="langseth.jpg" width="350" height="180" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" /> (Photo courtesy [LDEO](http://www.ldeo.columbia.edu/res/fac/oma/langseth/index.html)) 
 
 **September 29th, 2009 Project UPDATE**
 

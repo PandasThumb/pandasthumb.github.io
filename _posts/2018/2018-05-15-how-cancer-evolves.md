@@ -4,7 +4,7 @@ date: '2018-05-15 12:00:00 -06:00'
 author: James DeGregori
 ---
 <figure>
-<img src="/uploads/2018/DeGregori_Cover_600.jpg" alt="Book cover"/>
+<img src="{{ site.baseurl }}/uploads/2018/DeGregori_Cover_600.jpg" alt="Book cover"/>
 </figure>
 
 

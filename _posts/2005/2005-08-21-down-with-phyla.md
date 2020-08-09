@@ -9,7 +9,7 @@ blog_id: 2
 post_id: 1288
 basename: down_with_phyla
 ---
-<img src="/uploads/2006/Vetustodermis_BBC.jpg" alt="" style="" />
+<img src="{{ site.baseurl }}/uploads/2006/Vetustodermis_BBC.jpg" alt="" style="" />
 
 _**Note:** The paper by Chen et al. is [now published online](http://www.journals.royalsoc.ac.uk/openurl.asp?genre=article&amp;id=doi:10.1098/rspb.2005.3159).  Embarassingly for the BBC, the fossil is named_Vetusto_v_ermis_, not_Vetusto_d_ermis_. I thought the misspelling would explain why_Vetustodermis_originally got zero google hits (there are now [160 google hits](http://www.google.com/search?hl=en&amp;lr=&amp;q=Vetustodermis&amp;btnG=Search) on_Vetustodermis_), but it turns out that_Vetustovermis_[currently  gets zero google hits](http://www.google.com/search?hl=en&amp;lr=&amp;q=Vetustovermis&amp;btnG=Search), although I am sure this won't last.  Anyhow, I will correct the name, and add a few comments on the paper to the end of this post._
 

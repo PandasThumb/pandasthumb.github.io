@@ -6,7 +6,7 @@ author: Dan Phelps
 [<i>Matt Young is the moderator of this thread. He, not Mr. Phelps, is responsible for the headline.</i>]
 
 <figure>
-<img src="/uploads/2019/Kentucky_Plaque.jpg" alt="Plaque"/>
+<img src="{{ site.baseurl }}/uploads/2019/Kentucky_Plaque.jpg" alt="Plaque"/>
 </figure>
 
 Lexington, Kentucky, paleontologist Dr. Donald Chesnut, along with Dr. Joseph Jones, has been successful in getting a plaque erected in the newly renovated Miller Hall on the University of Kentucky campus. The plaque commemorates UK graduate John Scopes, Scopes’s geology instructor Arthur M. Miller, and University President Dr. Frank L. McVey. All three were strong evolution advocates associated with the University of Kentucky in the 1920s. Scopes was nationally known (but less well-known as a UK graduate). Miller was the first Dean of the College of Arts and Sciences, head of the geology department, and a popular teacher, as well as UK’s first football coach. 
@@ -16,6 +16,6 @@ University President McVey defended evolution from political attack, particularl
 Finally, here is a wonderful photograph of Arthur M. Miller teaching geology circa 1900 to 1905:
 
 <figure>
-<img src="/uploads/2019/Kentucky_Classroom.jpeg" alt="Classroom"/>
+<img src="{{ site.baseurl }}/uploads/2019/Kentucky_Classroom.jpeg" alt="Classroom"/>
 </figure>
 Miller is standing near the classroom door. Many of the male students appear to be military cadets, and there are a surprising number of women in the class considering the time period.

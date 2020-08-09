@@ -40,7 +40,7 @@ We just had to deal with such a shocking, disgusting situation.  For the sake of
 And so it continues.  What's most incredible, however, is that the fundraising letter includes a reproduction of one of the parodies <I>without attribution and without permission of the author</I>.  And this is in the same letter that they're complaining about copyright infringement!  Unlike the IIDB cartoon parodies (<I>sans</I> trademarks), this particular infringement is almost certainly actionable.  Furthermore, it's at least as ethically bad if not much worse than what they're complaining about.  You really gotta wonder about these people.  Here's the <a href="http://www.answersingenesis.org/AfterEden/AE_Pages/ae7-19-2002.asp">original</a> that was parodied (it's funnier if you view the original first) and here's the image they reproduced below: 
 
 <br>
-<center><img src="/uploads/2005/034cenigma.gif" width="295" height="371" border="0" /></a></center>
+<center><img src="{{ site.baseurl }}/uploads/2005/034cenigma.gif" width="295" height="371" border="0" /></a></center>
 
 This was done by IIDB member "Enigma", and yes, I got his permission.  The image in the AiG fundraising has Dan Lietha's name and the AiG copyright still in it; that particular image is no longer in the IIDB thread.  The one above has had all the copyrights and trademarks removed (thanks to IIDB member ApostateAbe), so I'm confident that it can be posted here without earning a letter from AiG's lawyers (though it would be cool if I got one anyway, <i>bring it on!</i>)  But if Enigma cares to, he can pursue legal action against AiG for using his artwork without his permission and without attribution.
 

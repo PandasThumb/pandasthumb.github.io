@@ -27,7 +27,7 @@ It's precisely because these xenobiotic compounds did not exist before humans st
 
 Wackett describes the evolution of one of the enzymes involved in breaking down PCP, tetrachlorohydroquinone (TCHQ) dehalogenase.  This enzyme catalyzes the second step in PCP biodegradation, a two-step reductive dehalogenation of TCHQ to 2,6 dichlorohydroquinone (see the figure, but don't feel obligated to make sense of it).  
 
-<img src="/uploads/2005/pcp.jpg" alt="" />
+<img src="{{ site.baseurl }}/uploads/2005/pcp.jpg" alt="" />
 
 So where did the enzyme come from?  As it turns out, TCHQ dehalogenase is similar in sequence to enzymes known as maleylacetate isomerases, which function in the breakdown of the amino acids tryrosine and phenylalanine.  And lo and behold, TCHQ dehalogenase has some vestigial maleylacetate isomerase activity, an activity which is totally unnecessary because the bacterium can already catalyze this reaction from other enzymes.  So the TCHQ dehalogenase appears to be adapted from an ancestral enzyme that had an altogether different purpose, yet it still maintains some of that ancestral activity.  What other clues do we have for its recent emergence?  Wackett points out that the enzyme suffers from severe substrate inhibition, which hinders the enzyme's activity.  Anandarajah and coworkers have interpreted this as evidence for its recent emergence:    
 

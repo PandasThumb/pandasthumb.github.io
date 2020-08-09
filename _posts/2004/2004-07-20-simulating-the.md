@@ -37,7 +37,7 @@ Niklas used computer models to mimic the early evolution of [tracheophytes](http
 The morphospace, or the multidimensional domain of all mathematically achievable morphologies is determined by a set of parameters and the probabilities  assigned to their values. The total number of possibilities is determined by the range of the parameters involved and their increments.
 
 
-<img alt="niklas_morph_sm.jpg" src="/uploads/2005/niklas_morph_sm.jpg" width="377" height="460" border="0" />
+<img alt="niklas_morph_sm.jpg" src="{{ site.baseurl }}/uploads/2005/niklas_morph_sm.jpg" width="377" height="460" border="0" />
 
 
 <a href="http://www.pandasthumb.org/pt-archives/niklas_morph_lg.html" onclick="window.open('http://www.pandasthumb.org/pt-archives/niklas_morph_lg.html','popup','width=686,height=837,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">View Larger Image</a>
@@ -89,7 +89,7 @@ Each walk begins at the same location, which corresponds to the morphology of th
 On stable landscapes, there are comparatively few morphologies capable of maximizing the performance of any of the four functions. However,  when the number of functions to optimize increases, the number of optimal morphologies increases. In addition, the global fitness of these multiple morphologies decreases. This suggests that evolution may proceed easier when it has to optimize for multiple functions.
 
 
-<img alt="niklas_space_sm.jpg" src="/uploads/2005/niklas_space_sm.jpg" width="477" height="199" border="0" />
+<img alt="niklas_space_sm.jpg" src="{{ site.baseurl }}/uploads/2005/niklas_space_sm.jpg" width="477" height="199" border="0" />
 
 <a href="http://www.pandasthumb.org/pt-archives/niklas_space_lg.html" onclick="window.open('http://www.pandasthumb.org/pt-archives/niklas_space_lg.html','popup','width=1059,height=442,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">View Larger Image</a>
 
@@ -126,7 +126,7 @@ Niklas concludes with:
 > Importantly, different biological tasks have different phenotypic requirements and some tasks have antagonistic design requirements. Therefore, although it is possible to maximize the performance of one task, this maximization comes at some expense in terms of performing other tasks.
 
 
-<img alt="Niklas_plant_sm.jpg" src="/uploads/2005/Niklas_plant_sm.jpg" width="453" height="472" border="0" />
+<img alt="Niklas_plant_sm.jpg" src="{{ site.baseurl }}/uploads/2005/Niklas_plant_sm.jpg" width="453" height="472" border="0" />
 
 <a href="http://www.pandasthumb.org/pt-archives/niklas_plant_large.html" onclick="window.open('http://www.pandasthumb.org/pt-archives/niklas_plant_large.html','popup','width=964,height=1005,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">View Larger Image</a>
 

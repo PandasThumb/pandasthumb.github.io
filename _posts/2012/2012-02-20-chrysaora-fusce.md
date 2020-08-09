@@ -13,7 +13,7 @@ Photograph by **James Draginda**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2012/Draginda.Chrysaora_fuscescens.jpg" alt="Draginda.Chrysaora_fuscescens.jpg" width="590" height="442" />
+<img src="{{ site.baseurl }}/uploads/2012/Draginda.Chrysaora_fuscescens.jpg" alt="Draginda.Chrysaora_fuscescens.jpg" width="590" height="442" />
 <figcaption markdown="span">
 <big>[_Chrysaora fuscescens_](http://en.wikipedia.org/wiki/Chrysaora_fuscescens) -- Pacific sea nettle.</big>
 

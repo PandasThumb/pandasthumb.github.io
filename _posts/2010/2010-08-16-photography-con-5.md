@@ -44,32 +44,32 @@ overflow:auto !important;
 } 
 </style>
 <ul id="mygalleryview" >
-<li><img src="/uploads/2010/Moore-Polar_Bear.jpg " />
+<li><img src="{{ site.baseurl }}/uploads/2010/Moore-Polar_Bear.jpg " />
 <div class="panel-overlay">
 <i>Ursus maritimus</i>, <a href="http://en.wikipedia.org/wiki/Polar_bear">polar bear</a>, by Dan Moore &mdash;  The <a href="http://en.wikipedia.org/wiki/IUCN_Red_List">IUCN</a> now lists global warming as the most significant threat to the polar bear, primarily because the melting of its sea ice habitat reduces its ability to find sufficient food.  It states, "If climatic trends continue polar bears may become extirpated from most of their range within 100 years."
 </div>
 </li>
-<li><img src="/uploads/2010/Moulton.Ommatius_sp.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2010/Moulton.Ommatius_sp.jpg" />
 <div class="panel-overlay">
 <i>Ommatius sp.</i>, <a href="http://bugguide.net/node/view/20270">robber fly</a>, by Pete Moulton &mdash; with a leafhopper for breakfast, confluence of  Rio Verde and Rio Salado north of Mesa, Arizona. Not an endangered species in and of itself, but representative of Arizona's rapidly disappearing riparian habitats
 </div>
 </li>
-<li><img src="/uploads/2010/Kramer.Lepyronia_angulifera.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2010/Kramer.Lepyronia_angulifera.jpg" />
 <div class="panel-overlay">
 <i>Lepyronia angulifera</i>, <a href="http://bugguide.net/node/view/172143">angular spittlebug</a>, by Jim Kramer &mdash; It is classified as threatened due to habitat destruction. If you do a Google image search on <i>Lepyronia angulifera</i>, you will find about 18 images of the insect; 7 of them are mine, representing two specimens.  That alone suggests that "threatened" may be insufficient.
 </div>
 </li>
-<li><img src="/uploads/2010/Rice_Ice_Stalagmite_in_Arizona_Lava_Tube.jpg " />
+<li><img src="{{ site.baseurl }}/uploads/2010/Rice_Ice_Stalagmite_in_Arizona_Lava_Tube.jpg " />
 <div class="panel-overlay">
 <a href="http://en.wikipedia.org/wiki/Stalagmite">Stalagmite</a> made of ice in a high-altitude <a href="http://en.wikipedia.org/wiki/Lava_tube">lava tube</a> in Arizona, by James Rice &mdash; Cold air seeps into the cave in winter, becoming trapped. As liquid water from the overlying rock drips in, it is flash-frozen by the cold, forming this beautiful natural ice sculpture.
 </div>
 </li>
-<li><img src="/uploads/2010/Samarasinghe.Rhynchostylis_retusa.JPG" />
+<li><img src="{{ site.baseurl }}/uploads/2010/Samarasinghe.Rhynchostylis_retusa.JPG" />
 <div class="panel-overlay">
 <i>Rhynchostylis retusa</i>, <a href="http://en.wikipedia.org/wiki/Rhynchostylis_retusa">foxtail orchid</a>, by Buddhini Samarasinghe &mdash; Plant is native to Malaysia, Singapore, Thailand, Sri Lanka, and India.  The plant is on the verge of extinction in India because of bio-piracy.
 </div>
 </li>
-<li><img src="/uploads/2010/Stodola.Mexican_Gray_Wolf.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2010/Stodola.Mexican_Gray_Wolf.jpg" />
 <div class="panel-overlay">
 <i>Canis lupus baileyi</i>, <a href="http://en.wikipedia.org/wiki/Mexican_Wolf">Mexican gray wolf</a>, by Dan Stodola &mdash; A subspecies of the gray wolf. Was intentionally eradicated from the wild to protect domestic livestock. Has now been reintroduced to a limited range in Arizona. Photo taken at Brookfield Zoo.
 </div>

@@ -4,7 +4,7 @@ date: '2020-06-06 11:30:00 -06:00'
 author: Matt Young
 ---
 <figure>
-<img src="/uploads/2020/Ham_Racism_Cover_600.jpg" alt="Book cover"/>
+<img src="{{ site.baseurl }}/uploads/2020/Ham_Racism_Cover_600.jpg" alt="Book cover"/>
 </figure>
 
 The other day I received an e-mail from AIG, advertising a number of books that appear to be about racism, including, in particular, [The Biblical Answer to Racism](https://answersingenesis.org/store/product/biblical-answer-racism), by Ken Ham. The book was offered to me for $0.49, which was waived if I inserted a certain code. I found that I already had an account with AIG, so "buying" the book was trivial, and it came essentially instantaneously as a pdf. 

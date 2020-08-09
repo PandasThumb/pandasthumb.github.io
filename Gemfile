@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '4.0.0'
+gem 'jekyll', '4.1.1'
 
 group :jekyll_plugins do
   gem 'jekyll-feed'
-  gem 'jekyll-archives', :git => 'https://github.com/jekyll/jekyll-archives', :branch => 'master'
+  gem 'jekyll-archives', '2.2.1'
 end
 
 gem 'tzinfo'

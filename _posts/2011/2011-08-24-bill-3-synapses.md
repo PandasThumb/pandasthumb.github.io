@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 6320
 basename: bill_3_synapses
 ---
-<img src="/uploads/2011/Bill&Ted2Crop.jpg" alt="Bill&amp;amp;Ted2Crop.jpg" width="196" height="221" style="float: right; margin: 0 0 20px 20px;" class="mt-image-right" />_UPDATE_: Links are now changed to take you to the newer BBC site, on which you can listen to the lecture without the hassle of getting RealPlayer. And you can download the lecture as a podcast if you prefer.
+<img src="{{ site.baseurl }}/uploads/2011/Bill&Ted2Crop.jpg" alt="Bill&amp;amp;Ted2Crop.jpg" width="196" height="221" style="float: right; margin: 0 0 20px 20px;" class="mt-image-right" />_UPDATE_: Links are now changed to take you to the newer BBC site, on which you can listen to the lecture without the hassle of getting RealPlayer. And you can download the lecture as a podcast if you prefer.
 
 The third [BILL](http://pandasthumb.org/archives/2011/07/they-have-ted-w.html) is a brilliant foray into neuroscience, focused on consciousness and the human brain.
 

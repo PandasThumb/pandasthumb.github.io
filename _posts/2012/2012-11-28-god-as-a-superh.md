@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 6630
 basename: god_as_a_superh
 ---
-<img src="/uploads/2012/Ashernew.jpg" alt="Ashernew.jpg" width="131" height="167" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />_This is a guest post by Robert J. Asher.  Asher is a [paleontologist in the Department of Zoology at the University of Cambridge](http://www.zoo.cam.ac.uk/zoostaff/asher.htm) in the U.K. He is also the author of the recently-published book_[Evolution and Belief: Confessions of a Religious Paleontologist](https://www.google.com/search?q=Evolution+and+Belief%3A+Confessions+of+a+Religious+Paleontologist&amp;ie=UTF-8)_._ 
+<img src="{{ site.baseurl }}/uploads/2012/Ashernew.jpg" alt="Ashernew.jpg" width="131" height="167" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />_This is a guest post by Robert J. Asher.  Asher is a [paleontologist in the Department of Zoology at the University of Cambridge](http://www.zoo.cam.ac.uk/zoostaff/asher.htm) in the U.K. He is also the author of the recently-published book_[Evolution and Belief: Confessions of a Religious Paleontologist](https://www.google.com/search?q=Evolution+and+Belief%3A+Confessions+of+a+Religious+Paleontologist&amp;ie=UTF-8)_._ 
 
 <p>_In February 2012, Asher authored the essay "Why I am an Accommodationist" for Huffington Post ([http://www.huffingtonpost.com/robert-j-asher/the-case-for-accommodatio_b_1298554.html](http://www.huffingtonpost.com/robert-j-asher/the-case-for-accommodatio_b_1298554.html))._ </p>
 

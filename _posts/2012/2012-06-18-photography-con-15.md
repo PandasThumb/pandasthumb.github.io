@@ -15,7 +15,7 @@ Polish your lenses (but not dry, please) -- this post announces the fourth Panda
 The winners will receive the usual great deal of satisfaction and a so far unspecified prize.
 
 <figure>
-<img src="/uploads/2012/IMG_2857_Argoflex_600.jpg" alt="IMG_2857_Argoflex_600.jpg" width="600" height="729" />
+<img src="{{ site.baseurl }}/uploads/2012/IMG_2857_Argoflex_600.jpg" alt="IMG_2857_Argoflex_600.jpg" width="600" height="729" />
 <figcaption markdown="span">
 <big>[Argoflex twin-lens reflex camera.](http://mattsclassiccameras.com/argoflex_e.html)</big>
 

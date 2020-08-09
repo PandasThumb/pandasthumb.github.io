@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 4914
 basename: creo_catfight_i
 ---
-<img src="/uploads/2011/CatHam.jpg" alt="CatHam.jpg" width="114" height="160" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
+<img src="{{ site.baseurl }}/uploads/2011/CatHam.jpg" alt="CatHam.jpg" width="114" height="160" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
 I had the displeasure of personally experiencing Kan Ham's vitriol, applied to scientists at the time, way back in 1995, when he brought his creation seminar to Albuquerque.  Time has passed, but Ham is still dispensing the vitriol.  What's changed is that now, he's railing against his fellow Creationists!
 
 The [Lexington (Ky.) Herald-Leader reported on March 24th]( http://www.kentucky.com/2011/03/24/1682122/founder-of-creation-museum-banned.html) that 

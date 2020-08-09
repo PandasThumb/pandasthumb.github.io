@@ -13,7 +13,7 @@ Photograph by Kurt Andreas.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2012/Andreas.Elateridae_larva.jpg" alt="Andreas.Elateridae_larva.jpg" width="600" height="485" />
+<img src="{{ site.baseurl }}/uploads/2012/Andreas.Elateridae_larva.jpg" alt="Andreas.Elateridae_larva.jpg" width="600" height="485" />
 <figcaption markdown="span">
 <big>[_Elateridae_](http://tolweb.org/Elateridae/9190) larva -- click beetle, Glendale, New York, April 19, 2011.</big>
 

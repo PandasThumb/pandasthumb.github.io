@@ -7,7 +7,7 @@ author: Matt Young
 Polish your lenses again, oil your tripods (but not your shutters), search your archives (and, if you have entered before, remember that you are not limited to 3 good pictures per lifetime). The ninth Panda's Thumb photography contest, begins &ndash; now!
 
 <figure>
-<img src="/uploads/2017/DSC01274_Stereoscope_Cropped_600.JPG" alt="Stereoscope"/>
+<img src="{{ site.baseurl }}/uploads/2017/DSC01274_Stereoscope_Cropped_600.JPG" alt="Stereoscope"/>
 <figcaption>
 <p><a href="https://en.wikipedia.org/wiki/Stereoscope">Stereoscope</a> invented by Oliver Wendell Holmes. Mont Saint-Michel <a href="https://en.wikipedia.org/wiki/Mont_Saint-Michel#/media/File:Mont_St_Michel_%2B_Jet%C3%A9e_par_Mar%C3%A9e_haute.JPG">looks a little different</a> today.</p>
 </figcaption>

@@ -24,9 +24,9 @@ Imagine a drunken man walking along a bridge with no railing.  Because he is ine
 
 My house has its own version of a random process with absorbing states: "the cats' amusement."  We have two cats, Isabelle and Precious, and they have toy mice, which they playfully knock around the house.  Eventually they lose all their toy mice, and either my wife or I have to dig them out from under one of their absorbing states: the refrigerator or the bookcase.
 
-<img src="/uploads/2005/drift25.png" alt="" />
+<img src="{{ site.baseurl }}/uploads/2005/drift25.png" alt="" />
 
-<img src="/uploads/2005/drift100.png" alt="" />
+<img src="{{ site.baseurl }}/uploads/2005/drift100.png" alt="" />
 
 The above charts each show the evolution of ten populations via genetic drift.  Each population starts at $$p=0.5$$, and their trajectory is followed for two hundred generations.  As one can see, the allele frequency randomly fluctuates until it hits either boundary, and this happens slower in the larger population.
 

@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2765
 basename: flock_of_dodos_3
 ---
-<img src="/uploads/2007/flock%20of%20dodos.jpg" alt="flock%20of%20dodos.jpg" width="111" height="160" style="float:left;" />
+<img src="{{ site.baseurl }}/uploads/2007/flock%20of%20dodos.jpg" alt="flock%20of%20dodos.jpg" width="111" height="160" style="float:left;" />
 Bill Dembski ['discusses'](http://www.uncommondescent.com/archives/2000) a  new book, to be released soon, titled **Flock of Dodos: Behind Modern Creationism & Intelligent Design** Cambridge House Press, Inc. (release date 02.28.07) By Barrett Brown, Jon P. Alston
 
 The book description may explain why the book is almost outselling some of Dembski's own books, before it has been released...

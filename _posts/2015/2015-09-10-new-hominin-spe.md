@@ -12,7 +12,7 @@ And _Science_ has just posted [an interesting piece](http://news.sciencemag.org/
 
 
 <figure>
-<img src="/uploads/2015/Homo_naledi_600.jpg" alt="Homo_naledi_600.jpg" width="600" height="652" />
+<img src="{{ site.baseurl }}/uploads/2015/Homo_naledi_600.jpg" alt="Homo_naledi_600.jpg" width="600" height="652" />
 <figcaption markdown="span">
 </figcaption>
 </figure>

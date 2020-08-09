@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3323
 basename: science_v_intel_10
 ---
-[<img src="/uploads/2007/flunked-thumb-100x31.jpg" alt="flunked.jpg" width="100" height="31" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/flunked3.html)Compare the efforts by Denyse O'Leary to teach about the so-called "controversy" surrounding Intelligent Design with the efforts by the [McGill Journal of Education](http://mje.mcgill.ca/) to instruct teachers as to the topic of evolution.
+[<img src="{{ site.baseurl }}/uploads/2007/flunked-thumb-100x31.jpg" alt="flunked.jpg" width="100" height="31" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/flunked3.html)Compare the efforts by Denyse O'Leary to teach about the so-called "controversy" surrounding Intelligent Design with the efforts by the [McGill Journal of Education](http://mje.mcgill.ca/) to instruct teachers as to the topic of evolution.
 
 The former strictly belongs in a category of "Pastoral Care" while the latter focuses on science teachers. Not surprisingly since Intelligent Design is mostly a religious controversy over a the distinction between materialism (read atheism) and theism (read Intelligent Design). However science is not materialistic but rather uses the very successful method of "methodological materialism" or "scientific method" to study the world around us.
 

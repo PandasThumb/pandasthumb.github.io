@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3328
 basename: ben_stein_v_int
 ---
-[<img src="/uploads/2007/flunked-thumb-100x31.jpg" alt="flunked.jpg" width="100" height="31" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/flunked5.html)On Bill O'Reilly, Ben Stein made the following claim:
+[<img src="{{ site.baseurl }}/uploads/2007/flunked-thumb-100x31.jpg" alt="flunked.jpg" width="100" height="31" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/flunked5.html)On Bill O'Reilly, Ben Stein made the following claim:
 
 Ben Stein wrote:
 

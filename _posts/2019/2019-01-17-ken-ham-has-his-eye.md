@@ -5,7 +5,7 @@ author: Matt Young
 ---
 
 <figure>
-<img src="/uploads/2019/Waste_Disposal_600.jpg" alt="Waste disposal"/>
+<img src="{{ site.baseurl }}/uploads/2019/Waste_Disposal_600.jpg" alt="Waste disposal"/>
 <figcaption>Waste disposal in Noah's Ark. <small>All photographs courtesy of Daniel Phelps.</small>
 </figcaption>
 </figure>
@@ -29,7 +29,7 @@ Mr. Phelps and his camera are a wealth of information. He visited the Ark Park w
 First, let us make clear that if the Ark Park or the Creation "Museum" were devoted merely to pseudoscience such as this:
 
 <figure>
-<img src="/uploads/2019/Uniformitarianism_600.jpg" alt="Uniformitarianism"/>
+<img src="{{ site.baseurl }}/uploads/2019/Uniformitarianism_600.jpg" alt="Uniformitarianism"/>
 <figcaption>Uniformitarianism
 </figcaption>
 </figure>
@@ -37,14 +37,14 @@ First, let us make clear that if the Ark Park or the Creation "Museum" were devo
 then a field trip there would be merely stupid, not unconstitutional. As to the religious nature of the displays, consider this:
 
 <figure>
-<img src="/uploads/2019/Door_to_Eternal_Life_600.jpg" alt="Door to eternal life"/>
+<img src="{{ site.baseurl }}/uploads/2019/Door_to_Eternal_Life_600.jpg" alt="Door to eternal life"/>
 <figcaption>Door to eternal life.
 </figcaption>
 </figure>
 
 or this:
 <figure>
-<img src="/uploads/2019/Hams_Prayer_600.jpg" alt="Ham's Prayer"/>
+<img src="{{ site.baseurl }}/uploads/2019/Hams_Prayer_600.jpg" alt="Ham's Prayer"/>
 <figcaption> Ham's prayer.
 </figcaption>
 </figure>
@@ -53,14 +53,14 @@ which follows something called "Noah's Prayer." Importantly, neither of these pl
 Finally, Mr. Phelps sent us photographs of what appears to be a poster-sized comic book which begins like this:
 
 <figure>
-<img src="/uploads/2019/Comic_Book_1_600.jpg" alt="Comic Book Frame 1"/>
+<img src="{{ site.baseurl }}/uploads/2019/Comic_Book_1_600.jpg" alt="Comic Book Frame 1"/>
 <figcaption> Opening of comic book.
 </figcaption>
 </figure>
 
 You can guess where it's going, can't you? First, they show that they know what scientists (whether religious or not) understand about the Bible:
 <figure>
-<img src="/uploads/2019/Lecture_600.jpg" alt="Lecture"/>
+<img src="{{ site.baseurl }}/uploads/2019/Lecture_600.jpg" alt="Lecture"/>
 <figcaption>What scientists actually know.
 </figcaption>
 </figure>
@@ -68,7 +68,7 @@ You can guess where it's going, can't you? First, they show that they know what 
 Then they go through a little theodicy, blaming us for all the evil and even misfortune in the world:
 
 <figure>
-<img src="/uploads/2019/Blame_Us_600.jpg" alt="Blame us"/>
+<img src="{{ site.baseurl }}/uploads/2019/Blame_Us_600.jpg" alt="Blame us"/>
 <figcaption>Blaming the victims.
 </figcaption>
 </figure>
@@ -76,7 +76,7 @@ Then they go through a little theodicy, blaming us for all the evil and even mis
 And, predictably:
 
 <figure>
-<img src="/uploads/2019/Jesus_Died_600.jpg" alt="Jesus died for our sins"/>
+<img src="{{ site.baseurl }}/uploads/2019/Jesus_Died_600.jpg" alt="Jesus died for our sins"/>
 <figcaption>Jesus died for our sins.
 </figcaption>
 </figure>

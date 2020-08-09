@@ -11,7 +11,7 @@ basename: the_christian_a
 I occasionally receive a request to print or post a photograph that has appeared on Panda's Thumb, but this one takes the cake: A magazine called [Creation Illustrated](http://www.creationillustrated.com/), which bills itself as "The Christian answer to National Geographic," requested permission to publish [this photograph](http://pandasthumb.org/archives/2010/07/castle-rock---s.html)
 
 <figure>
-<img src="/uploads/2014/IMG_0393_CastleRock_600.jpg" alt="IMG_0393_CastleRock_600.jpg" width="600" height="186" />
+<img src="{{ site.baseurl }}/uploads/2014/IMG_0393_CastleRock_600.jpg" alt="IMG_0393_CastleRock_600.jpg" width="600" height="186" />
 <figcaption markdown="span">
 
 </figcaption>

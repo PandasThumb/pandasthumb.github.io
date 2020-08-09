@@ -15,7 +15,7 @@ Chatterjee describes a project to perform cataract operations on people who are 
 What interested me more, in a way, was that newly sighted people fell for precisely the same optical illusions that normally sighted people fall for. For example, the two bars across the railroad tracks in Figure 1, the Ponzo illusion, are the same length, as you can verify with a ruler. The dashed lines on the right side of Figure 1 are parallel and show that the two bars are the same length &ndash; except that the illusion persists, and the dashed lines do not look parallel.
 
 <figure>
-<img src="/uploads/2015/Ponzo_Illusion_600.jpg" alt="Ponzo_Illusion_600.jpg" width="600" height="384" />
+<img src="{{ site.baseurl }}/uploads/2015/Ponzo_Illusion_600.jpg" alt="Ponzo_Illusion_600.jpg" width="600" height="384" />
 <figcaption markdown="span">
 <big>Figure 1. Ponzo illusion.  The "more distant" bar appears longer than the "closer" bar. The usual explanation, that we learn to see perspective in drawings, is apparently falsified by the fact that newly sighted people also fall for the Ponzo illusion.</big>
 
@@ -29,7 +29,7 @@ Amazingly, 9 newly sighted children fell for the Ponzo illusion.
 Likewise, Figure 2 shows the M&uuml;ller-Lyer illusion. Here, (a) the line segment with the arrows pointing out always looks shorter than (b) that with the arrows pointing in. The illusion persists, even when we provide a ruler to show that the lines are the same length. (See also [here](http://www.sciencemag.org/content/350/6259/372/F2.large.jpg) for a slightly different view of the M&uuml;ller-Lyer illusion.)
 
 <figure>
-<img src="/uploads/2015/Muller-Lyer_Illusion_600.jpg" alt="Muller-Lyer_Illusion_600.jpg" width="600" height="340" />
+<img src="{{ site.baseurl }}/uploads/2015/Muller-Lyer_Illusion_600.jpg" alt="Muller-Lyer_Illusion_600.jpg" width="600" height="340" />
 <figcaption markdown="span">
 <big>Figure 2. M&uuml;ller-Lyer illusion. (a) The line segment with the arrows pointing out looks shorter than (b) the line segment with the arrows pointing in. The illusion persists even when we provide a ruler for reference. Newly sighted people also fall for the M&uuml;ller-Lyer illusion.</big> From M. Young, _[No Sense of Obligation](http://www.amazon.com/No-Sense-Obligation-Religion-Impersonal-ebook/dp/B00JB1E9E2), Science and Religion in an Impersonal Universe_ (2001).
 

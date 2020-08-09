@@ -4,7 +4,7 @@ date: '2019-05-14 14:10:00 -06:00'
 author: Matt Young
 ---
 <figure>
-<img src="/uploads/2019/Fish_Eye_600.jpg" alt="Eye cross section"/>
+<img src="{{ site.baseurl }}/uploads/2019/Fish_Eye_600.jpg" alt="Eye cross section"/>
 <figcaption>
 Eye of <i>Diretmus argenteus</i> &ndash; silver spiny fish. <small>Modified Figure S9 of <a href="https://science.sciencemag.org/content/sci/suppl/2019/05/08/364.6440.588.DC1/aav4632_Musilova_SM.pdf">Supplementary Materials for "Vision using multiple distinct rod opsins in deep-sea fishes"</a>.</small>
 </figcaption>

@@ -33,7 +33,7 @@ I will apply this formula to a simplified example in which there are two events 
 
 $$H(p) = -(p \log p + (1-p) \log (1-p))$$
 
-<img src="/uploads/2005/entropy.jpg" alt="" />
+<img src="{{ site.baseurl }}/uploads/2005/entropy.jpg" alt="" />
 
 > Figure 1: Entropy for a system with two states. The horizontal axis describes the probability p and the vertical axis the entropy $$H(p)$$ as calculated using the formula above
 

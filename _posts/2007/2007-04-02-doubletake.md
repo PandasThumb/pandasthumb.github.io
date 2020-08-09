@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2933
 basename: doubletake
 ---
-<img src="/uploads/2007/piratehead.jpg" alt="piratehead.jpg" width="62" height="62" style="float:left;" />
+<img src="{{ site.baseurl }}/uploads/2007/piratehead.jpg" alt="piratehead.jpg" width="62" height="62" style="float:left;" />
 
 Well, it was nice while it lasted, which was far longer than we projected; the [SUCKERED post](http://www.pandasthumb.org/archives/2007/04/suckered.html) was indeed a prank on you, dear PT readers, pretending to reveal a Discovery Institute prank at our expenses.
 

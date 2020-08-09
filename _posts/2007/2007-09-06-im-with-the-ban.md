@@ -16,37 +16,37 @@ Also don't forget to submit your best science blogging posts to [the 2007 Scienc
 
 Now to our adventure in Chicago.  Have you ever been carried around by a woman through a museum exhibition? I was. Try it sometime. I met Nomad, J-Dog, and J-Dog's wife and daughter in the museum coffee shop for some refreshments beforehand.
 
-<img src="/uploads/2007/coffee1.jpg" alt="" width="400" height="267" />
+<img src="{{ site.baseurl }}/uploads/2007/coffee1.jpg" alt="" width="400" height="267" />
 
 We were joined by that dashing Rich Hughes and the surprisingly girl-next-door Kristine Harley (Amused Muse). Kristine took me through the exhibition and made sure that I could get a good view of everything. You know, I actually think my mom would like her. . . .
 
-<img src="/uploads/2007/nophotography.jpg" alt="" width="400" height="267" />
+<img src="{{ site.baseurl }}/uploads/2007/nophotography.jpg" alt="" width="400" height="267" />
 
 At any rate, it was exciting to see Darwin's (reproduced) manuscripts, artifacts, and personal items. The exhibition was not as large as I'd imagined but it was comprehensive in tracing Darwin's entire voyage, not just his trip to the Gal&aacute;pagos Islands.
 
-<img src="/uploads/2007/beagle.jpg" alt="" width="400" height="267" />
+<img src="{{ site.baseurl }}/uploads/2007/beagle.jpg" alt="" width="400" height="267" />
 
 Especially poignant were the items that had belonged to Anna, Darwin's favorite child, who died too young. Live animals were a part of the exhibition; we saw a huge South American green iguana and Argentinean horned frogs, as well as fossils and mounted specimens. We were told that photography was forbidden but I confess, I talked Nomad into snapping a few.
 
-<img src="/uploads/2007/lions.jpg" alt="" width="400" height="441" />
+<img src="{{ site.baseurl }}/uploads/2007/lions.jpg" alt="" width="400" height="441" />
 
-<img src="/uploads/2007/pandas.jpg" alt="" width="400" height="267" />
+<img src="{{ site.baseurl }}/uploads/2007/pandas.jpg" alt="" width="400" height="267" />
 
 Most exciting was the iconic notebook bearing the first-ever sketch of the tree of life showing relationships between species made by Darwin. We were all startled to see how small it was---like a 1940s reporter's steno notebook.
 
-<img src="/uploads/2007/treenotebook.jpg" alt="" width="400" height="267" />
+<img src="{{ site.baseurl }}/uploads/2007/treenotebook.jpg" alt="" width="400" height="267" />
 
 Charles Darwin also wrote up some pros and cons regarding marriage as he was considering his choice of a wife, and we all found that quite amusing. We also enjoyed the cartoon of a young Charles Darwin riding a giant beetle, drawn by Albert Way, a fellow collector of beetles. ("[An inordinate fondness for beetles. . . .](http://en.wikiquote.org/wiki/J._B._S._Haldane)")
 
 The museum staff was curious about me and came to greet me; they were all quite enthusiastic, but unfortunately I could not find one t-shirt in the gift shop that would fit.  Kristine thinks that she could make me one---well, custom outfits are the story of my life.
 
-<img src="/uploads/2007/darwinshirt.jpg" alt="" width="400" height="267" />
+<img src="{{ site.baseurl }}/uploads/2007/darwinshirt.jpg" alt="" width="400" height="267" />
 
 However, as I was complaining about this I became quick buds with one of the Darwin dolls who was hanging out with his brothers in the gift shop, so he came along with us to dinner afterward.
 
-<img src="/uploads/2007/darwins2.jpg" alt="" width="400" height="267" />
+<img src="{{ site.baseurl }}/uploads/2007/darwins2.jpg" alt="" width="400" height="267" />
 
-<img src="/uploads/2007/darwins.jpg" alt="" width="400" height="267" />
+<img src="{{ site.baseurl }}/uploads/2007/darwins.jpg" alt="" width="400" height="267" />
 
 We all gathered at Grace O'Malley's for some drinks and good Irish food---and the Darwin doll, ever the gentleman, bought me a drink.
 

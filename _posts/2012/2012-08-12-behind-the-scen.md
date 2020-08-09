@@ -12,7 +12,7 @@ By Dan Phelps, edrioasteroid@msn.com
 
 
 <figure>
-<img src="/uploads/2012/Dan&Ken.JPG" alt="Dan&amp;amp;Ken.JPG" width="600" height="398" />
+<img src="{{ site.baseurl }}/uploads/2012/Dan&Ken.JPG" alt="Dan&amp;amp;Ken.JPG" width="600" height="398" />
 <figcaption markdown="span">
 Dan Phelps, right, armed for battle, with his new friend, Ken Ham.
 

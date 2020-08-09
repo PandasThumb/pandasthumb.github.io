@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3297
 basename: science_v_intel_1
 ---
-[<img src="/uploads/2007/flunked-thumb-200x63.jpg" alt="flunked.jpg" width="200" height="63" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://www.cafepress.com/aus_ed.177795434)My second example in this very educational series is how science explains the origin of the bacterial flagella.  
+[<img src="{{ site.baseurl }}/uploads/2007/flunked-thumb-200x63.jpg" alt="flunked.jpg" width="200" height="63" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://www.cafepress.com/aus_ed.177795434)My second example in this very educational series is how science explains the origin of the bacterial flagella.  
 
 **Science Explains**
 

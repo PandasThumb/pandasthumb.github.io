@@ -9,7 +9,7 @@ post_id: 6817
 basename: asclepias_speciosa
 ---
 <figure>
-<img src="/uploads/2013/IMG_3576_Milkweed_600.jpg" alt="IMG_3576_Milkweed_600.jpg" width="600" height="450" />
+<img src="{{ site.baseurl }}/uploads/2013/IMG_3576_Milkweed_600.jpg" alt="IMG_3576_Milkweed_600.jpg" width="600" height="450" />
 <figcaption markdown="span">
 <big>[_Asclepias speciosa_](http://en.wikipedia.org/wiki/Asclepias) -- showy milkweed, Boulder, Colorado, Sept. 4.</big>
 

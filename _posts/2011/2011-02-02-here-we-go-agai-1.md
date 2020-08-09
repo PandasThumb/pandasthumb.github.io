@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 4866
 basename: here_we_go_agai_1
 ---
-<img src="/uploads/2011/leg2011.jpg" alt="leg2011.jpg" width="769" height="231" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2011/leg2011.jpg" alt="leg2011.jpg" width="769" height="231" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 Another antievolution bill has just been [introduced in the New Mexico House](http://www.nmlegis.gov/Sessions/11%20Regular/bills/house/HB0302.html):
 

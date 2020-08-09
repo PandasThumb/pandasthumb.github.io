@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1645
 basename: all_right_mr_de
 ---
-<img src="/uploads/2006/story.panda4.ap.jpg" alt="story.panda4.ap.jpg" width="220" height="168" style="float:left;" />
+<img src="{{ site.baseurl }}/uploads/2006/story.panda4.ap.jpg" alt="story.panda4.ap.jpg" width="220" height="168" style="float:left;" />
 
 The AP is reporting that the National Zoo's Panda club had a photo shoot today: [ Panda cub gets its close-up](http://www.cnn.com/2005/TECH/science/11/29/panda.debut.ap/index.html).
 

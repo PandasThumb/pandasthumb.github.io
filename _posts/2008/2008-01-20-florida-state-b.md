@@ -21,7 +21,7 @@ Remember that the 'offending text' in the draft standards describes evolution as
 
 # State Board of Education
 
-<img src="/uploads/2008/thumbs_up-thumb-15x15.png" alt="" />[Mr. Roberto Martinez](bob@colson.com) -  [Bio](http://www.fldoe.org/board/bios/Martinez.asp)<br />
+<img src="{{ site.baseurl }}/uploads/2008/thumbs_up-thumb-15x15.png" alt="" />[Mr. Roberto Martinez](bob@colson.com) -  [Bio](http://www.fldoe.org/board/bios/Martinez.asp)<br />
 **Phone**: (850) 245-0505 **Fax**: (850) 245-9667 <br />
 
 > "Evolution is well accepted in the scientific community as a fact," said Roberto "Bobby" Martinez, a Coral Gables lawyer. "This is not a discussion on religion."
@@ -31,7 +31,7 @@ Source: [County woman leads assault on evolution instruction](http://www.staugus
 
 *********
 
-<img src="/uploads/2008/thumbs_down-thumb-15x15.png" alt="" />[Ms. Donna Callaway](mailto:callawaydjc@embarq.com) State Board of Education, Member - [Bio](http://www.fldoe.org/board/bios/Callaway.asp)<br />
+<img src="{{ site.baseurl }}/uploads/2008/thumbs_down-thumb-15x15.png" alt="" />[Ms. Donna Callaway](mailto:callawaydjc@embarq.com) State Board of Education, Member - [Bio](http://www.fldoe.org/board/bios/Callaway.asp)<br />
 **Phone**: (850) 245-0505 **Fax**: (850) 245-9667<br />
 **Callaway should be informed that there are no other theories to compete with evolution. You may want to refer to the various quotes by ID proponents who admit this (Philip Johnson, Paul Nelson, and even William Dembski).**
 
@@ -47,7 +47,7 @@ Source: [County woman leads assault on evolution instruction](http://www.staugus
 
 *********
 
-<img src="/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Mrs. Linda Taylor](mailto:lmtaylor@gte.net) - [Bio](http://www.fldoe.org/board/bios/Taylor.asp)<br />
+<img src="{{ site.baseurl }}/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Mrs. Linda Taylor](mailto:lmtaylor@gte.net) - [Bio](http://www.fldoe.org/board/bios/Taylor.asp)<br />
 **Phone**: (850) 245-0505 **Fax**: (850) 245-9667<br />
 **Like Callaway, Taylor could benefit from a reminder that there are no competing theories of evolution**
 
@@ -63,7 +63,7 @@ Source: [Florida Citizens for Science](http://www.flascience.org/wp/?p=346)
 *********
 
 
-<img src="/uploads/2008/question-thumb-15x14.jpg" alt="" />[Mr. T. Willard Fair](mailto:wfair@bellsouth.net ) Chairman, State Board of Education - [Bio](http://www.fldoe.org/board/bios/Fair.asp)<br />
+<img src="{{ site.baseurl }}/uploads/2008/question-thumb-15x14.jpg" alt="" />[Mr. T. Willard Fair](mailto:wfair@bellsouth.net ) Chairman, State Board of Education - [Bio](http://www.fldoe.org/board/bios/Fair.asp)<br />
 **Phone**: (305) 696-4450 x. 0 **Fax**: (305) 696-4455 <br />
 
 > Board chairman T. Willard Fair, who heads the Urban League of Greater Miami, said he's never received more correspondence on a single issue, but he declined to discuss his views.
@@ -74,13 +74,13 @@ Source: [County woman leads assault on evolution instruction](http://www.staugus
 *********
 
 
-<img src="/uploads/2008/question-thumb-15x14.jpg" alt="" />[Dr. Akshay Desai](mailto:drdesai@univhc.com) - [Bio](http://www.fldoe.org/board/bios/Desai.asp)<br />
+<img src="{{ site.baseurl }}/uploads/2008/question-thumb-15x14.jpg" alt="" />[Dr. Akshay Desai](mailto:drdesai@univhc.com) - [Bio](http://www.fldoe.org/board/bios/Desai.asp)<br />
 **Phone**: (850) 245-0505 **Fax**: (850) 245-9667<br />
 
 *********
 
 
-<img src="/uploads/2008/question-thumb-15x14.jpg" alt="" />[Mrs. Phoebe Raulerson](praulerson@okeechobee.com) - [Bio](http://www.fldoe.org/board/bios/Raulerson.asp)<br />
+<img src="{{ site.baseurl }}/uploads/2008/question-thumb-15x14.jpg" alt="" />[Mrs. Phoebe Raulerson](praulerson@okeechobee.com) - [Bio](http://www.fldoe.org/board/bios/Raulerson.asp)<br />
 **Phone**: (850) 245-0505 **Fax**: (850) 245-9667<br />
 
 > Board member Phoebe Raulerson, a former Okeechobee County school superintendent, said she couldn't comment because she hadn't yet examined the proposal and public comment.
@@ -91,13 +91,13 @@ Source: [County woman leads assault on evolution instruction](http://www.staugus
 *********
 
 
-<img src="/uploads/2008/question-thumb-15x14.jpg" alt="" />[Ms. Kathleen Shanahan](kshanahan@wrsie.com) - [Bio](http://www.fldoe.org/board/bios/Shanahan.asp)<br />
+<img src="{{ site.baseurl }}/uploads/2008/question-thumb-15x14.jpg" alt="" />[Ms. Kathleen Shanahan](kshanahan@wrsie.com) - [Bio](http://www.fldoe.org/board/bios/Shanahan.asp)<br />
 **Phone**: (850) 245-9661 **Fax**: (850) 245-9667 <br />
 
 *********
 
 
-<img src="/uploads/2008/question-thumb-15x14.jpg" alt="" />Dr. Eric J. Smith - [Bio](http://www.fldoe.org/board/bios/commissioner.asp.asp)<br />
+<img src="{{ site.baseurl }}/uploads/2008/question-thumb-15x14.jpg" alt="" />Dr. Eric J. Smith - [Bio](http://www.fldoe.org/board/bios/commissioner.asp.asp)<br />
 **Phone**: (850) 245-0505 **Fax**: (850) 245-9667<br />
 
 > Education Commissioner Eric Smith, who also serves on the board, said it would be inappropriate for him to comment until the standards are finalized.

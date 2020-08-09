@@ -13,7 +13,7 @@ Photograph by **Vivian Dullien**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2013/DullienPrairieDogs_600.jpg" alt="DullienPrairieDogs_600.jpg" width="600" height="750" />
+<img src="{{ site.baseurl }}/uploads/2013/DullienPrairieDogs_600.jpg" alt="DullienPrairieDogs_600.jpg" width="600" height="750" />
 <figcaption markdown="span">
 <big>[_Cynomys ludovicianus_](http://wildlife.state.co.us/WildlifeSpecies/Profiles/Mammals/Pages/BlackTailedPrairieDog.aspx) -- black-tailed prairie dog.  The one on the left is a juvenile.</big>
 

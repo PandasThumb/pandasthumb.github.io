@@ -14,7 +14,7 @@ Several years ago, I saw a fantastic talk at the Evolution meeting about [Intras
 
 [A previous study](http://www.jstor.org/stable/2408805) had noted that the skull variation in dogs was bigger than the variation in the family Canidae, but the incredible result of Drake's study was that the variation in shape of dog skulls was _bigger_ than the variation in shape _across the entire order_ Carnivora, which is 60 million years old and includes even mostly-aquatic forms.
 
-> <img src="/uploads/2010/Drake_Klingenberg_2010_AmNat_dogs_intraspecific_macroevolution_fg3.gif" alt="Drake_Klingenberg_2010_AmNat_dogs_intraspecific_macroevolution_fg3.gif" width="500" height="372" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+> <img src="{{ site.baseurl }}/uploads/2010/Drake_Klingenberg_2010_AmNat_dogs_intraspecific_macroevolution_fg3.gif" alt="Drake_Klingenberg_2010_AmNat_dogs_intraspecific_macroevolution_fg3.gif" width="500" height="372" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 > 
 > Figure 3:  Principal component (PC) analysis for skull shape in the complete data set. A-C, Plots of the PC scores. D, Shape changes associated with the PC axes. For each PC, the shapes corresponding to the observed extremes in the positive and negative directions are shown as a warped surface of a wolf skull (Wiley et al. 2005).
 

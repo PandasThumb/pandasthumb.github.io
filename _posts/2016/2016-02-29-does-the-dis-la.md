@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 7175
 basename: does_the_dis_la
 ---
-<img src="/uploads/2016/buzzards.jpg" alt="buzzards.jpg" width="567" height="609" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
+<img src="{{ site.baseurl }}/uploads/2016/buzzards.jpg" alt="buzzards.jpg" width="567" height="609" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
 
 This was sent out by the Discovery Institute around a week ago. Note the bolded sentence. 
 

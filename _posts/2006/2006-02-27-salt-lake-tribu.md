@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1985
 basename: salt_lake_tribu
 ---
-<img src="/uploads/2006/southpark_evilButters2.gif" alt="southpark_evilButters2.gif" width="80" height="80" style="float:left;" />
+<img src="{{ site.baseurl }}/uploads/2006/southpark_evilButters2.gif" alt="southpark_evilButters2.gif" width="80" height="80" style="float:left;" />
 
 Buttars' crazy anti-evolution bill has been killed in Utah.
 

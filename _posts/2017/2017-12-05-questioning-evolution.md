@@ -5,7 +5,7 @@ author: Matt Young
 ---
 
 <figure>
-<img src="/uploads/2017/Retro_Report.jpg" alt="Retro Report"/>
+<img src="{{ site.baseurl }}/uploads/2017/Retro_Report.jpg" alt="Retro Report"/>
 </figure>
 
 We just learned today of a Retro Report, <a href="https://www.nytimes.com/2017/11/19/us/retro-report-evolution-science.html">Questioning Evolution: The Push to Change Science Class</a>, by Clyde Haberman, in <i>The New York Times</i>. The report was posted with an accompanying video, "Raising Doubts about Evolution ... in Science Class." The video features <a href="https://pandasthumb.org/archives/2015/12/zack-kopplin-in.html">Zack Kopplin</a>, whose T-shirt you may see in the photograph. Ken Miller also makes a number of appearances, as do, alas, three representatives of the Discovery Institute and also Georgia Purdom of Answers in Genesis.

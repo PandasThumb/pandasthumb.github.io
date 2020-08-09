@@ -10,7 +10,7 @@ basename: yet_another_fal
 ---
 Remember how Dembski, despite common sense, argued that the design inference was free of false positives. And yet, history has shown countless examples of false positives. Nevertheless, IDers seem to get a lot of mileage from their Mount Rushmore example. So here is a another example of 'design'
 
-<img src="/uploads/2006/indian_face_google_earth.jpg" alt="indian_face_google_earth.jpg" width="443" height="331" />
+<img src="{{ site.baseurl }}/uploads/2006/indian_face_google_earth.jpg" alt="indian_face_google_earth.jpg" width="443" height="331" />
 
 The feature can be studied in more details on [Google Maps](http://maps.google.com/maps?f=q&amp;hl=en&amp;q=50%C2%B0+0%2738.20%22N+110%C2%B0+6%2748.32%22W&amp;ie=UTF8&amp;z=17&amp;ll=50.010538,-110.113585&amp;spn=0.004895,0.009978&amp;t=h&amp;om=1)
 

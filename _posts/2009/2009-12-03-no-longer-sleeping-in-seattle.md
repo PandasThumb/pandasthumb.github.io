@@ -39,13 +39,13 @@ Raff, Rudolf A. (1998). [_The Shape of Life: Genes, Development, and the Evoluti
 
 Note: This is the figure from Prothero's book under discussion:
 
-> <img src="/uploads/2009/Prothero_2007_Fig8-18.jpg" alt="Prothero_2007_Fig8-18.jpg" width="300" height="300" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+> <img src="{{ site.baseurl }}/uploads/2009/Prothero_2007_Fig8-18.jpg" alt="Prothero_2007_Fig8-18.jpg" width="300" height="300" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 90%-plus of the _hundreds_ of other figures in Prothero's book are of transitional fossils -- but nevertheless Wells feels entitled to accuse Prothero of fraud.  Says Wells: "[Need evidence for Darwinian evolution? Just make it up. That's the lesson of Donald Prothero's book, _Evolution: What the Fossils Say and Why It Matters_](http://www.evolutionnews.org/2009/12/donald_protheros_imaginary_evi.html)."
 
 Looking at the references mentioned above tells a different story than Wells.  E.g., Figure 12.4, p. 409 of Raff 1998 shows us one of the (incredible!) ancient fossil insects with many pairs of wings (see Kukalova-Peck 1978 for more detailed drawings and references).  (By the way, various fossils, and some modern examples, are known of insects showing a third pair of winglike structures, in front of the regular two pairs.)
 
-> <img src="/uploads/2009/Raff_1998_Fig12-4_Kukalova.png" alt="Raff_1998_Fig12-4_Kukalova.png" width="571" height="422" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+> <img src="{{ site.baseurl }}/uploads/2009/Raff_1998_Fig12-4_Kukalova.png" alt="Raff_1998_Fig12-4_Kukalova.png" width="571" height="422" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 Kukalova-Peck's (1978) original caption (Figure 28, Plate 7, p. 110) for the Paleozoic insect reads:
 
@@ -55,7 +55,7 @@ A [1985 publication by Kukalova-Peck](http://scholar.google.com/scholar?q=Epheme
 
 Figure 12.6 and p. 412 of Raff (1998) gives a more detailed version of the argument made briefly in Prothero (2007):
 
-<img src="/uploads/2009/Raff_1998_Fig12-6_hox_wings.png" alt="Raff_1998_Fig12-6_hox_wings.png" width="587" height="464" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2009/Raff_1998_Fig12-6_hox_wings.png" alt="Raff_1998_Fig12-6_hox_wings.png" width="587" height="464" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 See also e.g. [Figure 29 of Kirschner et al. 2005](http://books.google.com/books?id=s6BATAnBYmwC&amp;pg=PA63&amp;dq=plausibility+of+life,+insect&amp;ei=flgYS5SOC4jylQTU4sGNDA#v=onepage&amp;q=wings&amp;f=false).
 
@@ -71,6 +71,6 @@ For a good diagram of the various events and time periods in the late Precambria
 
 Small version below:
 
-> <img src="/uploads/2009/Marshall_2006_Cambrian_diversity.gif" alt="Marshall_2006_Cambrian_diversity.gif" width="492" height="500" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+> <img src="{{ site.baseurl }}/uploads/2009/Marshall_2006_Cambrian_diversity.gif" alt="Marshall_2006_Cambrian_diversity.gif" width="492" height="500" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 > 
 > **Figure 1** Complex anatomy of the Cambrian "explosion." Dates from Grotzinger et al. (1995), Landing et al. (1998), Gradstein et al. (2004), and Condon et al. (2005). Neoproterozoic carbonate carbon isotope curve from Condon et al. (2005), Early Cambrian curve largely from Maloof et al. (2005) but also from Kirschvink & Raub (2003), and Middle and Late Cambrian from Montanez et al. (2000). Note the wide range of values in part of the Early Cambrian; this is partly due to geographic variation, but also to variation measured in Morocco. Disparity from Bowring et al. (1993). Diversity based on tabulation by Foote (2003) derived from Sepkoski's compendium of marine genera (Sepkoski 1997, 2002); all taxa found in the interval, as well as those that range through the interval, are counted. Short-term idiosyncrasies in the rock record can add noise to diversity curves, so to dampen that effect, taxa found in just one interval can be omitted (singletons omitted). Note that standing diversities were much lower than the values shown; many of the taxa found in a stratigraphic interval did not coexist. The boundary crosser curve (M. Foote, personal communication) gives the number of taxa that must have coexisted at the points shown; however, because traditional stratigraphic boundaries are based on times of unusual taxonomic turnover, these estimates may underestimate typical standing diversities.

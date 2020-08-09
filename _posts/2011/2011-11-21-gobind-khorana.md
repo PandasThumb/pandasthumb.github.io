@@ -14,4 +14,4 @@ Khorana was also the first person to artificially synthesize a synthetic gene an
 
 Later, Khorana went on to use these techniques to investigate in detail the structure and mechanism of [bacteriorhodopsin](http://www.pdb.org/pdb/101/motm.do?momID=27), which has to be one of the darn coolest proteins in the biosphere (_full disclosure &mdash; I'm biased, since my lab now studies the evolution of bacteriorhodopsin_).  Photosynthesis evolved twice, with two very different mechanisms: plants use chlorophyll, and many bacteria use bacteriorhodopsin.  While chlorophyll wins in terms of efficiency, bacteriorhodopsin is much simpler and more elegant.  
 
-<img src="/uploads/2011/bR.png" alt="bR.png" width="300" height="411" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2011/bR.png" alt="bR.png" width="300" height="411" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />

@@ -39,7 +39,7 @@ Or take ice core dating. Creationists argue that scientists assume constant ice 
 I do not know whether Dr. Mortenson has seen the following figure (Figure 1), or if he would have recognized it if he did. It is the layer-by-layer temperature variation in the Vostok ice cores, set alongside the layer-by-layer oxygen isotope variation from fossilized plankton samples buried in the seafloor.
 
 <figure>
-<img src="/uploads/2014/MacMillan2_600.jpg" alt="MacMillan2_600.jpg" width="600" height="368" />
+<img src="{{ site.baseurl }}/uploads/2014/MacMillan2_600.jpg" alt="MacMillan2_600.jpg" width="600" height="368" />
 <figcaption markdown="span">
 Figure 1. Upper curve: oxygen isotope variation in fossilized plankton buried in the seafloor, as a function of time in thousands of years before the present. Lower curve: temperature variation in unrelated ice cores. Extracted from  http://en.wikipedia.org/wiki/File:MilankovitchCyclesOrbitandCores.png.
 

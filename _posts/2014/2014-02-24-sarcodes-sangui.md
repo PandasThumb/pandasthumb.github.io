@@ -13,7 +13,7 @@ Photograph by **Jim Norton**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2014/Norton.snow-planr.JPG" alt="Norton.snow-planr.JPG" width="571" height="1399" />
+<img src="{{ site.baseurl }}/uploads/2014/Norton.snow-planr.JPG" alt="Norton.snow-planr.JPG" width="571" height="1399" />
 <figcaption markdown="span">
 <big>[_Sarcodes sanguinea_](http://en.wikipedia.org/wiki/Sarcodes) -- snow plant, a saprophytic plant with no chlorophyll.  King's Canyon National Park, California, July 3, 2010.</big>
 

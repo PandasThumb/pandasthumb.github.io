@@ -11,7 +11,7 @@ basename: metaconglomerat
 Photograph by **Dan Phelps**.
 
 <figure>
-<img src="/uploads/2016/Phelps_Metaconglomerate_2_600.jpg" alt="Phelps_Metaconglomerate_2_600.jpg" width="600" height="400" />
+<img src="{{ site.baseurl }}/uploads/2016/Phelps_Metaconglomerate_2_600.jpg" alt="Phelps_Metaconglomerate_2_600.jpg" width="600" height="400" />
 <figcaption markdown="span">
 
 <big>[Metaconglomerate rock](https://en.wikipedia.org/wiki/Metaconglomerate) (commercially known as [marinace](http://www.marmirossi.com/en/news/focus-materials/marinace-the-riverbed-of-stone); if anyone knows why, please comment below).</big>

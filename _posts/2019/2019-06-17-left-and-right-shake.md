@@ -4,7 +4,7 @@ date: '2019-06-17 14:30:00 -06:00'
 author: Matt Young
 ---
 <figure>
-<img src="/uploads/2019/Human-evolution-man_Blank_Slate_Cropped_600.jpg" alt=" Blank slate"/>
+<img src="{{ site.baseurl }}/uploads/2019/Human-evolution-man_Blank_Slate_Cropped_600.jpg" alt=" Blank slate"/>
 <figcaption>All those years of evolution, and nothing to show for it but a blank slate. <small>Built upon an image by José-Manuel Benitos, https://commons.wikimedia.org/wiki/File:Human-evolution-man.png. CC BY-SA 3.0. With apologies to <a href="https://www.motherjones.com/politics/2013/11/seven-evolutionary-reasons-people-deny-evolution/">Matt Connolly</a> of Mother Jones magazine. </small>
 </figcaption>
 </figure>

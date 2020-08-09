@@ -13,7 +13,7 @@ Photograph by **Andrew Gould**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2013/Gould.Panaroma_of_Grand_Canyon_600.JPG" alt="Gould.Panaroma_of_Grand_Canyon_600.JPG" width="600" height="176" />
+<img src="{{ site.baseurl }}/uploads/2013/Gould.Panaroma_of_Grand_Canyon_600.JPG" alt="Gould.Panaroma_of_Grand_Canyon_600.JPG" width="600" height="176" />
 <figcaption markdown="span">
 <big>Panoramic view of [Grand Canyon](http://en.wikipedia.org/wiki/Grand_Canyon), Arizona.</big>
 

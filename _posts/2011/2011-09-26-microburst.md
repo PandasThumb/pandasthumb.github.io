@@ -11,7 +11,7 @@ basename: microburst
 Photograph by **Rachel Shannon**.
 
 <figure>
-<img src="/uploads/2011/Microburst_600.jpg" alt="Microburst_600.jpg" width="600" height="450" />
+<img src="{{ site.baseurl }}/uploads/2011/Microburst_600.jpg" alt="Microburst_600.jpg" width="600" height="450" />
 <figcaption markdown="span">
 <big>[Microburst](http://en.wikipedia.org/wiki/Microburst), Boulder, Colorado, driving west on South Boulder Road.</big>
 

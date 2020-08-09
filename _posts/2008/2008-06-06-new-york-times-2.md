@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3850
 basename: new_york_times_2
 ---
-<img src="/uploads/2008/NYTLogo.jpg" alt="NYTLogo.jpg" width="50" height="40" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />In [Opponents of Evolution Adopting a New Strategy ](http://www.nytimes.com/2008/06/04/us/04evolution.html), Laura Beil explores the tactics by Intelligent Design Creationists to undermine the teaching of science.  This time, their focus is on Texas where Creationists have a close majority on the State Education Board.
+<img src="{{ site.baseurl }}/uploads/2008/NYTLogo.jpg" alt="NYTLogo.jpg" width="50" height="40" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />In [Opponents of Evolution Adopting a New Strategy ](http://www.nytimes.com/2008/06/04/us/04evolution.html), Laura Beil explores the tactics by Intelligent Design Creationists to undermine the teaching of science.  This time, their focus is on Texas where Creationists have a close majority on the State Education Board.
 
 > Opponents of teaching evolution, in a natural selection of sorts, have gradually shed those strategies that have not survived the courts. Over the last decade, creationism has given rise to “creation science,” which became “intelligent design,” which in 2005 was banned from the public school curriculum in Pennsylvania by a federal judge.
 

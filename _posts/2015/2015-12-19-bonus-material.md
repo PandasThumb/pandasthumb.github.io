@@ -9,7 +9,7 @@ blog_id: 2
 post_id: 7156
 basename: bonus_material
 ---
-[<img src="/uploads/2015/PhyloWiki_Matzke_2015-thumb-400x275-1840.png" alt="PhyloWiki_Matzke_2015.png" width="400" height="275" style="float: right; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/assets_c/2015/12/PhyloWiki_Matzke_2015-1840.html)On [PhyloWiki](http://phylo.wikidot.com), I have just [posted a page of bonus material](http://phylo.wikidot.com/matzke-2015-science-paper-on-the-evolution-of-antievolution) on the _Science_ paper "[The Evolution of Antievolution Policies After _Kitzmiller v. Dover_](http://www.sciencemag.org/content/early/2015/12/16/science.aad4057.abstract)."
+[<img src="{{ site.baseurl }}/uploads/2015/PhyloWiki_Matzke_2015-thumb-400x275-1840.png" alt="PhyloWiki_Matzke_2015.png" width="400" height="275" style="float: right; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/assets_c/2015/12/PhyloWiki_Matzke_2015-1840.html)On [PhyloWiki](http://phylo.wikidot.com), I have just [posted a page of bonus material](http://phylo.wikidot.com/matzke-2015-science-paper-on-the-evolution-of-antievolution) on the _Science_ paper "[The Evolution of Antievolution Policies After _Kitzmiller v. Dover_](http://www.sciencemag.org/content/early/2015/12/16/science.aad4057.abstract)."
 
 Highlights include: 
 

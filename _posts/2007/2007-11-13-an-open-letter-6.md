@@ -20,7 +20,7 @@ Firstly, Vpu viroproin is an example of [viral protein-viral protein interaction
 
 Thirdly, your claims about the difficulty of developing binding sites rests almost entirely on the difficulty of getting multiple simultaneous mutations, the down stream effects of a new binding site are [ irrelevant to your argument ](http://pandasthumb.org/archives/2007/10/an-open-letter-3.html). But even so, when we talk about Vpu binding we are talking about a coordinated binding to a specific acceptor site. In the context of the Vpu function, this is the production of a multi-subunit molecular machine that sends CD4 to be broken down. The recently evolved Vpu binding sites change the targeting of this complex, with beneficial effects for the virus.
 
-<img src="/uploads/2007/Vpu_binding.jpg" alt="Vpu_binding.jpg" width="500" height="294" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2007/Vpu_binding.jpg" alt="Vpu_binding.jpg" width="500" height="294" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 
 <div markdown="block" style="text-align: center;">

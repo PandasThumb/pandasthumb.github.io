@@ -12,7 +12,7 @@ From London comes the astonishing news that the unmistakable image of Charles Da
 
 In one attempted application of the Explanatory Filter<sup>TM</sup> it was found that the probability of this occurance is less than that of fairy circles appearing to form a mole on the face on Mars<sup>2</sup>. (This is, coincidentally, _precisely_ equal to the probability that Nicholas Caputo would have hit David Berlinski if he had fired an arrow at Albert Einstein's door during a total solar eclipse.)
 
-[<img src="/uploads/2006/fa_1-thumb.JPG" alt="fa_1.JPG" width="400" height="300" style="float:left;" />](/uploads/2006/fa_1.JPG)
+[<img src="{{ site.baseurl }}/uploads/2006/fa_1-thumb.JPG" alt="fa_1.JPG" width="400" height="300" style="float:left;" />](/uploads/2006/fa_1.JPG)
 
 Scientists say that the object's being _specified_ is beyond doubt. An anonymous fellow of an anonymous Intelligent Design PR firm, when asked on background and off the record, responded that "Objectively, we can only conclude that the image was _designed_ by an intelligence<sup>3</sup>, perhaps by means of infinite wavelength radiation emanating from the stove of the discoverer's flat."
 

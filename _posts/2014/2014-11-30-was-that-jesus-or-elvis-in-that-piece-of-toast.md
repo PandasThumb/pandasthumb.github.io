@@ -9,7 +9,7 @@ post_id: 7043
 basename: was_that_jesus_or_elvis_in_that_piece_of_toast
 ---
 <figure>
-<img src="/uploads/2014/JesusOnToast.jpg" alt="JesusOnToast.jpg" width="300" height="223" style="float:right;" />
+<img src="{{ site.baseurl }}/uploads/2014/JesusOnToast.jpg" alt="JesusOnToast.jpg" width="300" height="223" style="float:right;" />
 <figcaption markdown="span">
 
 Credit: [Abnormal Interests]( http://www.telecomtally.com/blog/2010/09/jesus_on_toast.html). Creative Commons copyright CC BY-NC-SA 3.0 US.

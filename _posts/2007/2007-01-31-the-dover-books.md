@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2772
 basename: the_dover_books
 ---
-<img src="/uploads/2007/3_books.jpg" alt="Three books on Kitzmiller v. Dover" width="375" height="170" style="" />
+<img src="{{ site.baseurl }}/uploads/2007/3_books.jpg" alt="Three books on Kitzmiller v. Dover" width="375" height="170" style="" />
 
 Those of you who can't get enough of the [Trial of the (21<sup>st</sup>) Century](http://www.pandasthumb.org/archives/2005/09/waterloo_in_dov.html) are very lucky.  This spring, _three_ books are coming out about the [_Kitzmiller v. Dover_ case](http://www.talkorigins.org/faqs/dover/kitzmiller_v_dover.html).  Out yesterday was Ed Humes's [_Monkey Girl: Evolution, Education, Religion, and the Battle for America's Soul_](http://www.amazon.com/dp/0060885483/).  On April 1, we will have [_40 Days and 40 Nights: Darwin, Intelligent Design, God, OxyContin<sup>Â®</sup>, and Other Oddities on Trial in Pennsylvania_](http://www.amazon.com/dp/0061179450/) by Matthew Chapman.  And on May 18 we will have Gordy Slack's [_The Battle Over the Meaning of Everything: Evolution, Intelligent Design, and a School Board in Dover, PA_](http://www.amazon.com/dp/0787987867/).  Yet more books/documentaries/movies are in the offing.
 

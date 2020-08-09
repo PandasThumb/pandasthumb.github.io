@@ -20,4 +20,4 @@ His colleague posted this comment on Facebook:
 
 This may be among the most recent photos I have of Skip. This is Skip in 2004 visiting and lending a hand in feeding Rusty, my Harris' hawk. (Actually, the picture comes from _the day after_ the launch of Panda's Thumb, now that I've taken a closer look at my archive of photos.)
 
-<img src="/uploads/2012/dscf7301_ws.jpg" alt="dscf7301_ws.jpg" width="560" height="373" class="mt-image-none" />
+<img src="{{ site.baseurl }}/uploads/2012/dscf7301_ws.jpg" alt="dscf7301_ws.jpg" width="560" height="373" class="mt-image-none" />

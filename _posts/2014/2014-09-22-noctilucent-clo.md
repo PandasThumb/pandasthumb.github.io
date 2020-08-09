@@ -13,7 +13,7 @@ Photograph by **Kari Tikkanen**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2014/Tikkanen.Noctilucent_Clouds.jpg" alt="Tikkanen.Noctilucent_Clouds.jpg" width="600" height="377" />
+<img src="{{ site.baseurl }}/uploads/2014/Tikkanen.Noctilucent_Clouds.jpg" alt="Tikkanen.Noctilucent_Clouds.jpg" width="600" height="377" />
 <figcaption markdown="span">
 <big>[Noctilucent clouds](http://en.wikipedia.org/wiki/Noctilucent).  Mr Tikkanen writes that these "are bluish clouds located in the
 mesosphere at altitudes of around 80 kilometers. Relative recent

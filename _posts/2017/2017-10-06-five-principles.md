@@ -13,7 +13,7 @@ Since the 1980s, every few years Gallup has conducted a poll about American atti
 We apparently were doing something wrong as of 2014, but as of this year it seems that we've finally begun doing something right. The <a href="http://www.gallup.com/poll/210956/belief-creationist-view-humans-new-low.aspx">newest poll data</a>, released May 22 of this year, indicates that American support for creationism has recently dropped to its lowest level on record. Perhaps as significantly, support for theistic evolution has seen its sharpest increase in the four decades of polling (although it hasn't quite reached its historic high in 1999), and this is the first time in the history of the poll that creationism and theistic evolution have received equal amounts of support.
 
 <figure>
-<img src="/uploads/2017/Kane_Five_Principles_1000.jpg" alt="Graph"/>
+<img src="{{ site.baseurl }}/uploads/2017/Kane_Five_Principles_1000.jpg" alt="Graph"/>
 <figcaption><strong>Americans' views on human origins, according to <a href="http://www.gallup.com/poll/210956/belief-creationist-view-humans-new-low.aspx">Gallup</a>. Graph by Emily Willoughby.</strong></figcaption>
 </figure>
 

@@ -22,7 +22,7 @@ The Neandertal mtDNA sequence was compared with mtDNA from chimpanzees and 53 mo
 
 
 <figure>
-<img src="/uploads/2009/fullmtdnacomp.jpg" alt="fullmtdnacomp.jpg" width="596" height="223" />
+<img src="{{ site.baseurl }}/uploads/2009/fullmtdnacomp.jpg" alt="fullmtdnacomp.jpg" width="596" height="223" />
 <figcaption markdown="span">
 Green: human/human; Red: human/N'tal; Blue: human/chimp. [<sup>2</sup>](#fn2)<br />
 X axis, the number of sequence differences<br />

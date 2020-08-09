@@ -11,7 +11,7 @@ basename: megascops_asio
 Photograph by **Steve Hedderton**.
 
 <figure>
-<img src="/uploads/2012/HeddertonScreechOwl_600.jpg" alt="HeddertonScreechOwl_600.jpg" width="600" height="450" />
+<img src="{{ site.baseurl }}/uploads/2012/HeddertonScreechOwl_600.jpg" alt="HeddertonScreechOwl_600.jpg" width="600" height="450" />
 <figcaption markdown="span">
 <big>[_Megascops asio_](http://en.wikipedia.org/wiki/Screech_owl) -- Eastern screech owl, Middletown, New York.</big>
 

@@ -36,19 +36,19 @@ So, what do Panda's Thumb readers think of this fund raising technique? Is Obama
 Appendix.  Here is a copy of the letter from Ken Ham.
 
 <figure>
-<img src="/uploads/2013/AiGLetter1.jpg" alt="AiGLetter1.jpg" width="600" height="781" />
+<img src="{{ site.baseurl }}/uploads/2013/AiGLetter1.jpg" alt="AiGLetter1.jpg" width="600" height="781" />
 <figcaption markdown="span">
 </figcaption>
 </figure>
 
 <figure>
-<img src="/uploads/2013/AiGLetter2.jpg" alt="AiGLetter2.jpg" width="600" height="786" />
+<img src="{{ site.baseurl }}/uploads/2013/AiGLetter2.jpg" alt="AiGLetter2.jpg" width="600" height="786" />
 <figcaption markdown="span">
 </figcaption>
 </figure>
 
 <figure>
-<img src="/uploads/2013/AiGLetter3.jpg" alt="AiGLetter3.jpg" width="600" height="783" />
+<img src="{{ site.baseurl }}/uploads/2013/AiGLetter3.jpg" alt="AiGLetter3.jpg" width="600" height="783" />
 <figcaption markdown="span">
 </figcaption>
 </figure>

@@ -9,7 +9,7 @@ post_id: 6950
 basename: ark_park_to_break
 ---
 <figure>
-<img src="/uploads/2014/ArkHammerPegCeremony_600.jpg" alt="ArkHammerPegCeremony_600.jpg" width="600" height="333" />
+<img src="{{ site.baseurl }}/uploads/2014/ArkHammerPegCeremony_600.jpg" alt="ArkHammerPegCeremony_600.jpg" width="600" height="333" />
 <figcaption markdown="span">
 
 </figcaption>

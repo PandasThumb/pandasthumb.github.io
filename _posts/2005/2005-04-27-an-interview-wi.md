@@ -41,7 +41,7 @@ Since many of you might not have known that there _was_ such a thing as "Intelli
 
 **CK:** Along with Jacques Benveniste, yes. Sometimes the scientific establishment needs a push from those who know better in order to do the right research.
 
-> <img src="/uploads/2005/interview_500.jpg" alt="" />
+> <img src="{{ site.baseurl }}/uploads/2005/interview_500.jpg" alt="" />
 > 
 > **_Prof. Steve Steve interviews "Dr." Courtney Kangaroo._**
 

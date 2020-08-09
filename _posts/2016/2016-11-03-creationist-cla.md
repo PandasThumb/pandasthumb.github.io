@@ -10,7 +10,7 @@ basename: creationist_cla
 published: false
 ---
 <figure>
-<img src="/uploads/2016/Kane_Figure_1.jpg" alt="Kane_Figure_1.jpg" width="600" height="365" />
+<img src="{{ site.baseurl }}/uploads/2016/Kane_Figure_1.jpg" alt="Kane_Figure_1.jpg" width="600" height="365" />
 <figcaption markdown="span">
 <big>"Liaoning scene" by [**Emily Willoughby**](http://emilywilloughby.com/)</big>.
 
@@ -54,7 +54,7 @@ Aside from its feathers, Answers in Genesis mentions only one specific birdlike 
 > The articulation of the femoral heads in this fossil is so dorsal and posterior--practically at the back wall of its body--that, if _Zhenyuanlong_ had walked crouching on top of its legs like a biped dinosaur, it would have been very unbalanced and fallen on its face. But if the femur were incorporated into the abdominal wall as we see in all birds, and it consequently walked from knee down (on its "drumsticks"), Zhenyuanlong would appear to be balanced.
 
 <figure>
-<img src="/uploads/2016/Kane_Figure_2.jpg" alt="Kane_Figure_2.jpg" width="600" height="475" />
+<img src="{{ site.baseurl }}/uploads/2016/Kane_Figure_2.jpg" alt="Kane_Figure_2.jpg" width="600" height="475" />
 <figcaption markdown="span">
 <big>The [_Zhenyuanlong suni_](https://commons.wikimedia.org/wiki/File:Zhenyuanlong.jpg) holotype. Image by Junchang L&uuml; and Stephen L. Brusatte.</big> Creative Commons Copyright CC by 4.0.
 

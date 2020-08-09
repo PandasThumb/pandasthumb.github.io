@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3304
 basename: laurence_moran
 ---
-[<img src="/uploads/2007/flunked-thumb-200x63.jpg" alt="flunked.jpg" width="200" height="63" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://www.cafepress.com/aus_ed.177795434)
+[<img src="{{ site.baseurl }}/uploads/2007/flunked-thumb-200x63.jpg" alt="flunked.jpg" width="200" height="63" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://www.cafepress.com/aus_ed.177795434)
 
 Laurence Moran at [Sandwalk](http://sandwalk.blogspot.com/2007/10/evolution-triumph-of-idea.html) comments on a video excerpt with Bill Dembski, recently touted by the Discovery Institute's Robert Crowther. What is fascinating that despite more than a decade of Intelligent Design 'research' this is the best ID has to offer.
 

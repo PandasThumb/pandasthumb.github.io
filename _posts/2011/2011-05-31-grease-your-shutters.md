@@ -9,7 +9,7 @@ post_id: 4974
 basename: grease_your_shutters
 ---
 <figure>
-<img src="/uploads/2011/IMG_2170_Red_600.JPG" alt="IMG_2170_Red_600.JPG" width="600" height="450" />
+<img src="{{ site.baseurl }}/uploads/2011/IMG_2170_Red_600.JPG" alt="IMG_2170_Red_600.JPG" width="600" height="450" />
 <figcaption markdown="span">
 
 </figcaption>

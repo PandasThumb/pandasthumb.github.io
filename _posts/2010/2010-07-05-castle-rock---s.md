@@ -9,7 +9,7 @@ post_id: 4675
 basename: castle_rock_-_s
 ---
 <figure>
-<img src="/uploads/2010/IMG_0393_CastleRock_600.jpg" alt="IMG_0393_CastleRock_600.jpg" width="600" height="186" />
+<img src="{{ site.baseurl }}/uploads/2010/IMG_0393_CastleRock_600.jpg" alt="IMG_0393_CastleRock_600.jpg" width="600" height="186" />
 <figcaption markdown="span"> 
 <big>Castle Rock -- part of the basalt rock cap atop [South Table Mountain](http://en.wikipedia.org/wiki/South_Table_Mountain_%28Colorado%29), Golden, Colorado, 2009.</big>
 

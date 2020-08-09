@@ -4,7 +4,7 @@ date: '2019-09-28  16:04:00 -06:00'
 author: Matt Young
 ---
 <figure>
-<img src="/uploads/2019/640px-Ichthyosaurus_sp_2.jpg" alt="Ichthyosaurus fossil"/>
+<img src="{{ site.baseurl }}/uploads/2019/640px-Ichthyosaurus_sp_2.jpg" alt="Ichthyosaurus fossil"/>
 <figcaption> No, this is not <i>the</i> fossil. You may see that fossil in the article linked below. <small>Attribution:  <a href="https://en.wikipedia.org/wiki/User:Ballista">Ballista</a> at the <a href="https://en.wikipedia.org/wiki/">English language Wikipedia</a>. Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0).</small></figcaption>
 </figure>
 

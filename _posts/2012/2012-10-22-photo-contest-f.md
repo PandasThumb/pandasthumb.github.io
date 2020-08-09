@@ -46,32 +46,32 @@ overflow:auto !important;
 } 
 </style>
 <ul id="mygalleryview" >
-<li><img src="/uploads/2012/GerryL.Rock_Formation_near_Moolack_Beach.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2012/GerryL.Rock_Formation_near_Moolack_Beach.jpg" />
 <div class="panel-overlay">
 <a href="http://en.wikipedia.org/wiki/Moolack_Beach">Moolack Beach</a>, by <b>Gerry L.</b>&mdash;Oregon coast rock formation. Ms. L. writes that she "was surprised and mesmerized by this strange formation. (This might actually be just north of Moolack Beach. There are no street signs on the sand.)"
 </div>
 </li>
-<li><img src="/uploads/2012/Jost.Tungurahua1.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2012/Jost.Tungurahua1.jpg" />
 <div class="panel-overlay">
 <a href="http://en.wikipedia.org/wiki/Tungurahua">Volcan Tungurahua</a>, Ecuador, by <b>Lou Jost</b>. Mr. Jost writes, "The pictures were taken from my kitchen window. I was inspired to enter today because this volcano was shaking my house again after several months of quiet. It is under close observation by a team of vulcanologists, and you can <a href="http://www.igepn.edu.ec/index.php/sismos/senales-sismicas.html">see the seismography in real time</a>. Click on the first item (RETU) for the signal."
 </div>
 </li>
-<li><img src="/uploads/2012/Kocher_CometHyakutake1996.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2012/Kocher_CometHyakutake1996.jpg" />
 <div class="panel-overlay">
 <a href="http://en.wikipedia.org/wiki/Hyakutake">Comet Hyakutake</a>, by <b>James Kocher</b>&mdash;Cuivre River State Park, Troy, Missouri, March 26, 1996. Ektachrome 800.  
 </div>
 </li>
-<li><img src="/uploads/2012/moulton.Agapornis%20_roseicollis.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2012/moulton.Agapornis%20_roseicollis.jpg" />
 <div class="panel-overlay">
 <a href="http://www.azfo.org/pfLoveBird/pfloMain.html">Agapornis roseicollis</a>, by <b>Pete Moulton</b>&mdash;rosy-faced lovebird, Gilbert, Arizona. Mr. Moulton writes, "These little parrots have established a thriving population in the Phoenix metro area. ...  Although [they] have been observed in the Phoenix metro area since the 1980s, the first actual census of this population wasn't taken until 2010."
 </div>
 </li>
-<li><img src="/uploads/2012/Susek.Cinnabar_Moth.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2012/Susek.Cinnabar_Moth.jpg" />
 <div class="panel-overlay">
 <a href="http://en.wikipedia.org/wiki/Cinnabar_moth">Tyria jacobaeae</a>, by <b>Marilyn Susek</b>&mdash;cinnabar moth.
 </div>
 </li>
-<li><img src="/uploads/2012/Wysocki.Eastern%20Tiger%20Swallowtail%20Female01.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2012/Wysocki.Eastern%20Tiger%20Swallowtail%20Female01.jpg" />
 <div class="panel-overlay">
 <a href="http://www.butterfliesandmoths.org/species/Papilio-glaucus">Papilio glaucus</a>, by <b>Dragoness</b>&mdash;dark morph of the eastern tiger swallowtail butterfly.
 </div>

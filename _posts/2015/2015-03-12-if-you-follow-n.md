@@ -13,7 +13,7 @@ Remember the two studies published at the end of last year that produced groundb
 In the last [post](http://pandasthumb.org/archives/2015/02/imagine-taking.html), we discussed the two major methods of improving genomic analysis. First, scientists can determine the informative subset of a genome and only obtain and analyze that set. Alternatively, they can develop algorithms to compare whole genomes to a well-established reference genome. But these methods have their drawbacks; subsets of genomes often are not reusable in other experiments and reference genomes, if unavailable, can take a lot of time and work to develop.
 
 <figure>
-<img src="/uploads/2015/dna.jpg" alt="" width="425" height="282" style="float:left;" />
+<img src="{{ site.baseurl }}/uploads/2015/dna.jpg" alt="" width="425" height="282" style="float:left;" />
 <figcaption markdown="span">
 
 Genomes can consist of several billions of nucleotides, so we need different methods of analyzing such a large dataset. 

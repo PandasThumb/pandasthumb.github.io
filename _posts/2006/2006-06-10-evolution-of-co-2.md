@@ -18,7 +18,7 @@ The Results?
 
 > From Figure 5 it can be seen that this run achieved a correct output (fitness = 352) at about 150,000 spawnings (100 to 1200 generations). By about 450,000 spawnings, the agent was composed of less than 100 instructions. Ultimately, the agent size reduced to 58 instructions before the process was terminated.
 
-[<img src="/uploads/2006/hello_world-thumb.JPG" alt="" width="320" height="256" />](http://www.pandasthumb.org/archives/hello_world.html)
+[<img src="{{ site.baseurl }}/uploads/2006/hello_world-thumb.JPG" alt="" width="320" height="256" />](http://www.pandasthumb.org/archives/hello_world.html)
 
 [Next question?](http://www.uncommondescent.com/index.php/archives/1204#more-1204)
 

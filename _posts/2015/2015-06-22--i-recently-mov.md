@@ -9,7 +9,7 @@ post_id: 7104
 basename: _i_recently_mov
 ---
 <figure>
-<img src="/uploads/2015/MacMillanFossil_600.jpg" alt="MacMillanFossil_600.jpg" width="600" height="420" />
+<img src="{{ site.baseurl }}/uploads/2015/MacMillanFossil_600.jpg" alt="MacMillanFossil_600.jpg" width="600" height="420" />
 <figcaption markdown="span">
 
 

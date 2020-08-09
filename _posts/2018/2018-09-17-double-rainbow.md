@@ -8,7 +8,7 @@ Photograph by **Dan Moore**.
 Photography Contest, **Honorable Mention**.
 
 <figure>
-<img src="/uploads/2018/Moore.Double_Rainbow.jpg" alt="Double rainbow"/>
+<img src="{{ site.baseurl }}/uploads/2018/Moore.Double_Rainbow.jpg" alt="Double rainbow"/>
 <figcaption>
 <a href="https://en.wikipedia.org/wiki/Rainbow#Variations">Double rainbow</a>.
 </figcaption>

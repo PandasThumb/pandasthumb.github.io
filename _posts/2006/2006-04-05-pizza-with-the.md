@@ -14,4 +14,4 @@ John picked the place, Zante's Pizza on Mission. Why there? "You can get pizza a
 
 Over dinner, the conversation started with how to make the point that evolutionary biology is not incompatible with faith while not encouraging a double standard on who gets to express their support of evolutionary biology. Larry is concerned that atheists are being told to keep quiet, and even being the targets of criticism, while people of faith loudly proclaim their religiosity when talking on the topic. Then, we discussed the recent breaking news -- Pianka under attack by Mims, lies being made about Brian Rehm in the Dover, PA case, and so forth. Oh, and Wesley insisted that we get a picture of the group. He's funny that way. From left to right, there's Nick Matzke, Wesley Elsberry, John Harshman, yours truly, and Larry Moran. That John Harshman, he's such a card. Next time, I'll give him rabbit ears in the picture and see how he likes it.
 
-<img src="/uploads/2006/dscf3439_ws.jpg" alt="" />
+<img src="{{ site.baseurl }}/uploads/2006/dscf3439_ws.jpg" alt="" />

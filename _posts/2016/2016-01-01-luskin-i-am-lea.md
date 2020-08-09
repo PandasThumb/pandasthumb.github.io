@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 7163
 basename: luskin_i_am_lea
 ---
-<img src="/uploads/2016/Luskin.jpg" alt="Luskin.jpg" width="602" height="360" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
+<img src="{{ site.baseurl }}/uploads/2016/Luskin.jpg" alt="Luskin.jpg" width="602" height="360" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
 
 From yesterday's [announcement on ENV](http://www.evolutionnews.org/2015/12/a_big_announcem102011.html):
 

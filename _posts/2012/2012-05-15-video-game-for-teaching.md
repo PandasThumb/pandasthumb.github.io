@@ -9,7 +9,7 @@ post_id: 6519
 basename: video_game_for_teaching
 ---
 <figure>
-<img src="/uploads/2012/BiologyVideoGame_600.jpg" alt="BiologyVideoGame_600.jpg" width="600" height="490" />
+<img src="{{ site.baseurl }}/uploads/2012/BiologyVideoGame_600.jpg" alt="BiologyVideoGame_600.jpg" width="600" height="490" />
 <figcaption markdown="span"> 
 </figcaption>
 </figure>

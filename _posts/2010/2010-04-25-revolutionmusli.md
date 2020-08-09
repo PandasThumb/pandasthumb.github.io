@@ -16,11 +16,11 @@ After the threat was issued, and after Comedy Central began to kowtow to the ter
 
 Anyway, what's the connection to evolution?  Well, I was watching a CNN discussion which featured a clip scrolling through RevolutionMuslim.com's blogposts.  Here's the cowardly "kill people who disagree" (I'm paraphrasing, obviously) post...
 
-<img src="/uploads/2010/Picture%201.png" alt="Picture 1.png" width="879" height="683" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2010/Picture%201.png" alt="Picture 1.png" width="879" height="683" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 ...and, guess what [the very next post](http://revolutionmuslim.com/index.php?option=com_content&amp;view=article&amp;id=4513:evolution-fact-or-fiction&amp;catid=69:abu-juhayman&amp;Itemid=100) is?  That's right...
 
-<img src="/uploads/2010/Picture%203.png" alt="Picture 3.png" width="984" height="689" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2010/Picture%203.png" alt="Picture 3.png" width="984" height="689" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 I'll quote the evolution post in full for historical archiving purposes (italics original)...
 

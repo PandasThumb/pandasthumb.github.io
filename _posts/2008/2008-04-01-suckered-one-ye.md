@@ -8,6 +8,6 @@ blog_id: 2
 post_id: 3713
 basename: suckered_one_ye
 ---
-<img src="/uploads/2007/piratehead.jpg" alt="" width="62" height="62" style="float:right;" />
+<img src="{{ site.baseurl }}/uploads/2007/piratehead.jpg" alt="" width="62" height="62" style="float:right;" />
 
 One year ago today, we took the lot of you on [a fun ride](http://pandasthumb.org/archives/2007/04/suckered.html).  Ah, good times.

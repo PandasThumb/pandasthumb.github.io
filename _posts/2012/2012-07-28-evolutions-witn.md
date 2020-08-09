@@ -9,7 +9,7 @@ post_id: 6560
 basename: evolutions_witn
 ---
 <figure>
-<img src="/uploads/2012/SchwabFigure%202.2_600.jpg" alt="SchwabFigure 2.2_600.jpg" width="600" height="425" />
+<img src="{{ site.baseurl }}/uploads/2012/SchwabFigure%202.2_600.jpg" alt="SchwabFigure 2.2_600.jpg" width="600" height="425" />
 <figcaption markdown="span">
 <big>_Erythropsidium_ -- a protist with a simple eye, or ocellus.</big> Figure 2.2 of [Evolution's Witness](http://www.amazon.com/Evolutions-Witness-How-Eyes-Evolved/dp/0195369742). Image © F.J.R. "Max" Taylor, Ph.D. 
 

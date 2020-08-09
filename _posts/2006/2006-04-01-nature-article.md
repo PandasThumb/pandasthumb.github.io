@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2070
 basename: nature_article
 ---
-<img src="/uploads/2006/Jansen_van_Baalen_2006_Nature_Beard_chromodynamcs_spatial_sm.png" alt="Figure 3 of Jansen &amp; van Baalen (2006): An example of a snapshot of spatial beard chromodynamics." style="float:left;" />Here's another peer-reviewed scientific article, published in _Nature_, that was probably published in the vicinity of April 1 due to its title:
+<img src="{{ site.baseurl }}/uploads/2006/Jansen_van_Baalen_2006_Nature_Beard_chromodynamcs_spatial_sm.png" alt="Figure 3 of Jansen &amp; van Baalen (2006): An example of a snapshot of spatial beard chromodynamics." style="float:left;" />Here's another peer-reviewed scientific article, published in _Nature_, that was probably published in the vicinity of April 1 due to its title:
 
 Vincent A. A. Jansen and Minus van Baalen (2006). "[Altruism through beard chromodynamics](http://dx.doi.org/10.1038/nature04387)." _Nature_ 440, 663-666 (30 March 2006).
 

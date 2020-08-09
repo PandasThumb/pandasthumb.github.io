@@ -4,7 +4,7 @@ date: '2019-10-20 14:46:00 -06:00'
 author: Matt Young
 ---
 <figure>
-<img src="/uploads/2019/Majerus_Peppered_Moth 1000.jpg" alt="Peppered moth"/>
+<img src="{{ site.baseurl }}/uploads/2019/Majerus_Peppered_Moth 1000.jpg" alt="Peppered moth"/>
 <figcaption>Peppered moth on a branch, courtesy of Michael Majerus. In case you cannot see it, look in the inset directly to the right of the larger photograph.
 </figcaption>
 </figure>

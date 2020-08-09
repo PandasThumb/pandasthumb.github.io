@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 6695
 basename: to_distinguish
 ---
-<img src="/uploads/2013/outgroup.jpg" alt="outgroup.jpg" width="610" height="390" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
+<img src="{{ site.baseurl }}/uploads/2013/outgroup.jpg" alt="outgroup.jpg" width="610" height="390" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
 
 After the unit on Creationism and Intelligent Design in my Critical Thinking/Science and Pseudoscience class at New Mexico Tech ([**Psych 189**](http://infohost.nmt.edu/~psychd/acad/psy189.php)), I asked the students to write an essay on the question
 

@@ -16,15 +16,15 @@ First, some KCFS Board members regularly meet for lunch before their meeting at 
 
 Here is picture of me looking over the menu -- but alas, again no bamboo.  (They do have good beer, though -- brewed right on the premises.)
 
-<img src="/uploads/2005/menu.jpg" alt="" />
+<img src="{{ site.baseurl }}/uploads/2005/menu.jpg" alt="" />
 
 I met many KCFS members -- here is newly elected Vice President Phil Baringer.  Phil is a physics and astronomy professor at the University of Kansas.
 
-<img src="/uploads/2005/phil.jpg" alt="" />
+<img src="{{ site.baseurl }}/uploads/2005/phil.jpg" alt="" />
 
 I was especially glad to meet Gordon Elliot.  Gordon has been a KCFS Board member for years, as well as a member of numerous internet forums.  Here's a picture of Gordon and me.
 
-<img src="/uploads/2005/gordon.jpg" alt="" />
+<img src="{{ site.baseurl }}/uploads/2005/gordon.jpg" alt="" />
 
 Jack told me that a reporter recently asked him about the history of KCFS, and whether there were similar organizations in other states.  KCFS was formed in 1999, and was the first Citizens for Science group with that name (although our friends in New Mexico had an earlier similar organization.)  Now there are about fifteen such groups.
 

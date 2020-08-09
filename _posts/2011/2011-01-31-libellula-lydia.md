@@ -13,7 +13,7 @@ Photograph by **Kurt Andreas**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2011/Andreas.Libellula_lydia.jpg" alt="Andreas.Libellula_lydia.jpg" width="585" height="455" />
+<img src="{{ site.baseurl }}/uploads/2011/Andreas.Libellula_lydia.jpg" alt="Andreas.Libellula_lydia.jpg" width="585" height="455" />
 <figcaption markdown="span">
 <big>_[Libellula lydia](http://www.cirrusimage.com/dragonfly_common_whitetail.htm)_ -- common whitetail dragonfly, New Paltz, New York, spring, 2009.</big>
 

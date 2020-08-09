@@ -95,31 +95,31 @@ The proposal begins by stating: "Students learn valuable skills when they resear
 
 (NOTE: IN THE IMAGES BELOW, ALL TEXT AND ACCOMPANYING HAND WRITTEN NOTES ARE SCANS OF PUBLIC DOCUMENTS RELEASED BY ODE IN RESPONSE TO A PUBLIC RECORDS REQUEST BY AMERICANS UNITED FOR THE SEPARATION OF CHURCH AND STATE. WRITTEN COMMENTS WERE MADE BY ODE STAFF SPECIALISTS PRIOR TO COPYING AND RELEASE BY ODE.):
 
-<img src="/uploads/2006/OH_crit1.jpg" alt="" style="" />
+<img src="{{ site.baseurl }}/uploads/2006/OH_crit1.jpg" alt="" style="" />
 
-<img src="/uploads/2006/OH_crit2.jpg" alt="" style="" />
+<img src="{{ site.baseurl }}/uploads/2006/OH_crit2.jpg" alt="" style="" />
 
 **a.** Outside reviews of the lesson chosen by ODE explicitly condemned the debate format (and most other aspects) of the lesson; most of these criticisms were kept from most Board members. Relevant excerpts of outside reviews released by ODE include the following:
 
-<img src="/uploads/2006/OH_crit3.jpg" alt="" style="" />
+<img src="{{ site.baseurl }}/uploads/2006/OH_crit3.jpg" alt="" style="" />
 
-<img src="/uploads/2006/OH_crit2a.jpg" alt="" style="" />
+<img src="{{ site.baseurl }}/uploads/2006/OH_crit2a.jpg" alt="" style="" />
 
 **b.** ODE's own educational staff experts opposed the debate nature of the earlier lesson, the one the proposed template replaces with yet another effort to incite debate. The same criticisms apply to the template, thus is seems likely the ODE staff is likely once again being silenced by some members of the Board. Consider the following documents with marginal comments released by ODE one year ago:
 
-<img src="/uploads/2006/OH_crit4.jpg" alt="" style="" />
+<img src="{{ site.baseurl }}/uploads/2006/OH_crit4.jpg" alt="" style="" />
 
 The handwritten note says: "We are not drawing lines in the sand."
 
-<img src="/uploads/2006/OH_crit5.jpg" alt="" style="" />
+<img src="{{ site.baseurl }}/uploads/2006/OH_crit5.jpg" alt="" style="" />
 
 **c.** The above considerations caused a re-writing of the old, discredited lesson plan rejected by the Board in February. Nonetheless, the author (and at least one other "ghost writer") clung to the debate format disregarding the pedagogical and scientific criticisms of ODE staff and outside reviewers. Compare an early section of the "debate format" of the lesson:
 
-<img src="/uploads/2006/OH_crit6.jpg" alt="" style="" />
+<img src="{{ site.baseurl }}/uploads/2006/OH_crit6.jpg" alt="" style="" />
 
 With the new "critical analysis" format of the lesson (with marginal comment evaluation by ODE staff educational specialists):
 
-<img src="/uploads/2006/OH_crit7.jpg" alt="" style="" />
+<img src="{{ site.baseurl }}/uploads/2006/OH_crit7.jpg" alt="" style="" />
 
 The opposition of ODE staff specialists and outside reviewers to the debate (and most other aspects of the "Critical Analysis of Evolution" Model Lesson were concealed from the Board. We have no reason to expect anything has changed with this replacement Template. Indeed, we suspect that the more things change in this effort, the more they stay the same.
 
@@ -129,7 +129,7 @@ The opposition of ODE staff specialists and outside reviewers to the debate (and
 
 **2.** ODE staff complained that the author of the lesson (Leonard), himself, did not understand the scientific usage of Critical Analysis:
 
-<img src="/uploads/2006/OH_crit8.jpg" alt="" style="" />
+<img src="{{ site.baseurl }}/uploads/2006/OH_crit8.jpg" alt="" style="" />
 
 The ODE staff comment reads: "+ CRITICAL ANALYSIS--because teachers & students must understand indicator's meaning (**Leonard does not**)" (emphasis added)
 
@@ -145,15 +145,15 @@ _\[large image cut, which is just a printout of the [dictionary.com definition o
 
 **c.** Step Three: Write a report establishing the definition of "Critical Analysis" by joining the definition of the two separate terms:
 
-<img src="/uploads/2006/OH_crit11.jpg" alt="" style="" />
+<img src="{{ site.baseurl }}/uploads/2006/OH_crit11.jpg" alt="" style="" />
 
 **4.** This effort, however, drew the ire of at least one ODE senior staff specialist who "went on record" to complain of the definition that was "glommed together" and "inadequate for the purpose of science":
 
-<img src="/uploads/2006/OH_crit12.jpg" alt="" style="" />
+<img src="{{ site.baseurl }}/uploads/2006/OH_crit12.jpg" alt="" style="" />
 
 **5.** It was clear that creationist thought leaders on the Board were focusing specifically on evolution:
 
-<img src="/uploads/2006/OH_crit13.jpg" alt="" style="" />
+<img src="{{ site.baseurl }}/uploads/2006/OH_crit13.jpg" alt="" style="" />
 
 **6.** When the nature of these and many other complaints finally came to the attention of some members of the Board in early 2006, they promptly and responsibly removed the lesson and the standards language calling for it. The current Controversy Template is just another in a very long series of attempts to introduce "Intelligent-Design" red-herrings into Ohio's Curriculum and Standards.
 

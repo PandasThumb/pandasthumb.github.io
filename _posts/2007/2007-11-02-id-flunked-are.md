@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3367
 basename: id_flunked_are
 ---
-[<img src="/uploads/2007/flunked-thumb-100x31.jpg" alt="flunked.jpg" width="100" height="31" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/flunked9.html)On EvolutionNews, Robert Crowther creates a strawman and knocks it down by confusing the term "Darwin Skeptic" with "Intelligent Design proponent". Remember that the claim is not that all Darwin skeptics are religious fundamentalists but rather that ID is irreparably tied to religious concepts and motivations and lacking in scientific content.
+[<img src="{{ site.baseurl }}/uploads/2007/flunked-thumb-100x31.jpg" alt="flunked.jpg" width="100" height="31" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/flunked9.html)On EvolutionNews, Robert Crowther creates a strawman and knocks it down by confusing the term "Darwin Skeptic" with "Intelligent Design proponent". Remember that the claim is not that all Darwin skeptics are religious fundamentalists but rather that ID is irreparably tied to religious concepts and motivations and lacking in scientific content.
 
 Remember that Berlinski is on the record as "I have never expressed support for theories (sic) of Intelligent Design...".  or the following excerpt in which he distances himself from Intelligent Design?
 

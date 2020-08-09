@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1085
 basename: of_form_over_su
 ---
-<img src="/uploads/2005/DD-PT.JPG" alt="" style="float:left;" />_**Note:** This review is based on the Italian edition of Giuseppe Sermonti?s "Dimenticare Darwin" - "To forget Darwin" - (Il Cerchio, Rimini, 2003), about to be released in English by the Discovery Institute Press as "Why is a fly not a horse?".  An updated review of the translation, if necessary, will follow. - AB_
+<img src="{{ site.baseurl }}/uploads/2005/DD-PT.JPG" alt="" style="float:left;" />_**Note:** This review is based on the Italian edition of Giuseppe Sermonti?s "Dimenticare Darwin" - "To forget Darwin" - (Il Cerchio, Rimini, 2003), about to be released in English by the Discovery Institute Press as "Why is a fly not a horse?".  An updated review of the translation, if necessary, will follow. - AB_
 
 The front cover of Giuseppe Sermonti?s _Dimenticare Darwin_ sports the picture of a woman?s head made up of a twisting ribbon, through which a cloudy sky can be seen.   It is a very fitting image for the main topic of the book, which focuses on the origin of form in living organisms, but even more for its quality: an empty shell practically devoid of meaningful content.  Sermonti?s short work is neither a science book, nor a science-inspired philosophical reflection on natural history, but a long rhetorical argument whose purpose is to sway and manipulate the reader, not to inform or educate.  
 

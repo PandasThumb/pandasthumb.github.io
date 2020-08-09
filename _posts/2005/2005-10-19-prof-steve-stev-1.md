@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1512
 basename: prof_steve_stev_1
 ---
-<img src="/uploads/2005/dread_pirate_steve_steve2.jpg" alt="dread_pirate_steve_steve2.jpg" width="300" height="400" style="float:left;" /> Do you worship Prof. Steve Steve?
+<img src="{{ site.baseurl }}/uploads/2005/dread_pirate_steve_steve2.jpg" alt="dread_pirate_steve_steve2.jpg" width="300" height="400" style="float:left;" /> Do you worship Prof. Steve Steve?
 
 How about showing it this Halloween?
 

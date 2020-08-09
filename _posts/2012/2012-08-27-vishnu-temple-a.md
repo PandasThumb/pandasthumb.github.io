@@ -13,7 +13,7 @@ Photograph by **Jon Woolf**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2012/Woolf.Vishnu_Temple_JSW.jpg" alt="Woolf.Vishnu_Temple_JSW.jpg" width="600" height="400" />
+<img src="{{ site.baseurl }}/uploads/2012/Woolf.Vishnu_Temple_JSW.jpg" alt="Woolf.Vishnu_Temple_JSW.jpg" width="600" height="400" />
 <figcaption markdown="span">
 
 <big>Vishnu Temple at the [Grand Canyon](http://en.wikipedia.org/wiki/Geology_of_the_Grand_Canyon_area).</big> This feature demonstrates the size and typical features of a Grand Canyon butte and also helps destroy the YEC explanation of the Grand Canyon. 

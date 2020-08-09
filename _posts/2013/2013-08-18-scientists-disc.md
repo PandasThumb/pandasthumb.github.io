@@ -9,7 +9,7 @@ post_id: 6803
 basename: scientists_disc
 ---
 <figure>
-<img src="/uploads/2013/Olinguito.jpg" alt="Olinguito.jpg" width="600" height="429" />
+<img src="{{ site.baseurl }}/uploads/2013/Olinguito.jpg" alt="Olinguito.jpg" width="600" height="429" />
 <figcaption markdown="span">
 Photograph by Mark Gurney, [Smithsonian Institution](http://smithsonianscience.org/2013/08/olinguito/).
 

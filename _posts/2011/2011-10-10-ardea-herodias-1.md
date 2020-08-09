@@ -9,7 +9,7 @@ post_id: 6366
 basename: ardea_herodias_1
 ---
 <figure>
-<img src="/uploads/2011/IMG_2187_HeronFlying_600.jpg" alt="IMG_2187_HeronFlying_600.jpg" width="600" height="812" />
+<img src="{{ site.baseurl }}/uploads/2011/IMG_2187_HeronFlying_600.jpg" alt="IMG_2187_HeronFlying_600.jpg" width="600" height="812" />
 <figcaption markdown="span">
 <big>_[Ardea herodias](http://en.wikipedia.org/wiki/Great_Blue_Heron)_ -- great blue heron, Walden Ponds, Boulder, Colorado.</big>
 

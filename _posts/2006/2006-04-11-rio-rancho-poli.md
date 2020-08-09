@@ -9,7 +9,7 @@ post_id: 2113
 basename: rio_rancho_poli
 ---
 Last night (April 10th), the Rio Rancho School Board held a hearing on it's controversial "[**Science Policy 401**](http://www.nmsr.org/riorncho.htm)."  
-<img src="/uploads/2006/rrboardroom.jpg" alt="rrboardroom.jpg" width="237" height="181" style="float:right;" />
+<img src="{{ site.baseurl }}/uploads/2006/rrboardroom.jpg" alt="rrboardroom.jpg" width="237" height="181" style="float:right;" />
 
 After hearing from about 30 of the more than 100 people packed into the board room, the board deleted the phrase from the original policy
 
@@ -34,7 +34,7 @@ Elaine BriseÃ±o of the Albuquerque Journal [reported on April 11th](http://www
 > "The Rio Rancho school board voted Monday to amend a controversial science policy, which opponents said was a ruse to insert intelligent design into the science classroom. The board removed a sentence from the policy that deviated from state standards, and replaced it with language taken verbatim from the standards. The sentence that was removed was seen by many opponents as a way to slip religion into the classroom whenever teachers were discussing evolution. The two board members who introduced the policy, Don Schlichte and Marty Scharfglass, also apologized to the science teachers at the high school for not consulting them before proposing and then adopting the policy last summer. "When we brought the policy forward, we should have talked to the science staff," Scharfglass said. "It was a mistake not to do that." An opponent of the original policy, Rio Rancho High School SciMatics Academy head Dan Barbour, lauded the board's action after the meeting. 'It's a decision that brings the community together,' he said. 'It's a victory for both sides. It retains the emphasis on critical thinking and removes the language with religious undertones.'
 
 
-<img src="/uploads/2006/barbour.jpg" alt="barbour.jpg" width="279" height="213" />
+<img src="{{ site.baseurl }}/uploads/2006/barbour.jpg" alt="barbour.jpg" width="279" height="213" />
 _Science teacher Dan Barbour addresses the board.  Attendees spilled over into two adjacent rooms._
 
 While this victory is a significant battle, the war is far from over.  Look for Intelligent Design pundits to continue spreading [**The Lie**](http://www.nmsr.org/thelie.htm) that New Mexico's standards are "Intelligent-design friendly."  

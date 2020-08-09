@@ -7,7 +7,7 @@ author: Dan Phelps
 <i>Another guest commentary by Dan Phelps.</i>
 
 <figure>
-<img src="/uploads/2019/Evolution_Causes_Shootings_600.jpg" alt="Poster"/>
+<img src="{{ site.baseurl }}/uploads/2019/Evolution_Causes_Shootings_600.jpg" alt="Poster"/>
 <figcaption>Cartoon from the movie, "Creation versus Evolution: Why It Matters."
 </figcaption>
 </figure>
@@ -21,7 +21,7 @@ AIG has made these scurrilous claims against science education and educators bef
 AIG’s Ark attraction is receiving a $1.825 million a year in tax incentive rebates from Kentucky, while Kentucky continues to cut funding for education. AIG’s simplistic and poorly reasoned attacks on science and education are supported by people in high levels of Kentucky’s government. For example, this is a selfie by Kentucky’s Governor Matt Bevin from a couple of years ago:
 
 <figure>
-<img src="/uploads/2019/Ham_Selfie_600.jpg" alt="Ham and governor"/>
+<img src="{{ site.baseurl }}/uploads/2019/Ham_Selfie_600.jpg" alt="Ham and governor"/>
 <figcaption>Selfie showing Ken Ham and Governor Matt Bevin of Kentucky.
 </figcaption>
 </figure>

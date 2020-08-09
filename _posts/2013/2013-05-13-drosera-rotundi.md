@@ -13,7 +13,7 @@ Photograph by **Dennis Venema**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2013/Venema_sundew.jpg" alt="Venema_sundew.jpg" width="600" height="902" />
+<img src="{{ site.baseurl }}/uploads/2013/Venema_sundew.jpg" alt="Venema_sundew.jpg" width="600" height="902" />
 <figcaption markdown="span">
 <big>[_Drosera rotundifolia_](http://en.wikipedia.org/wiki/Drosera_rotundifolia) -- round-leaved sundew, Fort Langley Bog, British Columbia.</big>
 

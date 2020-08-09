@@ -14,7 +14,7 @@ Photography contest, **Finalist**.
 
 
 <figure>
-<img src="/uploads/2015/Pavlov.Felis_catus.jpg" alt="Pavlov.Felis_catus.jpg" width="600" height="400" />
+<img src="{{ site.baseurl }}/uploads/2015/Pavlov.Felis_catus.jpg" alt="Pavlov.Felis_catus.jpg" width="600" height="400" />
 <figcaption markdown="span">
 <big>[_Felis catus_](http://www.sms.si.edu/irlspec/Felis_catus.htm) -- domesticated cat. Mr. Pavlov tells us, "The photo of the cat is my cat Rosie, short for Rosen of Einstein-Podolsky-Rosen (her sister is named Electron, not pictured). She is a daughter of a feral cat, rescued from a swamp in central Louisiana."</big>
 

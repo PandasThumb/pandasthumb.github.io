@@ -23,7 +23,7 @@ The creationist model of genetics can be compared to a deck of playing cards tha
 This approach presents enormous challenges. In their model, each of the "original kinds" was created with a "full deck" of genetic material, immediately being "cut" into new species that would end up being buried and fossilized in the Flood. But the Ark needed to preserve the "full deck" present at creation within each family; the post-flood world would then restart the process of splitting each of those decks into new species to form the diversity of life we see today.
 
 <figure>
-<img src="/uploads/2016/MacMillan_Cards_600.jpg" alt="MacMillan_Cards_600.jpg" width="600" height="401" />
+<img src="{{ site.baseurl }}/uploads/2016/MacMillan_Cards_600.jpg" alt="MacMillan_Cards_600.jpg" width="600" height="401" />
 <figcaption markdown="span">
 <big>An illustration of how creationists view genetic information and speciation events.</big>
 

@@ -10,7 +10,7 @@ basename: dembskis_consis
 ---
 **Note: Dembski has submitted a posting to ARN called [Condeding too much](http://www.arn.org/boards/ubb-get_topic-f-13-t-001529.html) which mostly misses the point. More later.. In fact my conclusion was premature, it was just a revision of the same old with a new 'topic'.  What was first title "the benefits of reinventing the wheel" is now titled "conceding too much" and much of the text has been revised.**
 
-Note: The title borrows from a posting by Mark Perakh on [Talkreason.org](http://www.talkreason.org/articles/dembski.cfm). Who says that Intelligent Design is not predictable <img src="/uploads/2005/wink.jpg" alt="" />
+Note: The title borrows from a posting by Mark Perakh on [Talkreason.org](http://www.talkreason.org/articles/dembski.cfm). Who says that Intelligent Design is not predictable <img src="{{ site.baseurl }}/uploads/2005/wink.jpg" alt="" />
 
 William Dembski's [strategy of 'using critics'](http://www.designinference.com/documents/2004.04.Backlash.htm) has been well documented in his own writings. 
 

@@ -16,13 +16,13 @@ We keep a good portion of our land wild for the benefit of various two-, four-, 
 
 Today, though, about the time of year they're expected, when the clusters of milkweed flowers are in full bloom, there was a female monarch pottering around in those milkweeds up on the north end, sipping nectar and frustrating the photographer by flitting away just about the time the digital camera decided it had a focus.  Nevertheless, she was there:
 
-<img src="/uploads/2006/Mon_3.jpg" alt="" />
+<img src="{{ site.baseurl }}/uploads/2006/Mon_3.jpg" alt="" />
 
 You can tell it's a "she" by the relatively thick wing veins and the lack of a pouch-like swelling on a vein on the hindwing.
 
 Monarchs are not the only insects that are attracted to milkweeds.  I saw fritillaries, red admirals, and a couple of kinds of skippers up there this afternoon.  Honeybees (the few that have so far escaped the Varroa mites), bumblebees, various flies and beetles, and the hummingbird clearwing (a moth that thinks it's a hummingbird) frequent milkweeds too.
 
-<img src="/uploads/2006/Moth_2.jpg" alt="" />
+<img src="{{ site.baseurl }}/uploads/2006/Moth_2.jpg" alt="" />
 
 When I was a kid living in a tiny village of 250 people in the upper midwest, farm country had ample uncultivated habitat for a variety of critters.  In the 1950s, though, Ezra Taft Benson, Eisenhower's Secretary of Agriculture, encouraged farmers to plant crops from fenceline to fenceline.  Later Earl Butz, Nixon's Secretary of Agriculture, urged farmers to "get big or get out", a reference to the rise of industrial farming with its intensive use of herbicides and pesticides.  As a consequence of federal policies that supported those exhortations, the weedy cover along fence rows was plowed and planted, sloughs and wetlands were tiled and drained, insects -- beneficial bugs and crop pests alike -- were indiscriminately poisoned, and wildlife became scarcer and scarcer.  I haven't heard or seen a meadowlark in more than a decade.  In a way I'm glad I'm getting old -- I don't want to watch many more species killed off by the short-sighted stupidity of humans.
 

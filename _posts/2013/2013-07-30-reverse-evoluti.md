@@ -14,7 +14,7 @@ One day, a green plant appeared and rapidly took over. No surprise, inasmuch as 
 
 
 <figure>
-<img src="/uploads/2013/IMG_3507SnowOnTheMountain_600.jpg" alt="IMG_3507SnowOnTheMountain_600.jpg" width="600" height="331" />
+<img src="{{ site.baseurl }}/uploads/2013/IMG_3507SnowOnTheMountain_600.jpg" alt="IMG_3507SnowOnTheMountain_600.jpg" width="600" height="331" />
 <figcaption markdown="span">
 
 </figcaption>

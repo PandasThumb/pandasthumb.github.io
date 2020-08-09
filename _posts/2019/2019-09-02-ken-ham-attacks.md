@@ -4,7 +4,7 @@ date: '2019-09-02 14:58:00 -06:00'
 author: Dan Phelps
 ---
 <figure>
-<img src="/uploads/2019/Hams_Tweet.JPG" alt="Screenshot"/>
+<img src="{{ site.baseurl }}/uploads/2019/Hams_Tweet.JPG" alt="Screenshot"/>
 <figcaption>
 <a href="https://twitter.com/aigkenham/status/1168497312747991040">A screenshot of a tweet by Ken Ham</a> 
 </figcaption>
@@ -24,18 +24,18 @@ Finally, Mr. Phelps provided these photographs, taken from Wikipedia, in which y
 <!--more-->
 
 <figure>
-<img src="/uploads/2019/Microraptor_600.jpg" alt="Microraptor"/>
+<img src="{{ site.baseurl }}/uploads/2019/Microraptor_600.jpg" alt="Microraptor"/>
 <figcaption>Microraptor</figcaption>
 </figure>
 
 
 <figure>
-<img src="/uploads/2019/Sinosauropteryx_600.jpg" alt="Sinosauropteryx"/>
+<img src="{{ site.baseurl }}/uploads/2019/Sinosauropteryx_600.jpg" alt="Sinosauropteryx"/>
 <figcaption>Sinosauropteryx</figcaption>
 </figure>
 
 
 <figure>
-<img src="/uploads/2019/Sinornithosaurus_600.jpg" alt="Sinornithosaurus"/>
+<img src="{{ site.baseurl }}/uploads/2019/Sinornithosaurus_600.jpg" alt="Sinornithosaurus"/>
 <figcaption>Sinornithosaurus</figcaption>
 </figure>

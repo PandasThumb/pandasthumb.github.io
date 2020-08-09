@@ -13,7 +13,7 @@ Big and Crinkly, by **Michael Klaas**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2012/Klaas.Big%20and%20Crinkly.jpg" alt="Klaas.Big and Crinkly.jpg" width="600" height="450" />
+<img src="{{ site.baseurl }}/uploads/2012/Klaas.Big%20and%20Crinkly.jpg" alt="Klaas.Big and Crinkly.jpg" width="600" height="450" />
 <figcaption markdown="span">
 <big>Badlands Wall, [Badlands National Park](http://en.wikipedia.org/wiki/Badlands_National_Park), South Dakota.</big>
 

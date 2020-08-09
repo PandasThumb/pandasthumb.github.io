@@ -13,7 +13,7 @@ Photograph by **Ed Neubaum**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2010/Neubaum_Lioness%20and%20cubs%20Game%20Perserve%20SA.jpg" alt="Neubaum_Lioness and cubs Game Perserve SA.jpg" width="600" height="400" />
+<img src="{{ site.baseurl }}/uploads/2010/Neubaum_Lioness%20and%20cubs%20Game%20Perserve%20SA.jpg" alt="Neubaum_Lioness and cubs Game Perserve SA.jpg" width="600" height="400" />
 <figcaption markdown="span">
 <big>_Panthera leo krugeri_ -- [white lion](http://en.wikipedia.org/wiki/Lion#White_lions), Mokwalo White Lion Breeding Project (now closed), Hoedspruit, South Africa.</big> The lion is considered [ vulnerable](http://en.wikipedia.org/wiki/Vulnerable_species), or likely to become endangered.
 

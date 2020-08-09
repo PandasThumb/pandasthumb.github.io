@@ -25,7 +25,7 @@ Concepts such as innovation, modularity, evolvability, robustness seem to be all
 The effect of neutrality on evolution can be quite important. Without neutrality, evolution is often constrained to local fitness maxima, unable to progress to higher fitness values. Neutrality allows the genotype to 'drift' during these periods. This also explains why evolution often appears to go in spurts after periods of apparant stasis. And while the phenotype may be in stasis, because of the neutral evolution, the genotype isn't.
 
 
-<img alt="adaptive.JPG" src="/uploads/2005/adaptive.JPG" width="570" height="392" border="0" />
+<img alt="adaptive.JPG" src="{{ site.baseurl }}/uploads/2005/adaptive.JPG" width="570" height="392" border="0" />
 
 
 Adapted from: [Peter Schuster](http://www.tbi.univie.ac.at/~pks/Presentation/wilna-03c.pdf)

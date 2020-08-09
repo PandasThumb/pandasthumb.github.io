@@ -13,7 +13,7 @@ Photograph by **James Wood**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2013/wood.velvetworm.jpg" alt="wood.velvetworm.jpg" width="500" height="400" />
+<img src="{{ site.baseurl }}/uploads/2013/wood.velvetworm.jpg" alt="wood.velvetworm.jpg" width="500" height="400" />
 <figcaption markdown="span">
 <big>[_Tasmanipatus barretti_](http://www.nhm.ac.uk/nature-online/species-of-the-day/biodiversity/endangered-species/tasmanipatus-barretti/index.html) -- giant velvet worm found in a rotting log in northeast Tasmania. This species is restricted to a range of 600 km<sup>2</sup> in the northeast corner of the state and  is listed as rare under Tasmanian state legislation.</big>
 

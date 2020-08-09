@@ -13,7 +13,7 @@ Photograph by **Andrew Freeman**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2011/Freeman.Libellula_quadrimaculata.jpg" alt="Freeman.Libellula_quadrimaculata.jpg" width="600" height="441" />
+<img src="{{ site.baseurl }}/uploads/2011/Freeman.Libellula_quadrimaculata.jpg" alt="Freeman.Libellula_quadrimaculata.jpg" width="600" height="441" />
 <figcaption markdown="span">
 <big>[_Libellula quadrimaculata_](http://en.wikipedia.org/wiki/Four-spotted_Chaser) -- four-spotted skimmer.</big>
 

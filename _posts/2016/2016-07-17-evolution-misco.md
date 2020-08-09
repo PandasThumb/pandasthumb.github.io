@@ -10,7 +10,7 @@ basename: evolution_misco
 ---
 One thing I've loved about living in Australia this past year is how much more generally pro-science the culture seems to be (PT blogmeister Reed Cartwright was just in Canberra to visit collaborators, but sadly he forgot Prof. Steve Steve).  We have the annual Australian [National Science Week](http://www.scienceweek.net.au/) coming up next month -- can you even imagine having a National Science Week in the United States?
 
-<img src="/uploads/2016/2016-04_Australasian_Science_cover_373.jpg" alt="2016-04_Australasian_Science_cover_373.jpg" width="240" height="339" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />Another thing I've loved is how there seem to be many independent media outlets interested in science. I got to write a short [popular article](http://phylo.wikidot.com/matzke-2015-science-paper-on-the-evolution-of-antievolution#media) on [the Evolution of Antievolutionism paper](http://phylo.wikidot.com/matzke-2015-science-paper-on-the-evolution-of-antievolution), which ended up on the cover of [Australasian Science](http://www.australasianscience.com.au/article/issue-april-2016/creationism-evolves.html), for instance, and participate in several other talks or radio shows.
+<img src="{{ site.baseurl }}/uploads/2016/2016-04_Australasian_Science_cover_373.jpg" alt="2016-04_Australasian_Science_cover_373.jpg" width="240" height="339" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />Another thing I've loved is how there seem to be many independent media outlets interested in science. I got to write a short [popular article](http://phylo.wikidot.com/matzke-2015-science-paper-on-the-evolution-of-antievolution#media) on [the Evolution of Antievolutionism paper](http://phylo.wikidot.com/matzke-2015-science-paper-on-the-evolution-of-antievolution), which ended up on the cover of [Australasian Science](http://www.australasianscience.com.au/article/issue-april-2016/creationism-evolves.html), for instance, and participate in several other talks or radio shows.
 
 The most recent radio show was:
 
@@ -18,7 +18,7 @@ The most recent radio show was:
 > 
 > Get your science on Fuzzy Logic Science Show from Canberra's Radio 2XX 98.3FM
 > 
-> <img src="/uploads/2016/Fuzzy_Logic_Science_Show.png" alt="Fuzzy_Logic_Science_Show.png" width="745" height="186" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+> <img src="{{ site.baseurl }}/uploads/2016/Fuzzy_Logic_Science_Show.png" alt="Fuzzy_Logic_Science_Show.png" width="745" height="186" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 > 
 > [**The Evolving Fuzzy**](http://fuzzylogicon2xx.podbean.com/e/the-evolving-fuzzy/)
 > 

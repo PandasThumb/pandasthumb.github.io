@@ -9,7 +9,7 @@ post_id: 6435
 basename: bushtit_--_psal
 ---
 <figure>
-<img src="/uploads/2012/IMG_2422_BushtitNest_600.jpg" alt="IMG_2422_BushtitNest_600.jpg" width="600" height="400" />
+<img src="{{ site.baseurl }}/uploads/2012/IMG_2422_BushtitNest_600.jpg" alt="IMG_2422_BushtitNest_600.jpg" width="600" height="400" />
 <figcaption markdown="span">
 <big>Nest of [bushtit](http://en.wikipedia.org/wiki/Bushtit) -- _Psaltriparus minimus_ -- Walden Ponds, Boulder, Colorado.</big> The nest to the upper right may be an oriole's nest. Identifications courtesy of [Wild Bird Center](http://www.wildbird.com/franchisee/bld), Boulder.
 

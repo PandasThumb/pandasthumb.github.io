@@ -9,7 +9,7 @@ post_id: 7115
 basename: pluto_and_spiderman
 ---
 <figure>
-<img src="/uploads/2015/Pluto_600.jpg" alt="Pluto_600.jpg" width="600" height="464" />
+<img src="{{ site.baseurl }}/uploads/2015/Pluto_600.jpg" alt="Pluto_600.jpg" width="600" height="464" />
 <figcaption markdown="span">
 
 

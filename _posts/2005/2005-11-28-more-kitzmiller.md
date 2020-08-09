@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 1640
 basename: more_kitzmiller
 ---
-<img src="/uploads/2005/wre_kvd_logo.jpg" alt="" style="float:left;" />Since I don't think I posted this before, all of the PDFs of the _Kitzmiller v. Dover_ trial [are now available on NCSE's website](http://www2.ncseweb.org/wp/?page_id=11) -- in searchable, error-free form, which was not previously the case.  See also the [TalkOrigins HTML version of the transcripts](http://www.talkorigins.org/faqs/dover/kitzmiller_v_dover.html), complete with graphics, links, and HTML anchors for each question (just click on the "Q").
+<img src="{{ site.baseurl }}/uploads/2005/wre_kvd_logo.jpg" alt="" style="float:left;" />Since I don't think I posted this before, all of the PDFs of the _Kitzmiller v. Dover_ trial [are now available on NCSE's website](http://www2.ncseweb.org/wp/?page_id=11) -- in searchable, error-free form, which was not previously the case.  See also the [TalkOrigins HTML version of the transcripts](http://www.talkorigins.org/faqs/dover/kitzmiller_v_dover.html), complete with graphics, links, and HTML anchors for each question (just click on the "Q").
 
 In case you were wondering, variations on the word "flagellum" appeared 385 times during the trial.  I was about to suggest that this count beats the total of all previous usages of the word "flagellum" in all trials, anywhere in history, but then I remembered the original meaning of "flagellum", which is the latin term for "whip."
 

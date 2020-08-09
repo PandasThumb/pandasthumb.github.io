@@ -14,4 +14,4 @@ See [Wesley's note](http://www.antievolution.org/cgi-bin/ikonboard/ikonboard.cgi
 
 Here is a teaser of the new site:
 
-<img src="/uploads/2007/neuvo-tease.jpg" alt="neuvo-tease.jpg" width="273" height="180" />
+<img src="{{ site.baseurl }}/uploads/2007/neuvo-tease.jpg" alt="neuvo-tease.jpg" width="273" height="180" />

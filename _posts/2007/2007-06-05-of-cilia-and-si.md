@@ -46,7 +46,7 @@ The _huge_ problem with Behe's invocation of intraflagellar transport in his "IR
 
 It turns out that when you look at a number of recently-sequenced genomes, a pattern emerges: organisms with cilia have IFT genes, and organisms without cilia don't.  So far this is Behe's expected pattern.  However, as with most things in biology, there is an exception to the rule.  Check out Figure 1 of Briggs et al.:
 
-<img src="/uploads/2007/Briggs_etal_2004_CB_Fig1_Plasmodium_malaria_have_no_IFT_big.jpg" alt="" style="" />
+<img src="{{ site.baseurl }}/uploads/2007/Briggs_etal_2004_CB_Fig1_Plasmodium_malaria_have_no_IFT_big.jpg" alt="" style="" />
 
 You will note that the third column in the Apicomplexans section shows that one of the parasitic apicomplexans completely lacks the IFT genes...yet makes a cilium anyway!  This reminds me of something [another critic of Behe once said](http://bostonreview.net/BR22.1/doolittle.html), in a different context:
 

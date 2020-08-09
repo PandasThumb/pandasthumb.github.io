@@ -10,7 +10,7 @@ basename: pz_myers_crashe
 ---
 As I was driving north into Albuquerque, New Mexico on I-25 on Monday, my jaw dropped when I saw this display on a 3-D Billboard which formerly described the [Rolling Rock Extra Pale "Moonvertising" Ad Campaign](http://www.moonvertising.com).
 
-<img src="/uploads/2008/pzmoon.gif" alt="" />
+<img src="{{ site.baseurl }}/uploads/2008/pzmoon.gif" alt="" />
 
 That's right - somehow, PT's own P. Z. Myers had managed to "crash" the 3-D billboard's display, projecting his own image onto the large hemisphere representing the moon for the ad.
 

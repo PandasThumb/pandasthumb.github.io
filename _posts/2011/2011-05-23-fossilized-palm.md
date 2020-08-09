@@ -9,7 +9,7 @@ post_id: 4943
 basename: fossilized_palm
 ---
 <figure>
-<img src="/uploads/2011/IMG_1092_FossilPalmFronds_600.jpg" alt="IMG_1092_FossilPalmFronds_600.jpg" width="600" height="450" />
+<img src="{{ site.baseurl }}/uploads/2011/IMG_1092_FossilPalmFronds_600.jpg" alt="IMG_1092_FossilPalmFronds_600.jpg" width="600" height="450" />
 <figcaption markdown="span">
 <big>[Fossil](http://en.wikipedia.org/wiki/Fossil)ized [palm](http://en.wikipedia.org/wiki/Arecaceae) fronds, [Triceratops Trail,](http://www.dinoridge.org/tritrail.html) Dinosaur Ridge, Golden, Colorado.</big>
 

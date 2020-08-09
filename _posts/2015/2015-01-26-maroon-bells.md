@@ -9,7 +9,7 @@ post_id: 7063
 basename: maroon_bells
 ---
 <figure>
-<img src="/uploads/2015/IMG_2160_MaroonBellsPanaroma_600.jpg" alt="IMG_2160_MaroonBellsPanaroma_600.jpg" width="600" height="151" />
+<img src="{{ site.baseurl }}/uploads/2015/IMG_2160_MaroonBellsPanaroma_600.jpg" alt="IMG_2160_MaroonBellsPanaroma_600.jpg" width="600" height="151" />
 <figcaption markdown="span">
 <big>[Maroon Bells](http://en.wikipedia.org/wiki/Maroon_Bells), Aspen, Colorado.</big>
 

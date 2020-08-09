@@ -11,7 +11,7 @@ basename: athene_cunicula
 Photograph by **David Young**.
 
 <figure>
-<img src="/uploads/2011/BurrowingOwlsBadlands_2_600.jpg" alt="BurrowingOwlsBadlands_2_600.jpg" width="601" height="405" />
+<img src="{{ site.baseurl }}/uploads/2011/BurrowingOwlsBadlands_2_600.jpg" alt="BurrowingOwlsBadlands_2_600.jpg" width="601" height="405" />
 <figcaption markdown="span">
 <big>[_Athene cunicularia_](http://sdakotabirds.com/species/burrowing_owl_info.htm) -- burrowing owl, Badlands National Park, South Dakota.</big>
 

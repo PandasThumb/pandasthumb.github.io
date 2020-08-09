@@ -11,7 +11,7 @@ basename: where_exactly_c
 The battle-cry of the IDists, "teach the controversy!" strongly presupposes that there is a controversy worthy of teaching. It is true that there is a controversy in evolutionary biology, in the political sense. But this is not what legal scholars DeWolf (et al.) mean when they use the term. They would like to convince the majority of citizens (or the minority that sit on school boards) that this is an issue of <i>fairness</i>. According to the truism there are two sides to every coin, why <i>not</i> "teach the controversy" and let the students make reasoned opinions for themselves? Why not use "the controversy" to teach about the process of science?
 
 The best reason not to teach the "origins controversy" is that it simply is nowhere to be found. Genuine scientific controversies -- the important and useful ones -- take up a huge volume of space in the scientific literature. Even the controversies sparked by wrong ideas can be tracked as they generate discussion among the members of the scientific community. If no-one is talking about it, it's not controversial.
-<a href="/uploads/2005/brauer_fig1.png"><img alt="brauer_fig1.png" src="/uploads/2005/brauer_fig1-thumb.png" width="160" height="120" border="0" /></a>
+<a href="/uploads/2005/brauer_fig1.png"><img alt="brauer_fig1.png" src="{{ site.baseurl }}/uploads/2005/brauer_fig1-thumb.png" width="160" height="120" border="0" /></a>
 
 <!--more-->
 
@@ -102,7 +102,7 @@ Publications were chosen for inclusion before any citation impact data were coll
 
 The results, presented graphically, speak for themselves:
 
-<img alt="brauer_fig1.png" src="/uploads/2005/brauer_fig1.png" width="640" height="480" border="0" />
+<img alt="brauer_fig1.png" src="{{ site.baseurl }}/uploads/2005/brauer_fig1.png" width="640" height="480" border="0" />
 
 It's clear that the "seminal" ID works have all peaked in their citation impact. They're not just not ready for prime-time, they're past their sell-by date.
 

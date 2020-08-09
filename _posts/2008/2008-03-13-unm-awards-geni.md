@@ -27,7 +27,7 @@ John Geissman,  Professor and Chair of the Department of Earth and Planetary Sci
 > 
 > She will be awarded an Honorary Doctorate of Science on Saturday, 17 May, 2008, in the University of New Mexico Arena.
 > 
-> <img src="/uploads/2008/jgeiss.jpg" alt="" />
+> <img src="{{ site.baseurl }}/uploads/2008/jgeiss.jpg" alt="" />
 > John W. Geissman
 > Professor and Chair
 > Department of Earth and Planetary Sciences

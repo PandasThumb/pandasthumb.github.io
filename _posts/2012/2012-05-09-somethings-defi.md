@@ -22,7 +22,7 @@ I actually remember this post.  It was a post Dembski put up [on May 14, 2005 at
 > 
 > Have a look at the following image and consider what your gut is telling you: (1) that nature is full of extravagant design that we should not expect on materialistic principles; (2) that nature has programmed us through evolution (e.g., sexual selection) to appreciate beauty in nature so that we can be good little robots and spread our genes. [Here's the image](http://www.uncommondescent.com/images/wildflowers.jpg). 
 > 
-> [<img src="/uploads/2012/wildflowers-thumb-600x450-1021.jpg" alt="wildflowers.jpg" width="600" height="450" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/assets_c/2012/05/wildflowers-1021.html)
+> [<img src="{{ site.baseurl }}/uploads/2012/wildflowers-thumb-600x450-1021.jpg" alt="wildflowers.jpg" width="600" height="450" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/assets_c/2012/05/wildflowers-1021.html)
 
 Dembski now says "atheistic evolutionists...dismissed it as merely 'sex' run amuck" (hmm, why the scare quotes? Nevermind.)  But that's not what I remember.  Back then, us PT posters had a discussion of whether or not the photo was a fake.  We concluded it was.  If you know anything about mountain wildflowers (which are typically small and scattered), and/or if you've been to the Grand Tetons and snapped the photo at that viewpoint, it's easy to be suspicious.
 
@@ -46,12 +46,12 @@ Anyway, the point:
 
 I will agree, though, that if anything is magical and supernatural, it's Photoshop.  This cute family [who visited the spot](https://picasaweb.google.com/lh/photo/okafgnqDYE4lZDe-eIqq6w) agrees:
 
-[<img src="/uploads/2012/Grand_Tetons_family-thumb-600x450-1024.jpg" alt="Grand_Tetons_family.jpg" width="600" height="450" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/assets_c/2012/05/Grand_Tetons_family-1024.html)
+[<img src="{{ site.baseurl }}/uploads/2012/Grand_Tetons_family-thumb-600x450-1024.jpg" alt="Grand_Tetons_family.jpg" width="600" height="450" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/assets_c/2012/05/Grand_Tetons_family-1024.html)
 
 This message was brought to you by the Crawling-completely-into-the-heads-of-ID-advocates Division, Department of Long Memory, Pedantry Lab at the [University of Ediacara](http://www.antievolution.org/features/evohumor/ediacara.html).
 
 **Update:** PT commenter AJ [found the original of the flower garden](http://pandasthumb.org/archives/2012/05/somethings-defi.html#comment-286116).  It turns out to be from a garden in Salem, Oregon, the center of the horticulture industry in the Willamette Valley.  The photo, "Iris Garden, Salem, Oregon," [is by Adam Jones, you can buy a poster of it here](http://www.allposters.com/-sp/Iris-Garden-Salem-Oregon-USA-Posters_i3741179_.htm.).
 
-[<img src="/uploads/2012/adam-jones-iris-garden-salem-oregon-usa-thumb-473x354-1027.png" alt="adam-jones-iris-garden-salem-oregon-usa.png" width="473" height="354" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](/uploads/2012/adam-jones-iris-garden-salem-oregon-usa.png)
+[<img src="{{ site.baseurl }}/uploads/2012/adam-jones-iris-garden-salem-oregon-usa-thumb-473x354-1027.png" alt="adam-jones-iris-garden-salem-oregon-usa.png" width="473" height="354" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](/uploads/2012/adam-jones-iris-garden-salem-oregon-usa.png)
 
 I haven't tried to find the specific original of the Grand Tetons, as [there are a few zillion possibilities](https://www.google.com/search?q=grand+teton+oxbow&amp;um=1&amp;ie=UTF-8&amp;hl=en&amp;tbm=isch&amp;source=og&amp;sa=N&amp;tab=wi&amp;ei=hQ2sT7GoIKSriQLgoqFw&amp;biw=1500&amp;bih=1127&amp;sei=kA2sT6LgBOOViAKftbnzCA#um=1&amp;hl=en&amp;tbm=isch&amp;sa=1&amp;q=grand+teton+from+oxbow+bend&amp;oq=grand+teton+from+oxbow+bend&amp;aq=f&amp;aqi=&amp;aql=&amp;gs_l=img.3...115965.118572.0.118644.17.7.0.9.0.0.114.496.6j1.7.0...0.0.BKTug58bknU&amp;pbx=1&amp;bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&amp;fp=624a5685b9717c3e&amp;biw=1500&amp;bih=1127).

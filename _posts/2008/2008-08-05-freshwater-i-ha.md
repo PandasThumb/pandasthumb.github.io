@@ -96,7 +96,7 @@ And finally, was the mark a 'cross' or an 'X' as Freshwater asserts? The picture
 
 > The current or former students that were interviewed that had participated in the December 2007 incident or other similar incidents in earlier years described the demonstration in the same manner as had Mr. Freshwater with one exception.  The (sic) all described the mark Mr. Freshwater put on his  arm as a “cross”.   One student stated Mr. Freshwater would mark the student with a cross unless the student requested a different type of marking.   It was the default mark.  The pictures below were provided by the parents.
 
-<img src="/uploads/2008/cross.png" alt="cross.png" width="587" height="196" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2008/cross.png" alt="cross.png" width="587" height="196" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 From a comment at [Pharyngula](http://scienceblogs.com/pharyngula/2008/08/what_to_do_when_the_other_side.php#comment-1034474) I learned that:
 

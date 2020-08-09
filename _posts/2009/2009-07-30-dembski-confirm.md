@@ -20,7 +20,7 @@ Well, what did we expect (and he's probably doing it just to stir scientists up 
 
 
 <figure>
-<img src="/uploads/2009/Fig.A.lrg.gif" alt="Fig.A.lrg.gif" width="655" height="445" />
+<img src="{{ site.baseurl }}/uploads/2009/Fig.A.lrg.gif" alt="Fig.A.lrg.gif" width="655" height="445" />
 <figcaption markdown="span">
 Plot of [global annual-mean surface air temperature](http://data.giss.nasa.gov/gistemp/graphs/) change derived from the meteorological station network \[This is an update of Figure 6(b) in Hansen et al. (2001).\] Uncertainty bars (95% confidence limits) are shown for both the annual and five-year means, account only for incomplete spatial sampling of data.
 

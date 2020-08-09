@@ -13,7 +13,7 @@ Photograph by **Gerry L.**
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2014/GerryL.Chimp_Family.jpg" alt="GerryL.Chimp_Family.jpg" width="600" height="400" />
+<img src="{{ site.baseurl }}/uploads/2014/GerryL.Chimp_Family.jpg" alt="GerryL.Chimp_Family.jpg" width="600" height="400" />
 <figcaption markdown="span">
 <big>[_Pan troglodytes_](http://pin.primate.wisc.edu/factsheets/entry/chimpanzee) -- common chimpanzee.</big>
 

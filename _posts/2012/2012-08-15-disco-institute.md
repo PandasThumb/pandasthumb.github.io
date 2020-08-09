@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 6575
 basename: disco_institute
 ---
-<img src="/uploads/2012/barton_et_tu.jpg" alt="barton_et_tu.jpg" width="321" height="186" style="float: right; margin: 0 0 20px 20px;" class="mt-image-right" />
+<img src="{{ site.baseurl }}/uploads/2012/barton_et_tu.jpg" alt="barton_et_tu.jpg" width="321" height="186" style="float: right; margin: 0 0 20px 20px;" class="mt-image-right" />
 
 Well, this is interesting! Pseudo-historian David Barton, whom we last heard from here on the Thumb declaring that [America's Founding Fathers had considered evolution, and rejected it for creationism](http://pandasthumb.org/archives/2011/06/barton-founding.html), has had his newest book examined and rejected by a group of conservative authors headed by the Discovery Institute's Jay W. Richards.
 

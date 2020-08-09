@@ -13,7 +13,7 @@ Worobey et al needed to know about both the HIV virus itself and its history to 
 <!--more-->
 
 <figure>
-<img src="/uploads/2016/HIV virus image.png" alt="HIV virus"/>
+<img src="{{ site.baseurl }}/uploads/2016/HIV virus image.png" alt="HIV virus"/>
 <figcaption>
 The HIV virus.
 </figcaption>
@@ -28,7 +28,7 @@ The CDC states that "only certain body fluids (blood, semen, pre-seminal fluid, 
 ### Patient 0 Controversy ###
 
 <figure>
-<img src="/uploads/2016/dugas picture.png" alt="Dugas Image"/>
+<img src="{{ site.baseurl }}/uploads/2016/dugas picture.png" alt="Dugas Image"/>
 <figcaption>
 Gaetan Dugas, known as Patient 0, was thought to be the first person to bring HIV to North America.
 </figcaption>
@@ -41,7 +41,7 @@ One controversy Worobey et al had to acknowledge was that a majority of research
 Another problem Worobey and his team had to tackle when they were trying to understand where HIV in North America originated was where their evidence was going to come from.  It wasn't until years after people had been dying from AIDS complications that the cause was found to be a virus, later named HIV.  Scientists had suggested that HIV was in the US as early as the 1970's but there was no concrete evidence.  How did Worobey et al solve this problem?  Armed with the knowledge that AIDS and therefore HIV was mostly found in homosexual males at the beginning of the outbreak, Worobey et al went through over 2,000 blood samples from the 1970's of men who had sex with men in New York City and San Francisco and screened for the HIV virus.  After the HIV virus was extracted, the researchers were able to infer a phylogeny for HIV.  In their phylogeny, Worobey et al included the virus from Patient 0.  
 
 <figure>
-<img src="/uploads/2016/HIV phylogeny.png" alt="HIV Phylogeny"/>
+<img src="{{ site.baseurl }}/uploads/2016/HIV phylogeny.png" alt="HIV Phylogeny"/>
 <figcaption>
 The phylogeny of HIV infered by Worobey et al.  They found that the virus came from Haiti to New York and spread throughout North America from there.
 </figcaption>

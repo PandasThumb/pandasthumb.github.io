@@ -22,4 +22,4 @@ Ironically, Dembski says he believed that few would be taken by the letter becau
 
 For the record, a compound capture of the original UD post and several of the following comments is reproduced below.
 
-<img src="/uploads/2007/Botnik%20whole%202.jpg" alt="Botnik%20whole%202.jpg" width="505" height="6263" />
+<img src="{{ site.baseurl }}/uploads/2007/Botnik%20whole%202.jpg" alt="Botnik%20whole%202.jpg" width="505" height="6263" />

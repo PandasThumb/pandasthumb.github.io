@@ -4,7 +4,7 @@ date: '2019-09-06 21:15:00 -06:00'
 author: Matt Young
 ---
 <figure>
-<img src="/uploads/2019/Faulkner_Flat_Earth.jpg" alt="Book cover"/>
+<img src="{{ site.baseurl }}/uploads/2019/Faulkner_Flat_Earth.jpg" alt="Book cover"/>
 <figcaption>Book cover.</figcaption>
 </figure>
 

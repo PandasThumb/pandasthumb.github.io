@@ -50,13 +50,13 @@ So far I have just talked about establishing a clot by forming fibrin. However, 
 
 So what happens when we knock out both plasminogen and fibrinogen? With both of these essential components gone the mice should be even sicker, right? Wrong! Plasminogen/Fibrinogen double knockouts gain weight almost at the rate normal mice do, have wound healing almost indistinguishable from normal mice and live for virtually the same time as normal animals. They do have a few pathological changes, but as Doolittle says, "for all practical purposes" these animal are normal (see the following figures, they are pretty amazing). 
 
-<img src="/uploads/2006/bugge_fig1a.jpg" alt="" />
+<img src="{{ site.baseurl }}/uploads/2006/bugge_fig1a.jpg" alt="" />
 
 Plasminogen deficient mice (Plg-/-) vs double knockout mice, note the severe growth retardation corrected by fibrinogen knockout.
 
-<img src="/uploads/2006/bugge_fig2a.jpg" alt="" />
+<img src="{{ site.baseurl }}/uploads/2006/bugge_fig2a.jpg" alt="" />
 
-<img src="/uploads/2006/bugge_fig4a.jpg" alt="" />
+<img src="{{ site.baseurl }}/uploads/2006/bugge_fig4a.jpg" alt="" />
 
 Wound healing, the plasminogen knockout mice (triangles) heal very slowly, while the Plg(-/-),Fib(-/-) mice (diamonds) not only fail to bleed to death immediately, but heal almost as fast as normal mice (squares).
 

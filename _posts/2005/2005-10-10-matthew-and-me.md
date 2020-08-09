@@ -14,6 +14,6 @@ The lone bright spot was that I was able to meet Matthew Chapman, the great-grea
 
 I ended up chatting with Chapman, my good buddy Burt Humburg, and some reporters, but they didn't allow me to say much.
 
-<img src="/uploads/2005/pss_w_matthew_chapman.jpg" alt="Matthew Chapman and Prof. Steve Steve" width="353" height="254" />
+<img src="{{ site.baseurl }}/uploads/2005/pss_w_matthew_chapman.jpg" alt="Matthew Chapman and Prof. Steve Steve" width="353" height="254" />
 
 Update: [USA Today](http://www.usatoday.com/news/education/2005-10-08-intelligent-design_x.htm) managed to identify my colleague, Dr. Patricia Princehouse, but they seem to have forgotten my name, referring to me only as "a panda puppet." What is journalism coming to these days?

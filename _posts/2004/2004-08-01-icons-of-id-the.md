@@ -19,7 +19,7 @@ by Campos et al
 > We investigate by means of a simple theoretical model the emergence of prime numbers as life cycles, as those seen for some species of cicadas. The cicadas, more precisely, the Magicicadas spend most of their lives below the ground and then emerge and die in a short period of time. The Magicicadas display an uncommon behavior: their emergence is synchronized and these periods are usually prime numbers. In the current work, we develop a spatially extended model at which preys and predators coexist and can change their evolutionary dynamics through the occurrence of mutations. We verified that prime numbers as life cycles emerge as a result of the evolution of the population. Our results seem to be a first step in order to prove that the development of such strategy is selectively advantageous, especially for those organisms that are highly vulnerable to attacks of predators.
 
 
-<img alt="prime_sm.jpg" src="/uploads/2005/prime_sm.jpg" width="395" height="265" border="0" />
+<img alt="prime_sm.jpg" src="{{ site.baseurl }}/uploads/2005/prime_sm.jpg" width="395" height="265" border="0" />
 
 
 From: 
@@ -28,7 +28,7 @@ ERIC GOLES, OLIVER SCHULZ, AND MARIO MARKUS **Prime Number Selection of Cycles i
 we find the following 
 
 
-<img alt="prime_100.jpg" src="/uploads/2005/prime_100.jpg" width="409" height="265" border="0" />
+<img alt="prime_100.jpg" src="{{ site.baseurl }}/uploads/2005/prime_100.jpg" width="409" height="265" border="0" />
 
 
 It seems that a relatively simple evolutionary model can generate prime numbers.

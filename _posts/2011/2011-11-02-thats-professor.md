@@ -13,7 +13,7 @@ Well, it had to happen sometime.  Yet another one of our own, veteran TO-poster,
 Reed starts this coming January 2012 as an Assistant Professor with the [Biodesign Institute](http://www.biodesign.asu.edu/) (does that have the D-word in it?) at [Arizona State University](http://www.asu.edu/).  
 He will be sharing his lab space with Prof. Steve Steve, of course.  
 
-<img src="/uploads/2011/reed_zombie.png" alt="reed_zombie.png" width="324" height="277" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2011/reed_zombie.png" alt="reed_zombie.png" width="324" height="277" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 Word also has it that, as all good geneticists should, Reed has successfully replicated himself (albeit quite imperfectly, only 50% genetic identity by descent).
 As you can plainly see above, these life-changing events have had quite an effect on the poor Reed.  

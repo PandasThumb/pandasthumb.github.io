@@ -25,11 +25,11 @@ This book is the lastest in a line of excellent books in which authors have addr
 Recommendation: 
 
 
-<img alt="star.jpg" src="/uploads/2005/star.jpg" width="20" height="20" border="0" />
-<img alt="star.jpg" src="/uploads/2005/star.jpg" width="20" height="20" border="0" />
-<img alt="star.jpg" src="/uploads/2005/star.jpg" width="20" height="20" border="0" />
-<img alt="star.jpg" src="/uploads/2005/star.jpg" width="20" height="20" border="0" />
-<img alt="star.jpg" src="/uploads/2005/star.jpg" width="20" height="20" border="0" />
+<img alt="star.jpg" src="{{ site.baseurl }}/uploads/2005/star.jpg" width="20" height="20" border="0" />
+<img alt="star.jpg" src="{{ site.baseurl }}/uploads/2005/star.jpg" width="20" height="20" border="0" />
+<img alt="star.jpg" src="{{ site.baseurl }}/uploads/2005/star.jpg" width="20" height="20" border="0" />
+<img alt="star.jpg" src="{{ site.baseurl }}/uploads/2005/star.jpg" width="20" height="20" border="0" />
+<img alt="star.jpg" src="{{ site.baseurl }}/uploads/2005/star.jpg" width="20" height="20" border="0" />
 
 
 In these thirteen chapters, various authors address claims of the Intelligent Design movement., each focusing on their own specialties. Passionately but decisively they take on ID and show why it fails to live up to its claims.

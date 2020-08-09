@@ -9,7 +9,7 @@ post_id: 7038
 basename: cloud_formation
 ---
 <figure>
-<img src="/uploads/2014/IMG_1154Cloud_600.JPG" alt="IMG_1154Cloud_600.JPG" width="600" height="450" />
+<img src="{{ site.baseurl }}/uploads/2014/IMG_1154Cloud_600.JPG" alt="IMG_1154Cloud_600.JPG" width="600" height="450" />
 <figcaption markdown="span">
 <big>Interesting cloud formation, Boulder, Colorado. The camera is facing south, and the wind is coming from the west, or right.</big>
 
@@ -20,7 +20,7 @@ basename: cloud_formation
 One hour later, in Golden,
 
 <figure>
-<img src="/uploads/2014/IMG_1157Cloud_600.JPG" alt="IMG_1157Cloud_600.JPG" width="600" height="267" />
+<img src="{{ site.baseurl }}/uploads/2014/IMG_1157Cloud_600.JPG" alt="IMG_1157Cloud_600.JPG" width="600" height="267" />
 <figcaption markdown="span">
 <big>The camera is facing roughly southeast. The white building in the foreground is the [Astor House Museum](http://www.goldenhistory.org/visit/ahm/)</big>.
 

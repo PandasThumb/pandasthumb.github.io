@@ -13,7 +13,7 @@ What comes to mind when you think about insects? For a lot of people, the word s
 Insect evolution is historically poorly understood, and the lack of a well-resolved and supported tree of insects has left researchers with many questions about their evolutionary relationships. For example, how are grasshoppers, crickets, cockroaches, and termites related? Which species are the closest living relatives to Holometabola, the group containing beetles, moths, butterflies, wasps, bees, and ants? What is the timeline of insect evolution? Answering these questions could help us understand how different insect traits evolved, which could reveal insights into the mechanism of evolution itself. 
 
 <figure>
-<img src="/uploads/2015/bugs-page-001.jpg" alt="" width="500" height="200" style="float:right;" />
+<img src="{{ site.baseurl }}/uploads/2015/bugs-page-001.jpg" alt="" width="500" height="200" style="float:right;" />
 <figcaption markdown="span">
 Silverfish (left) evolved to lose their wings and other appendages independently from other insects like jumping bristletails (right), and they make up their own branch on the new phylogenetic tree of insects.  
 Images: Wikipedia

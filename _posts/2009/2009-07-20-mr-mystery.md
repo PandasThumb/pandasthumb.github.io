@@ -12,7 +12,7 @@ Prof. Steve Steve had an exciting weekend; you'll never guess whom he had dinner
 
 
 <figure>
-<img src="/uploads/2009/mrmystery.jpg" alt="mrmystery.jpg" width="600" height="450" />
+<img src="{{ site.baseurl }}/uploads/2009/mrmystery.jpg" alt="mrmystery.jpg" width="600" height="450" />
 <figcaption markdown="span">
 Prof. Steve Steve and Mr. Mystery
 

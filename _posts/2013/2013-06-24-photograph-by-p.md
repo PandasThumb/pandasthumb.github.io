@@ -13,7 +13,7 @@ Photograph by **Paul Burnett**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2013/Burnett.Osprey.P1040652cropto600.jpg" alt="Burnett.Osprey.P1040652cropto600.jpg" width="607" height="433" />
+<img src="{{ site.baseurl }}/uploads/2013/Burnett.Osprey.P1040652cropto600.jpg" alt="Burnett.Osprey.P1040652cropto600.jpg" width="607" height="433" />
 <figcaption markdown="span">
 <big>[_Pandion haliaetus_](http://www.allaboutbirds.org/guide/osprey/lifehistory) -- osprey.</big>
 

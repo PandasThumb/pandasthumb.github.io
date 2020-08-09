@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3738
 basename: michael_scherme
 ---
-[<img src="/uploads/2008/banner-thumb-125x35.jpg" alt="banner.jpg" width="125" height="35" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://www.expelledexposed.com)
+[<img src="{{ site.baseurl }}/uploads/2008/banner-thumb-125x35.jpg" alt="banner.jpg" width="125" height="35" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://www.expelledexposed.com)
 In [Expelled: No Intelligence Allowed--Scientific American's Take](http://www.sciam.com/article.cfm?id=sciam-reviews-expelled), Scientific American 'flunks' the movie. 
 
 > John Rennie, Michael Shermer and Steve Mirsky all watched Ben Stein's new antievolution movie. Here's what they had to say about its design flaws.

@@ -4,7 +4,7 @@ date: '2019-06-22 12:00:00 -06:00'
 author: David MacMillan
 ---
 <figure>
-<img src="/uploads/2019/Chandra_Image_600.jpg" alt="Chandra image"/>
+<img src="{{ site.baseurl }}/uploads/2019/Chandra_Image_600.jpg" alt="Chandra image"/>
 <figcaption>Distant barred spiral galaxy plowing deep into the heart of a galaxy cluster.  <small>http://chandra.harvard.edu/photo/2014/eso137/. Photo credits (it is a composite): X-ray: NASA/CXC/UAH/M.Sun et al; Optical: NASA, ESA, & the Hubble Heritage Team (STScI/AURA).</small>
 </figcaption>
 </figure>
@@ -58,7 +58,7 @@ How many giraffes blew their brains to pieces when bending down—how many passe
 Yet when the Ark Encounter opened in 2016, they displayed a hypothesized giraffe-okapi hybrid, admitting that the two species shared a common ancestor.
 
 <figure>
-<img src="/uploads/2019/MacMillan_Giraffe-Okapi-Hybrid_600.jpg" alt="Giraffe-okapi hybrid"/>
+<img src="{{ site.baseurl }}/uploads/2019/MacMillan_Giraffe-Okapi-Hybrid_600.jpg" alt="Giraffe-okapi hybrid"/>
 <figcaption>Giraffe-okapi hybrid. <small>Courtesy of Daniel Phelps.</small>
 </figcaption>
 </figure>

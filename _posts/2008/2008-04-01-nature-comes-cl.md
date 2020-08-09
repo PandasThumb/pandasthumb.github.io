@@ -12,6 +12,6 @@ As many of you probably know, controversy has surrounded James Watson's and Fran
 
 In an unprecedented move, just days before the 55th anniversary of the paper's publication, _Nature_ magazine has decided to correct this crucial historical mistake, and finally grant co-authorship to the person who, for years, has been rumored to be the real discoverer of the structure of DNA.  _Nature_ has now re-issued a corrected version of the paper, copies of which you can find below the fold.
 
-[<img src="/uploads/2008/PZ_Watson_Crick_3-1 small-thumb-600x776.jpg" alt="PZ_Watson_Crick_3-1 small.jpg" width="600" height="776" class="mt-image-none" />](http://pandasthumb.org/archives/PZ_Watson_Crick_3-1%20small.html)
+[<img src="{{ site.baseurl }}/uploads/2008/PZ_Watson_Crick_3-1 small-thumb-600x776.jpg" alt="PZ_Watson_Crick_3-1 small.jpg" width="600" height="776" class="mt-image-none" />](http://pandasthumb.org/archives/PZ_Watson_Crick_3-1%20small.html)
 
-[<img src="/uploads/2008/PZ_Watson_Crick_3-2 small-thumb-600x776.jpg" alt="PZ_Watson_Crick_3-2 small.jpg" width="600" height="776" class="mt-image-none" />](http://pandasthumb.org/archives/PZ_Watson_Crick_3-2%20small1.html)
+[<img src="{{ site.baseurl }}/uploads/2008/PZ_Watson_Crick_3-2 small-thumb-600x776.jpg" alt="PZ_Watson_Crick_3-2 small.jpg" width="600" height="776" class="mt-image-none" />](http://pandasthumb.org/archives/PZ_Watson_Crick_3-2%20small1.html)

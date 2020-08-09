@@ -13,7 +13,7 @@ By [Gert Korthof](http://wasdarwinwrong.com).
 "It is a very, very hard problem. Getting all the pieces to work means re-engineering 3.5 billion years of evolution. It's so ambitious." These are the words of a scientist 14 years ago \[1\]. He was talking about the project of inventing new bases to include in DNA and let the new DNA function in a living cell. Now an important milestone has been reached towards that goal. Scientists have succeeded in adding a new base pair, d5SICS (call it X) and dNaM (call it Y), to the DNA of the bacterium _E. coli_ and let it replicate its DNA \[2\]. Furthermore, the growth rate of the bacterium was not significantly slowed down, and the DNA-repair system did not remove the new bases. These results give us hope for realistic answers to the so far speculative questions as to why evolution settled on only two base pairs in DNA. Could there be superior bases and superior DNA?
 
 <figure>
-<img src="/uploads/2014/Plasmid_modified_from_wiki.jpg" alt="Plasmid_modified_from_wiki.jpg" width="600" height="282" />
+<img src="{{ site.baseurl }}/uploads/2014/Plasmid_modified_from_wiki.jpg" alt="Plasmid_modified_from_wiki.jpg" width="600" height="282" />
 <figcaption markdown="span">
 [Plasmid](http://en.wikipedia.org/wiki/Plasmid), modified from Wikipedia. The yellow dot is the new base pair.
 

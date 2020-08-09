@@ -16,7 +16,7 @@ Our congratulations to Al Denelsbeck, the winner of the latest Panda's Thumb pho
 "Flightless cormorant," by Dan Moore, was second. We will award Mr. Deneslbeck a book generously supplied by NCSE.
 
 <figure>
-<img src="/uploads/2014/Denelsbeck.Acharia_stimulea.jpg" alt="Denelsbeck.Acharia_stimulea.jpg" width="600" height="400" />
+<img src="{{ site.baseurl }}/uploads/2014/Denelsbeck.Acharia_stimulea.jpg" alt="Denelsbeck.Acharia_stimulea.jpg" width="600" height="400" />
 <figcaption markdown="span">
 
 <big>[_Acharia stimulea_](http://bugguide.net/node/view/507) -- saddleback caterpillar moth larva, which has been parasitized by a species of [Braconid wasp](http://bugguide.net/node/view/170), of the superfamily Ichneumonoidea. Mr.  Denelsbeck writes, "Darwin, of course, made a comment in a letter to a colleague regarding the nasty life cycle of the Ichneumon family. The wasp has laid eggs in either the caterpillar itself, or in the eggs that would hatch the caterpillar, and the wasp's larva hatched and commenced eating the caterpillar from the inside. Seen here, the larva have come to the surface and spun their cocoons outside the caterpillar's body to pupate within, soon to emerge outside as adults. The caterpillar, already ravaged internally, will live only a few more days.</big>

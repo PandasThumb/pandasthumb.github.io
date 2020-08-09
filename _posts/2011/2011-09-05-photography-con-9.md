@@ -44,27 +44,27 @@ overflow:auto !important;
 } 
 </style>
 <ul id="mygalleryview" >
-<li><img src="/uploads/2011/lucas-great%20egret-ardea%20alba.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2011/lucas-great%20egret-ardea%20alba.jpg" />
 <div class="panel-overlay">
 <i>Ardea alba</i>, <a href="http://en.wikipedia.org/wiki/Great_Egret">great egret</a>, by Cran Lucas &mdash; Bickham-Dickson Park in Shreveport, Louisiana, a local wetlands within the city limits. The egret is lunching on a local Louisiana crawfish, or "mudbug."
 </div>
 </li>
-<li><img src="/uploads/2011/Muntz_osprey.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2011/Muntz_osprey.jpg" />
 <div class="panel-overlay">
 <i>Pandion haliaetus </i>,<a href="http://en.wikipedia.org/wiki/Osprey">Osprey</a>, by David Muntz jr &mdash; photo taken aboard sightseer boat out of Wildwood, N. J.  Photograph shows a nest on top of  a pylon near Sunset Lake, New Jersey, with a chick that is doing well so far. The mother is in view and the father is flying in. Thayer are a few active nests this year; it seems their numbers may be increasing. 
 </div>
 </li>
-<li><img src="/uploads/2011/Nedin.Ejectalayer.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2011/Nedin.Ejectalayer.jpg" />
 <div class="panel-overlay">
 <i>Acraman Impact Ejecta Layer (AIEL)</i>, by Christopher Nedin &mdash; <a href="http://en.wikipedia.org/wiki/Flinders_Ranges">Flinders Ranges</a> of South Australia. This is the ejecta from the Acraman meteorite impact which occurred in mid-Ediacaran time (approx. 580 Ma). The impact ejected a plume of debris eastward over 350 km into a shallow sea. As the debris sank to the bottom, it separated into constituent parts, with the largest and heaviest sinking fastest. Hence the layer is composed of three layers, a bottom layer containing large fragments of pink Yardea dacite (the rock at the impact site), a middle white layer of coarse sand, and an upper layer of fine, pink sand. Surrounding the AIEL is the fine grained siltsone of the Bunyeroo Formation. Subsequent tectonics have pushed the rocks containing the AIEL westward, creating the Flinders Ranges.  The black disc is a 50 mm camera lens cover for scale.
 </div>
 </li>
-<li><img src="/uploads/2011/Rice.Cathartes_aura.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2011/Rice.Cathartes_aura.jpg" />
 <div class="panel-overlay">
 <i>Cathartes aura</i>, <a href="http://en.wikipedia.org/wiki/Turkey_Vulture">turkey vultures</a>, by James Rice &mdash; the vultures search for victims of fire in a recently burned slope in Carlsbad Caverns National Park.
 </div>
 </li>
-<li><img src="/uploads/2011/Samarasinghe.Kilauea.JPG" />
+<li><img src="{{ site.baseurl }}/uploads/2011/Samarasinghe.Kilauea.JPG" />
 <div class="panel-overlay">
 Eruption of <a href="en.wikipedia.org/wiki/Kilauea">Kilauea</a>, by Buddhini Samarasinghe &mdash; the <a href="http://en.wikipedia.org/wiki/Vog">vog</a> (sulfur-dioxide air pollution from the volcano) seen in the hazy orange glow against the sun causes the sky to show dramatic colors when interacting with the trade winds and the ordinary clouds.  The lava flows into the sea, creating new land. 
 </div>

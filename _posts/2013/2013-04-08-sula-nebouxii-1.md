@@ -13,7 +13,7 @@ Photograph by **Thomas Layton**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2013/Layton_Blue%20Footed%20Booby.jpg" alt="Layton_Blue Footed Booby.jpg" width="600" height="903" />
+<img src="{{ site.baseurl }}/uploads/2013/Layton_Blue%20Footed%20Booby.jpg" alt="Layton_Blue Footed Booby.jpg" width="600" height="903" />
 <figcaption markdown="span">
 <big>[_Sula nebouxii_](http://en.wikipedia.org/wiki/Blue-footed_Booby) -- blue-footed booby, Espanola Island, Galapagos Islands.</big>
 

@@ -11,7 +11,7 @@ basename: charadrius_voci
 Photograph by **Paul Burnett**.
 
 <figure>
-<img src="/uploads/2011/BurnettKilldeer_600.jpg" alt="BurnettKilldeer_600.jpg" width="600" height="557" />
+<img src="{{ site.baseurl }}/uploads/2011/BurnettKilldeer_600.jpg" alt="BurnettKilldeer_600.jpg" width="600" height="557" />
 <figcaption markdown="span">
 <big>[_Charadrius vociferus_](http://en.wikipedia.org/wiki/Killdeer) -- killdeer, Alameda, California, 2008.</big>
 

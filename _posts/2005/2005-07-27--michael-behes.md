@@ -10,7 +10,7 @@ basename: _michael_behes
 ---
 I would like to point the interested readers of Panda's Thumb to another excellent blog called ["Nightlight"](http://litcandle.blogspot.com/)
 
-A blog site well worth exploring. <img src="/uploads/2006/thumb.jpg" alt="thumb.jpg" width="15" height="18" /><img src="/uploads/2006/thumb.jpg" alt="thumb.jpg" width="15" height="18" /><img src="/uploads/2006/thumb.jpg" alt="thumb.jpg" width="15" height="18" />
+A blog site well worth exploring. <img src="{{ site.baseurl }}/uploads/2006/thumb.jpg" alt="thumb.jpg" width="15" height="18" /><img src="{{ site.baseurl }}/uploads/2006/thumb.jpg" alt="thumb.jpg" width="15" height="18" /><img src="{{ site.baseurl }}/uploads/2006/thumb.jpg" alt="thumb.jpg" width="15" height="18" />
 
 Robert Camp explores the many aspects of Intelligent Design and addresses claims made by various ID _experts_. For instance in [ Do Biology Textbooks Pit Evolution Against Theism? - A response to Jonathan Wells](http://litcandle.blogspot.com/2005/06/do-biology-textbooks-pit-evolution.html), Robert Camp presents the findings of his in-depth investigation of a claim by Jonathan Wells and shows how Wells is mostly wrong in his claim.
 

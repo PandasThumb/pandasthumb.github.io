@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3369
 basename: fitness_effects
 ---
-[<img src="/uploads/2007/flunked-thumb-100x31.jpg" alt="flunked.jpg" width="100" height="31" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/flunked.html)
+[<img src="{{ site.baseurl }}/uploads/2007/flunked-thumb-100x31.jpg" alt="flunked.jpg" width="100" height="31" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/flunked.html)
 Ok people want more science, let's give them what they are asking for. Most of us are familiar with the claims by creationists that most or all of the mutations are found to be detrimental. And before anyone calls this a strawman, remember that it was Ray I believe who insisted on a 100% detrimental mutation rate. In addition, ID proponents seem to take seriously Sanford's concept of 'genetic entropy' which based on what I have read about his argument is a rejuvenated 2nd law of thermodynamics argument. Of course, most familiar with science would understand that most mutations are neutral and that some are detrimental and few are beneficial. However, recent research has shown that the beneficial mutation rates are much higher than originally expected.
 
 Marianne Imhof and Christian Schlotterer report in **Fitness effects of advantageous mutations in evolving Escherichia coli populations**, PNAS January 30, 2001 vol. 98 no. 3 1113–1117 \[[read online](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=14717)\]

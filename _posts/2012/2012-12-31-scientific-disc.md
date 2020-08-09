@@ -13,7 +13,7 @@ Photograph by **Roger Lambert**
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2012/Lambert.%20A%20child%20discovers%20science%20at%20Museum%20of%20Natural%20History%20600%20pixels.jpg" alt="Lambert. A child discovers science at Museum of Natural History 600 pixels.jpg" width="600" height="469" />
+<img src="{{ site.baseurl }}/uploads/2012/Lambert.%20A%20child%20discovers%20science%20at%20Museum%20of%20Natural%20History%20600%20pixels.jpg" alt="Lambert. A child discovers science at Museum of Natural History 600 pixels.jpg" width="600" height="469" />
 <figcaption markdown="span">
 <big>A child discovers science at the [American Museum of Natural History.](http://www.amnh.org/)</big>
 

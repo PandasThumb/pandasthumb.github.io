@@ -9,7 +9,7 @@ post_id: 7135
 basename: typha_latifolia
 ---
 <figure>
-<img src="/uploads/2015/SonyVsCanon-1.png" alt="SonyVsCanon-1.png" width="600" height="1228" />
+<img src="{{ site.baseurl }}/uploads/2015/SonyVsCanon-1.png" alt="SonyVsCanon-1.png" width="600" height="1228" />
 <figcaption markdown="span">
 <big>[_Typha latifolia_](http://jeffco.us/coopext/plantdetail.do?sna=Typha+latifolia&amp;image=0) -- broad-leaved cattail, South Boulder Creek trail, 2015. The upper picture was taken with a Sony &alpha;6000 camera and a 310-mm (35-mm equivalent) lens; the lower with a Canon SX280 point-and-shoot camera and a 600-mm (equivalent) lens.  Consumer Reports rated the image quality of both cameras "Very Good," but they cautioned that you cannot compare ratings across camera types.</big>
 

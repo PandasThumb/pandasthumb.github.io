@@ -17,7 +17,7 @@ Acting on a tip, I checked out [Careers at Answers in Genesis and the Creation M
 That is good, because Ark Encounter is a for-profit corporation, but farther into the job application, I encountered
 
 <figure>
-<img src="/uploads/2014/AIG_Application.JPG" alt="AIG_Application.JPG" width="600" height="856" />
+<img src="{{ site.baseurl }}/uploads/2014/AIG_Application.JPG" alt="AIG_Application.JPG" width="600" height="856" />
 <figcaption markdown="span">
 
 </figcaption>

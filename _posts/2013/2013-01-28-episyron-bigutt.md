@@ -13,7 +13,7 @@ Photograph by **Kurt Andreas**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2013/Andreas.Episyron_biguttatus.jpg" alt="Andreas.Episyron_biguttatus.jpg" width="600" height="413" />
+<img src="{{ site.baseurl }}/uploads/2013/Andreas.Episyron_biguttatus.jpg" alt="Andreas.Episyron_biguttatus.jpg" width="600" height="413" />
 <figcaption markdown="span">
 <big>[_Episyron biguttatus_](http://bugguide.net/node/view/3919) -- spider wasp predating on _Araneus diadematus_ -- garden spider, New Paltz, N.Y., August 20, 2011.</big>
 

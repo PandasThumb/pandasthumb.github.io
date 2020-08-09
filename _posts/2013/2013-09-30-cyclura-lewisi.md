@@ -13,7 +13,7 @@ Photograph by **Jeremy Lyon**.
 Photography Contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2013/Lyon.Cyclura_lewisi_01.JPG" alt="Lyon.Cyclura_lewisi_01.JPG" width="597" height="477" />
+<img src="{{ site.baseurl }}/uploads/2013/Lyon.Cyclura_lewisi_01.JPG" alt="Lyon.Cyclura_lewisi_01.JPG" width="597" height="477" />
 <figcaption markdown="span">
 
 <big>[_Cyclura lewisi_](http://www.blueiguana.ky/) -- Grand Cayman blue iguana, Queen Elizabeth Botanic Park, Grand Cayman, Cayman Islands. Mr. Lyon writes, "Warning signs posted in the parking area inform visitors to check under their cars and behind their wheels before starting their vehicle. Unfortunately, road kills have played as large a role as any other in threatening the native population.</big>

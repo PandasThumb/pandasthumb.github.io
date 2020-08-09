@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 849
 basename: project_steve_s
 ---
-<img src="/uploads/2005/stevesteve.jpg" alt="" style="float:left;" />I am here to introduce to you a new contributor to the Panda's Thumb.
+<img src="{{ site.baseurl }}/uploads/2005/stevesteve.jpg" alt="" style="float:left;" />I am here to introduce to you a new contributor to the Panda's Thumb.
 
 Prof. Steve Steve holds the B. Amboo Chair in Creatoinformatics at the University of Ediacara.  He has been nominated five times (only twice by himself) for the Nobel Prize and has received six Barnes and Noble gift certificates.  He is an J.D.-M.D.-quintuple Ph.D. (biology, chemistry, literature, mathematics, and philosophy).  He has been called the Izaak Walton of information theory and the Ulysses S. Grant of drinking contests.  His dissertation on the mating habits of the rufous-throated creationists of northern Alabama has been called "revolutionary," "a tour de force," and "nonstop, bodice-ripping action from the first page to the second page."
 

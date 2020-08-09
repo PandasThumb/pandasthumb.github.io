@@ -14,7 +14,7 @@ I've gone back and done a head to head comparison myself between a program with 
 
 So what happened?
 
-[<img src="/uploads/2009/weasel_dynamics.png" alt="weasel_dynamics.png" width="360" height="298" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](/uploads/2009/weasel_dynamics.png) 
+[<img src="{{ site.baseurl }}/uploads/2009/weasel_dynamics.png" alt="weasel_dynamics.png" width="360" height="298" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](/uploads/2009/weasel_dynamics.png) 
 
 As you can see they were much the same (mean and standard error of an average of 4 independent runs per condition shown, click to embiggen). "Locked" runs finished earlier, on average but most of the trajectory of the run was determined by mutation supply. As you can see, runs done with locked and unlocked versions fell within the error bars of each other, for runs that set the Offspring number at either 100 or 30. 
 
@@ -22,7 +22,7 @@ This is easy to understand. Early on, virtually any mutation is of big benefit, 
 
 So Dembski's claims that a list of every 10th output string shows that Dawkins is using a "locking" program are nonsense, Dawkins results are exactly what we would expect to see when sampling sparsely from a high population "freely mutating" weasel run. 
 
-[<img src="/uploads/2009/weasel_convergance_time.png" alt="weasel_convergance_time.png" width="360" height="304" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](/uploads/2009/weasel_convergance_time.png)
+[<img src="{{ site.baseurl }}/uploads/2009/weasel_convergance_time.png" alt="weasel_convergance_time.png" width="360" height="304" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](/uploads/2009/weasel_convergance_time.png)
 
 Slightly more surprisingly, the median time to convergence (when the program finally reached the target string), was not actually statistically significantly different. I suspect when enough runs are accumulated (say around 20), they will be, but the "locked" runs are only about 20% faster.
 

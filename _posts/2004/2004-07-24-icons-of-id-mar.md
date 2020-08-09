@@ -19,32 +19,32 @@ From Theobalt's [29+ Evidences for Macroevolution FAQ](http://www.talkorigins.or
 Lets first look at a phylogenetic tree
 
 
-<img alt="phylo_lg.jjpg.JPG" src="/uploads/2005/phylo_lg.jjpg.JPG" width="400" height="400" border="0" />
+<img alt="phylo_lg.jjpg.JPG" src="{{ site.baseurl }}/uploads/2005/phylo_lg.jjpg.JPG" width="400" height="400" border="0" />
 
 
 x<sub>0</sub> is the ancestral state. We can define a substitution rate matrix **M** which models the transition probabilities. For DNA for each nucleotide, there are four possible states _A, C, T, G_ but the model can also be applied to amino acids in which case there are 20 states. We can now define transition probabilities _p(A|A), p(A|C), p(A|T), p(A|G)_ etc which model the probability of a transition from _A_ to _A, C, T_ and _G_ respectively.  We can thus define a matrix **M** as follows
 
 
-<img alt="markov.jpg" src="/uploads/2005/markov.jpg" width="512" height="158" border="0" />
+<img alt="markov.jpg" src="{{ site.baseurl }}/uploads/2005/markov.jpg" width="512" height="158" border="0" />
 
 
 This model is the most generalized model and we can apply if necessary various simplifications such as a uniform distribution at the root, stationary distribution, or even special matrix forms. Historically there are some interesting matrix forms to consider: Jukes-Cantor, Kimura and Tamura
 
 
-<img alt="jukes.jpg" src="/uploads/2005/jukes.jpg" width="332" height="438" border="0" />
+<img alt="jukes.jpg" src="{{ site.baseurl }}/uploads/2005/jukes.jpg" width="332" height="438" border="0" />
 
 
 
 Jukes and Cantor have a single parameter assuming that the probability of change between any base-pair and any other base-pair  is equiprobable. All sites are assumed to change independently 
 
 
-<img alt="kimura.jpg" src="/uploads/2005/kimura.jpg" width="320" height="455" border="0" />
+<img alt="kimura.jpg" src="{{ site.baseurl }}/uploads/2005/kimura.jpg" width="320" height="455" border="0" />
 
 
 Kimura has two parameters, with different rates for transversion and transition.
 
 
-<img alt="tamura.jpg" src="/uploads/2005/tamura.jpg" width="460" height="467" border="0" />
+<img alt="tamura.jpg" src="{{ site.baseurl }}/uploads/2005/tamura.jpg" width="460" height="467" border="0" />
 
 
 Tamura has a 3 parameter model 
@@ -52,7 +52,7 @@ Tamura has a 3 parameter model
 The most general model has 12 differente parameters, one for each transition, all the way down to the Jukes-Cantor model with only one parameter. 
 
 
-<img alt="12 parameters.jpg" src="/uploads/2005/12 parameters.jpg" width="536" height="452" border="0" />
+<img alt="12 parameters.jpg" src="{{ site.baseurl }}/uploads/2005/12 parameters.jpg" width="536" height="452" border="0" />
 
 
 12 parameter model

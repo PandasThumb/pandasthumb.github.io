@@ -13,7 +13,7 @@ Photograph by **Marilyn Susek**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2014/Susek.Dragon_Fly.jpg" alt="Susek.Dragon_Fly.jpg" width="600" height="716" />
+<img src="{{ site.baseurl }}/uploads/2014/Susek.Dragon_Fly.jpg" alt="Susek.Dragon_Fly.jpg" width="600" height="716" />
 <figcaption markdown="span">
 <big>[_Aeshna cyanea_](http://en.wikipedia.org/wiki/Southern_Hawker) -- southern hawker.</big>
 

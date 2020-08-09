@@ -11,7 +11,7 @@ basename: imagine_taking
 Imagine that you want to analyze the 3.2 billion bases of the human genome. If you recruited every undergraduate student at ASU, all 70,000 of us, to type those data into a spreadsheet, it would still take about 13 hours. So you develop a computer program that analyzes the data for you. But then you find out that your huge data set amplified small errors in your algorithm and gave you the wrong answer. This is the issue facing evolutionary biologists using genomic data, a practice that is becoming standard to construct reliable phylogenies (see our previous posts about the new [bird](http://pandasthumb.org/archives/2015/01/phylogenomics-r.html) and [insect](http://pandasthumb.org/archives/2015/01/delving-into-th.html) phylogenies). [Our lab](http://cartwrig.ht), working under Dr. Reed Cartwright, has developed a novel method to quickly analyze genomic data and produce an accurate phylogeny that improves upon previous techniques.
 
 <figure>
-<img src="/uploads/2015/Bai_yun_giant_panda.jpg" alt="" width="250" height="375" style="float:right;" />
+<img src="{{ site.baseurl }}/uploads/2015/Bai_yun_giant_panda.jpg" alt="" width="250" height="375" style="float:right;" />
 <figcaption markdown="span">
 
 The giant panda genome was assembled using _de novo_ techniques in 2010, but better methods of phylogeny construction are in development.

@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 4620
 basename: albuquerque_hos
 ---
-<img src="/uploads/2010/foxellis.jpg" alt="foxellis.jpg" width="182" height="277" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
+<img src="{{ site.baseurl }}/uploads/2010/foxellis.jpg" alt="foxellis.jpg" width="182" height="277" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
 
 If you find yourself in the Albuquerque NM area this Sunday, consider heading down to the [New Mexico Museum of Natural History and Science](http://www.nmnaturalhistory.org/calendar.html#0516) to meet Charles Darwin.
 

@@ -16,7 +16,7 @@ Origin of life researcher and Nobel Prize winner Jack Szostak has made an import
 This is the first time that nonenzymatic RNA copying succeeded inside a fatty acid vesicle. The big obstacle has always been that magnesium ion Mg2+ was necessary for RNA copying, but two negative side-effects of high Mg2+ levels frustrated success. Firstly, high Mg2+ levels break down the simple, fatty acid membranes that probably surrounded the first living cells. Secondly, Mg2+ catalyses degradation of single-stranded RNA. After a long trial-and-error process, Szostak _et al._ discovered that citrate removes these two side-effects. Citrate efficiently protects fatty acid membranes from the disruptive effects of high Mg2+ ion concentrations, while both allowing RNA copying and protecting single-stranded RNA from Mg2+-catalyzed degradation.
 
 <figure>
-<img src="/uploads/2013/KorthofFig2.jpg" alt="KorthofFig2.jpg" width="600" height="600" />
+<img src="{{ site.baseurl }}/uploads/2013/KorthofFig2.jpg" alt="KorthofFig2.jpg" width="600" height="600" />
 <figcaption markdown="span">
 <big>An illustration of a protocell, composed of a fatty acid membrane encapsulating RNA ribozymes. &copy; [Exploring Life's Origins](http://exploringorigins.org/fattyacids.html).</big>
 

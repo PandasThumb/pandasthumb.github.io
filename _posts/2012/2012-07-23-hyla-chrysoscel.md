@@ -13,7 +13,7 @@ Photograph by **Nicholas Plummer**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2012/plummer.hyla_chrysoscelis1.jpg" alt="plummer.hyla_chrysoscelis1.jpg" width="600" height="434" />
+<img src="{{ site.baseurl }}/uploads/2012/plummer.hyla_chrysoscelis1.jpg" alt="plummer.hyla_chrysoscelis1.jpg" width="600" height="434" />
 <figcaption markdown="span">
 <big>[_Hyla chrysoscelis_](http://en.wikipedia.org/wiki/Hyla_chrysoscelis)  -- Cope's gray tree frog.</big>
 

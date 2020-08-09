@@ -13,7 +13,7 @@ Photograph by **Lou Shackleton**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2013/Shackleton.Rabid_Wolf_Spider_02.JPG" alt="Shackleton.Rabid_Wolf_Spider_02.JPG" width="600" height="400" />
+<img src="{{ site.baseurl }}/uploads/2013/Shackleton.Rabid_Wolf_Spider_02.JPG" alt="Shackleton.Rabid_Wolf_Spider_02.JPG" width="600" height="400" />
 <figcaption markdown="span">
 <big>[_Rabidosa rabida_](http://animaldiversity.ummz.umich.edu/accounts/Rabidosa_rabida/) -- rabid wolf spider.</big>
 

@@ -9,7 +9,7 @@ post_id: 4841
 basename: jars_to_stars
 ---
 <figure>
-<img src="/uploads/2011/Tempel_1_600.jpg" alt="Tempel_1_600.jpg" width="600" height="600" />
+<img src="{{ site.baseurl }}/uploads/2011/Tempel_1_600.jpg" alt="Tempel_1_600.jpg" width="600" height="600" />
 <figcaption markdown="span">
 NASA photo.
 </figcaption>

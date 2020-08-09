@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3344
 basename: science_v_intel_11
 ---
-[<img src="/uploads/2007/flunked-thumb-100x31.jpg" alt="flunked.jpg" width="100" height="31" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/flunked7.html)On UcD Dembski addresses [the news](http://www.nytimes.com/2007/10/25/science/25jacobson.html?_r=1&amp;oref=slogin) that the author of a 52 year old paper has retracted the paper. Dembski makes some claims which are either erroneous or full of irony. So let's start.
+[<img src="{{ site.baseurl }}/uploads/2007/flunked-thumb-100x31.jpg" alt="flunked.jpg" width="100" height="31" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/flunked7.html)On UcD Dembski addresses [the news](http://www.nytimes.com/2007/10/25/science/25jacobson.html?_r=1&amp;oref=slogin) that the author of a 52 year old paper has retracted the paper. Dembski makes some claims which are either erroneous or full of irony. So let's start.
 
 Dembski wrote:
 

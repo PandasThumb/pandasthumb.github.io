@@ -4,7 +4,7 @@ date: '2019-11-02 13:30:00 -06:00'
 author: Matt Young
 ---
 <figure>
-<img src="/uploads/2019/Tyrannosaurus_Rex.jpg" alt="Tyrannosaurus rex"/>
+<img src="{{ site.baseurl }}/uploads/2019/Tyrannosaurus_Rex.jpg" alt="Tyrannosaurus rex"/>
 <figcaption><i>Tyrannosaurus rex</i>, Palais de la Découverte, Paris. <small><a href="https://commons.wikimedia.org/wiki/File:Palais_de_la_Decouverte_Tyrannosaurus_rex_p1050042.jpg">Photograph</a> by David Monniaux, Creative Commons Copyright, Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0).</small></figcaption>
 </figure>
 

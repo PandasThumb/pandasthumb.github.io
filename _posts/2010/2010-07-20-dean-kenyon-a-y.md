@@ -9,7 +9,7 @@ blog_id: 2
 post_id: 4698
 basename: dean_kenyon_a_y
 ---
-[<img src="/uploads/2010/1980-12-17_Kenyon_SF_Examiner_SFSU_creo-thumb-200x255-516.jpg" alt="1980-12-17_Kenyon_SF_Examiner_SFSU_creo.jpg" width="200" height="255" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/assets_c/2010/07/1980-12-17_Kenyon_SF_Examiner_SFSU_creo-516.html)Over on the [Thinking Christian blog](http://www.thinkingchristian.net/2010/07/an-open-letter-to-the-apologetics-community/#comments) I have been challenged on my assertion in several publications (e.g. [in this _PNAS_ article](http://www.pnas.org/content/104/suppl.1/8669.full)) that "intelligent design" leader Dean Kenyon -- a coauthor of _Of Pandas and People_ and a Discovery Institute fellow -- is actually a young-earth creationist and "creation scientist."  Usually I get these things right, but [I was recently wrong about Cornelius Hunter](http://darwins-god.blogspot.com/2010/05/let-worship-begin.html?showComment=1274285847404#c4089651028357073659), and only some of the evidence is on [the Dean Kenyon entry on Wikipedia](http://en.wikipedia.org/wiki/Dean_H._Kenyon), so it is worth it to review the evidence.
+[<img src="{{ site.baseurl }}/uploads/2010/1980-12-17_Kenyon_SF_Examiner_SFSU_creo-thumb-200x255-516.jpg" alt="1980-12-17_Kenyon_SF_Examiner_SFSU_creo.jpg" width="200" height="255" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/assets_c/2010/07/1980-12-17_Kenyon_SF_Examiner_SFSU_creo-516.html)Over on the [Thinking Christian blog](http://www.thinkingchristian.net/2010/07/an-open-letter-to-the-apologetics-community/#comments) I have been challenged on my assertion in several publications (e.g. [in this _PNAS_ article](http://www.pnas.org/content/104/suppl.1/8669.full)) that "intelligent design" leader Dean Kenyon -- a coauthor of _Of Pandas and People_ and a Discovery Institute fellow -- is actually a young-earth creationist and "creation scientist."  Usually I get these things right, but [I was recently wrong about Cornelius Hunter](http://darwins-god.blogspot.com/2010/05/let-worship-begin.html?showComment=1274285847404#c4089651028357073659), and only some of the evidence is on [the Dean Kenyon entry on Wikipedia](http://en.wikipedia.org/wiki/Dean_H._Kenyon), so it is worth it to review the evidence.
 
 There are many lines of evidence for the proposition that Kenyon is/was a young-earther.  It is true that he wasn't always like this -- in the late 1960s he was a young origin-of-life researcher, and he coauthored the book _Biochemical Predestination_ which accepted the standard view on evolution and the age of the Earth.  But in the late 1970s he changed his mind:
 
@@ -149,7 +149,7 @@ _\[transcribed by Nick Matzke, 10/29/06\]_
 > \[Photo of Dean Kenyon holding up the book _Scientific Creationism_ by Henry Morris (looks like the General Edition).\]
 
 
-<img src="/uploads/2010/1980-12-17_Kenyon_SF_Examiner_SFSU_creo.jpg" alt="1980-12-17_Kenyon_SF_Examiner_SFSU_creo.jpg" width="456" height="582" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2010/1980-12-17_Kenyon_SF_Examiner_SFSU_creo.jpg" alt="1980-12-17_Kenyon_SF_Examiner_SFSU_creo.jpg" width="456" height="582" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 
 > \[/photo\]

@@ -13,7 +13,7 @@ Photograph by **Jon Woolf**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2013/Woolf.Great_Unconformity_JSW.jpg" alt="Woolf.Great_Unconformity_JSW.jpg" width="600" height="401" />
+<img src="{{ site.baseurl }}/uploads/2013/Woolf.Great_Unconformity_JSW.jpg" alt="Woolf.Great_Unconformity_JSW.jpg" width="600" height="401" />
 <figcaption markdown="span">
 
 <big>[The Great Unconformity](http://www.lpi.usra.edu/science/treiman/greatdesert/workshop/greatunconf/) in the Grand Canyon.  Mr. Wolf writes that the unconformity "demonstrates geologic time and a number of basic geologic rules that help to destroy YEC."</big> 

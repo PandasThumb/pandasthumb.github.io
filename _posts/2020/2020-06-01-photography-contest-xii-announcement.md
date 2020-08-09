@@ -4,7 +4,7 @@ date: '2020-06-01 12:00:00 -06:00'
 author: Matt Young
 ---
 <figure>
-<img src="/uploads/2020/IMG_3500_Zeiss_Camera_600.jpg" alt="Zeiss Ikon 35-mm folding camera"/>
+<img src="{{ site.baseurl }}/uploads/2020/IMG_3500_Zeiss_Camera_600.jpg" alt="Zeiss Ikon 35-mm folding camera"/>
 <figcaption>Zeiss Ikon 35-mm folding camera, courtesy of Angie Spiegel.
 </figcaption>
 </figure>

@@ -142,7 +142,7 @@ with Chloroquine Resistance in Plasmodium  falciparum Isolates from India", Pooj
 
 > Eight of our isolates also contained intermediate mutatedgene forms (7 isolates with the CMNTA genotype and 1 isolate with the SMNTA genotype), wherein a mutation was found at codon 76, whereas codon 220 had the wt allele (ﬁgure 1A). A study has shown that isolates with this intermediate form (the CMNTA genotype) show slightly higher IC50 values for CQ than do isolates with the wt allele \[16\]. Therefore, it has been proposed that acquisition of CQR is a stepwise process, and that association with additional mutations would give rise to a higher level of CQR.
 
-<img src="/uploads/2008/Picture%204.png" alt="Picture 4.png" width="748" height="347" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2008/Picture%204.png" alt="Picture 4.png" width="748" height="347" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 How long will it take for Behe to claim that what he said in his book, he did not really mean to say and that critics are once again misreading his book?
 
 *********

@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3314
 basename: do_you_all_know
 ---
-<img src="/uploads/2007/miller-pss.jpg" alt="" width="300" height="300" style="float:right;" />
+<img src="{{ site.baseurl }}/uploads/2007/miller-pss.jpg" alt="" width="300" height="300" style="float:right;" />
 
 Last January Prof. Steve Steve, Bora, and I met [Congressman Brad Miller (D-NC)](http://www.house.gov/bradmiller/) at the [NC Science Blogging Conference](http://scienceblogging.com/). We took the opportunity to explain to him [NCSE's Project Steve](http://www.natcenscied.org/article.asp?category=18) and our [Project Steve Steve](http://prof.stevesteve.org/).
 

@@ -18,7 +18,7 @@ Creationists often conceptualize evolution as something which is purely vertical
 Evolutionary adaptation, however, does not happen in a straight line from parent to child. Rather, adaptation takes place _throughout a population_ as different genetic sequences spread outward from parents to all their offspring and are recombined and reshuffled in many different individuals each successive generation. Evolution is wibbly-wobbly, timey-wimey stuff. It is the combination of changing genetic material across an entire population that makes major evolutionary adaptation possible; without this constant mixing and recombination from the entire population, evolution would grind almost to a halt. Evolution is a phenomenon that functions not at the level of the individual, nor at the level of individual lineages, but across the entire population within the species (Figure 1).
 
 <figure>
-<img src="/uploads/2014/sardines-2.jpg" alt="sardines-2.jpg" width="600" height="267" />
+<img src="{{ site.baseurl }}/uploads/2014/sardines-2.jpg" alt="sardines-2.jpg" width="600" height="267" />
 <figcaption markdown="span">
 <big>Figure 1. This hypothetical example depicts evolutionary change as an emergent property of the entire population. Both the "ABC" combinations (in shades of blue) and the "XYZ" combinations (in shades of red) offer a survival advantage and are passed on, while combinations of the two (shown in shades of purple) are detrimental and are removed from the population. No specific mutation order is required; as long as the selection pressure remains steady, the mutations accumulate together (essentially "finding" each other) and two separate genotypes emerge.</big>
 
@@ -28,7 +28,7 @@ Evolutionary adaptation, however, does not happen in a straight line from parent
 Unfortunately, depictions of evolution often show individual specimens arranged linearly in ascending order: apes to humans, theropods to birds, and the like (Figure 2). Such representations make it easy to miss the population aspect. Even an accurately depicted branching tree of evolution can still be misunderstood to represent individuals rather than whole populations.
 
 <figure>
-<img src="/uploads/2014/SardinesLinear.jpg" alt="SardinesLinear.jpg" width="600" height="255" />
+<img src="{{ site.baseurl }}/uploads/2014/SardinesLinear.jpg" alt="SardinesLinear.jpg" width="600" height="255" />
 <figcaption markdown="span">
 <big>Figure 2.  In this common but mistaken depiction of evolution typically adopted by creationists, individual changes occur in simple sequence within a single lineage. With this view, it is easy to wrongly assume that individual mutations must occur one after another in a specific order, something that seems intuitively improbable.</big>
 

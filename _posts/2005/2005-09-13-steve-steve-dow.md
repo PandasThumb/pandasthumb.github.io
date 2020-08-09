@@ -14,7 +14,7 @@ G'Day mate! Struth! Crack open a tinnie and chuck another bamboo shoot on the ba
 
 As you can see, I've mastered the local dialect, or 'Strine', pretty quickly thanks to my strong linguistics background. Parted company with that Wilkins fellow in Canberra. He can philosophise at the drop of a hat, but can't read a bus time table to save his life! After 3/4 of an hour actualizing the concept of the non-bus, I left him contemplating the concept of the taxi. I hear he made it hope, but goodness knows how. My primary reason for being in Canberra was to visit with a couple of t.oers from the "good old days" of talk.origins (when t.oers were really geeks, Ted was really Ted, and communication was via pigeon), Chris Nedin and Jim Foley. I left the Wilkins at the taxi rank and went to visit with Chris Nedin (pictured below), where a welcome, and generous, glass of fine Irish whiskey was waiting to fight off the winter chill (panda fur only goes so far you know).
 
-<img src="/uploads/2006/steve_nedin.jpg" alt="steve_nedin.jpg" />
+<img src="{{ site.baseurl }}/uploads/2006/steve_nedin.jpg" alt="steve_nedin.jpg" />
 
 Chris used to be a palaeontologist, but I won't hold it against him (he couldn't have been very good because he can't even spell it correctly). Of course I gave my opinions regarding the standing of palaeontology within the more rarefied biological sciences. I'm sure my point was taken, although the Irish whiskey refills became rarer after that.
 

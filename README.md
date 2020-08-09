@@ -5,6 +5,10 @@ This repository holds the source code for the Panda's Thumb website.
 
 Blog Posts are found in the `\_posts/` directory.  Instructions on how to write them can be found at https://jekyllrb.com/docs/posts/.  Post are written using kramdown (markdown) syntax as described at http://kramdown.gettalong.org/syntax.html.
 
+*NOTE (August 2020):  Until further notice, do not upload the post file yourself.  Instead
+email it to Joe Felsenstein, whose email address can be found by searching 
+for his lab website page and looking in his Curriculum Vitae (CV) there*
+
 ### Example Blog Post
 Create a file called `_posts/2016-11-01-hello-world.md` with the following content:
 
@@ -42,6 +46,12 @@ If you want your post to run in the future, then put its date into the future. T
 ### Uploading Images
 
 Upload all images and other content into the `/uploads/[YEAR]/` directory, in markdown you can insert images into your post like so:
+
+
+*NOTE (August 2020):  Until further notice, do not upload the image file yourself.  Instead
+email it to Joe Felsenstein, whose email address can be found by searching 
+for his lab website page and looking in his Curriculum Vitae (CV) there*
+
 
 ```markdown
 ![Skadoosh](/uploads/2016/slide-kung-fu-panda-3.jpg)

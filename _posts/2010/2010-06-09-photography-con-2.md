@@ -9,7 +9,7 @@ post_id: 4647
 basename: photography_con_2
 ---
 <figure>
-<img src="/uploads/2010/IMG_4251_Cameras_600.jpg" alt="IMG_4251_Cameras_600.jpg" width="600" height="402" />
+<img src="{{ site.baseurl }}/uploads/2010/IMG_4251_Cameras_600.jpg" alt="IMG_4251_Cameras_600.jpg" width="600" height="402" />
 <figcaption markdown="span">
 <big>[Kodak Bantam 828](http://www.camerapedia.org/wiki/Kodak_Bantam), [Kodak Signet 35](http://www.camerapedia.org/wiki/Kodak_Signet_35) (l. to r.).  The [Kodachrome 64](http://en.wikipedia.org/wiki/Kodachrome) is a mild anachronism.</big>
 

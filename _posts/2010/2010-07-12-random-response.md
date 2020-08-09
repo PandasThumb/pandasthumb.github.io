@@ -40,9 +40,9 @@ Luskin has, very recently, finally at long last realized that a more serious res
 
 An explanation of the origin of _sdic_ that, I'm sure, is "not detailed enough" for IDists:
 
-[<img src="/uploads/2010/Ponce_Hartl_2006_sdic_evolution_pt1-thumb-658x723-505.png" alt="Ponce_Hartl_2006_sdic_evolution_pt1.png" width="658" height="723" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/archives/assets_c/2010/07/Ponce_Hartl_2006_sdic_evolution_pt1-505.html)
+[<img src="{{ site.baseurl }}/uploads/2010/Ponce_Hartl_2006_sdic_evolution_pt1-thumb-658x723-505.png" alt="Ponce_Hartl_2006_sdic_evolution_pt1.png" width="658" height="723" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/archives/assets_c/2010/07/Ponce_Hartl_2006_sdic_evolution_pt1-505.html)
 
-[<img src="/uploads/2010/Ponce_Hartl_2006_sdic_evolution_pt2-thumb-655x344-508.png" alt="Ponce_Hartl_2006_sdic_evolution_pt2.png" width="655" height="344" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/archives/assets_c/2010/07/Ponce_Hartl_2006_sdic_evolution_pt2-508.html)
+[<img src="{{ site.baseurl }}/uploads/2010/Ponce_Hartl_2006_sdic_evolution_pt2-thumb-655x344-508.png" alt="Ponce_Hartl_2006_sdic_evolution_pt2.png" width="655" height="344" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/archives/assets_c/2010/07/Ponce_Hartl_2006_sdic_evolution_pt2-508.html)
 
 > Fig. 6. Model for the evolution of the Sdic gene cluster. (1) In the ancestral situation, Cdic and AnnX genes were adjacent. (2) A first duplication event duplicated both Cdic and AnnX while maintaining their original orientation. (3) Several deletions occurred in the duplicated region and the new chimeric gene Sdic was formed; around this time a retrotransposon was inserted upstream of the Sdic gene. (4) A second duplication event duplicated both the new gene and the intergenic region between Sdic and Cdic; the two copies of Sdic diverge. (5) A third duplication event duplicated the whole cluster in which the two existing Sdic genes and the intergenic region between them and Cdic was duplicated. (6) The four Sdic genes diverged by point mutations and deletions becoming distinguishable Sdic genes. 
 > 
@@ -50,7 +50,7 @@ An explanation of the origin of _sdic_ that, I'm sure, is "not detailed enough" 
 
 Evidence of selective sweep:
 
-<img src="/uploads/2010/sdic_selective_sweep.png" alt="sdic_selective_sweep.png" width="231" height="408" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2010/sdic_selective_sweep.png" alt="sdic_selective_sweep.png" width="231" height="408" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 From: D Nurminsky, DD Aguiar, CD Bustamante, DL Hartl (2001). "[Chromosomal effects of rapid gene evolution in Drosophila melanogaster](http://scholar.google.com/scholar?q=Chromosomal+Effects+of+Rapid+Gene+Evolution+in+Drosophila+melanogaster&amp;hl=en&amp;btnG=Search&amp;as_sdt=2001)." _Science_.
 
@@ -66,11 +66,11 @@ From: D Nurminsky, DD Aguiar, CD Bustamante, DL Hartl (2001). "[Chromosomal effe
 
 Here I have to plead a little bit guilty.  Somewhere between my final draft and the proofs, Springer's copy-editors (I think) took out all of the page numbers -- which I had originally included for every single quote in the article.  Either that or I got the idea somewhere that this was the house style and re-ran the Endnote formatting without page numbers.  All of the involved files exist in multiple version, most with file save times of approximately 6 a.m. (which for me, means that was about when I went to bed).  Anyway, this then left these two paragraphs, each with a (Meyer 2009) reference.  In another round of editing, the first (Meyer 2009) was helpfully (@#$\*!) copy-edited out as redundant, producing an apparent two-paragraph quote with the paragraphs out of order.  For good measure, here's screenshots from the different drafts, so you can see them:
 
-[<img src="/uploads/2010/Matzke_2010_EEOquote_v1-thumb-582x917-496.png" alt="Matzke_2010_EEOquote_v1.png" width="582" height="917" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/archives/assets_c/2010/07/Matzke_2010_EEOquote_v1-496.html)
+[<img src="{{ site.baseurl }}/uploads/2010/Matzke_2010_EEOquote_v1-thumb-582x917-496.png" alt="Matzke_2010_EEOquote_v1.png" width="582" height="917" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/archives/assets_c/2010/07/Matzke_2010_EEOquote_v1-496.html)
 
-[<img src="/uploads/2010/Matzke_2010_EEOquote_v2-thumb-722x928-499.png" alt="Matzke_2010_EEOquote_v2.png" width="722" height="928" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](/uploads/2010/Matzke_2010_EEOquote_v2.png)
+[<img src="{{ site.baseurl }}/uploads/2010/Matzke_2010_EEOquote_v2-thumb-722x928-499.png" alt="Matzke_2010_EEOquote_v2.png" width="722" height="928" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](/uploads/2010/Matzke_2010_EEOquote_v2.png)
 
-[<img src="/uploads/2010/Matzke_2010_EEOquote_v3-thumb-484x670-501.png" alt="Matzke_2010_EEOquote_v3.png" width="484" height="670" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/archives/assets_c/2010/07/Matzke_2010_EEOquote_v3-501.html)
+[<img src="{{ site.baseurl }}/uploads/2010/Matzke_2010_EEOquote_v3-thumb-484x670-501.png" alt="Matzke_2010_EEOquote_v3.png" width="484" height="670" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />](http://pandasthumb.org/archives/assets_c/2010/07/Matzke_2010_EEOquote_v3-501.html)
 
 Anyway, for the interests of posterity, [I've put up a PDF of my plain-text final draft](/uploads/2010/Matzke_2010_EEO_piece_v20_refs.pdf), formatted with page numbers.  This is not quite identical to the published version since there were copy-edited and an abstract added.  But it is useful if anyone wants the page numbers.
 

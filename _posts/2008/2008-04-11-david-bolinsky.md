@@ -9,7 +9,7 @@ blog_id: 2
 post_id: 3735
 basename: david_bolinsky
 ---
-[<img src="/uploads/2008/banner-thumb-125x35.jpg" alt="banner.jpg" width="125" height="35" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://www.expelledexposed.com)David Bolinsky, the medical illustrator responsible for the "Inner Life of the Cell" animation has sent an [email to Richard Dawkins](http://www.richarddawkins.net/article,2460,Expelled-ripped-off-Harvards-Inner-Life-of-the-Cell-animation,David-Bolinsky) which he allowed to be shared. In this email, he outlines how he believes the hard work of his team, which involved over fourteen months of preparation, was apparently used by ID proponents in their own works.
+[<img src="{{ site.baseurl }}/uploads/2008/banner-thumb-125x35.jpg" alt="banner.jpg" width="125" height="35" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://www.expelledexposed.com)David Bolinsky, the medical illustrator responsible for the "Inner Life of the Cell" animation has sent an [email to Richard Dawkins](http://www.richarddawkins.net/article,2460,Expelled-ripped-off-Harvards-Inner-Life-of-the-Cell-animation,David-Bolinsky) which he allowed to be shared. In this email, he outlines how he believes the hard work of his team, which involved over fourteen months of preparation, was apparently used by ID proponents in their own works.
 
 Read all about how Expelled 'Flunked' at [ExpelledExposed.com](http://www.ExpelledExposed.com)
 

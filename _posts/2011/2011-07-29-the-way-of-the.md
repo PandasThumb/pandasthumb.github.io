@@ -14,4 +14,4 @@ What is a panda?  Ever since the French naturalist-priest Armand David "discover
 
 Written in three parts, _The Way of the Panda_ covers a lot of ground from bringing pandas into the consciousness of the world outside China to the future of pandas and people.  It sometimes wanders a bit from its focus on pandas, such as when the reader learns about a hullabaloo raised over the remains of a beloved London Zoo gorilla. Overall, though, it seems to be a thorough history of pandas and what we've made of them.
 
-<img src="/uploads/2011/WayPandaCover_600.jpg" alt="WayPandaCover_600.jpg" width="600" height="934" />
+<img src="{{ site.baseurl }}/uploads/2011/WayPandaCover_600.jpg" alt="WayPandaCover_600.jpg" width="600" height="934" />

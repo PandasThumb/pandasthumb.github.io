@@ -8,18 +8,18 @@ blog_id: 2
 post_id: 3498
 basename: ignorance_by_de
 ---
-|[<img src="/uploads/2008/flantievolutionr2un4-thumb-118x121.jpg" alt="flantievolutionr2un4.jpg" width="118" height="121" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/flantievolutionr2un4.html)|**Latest Count**<br /><img src="/uploads/2008/green_bullet-thumb-15x15.jpg" alt="" />Confirmed in support of science (1)<br /><img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="" />Unknown (46)<br /><img src="/uploads/2008/magnifier-thumb-16x16.jpg" alt="" />On Watch List (8)<br /><img src="/uploads/2008/red-bullet.jpg" alt="" />Anti Science Resolution Passed (6)<br /><img src="/uploads/2008/hot-thumb-15x15.gif" alt="" /> Resolution on future Agenda (5)<br />|**Highlands County** <br />**Educate a school board**<br />[school board contact information](http://www.highlands.k12.fl.us/board.html) <br /><br />Norris, who is also a Lutheran minister, has stated<br />that evolution should not be taught as fact and that <br />students should be able to discuss creationism in class.<br /><br />[Source](http://www2.highlandstoday.com/content/2008/jan/25/board-opposes-evolution-being-taught-fact/)<br />
+|[<img src="{{ site.baseurl }}/uploads/2008/flantievolutionr2un4-thumb-118x121.jpg" alt="flantievolutionr2un4.jpg" width="118" height="121" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/flantievolutionr2un4.html)|**Latest Count**<br /><img src="{{ site.baseurl }}/uploads/2008/green_bullet-thumb-15x15.jpg" alt="" />Confirmed in support of science (1)<br /><img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="" />Unknown (46)<br /><img src="{{ site.baseurl }}/uploads/2008/magnifier-thumb-16x16.jpg" alt="" />On Watch List (8)<br /><img src="{{ site.baseurl }}/uploads/2008/red-bullet.jpg" alt="" />Anti Science Resolution Passed (6)<br /><img src="{{ site.baseurl }}/uploads/2008/hot-thumb-15x15.gif" alt="" /> Resolution on future Agenda (5)<br />|**Highlands County** <br />**Educate a school board**<br />[school board contact information](http://www.highlands.k12.fl.us/board.html) <br /><br />Norris, who is also a Lutheran minister, has stated<br />that evolution should not be taught as fact and that <br />students should be able to discuss creationism in class.<br /><br />[Source](http://www2.highlandstoday.com/content/2008/jan/25/board-opposes-evolution-being-taught-fact/)<br />
 
 
 
 *********
 
 
-<img src="/uploads/2008/red-bullet.jpg" alt="" />[Washington County](http://www.flascience.org/wp/?p=407) joins the list<br />
-<img src="/uploads/2008/red-bullet.jpg" alt="" />[Madison County](http://www.flascience.org/wp/?p=402) joins the list<br />
-<img src="/uploads/2008/red-bullet.jpg" alt="" /> Three new [additions](http://www.flascience.org/wp/?p=396): Jackson County, Nassau County, and  Putnam county. More on this below the fold
+<img src="{{ site.baseurl }}/uploads/2008/red-bullet.jpg" alt="" />[Washington County](http://www.flascience.org/wp/?p=407) joins the list<br />
+<img src="{{ site.baseurl }}/uploads/2008/red-bullet.jpg" alt="" />[Madison County](http://www.flascience.org/wp/?p=402) joins the list<br />
+<img src="{{ site.baseurl }}/uploads/2008/red-bullet.jpg" alt="" /> Three new [additions](http://www.flascience.org/wp/?p=396): Jackson County, Nassau County, and  Putnam county. More on this below the fold
 
-<img src="/uploads/2008/green_bullet-thumb-15x15.jpg" alt="green_bullet.jpg" style=" float: left;" class="mt-image-left" />Brevard County first to reach green status<br />
+<img src="{{ site.baseurl }}/uploads/2008/green_bullet-thumb-15x15.jpg" alt="green_bullet.jpg" style=" float: left;" class="mt-image-left" />Brevard County first to reach green status<br />
 
 *********
 
@@ -226,15 +226,15 @@ Source: B.K. Jennings  [On the Nature of Science ](http://arxiv.org/PS_cache/phy
 
 *********
 
-<img src="/uploads/2008/green_bullet-thumb-15x15.jpg" alt="green_bullet.jpg" width="15" height="15" style=" float: left;" class="mt-image-left" />Confirmed in support of science
+<img src="{{ site.baseurl }}/uploads/2008/green_bullet-thumb-15x15.jpg" alt="green_bullet.jpg" width="15" height="15" style=" float: left;" class="mt-image-left" />Confirmed in support of science
 
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />Unknown
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />Unknown
 
-<img src="/uploads/2008/magnifier-thumb-16x16.jpg" alt="magnifier.jpg" width="16" height="16" style="float: left; " class="mt-image-left" />On Watch List
+<img src="{{ site.baseurl }}/uploads/2008/magnifier-thumb-16x16.jpg" alt="magnifier.jpg" width="16" height="16" style="float: left; " class="mt-image-left" />On Watch List
 
-<img src="/uploads/2008/red-bullet.jpg" alt="red-bullet.jpg" width="14" height="14" style="float: left; " class="mt-image-left" />Resolution Passed
+<img src="{{ site.baseurl }}/uploads/2008/red-bullet.jpg" alt="red-bullet.jpg" width="14" height="14" style="float: left; " class="mt-image-left" />Resolution Passed
 
-<img src="/uploads/2008/hot-thumb-15x15.gif" alt="hot.gif" width="15" height="15" style=" float: left;" class="mt-image-left" /> Resolution on future Agenda
+<img src="{{ site.baseurl }}/uploads/2008/hot-thumb-15x15.gif" alt="hot.gif" width="15" height="15" style=" float: left;" class="mt-image-left" /> Resolution on future Agenda
 
 HT: [Florida Citizens for Science](http://www.flascience.org/wp/?p=352)
 
@@ -249,14 +249,14 @@ HT: [Florida Citizens for Science](http://www.flascience.org/wp/?p=352)
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Alachua - School Board of Alachua County](http://www.sbac.edu/) - [School Board](http://www.sbac.edu/%7Ewpops/board/boardmembers.html) - [Board Agenda and Minutes](http://www.sbac.edu/%7Ewpops/agenda/) - [Latest Agenda 01-15-2008](http://www.sbac.edu/%7Ewpops/agenda/agen2008/01-15-08/ag011508.htm)
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Alachua - School Board of Alachua County](http://www.sbac.edu/) - [School Board](http://www.sbac.edu/%7Ewpops/board/boardmembers.html) - [Board Agenda and Minutes](http://www.sbac.edu/%7Ewpops/agenda/) - [Latest Agenda 01-15-2008](http://www.sbac.edu/%7Ewpops/agenda/agen2008/01-15-08/ag011508.htm)
 <br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/red-bullet.jpg" alt="red-bullet.jpg" width="14" height="14" style="float: left; " class="mt-image-left" /> [Baker - Baker County School District](http://www.baker.k12.fl.us/) - [School Board](http://www.baker.k12.fl.us/index_files/page0001.html) - [Board Agenda and Minutes](http://www.baker.k12.fl.us/index_files/page0003.html) - [Latest Agenda 01-07-2008](http://www.baker.k12.fl.us/current%20board%20agenda/01072008agenda.pdf)<br />
+<img src="{{ site.baseurl }}/uploads/2008/red-bullet.jpg" alt="red-bullet.jpg" width="14" height="14" style="float: left; " class="mt-image-left" /> [Baker - Baker County School District](http://www.baker.k12.fl.us/) - [School Board](http://www.baker.k12.fl.us/index_files/page0001.html) - [Board Agenda and Minutes](http://www.baker.k12.fl.us/index_files/page0003.html) - [Latest Agenda 01-07-2008](http://www.baker.k12.fl.us/current%20board%20agenda/01072008agenda.pdf)<br />
 </div>
 
 
@@ -276,19 +276,19 @@ HT: [Florida Citizens for Science](http://www.flascience.org/wp/?p=352)
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" /> [Bay  - Bay District Schools](http://www.bay.k12.fl.us/) - [School Board](http://www.bay.k12.fl.us/departments/schoolboard/MeetaBoardMember/tabid/362/Default.aspx) - [Board Agenda and Minutes](http://www.bay.k12.fl.us/departments/schoolboard/Minutes/tabid/385/Default.aspx) - [Latest Agenda 01-09-2008](http://www.bay.k12.fl.us/departments/Portals/20/BoardBook/minutes/agenda/Agenda%20-%20January%209,%202008%20Board%20Meeting.doc)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" /> [Bay  - Bay District Schools](http://www.bay.k12.fl.us/) - [School Board](http://www.bay.k12.fl.us/departments/schoolboard/MeetaBoardMember/tabid/362/Default.aspx) - [Board Agenda and Minutes](http://www.bay.k12.fl.us/departments/schoolboard/Minutes/tabid/385/Default.aspx) - [Latest Agenda 01-09-2008](http://www.bay.k12.fl.us/departments/Portals/20/BoardBook/minutes/agenda/Agenda%20-%20January%209,%202008%20Board%20Meeting.doc)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" /> [Bradford - School Board of Bradford County](http://www.bradford.k12.fl.us/) - [School Board](http://www.mybradford.us/board/members.htm) - [Board Agenda and Minutes](http://www.mybradford.us/board/Agendas/2007_2008/) - [Latest Agenda 01-14-2008](http://www.mybradford.us/board/Agendas/2007_2008/20080114.pdf)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" /> [Bradford - School Board of Bradford County](http://www.bradford.k12.fl.us/) - [School Board](http://www.mybradford.us/board/members.htm) - [Board Agenda and Minutes](http://www.mybradford.us/board/Agendas/2007_2008/) - [Latest Agenda 01-14-2008](http://www.mybradford.us/board/Agendas/2007_2008/20080114.pdf)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/green_bullet-thumb-15x15.jpg" alt="green_bullet.jpg" width="15" height="15" style=" float: left;" class="mt-image-left" />[Brevard - Brevard Public Schools](http://www.brevard.k12.fl.us/) - [School Board](http://www.brevard.k12.fl.us/school_board/members/members.html) - [Board Agenda and Minutes](http://www.brevard.k12.fl.us/school_board/meet_min_agen/meeting_dates.html) - [Latest Agenda 12-11-2007](http://www.brevard.k12.fl.us/school_board/eAgendaTOC/12-11-2007%20School%20Board%20Meeting%20on%20Tuesday,%20December%2011,%202007/1896CE96-9507-404D-88E0-278C3839DD4CAgenda.htm)
+<img src="{{ site.baseurl }}/uploads/2008/green_bullet-thumb-15x15.jpg" alt="green_bullet.jpg" width="15" height="15" style=" float: left;" class="mt-image-left" />[Brevard - Brevard Public Schools](http://www.brevard.k12.fl.us/) - [School Board](http://www.brevard.k12.fl.us/school_board/members/members.html) - [Board Agenda and Minutes](http://www.brevard.k12.fl.us/school_board/meet_min_agen/meeting_dates.html) - [Latest Agenda 12-11-2007](http://www.brevard.k12.fl.us/school_board/eAgendaTOC/12-11-2007%20School%20Board%20Meeting%20on%20Tuesday,%20December%2011,%202007/1896CE96-9507-404D-88E0-278C3839DD4CAgenda.htm)
 </div>
 
 
@@ -307,47 +307,47 @@ HT: [Florida Citizens for Science](http://www.flascience.org/wp/?p=352)
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" /> [Broward - Broward County Public Schools](http://www.browardschools.com/) - [School Board](http://www.browardschools.com/schoolboard/) - [Board Agenda and Minutes](http://eagenda3.broward.k12.fl.us/cgi-bin/WebObjects/eAgenda.woa/wa/displayCalendar) - [Latest Agenda 01-15-2008](http://eagenda3.broward.k12.fl.us/cgi-bin/WebObjects/eAgenda.woa/wa/showMeeting)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" /> [Broward - Broward County Public Schools](http://www.browardschools.com/) - [School Board](http://www.browardschools.com/schoolboard/) - [Board Agenda and Minutes](http://eagenda3.broward.k12.fl.us/cgi-bin/WebObjects/eAgenda.woa/wa/displayCalendar) - [Latest Agenda 01-15-2008](http://eagenda3.broward.k12.fl.us/cgi-bin/WebObjects/eAgenda.woa/wa/showMeeting)<br />
 </div>
 
 
 
 <div markdown="block">
-[<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />](/uploads/2008/yellow-bullet.jpg)[Calhoun - Calhoun County District Schools](http://www.paec.org/calhoun/district/) - [School Board](http://www.paec.org/calhoun/district/School_Board.htm) - Board Agenda and Minutes - Latest Agenda <br />
+[<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />](/uploads/2008/yellow-bullet.jpg)[Calhoun - Calhoun County District Schools](http://www.paec.org/calhoun/district/) - [School Board](http://www.paec.org/calhoun/district/School_Board.htm) - Board Agenda and Minutes - Latest Agenda <br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Charlotte - Charlotte County Public Schools](http://www.ccps.k12.fl.us/) - [School Board](http://www.ccps.k12.fl.us/AboutUs.cfm?PageID=SchoolBoardMembers) - [Board Agenda and Minutes](http://www.ccps.k12.fl.us/AboutUs.cfm?PageID=SchoolBoardDetails) - [Latest Agenda 12-18-2008](http://www.ccps.k12.fl.us/Downloads/Agenda_Minutes/12-18-07RegMtg.pdf)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Charlotte - Charlotte County Public Schools](http://www.ccps.k12.fl.us/) - [School Board](http://www.ccps.k12.fl.us/AboutUs.cfm?PageID=SchoolBoardMembers) - [Board Agenda and Minutes](http://www.ccps.k12.fl.us/AboutUs.cfm?PageID=SchoolBoardDetails) - [Latest Agenda 12-18-2008](http://www.ccps.k12.fl.us/Downloads/Agenda_Minutes/12-18-07RegMtg.pdf)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Citrus - Citrus County School District](http://www.citrus.k12.fl.us/) - [School Board](http://www.citrus.k12.fl.us/school_board_member.htm) - [Board Agenda and Minutes](http://www.citrus.k12.fl.us/board/agendas_minutes/2007-2008/07_08_agendas_minutes.htm) - [Latest Agenda 01-08-2008](http://www.citrus.k12.fl.us/board/agendas_minutes/2007-2008/pdfs/a010808admreg.pdf)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Citrus - Citrus County School District](http://www.citrus.k12.fl.us/) - [School Board](http://www.citrus.k12.fl.us/school_board_member.htm) - [Board Agenda and Minutes](http://www.citrus.k12.fl.us/board/agendas_minutes/2007-2008/07_08_agendas_minutes.htm) - [Latest Agenda 01-08-2008](http://www.citrus.k12.fl.us/board/agendas_minutes/2007-2008/pdfs/a010808admreg.pdf)<br />
 </div>
 
 
 
 <div markdown="block">
-[<img src="/uploads/2008/hot-thumb-15x15.gif" alt="hot.gif" width="15" height="15" style=" float: left;" class="mt-image-left" />](/uploads/2008/hot.gif)[Clay - Clay County School District](http://www.clay.k12.fl.us/) - [School Board](http://www.clay.k12.fl.us/school_board.htm) - [Board Agenda and Minutes](http://www.clay.k12.fl.us/school_board_agendas.asp) - [Latest Agenda 01-17-2008](http://www.clay.k12.fl.us/school_board_agendas.asp)<br />
+[<img src="{{ site.baseurl }}/uploads/2008/hot-thumb-15x15.gif" alt="hot.gif" width="15" height="15" style=" float: left;" class="mt-image-left" />](/uploads/2008/hot.gif)[Clay - Clay County School District](http://www.clay.k12.fl.us/) - [School Board](http://www.clay.k12.fl.us/school_board.htm) - [Board Agenda and Minutes](http://www.clay.k12.fl.us/school_board_agendas.asp) - [Latest Agenda 01-17-2008](http://www.clay.k12.fl.us/school_board_agendas.asp)<br />
 </div>
 
 
 > **[School Board](http://www.clay.k12.fl.us/school_board.htm)**
 > 
-> <img src="/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" /> [Carol Studdard, Chairman](mailto:CStuddard@mail.clay.k12.fl.us)<br />
+> <img src="{{ site.baseurl }}/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" /> [Carol Studdard, Chairman](mailto:CStuddard@mail.clay.k12.fl.us)<br />
 > 
-> <img src="/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" /> [Charles Van Zant, Jr., Vice-Chairman](mailto:ceVanZant@mail.clay.k12.fl.us)<br />
+> <img src="{{ site.baseurl }}/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" /> [Charles Van Zant, Jr., Vice-Chairman](mailto:ceVanZant@mail.clay.k12.fl.us)<br />
 > 
-> <img src="/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" /> [Carol Vallencourt, Member](mailto:CVallencourt@mail.clay.k12.fl.us)<br />
+> <img src="{{ site.baseurl }}/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" /> [Carol Vallencourt, Member](mailto:CVallencourt@mail.clay.k12.fl.us)<br />
 > 
-> <img src="/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" /> [Lisa Graham, Member](mailto:LGraham@mail.clay.k12.fl.us)<br />
+> <img src="{{ site.baseurl }}/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" /> [Lisa Graham, Member](mailto:LGraham@mail.clay.k12.fl.us)<br />
 > 
-> <img src="/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" /> [Wayne Bolla, Member](mailto:wbolla@mail.clay.k12.fl.us)<br />
+> <img src="{{ site.baseurl }}/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" /> [Wayne Bolla, Member](mailto:wbolla@mail.clay.k12.fl.us)<br />
 > 
-> <img src="/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" /> [Clay Owens](http://www.clay.k12.fl.us/superintendent.htm) Superintendent
+> <img src="{{ site.baseurl }}/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" /> [Clay Owens](http://www.clay.k12.fl.us/superintendent.htm) Superintendent
 > 
 > > David Campbell, a teacher in Clay County, said he helped develop the standards being argued. The standards should include evolution, he said.
 > > 
@@ -383,31 +383,31 @@ HT: [Florida Citizens for Science](http://www.flascience.org/wp/?p=352)
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Collier - The District School Board of Collier County](http://www.collier.k12.fl.us/) - [School Board](http://www.collier.k12.fl.us/board/members/index.asp) - [Board Agenda and Minutes](http://www.collier.k12.fl.us/board/meetings/index.asp) - [Latest Agenda 01-17-2008](http://www.collier.k12.fl.us/board/meetings/public/January%2017,%202008%20-%20Regular%20Board%20Meeting%20on%20Thursday,%20January%2017,%202008/B7B5D09C-7FCA-4726-A58F-04194723FD07Agenda.pdf)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Collier - The District School Board of Collier County](http://www.collier.k12.fl.us/) - [School Board](http://www.collier.k12.fl.us/board/members/index.asp) - [Board Agenda and Minutes](http://www.collier.k12.fl.us/board/meetings/index.asp) - [Latest Agenda 01-17-2008](http://www.collier.k12.fl.us/board/meetings/public/January%2017,%202008%20-%20Regular%20Board%20Meeting%20on%20Thursday,%20January%2017,%202008/B7B5D09C-7FCA-4726-A58F-04194723FD07Agenda.pdf)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Columbia - Columbia County Schools](http://www.columbia.k12.fl.us/) - [School Board](http://www.columbia.k12.fl.us/board.html) - [Board Agenda and Minutes]() - [Latest Agenda 01-08-2008](http://www.columbia.k12.fl.us/A%20G%20E%20N%20D%20A%201-8-08.pdf)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Columbia - Columbia County Schools](http://www.columbia.k12.fl.us/) - [School Board](http://www.columbia.k12.fl.us/board.html) - [Board Agenda and Minutes]() - [Latest Agenda 01-08-2008](http://www.columbia.k12.fl.us/A%20G%20E%20N%20D%20A%201-8-08.pdf)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Dade - Miami-Dade County Public Schools](http://www2.dadeschools.net/index.htm) - [School Board](http://www2.dadeschools.net/schoolboard/bdmembers.asp) - [Board Agenda and Minutes](http://www2.dadeschools.net/schoolboard/default.asp) - [Latest Agenda 01-16-2008](http://www2.dadeschools.net/schoolboard/agenda.asp)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Dade - Miami-Dade County Public Schools](http://www2.dadeschools.net/index.htm) - [School Board](http://www2.dadeschools.net/schoolboard/bdmembers.asp) - [Board Agenda and Minutes](http://www2.dadeschools.net/schoolboard/default.asp) - [Latest Agenda 01-16-2008](http://www2.dadeschools.net/schoolboard/agenda.asp)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[DeSoto - The School District of DeSoto](http://www.desotoschools.com/) - [School Board](http://www.desotoschools.com/School%20Board%20Agenda%20and%20Minutes.htm) - [Board Agenda and Minutes](http://www.desotoschools.com/School%20Board%20Agenda%20and%20Minutes.htm) - [Latest Agenda 01-08-2008](http://www.desotoschools.com/01.08.08%20Agenda-Approved.pdf)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[DeSoto - The School District of DeSoto](http://www.desotoschools.com/) - [School Board](http://www.desotoschools.com/School%20Board%20Agenda%20and%20Minutes.htm) - [Board Agenda and Minutes](http://www.desotoschools.com/School%20Board%20Agenda%20and%20Minutes.htm) - [Latest Agenda 01-08-2008](http://www.desotoschools.com/01.08.08%20Agenda-Approved.pdf)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/magnifier-thumb-16x16.jpg" alt="magnifier.jpg" width="16" height="16" style="float: left; " class="mt-image-left" />[Dixie - Dixie District Schools](http://dixieschools.dixie.k12.fl.us/) - [School Board](http://dixieschools.dixie.k12.fl.us/admin/board/) - Board Agenda and Minutes - Latest Agenda<br />
+<img src="{{ site.baseurl }}/uploads/2008/magnifier-thumb-16x16.jpg" alt="magnifier.jpg" width="16" height="16" style="float: left; " class="mt-image-left" />[Dixie - Dixie District Schools](http://dixieschools.dixie.k12.fl.us/) - [School Board](http://dixieschools.dixie.k12.fl.us/admin/board/) - Board Agenda and Minutes - Latest Agenda<br />
 </div>
 
 
@@ -426,7 +426,7 @@ Source: [North Florida weighing in against evolution](http://www.sptimes.com/200
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Duval - Duval County Public Schools](http://www.educationcentral.org/) - [School Board](http://www.dreamsbeginhere.org/static/aboutdcps/schoolboard/overview.asp) - [Board Agenda and Minutes](http://www.dreamsbeginhere.org/static/aboutdcps/schoolboard/agenda.asp) - [Latest Agenda 01-07-2008]()<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Duval - Duval County Public Schools](http://www.educationcentral.org/) - [School Board](http://www.dreamsbeginhere.org/static/aboutdcps/schoolboard/overview.asp) - [Board Agenda and Minutes](http://www.dreamsbeginhere.org/static/aboutdcps/schoolboard/agenda.asp) - [Latest Agenda 01-07-2008]()<br />
 </div>
 
 
@@ -459,91 +459,91 @@ Source: [North Florida weighing in against evolution](http://www.sptimes.com/200
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Escambia - Escambia County School District](http://www.escambia.k12.fl.us/) - [School Board](http://old.escambia.k12.fl.us/board/board.htm#agendas) - [Board Agenda and Minutes](http://old.escambia.k12.fl.us/board/board.htm#agendas) - [Latest Agenda 12-18-2007]()<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Escambia - Escambia County School District](http://www.escambia.k12.fl.us/) - [School Board](http://old.escambia.k12.fl.us/board/board.htm#agendas) - [Board Agenda and Minutes](http://old.escambia.k12.fl.us/board/board.htm#agendas) - [Latest Agenda 12-18-2007]()<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Flagler - Flagler County Public Schools](http://www.flagler.k12.fl.us/) - [School Board](http://www.flagler.k12.fl.us/departments/board) - [Board Agenda and Minutes](http://www.boarddocs.com/fla/flcsd/Board.nsf/Public?OpenFrameSet) - [Latest Agenda 01-08-2008]()<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Flagler - Flagler County Public Schools](http://www.flagler.k12.fl.us/) - [School Board](http://www.flagler.k12.fl.us/departments/board) - [Board Agenda and Minutes](http://www.boarddocs.com/fla/flcsd/Board.nsf/Public?OpenFrameSet) - [Latest Agenda 01-08-2008]()<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Franklin - Franklin County Schools](http://www.franklincountyschools.org/) - [School Board](http://www.franklincountyschools.org/leadboe.htm#top) - Board Agenda and Minutes - Latest Agenda <br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Franklin - Franklin County Schools](http://www.franklincountyschools.org/) - [School Board](http://www.franklincountyschools.org/leadboe.htm#top) - Board Agenda and Minutes - Latest Agenda <br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Gadsden - Gadsden County Public Schools](http://www.gcps.k12.fl.us/) - [School Board](http://www.gcps.k12.fl.us/?DivisionID=&apos;2204&apos;&amp;ToggleSideNav=) - [Board Agenda and Minutes](http://www.gcps.k12.fl.us/?DivisionID=&apos;2204&apos;&amp;ToggleSideNav=) - Latest Agenda<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Gadsden - Gadsden County Public Schools](http://www.gcps.k12.fl.us/) - [School Board](http://www.gcps.k12.fl.us/?DivisionID=&apos;2204&apos;&amp;ToggleSideNav=) - [Board Agenda and Minutes](http://www.gcps.k12.fl.us/?DivisionID=&apos;2204&apos;&amp;ToggleSideNav=) - Latest Agenda<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Gilchrist - Gilchrist County Schools](http://www.gilchristschools.org/) - [School Board](http://www.gilchristschools.org/SchoolBoard/board.html) - [Board Agenda and Minutes](http://www.gilchristschools.org/SchoolBoard/boardmeetings.html) -Latest Agenda <br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Gilchrist - Gilchrist County Schools](http://www.gilchristschools.org/) - [School Board](http://www.gilchristschools.org/SchoolBoard/board.html) - [Board Agenda and Minutes](http://www.gilchristschools.org/SchoolBoard/boardmeetings.html) -Latest Agenda <br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Gulf - Gulf County School District](http://www.gulf.k12.fl.us/) - [School Board](http://www.gulf.k12.fl.us/schoolbrd.htm) - Board Agenda and Minutes - Latest Agenda<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Gulf - Gulf County School District](http://www.gulf.k12.fl.us/) - [School Board](http://www.gulf.k12.fl.us/schoolbrd.htm) - Board Agenda and Minutes - Latest Agenda<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/red-bullet.jpg" alt="red-bullet.jpg" width="14" height="14" style="float: left; " class="mt-image-left" /> [Hamilton - Hamilton County School District](http://www.hamiltonfl.com/) - [School Board](http://www.hamiltonfl.com/board.htm) - [Board Agenda and Minutes](http://www.hamiltonfl.com/board.htm) - [Latest Agenda 12-17-2007](http://www.hamiltonfl.com/pdffiles/meetings/dec%2017%20minutes.pdf)<br />
+<img src="{{ site.baseurl }}/uploads/2008/red-bullet.jpg" alt="red-bullet.jpg" width="14" height="14" style="float: left; " class="mt-image-left" /> [Hamilton - Hamilton County School District](http://www.hamiltonfl.com/) - [School Board](http://www.hamiltonfl.com/board.htm) - [Board Agenda and Minutes](http://www.hamiltonfl.com/board.htm) - [Latest Agenda 12-17-2007](http://www.hamiltonfl.com/pdffiles/meetings/dec%2017%20minutes.pdf)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Hardee](http://www.hardee.k12.fl.us/) - [School Board](http://www.hardee.k12.fl.us/school_board1.htm) - [Board Agenda and Minutes](http://www.hardee.k12.fl.us/school_board1.htm) - [Latest Agenda 01-08-2008](http://www.hardee.k12.fl.us/board_agendas0304/January%2010,%202008.pdf)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Hardee](http://www.hardee.k12.fl.us/) - [School Board](http://www.hardee.k12.fl.us/school_board1.htm) - [Board Agenda and Minutes](http://www.hardee.k12.fl.us/school_board1.htm) - [Latest Agenda 01-08-2008](http://www.hardee.k12.fl.us/board_agendas0304/January%2010,%202008.pdf)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Hendry - Hendry County Schools](http://www.hendry-schools.org/) - [School Board](http://www.hendry-schools.org/education/components/sectionlist/default.php?sectiondetailid=15142&amp;sc_id=1200197106) - [Board Agenda and Minutes](http://www.hendry-schools.org/education/components/docmgr/default.php?sectiondetailid=15274&amp;sc_id=1200197121) - Latest Agenda <br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Hendry - Hendry County Schools](http://www.hendry-schools.org/) - [School Board](http://www.hendry-schools.org/education/components/sectionlist/default.php?sectiondetailid=15142&amp;sc_id=1200197106) - [Board Agenda and Minutes](http://www.hendry-schools.org/education/components/docmgr/default.php?sectiondetailid=15274&amp;sc_id=1200197121) - Latest Agenda <br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Hernando - Hernando County School Board](http://www.hcsb.k12.fl.us/) - [School Board](http://www.hcsb.k12.fl.us/bdmembers.htm) - [Board Agenda and Minutes](http://www.hcsb.k12.fl.us/school_board/agendas/minutestoc.htm) - [Latest Agenda 01-15-2008](http://www.hcsb.k12.fl.us/school_board/agendas/1-15-08%20Regular%20School%20Board%20Meeting%20-%20Revised%20on%20Tuesday,%20January%2015,%202008/C5669B47-E41A-4FED-AC39-20447DD6FB6FAgenda.pdf)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Hernando - Hernando County School Board](http://www.hcsb.k12.fl.us/) - [School Board](http://www.hcsb.k12.fl.us/bdmembers.htm) - [Board Agenda and Minutes](http://www.hcsb.k12.fl.us/school_board/agendas/minutestoc.htm) - [Latest Agenda 01-15-2008](http://www.hcsb.k12.fl.us/school_board/agendas/1-15-08%20Regular%20School%20Board%20Meeting%20-%20Revised%20on%20Tuesday,%20January%2015,%202008/C5669B47-E41A-4FED-AC39-20447DD6FB6FAgenda.pdf)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Highlands - Highlands County Schools](http://www.highlands.k12.fl.us/) - [School Board](http://www.highlands.k12.fl.us/board.html) - [Board Agenda and Minutes](http://www.highlands.k12.fl.us/schedule06-07.html) - [Latest Agenda 12-11-2007](http://www.highlands.k12.fl.us/agenda121107.pdf)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Highlands - Highlands County Schools](http://www.highlands.k12.fl.us/) - [School Board](http://www.highlands.k12.fl.us/board.html) - [Board Agenda and Minutes](http://www.highlands.k12.fl.us/schedule06-07.html) - [Latest Agenda 12-11-2007](http://www.highlands.k12.fl.us/agenda121107.pdf)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Hillsborough - School District of Hillsborough County](http://www.sdhc.k12.fl.us/) - [School Board](http://www.sdhc.k12.fl.us/board/) - [Board Agenda and Minutes](http://www.sdhc.k12.fl.us/boardagenda/search/) - [Latest Agenda 01-15-2008](http://www.sdhc.k12.fl.us/boardagenda/search/Agenda_Print.asp?BD_MTG_ID=285)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Hillsborough - School District of Hillsborough County](http://www.sdhc.k12.fl.us/) - [School Board](http://www.sdhc.k12.fl.us/board/) - [Board Agenda and Minutes](http://www.sdhc.k12.fl.us/boardagenda/search/) - [Latest Agenda 01-15-2008](http://www.sdhc.k12.fl.us/boardagenda/search/Agenda_Print.asp?BD_MTG_ID=285)<br />
 </div>
 
 
 > **School Board**
 > 
-> <img src="/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" /> [Jennifer Faliero](http://www.sdhc.k12.fl.us/board/Form_Board.asp?F=Jennifer&amp;L=Faliero) - [More Info](http://www.sdhc.k12.fl.us/board/biographies/JenniferFalieroBio.asp)<br />
+> <img src="{{ site.baseurl }}/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" /> [Jennifer Faliero](http://www.sdhc.k12.fl.us/board/Form_Board.asp?F=Jennifer&amp;L=Faliero) - [More Info](http://www.sdhc.k12.fl.us/board/biographies/JenniferFalieroBio.asp)<br />
 > 
-> <img src="/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />Carol Kurdell<br />
+> <img src="{{ site.baseurl }}/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />Carol Kurdell<br />
 > 
-> <img src="/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />Doretha W. Edgecomb<br />
+> <img src="{{ site.baseurl }}/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />Doretha W. Edgecomb<br />
 > 
-> <img src="/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />April Griffin<br />
+> <img src="{{ site.baseurl }}/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />April Griffin<br />
 > 
-> <img src="/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />Jack R. Lamb<br />
+> <img src="{{ site.baseurl }}/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />Jack R. Lamb<br />
 > 
-> <img src="/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />Candy Olson<br />
+> <img src="{{ site.baseurl }}/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />Candy Olson<br />
 > 
-> <img src="/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />Susan L. Valdes<br />
+> <img src="{{ site.baseurl }}/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />Susan L. Valdes<br />
 > 
 > *********
 > 
@@ -551,7 +551,7 @@ Source: [North Florida weighing in against evolution](http://www.sptimes.com/200
 
 
 <div markdown="block">
-<img src="/uploads/2008/red-bullet.jpg" alt="red-bullet.jpg" width="14" height="14" style="float: left; " class="mt-image-left" /> [Holmes - Holmes District School Board](http://www.hdsb.org/) - [School Board](http://www.hdsb.org/SchoolBoard) - [Board Agenda and Minutes](http://www.hdsb.org/SchoolBoard) - [Latest Agenda 01-08-2008](http://www.hdsb.org/SchoolBoard)<br />
+<img src="{{ site.baseurl }}/uploads/2008/red-bullet.jpg" alt="red-bullet.jpg" width="14" height="14" style="float: left; " class="mt-image-left" /> [Holmes - Holmes District School Board](http://www.hdsb.org/) - [School Board](http://www.hdsb.org/SchoolBoard) - [Board Agenda and Minutes](http://www.hdsb.org/SchoolBoard) - [Latest Agenda 01-08-2008](http://www.hdsb.org/SchoolBoard)<br />
 </div>
 
 
@@ -559,13 +559,13 @@ Source: [North Florida weighing in against evolution](http://www.sptimes.com/200
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Indian River - School District of Indian River County](http://www.indian-river.k12.fl.us/) - [School Board](http://www.indian-river.k12.fl.us/SiteDirectory/SchoolBoard/Pages/BoardMembers.aspx) - [Board Agenda and Minutes](http://www.indian-river.k12.fl.us/SiteDirectory/SchoolBoard/Pages/default.aspx) - [Latest Agenda 01-15-2008]()<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Indian River - School District of Indian River County](http://www.indian-river.k12.fl.us/) - [School Board](http://www.indian-river.k12.fl.us/SiteDirectory/SchoolBoard/Pages/BoardMembers.aspx) - [Board Agenda and Minutes](http://www.indian-river.k12.fl.us/SiteDirectory/SchoolBoard/Pages/default.aspx) - [Latest Agenda 01-15-2008]()<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/red-bullet.jpg" alt="red-bullet.jpg" width="14" height="14" style="float: left; " class="mt-image-left" />[Jackson - Jackson County School Board](http://web.jcsb.org/) - [School Board](http://web.jcsb.org/board_members.htm) - [Board Agenda and Minutes](http://web.jcsb.org/board_information.htm) - [Latest Agenda 01-15-2007](http://150.176.80.203/supofc/agenda.htm)<br />
+<img src="{{ site.baseurl }}/uploads/2008/red-bullet.jpg" alt="red-bullet.jpg" width="14" height="14" style="float: left; " class="mt-image-left" />[Jackson - Jackson County School Board](http://web.jcsb.org/) - [School Board](http://web.jcsb.org/board_members.htm) - [Board Agenda and Minutes](http://web.jcsb.org/board_information.htm) - [Latest Agenda 01-15-2007](http://150.176.80.203/supofc/agenda.htm)<br />
 </div>
 
 
@@ -587,43 +587,43 @@ Source: [North Florida weighing in against evolution](http://www.sptimes.com/200
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Lafayette](http://www.lafayette.k12.fl.us/) - School Board - Board Agenda and Minutes - Latest Agenda<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Lafayette](http://www.lafayette.k12.fl.us/) - School Board - Board Agenda and Minutes - Latest Agenda<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Lake - Lake County Schools](http://www.lake.k12.fl.us/) - [School Board](http://www.lake.k12.fl.us/LCSPortal/AboutUs/SchoolBoard/tabid/73/Default.aspx) - [Board Agenda and Minutes](http://www.lake.k12.fl.us/LCSPortal/AboutUs/SchoolBoard/BoardMeetingAgendas/tabid/267/Default.aspx) - [Latest Agenda 12-10-2007](http://www.lake.k12.fl.us/LCSPortal/LinkClick.aspx?fileticket=PCijPqF8zO4%3d&amp;tabid=1059&amp;mid=3248)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Lake - Lake County Schools](http://www.lake.k12.fl.us/) - [School Board](http://www.lake.k12.fl.us/LCSPortal/AboutUs/SchoolBoard/tabid/73/Default.aspx) - [Board Agenda and Minutes](http://www.lake.k12.fl.us/LCSPortal/AboutUs/SchoolBoard/BoardMeetingAgendas/tabid/267/Default.aspx) - [Latest Agenda 12-10-2007](http://www.lake.k12.fl.us/LCSPortal/LinkClick.aspx?fileticket=PCijPqF8zO4%3d&amp;tabid=1059&amp;mid=3248)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Lee - The School District of Lee County](http://www.lee.k12.fl.us/) - [School Board](http://www.leeschools.net/board/welcome.htm) - [Board Agenda and Minutes](http://www.leeschools.net/board/sb%5Fmeetings/) - [Latest Agenda 01-08-2008](http://www.leeschools.net/board/sb%5Fmeetings/agendas/FY2008/sba1-8-08.pdf)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Lee - The School District of Lee County](http://www.lee.k12.fl.us/) - [School Board](http://www.leeschools.net/board/welcome.htm) - [Board Agenda and Minutes](http://www.leeschools.net/board/sb%5Fmeetings/) - [Latest Agenda 01-08-2008](http://www.leeschools.net/board/sb%5Fmeetings/agendas/FY2008/sba1-8-08.pdf)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Leon - Leon County Schools](http://www.leon.k12.fl.us/) - [School Board](http://www.leon.k12.fl.us/newLCShomeFiles/schoolBoardHome.html) - Board Agenda and Minutes - [Latest Agenda 12-11-2007](http://www.planning.leon.k12.fl.us/lcsbagenda.htm)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Leon - Leon County Schools](http://www.leon.k12.fl.us/) - [School Board](http://www.leon.k12.fl.us/newLCShomeFiles/schoolBoardHome.html) - Board Agenda and Minutes - [Latest Agenda 12-11-2007](http://www.planning.leon.k12.fl.us/lcsbagenda.htm)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Levy - School Board of Levy County](http://www.levy.k12.fl.us/) - [School Board](http://www.levy.k12.fl.us/departments/school%20board/default.asp) - [Board Agenda and Minutes](http://www.levy.k12.fl.us/boarddocs/) - [Latest Agenda 01-08-2008](http://www.levy.k12.fl.us/boarddocs/agendas/a20080108.pdf)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Levy - School Board of Levy County](http://www.levy.k12.fl.us/) - [School Board](http://www.levy.k12.fl.us/departments/school%20board/default.asp) - [Board Agenda and Minutes](http://www.levy.k12.fl.us/boarddocs/) - [Latest Agenda 01-08-2008](http://www.levy.k12.fl.us/boarddocs/agendas/a20080108.pdf)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Liberty - Liberty County School Board](http://www.lcsbonline.org/) - [School Board](http://www.lcsbonline.org/) - Board Agenda and Minutes - Latest Agenda<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Liberty - Liberty County School Board](http://www.lcsbonline.org/) - [School Board](http://www.lcsbonline.org/) - Board Agenda and Minutes - Latest Agenda<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/red-bullet.jpg" alt="red-bullet.jpg" width="14" height="14" style="float: left; " class="mt-image-left" />[Madison - Madison County Schools](http://www.janusgroup.com/madison/) - [School Board](http://www.janusgroup.com/madison/boe_members.htm) - Board Agenda and Minutes - Latest Agenda<br />
+<img src="{{ site.baseurl }}/uploads/2008/red-bullet.jpg" alt="red-bullet.jpg" width="14" height="14" style="float: left; " class="mt-image-left" />[Madison - Madison County Schools](http://www.janusgroup.com/madison/) - [School Board](http://www.janusgroup.com/madison/boe_members.htm) - Board Agenda and Minutes - Latest Agenda<br />
 </div>
 
 
@@ -641,35 +641,35 @@ Source: [North Florida weighing in against evolution](http://www.sptimes.com/200
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Manatee - School District of Manatee County](http://www.manatee.k12.fl.us/) - [School Board](http://www.manatee.k12.fl.us/school_board/board_members.html) - [Board Agenda and Minutes](http://www.manatee.k12.fl.us/sites/agenda/MinutesTOC.htm) - [Latest Agenda 01-14-2008](http://www.manatee.k12.fl.us/sites/agenda/January%2014,%202008%20-%20Regular%20Meeting%20on%20Monday,%20January%2014,%202008/32BA1132-22B2-4EC6-B649-CFE7C6EBC946Agenda.htm)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Manatee - School District of Manatee County](http://www.manatee.k12.fl.us/) - [School Board](http://www.manatee.k12.fl.us/school_board/board_members.html) - [Board Agenda and Minutes](http://www.manatee.k12.fl.us/sites/agenda/MinutesTOC.htm) - [Latest Agenda 01-14-2008](http://www.manatee.k12.fl.us/sites/agenda/January%2014,%202008%20-%20Regular%20Meeting%20on%20Monday,%20January%2014,%202008/32BA1132-22B2-4EC6-B649-CFE7C6EBC946Agenda.htm)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Marion - Marion County Public Schools](http://www.marion.k12.fl.us/) - [School Board](http://www.marion.k12.fl.us/district/board/index.cfm) - [Board Agenda and Minutes](http://www.marion.k12.fl.us/district/board/minutes.cfm) - [Latest Agenda 01-08-2008](http://www.marion.k12.fl.us/district/board/database/agendas/Jan%208,%202008.htm)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Marion - Marion County Public Schools](http://www.marion.k12.fl.us/) - [School Board](http://www.marion.k12.fl.us/district/board/index.cfm) - [Board Agenda and Minutes](http://www.marion.k12.fl.us/district/board/minutes.cfm) - [Latest Agenda 01-08-2008](http://www.marion.k12.fl.us/district/board/database/agendas/Jan%208,%202008.htm)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/magnifier-thumb-16x16.jpg" alt="magnifier.jpg" width="16" height="16" style="float: left; " class="mt-image-left" />[Martin - Martin County School District](http://www.sbmc.org/) - [School Board](http://www.sbmc.org/schoolboard/board-members.php) - Board Agenda and Minutes- Latest Agenda<br />
+<img src="{{ site.baseurl }}/uploads/2008/magnifier-thumb-16x16.jpg" alt="magnifier.jpg" width="16" height="16" style="float: left; " class="mt-image-left" />[Martin - Martin County School District](http://www.sbmc.org/) - [School Board](http://www.sbmc.org/schoolboard/board-members.php) - Board Agenda and Minutes- Latest Agenda<br />
 </div>
 
 
 > **School Board**
 > 
-> <img src="/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" />Dr. David Anderson term expires Nov. 2008<br />
+> <img src="{{ site.baseurl }}/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" />Dr. David Anderson term expires Nov. 2008<br />
 > 
-> <img src="/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />[Dr. Sara A. Wilcox](wilcoxs@martin.k12.fl.us)<br />
+> <img src="{{ site.baseurl }}/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />[Dr. Sara A. Wilcox](wilcoxs@martin.k12.fl.us)<br />
 > 
-> <img src="/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />[Lorie Shekailo](shekail@martin.k12.fl.us)<br />
+> <img src="{{ site.baseurl }}/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />[Lorie Shekailo](shekail@martin.k12.fl.us)<br />
 > 
-> <img src="/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />Sue Hershey<br />
+> <img src="{{ site.baseurl }}/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />Sue Hershey<br />
 > 
-> <img src="/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />Laurie Gaylord (Chair)<br />
+> <img src="{{ site.baseurl }}/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />Laurie Gaylord (Chair)<br />
 > 
-> <img src="/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />[Nancy Kline (Vice-Chair)](klinen@martin.k12.fl.us)<br />
+> <img src="{{ site.baseurl }}/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />[Nancy Kline (Vice-Chair)](klinen@martin.k12.fl.us)<br />
 > 
 > *********
 > 
@@ -680,13 +680,13 @@ Source: [North Florida weighing in against evolution](http://www.sptimes.com/200
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Monroe - Monroe County Public Schools](http://www.keysschools.com/) - [School Board](http://www.keysschools.com/schoolBoard/members.asp) - [Board Agenda and Minutes](http://www.keysschools.com/schoolBoard/minutes.asp) - [Latest Agenda 01-14-2008](http://www.keysschools.com/schoolBoard/agenda_folders/07_08_agenda_folders/Jan15_KW_REG_PH/Jan15.htm)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Monroe - Monroe County Public Schools](http://www.keysschools.com/) - [School Board](http://www.keysschools.com/schoolBoard/members.asp) - [Board Agenda and Minutes](http://www.keysschools.com/schoolBoard/minutes.asp) - [Latest Agenda 01-14-2008](http://www.keysschools.com/schoolBoard/agenda_folders/07_08_agenda_folders/Jan15_KW_REG_PH/Jan15.htm)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/magnifier-thumb-16x16.jpg" alt="magnifier.jpg" width="16" height="16" style="float: left; " class="mt-image-left" />[Nassau - Nassau County School District](http://www.nassau.k12.fl.us/) - [School Board](c) - [Board Agenda and Minutes](http://www.nassau.k12.fl.us/schlbrd/default.htm) - [Latest Agenda 01-10-2008](http://www.nassau.k12.fl.us/schlbrd/agendas/agenda011008.pdf)<br />
+<img src="{{ site.baseurl }}/uploads/2008/magnifier-thumb-16x16.jpg" alt="magnifier.jpg" width="16" height="16" style="float: left; " class="mt-image-left" />[Nassau - Nassau County School District](http://www.nassau.k12.fl.us/) - [School Board](c) - [Board Agenda and Minutes](http://www.nassau.k12.fl.us/schlbrd/default.htm) - [Latest Agenda 01-10-2008](http://www.nassau.k12.fl.us/schlbrd/agendas/agenda011008.pdf)<br />
 </div>
 
 
@@ -702,7 +702,7 @@ Source: [North Florida weighing in against evolution](http://www.sptimes.com/200
 > 
 > [Kathy Burns](burnska@@nassau.k12.fl.us)<br />
 > 
-> <img src="/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Dr. John L. Ruis](ruisjo@nassau.k12.fl.us)
+> <img src="{{ site.baseurl }}/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Dr. John L. Ruis](ruisjo@nassau.k12.fl.us)
 > 
 > > Nassau County Superintendent John Ruis said he is a strong believer in biblical creationism. The theory of evolution has many “holes” in it, he said - and presenting it as undisputed fact “is certainly contrary to the beliefs of many people, including myself.”
 > 
@@ -711,27 +711,27 @@ Source: [North Florida weighing in against evolution](http://www.sptimes.com/200
 
 
 <div markdown="block">
-<img src="/uploads/2008/magnifier-thumb-16x16.jpg" alt="magnifier.jpg" width="16" height="16" style="float: left; " class="mt-image-left" />[Okaloosa - Okaloosa County School District](http://www.okaloosaschools.com/) - [School Board](http://www.okaloosaschools.com/OkaloosaSchools/Default.aspx?tabid=148) - [Board Agenda and Minutes](http://www.okaloosaschools.com/OkaloosaSchools/Default.aspx?tabid=270) - [Latest Agenda 01-14-2008](http://www.okaloosaschools.com/okaloosaschools/portals/0/school%20district/school%20board/January%2014-08%20Agenda.pdf)<br />
+<img src="{{ site.baseurl }}/uploads/2008/magnifier-thumb-16x16.jpg" alt="magnifier.jpg" width="16" height="16" style="float: left; " class="mt-image-left" />[Okaloosa - Okaloosa County School District](http://www.okaloosaschools.com/) - [School Board](http://www.okaloosaschools.com/OkaloosaSchools/Default.aspx?tabid=148) - [Board Agenda and Minutes](http://www.okaloosaschools.com/OkaloosaSchools/Default.aspx?tabid=270) - [Latest Agenda 01-14-2008](http://www.okaloosaschools.com/okaloosaschools/portals/0/school%20district/school%20board/January%2014-08%20Agenda.pdf)<br />
 </div>
 
 
 > **School Board**
 > 
-> <img src="/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />[Cindy Frakes](mailto:cfrakes@gnt.net) - [More Info](http://www.okaloosaschools.com/OkaloosaSchools/Default.aspx?tabid=201)<br />
+> <img src="{{ site.baseurl }}/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />[Cindy Frakes](mailto:cfrakes@gnt.net) - [More Info](http://www.okaloosaschools.com/OkaloosaSchools/Default.aspx?tabid=201)<br />
 > 
-> <img src="/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />[Howard Hill](mailto:howard_hill@cox.net) - [More Info](http://www.okaloosaschools.com/OkaloosaSchools/Default.aspx?tabid=202)  <br />
+> <img src="{{ site.baseurl }}/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />[Howard Hill](mailto:howard_hill@cox.net) - [More Info](http://www.okaloosaschools.com/OkaloosaSchools/Default.aspx?tabid=202)  <br />
 > 
-> <img src="/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />[Chuck Kelley](mailto:eppersont@mail.okaloosa.k12.fl.us?subject=ATTN%20-%20Chuck%20Kelley) - [More Info](http://www.okaloosaschools.com/OkaloosaSchools/Default.aspx?tabid=203)  <br />
+> <img src="{{ site.baseurl }}/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />[Chuck Kelley](mailto:eppersont@mail.okaloosa.k12.fl.us?subject=ATTN%20-%20Chuck%20Kelley) - [More Info](http://www.okaloosaschools.com/OkaloosaSchools/Default.aspx?tabid=203)  <br />
 > 
-> <img src="/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" /> [Cathy Thigpen](mailto:caleejo@cox.net) - [More info](http://www.okaloosaschools.com/OkaloosaSchools/Default.aspx?tabid=204) <br />
+> <img src="{{ site.baseurl }}/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" /> [Cathy Thigpen](mailto:caleejo@cox.net) - [More info](http://www.okaloosaschools.com/OkaloosaSchools/Default.aspx?tabid=204) <br />
 > 
-> <img src="/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />[Rodney Walker](mailto:eppersont@mail.okaloosa.k12.fl.us?subject=ATTN - Rodney Walker) - [More Info](http://www.okaloosaschools.com/OkaloosaSchools/Default.aspx?tabid=205)  <br />
+> <img src="{{ site.baseurl }}/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />[Rodney Walker](mailto:eppersont@mail.okaloosa.k12.fl.us?subject=ATTN - Rodney Walker) - [More Info](http://www.okaloosaschools.com/OkaloosaSchools/Default.aspx?tabid=205)  <br />
 > 
 > **Teachers**
 > 
-> <img src="/uploads/2008/thumbs_up-thumb-15x15.png" alt="thumbs_up.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Shawnea Tallman](mailto:tallmans@mail.okaloosa.k12.fl.us ), Science curriculum [specialist](http://www.okaloosa.k12.fl.us/science/)
+> <img src="{{ site.baseurl }}/uploads/2008/thumbs_up-thumb-15x15.png" alt="thumbs_up.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Shawnea Tallman](mailto:tallmans@mail.okaloosa.k12.fl.us ), Science curriculum [specialist](http://www.okaloosa.k12.fl.us/science/)
 > 
-> <img src="/uploads/2008/thumbs_up-thumb-15x15.png" alt="thumbs_up.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Lisa Rogers](mailto:rogersl@mail.okaloosa.k12.fl.us), a Niceville High School biology teacher
+> <img src="{{ site.baseurl }}/uploads/2008/thumbs_up-thumb-15x15.png" alt="thumbs_up.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Lisa Rogers](mailto:rogersl@mail.okaloosa.k12.fl.us), a Niceville High School biology teacher
 > 
 > *********
 > 
@@ -753,25 +753,25 @@ Source: [North Florida weighing in against evolution](http://www.sptimes.com/200
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Okeechobee - The School Board of Okeechobee County](http://www.okee.k12.fl.us/web.nsf) - [School Board](http://www.okee.k12.fl.us/index.html) - Board Agenda and Minutes - Latest Agenda<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Okeechobee - The School Board of Okeechobee County](http://www.okee.k12.fl.us/web.nsf) - [School Board](http://www.okee.k12.fl.us/index.html) - Board Agenda and Minutes - Latest Agenda<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Orange - Orange County Public Schools](http://www.ocps.k12.fl.us/) - [School Board](https://www.ocps.net/sb/Pages/default.aspx) - [Board Agenda and Minutes](https://www.ocps.net/sb/Pages/ArchivedInformation.aspx) - [Latest Agenda 01-08-2008](http://www.boarddocs.com/fla/orcpsfl/Board.nsf/Public?OpenFrameSet)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Orange - Orange County Public Schools](http://www.ocps.k12.fl.us/) - [School Board](https://www.ocps.net/sb/Pages/default.aspx) - [Board Agenda and Minutes](https://www.ocps.net/sb/Pages/ArchivedInformation.aspx) - [Latest Agenda 01-08-2008](http://www.boarddocs.com/fla/orcpsfl/Board.nsf/Public?OpenFrameSet)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Osceola - The School District of Osceola County](http://www.osceola.k12.fl.us/) - [School Board](http://www.osceola.k12.fl.us/Board_members/board_index.htm) - [Board Agenda and Minutes](http://www.osceola.k12.fl.us/board/Board_Meetings.htm) - [Latest Agenda 01-08-2008](http://www.osceola.k12.fl.us/board/PDFOrg/pdfgoeshere/2008-01-08.pdf)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Osceola - The School District of Osceola County](http://www.osceola.k12.fl.us/) - [School Board](http://www.osceola.k12.fl.us/Board_members/board_index.htm) - [Board Agenda and Minutes](http://www.osceola.k12.fl.us/board/Board_Meetings.htm) - [Latest Agenda 01-08-2008](http://www.osceola.k12.fl.us/board/PDFOrg/pdfgoeshere/2008-01-08.pdf)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/magnifier-thumb-16x16.jpg" alt="magnifier.jpg" width="16" height="16" style="float: left; " class="mt-image-left" />[Palm Beach - The School District of Palm Beach County](http://www.palmbeach.k12.fl.us/) - [School Board](http://www.palmbeach.k12.fl.us/publicaffairs/board.htm) - [Board Agenda and Minutes](http://www.palmbeach.k12.fl.us/PublicAffairs/Board%20Mtgs-Workshops.htm) - [Latest Agenda 01-23-2008](http://www.palmbeach.k12.fl.us/agenda/Wednesday,%20January%2023,%202008%20School%20Board%20Meeting/2EAD5A74-D135-472E-8671-229570C91DE2Agenda.htm)<br />
+<img src="{{ site.baseurl }}/uploads/2008/magnifier-thumb-16x16.jpg" alt="magnifier.jpg" width="16" height="16" style="float: left; " class="mt-image-left" />[Palm Beach - The School District of Palm Beach County](http://www.palmbeach.k12.fl.us/) - [School Board](http://www.palmbeach.k12.fl.us/publicaffairs/board.htm) - [Board Agenda and Minutes](http://www.palmbeach.k12.fl.us/PublicAffairs/Board%20Mtgs-Workshops.htm) - [Latest Agenda 01-23-2008](http://www.palmbeach.k12.fl.us/agenda/Wednesday,%20January%2023,%202008%20School%20Board%20Meeting/2EAD5A74-D135-472E-8671-229570C91DE2Agenda.htm)<br />
 </div>
 
 
@@ -788,13 +788,13 @@ Source: [North Florida weighing in against evolution](http://www.sptimes.com/200
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Pasco - Pasco County Schools](http://www.pasco.k12.fl.us/) - [School Board](http://www.pasco.k12.fl.us/school_bd/pages/sch_bd.html) - [Board Agenda and Minutes](http://www.pasco.k12.fl.us/school_bd/pages/schbd_mtgs.html) - [Latest Agenda 01-22-2008]()<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Pasco - Pasco County Schools](http://www.pasco.k12.fl.us/) - [School Board](http://www.pasco.k12.fl.us/school_bd/pages/sch_bd.html) - [Board Agenda and Minutes](http://www.pasco.k12.fl.us/school_bd/pages/schbd_mtgs.html) - [Latest Agenda 01-22-2008]()<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/magnifier-thumb-16x16.jpg" alt="magnifier.jpg" width="16" height="16" style="float: left; " class="mt-image-left" /><img src="/uploads/2008/hot-thumb-15x15.gif" alt="hot.gif" width="15" height="15" style=" float: left;" class="mt-image-left" />[Pinellas - Pinellas County Schools](http://www.pinellas.k12.fl.us/) - [School Board](http://www.pcsb.org/Board/members.html) - [Board Agenda and Minutes](http://www.pcsb.org/Board/minutes.html) - [Latest Agenda 01-15-2008]()<br />
+<img src="{{ site.baseurl }}/uploads/2008/magnifier-thumb-16x16.jpg" alt="magnifier.jpg" width="16" height="16" style="float: left; " class="mt-image-left" /><img src="{{ site.baseurl }}/uploads/2008/hot-thumb-15x15.gif" alt="hot.gif" width="15" height="15" style=" float: left;" class="mt-image-left" />[Pinellas - Pinellas County Schools](http://www.pinellas.k12.fl.us/) - [School Board](http://www.pcsb.org/Board/members.html) - [Board Agenda and Minutes](http://www.pcsb.org/Board/minutes.html) - [Latest Agenda 01-15-2008]()<br />
 </div>
 
 
@@ -802,7 +802,7 @@ Source: [North Florida weighing in against evolution](http://www.sptimes.com/200
 
 
 <div markdown="block">
-<img src="/uploads/2008/hot-thumb-15x15.gif" alt="hot.gif" width="15" height="15" style=" float: left;" class="mt-image-left" />[Polk - Polk County Public Schools](http://www.polk-fl.net/) - [School Board](http://www.polk-fl.net/districtinfo/boardmembers/default.htm) - [Board Agenda and Minutes](http://www.polk-fl.net/districtinfo/boardmembers/meetings.htm) - [Latest Agenda 01-08-2008](http://www.polk-fl.net/districtinfo/boardmembers/meetings/010808/F4529EEC-7890-434F-8929-C6DF401DB429Agenda.pdf)<br />
+<img src="{{ site.baseurl }}/uploads/2008/hot-thumb-15x15.gif" alt="hot.gif" width="15" height="15" style=" float: left;" class="mt-image-left" />[Polk - Polk County Public Schools](http://www.polk-fl.net/) - [School Board](http://www.polk-fl.net/districtinfo/boardmembers/default.htm) - [Board Agenda and Minutes](http://www.polk-fl.net/districtinfo/boardmembers/meetings.htm) - [Latest Agenda 01-08-2008](http://www.polk-fl.net/districtinfo/boardmembers/meetings/010808/F4529EEC-7890-434F-8929-C6DF401DB429Agenda.pdf)<br />
 </div>
 
 
@@ -810,7 +810,7 @@ Source: [North Florida weighing in against evolution](http://www.sptimes.com/200
 
 
 <div markdown="block">
-<img src="/uploads/2008/hot-thumb-15x15.gif" alt="hot.gif" width="15" height="15" style=" float: left;" class="mt-image-left" />[Putnam - Putnam County School District](http://www.putnamschools.org/) - [School Board](http://www.putnamschools.org/board/BoardMembers.html) - [Board Agenda and Minutes](http://www.putnamschools.org/board/BoardMeetings.html) - [Latest Agenda 01-15-2008]()<br />
+<img src="{{ site.baseurl }}/uploads/2008/hot-thumb-15x15.gif" alt="hot.gif" width="15" height="15" style=" float: left;" class="mt-image-left" />[Putnam - Putnam County School District](http://www.putnamschools.org/) - [School Board](http://www.putnamschools.org/board/BoardMembers.html) - [Board Agenda and Minutes](http://www.putnamschools.org/board/BoardMeetings.html) - [Latest Agenda 01-15-2008]()<br />
 </div>
 
 
@@ -830,7 +830,7 @@ Source: [North Florida weighing in against evolution](http://www.sptimes.com/200
 
 
 <div markdown="block">
-<img src="/uploads/2008/hot-thumb-15x15.gif" alt="hot.gif" width="15" height="15" style=" float: left;" class="mt-image-left" />[St. Johns - St. Johns County School District](http://www.stjohns.k12.fl.us/) - [School Board](http://www.stjohns.k12.fl.us/admin/board/) - [Board Agenda and Minutes](http://www.stjohns.k12.fl.us/admin/board/minutes) - [Latest Agenda 01-15-2008](http://www.stjohns.k12.fl.us/admin/board/agenda/agenda%20Jan.pdf) -  ([Resolution not on agenda yet](http://www.stjohns.k12.fl.us/admin/board/briefs))<br />
+<img src="{{ site.baseurl }}/uploads/2008/hot-thumb-15x15.gif" alt="hot.gif" width="15" height="15" style=" float: left;" class="mt-image-left" />[St. Johns - St. Johns County School District](http://www.stjohns.k12.fl.us/) - [School Board](http://www.stjohns.k12.fl.us/admin/board/) - [Board Agenda and Minutes](http://www.stjohns.k12.fl.us/admin/board/minutes) - [Latest Agenda 01-15-2008](http://www.stjohns.k12.fl.us/admin/board/agenda/agenda%20Jan.pdf) -  ([Resolution not on agenda yet](http://www.stjohns.k12.fl.us/admin/board/briefs))<br />
 </div>
 
 
@@ -845,21 +845,21 @@ Source: [North Florida weighing in against evolution](http://www.sptimes.com/200
 
 
 <div markdown="block">
-<img src="/uploads/2008/magnifier-thumb-16x16.jpg" alt="magnifier.jpg" width="16" height="16" style="float: left; " class="mt-image-left" />[St. Lucie - St. Lucie County Public Schools](http://www.stlucie.k12.fl.us/) - [School Board](http://www.stlucie.k12.fl.us/districtPortal.aspx?id=includes/i_boardMembers.html) - [Board Agenda and Minutes](http://plato.stlucie.k12.fl.us/boarddocs/boardmin.nsf) - Latest Agenda
+<img src="{{ site.baseurl }}/uploads/2008/magnifier-thumb-16x16.jpg" alt="magnifier.jpg" width="16" height="16" style="float: left; " class="mt-image-left" />[St. Lucie - St. Lucie County Public Schools](http://www.stlucie.k12.fl.us/) - [School Board](http://www.stlucie.k12.fl.us/districtPortal.aspx?id=includes/i_boardMembers.html) - [Board Agenda and Minutes](http://plato.stlucie.k12.fl.us/boarddocs/boardmin.nsf) - Latest Agenda
 </div>
 
 
 > **School Board Members**
 > 
-> <img src="/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Dr. John Carvelli]( mailto:CarvelliJ@stlucie.k12.fl.us ) Pro-Intelligent Design Creationism<br />
+> <img src="{{ site.baseurl }}/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Dr. John Carvelli]( mailto:CarvelliJ@stlucie.k12.fl.us ) Pro-Intelligent Design Creationism<br />
 > 
-> <img src="/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Ms. Carol A. Hilson Chairman](mailto:HilsonC@stlucie.k12.fl.us ) Pro-Intelligent Design Creationism Term expires November, 2008<br />
+> <img src="{{ site.baseurl }}/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Ms. Carol A. Hilson Chairman](mailto:HilsonC@stlucie.k12.fl.us ) Pro-Intelligent Design Creationism Term expires November, 2008<br />
 > 
-> <img src="/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />Troy Ingersoll Unknown<br />
+> <img src="{{ site.baseurl }}/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />Troy Ingersoll Unknown<br />
 > 
-> <img src="/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />[Dr. Judi Miller](mailto:MillerJ@stlucie.k12.fl.us )  Refused Comments<br />
+> <img src="{{ site.baseurl }}/uploads/2008/question-thumb-15x14.jpg" alt="question.jpg" width="15" height="14" style="float: left; " class="mt-image-left" />[Dr. Judi Miller](mailto:MillerJ@stlucie.k12.fl.us )  Refused Comments<br />
 > 
-> <img src="/uploads/2008/thumbs_up-thumb-15x15.png" alt="thumbs_up.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Mrs. Kathryn Hensley](mailto:HensleyK@stlucie.k12.fl.us)  Pro-Science<br />
+> <img src="{{ site.baseurl }}/uploads/2008/thumbs_up-thumb-15x15.png" alt="thumbs_up.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Mrs. Kathryn Hensley](mailto:HensleyK@stlucie.k12.fl.us)  Pro-Science<br />
 > 
 > 
 > *********
@@ -902,53 +902,53 @@ Source: [North Florida weighing in against evolution](http://www.sptimes.com/200
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Santa Rosa - Santa Rosa County School District](http://www.santarosa.k12.fl.us/) - [School Board](http://www.santarosa.k12.fl.us/schlbrd/) - [Board Agenda and Minutes](http://www.santarosa.k12.fl.us/schlbrd/meetings.htm) - [Latest Agenda 01-17-2008](http://www.santarosa.k12.fl.us/schlbrd/agendas/2008%20files/011708agenda.htm)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Santa Rosa - Santa Rosa County School District](http://www.santarosa.k12.fl.us/) - [School Board](http://www.santarosa.k12.fl.us/schlbrd/) - [Board Agenda and Minutes](http://www.santarosa.k12.fl.us/schlbrd/meetings.htm) - [Latest Agenda 01-17-2008](http://www.santarosa.k12.fl.us/schlbrd/agendas/2008%20files/011708agenda.htm)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Sarasota - Sarasota County Public Schools](http://www.sarasota.k12.fl.us/) - [School Board](http://www.sarasota.k12.fl.us/schoolboard/) - [Board Agenda and Minutes](http://www.sarasota.k12.fl.us/Agenda/Minutes/minutes1.htm) - [Latest Agenda 01-08-2008](http://www.sarasota.k12.fl.us/Agenda/agenda.htm)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Sarasota - Sarasota County Public Schools](http://www.sarasota.k12.fl.us/) - [School Board](http://www.sarasota.k12.fl.us/schoolboard/) - [Board Agenda and Minutes](http://www.sarasota.k12.fl.us/Agenda/Minutes/minutes1.htm) - [Latest Agenda 01-08-2008](http://www.sarasota.k12.fl.us/Agenda/agenda.htm)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Seminole - Seminole County Public Schools](http://www.scps.k12.fl.us/) - [School Board](http://www.scps.k12.fl.us/schoolboard/newagenda.cfm) - [Board Agenda and Minutes](http://www.scps.k12.fl.us/schoolboard/CY2008.cfm) - [Latest Agenda 01-22-2008](http://www.scps.k12.fl.us/schoolboard/_doc/2008meetings/12208/agenda.PDF)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Seminole - Seminole County Public Schools](http://www.scps.k12.fl.us/) - [School Board](http://www.scps.k12.fl.us/schoolboard/newagenda.cfm) - [Board Agenda and Minutes](http://www.scps.k12.fl.us/schoolboard/CY2008.cfm) - [Latest Agenda 01-22-2008](http://www.scps.k12.fl.us/schoolboard/_doc/2008meetings/12208/agenda.PDF)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Sumter - Sumter County School Board](http://www.sumter.k12.fl.us/) - [School Board](http://www.sumter.k12.fl.us/School%20Board/Board%20Info/Board%20members.htm) - Board Agenda and Minutes - Latest Agenda<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Sumter - Sumter County School Board](http://www.sumter.k12.fl.us/) - [School Board](http://www.sumter.k12.fl.us/School%20Board/Board%20Info/Board%20members.htm) - Board Agenda and Minutes - Latest Agenda<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Suwannee - Suwannee County Schools](http://www.suwannee.k12.fl.us/) - [School Board](http://www.suwannee.k12.fl.us/district/BoardInfo) - [Board Agenda and Minutes](http://www.suwannee.k12.fl.us/district/boardmeeting/) - [Latest Agenda 01-22-2008](http://www.suwannee.k12.fl.us/district/boardmeeting/I01AA0EBC.0/2008%200122.doc)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Suwannee - Suwannee County Schools](http://www.suwannee.k12.fl.us/) - [School Board](http://www.suwannee.k12.fl.us/district/BoardInfo) - [Board Agenda and Minutes](http://www.suwannee.k12.fl.us/district/boardmeeting/) - [Latest Agenda 01-22-2008](http://www.suwannee.k12.fl.us/district/boardmeeting/I01AA0EBC.0/2008%200122.doc)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/red-bullet.jpg" alt="red-bullet.jpg" width="14" height="14" style="float: left; " class="mt-image-left" /> [Taylor - Taylor County School District](http://www.taylor.k12.fl.us/) - [School Board](http://www.taylor.k12.fl.us/district/contacts.aspx) - [Board Agenda and Minutes](http://www.taylor.k12.fl.us/district/board.meetings/) - [Latest Agenda 01-22-2008 (not available yet)](http://www.taylor.k12.fl.us/district/board.meetings/)<br />
+<img src="{{ site.baseurl }}/uploads/2008/red-bullet.jpg" alt="red-bullet.jpg" width="14" height="14" style="float: left; " class="mt-image-left" /> [Taylor - Taylor County School District](http://www.taylor.k12.fl.us/) - [School Board](http://www.taylor.k12.fl.us/district/contacts.aspx) - [Board Agenda and Minutes](http://www.taylor.k12.fl.us/district/board.meetings/) - [Latest Agenda 01-22-2008 (not available yet)](http://www.taylor.k12.fl.us/district/board.meetings/)<br />
 </div>
 
 
 > **[School Board](http://www.taylor.k12.fl.us/district/contacts.aspx)**<br />
 > 
-> <img src="/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Mark Southerland](mailto:mark.southerland@taylor.k12.fl.us)<br />
+> <img src="{{ site.baseurl }}/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Mark Southerland](mailto:mark.southerland@taylor.k12.fl.us)<br />
 > 
-> <img src="/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Brenda Carlton](mailto:brenda.carlton@taylor.k12.fl.us)<br />
+> <img src="{{ site.baseurl }}/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Brenda Carlton](mailto:brenda.carlton@taylor.k12.fl.us)<br />
 > 
-> <img src="/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Darrell Whiddon](mailto:darrell.whiddon@taylor.k12.fl.us)<br />
+> <img src="{{ site.baseurl }}/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Darrell Whiddon](mailto:darrell.whiddon@taylor.k12.fl.us)<br />
 > 
-> <img src="/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Danny Lundy](http://www.taylor.k12.fl.us/district/contacts.aspx)<br />
+> <img src="{{ site.baseurl }}/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Danny Lundy](http://www.taylor.k12.fl.us/district/contacts.aspx)<br />
 > 
-> <img src="/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Kenneth Dennis](http://www.taylor.k12.fl.us/district/contacts.aspx)<br />
+> <img src="{{ site.baseurl }}/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Kenneth Dennis](http://www.taylor.k12.fl.us/district/contacts.aspx)<br />
 > 
-> <img src="/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Oscar M. Howard](mailto:oscar.howard@taylor.k12.fl.us) Superintendent of Schools
+> <img src="{{ site.baseurl }}/uploads/2008/thumbs_down-thumb-15x15.png" alt="thumbs_down.png" width="15" height="15" style="float: left;" class="mt-image-left" />[Oscar M. Howard](mailto:oscar.howard@taylor.k12.fl.us) Superintendent of Schools
 > 
 > > Superintendent Oscar Howard of Taylor County, a Panhandle district with about 3,300 students, has spoken against teaching just evolution, arguing that evolution has not been proven.
 > 
@@ -957,19 +957,19 @@ Source: [North Florida weighing in against evolution](http://www.sptimes.com/200
 
 
 <div markdown="block">
-<img src="/uploads/2008/red-bullet.jpg" alt="red-bullet.jpg" width="14" height="14" style="float: left; " class="mt-image-left" />[Union - Union County School Board](http://www.union.k12.fl.us/indexmain.htm) - [School Board](http://www.union.k12.fl.us/schoolboard/membersoftheboard.htm) - [Board Agenda and Minutes](http://www.union.k12.fl.us/schoolboard/ucsbmeetingagenda.htm) - [Latest Agenda 01-22-2008](http://www.union.k12.fl.us/schoolboard/1-22-08%20School%20Board%20Meeting%20Agenda.doc)<br />
+<img src="{{ site.baseurl }}/uploads/2008/red-bullet.jpg" alt="red-bullet.jpg" width="14" height="14" style="float: left; " class="mt-image-left" />[Union - Union County School Board](http://www.union.k12.fl.us/indexmain.htm) - [School Board](http://www.union.k12.fl.us/schoolboard/membersoftheboard.htm) - [Board Agenda and Minutes](http://www.union.k12.fl.us/schoolboard/ucsbmeetingagenda.htm) - [Latest Agenda 01-22-2008](http://www.union.k12.fl.us/schoolboard/1-22-08%20School%20Board%20Meeting%20Agenda.doc)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Volusia - Volusia County Schools](http://www.volusia.k12.fl.us/) - [School Board](http://www.volusia.k12.fl.us/sbmembers.htm) - [Board Agenda and Minutes](http://www.volusia.k12.fl.us/sbagenda.htm) - [Latest Agenda 01-15-2008](http://www.volusia.k12.fl.us/external/080115Agenda.pdf)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Volusia - Volusia County Schools](http://www.volusia.k12.fl.us/) - [School Board](http://www.volusia.k12.fl.us/sbmembers.htm) - [Board Agenda and Minutes](http://www.volusia.k12.fl.us/sbagenda.htm) - [Latest Agenda 01-15-2008](http://www.volusia.k12.fl.us/external/080115Agenda.pdf)<br />
 </div>
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/magnifier-thumb-16x16.jpg" alt="magnifier.jpg" width="16" height="16" style="float: left; " class="mt-image-left" />[Wakulla - Wakulla County Schools](http://wakulla.fl.schoolwebpages.com/education/district/district.php?sectionid=1) - [School Board](http://wakulla.fl.schoolwebpages.com/education/components/scrapbook/default.php?sectiondetailid=833&amp;sc_id=1200250316) - [Board Agenda and Minutes](http://wakulla.fl.schoolwebpages.com/education/components/scrapbook/default.php?sectiondetailid=841&amp;sc_id=1200250329) - [Latest Agenda 01-22-2008 (not available yet)]()<br />
+<img src="{{ site.baseurl }}/uploads/2008/magnifier-thumb-16x16.jpg" alt="magnifier.jpg" width="16" height="16" style="float: left; " class="mt-image-left" />[Wakulla - Wakulla County Schools](http://wakulla.fl.schoolwebpages.com/education/district/district.php?sectionid=1) - [School Board](http://wakulla.fl.schoolwebpages.com/education/components/scrapbook/default.php?sectiondetailid=833&amp;sc_id=1200250316) - [Board Agenda and Minutes](http://wakulla.fl.schoolwebpages.com/education/components/scrapbook/default.php?sectiondetailid=841&amp;sc_id=1200250329) - [Latest Agenda 01-22-2008 (not available yet)]()<br />
 </div>
 
 
@@ -977,12 +977,12 @@ Source: [North Florida weighing in against evolution](http://www.sptimes.com/200
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Walton - Walton County School District](http://www.walton.k12.fl.us/) - [School Board](http://www.walton.k12.fl.us/Board/memberslp.htm) - [Board Agenda and Minutes](http://www.walton.k12.fl.us/suptweb/) - [Latest Agenda 01-15-2008](http://www.walton.k12.fl.us/suptweb/agendas/Agendas%202008/01152008%20REGULAR%20MEETING.pdf)<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Walton - Walton County School District](http://www.walton.k12.fl.us/) - [School Board](http://www.walton.k12.fl.us/Board/memberslp.htm) - [Board Agenda and Minutes](http://www.walton.k12.fl.us/suptweb/) - [Latest Agenda 01-15-2008](http://www.walton.k12.fl.us/suptweb/agendas/Agendas%202008/01152008%20REGULAR%20MEETING.pdf)<br />
 </div>
 
 
 
 
 <div markdown="block">
-<img src="/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Washington - Washinton County School District](http://www.paec.org/wcsb/) - [School Board](http://www.paec.org/wcsb/) - [Board Agenda and Minutes](http://www.paec.org/wcsb/educational_links.htm) - Latest Agenda<br />
+<img src="{{ site.baseurl }}/uploads/2008/yellow-bullet-thumb-15x15.jpg" alt="yellow-bullet.jpg" width="15" height="15" style="float: left; " class="mt-image-left" />[Washington - Washinton County School District](http://www.paec.org/wcsb/) - [School Board](http://www.paec.org/wcsb/) - [Board Agenda and Minutes](http://www.paec.org/wcsb/educational_links.htm) - Latest Agenda<br />
 </div>

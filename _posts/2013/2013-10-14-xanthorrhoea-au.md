@@ -13,7 +13,7 @@ Photograph by **Paul Blake**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2013/Blake.Grass_Tree.jpg" alt="Blake.Grass_Tree.jpg" width="600" height="450" />
+<img src="{{ site.baseurl }}/uploads/2013/Blake.Grass_Tree.jpg" alt="Blake.Grass_Tree.jpg" width="600" height="450" />
 <figcaption markdown="span">
 <big>[_Xanthorrhoea australis_](http://en.wikipedia.org/wiki/Xanthorrhoea) -- grass tree, Mount Michel (looking toward Mount Cordeaux), Great Dividing Range, southwest of Brisbane, Queensland, Australia.</big>
 

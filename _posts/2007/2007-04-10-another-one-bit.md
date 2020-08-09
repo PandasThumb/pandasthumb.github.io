@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2948
 basename: another_one_bit
 ---
-<img src="/uploads/2007/200px-Another_one_bites_the_dust.jpg" alt="200px-Another_one_bites_the_dust.jpg" width="200" height="199" style="float:left;" />
+<img src="{{ site.baseurl }}/uploads/2007/200px-Another_one_bites_the_dust.jpg" alt="200px-Another_one_bites_the_dust.jpg" width="200" height="199" style="float:left;" />
 
 Two weeks ago, I [demonstrated](http://dererumnatura.us/archives/2007/03/the_addiction_o.html) to [Dr. Michael Egnor](http://scienceblogs.com/clock/2007/03/michael_egnor_who.php) that his knowledge of early molecular genetics was severely flawed.  He [responded](http://www.evolutionnews.org/2007/04/pseudodarwinism.html) yesterday, calling me a "pseudo-Darwinist" because those experiments involved, according to him, "designed" variation and "artificial" selection, not random "undesigned" variation and "natural" selection.
 

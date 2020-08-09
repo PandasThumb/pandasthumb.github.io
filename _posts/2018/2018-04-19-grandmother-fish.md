@@ -7,13 +7,13 @@ author: Matt Young
 Once upon a time (now, in fact), there lived a man named Jonathan Tweet. Mr. Tweet was a professional game designer. Even though they lived many years apart, Mr. Tweet was also a good friend of Charles Darwin. Mr. Tweet was jealous of Mr. Darwin's wonderful beard,
 
 <figure>
-<img src="/uploads/2018/Tweet_1_600.jpg" alt=" Tweet and Darwin"/>
+<img src="{{ site.baseurl }}/uploads/2018/Tweet_1_600.jpg" alt=" Tweet and Darwin"/>
 </figure>
 
 but he especially admired Mr. Darwin for explaining why there are so many different kinds of plants and animals. Mr. Tweet thought that Mr. Darwin's explanation was so important that he decided to write a book, <a href="http://www.grandmotherfish.com/about/">Grandmother Fish</a>,
 
 <figure>
-<img src="/uploads/2018/Grandmother_Fish_Cover_600.jpg" alt="Grandmother Fish cover"/>
+<img src="{{ site.baseurl }}/uploads/2018/Grandmother_Fish_Cover_600.jpg" alt="Grandmother Fish cover"/>
 </figure>
 
 to explain Mr. Darwin's theory to children like you. Mr. Tweet enlisted Karen Lewis, another friend of Mr. Darwin, to illustrate his book. Ms. Lewis does not have a beard and is not jealous of Mr. Darwin.
@@ -26,7 +26,7 @@ To make sure he got the explanation exactly right, Mr. Tweet enlisted the help o
 Mr. Darwin was a naturalist – someone who observes the world around him very closely – and he concluded that a certain fish, which Mr. Tweet calls Grandmother Fish, had many, many, many great-great-great-great-etc.-grandchildren. These great-great-great-great-etc.-grandchildren differed so much from one another and also from their great-great-great-great-etc.-grandmother that today we consider them different kinds of fish.
 
 <figure>
-<img src="/uploads/2018/Fish_Grandchildren_600.jpg" alt="Fish phylogeny"/>
+<img src="{{ site.baseurl }}/uploads/2018/Fish_Grandchildren_600.jpg" alt="Fish phylogeny"/>
 </figure>
 
 Some of the great-great-great-great-etc.-grandchildren  differed so much from the other great-great-great-great-etc.-grandchildren  that we do not think of them as fish at all. Can you find the reptile in the figure? That Grandmother Reptile is the great-great-great-great-etc.-grandmother of many, many, many great-great-great-great-etc.-grandchildren who differ so much from each other that we consider them different kinds of reptile.
@@ -36,7 +36,7 @@ One of the many great-great-great-great-etc.-grandchildren of Grandmother Reptil
 While Mr. Tweet was researching <i>Grandmother Fish</i>, he learned about <i>clades</i>. A clade is a group of plants or animals that have the same Grandmother. To help you understand about clades, Mr. Tweet enlisted his friend, Ms. Lewis, to illustrate two <a href="https://www.youtube.com/watch?v=W004EOoW0Y4">card games</a> he developed, <a href="http://www.grandmotherfish.com/clades/">Clades, the Evolutionary Card Game</a>, and Clades: Prehistoric. 
 
 <figure>
-<img src="/uploads/2018/Clades_Game_600.jpg" alt="Clades game"/>
+<img src="{{ site.baseurl }}/uploads/2018/Clades_Game_600.jpg" alt="Clades game"/>
 </figure>
 
 &nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-<br/>

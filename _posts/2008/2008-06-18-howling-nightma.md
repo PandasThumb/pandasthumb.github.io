@@ -10,7 +10,7 @@ basename: howling_nightma
 ---
 Three years ago I [mentioned](http://dererumnatura.us/archives/2005/03/spore.html) that the creator of the Sims was working on a new game-of-life called [Spore](http://en.wikipedia.org/wiki/Spore_(video_game)).  It now looks to be nearly done and they've offered an early showing of their "creature creator" to [celebrities and choice bloggers](http://sporevote.com) to help advertise their game.   Although inspired by the science of evolution, the developers have taken plenty of artistic liberties with the concept to make this game.  Don't expect Spore to be anything like Avida anytime soon.
 
-<img src="/uploads/2008/sporemore.jpg" alt="sporemore.png" width="500" height="500" />
+<img src="{{ site.baseurl }}/uploads/2008/sporemore.jpg" alt="sporemore.png" width="500" height="500" />
 
 While I tried to make a [Prof. Steve Steve](http://prof.stevesteve.org/) inspired creature, it didn't work too well.  Instead I opted on creating a "Howling Nightmare".  This is the creature's description:
 

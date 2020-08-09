@@ -11,7 +11,7 @@ basename: photography_con_24
 <p>Polish your lenses, oil your tripods, search your archives -- the seventh Panda's Thumb photography contest, begins -- now!</p>
 
 <figure>
-<img src="/uploads/2015/IMG_4391_PolaroidCam_600.JPG" alt="IMG_4391_PolaroidCam_600.JPG" width="600" height="494" />
+<img src="{{ site.baseurl }}/uploads/2015/IMG_4391_PolaroidCam_600.JPG" alt="IMG_4391_PolaroidCam_600.JPG" width="600" height="494" />
 <figcaption markdown="span">
 <big>[Polaroid Land Camera](http://en.wikipedia.org/wiki/Land_Camera), Model 160, 1962-1965.</big> Apologies for the [moir&eacute;](https://support.nikonusa.com/app/answers/detail/a_id/9544/~/what-is-moir%C3%A9%3F) pattern on the face of camera!
 

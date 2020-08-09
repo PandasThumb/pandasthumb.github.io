@@ -10,7 +10,7 @@ blog_id: 2
 post_id: 6447
 basename: selective_bird
 ---
-[<img src="/uploads/2012/wikipedia_peppered_moths-thumb-800x536-937.jpg" alt="wikipedia_peppered_moths.jpg" width="250" height="168" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/assets_c/2012/02/wikipedia_peppered_moths-937.html)Today a paper came out that should get special attention from evolutionary biologists, evolution educators, and creationism fighters.  It is:
+[<img src="{{ site.baseurl }}/uploads/2012/wikipedia_peppered_moths-thumb-800x536-937.jpg" alt="wikipedia_peppered_moths.jpg" width="250" height="168" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/assets_c/2012/02/wikipedia_peppered_moths-937.html)Today a paper came out that should get special attention from evolutionary biologists, evolution educators, and creationism fighters.  It is:
 
 > Cook, L. M.; Grant, B. S.; Saccheri, I. J.; Mallet, J. (2012). "[Selective bird predation on the peppered moth: the last experiment of Michael Majerus](http://dx.doi.org/10.1098/rsbl.2011.1136)." _Biology Letters_, Published online before print February 8, 2012. doi: [http://dx.doi.org/10.1098/rsbl.2011.1136](http://dx.doi.org/10.1098/rsbl.2011.1136). [Abstract at Journal](http://rsbl.royalsocietypublishing.org/content/early/2012/01/27/rsbl.2011.1136.abstract), [Supplementary Online Material](http://rsbl.royalsocietypublishing.org/content/early/2012/01/27/rsbl.2011.1136/suppl/DC1).
 > 

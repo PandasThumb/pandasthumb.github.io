@@ -30,7 +30,7 @@ A population is considered to be in Hardy-Weinberg equilibrium if the allele and
 
 
 <figure>
-<img src="/uploads/2005/evomath1_chart2.png" alt="evomath1_chart2.png" width="330" height="214" />
+<img src="{{ site.baseurl }}/uploads/2005/evomath1_chart2.png" alt="evomath1_chart2.png" width="330" height="214" />
 <figcaption markdown="span">
 
 </figcaption>

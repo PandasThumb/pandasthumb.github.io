@@ -7,7 +7,7 @@ Over at Peaceful Science, Josh Swamidass <a href="https://discourse.peacefulscie
 two studies that inferred genealogical trees for the SARS-CoV2 virus using molecular phylogeny methods.  Here is an image
 of one of them, inferred 3 weeks ago by Andrew Rambaut, a major researcher in molecular evolution of viruses:
 <figure>
-<img src="/uploads/2020/RambautScreenshot.png" />
+<img src="{{ site.baseurl }}/uploads/2020/RambautScreenshot.png" />
 </figure>
 (This is a screenshot -- the Rambaut article with its interactive figures <a href="http://virological.org/t/phylodynamic-analysis-176-genomes-6-mar-2020/356"><strong>can be found here</strong></a>).
 <!--more-->

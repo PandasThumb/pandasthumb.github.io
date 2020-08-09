@@ -17,7 +17,7 @@ This post announces the third Panda's Thumb photography contest,
 The winners will receive a great deal of satisfaction and a copy of the book [The Way of the Panda](http://www.amazon.com/Way-Panda-Henry-Nicholls/dp/1846683688), courtesy of the publisher.
 
 <figure>
-<img src="/uploads/2011/WayPandaCover_600.jpg" alt="WayPandaCover_600.jpg" width="600" height="893" />
+<img src="{{ site.baseurl }}/uploads/2011/WayPandaCover_600.jpg" alt="WayPandaCover_600.jpg" width="600" height="893" />
 <figcaption markdown="span">
 
 </figcaption>

@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 6359
 basename: bill_5_what_dar
 ---
-<img src="/uploads/2011/Bill&Ted2Crop.jpg" alt="Bill&amp;amp;Ted2Crop.jpg" width="196" height="221" style="float: right; margin: 0 0 20px 20px;" class="mt-image-right" />
+<img src="{{ site.baseurl }}/uploads/2011/Bill&Ted2Crop.jpg" alt="Bill&amp;amp;Ted2Crop.jpg" width="196" height="221" style="float: right; margin: 0 0 20px 20px;" class="mt-image-right" />
 
 The fifth [BILL](http://pandasthumb.org/archives/2011/07/they-have-ted-w.html) is a lively and entertaining look into modern research in evolutionary biology, presented by Hopi Hoekstra of Harvard University. [Professor Hoekstra's lab](http://www.oeb.harvard.edu/faculty/hoekstra/index.html) explores evolutionary mechanisms at multiple levels, moving seamlessly between the field (more precisely, the beach) and the lab.
 

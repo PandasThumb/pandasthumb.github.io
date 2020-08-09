@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3375
 basename: science_versus_2
 ---
-[<img src="/uploads/2007/flunked-thumb-100x31.jpg" alt="flunked.jpg" width="100" height="31" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/flunked11.html)On Evolution News Luskin claims, quoting Behe, that the number to establish probabilities of fixation of a mutation is not a calculation but rather statistical data:
+[<img src="{{ site.baseurl }}/uploads/2007/flunked-thumb-100x31.jpg" alt="flunked.jpg" width="100" height="31" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/flunked11.html)On Evolution News Luskin claims, quoting Behe, that the number to establish probabilities of fixation of a mutation is not a calculation but rather statistical data:
 
 > The number of one in 10<sup>20</sup> is not a probability calculation. Rather, it is statistical data.
 

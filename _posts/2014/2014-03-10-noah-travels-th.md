@@ -9,7 +9,7 @@ post_id: 6921
 basename: noah_travels_th
 ---
 <figure>
-<img src="/uploads/2014/NoahTimeTravel.jpg" alt="NoahTimeTravel.jpg" width="600" height="332" />
+<img src="{{ site.baseurl }}/uploads/2014/NoahTimeTravel.jpg" alt="NoahTimeTravel.jpg" width="600" height="332" />
 <figcaption markdown="span">
 www.arkencounter.org
 

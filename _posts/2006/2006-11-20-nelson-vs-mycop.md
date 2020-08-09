@@ -36,7 +36,7 @@ This is an object lesson in reading research papers carefully.
 
 Another aspect Nelson keeps on misrepresenting is the numbers of ORFans. As we sample more genomes, the numbers of ORFans rise. **But**, because we are finding many more known genes, and finding relatives for genes that were previously ORFans, the percentage of ORFans is decreasing. The figure below (Taken from Siew et al., 2003) shows this. The dots represent the number of protein coding genes that we are finding, the sold line is the number of ORFans we are finding, and the dashed line is the percentage of ORFans we have found. 
 
-[<img src="/uploads/2006/ORFan_figure-thumb.jpg" alt="ORFan_figure.jpg" width="366" height="264" />](/uploads/2006/ORFan_figure.jpg)
+[<img src="{{ site.baseurl }}/uploads/2006/ORFan_figure-thumb.jpg" alt="ORFan_figure.jpg" width="366" height="264" />](/uploads/2006/ORFan_figure.jpg)
 
 Clearly, as time goes on, we are finding more and more relatives for the ORFans (in 2003, the number of protein coding ORFans was around 5%#, by 2005 (Wilson et al 2005), it was down to 1.2%. Unfortunately for Nelson, we are finding the alleged "missing parents" of the ORFans+. And this is with only a fractionally minute sampling of the diversity of microbial life (we have sampled only 0.02% of all bacterial genomes, and we are biased towards a subset of human pathogens at that). 
 

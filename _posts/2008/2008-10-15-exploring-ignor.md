@@ -52,7 +52,7 @@ In fact, this in what other authors, who found similar two stage expressions in 
 > The results indicate that a second, distal phase of Hoxd gene expression is not uniquely associated with tetrapod digit development, but is more likely a plesiomorphic condition present the common ancestor of chondrichthyans and osteichthyans. We propose that a temporal extension, rather than de novo activation, of Hoxd expression in the distal part of the fin may have led to the evolution of digits.
 
 Renata Freitas, GuangJun Zhang, Martin J. Cohn **Biphasic Hoxd Gene Expression in Shark Paired Fins Reveals an Ancient Origin of the Distal Limb Domain**, PLoS ONE 2(8): e754. 2007
-<img src="/uploads/2008/limb_evo_med.PNG" alt="limb_evo_med.PNG" width="499" height="420" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2008/limb_evo_med.PNG" alt="limb_evo_med.PNG" width="499" height="420" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 *********
 

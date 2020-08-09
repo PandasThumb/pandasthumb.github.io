@@ -17,7 +17,7 @@ It has been over 30 years since the suggestion that horizontal gene transfer (HG
 As an example for how profound the notion of HGT has changed our thinking concerns the notion of the last universal common ancestor (LUCA).  This is an idea that was central to the hypothesis that life shared common ancestors.  Though the idea of common ancestry remains valid (indeed evidence for common ancestry is everywhere in the sequence of our genes) there is no longer a need to postulate that all life evolved from a single last universal common ancestor.  Rather, we can entertain common descent from multiple ancestors.
 
 <figure>
-<img src="/uploads/2005/luca.png" alt="luca" width="388" height="546" />
+<img src="{{ site.baseurl }}/uploads/2005/luca.png" alt="luca" width="388" height="546" />
 <figcaption markdown="span">
 **Figure 1** Universal tree of life and two alternatives.
 

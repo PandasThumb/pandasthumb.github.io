@@ -6,7 +6,7 @@ author: Matt Young
 
 
 <figure>
-<img src="/uploads/2019/IMG_3327_Widow_Skimmer_Dragonfly_600.jpg" alt="Widow skimmer dragonfly"/>
+<img src="{{ site.baseurl }}/uploads/2019/IMG_3327_Widow_Skimmer_Dragonfly_600.jpg" alt="Widow skimmer dragonfly"/>
 <figcaption><a href="https://www.insectidentification.org/insect-description.asp?identification=Widow-Skimmer">Libellula luctuosa</a> &ndash; widow skimmer dragonfly, August, 2019, Wonderland Lake, Boulder, Colorado. 
 </figcaption>
 </figure>

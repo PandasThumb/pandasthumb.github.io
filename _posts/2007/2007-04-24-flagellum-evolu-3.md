@@ -26,7 +26,7 @@ Along with alignments, BLAST produces an **e-value** statistic, which is a bette
 
 Recall Liu & Ochman's Figure 3:
 
-<img src="/uploads/2007/Liu_Ochman_fig3.jpg" alt="" style="" />
+<img src="{{ site.baseurl }}/uploads/2007/Liu_Ochman_fig3.jpg" alt="" style="" />
 
 The lines represent alignments that are significant according to an e-value cutoff of e = 0.0001 or less.  The numbers represent the number of genomes (out of 41) where the homology connection was reported.  The blue lines represent the matches found specifically in the _E. coli_ K12 genome.  According to Figure 3, FliC is homologous to FliD (cap protein), FlgD (rod), FlgE (rod), FlgK (adapter between hook and FlgL), and FlgL (adapter between FlgK and FliC).  Homology between FliC and FlgL seems to be [well-accepted](http://expasy.org/cgi-bin/get-similar?name=bacterial%20flagellin%20family) and [retrievable with PSI-BLAST](/archives/2006/09/flagellum-evolu.html) (a search more sensitive than regular protein BLAST), but the others are novel, or at least it is novel to claim that a simple BLAST search can detect them with decent significance.
 

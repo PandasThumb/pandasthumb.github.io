@@ -5,7 +5,7 @@ author: Matt Young
 ---
 
 <figure>
-<img src="/uploads/2020/Coronavirus_CDC_600_2.jpg" alt="Coronavirus"/>
+<img src="{{ site.baseurl }}/uploads/2020/Coronavirus_CDC_600_2.jpg" alt="Coronavirus"/>
 <figcaption><small>Credit: Public Health Image Library.</small>
 </figcaption>
 </figure>

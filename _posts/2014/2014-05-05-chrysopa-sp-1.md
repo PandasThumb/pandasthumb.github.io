@@ -13,7 +13,7 @@ Photograph by **Adrian Thysse**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2014/Thysse.Green%20Lace%20wing(Chrysopa%20sp.).jpg" alt="Thysse.Green Lace wing(Chrysopa sp.).jpg" width="600" height="402" />
+<img src="{{ site.baseurl }}/uploads/2014/Thysse.Green%20Lace%20wing(Chrysopa%20sp.).jpg" alt="Thysse.Green Lace wing(Chrysopa sp.).jpg" width="600" height="402" />
 <figcaption markdown="span">
 <big>[_Chrysopa_ sp.](http://bugguide.net/node/view/127277) -- green lacewing.</big>
 

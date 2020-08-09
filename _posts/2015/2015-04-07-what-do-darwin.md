@@ -15,7 +15,7 @@ In his keynote address at the inaugural meeting of the International Society for
 [Antimicrobial resistance](http://en.wikipedia.org/wiki/Antimicrobial_resistance) occurs when bacteria, viruses, and other infection-causing microorganisms evolve and develop mutations that enable them to resist drug therapies. Drug-resistant bacteria alone affect over two million Americans each year, according to the CDC. The process of microbial evolution follows the guiding principles of natural selection, so scientists can use their knowledge of evolution to understand how microbes attain resistance and perhaps even prevent it. For example, the current methods of treating bacterial infections target a mechanism of mutation called [_de novo_ mutation](http://en.wikipedia.org/wiki/De_novo), but scientists have learned that antibiotic resistance mostly develops from a different method called [horizontal gene transfer](http://en.wikipedia.org/wiki/Horizontal_gene_transfer) ([Sterns, 2012](http://rspb.royalsocietypublishing.org/content/early/2012/08/27/rspb.2012.1326#ref-118)), which suggests that we may need new therapies for bacterial infection. 
 
 <figure>
-<img src="/uploads/2015/tuberculosis.jpg" alt="" width="400" height="400" style="float:right;" />
+<img src="{{ site.baseurl }}/uploads/2015/tuberculosis.jpg" alt="" width="400" height="400" style="float:right;" />
 <figcaption markdown="span">
 Bacteria, like the mycobacteria above that cause tuberculosis, develop drug resistances by evolving and mutating under the influence of natural selection, just like all other organisms.
 Image source: CDC

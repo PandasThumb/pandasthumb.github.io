@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 6277
 basename: off_the_grid_di
 ---
-<img src="/uploads/2011/discover_evol.jpg.jpg" alt="discover_evol.jpg" width="250" height="307" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
+<img src="{{ site.baseurl }}/uploads/2011/discover_evol.jpg.jpg" alt="discover_evol.jpg" width="250" height="307" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
 
 I noticed this while picking up a few items at the local market.  It retails at $7.99, and has no commercials, other than a couple of pleas to subscribe to Discover Magazine.
 

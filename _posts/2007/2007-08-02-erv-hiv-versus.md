@@ -29,7 +29,7 @@ I'm ERV. This is my dog, [Arnold Schwarzenegger](http://endogenousretrovirus.blo
 I find it rather difficult to believe that you two haven't crossed paths, as Vpu turns up in a [simple Google search](http://www.mcld.co.uk/hiv/?q=HIV%2520genome). And as a matter of fact, Vpu is sitting right there in the totally unnecessary and worthless diagram in 'Edge of Evolution'. See? Right there:
 
 <figure>
-<img src="/uploads/2007/EoEHIV.jpg" alt="" width="450" height="263" style="" />
+<img src="{{ site.baseurl }}/uploads/2007/EoEHIV.jpg" alt="" width="450" height="263" style="" />
 <figcaption markdown="span">
 
 </figcaption>
@@ -66,7 +66,7 @@ It turns out that one of the **biochemical** differences is that Subtype B Vps h
 So here's a quick time-line for the evolution of impossible genes and impossible protein-protein interactions, courtesy of Ian Musgrave (one of those dreadful PhDs/Professors that has something to teach this pre-grad student):
 
 <figure>
-<img src="/uploads/2007/HIV_Vpu_timeline.jpg" alt="" width="450" height="338" style="" />
+<img src="{{ site.baseurl }}/uploads/2007/HIV_Vpu_timeline.jpg" alt="" width="450" height="338" style="" />
 <figcaption markdown="span">
 
 </figcaption>

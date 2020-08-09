@@ -9,7 +9,7 @@ post_id: 7172
 basename: cloud_iridescen_1
 ---
 <figure>
-<img src="/uploads/2016/DSC00918_Iridescence_600.JPG" alt="DSC00918_Iridescence_600.JPG" width="600" height="450" />
+<img src="{{ site.baseurl }}/uploads/2016/DSC00918_Iridescence_600.JPG" alt="DSC00918_Iridescence_600.JPG" width="600" height="450" />
 <figcaption markdown="span">
 <big>[Cloud iridescence](http://pandasthumb.org/archives/2016/01/iridescence-wit.html).</big>
 

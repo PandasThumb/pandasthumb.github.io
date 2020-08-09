@@ -12,7 +12,7 @@ Photograph by **James Rice**.
 
 
 <figure>
-<img src="/uploads/2011/Rice-BonnevilleSaltFlats_A10.jpg" alt="Rice-BonnevilleSaltFlats_A10.jpg" width="600" height="338" />
+<img src="{{ site.baseurl }}/uploads/2011/Rice-BonnevilleSaltFlats_A10.jpg" alt="Rice-BonnevilleSaltFlats_A10.jpg" width="600" height="338" />
 <figcaption markdown="span">
 <big>[Bonneville Salt Flats](http://en.wikipedia.org/wiki/Bonneville_Salt_Flats), Great Salt Lake Desert, Utah. The bird in the foreground is a [ Warthog ](http://en.wikipedia.org/wiki/Fairchild_Republic_A-10_Thunderbolt_II).</big>
 

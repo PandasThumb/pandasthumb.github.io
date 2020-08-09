@@ -4,7 +4,7 @@ date: '2019-10-04 09:01:00 -06:00'
 author: Matt Young
 ---
 <figure>
-<img src="/uploads/2019/Edis_Conspiracy_Theories_Cover.jpg" alt="Book cover"/>
+<img src="{{ site.baseurl }}/uploads/2019/Edis_Conspiracy_Theories_Cover.jpg" alt="Book cover"/>
 <figcaption>Front cover of the book <i>Theology and Science: From Genesis to Astrobiology</i>, as displayed on <a href="https://www.amazon.co.uk/Theology-Science-Genesis-Astrobiology-General/dp/9813235039">the publisher's web page</a>.
 </figcaption>
 </figure>

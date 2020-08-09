@@ -21,7 +21,7 @@ Relevant concepts involve the genotype-phenotype mapping.  Since phenotypes are 
 The problem is that genotype-phenotype mappings are in general non-trivial. For this reason researchers have used the more manageable problem of RNA folding from sequences to secondary structures.
 
 
-<img alt="rna_small.jpg" src="/uploads/2005/rna_small.jpg" width="382" height="281" border="0" />
+<img alt="rna_small.jpg" src="{{ site.baseurl }}/uploads/2005/rna_small.jpg" width="382" height="281" border="0" />
 <br>
 <a href="http://www.pandasthumb.org/pt-archives/rna.html" onclick="window.open('http://www.pandasthumb.org/pt-archives/rna.html','popup','width=812,height=598,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">View Larger image</a>
 
@@ -38,13 +38,13 @@ Let's first define 'Hamming distance' for single nucleotide mutations
 
 
 
-<img alt="hamming.jpg" src="/uploads/2005/hamming.jpg" width="407" height="402" border="0" />
+<img alt="hamming.jpg" src="{{ site.baseurl }}/uploads/2005/hamming.jpg" width="407" height="402" border="0" />
 
 
 Let's look at an example of a neutral network for a particular common structure:
 
 
-<img alt="connected_small.jpg" src="/uploads/2005/connected_small.jpg" width="377" height="319" border="0" />
+<img alt="connected_small.jpg" src="{{ site.baseurl }}/uploads/2005/connected_small.jpg" width="377" height="319" border="0" />
 <br>
 <a href="http://www.pandasthumb.org/pt-archives/connected.html" onclick="window.open('http://www.pandasthumb.org/pt-archives/connected.html','popup','width=769,height=651,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">View Larger image</a>
 
@@ -94,7 +94,7 @@ Of these properties it can be shown that the first, second and fourth one seem t
 (43) E. A. Schultes and D. P. Bartel. One sequence, two ribozymes: Implications for the emergence of new ribozyme folds. Science, 289:448{452, 2000.
 
 
-<img alt="neutral_walk_small.jpg" src="/uploads/2005/neutral_walk_small.jpg" width="384" height="309" border="0" />
+<img alt="neutral_walk_small.jpg" src="{{ site.baseurl }}/uploads/2005/neutral_walk_small.jpg" width="384" height="309" border="0" />
 <br>
 <a href="http://www.pandasthumb.org/pt-archives/neutral_walk.html" onclick="window.open('http://www.pandasthumb.org/pt-archives/neutral_walk.html','popup','width=783,height=630,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">View Larger image</a>
 

@@ -13,7 +13,7 @@ Well our first poll is over and the majority of the five hundred and nine votes 
 Giant pandas (_Ailuropoda melanoleuca_) form the most basal branch of the bear family.  The figure below shows the relationship of the bears to the rest of the extant order Carnivoria (Mammalia).  It is the composite of two  maximum parsimony phylogenies, Figures 1 and 8 of Bininda-Emonds et al. (1999), derived from data present in scientific literature.  The scale of the tree is millions of years before present and was derived from data in Tables 2 and 9 of Bininda-Emonds et al. (1999).
 
 <figure>
-<img src="/uploads/2005/panda_tree.png" alt="" width="514" height="371" />
+<img src="{{ site.baseurl }}/uploads/2005/panda_tree.png" alt="" width="514" height="371" />
 <figcaption markdown="span">
 
 </figcaption>

@@ -12,7 +12,7 @@ Photograph by **Marilyn Miller**.
 
 
 <figure>
-<img src="/uploads/2011/MM_Thalassarche_melanophrys_600.jpg" alt="MM_Thalassarche_melanophrys_600.jpg" width="600" height="450" />
+<img src="{{ site.baseurl }}/uploads/2011/MM_Thalassarche_melanophrys_600.jpg" alt="MM_Thalassarche_melanophrys_600.jpg" width="600" height="450" />
 <figcaption markdown="span">
 <big>[_Thalassarche melanophrys_](http://www.iucnredlist.org/apps/redlist/details/144906/0) -- black-browed albatross, West Point Island, Falkland Islands.</big>
 

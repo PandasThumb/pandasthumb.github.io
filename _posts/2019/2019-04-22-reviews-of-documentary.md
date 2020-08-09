@@ -4,7 +4,7 @@ date: '2019-04-22 08:00:00 -06:00'
 author: Matt Young
 ---
 <figure>
-<img src="/uploads/2019/Ark_On_Opening_Day.jpg" alt="Ark"/>
+<img src="{{ site.baseurl }}/uploads/2019/Ark_On_Opening_Day.jpg" alt="Ark"/>
 <figcaption>
 Ark on Opening Day, courtesy of Dan Phelps.
 </figcaption>

@@ -9,7 +9,7 @@ post_id: 6956
 basename: photography_con_22
 ---
 <figure>
-<img src="/uploads/2014/IMG_3715Enlarger_600.JPG" alt="IMG_3715Enlarger_600.JPG" width="300" height="540" style="float:left;" />
+<img src="{{ site.baseurl }}/uploads/2014/IMG_3715Enlarger_600.JPG" alt="IMG_3715Enlarger_600.JPG" width="300" height="540" style="float:left;" />
 <figcaption markdown="span">
 <big>Kodak Precision Enlarger, Model 1.</big>
 

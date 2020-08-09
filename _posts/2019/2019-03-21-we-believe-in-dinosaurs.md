@@ -4,7 +4,7 @@ date: '2019-03-21 14:27:00 -06:00'
 author: Matt Young
 ---
 <figure>
-<img src="/uploads/2019/Dan_Phelps_600.jpg" alt="Dan Phelps"/>
+<img src="{{ site.baseurl }}/uploads/2019/Dan_Phelps_600.jpg" alt="Dan Phelps"/>
 <figcaption>
 PT contributor Dan Phelps, from the <a href="https://www.indiegogo.com/projects/we-believe-in-dinosaurs#/">Indiegogo website</a>.
 </figcaption>

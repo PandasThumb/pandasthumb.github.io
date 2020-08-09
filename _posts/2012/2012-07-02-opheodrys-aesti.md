@@ -13,7 +13,7 @@ Photograph by **Nicholas Plummer**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2012/plummer.Opheodrys_aestivus.jpg" alt="plummer.Opheodrys_aestivus.jpg" width="600" height="576" />
+<img src="{{ site.baseurl }}/uploads/2012/plummer.Opheodrys_aestivus.jpg" alt="plummer.Opheodrys_aestivus.jpg" width="600" height="576" />
 <figcaption markdown="span">
 <big>[_Opheodrys aestivus_](http://en.wikipedia.org/wiki/Opheodrys_aestivus) -- rough green snake.</big>
 

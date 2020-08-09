@@ -9,7 +9,7 @@ post_id: 6827
 basename: ondatra_zibethicus
 ---
 <figure>
-<img src="/uploads/2013/IMG_3459Muskrat_600.JPG" alt="IMG_3459Muskrat_600.JPG" width="600" height="450" />
+<img src="{{ site.baseurl }}/uploads/2013/IMG_3459Muskrat_600.JPG" alt="IMG_3459Muskrat_600.JPG" width="600" height="450" />
 <figcaption markdown="span">
 <big>[_Ondatra zibethicus_](http://wildlife.state.co.us/WildlifeSpecies/Profiles/Mammals/Pages/Muskrat.aspx) -- muskrat, Elmer's Two-Mile Creek, Boulder, Colorado.  Once I saw a pair of muskrats there, but I think they were lost in the recent flooding.</big>
 

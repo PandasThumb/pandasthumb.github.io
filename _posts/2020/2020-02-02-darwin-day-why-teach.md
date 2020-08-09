@@ -5,7 +5,7 @@ author: Matt Young
 ---
 
 <figure>
-<img src="/uploads/2020/Gould_Darwins_Finches_600.jpg" alt="Darwin's finches"/>
+<img src="{{ site.baseurl }}/uploads/2020/Gould_Darwins_Finches_600.jpg" alt="Darwin's finches"/>
 <figcaption>Darwin's finches. <small><a href="https://en.wikipedia.org/wiki/Darwin%27s_finches#/media/File:Darwin's_finches_by_Gould.jpg">John Gould, from Darwin's "Voyage of the Beagle"</a>, public domain.</small>
 </figcaption>
 </figure>

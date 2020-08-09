@@ -27,7 +27,7 @@ However, I show in [my paper](http://www.springerlink.com/content/97853528015150
 If cliques are common, then novel language-associated alleles can sweep through a population and improve the language faculty of humans.  This is shown via simulation in the figure below.  Clearly, the origin of language ability can be sufficiently explained by Darwinian processes operating on genetic diversity in a finite population of human ancestors.
 
 <figure>
-<img src="/uploads/2011/fig.png" alt="fig.png" width="900" height="235" />
+<img src="{{ site.baseurl }}/uploads/2011/fig.png" alt="fig.png" width="900" height="235" />
 <figcaption markdown="span">
 **Selective sweeps of language-associated alleles occur for many different values of cliquing rates and interaction penalties.**  Each panel represents a different value for the selective coefficient (s) and contains 441 combinations of f and c. Points above the solid line are sets where the threshold is positive.  For each set, the probability of a selective sweep occurring for Poets in a population of size 10k was estimated in simulation from the number of attempts it took to get 1000 selective sweeps. They are color-coded based on their ratio to the neutral expectation. Blank areas represent sets for which sweeps were too rare to study.
 

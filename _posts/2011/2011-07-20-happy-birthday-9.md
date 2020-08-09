@@ -8,4 +8,4 @@ blog_id: 2
 post_id: 6282
 basename: happy_birthday_9
 ---
-<img src="/uploads/2011/mendel.jpg" alt="mendel.jpg" width="400" height="155" />
+<img src="{{ site.baseurl }}/uploads/2011/mendel.jpg" alt="mendel.jpg" width="400" height="155" />

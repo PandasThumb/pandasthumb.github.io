@@ -13,7 +13,7 @@ Introgression or genetic exchange between crops and their wild relatives is of b
 Corn was domesticated in the lowlands of southwest Mexico ~10,000 years ago from a wild grass known as teosinte.  A few thousand years later corn colonized the high altitudes of the Mexican Central Plateau.  There, it came into contact with a different wild teosinte, one presumably well adapted to the new environment.   Both corn and teosinte in the highlands have characteristics such as purple pigmentation and hairy stalks and leaves that are believed to help these plants tolerate the lower temperatures and higher ultra-violet radiation of the highlands.  For some time, biologists have been stumped as to whether corn and teosinte obtained these highland adaptations independently or through introgression, with some arguing that the shared characteristics were a good example of maize genes escaping into the wild.
 
 <figure>
-<img src="/uploads/2013/hufford.jpg" alt="hufford.jpg" width="400" height="477" class="mt-image-none" />
+<img src="{{ site.baseurl }}/uploads/2013/hufford.jpg" alt="hufford.jpg" width="400" height="477" class="mt-image-none" />
 <figcaption markdown="span">
 </figcaption>
 </figure>

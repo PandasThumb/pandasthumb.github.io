@@ -22,10 +22,10 @@ After months of exuberant propaganda about the book from the Discovery Institute
 
 _Darwin's Doubt_ is festooned with illustrations, mostly redrawn from other sources in a rather strange cartoon-like format also found in other recent ID books.  However, there is never an illustration like these:
 
-<img src="/uploads/2008/Cambrian%20Explosion%20Marshall%202006.png" alt="" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2008/Cambrian%20Explosion%20Marshall%202006.png" alt="" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 (Marshall 2006)
 
-<img src="/uploads/2006/cambrian.JPG" alt="" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2006/cambrian.JPG" alt="" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 (Peterson et al. 2004)
 
 (Note: Erwin & Valentine 2013 of course contains similar illustrations)
@@ -89,12 +89,12 @@ A failure to grasp stage 3 is why [Kevin Padian's testimony at the _Kitzmiller v
 
 Now, Meyer couldn't stumble around in the Cambrian and phylogenetic literature without encountering a few of these issues.  He does briefly discuss "lumpers versus splitters" and even Linnaean taxonomy versus rank-free taxonomy.  But Meyer never presents for his readers the point that cladistic analyses reveal the order in which the characters found in living groups were acquired, nor the fact that stem taxa are the transitional fossils the creationists are allegedly looking for.  And he especially avoids giving his readers any real sense of the number of transitional forms we know about for some groups, and the detail known about their relationships and about the order in which the characters of modern groups originated.  The most egregious example is with the Cambrian arthropods and arthropod relatives.  Why does Meyer never show his readers anything like this?
 
-<img src="/uploads/2013/Briggs_Fortey_1989_arthropod_evolution_cladogram.png" alt="Briggs_Fortey_1989_arthropod_evolution_cladogram.png" width="622" height="609" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2013/Briggs_Fortey_1989_arthropod_evolution_cladogram.png" alt="Briggs_Fortey_1989_arthropod_evolution_cladogram.png" width="622" height="609" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 (source: Brysse 2008, originally Briggs & Fortey 1989)
 
 Or this?
 
-<img src="/uploads/2013/F3.medium.gif" alt="F3.medium.gif" width="440" height="390" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2013/F3.medium.gif" alt="F3.medium.gif" width="440" height="390" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 ([source: Legg et al. 2012](http://rspb.royalsocietypublishing.org/content/279/1748/4699/F3.expansion.html))
 
 .
@@ -119,7 +119,7 @@ Figure 2.10 is a picture of _Anomalocaris_.
 
 Again, it is only by refusing to depict and specifically discuss of the inter-relationships of these sorts of taxa, and the data that supports them, and to mention the statistical support for the resulting relationships, that Meyer manages to pretend to his readers that these questions are not even partially answered, are unanswerable, and that "poof, God did it" is a better explanation.  Here's the cladogram from [Legg et al. (2012)](http://rspb.royalsocietypublishing.org/content/279/1748/4699.full) again:
 
-<img src="/uploads/2013/F3.medium.gif" alt="F3.medium.gif" width="440" height="390" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2013/F3.medium.gif" alt="F3.medium.gif" width="440" height="390" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 What goes into diagrams like this?  They represent summaries of the morphological character data, which [in this case you can see right here](http://rspb.royalsocietypublishing.org/content/suppl/2012/10/03/rspb.2012.1958.DC1/rspb20121958supp3.txt). Many readers, and virtually all creationists/IDists, will have little idea of the scale of effort that goes into constructing a dataset like this.  These researchers, and the previous researchers that they are building upon, identified 580 individual, variable characters, each of which has to be identified, defined, divided up into discrete character states, and encoded.  This laborious process had to be repeated for (in this case) 173 fossil taxa (correction -- some are living, e.g. _Drosophila_).  A lot of fossils are missing a lot of characters -- typical and expected in paleontological analyses -- but it is still a lot of work.  After this, one runs a cladistic or other phylogenetic analysis (whole textbooks and courses are devoted just to this step of the process, and articles devoted to testing the reliability of phylogenetic methods, and improving the methods, are continually being published) and calculates support statistics.  The support statistics are important since they tell you whether or not your data have any phylogenetic tree structure.  Usually this doesn't get major emphasis in scientific publications, because almost any biological dataset typically has extremely statistically significant tree signal, and this is true whether or not it agrees precisely with other analyses, and whether or not all relationships of interest to the researcher are precisely resolved with high support.
 

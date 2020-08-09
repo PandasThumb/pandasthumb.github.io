@@ -24,7 +24,7 @@ While I obviously disagree with Wood's views on origins and the age of the Earth
 AiG accepted Wood's submission to ARJ, but only *after* O'Micks had an opportunity to write a [rebuttal](https://answersingenesis.org/creation-science/baraminology/reply-taxon-sample-size-in-hominin-baraminology-response-to-omicks/). Then, they posted the rebuttal on their website *first*, ahead of Wood's article, as shown by this screengrab:
 
 <figure>
-<img src="/uploads/2017/MacMillan_Creationist_Peer_Review_600.jpg" alt="Screen grab"/>
+<img src="{{ site.baseurl }}/uploads/2017/MacMillan_Creationist_Peer_Review_600.jpg" alt="Screen grab"/>
 </figure>
 
 

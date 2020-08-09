@@ -11,7 +11,7 @@ basename: our_innate_tend
 On his [Evolution List](http://evolutionlist.blogspot.com/2006/08/on-detection-of-agency-and.html) blog, Allen MacNeill discusses a paper written by one of his students of the Cornell 'Evolution and Design' seminar. The paper, written by [Elena Broaddus](http://evolutionanddesign.googlepages.com/BioEE_467_Broaddus_Research_Paper.pdf), discusses the topic of our ""innate" tendency to infer purpose in nature". 
 
 The posting starts with some interesting pictures of 'faces' found in nature. We are all very familiar with detecting 'design' in clouds and there are countless instances where people see faces or other attributes in natural objects. Elena addresses this 'innate tendency' that leads us to infer purpose in nature.
-<img src="/uploads/2006/Faces.jpg" alt="Faces.jpg" width="432" height="144" />
+<img src="{{ site.baseurl }}/uploads/2006/Faces.jpg" alt="Faces.jpg" width="432" height="144" />
 
 Allen MacNeill wrote:
 

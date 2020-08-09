@@ -39,7 +39,7 @@ While I'm at it, let me point out a delicious irony.  The particular question th
 
 There is of course one last issue, the one dealing with Egnor's pretentious claim that "Doctors know that... our bodies show astonishing evidence of design... doctors see, first-hand, the _design_ of life" (his emphasis).  The basic idea here is that doctors, by virtue of their medical training, must have unique insights about evolution and ID not shared by the general public.  If that's the way they want it, I say fine.  I'll just post a comparison between doctors and the general public that I made [previously](/archives/2007/01/why-do-so-many.html):
 
-<img src="/uploads/2007/evochart.JPG" alt="" />
+<img src="{{ site.baseurl }}/uploads/2007/evochart.JPG" alt="" />
 
 Here we see that doctors are overwhelmingly more likely to accept evolution than the general public and less likely to accept creationism.  If we are to assume that their training is affecting their viewpoint on evolution, we can safely conclude that it's causing them to accept evolution _more_ and accept ID/creationism _less_.  Of course there are more subtle ways of interpreting the results, but that's not what Egnor and the DI are doing -- they're trying to spin the results as evidence that medical training makes people reject evolution.  The actual data say the exact opposite.
 

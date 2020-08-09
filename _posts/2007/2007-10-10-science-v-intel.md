@@ -9,7 +9,7 @@ blog_id: 2
 post_id: 3294
 basename: science_v_intel
 ---
-[<img src="/uploads/2007/flunked-thumb-200x63.jpg" alt="flunked.jpg" width="200" height="63" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://www.cafepress.com/aus_ed.177795434)In a recent paper, authors Yuri  Wolf and Eugene  Koonin present a hypothesis on the origin of the translation system and show how science proceeds. I am encouraging ID proponents to present a similarly detailed explanation based on the foundational concepts of Intelligent Design.
+[<img src="{{ site.baseurl }}/uploads/2007/flunked-thumb-200x63.jpg" alt="flunked.jpg" width="200" height="63" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://www.cafepress.com/aus_ed.177795434)In a recent paper, authors Yuri  Wolf and Eugene  Koonin present a hypothesis on the origin of the translation system and show how science proceeds. I am encouraging ID proponents to present a similarly detailed explanation based on the foundational concepts of Intelligent Design.
 
 The authors explain how the problem is neither trivial and yet can be resolved:
 

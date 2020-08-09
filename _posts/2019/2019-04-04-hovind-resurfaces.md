@@ -4,7 +4,7 @@ date: '2019-04-04 08:00:00 -06:00'
 author: Matt Young
 ---
 <figure>
-<img src="/uploads/2019/Hovind_Mug_600.jpg" alt="Kent Hovind"/>
+<img src="{{ site.baseurl }}/uploads/2019/Hovind_Mug_600.jpg" alt="Kent Hovind"/>
 <figcaption>
 Kent Hovind in 2015. <small>Escambia County Sheriff's Office, public domain.</small>
 </figcaption>

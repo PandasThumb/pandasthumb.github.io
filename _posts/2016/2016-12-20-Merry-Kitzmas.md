@@ -19,7 +19,7 @@ One more thing: we should explore some new ideas for online activism regarding s
 Trying a figure in the new system:
 
 <figure>
-<img src="/uploads/2016/slide-kung-fu-panda-3.jpg" alt="Skadoosh"/>
+<img src="{{ site.baseurl }}/uploads/2016/slide-kung-fu-panda-3.jpg" alt="Skadoosh"/>
 <figcaption>
 Skadoosh
 </figcaption>

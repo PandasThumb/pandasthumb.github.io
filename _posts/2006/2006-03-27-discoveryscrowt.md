@@ -11,7 +11,7 @@ basename: discoveryscrowt
 ---
 USA Today has a front-page [**article**](http://www.usatoday.com/tech/science/2006-03-26-spaghetti-monster_x.htm) on the impact of [**Flying Spaghetti Monsterism**](http://www.venganza.org/) (March 27th, 2006).  The article discusses Bobby Henderson's exciting new book, [**The Gospel of the Flying Spaghetti Monster**](http://www.venganza.org/gospel.htm).
 
-<img src="/uploads/2006/fsm-book.jpg" alt="fsm-book.jpg" width="196" height="223" style="float:right;" />
+<img src="{{ site.baseurl }}/uploads/2006/fsm-book.jpg" alt="fsm-book.jpg" width="196" height="223" style="float:right;" />
 
 Dan Vergano of USA TODAYwrites
 

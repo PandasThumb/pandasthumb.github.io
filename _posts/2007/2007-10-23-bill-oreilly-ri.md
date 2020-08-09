@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3329
 basename: bill_oreilly_ri
 ---
-[<img src="/uploads/2007/flunked-thumb-100x31.jpg" alt="flunked.jpg" width="100" height="31" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/flunked6.html)The ID crowd was all giddy about Ben Stein appearing on Bill O'Reilly's show, little did they know that Bill would introduce ID as follows:
+[<img src="{{ site.baseurl }}/uploads/2007/flunked-thumb-100x31.jpg" alt="flunked.jpg" width="100" height="31" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/flunked6.html)The ID crowd was all giddy about Ben Stein appearing on Bill O'Reilly's show, little did they know that Bill would introduce ID as follows:
 
 > "intelligent design, that is, a deity created life"
 

@@ -13,7 +13,7 @@ Photograph by **Daniel Sprockett**
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2014/Sprockett.white-faced_capuchin_eating1.jpg" alt="Sprockett.white-faced_capuchin_eating1.jpg" width="600" height="428" />
+<img src="{{ site.baseurl }}/uploads/2014/Sprockett.white-faced_capuchin_eating1.jpg" alt="Sprockett.white-faced_capuchin_eating1.jpg" width="600" height="428" />
 <figcaption markdown="span">
 <big>[_Cebus capucinus_](http://en.wikipedia.org/wiki/White-headed_capuchin) -- white-faced or white-headed capuchin monkey eating seeds from a tree.</big>
 

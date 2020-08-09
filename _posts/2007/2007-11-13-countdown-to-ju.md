@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3373
 basename: countdown_to_ju
 ---
-[<img src="/uploads/2007/nova_JudgeJones_1678_7_sm-thumb-120x106.jpg" alt="nova_JudgeJones_1678_7_sm.jpg" width="120" height="106" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/nova_JudgeJones_1678_7_sm.html)NOVA has released a [Press Release](http://pressroom.wgbh.org/assets/txt/nova_11.13.07_release_1678.pdf) outlining the exciting new program. For more information visit [NOVA Judgement Day Companion site](http://www.pbs.org/nova/id) or the Pressrooms at  [pbs.org/pressroom](http://pbs.org/pressroom) or  [Pressroom.wgbh.org](http://Pressroom.wgbh.org)
+[<img src="{{ site.baseurl }}/uploads/2007/nova_JudgeJones_1678_7_sm-thumb-120x106.jpg" alt="nova_JudgeJones_1678_7_sm.jpg" width="120" height="106" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/nova_JudgeJones_1678_7_sm.html)NOVA has released a [Press Release](http://pressroom.wgbh.org/assets/txt/nova_11.13.07_release_1678.pdf) outlining the exciting new program. For more information visit [NOVA Judgement Day Companion site](http://www.pbs.org/nova/id) or the Pressrooms at  [pbs.org/pressroom](http://pbs.org/pressroom) or  [Pressroom.wgbh.org](http://Pressroom.wgbh.org)
 The show will air on November 13, 2007 at 8pm ET/PT on PBS.
 
 Check your [local listings](http://www.pbs.org/tvschedules/) and spread the news

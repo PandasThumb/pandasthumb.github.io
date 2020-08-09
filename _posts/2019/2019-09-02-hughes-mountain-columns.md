@@ -10,7 +10,7 @@ Photography contest, **Honorable Mention**.
 
 
 <figure>
-<img src="/uploads/2019/Kocher_HughesMtnColumns.jpg" alt="Hughes Mountain columns"/>
+<img src="{{ site.baseurl }}/uploads/2019/Kocher_HughesMtnColumns.jpg" alt="Hughes Mountain columns"/>
 <figcaption>
 <a href="https://en.wikipedia.org/wiki/Hughes_Mountain">Hughes Mountain Natural Area, Irondale, Missouri</a>. </figcaption>
 </figure>

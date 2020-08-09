@@ -29,7 +29,7 @@ He has now changed it to this:
 
 This is marginally better; at least he's got rid of the "arbitrarily chosen sequences". Unfortunately for Dembski, he's still wrong. As I pointed out, the chimp-human sequence similarity **is** like comparing his two versions of Hamlet. It's not just words or short phrases the same, it's entire chapters the same with the occasional spelling mistake. We have not only virtually the same genes, but they are virtually in the same order and location in the genome and chromosomes. 
 
-<img src="/uploads/2006/ORcluster.jpg" alt="" />
+<img src="{{ site.baseurl }}/uploads/2006/ORcluster.jpg" alt="" />
 
 **Figure**, order of olfactory genes in the chimpanzee and human, taken from TRENDS in Genetics Vol.17 No.11 November 2001
 See also this list of genes and gene locations on chromosome 22 [comparing](http://www.nature.com/nature/journal/v429/n6990/extref/nature02564-s4.htm) chimp and human chromosomes. See also this online book for more about [gene organization in chimps and humans.](http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=hmg.section.1766)

@@ -12,7 +12,7 @@ Photograph by **Louis Shackleton**.
 
 
 <figure>
-<img src="/uploads/2011/Shackleton.Branta_canadensis.jpg" alt="Shackleton.Branta_canadensis.jpg" width="600" height="400" />
+<img src="{{ site.baseurl }}/uploads/2011/Shackleton.Branta_canadensis.jpg" alt="Shackleton.Branta_canadensis.jpg" width="600" height="400" />
 <figcaption markdown="span">
 <big>[_Branta canadensis_](http://www.allaboutbirds.org/guide/Canada_Goose/id) -- Canada goose, Greenfield Lake, downtown Wilmington, North Carolina.</big>  The goose in the background is probably a hybrid between _B. canadensis_ and a domestic goose.  You may see more of Mr. Shackleton's photographs [here](http://www.flickr.com/photos/loufcd/).
 

@@ -13,7 +13,7 @@ Photograph by **Andrey Pavlov**.
 Photography contest, Semi-Finalist.
 
 <figure>
-<img src="/uploads/2013/Pavlov_MgCuO2Burn.jpg" alt="Pavlov_MgCuO2Burn.jpg" width="600" height="445" />
+<img src="{{ site.baseurl }}/uploads/2013/Pavlov_MgCuO2Burn.jpg" alt="Pavlov_MgCuO2Burn.jpg" width="600" height="445" />
 <figcaption markdown="span">
 
 <big>[Magnesium](http://en.wikipedia.org/wiki/Magnesium) burning with copper.  Mr. Pavlov writes, "My setup involved a hunk of pure magnesium (harvested from a campfire starter) set on top of a log in a fireplace. Under the Mg hunk were some matches, and on top were either copper shavings or brass tacks. I then lit the matches on fire and used a plastic tube connected to an E cylinder of pure oxygen running at ~15 liters per minute to direct the oxygen stream at the base of the Mg hunk. This ignited the matches with enough energy to start the Mg on fire, which subsequently melted and burned with the Cu or brass to produce colored flames. ...</big>

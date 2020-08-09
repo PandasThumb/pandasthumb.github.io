@@ -23,7 +23,7 @@ White then tries to discount the changes in climate change in recent years as be
 He then presents his view that the earth is 6000 years old based on the genealogies in Genesis and elsewhere in the Bible. Thus, he claims there is no need to be concerned because God is in control and that climatology is a young science. Further, he claims our dominion over nature is God given and supported by Bible quotes. He then brings in Noah’s Flood and the Ark as part of the “Seven Cs” of Earth history. See Figure 1.
 
 <figure>
-<img src="/uploads/2019/Phelps_IMG_4615_Fig_1_600.jpg" alt="Figure 1"/>
+<img src="{{ site.baseurl }}/uploads/2019/Phelps_IMG_4615_Fig_1_600.jpg" alt="Figure 1"/>
 <figcaption>Figure 1.
 </figcaption>
 </figure>
@@ -31,7 +31,7 @@ He then presents his view that the earth is 6000 years old based on the genealog
 According to White, other Bible verses show us that God will always provide us with a reasonable environment in which to live, and he displayed Figure 2.
 
 <figure>
-<img src="/uploads/2019/Phelps_IMG_4616_Fig_2_600.jpg" alt="Figure 2"/>
+<img src="{{ site.baseurl }}/uploads/2019/Phelps_IMG_4616_Fig_2_600.jpg" alt="Figure 2"/>
 <figcaption>Figure 2.
 </figcaption>
 </figure>
@@ -39,7 +39,7 @@ According to White, other Bible verses show us that God will always provide us w
 He then moves on to dismissing how much we know about global temperature through time, presenting the last 40 years as showing slight warming. White then shows data back to 1880 and disparages its quality. He then points out short-term trends in Figure 3.
 
 <figure>
-<img src="/uploads/2019/Phelps_IMG_4617_Fig_3_600.jpg" alt="Figure 3"/>
+<img src="{{ site.baseurl }}/uploads/2019/Phelps_IMG_4617_Fig_3_600.jpg" alt="Figure 3"/>
 <figcaption>Figure 3.
 </figcaption>
 </figure>
@@ -47,7 +47,7 @@ He then moves on to dismissing how much we know about global temperature through
 White then claims that climate change in the Medieval Warm Period and Little Ice Age are evidence for natural cycles, as shown in Figure 4, taken from infamous <a href="https://www.drroyspencer.com/2009/07/rise-of-the-natural-climate-cycle-deniers/">climate change denier Roy Spencer’s website</a>.
 
 <figure>
-<img src="/uploads/2019/Phelps_IMG_4618_Fig_4_600.jpg" alt="Figure 4"/>
+<img src="{{ site.baseurl }}/uploads/2019/Phelps_IMG_4618_Fig_4_600.jpg" alt="Figure 4"/>
 <figcaption>Figure 4.
 </figcaption>
 </figure>
@@ -65,7 +65,7 @@ White then disdains climatological models as inaccurate and showing too much war
 White further claims we shouldn’t be too concerned about the issue for the reasons given in Figure 5, which needs no further explanation.
 
 <figure>
-<img src="/uploads/2019/Phelps_IMG_4619_Fig_5_600.jpg" alt="Figure 5"/>
+<img src="{{ site.baseurl }}/uploads/2019/Phelps_IMG_4619_Fig_5_600.jpg" alt="Figure 5"/>
 <figcaption>Figure 5.
 </figcaption>
 </figure>

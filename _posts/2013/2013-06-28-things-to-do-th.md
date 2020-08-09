@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 6767
 basename: things_to_do_th
 ---
-<img src="/uploads/2013/zacknote.jpg" alt="zacknote.jpg" width="257" height="297" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
+<img src="{{ site.baseurl }}/uploads/2013/zacknote.jpg" alt="zacknote.jpg" width="257" height="297" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
 As a public service, here are a few suggestions on how to entertain yourself this weekend, and support science education at the same time!
 If you are in the New Mexico area, come out the the annual meeting of the Coalition for Excellence in Science and Math Education ([**CESE**](http://www.cese.org)), which is hosting Louisiana's spunky young [**Zack Kopplin**](http://en.wikipedia.org/wiki/Zack_Kopplin) (now a student at Rice in Houston).  Time: 1:00 PM Saturday, June 29th. Place: Room 122, Northrop Hall, on the UNM campus. There is a [map](http://www.cese.org/wp-content/uploads/2013/05/unm_northrop.jpg) and a [flyer](http://www.cese.org/wp-content/uploads/2013/05/zack-flyer.pdf). Zack's topic is "Why we need a Second Giant Leap."
 

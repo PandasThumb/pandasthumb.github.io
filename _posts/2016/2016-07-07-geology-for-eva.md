@@ -11,7 +11,7 @@ basename: geology_for_eva
 In honor of the opening of Ken Ham's nefarious Ark "[replica](http://pandasthumb.org/archives/2015/10/noahs-ark-was-a.html)" today -- you know, the one made out of gopher steel and wood -- I decided to post this piece about a book written by evangelical scientists who know better than to treat the book of Genesis as history or science, for evangelical laypersons who either know better than to treat the book of Genesis as history or science, or can be taught to know better.
 
 <figure>
-<img src="/uploads/2016/Grand_Canyon_Cover.jpg" alt="Grand_Canyon_Cover.jpg" width="600" height="776" />
+<img src="{{ site.baseurl }}/uploads/2016/Grand_Canyon_Cover.jpg" alt="Grand_Canyon_Cover.jpg" width="600" height="776" />
 <figcaption markdown="span">
 </figcaption>
 </figure>

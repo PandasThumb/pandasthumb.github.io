@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 6928
 basename: ken_ham_wants_t
 ---
-<img src="/uploads/2014/noahmovie.jpg" alt="noahmovie.jpg" width="400" height="127" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
+<img src="{{ site.baseurl }}/uploads/2014/noahmovie.jpg" alt="noahmovie.jpg" width="400" height="127" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
 
 Well, AiG's Ken Ham has seen the movie "Noah" starring Russell Crowe, and boy, [is he steamed](http://tnchristiannews.wordpress.com/2014/03/27/ken-ham-calls-noah-movie-paganistic-and-evil/)!
 

@@ -17,7 +17,7 @@ The complexity of the earth system is such that nobody can be an expert on all a
 **Basic Chemistry**. [Charles Keeling](http://scrippsco2.ucsd.edu/sub_program_history/charles_david_keeling_biography.html) began to [measure the atmospheric level of carbon dioxide](http://scrippsco2.ucsd.edu/program_history/early_keeling_curve_3.html) (CO<sub>2</sub>) at Hawaii's [Mauna Loa Observatory](http://www.esrl.noaa.gov/gmd/obop/mlo/) in 1958. The result of this research is the famous [Keeling curve](http://www.climatecentral.org/gallery/graphics/keeling_curve), which shows a time series of atmospheric CO<sub>2</sub> that continues to the present day (Figure 1). The level of CO<sub>2</sub> was about [290 parts per million (ppm) during 1800-1870](http://www.aip.org/history/climate/timeline.htm), as calculated from ice cores.
 
 <figure>
-<img src="/uploads/2013/DrewsFig1.jpg" alt="DrewsFig1.jpg" width="600" />
+<img src="{{ site.baseurl }}/uploads/2013/DrewsFig1.jpg" alt="DrewsFig1.jpg" width="600" />
 <figcaption markdown="span">
 _Figure 1._Keeling curve of atmospheric carbon dioxide measured at Mauna Loa, Hawaii. Wikimedia Commons: [Robert A. Rohde](http://www.globalwarmingart.com/) as user Dragons flight.
 
@@ -45,7 +45,7 @@ This chemical reaction also reduces the number of carbonate ions: CO<sub>3</sub>
 > The chemical changes in seawater resulting from increased atmospheric CO<sub>2</sub> concentrations include _increases_ in the concentrations of dissolved (or aqueous) carbon dioxide, hydrogen ions, and bicarbonate ions, and _decreases_ in the carbonate ion concentration and pH.
 
 <figure>
-<img src="/uploads/2013/DrewsFig2.jpg" alt="DrewsFig2.jpg" width="600" />
+<img src="{{ site.baseurl }}/uploads/2013/DrewsFig2.jpg" alt="DrewsFig2.jpg" width="600" />
 <figcaption markdown="span">
 _Figure 2._ The chemistry of ocean acidification. The arrows are shown in one direction to show the propagation of increasing atmospheric carbon dioxide into and through seawater. The net effect is to decrease the marine concentration of carbonate ions (shown in bold). Figure 2 is based on [Introduction to Ocean Acidification Figure 2](http://www.whoi.edu/OCB-OA/page.do?pid=112076#4), at Woods Hole (2013).
 
@@ -70,7 +70,7 @@ In the marine environment, carbonate ions are what "everyone wants because every
 Now that those canards are out of the way, we can be realistic. Figure 3 shows the historical change in ocean acidity up to the present time. The average pH of the ocean is likely to drop by an additional _0.3-0.4_ by 2100, and this change represents an increase in acidity of _100-150&nbsp;%_ since the Industrial Revolution \[[Woods Hole](http://www.whoi.edu/OCB-OA/page.do?pid=112136#1)\].
 
 <figure>
-<img src="/uploads/2013/DrewsFig3.jpg" alt="DrewsFig3.jpg" width="600" />
+<img src="{{ site.baseurl }}/uploads/2013/DrewsFig3.jpg" alt="DrewsFig3.jpg" width="600" />
 <figcaption markdown="span">
 _Figure 3._ Change in ocean surface pH since the Industrial Revolution (1750). Wikimedia Commons: user Plumbago.
 
@@ -80,7 +80,7 @@ _Figure 3._ Change in ocean surface pH since the Industrial Revolution (1750). W
 Calcifying organisms use aragonite, a form of calcium carbonate, to build their shells. Aragonite "saturation" refers to the concentration of aragonite available in seawater. Figure 4 shows the change in aragonite saturation since 1880. It's all negative. Note that Australia's Great Barrier Reef (on the eastern shore of Australia) is right in the middle of a red zone. That really gives me a sinking feeling.
 
 <figure>
-<img src="/uploads/2013/DrewsFig4.jpg" alt="DrewsFig4.jpg" width="600" />
+<img src="{{ site.baseurl }}/uploads/2013/DrewsFig4.jpg" alt="DrewsFig4.jpg" width="600" />
 <figcaption markdown="span">
 _Figure 4._ Changes in marine saturation of aragonite, 1880-2012. "The more negative the change in aragonite saturation, the larger the decrease in aragonite available in the water, and the harder it is for marine creatures to produce their skeletons and shells. " Wikimedia Commons: US Environmental Protection Agency, public domain.
 

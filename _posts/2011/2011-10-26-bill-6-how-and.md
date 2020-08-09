@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 6378
 basename: bill_6_how_and
 ---
-<img src="/uploads/2011/Bill&Ted2Crop.jpg" alt="Bill&amp;amp;Ted2Crop.jpg" width="196" height="221" style="float: right; margin: 0 0 20px 20px;" class="mt-image-right" />
+<img src="{{ site.baseurl }}/uploads/2011/Bill&Ted2Crop.jpg" alt="Bill&amp;amp;Ted2Crop.jpg" width="196" height="221" style="float: right; margin: 0 0 20px 20px;" class="mt-image-right" />
 
 The sixth [BILL](http://pandasthumb.org/archives/2011/07/they-have-ted-w.html) is a visit with two of the biggest names in evolutionary biology, a couple of scientists who have undertaken one of the great long-term studies in recent scientific history. They are Peter and Rosemary Grant, whose work was the subject of the Pulitzer Prize-winning book  [_The Beak of the Finch_](http://books.google.com/books?id=-bbh3c4ezP0C&amp;q) by Jonathan Weiner.
 

@@ -10,6 +10,6 @@ basename: evolutionary_ge
 ---
 My high school, [Athens Academy](http://www.athensacademy.org/) in Athens, GA, is currently offering an Evolutionary Genetics course to 11th graders (16--17 year olds).  They are mostly using an curriculum from the [University of Georgia](http://www.uga.edu) funded through a grant for K-12 evolutionary education development.
 
-<img src="/uploads/2012/aa2.png" alt="aa2.png" width="500" height="197" />
+<img src="{{ site.baseurl }}/uploads/2012/aa2.png" alt="aa2.png" width="500" height="197" />
 
 Take that creationists.

@@ -17,7 +17,7 @@ It was bad enough that you chose to ignore her for over two months and then did 
 But by far the worst, you ignored her core argument. That in the space of a decade HIV-1 Vpu developed a series of binding sites that made it a [viroporin](http://www.tcdb.org/tcdb/transporter.php?tc=1.A.40.1.1), a multisubunit structure with a function previously absent from HIV-1.  Dr. Behe, it is not enough to cite a generalist review and claim that the differences between HIV-1 strains are “not all that great”. You actually have to show why Vpu developing binding sites to form a multi-subunit structure with a novel function does not falsify your claim that HIV has developed no new binding sites. Ironically, the very paper you cite to dismiss Ms Smith contains evidence of at least two new binding sites in HIV. I will not dwell on this any further, as Ms Smith is producing her own response.
 
 <figure>
-<img src="/uploads/2007/Viroporin.jpg" alt="Viroporin.jpg" width="587" height="353" />
+<img src="{{ site.baseurl }}/uploads/2007/Viroporin.jpg" alt="Viroporin.jpg" width="587" height="353" />
 <figcaption markdown="span">
 <small>Diagramatic representation of a viral viroporin (ion channel), such as Vpu. SIV Vpu and non-M class HIV Vpu's do not have viroporin activity. This is exactly an example of the kind of protein-protein interaction and new molecular machinery that Dr. Behe demands, but has completely ignored in his response to Ms Smith. Image from FEBS Letters 552 (2003) 28-34.</small>
 
@@ -33,7 +33,7 @@ But I will comment on one other aspect of your response. Not content with dismis
 This is simply not true, either generally (2) or in the particular case of Vpu. Importantly, your statement shows that you do not understand what Vpu does. Vpu down regulates the surface protein CD4 (the Viroporin activity is something separate related to viral release). It does not “gum-up” CD4, it specifically binds to it, then binds to a separate protein (the βTrCP subunit of the SCFβTrCP ubiquitin ligase complex) in the Golgi apparatus (all except the C strains, which target the plasma membrane). This multiprotein complex links to the ubiquitin-proteasome pathway, where CD4 is ignominiously broken down by the cells own mechanisms. This CD4–Vpu–βTrCP complex is NOT mere “gumming up of the works” but a precise targeting of CD4 the proteosome by Vpu. This is not obscure, but has been well known for some time.
 
 <figure>
-<img src="/uploads/2007/Vpu_binding.jpg" alt="Vpu_binding.jpg" width="500" height="294" />
+<img src="{{ site.baseurl }}/uploads/2007/Vpu_binding.jpg" alt="Vpu_binding.jpg" width="500" height="294" />
 <figcaption markdown="span">
 <small>Vpu binding to CD4 and βTrCP, which then targets CD4 for degradation. As you can see this is not Vpu randomly gumming up the works, but a macromolecular complex of the sort Behe demands. Taken from Margottin F, et al., 1998</small>
 

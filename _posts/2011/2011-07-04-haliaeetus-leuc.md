@@ -11,7 +11,7 @@ basename: haliaeetus_leuc
 Photograph by **David Young**.
 
 <figure>
-<img src="/uploads/2011/Bald-eagle-in-Grand-Teton-NP.jpg" alt="Bald-eagle-in-Grand-Teton-NP.jpg" width="600" height="600" />
+<img src="{{ site.baseurl }}/uploads/2011/Bald-eagle-in-Grand-Teton-NP.jpg" alt="Bald-eagle-in-Grand-Teton-NP.jpg" width="600" height="600" />
 <figcaption markdown="span">
 <big>[_Haliaeetus leucocephalus_](http://www.allaboutbirds.org/guide/bald_eagle/id) -- bald eagle, Grand Teton National Park, Wyoming.</big>
 

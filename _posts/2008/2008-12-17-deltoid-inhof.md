@@ -32,13 +32,13 @@ Read more at [Inhofe: less honest than the Discovery Institute](http://sciencebl
 Some have raised the question as to whether there is such a thing as Global Warming.
 
 First the temperature record
-<img src="/uploads/2008/280px-Instrumental_Temperature_Record.png" alt="280px-Instrumental_Temperature_Record.png" width="280" height="208" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2008/280px-Instrumental_Temperature_Record.png" alt="280px-Instrumental_Temperature_Record.png" width="280" height="208" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 Followed  by the CO2 concentration
 
-<img src="/uploads/2008/280px-Mauna_Loa_Carbon_Dioxide-en.svg.png" alt="280px-Mauna_Loa_Carbon_Dioxide-en.svg.png" width="280" height="180" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2008/280px-Mauna_Loa_Carbon_Dioxide-en.svg.png" alt="280px-Mauna_Loa_Carbon_Dioxide-en.svg.png" width="280" height="180" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 So what do we notice? First of all the temperatures have been rising since as early as the 1970's. We also know how CO2 concentration and temperature are related and can thus evaluate the temperature response due to CO2.
 
 By modeling the temperature response with and without the human caused forcing components one can show that most of the recent warming is indeed related to human actiity.
-<img src="/uploads/2008/tn_figspm-2.jpg" alt="tn_figspm-2.jpg" width="450" height="364" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2008/tn_figspm-2.jpg" alt="tn_figspm-2.jpg" width="450" height="364" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />

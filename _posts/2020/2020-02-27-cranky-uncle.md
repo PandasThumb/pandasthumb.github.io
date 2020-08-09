@@ -4,7 +4,7 @@ date: '2020-02-27 14:15:00 -07:00'
 author: Matt Young
 ---
 <figure>
-<img src="/uploads/2020/Cranky_Uncle_Cover_600.jpg" alt="Cover"/>
+<img src="{{ site.baseurl }}/uploads/2020/Cranky_Uncle_Cover_600.jpg" alt="Cover"/>
 <figcaption>
 </figcaption>
 </figure>
@@ -16,7 +16,7 @@ Dr. Cook, a psychologist, focuses on countering misinformation (or, as I would i
 <!--more-->
 
 <figure>
-<img src="/uploads/2020/Cranky_Uncle_p96_600.jpg" alt="Sample page"/>
+<img src="{{ site.baseurl }}/uploads/2020/Cranky_Uncle_p96_600.jpg" alt="Sample page"/>
 <figcaption>
 </figcaption>
 </figure>

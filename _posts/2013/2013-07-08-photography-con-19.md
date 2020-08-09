@@ -9,7 +9,7 @@ post_id: 6764
 basename: photography_con_19
 ---
 <figure>
-<img src="/uploads/2013/IMG_3406_Films_600.JPG" alt="IMG_3406_Films_600.JPG" width="600" height="450" />
+<img src="{{ site.baseurl }}/uploads/2013/IMG_3406_Films_600.JPG" alt="IMG_3406_Films_600.JPG" width="600" height="450" />
 <figcaption markdown="span">
 4 x 5 film holder (2 exposures), Tri-X film (24 exposures), SD memory card (&gt;1000 exposures).
 

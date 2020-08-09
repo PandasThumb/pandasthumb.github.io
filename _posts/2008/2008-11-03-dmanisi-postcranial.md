@@ -48,7 +48,7 @@ These statements are correct as far as they go, but that isn't very far. Figure 
 
 
 <figure>
-<img src="/uploads/2008/figure3b.jpg" alt="figure3b.jpg" width="342" height="266" />
+<img src="{{ site.baseurl }}/uploads/2008/figure3b.jpg" alt="figure3b.jpg" width="342" height="266" />
 <figcaption markdown="span">
 **Figure 3b**. Legend:
 Star: Dmanisi hominid;
@@ -69,7 +69,7 @@ The third graph, figure 3a, compares the tibial length with a tibial width (the 
 
 
 <figure>
-<img src="/uploads/2008/figure3a.jpg" alt="figure3a.jpg" width="340" height="261" />
+<img src="{{ site.baseurl }}/uploads/2008/figure3a.jpg" alt="figure3a.jpg" width="340" height="261" />
 <figcaption markdown="span">
 **Figure 3a**. Legend:
 Star: Dmanisi hominid;

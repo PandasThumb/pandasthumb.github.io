@@ -13,7 +13,7 @@ Photograph by **Darren Garrison**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2013/Garrison_not_entered_frogthighs.jpg" alt="Garrison_not_entered_frogthighs.jpg" width="600" height="511" />
+<img src="{{ site.baseurl }}/uploads/2013/Garrison_not_entered_frogthighs.jpg" alt="Garrison_not_entered_frogthighs.jpg" width="600" height="511" />
 <figcaption markdown="span">
 <big>[_Hyla versicolor_](http://animaldiversity.ummz.umich.edu/accounts/Hyla_versicolor/) -- gray tree frog.</big>
 

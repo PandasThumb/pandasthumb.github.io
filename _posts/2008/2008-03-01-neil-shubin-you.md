@@ -36,4 +36,4 @@ On Youtube we find many more fascinating videos about Shubin's book and his work
 
 # Sales Rank
 
-[<img src="/uploads/2008/Picture 6-thumb-479x240.png" alt="Picture 6.png" width="479" height="240" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/Picture%206.html)
+[<img src="{{ site.baseurl }}/uploads/2008/Picture 6-thumb-479x240.png" alt="Picture 6.png" width="479" height="240" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/Picture%206.html)

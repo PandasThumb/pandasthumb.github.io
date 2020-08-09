@@ -15,7 +15,7 @@ Don't forget to vote in our new [Invasive contest](http://pandasthumb.org/archiv
 The winner of the threatened or endangered category is Dan Stodola for his splendid photograph of a Mexican Gray Wolf.
 
 <figure>
-<img src="/uploads/2010/Stodola.Mexican_Gray_Wolf.jpg" alt="" width="600" height="400" />
+<img src="{{ site.baseurl }}/uploads/2010/Stodola.Mexican_Gray_Wolf.jpg" alt="" width="600" height="400" />
 <figcaption markdown="span">
 _Canis lupus baileyi_, [Mexican gray wolf](http://en.wikipedia.org/wiki/Mexican_Wolf), by Dan Stodola &mdash; A subspecies of the gray wolf. Was intentionally eradicated from the wild to protect domestic livestock. Has now been reintroduced to a limited range in Arizona. Photo taken at Brookfield Zoo.
 

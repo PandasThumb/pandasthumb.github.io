@@ -11,7 +11,7 @@ basename: is_math_the_mos
 A recent [Gallup poll](http://www.gallup.com/poll/164249/americans-grade-math-valuable-school-subject.aspx) concluded that Americans consistently rate math the most valuable subject they took in school, ahead of English, science, and history. Specifically, 34&nbsp;% of those polled in both 2002 and 2013 rated math the most important subject. English, meaning English, reading, and literature, came in second, with 21&nbsp;% in 2013 rating English the most important. Between 2002 and 2013, incidentally, science jumped from 4&nbsp;% to 12&nbsp;%. Figure 1 shows Gallup's results for 2002 and 2013 in graphical form.
 
 <figure>
-<img src="/uploads/2013/GallupPoll2013_1.jpg" alt="GallupPoll2013_1.jpg" width="600" height="360" />
+<img src="{{ site.baseurl }}/uploads/2013/GallupPoll2013_1.jpg" alt="GallupPoll2013_1.jpg" width="600" height="360" />
 <figcaption markdown="span">
 Figure 1. Percentage of responses to Gallup polls taken in 2002 and 2013. Mathematics held firm at 34&nbsp;%, whereas science increased from 4 to 12&nbsp;% at the expense of English, reading, and literature.
 
@@ -21,7 +21,7 @@ Figure 1. Percentage of responses to Gallup polls taken in 2002 and 2013. Mathem
 The preference for math decreased with increasing educational level, as shown in Figure 2, whereas English increased from 19&nbsp;% among those with some high school education to 25&nbsp;% among college graduates and holders of advanced degrees.
 
 <figure>
-<img src="/uploads/2013/GallupPoll2013_2.jpg" alt="GallupPoll2013_2.jpg" width="600" height="371" />
+<img src="{{ site.baseurl }}/uploads/2013/GallupPoll2013_2.jpg" alt="GallupPoll2013_2.jpg" width="600" height="371" />
 <figcaption markdown="span">
 Figure 2. Percentage of responses grouped by educational level. The preference for mathematics decreases with increasing education, whereas English, reading, and literature increases.
 

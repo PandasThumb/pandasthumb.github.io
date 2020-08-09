@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3206
 basename: library_collect
 ---
-<img src="/uploads/2007/readingrainbow.jpg" alt="readingrainbow.jpg" width="89" height="135" style="float:left;" /> I learned today via an email sent to [EvolDir](http://evol.mcmaster.ca/brian/evoldir.html), that some graduate students at Portland State University have put together [a petition for Darwin Day](http://www.sciencea2z.com/z_etomite/).  They plan to present this petition on February 12, 2009 to the Library of Congress, libraries, and bookstores, formally asking that that the anti-science works of creationists and intelligent design activists no longer be classified as "science" in libraries and bookstores.
+<img src="{{ site.baseurl }}/uploads/2007/readingrainbow.jpg" alt="readingrainbow.jpg" width="89" height="135" style="float:left;" /> I learned today via an email sent to [EvolDir](http://evol.mcmaster.ca/brian/evoldir.html), that some graduate students at Portland State University have put together [a petition for Darwin Day](http://www.sciencea2z.com/z_etomite/).  They plan to present this petition on February 12, 2009 to the Library of Congress, libraries, and bookstores, formally asking that that the anti-science works of creationists and intelligent design activists no longer be classified as "science" in libraries and bookstores.
 
 Their hearts are in the right place, but I believe that they have misunderstood the issues facing our libraries and bookstores.
 

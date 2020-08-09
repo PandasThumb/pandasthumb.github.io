@@ -12,6 +12,6 @@ The New York Academy of Sciences provides us with [access to a talk](http://www.
 
 Click on the [Flash presentation](http://www.nyas.org/snc/rw/57/presentations/player.html)
 
-<img src="/uploads/2008/nusslein15_small.gif" alt="nusslein15_small.gif" width="320" height="246" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
+<img src="{{ site.baseurl }}/uploads/2008/nusslein15_small.gif" alt="nusslein15_small.gif" width="320" height="246" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
 
 I also suggest that interested readers get their hands on her book "[Coming to Life: How Genes Drive Development](http://www.amazon.com/exec/obidos/tg/detail/-/0967007674/newyorkacadem-20)" by Christiane Nüsslein-Volhard or read an excerpt of the book: [Chapter IX — Evolution, Body Plans, and Genomes ](http://www.nyas.org/pdfs/RWEx57_nusslein_volhard.pdf)

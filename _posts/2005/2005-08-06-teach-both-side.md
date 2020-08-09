@@ -9,7 +9,7 @@ blog_id: 2
 post_id: 1232
 basename: teach_both_side
 ---
-<img src="/uploads/2005/2005_04_SciAm_fake_cover_small.png" alt="" style="float:left;" />Just as the storm was breaking over [Bush's "teach both sides" comments](/archives/2005/08/the-reaction-to.html) last week, I found myself in the airport.  While there, I picked up the latest issues of _Scientific American_ and _Discover_. _SciAm_ evidently is [_still_ getting letters](http://www.sciam.com/article.cfm?chanID=sa006&amp;articleID=000AE9C9-0414-12DC-807E83414B7F0000&amp;colID=3) from its [widely-blogged](http://www.pandasthumb.org/pt-archives/000911.html), April 1 prank, "[OK, We give up: We feel so ashamed](http://www.sciam.com/article.cfm?articleID=000E555C-4387-1237-81CB83414B7FFE9F)."  
+<img src="{{ site.baseurl }}/uploads/2005/2005_04_SciAm_fake_cover_small.png" alt="" style="float:left;" />Just as the storm was breaking over [Bush's "teach both sides" comments](/archives/2005/08/the-reaction-to.html) last week, I found myself in the airport.  While there, I picked up the latest issues of _Scientific American_ and _Discover_. _SciAm_ evidently is [_still_ getting letters](http://www.sciam.com/article.cfm?chanID=sa006&amp;articleID=000AE9C9-0414-12DC-807E83414B7F0000&amp;colID=3) from its [widely-blogged](http://www.pandasthumb.org/pt-archives/000911.html), April 1 prank, "[OK, We give up: We feel so ashamed](http://www.sciam.com/article.cfm?articleID=000E555C-4387-1237-81CB83414B7FFE9F)."  
 
 In the letters section, they reprinted the fake cover they included in the print version of the April issue. Since the fake cover graphic never made it to the web, I figured it would be apropos to upload a scan of it (left) to remind everyone where the "teach both sides" logic naturally leads.
 
@@ -19,11 +19,11 @@ Here is [one comment _Scientific American_ got](http://www.sciam.com/article.cfm
 
 Here is another:
 
-<img src="/uploads/2005/2005_04_SciAm_Ryan_Thomas_comment.png" alt="" />
+<img src="{{ site.baseurl }}/uploads/2005/2005_04_SciAm_Ryan_Thomas_comment.png" alt="" />
 
 I thought the positioning of the latter letter was interesting:
 
-<img src="/uploads/2005/2005_04_SciAm_Ryan_Thomas_comment_cover.png" alt="" />
+<img src="{{ site.baseurl }}/uploads/2005/2005_04_SciAm_Ryan_Thomas_comment_cover.png" alt="" />
 
 Also in this month's _SciAm_, a well-illustrated article on "[The Early Evolution of Animals](http://www.sciam.com/article.cfm?chanID=sa006&amp;articleID=00034647-C88D-12DB-882283414B7F0000)," by [Dan Bottjer](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&amp;cmd=Search&amp;term=%22Bottjer+DJ%22%5BAuthor%5D), one of the discoverers of _Vernanimalcula guizhouena_, a microscopic bilaterian worm fossil from 40+ million years before the beginning of the Cambrian.  This discovery was [reported in _Science_ in 2004](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15178752&amp;query_hl=4), and must have really annoyed Stephen Meyer and crew, who only in 2003 boldly wrote, in "[The Cambrian Explosion: Biology's Big Bang](http://www.discovery.org/scripts/viewDB/filesDB-download.php?id=29),"
 

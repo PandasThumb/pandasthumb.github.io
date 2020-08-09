@@ -4,7 +4,7 @@ date: '2019-11-05 15:45:00 -07:00'
 author: Allan Franklin
 ---
 <figure>
-<img src="/uploads/2019/Franklin_Cover_Cropped_600.jpg" alt="Book cover"/>
+<img src="{{ site.baseurl }}/uploads/2019/Franklin_Cover_Cropped_600.jpg" alt="Book cover"/>
 </figure>
 
 <i>This post by Allan Franklin concerns the replication problem – that is, the ability or inability to reproduce an experimental result – in physics. The replication problem is at least as important in biology and medicine, so I asked Prof. Franklin for permission to post the introduction to his book, <a href="https://www.amazon.com/Same-Result-Replication-Physics-Concise-ebook/dp">Is It the Same Result? Replication in Physics</a>. I hope it will engender an interesting discussion here. I will be the moderator of that discussion. –Matt Young

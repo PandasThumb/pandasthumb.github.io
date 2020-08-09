@@ -9,7 +9,7 @@ post_id: 4775
 basename: cucurbita_sp
 ---
 <figure>
-<img src="/uploads/2010/IMG_1237Pumpkin_600.JPG" alt="IMG_1237Pumpkin_600.JPG" width="600" height="800" />
+<img src="{{ site.baseurl }}/uploads/2010/IMG_1237Pumpkin_600.JPG" alt="IMG_1237Pumpkin_600.JPG" width="600" height="800" />
 <figcaption markdown="span">
 <big>_Cucurbita_ sp. -- [pumpkin](http://en.wikipedia.org/wiki/Pumpkin), Boulder, Colorado, 2004</big>.  The juvenile _H. sapiens_ is Noah Young.
 

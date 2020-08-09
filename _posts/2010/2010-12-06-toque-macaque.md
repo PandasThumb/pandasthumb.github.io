@@ -13,7 +13,7 @@ Photograph by **Siromi Samarasinghe**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2010/SamarasingheS.Toque_macaque.JPG" alt="SamarasingheS.Toque_macaque.JPG" width="528" height="600" />
+<img src="{{ site.baseurl }}/uploads/2010/SamarasingheS.Toque_macaque.JPG" alt="SamarasingheS.Toque_macaque.JPG" width="528" height="600" />
 <figcaption markdown="span">
 <big>_Macaca sinica_ -- [toque macaque](http://en.wikipedia.org/wiki/Toque_Macaque), or temple monkey, Bundala National Park, Sri Lanka.</big> Ms. Samarasinghe writes that this is an old-world monkey endemic to Sri Lanka. Its conservation status is endangered.
 

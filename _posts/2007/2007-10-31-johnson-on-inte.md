@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3361
 basename: johnson_on_inte
 ---
-[<img src="/uploads/2007/flunked-thumb-100x31.jpg" alt="flunked.jpg" width="100" height="31" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/flunked8.html)In my earlier posting on Johnson, I was reminded by a [Ron Okimoto](http://pandasthumb.org/archives/2007/10/intelligent-des-37.html#comment-133610) that Johnson in an interview with the Berkeley Science Review had made even [more startling claims](http://sciencereview.berkeley.edu/articles.php?issue=10&amp;article=evolution):
+[<img src="{{ site.baseurl }}/uploads/2007/flunked-thumb-100x31.jpg" alt="flunked.jpg" width="100" height="31" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://pandasthumb.org/archives/flunked8.html)In my earlier posting on Johnson, I was reminded by a [Ron Okimoto](http://pandasthumb.org/archives/2007/10/intelligent-des-37.html#comment-133610) that Johnson in an interview with the Berkeley Science Review had made even [more startling claims](http://sciencereview.berkeley.edu/articles.php?issue=10&amp;article=evolution):
 
 > “I considered \[Dover\] a loser from the start,” Johnson begins. “Where you have a board writing a statement and telling the teachers to repeat it to the class, I thought that was a very bad idea.” The jaw drops further when he continues:
 > 

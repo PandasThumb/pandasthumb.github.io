@@ -44,32 +44,32 @@ overflow:auto !important;
 } 
 </style>
 <ul id="mygalleryview" >
-<li><img src="/uploads/2011/Cooper.CoolingPahoehoe.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2011/Cooper.CoolingPahoehoe.jpg" />
 <div class="panel-overlay">
 Cooling pahoehoe lava from <a href="http://www.darkerview.com/darkview/index.php?/categories/28-Kilauea">Kilauea</a>,  Hawaii, by Andrew Cooper &mdash; basaltic lava.  
 </div>
 </li>
-<li><img src="/uploads/2011/Hughes.Diaphania%20hyalinata%20-%20Melonworm%20Moth.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2011/Hughes.Diaphania%20hyalinata%20-%20Melonworm%20Moth.jpg" />
 <div class="panel-overlay">
 <i>Diaphania hyalinata</i>, <a href="http://bugguide.net/node/view/348761">melonworm moth</a>, by Richard Hughes &mdash; Brandon, Florida. The moth waves its feathery tail structure back and forth to disperse <a href="http://insects.about.com/od/behaviorcommunication/f/how_insects_smell.htm">pheromones</a> for attracting a mate. 
 </div>
 </li>
-<li><img src="/uploads/2011/Moulton.Callisaurus_draconoides.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2011/Moulton.Callisaurus_draconoides.jpg" />
 <div class="panel-overlay">
 <i>Callisaurus draconoides</i>, <a href="http://www.reptilesofaz.org/Lizards-Subpages/h-c-draconoides.html">zebra-tailed lizard</a>, by Pete Moulton &mdash; this male is basking on a rock near the confluence of the Rio Verde and Rio Salado north of Mesa, Arizona. Mr. Moulton adds, "He's got me sussed, and there's no getting any closer."
 </div>
 </li>
-<li><img src="/uploads/2011/plummer.Magicicada.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2011/plummer.Magicicada.jpg" />
 <div class="panel-overlay">
 <i>Magicicada</i> sp., <a href="http://www.magicicada.org/">periodical cicada</a>, by Nicholas Plummer  &mdash;  newly emerged adult with its larval exoskeleton.  It is a member of Brood XIX, one of the 13-year populations.
 </div>
 </li>
-<li><img src="/uploads/2011/Rice.Equus_ferus_caballus.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2011/Rice.Equus_ferus_caballus.jpg" />
 <div class="panel-overlay">
 <i>Equus ferus caballus</i>, feral <a href="http://en.wikipedia.org/wiki/Mustang_(horse)">mustangs</a>, by James Rice &mdash;  arid basin in Eastern Nevada. Controversy surrounds the presence of feral mustang herds. Supporters argue that mustangs are part of the natural heritage of the American West, whose history predates modern land use practices, and thus the animals have an inherent right of inhabitation. Others remain vehemently opposed to their presence, arguing that the animals degrade rangeland and compete with livestock and wild species for forage. The controversy is further complicated by the claim that horses are a reintroduced native species due to the prehistoric presence of horses in North America
 </div>
 </li>
-<li><img src="/uploads/2011/Wilhelm.Orchelimum_vulgare.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2011/Wilhelm.Orchelimum_vulgare.jpg" />
 <div class="panel-overlay">
 <i>Orchelimum vulgare</i>, common meadow <a href="http://en.wikipedia.org/wiki/Tettigoniidae">katydid</a>, resting on a <a href="en.wikipedia.org/wiki/Canna_(plant)">canna lily</a>, <i>Canna x</i>, unknown cultivar, by Lynn Wilhelm &mdash;  Ms. Wilhelm adds, "I'm sure it's the <i>Tettigoniidae</i> family, quite sure it's the <i>Orchelimum</i> genus--not completely sure about species."
 </div>

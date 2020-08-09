@@ -44,32 +44,32 @@ overflow:auto !important;
 } 
 </style>
 <ul id="mygalleryview" >
-<li><img src="/uploads/2011/Brooks%20Ammonite%202.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2011/Brooks%20Ammonite%202.jpg" />
 <div class="panel-overlay">
 <a href="en.wikipedia.org/wiki/Ammonite">Ammonite fossils</a>, by Amanda Brooks &mdash; Benbrook Lake, southwest Tarrant County, just outside Fort Worth, Texas. This area is known for the <a href="http://geology.com/research/barnett-shale-gas.shtml">Barnett Shale formation</a> which is formed by sedimentary rock from about 350 Ma.
 </div>
 </li>
-<li><img src="/uploads/2011/Moulton.Phalacrocorax_brasilianus_imm.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2011/Moulton.Phalacrocorax_brasilianus_imm.jpg" />
 <div class="panel-overlay">
 <i>Phalacrocorax brasilianus</i>, Immature <a href="http://www.allaboutbirds.org/guide/Neotropic_Cormorant/lifehistory">Neotropic Cormorant</a>, by Pete Moulton &mdash; Phoenix, Arizona, late May, 2011. Over the last 15 years or so, this species has expanded explosively into Arizona, arguably our major ornithological story of the last five or six decades. The reasons for this expansion aren't well understood yet, but may be related to the effects of the northwestern Mexican drought on available habitats there, and the creation of new habitats in the Phoenix area. Inexplicably, they've largely bypassed Tucson so far.
 </div>
 </li>
-<li><img src="/uploads/2011/muntz_atlantic_bottlenose_dolphin.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2011/muntz_atlantic_bottlenose_dolphin.jpg" />
 <div class="panel-overlay">
 <i>Tursiops truncatus</i>, <a href="http://www.aqua.org/animals_atlanticbottlenosedolphin.html">Atlantic bottlenose dolphin</a>, by David Muntz jr &mdash; off the coast of Wildwood, N. J., aboard sightseer tour boat. 
 </div>
 </li>
-<li><img src="/uploads/2011/plummer.Nerodia_and_Ameiurus.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2011/plummer.Nerodia_and_Ameiurus.jpg" />
 <div class="panel-overlay">
 <i>Nerodia sipedon</i>, <a href="http://www.herpsofnc.org/herps_of_nc/snakes/Nersip/Ner_sip.html">northern water snake</a> attempting to swallow <i>Ameiurus</i> sp., bullhead catfish, by Nicholas Plummer &mdash; Eno River, central North Carolina.
 </div>
 </li>
-<li><img src="/uploads/2011/Rein.Roboastra_gracilis.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2011/Rein.Roboastra_gracilis.jpg" />
 <div class="panel-overlay">
 <i>Roboastra gracilis</i>, <a href="http://www.seaslugforum.net/find/robograc">sea slug </a>, by Joel Rein. 
 </div>
 </li>
-<li><img src="/uploads/2011/Siccha.Dolomedes_scriptus.jpg" />
+<li><img src="{{ site.baseurl }}/uploads/2011/Siccha.Dolomedes_scriptus.jpg" />
 <div class="panel-overlay">
 <i>Dolomedes scriptus </i>, <a href="http://bugguide.net/node/view/38828">fishing spider</a>, by Michael Siccha &mdash; Kejimkujik National Park, Nova Scotia, Canada.
 </div>

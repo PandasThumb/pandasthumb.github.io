@@ -9,7 +9,7 @@ It may be a little unfair of me to label it the “Hobby Lobby” Museum of the 
 And although the Museum expects to attract evangelical Christians, it apparently will not specifically attempt to “bring to life the living word of God . . . to inspire confidence in the absolute authority” of the Bible, as was in its initial mission statement, according to the *Post*. Indeed, the museum reportedly sought advice from experts in many different traditions. Nevertheless, at least one scholar, Steven Friesen of the Society of Biblical Literature, has studied the [Museum’s website](https://www.museumofthebible.org/) and inferred that it is promoting a specific view of the Bible and relates very little, for example, about how the Bible was compiled. (I only skimmed the website and also suffered through some [videos](https://www.museumofthebible.org/thebook), incidentally, and I thought they were not unreasonable.) Likewise, Grant Wacker, an expert on the history of Christianity and an evangelical Christian, declined to serve on the Museum’s board, because he would have been required to sign a statement of faith that he thought went too far.
 
 <figure>
-<img src="/uploads/2017/Cuneiform_Tablet.jpg" alt="Tablet"/>
+<img src="{{ site.baseurl }}/uploads/2017/Cuneiform_Tablet.jpg" alt="Tablet"/>
 <figcaption>Cuneiform tablet illegally imported into the United States from Iraq. Credit: United States Attorney for the Eastern District of New York.
 </figcaption>
 </figure>

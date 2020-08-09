@@ -4,7 +4,7 @@ date: '2019-03-12 11:06:00 -06:00'
 author: Matt Young
 ---
 <figure>
-<img src="/uploads/2019/Science_Sign.jpg" alt="Demonstration"/>
+<img src="{{ site.baseurl }}/uploads/2019/Science_Sign.jpg" alt="Demonstration"/>
 <figcaption>March for Science, April 22, 2017. <small>Credit: "Another Believer," Wikimedia, Creative Commons 3.0 BY SA.</small>
 </figcaption>
 </figure>

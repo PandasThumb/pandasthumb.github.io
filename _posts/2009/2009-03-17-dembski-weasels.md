@@ -33,11 +33,11 @@ Say what? How long does it take someone to write a program that basically takes 
 
 Indeed, if he were lazy he could have just looked one up on the web and checked how it was programmed. For a time there was a cottage industry in making weasel programs, and there were lots of them. To demonstrate, I have resurrected [a program](http://home.mira.net/~reynella1/weasle2a.bas)  I made in QBASIC\[4\]. Now, the program I've written \[4\] is written to be as close as possible to Dawkins original as described in the book in terms of how it works (although I've added in the ability to change the string and the number of offspring). All offspring strings are mutated (one mutation per string, the mutation is a random letter placed in a random lcocation), and no mutation is "locked" into place. Any given "good" mutation can potentially be mutated out again (and is if you watch carefully). If you run the program with 100 offspring (as per Dawkins), unless you are preternaturally fast you won't see any backing and froing. If you run the program with 50 or 30 offspring, it is easier to see backing up \[2\]. The screen shot below shows the current best string, which is worse than the previous best string (and I had to add wait loops so it was slow enough for me to catch with PrintScreen, see also the string capture listed at \[2\] at the bottom of the post). 
 
-<img src="/uploads/2009/weasle_1.jpg" alt="weasle_1.jpg" width="596" height="76" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2009/weasle_1.jpg" alt="weasle_1.jpg" width="596" height="76" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 Even with the low offspring number the program converges on a solution (see second screen shot).
 
-<img src="/uploads/2009/Weasle_2.jpg" alt="Weasle_2.jpg" width="631" height="92" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2009/Weasle_2.jpg" alt="Weasle_2.jpg" width="631" height="92" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 This demonstrates that Dawkins program works just fine without "locking". With populations of 100 offspring, where it is hard to see back mutation, I got convergence in 65, 36 and 100 generations in 3 separate runs. Quite similar to the runs Dawkins reports in his book.
 

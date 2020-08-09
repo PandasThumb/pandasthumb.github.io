@@ -13,7 +13,7 @@ Photograph by **Peter Psyhos Burns**.
 Photography contest, Honorable Mention. 
 
 <figure>
-<img src="/uploads/2013/Burns.FiddlerCrab.jpg" alt="Burns.FiddlerCrab.jpg" width="600" height="834" />
+<img src="{{ site.baseurl }}/uploads/2013/Burns.FiddlerCrab.jpg" alt="Burns.FiddlerCrab.jpg" width="600" height="834" />
 <figcaption markdown="span">
 <big>[_Uca pugilator_](http://en.wikipedia.org/wiki/Uca_pugilator) -- sand fiddler crab, Wellfleet, Massachusetts, July, 2003.</big> 
 

@@ -4,7 +4,7 @@ date: '2019-06-28 15:20:00 -06:00'
 author: David MacMillan
 ---
 <figure>
-<img src="/uploads/2019/MacMillan_Crocodile_Teeth.jpg" alt="Crocodile"/>
+<img src="{{ site.baseurl }}/uploads/2019/MacMillan_Crocodile_Teeth.jpg" alt="Crocodile"/>
 <figcaption>
 <small><a href="https://commons.wikimedia.org/wiki/File:Crocodylus_niloticus_-_Oasis_Park_-_001.jpg#file">Nile crocodile</a>; Oasis Park, La Lajita, Fuerteventura, Canary Islands, Spain. Photograph by H. Zell. CC-BY-SA 3.0.</small>
 </figcaption>

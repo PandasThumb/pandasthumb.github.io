@@ -8,7 +8,7 @@ Today being Valentine's Day and all that, I thought I would link to an article, 
 As an official and, if I may say so, unrepentant chocoholic, I was somewhat surprised by Ms. O'Meara's statement that the average per-capita consumption of chocolate in the United States is 5.5 kg/y. If I ate one of these
 
 <figure>
-<img src="/uploads/2018/DSC01778_Chocolate_600.JPG" alt="Chocolate"/>
+<img src="{{ site.baseurl }}/uploads/2018/DSC01778_Chocolate_600.JPG" alt="Chocolate"/>
 <figcaption>
 And it is <a href="https://www.scientificamerican.com/article/why-is-dark-chocolate-good-for-you-thank-your-microbes/">good for you</a> too!
 </figcaption>

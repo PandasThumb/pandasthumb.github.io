@@ -13,7 +13,7 @@ Photograph by **Kurt Andreas**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2012/Andreas.Toxomerus_marginatus.jpg" alt="Andreas.Toxomerus_marginatus.jpg" width="590" height="513" />
+<img src="{{ site.baseurl }}/uploads/2012/Andreas.Toxomerus_marginatus.jpg" alt="Andreas.Toxomerus_marginatus.jpg" width="590" height="513" />
 <figcaption markdown="span">
 <big>[ _Toxomerus marginatus_](http://en.wikipedia.org/wiki/Toxomerus_marginatus) -- hoverfly.</big> See also [here](http://pandasthumb.org/archives/2010/06/syrphidae.html).
 

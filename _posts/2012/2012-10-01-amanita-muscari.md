@@ -11,7 +11,7 @@ basename: amanita_muscari
 Photograph by **David Young**.
 
 <figure>
-<img src="/uploads/2012/Amanita%20muscaria%20mushroom%20at%20Maroon%20Bells.jpg" alt="Amanita muscaria mushroom at Maroon Bells.jpg" width="600" />
+<img src="{{ site.baseurl }}/uploads/2012/Amanita%20muscaria%20mushroom%20at%20Maroon%20Bells.jpg" alt="Amanita muscaria mushroom at Maroon Bells.jpg" width="600" />
 <figcaption markdown="span">
 <big>[_Amanita muscaria_](http://en.wikipedia.org/wiki/Amanita_muscaria) -- fly amanita, or fly agaric, Maroon Bells, Colorado.</big>
 

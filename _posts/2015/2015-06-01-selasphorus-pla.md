@@ -11,7 +11,7 @@ basename: selasphorus_pla
 Photograph by **David Young**.
 
 <figure>
-<img src="/uploads/2015/DavidBroadTailedHummingbirdCropped_600.jpg" alt="DavidBroadTailedHummingbirdCropped_600.jpg" width="600" />
+<img src="{{ site.baseurl }}/uploads/2015/DavidBroadTailedHummingbirdCropped_600.jpg" alt="DavidBroadTailedHummingbirdCropped_600.jpg" width="600" />
 <figcaption markdown="span">
 <big>[_Selasphorus platycercus_](http://beautyofbirds.com/hummingbirdscolorado.html) -- broad-tailed hummingbird, Boulder, Colorado, May, 2015.</big>
 

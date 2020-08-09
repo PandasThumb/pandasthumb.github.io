@@ -13,7 +13,7 @@ Photograph by **Andrew Freeman**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2014/Freeman.Geum_aleppicum.jpg" alt="Freeman.Geum_aleppicum.jpg" width="600" height="801" />
+<img src="{{ site.baseurl }}/uploads/2014/Freeman.Geum_aleppicum.jpg" alt="Freeman.Geum_aleppicum.jpg" width="600" height="801" />
 <figcaption markdown="span">
 <big>[_Geum aleppicum_](http://www.swcoloradowildflowers.com/yellow%20enlarged%20photo%20pages/geum.htm) -- yellow avens, Pearl Lake, Colorado.</big>
 

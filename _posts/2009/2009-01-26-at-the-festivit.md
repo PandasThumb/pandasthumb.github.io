@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 4121
 basename: at_the_festivit
 ---
-<img src="/uploads/2009/PSSpurpletix.jpg" alt="PSSpurpletix.jpg" width="600" height="275" />
+<img src="{{ site.baseurl }}/uploads/2009/PSSpurpletix.jpg" alt="PSSpurpletix.jpg" width="600" height="275" />
 
 
 Unfortunately, it was one of [these tickets](http://www.huffingtonpost.com/2009/01/23/purple-ticket-turmoil-wha_n_160150.html).  Oh well...

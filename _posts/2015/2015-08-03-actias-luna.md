@@ -13,7 +13,7 @@ Photograph by **Tom Gillespie**.
 Photography Contest, **Second Place**.
 
 <figure>
-<img src="/uploads/2015/Gillespie.Luna_Moth.jpg" alt="Gillespie.Luna_Moth.jpg" width="600" height="450" />
+<img src="{{ site.baseurl }}/uploads/2015/Gillespie.Luna_Moth.jpg" alt="Gillespie.Luna_Moth.jpg" width="600" height="450" />
 <figcaption markdown="span">
 <big>[_Actias luna_]( http://www.butterfliesandmoths.org/species/Actias-luna) -- Luna moth, Duluth, Georgia. Shot from underneath, as it was resting upside-down in my azalea bush.</big>
 

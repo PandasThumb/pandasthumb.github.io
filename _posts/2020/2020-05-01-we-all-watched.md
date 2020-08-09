@@ -5,7 +5,7 @@ author: Matt Young and Joe Felsenstein
 ---
 
 <figure>
-<img src="/uploads/2020/We_Believe_Poster.jpg" alt="Poster"/>
+<img src="{{ site.baseurl }}/uploads/2020/We_Believe_Poster.jpg" alt="Poster"/>
 <figcaption>Poster for the film, "We Believe in Dinosaurs."
 </figcaption>
 </figure>

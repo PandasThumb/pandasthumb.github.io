@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3910
 basename: the_history_cha
 ---
-<img src="/uploads/2008/histchan.png" alt="" width="262" height="368" style="float:right;" />
+<img src="{{ site.baseurl }}/uploads/2008/histchan.png" alt="" width="262" height="368" style="float:right;" />
 Over the next few weeks, the History Channel is showing a fascinating series called "Evolve." Here is the synopsis of the [first episode, titled "Eyes"](http://www.history.com/shows.do?episodeId=322750&amp;action=detail): 
 
 

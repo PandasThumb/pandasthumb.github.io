@@ -10,4 +10,4 @@ basename: changes_are_aco
 ---
 Sometime early this week, we will be upgrading the server software, transitioning to PostgreSQL, and deploying a new site design.  Service may get spotty, but enjoy a sample of our new look:
 
-<img src="/uploads/2007/sample.jpg" alt="sample.jpg" width="500" height="400" />
+<img src="{{ site.baseurl }}/uploads/2007/sample.jpg" alt="sample.jpg" width="500" height="400" />

@@ -30,4 +30,4 @@ The science graduate degrees held by the main contributors to "IDtheFuture" are 
 
 Finally, the alert reader of IDtheFuture will note that in the blog's header (reproduced below) there appears to be the not-very-well hidden icon of persecuted early Christianity, the Icthus, complete with pectoral fins and right eye. An extraordinary coincidence, if it accidentally emerged from the design. If put there intentionally, the cryptic icthus makes an eloquent point about the true relationship of Christian theology to Intelligent Design, Dembski's protestations notwithstanding. Like the icthus on the DI header, the presence of creationism within "Intelligent Design" is hidden in plain sight.
 
-<img src="/uploads/2005/mHeaderLeft.jpg" alt="" style="float:left;" />
+<img src="{{ site.baseurl }}/uploads/2005/mHeaderLeft.jpg" alt="" style="float:left;" />

@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 6972
 basename: discovery_insti_10
 ---
-<img src="/uploads/2014/si-JulAug2014.jpg" alt="si-JulAug2014.jpg" width="470" height="623" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
+<img src="{{ site.baseurl }}/uploads/2014/si-JulAug2014.jpg" alt="si-JulAug2014.jpg" width="470" height="623" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
 I've a brief new article in the new [Skeptical Inquirer](http://www.csicop.org/si/) (July/August 2014) regarding Casey Luskin's botched attack on the second episode of Cosmos.  Here it follows - your comments are welcomed.
 
 > Fox TV's Seth McFarlane has joined with astrophysicist Neil deGrasse Tyson and Ann Druyan,  Carl Sagan's widow and collaborator, to continue Sagan's marvelous _Cosmos_series of decades ago. The new series is a splendid blend of homage to Sagan's original one with dazzling new graphics--and new discoveries.

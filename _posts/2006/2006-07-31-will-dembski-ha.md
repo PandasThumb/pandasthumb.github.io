@@ -11,7 +11,7 @@ blog_id: 2
 post_id: 2386
 basename: will_dembski_ha
 ---
-<img src="/uploads/2006/CSHlogo.jpg" alt="CSHlogo.jpg" width="79" height="80" style="float:left;" />
+<img src="{{ site.baseurl }}/uploads/2006/CSHlogo.jpg" alt="CSHlogo.jpg" width="79" height="80" style="float:left;" />
 
 Many readers of this blog will be familiar with [Cold Spring Harbor Laboratory](http://www.cshl.edu). CSHL is the Long Island educational and research institution that hosts some of the most important professional meetings in several biological disciplines. It has for decades been the "home campus" of phage, bacterial and yeast genetics, as well as of computational neuroscience, developmental biology and various branches of genomics, bioinformatics and systems biology.
 

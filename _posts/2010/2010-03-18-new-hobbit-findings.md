@@ -46,7 +46,7 @@ Jungers and Baab 2009 wrote:
 
 To drive home the message, look at the scatter plots comparing LB1 to human pygmy populations:
 
-<img src="/uploads/2010/Jungers_Hobbit.png" alt="Jungers_Hobbit.png" width="502" height="626" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2010/Jungers_Hobbit.png" alt="Jungers_Hobbit.png" width="502" height="626" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 It's worth mentioning that these conclusions are not based solely on the LB1 fossil. A second lower jaw very similar to the first one has been found, upper limb bones have been found from six different individuals, and lower limb bones have been found from up to nine individuals. If LB1 was pathological (a very big if), it seems her whole population was similarly afflicted.
 

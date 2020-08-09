@@ -14,7 +14,7 @@ Photography contest, Honorable Mention.
 
 
 <figure>
-<img src="/uploads/2013/Kocher_HoytStromatolites.jpg" alt="Kocher_HoytStromatolites.jpg" width="600" height="449" />
+<img src="{{ site.baseurl }}/uploads/2013/Kocher_HoytStromatolites.jpg" alt="Kocher_HoytStromatolites.jpg" width="600" height="449" />
 <figcaption markdown="span">
 <big>[Stromatolites](http://en.wikipedia.org/wiki/Stromatolites) in outcrop, cryptozoon proliferum (Hall, 1882).  Hoyt limestone, late Cambrian (~500 Ma).  [Lester Park](http://www.nysm.nysed.gov/nysgs/experience/sites/lesterpark/index.html), Saratoga Springs, N.Y., July, 2012.</big>
 

@@ -13,7 +13,7 @@ Photograph by **Paul Ruggeri**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2013/Ruggeri.ElephantHide.JPG" alt="Ruggeri.ElephantHide.JPG" width="600" height="389" />
+<img src="{{ site.baseurl }}/uploads/2013/Ruggeri.ElephantHide.JPG" alt="Ruggeri.ElephantHide.JPG" width="600" height="389" />
 <figcaption markdown="span">
 <big>[_Loxodonta africana_](http://animaldiversity.ummz.umich.edu/accounts/Loxodonta_africana/) -- African elephant.</big> Mud dries on the back of the elephant. The mud in the furrows between the folds remains moist, helping the elephant to keep cool in the heat. The dried mud on the folds helps protect against sunburn. 
 

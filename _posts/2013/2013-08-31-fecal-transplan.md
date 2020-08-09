@@ -22,7 +22,7 @@ Watch out, though - I read somewhere (but cannot recover the reference) that dif
 
 
 <figure>
-<img src="/uploads/2013/IMG_0284_PoopSign_600.JPG" alt="IMG_0284_PoopSign_600.JPG" width="600" height="840" />
+<img src="{{ site.baseurl }}/uploads/2013/IMG_0284_PoopSign_600.JPG" alt="IMG_0284_PoopSign_600.JPG" width="600" height="840" />
 <figcaption markdown="span">
 
 </figcaption>

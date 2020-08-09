@@ -4,7 +4,7 @@ date: '2020-02-24 14:40:00 -07:00'
 author: Matt Young
 ---
 <figure>
-<img src="/uploads/2020/No_Planet_B_600.jpg" alt="No Planet B"/>
+<img src="{{ site.baseurl }}/uploads/2020/No_Planet_B_600.jpg" alt="No Planet B"/>
 <figcaption> Photograph borrowed from Monash University by AIG with the purpose of promulgating precisely the opposite message to that of Monash University. <small>Credit: Monash University. Fair use.</small>
 </figcaption>
 </figure>

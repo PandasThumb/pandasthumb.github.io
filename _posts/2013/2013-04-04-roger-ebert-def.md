@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 6698
 basename: roger_ebert_def
 ---
-<img src="/uploads/2013/ebert2002.jpg" alt="ebert2002.jpg" width="127" height="141" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
+<img src="{{ site.baseurl }}/uploads/2013/ebert2002.jpg" alt="ebert2002.jpg" width="127" height="141" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
 
 As we reflect upon the amazing body of work left behind by this giant of the movie scene, readers of the Thumb should know (if they don't already) that Roger Ebert was a passionate defender of science, and of evolution in particular.
 

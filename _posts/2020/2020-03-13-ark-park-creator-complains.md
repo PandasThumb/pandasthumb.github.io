@@ -5,7 +5,7 @@ date: '2020-03-13 12:57:00 -06:00'
 author: Dan Phelps
 ---
 <figure>
-<img src="/uploads/2020/Dan&Ken.JPG" alt=" Dan Phelps and Ken Ham"/>
+<img src="{{ site.baseurl }}/uploads/2020/Dan&Ken.JPG" alt=" Dan Phelps and Ken Ham"/>
 <figcaption> The author, right, with Ken Ham, in less fractious times.
 </figcaption>
 </figure>

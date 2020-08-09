@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 3842
 basename: allen_macneill_3
 ---
-<img src="/uploads/2008/Allen_2007-thumb-100x127.jpg" alt="Thumbnail image for Allen_2007.jpg" width="100" height="127" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />Allen MacNeill has yet another interesting contribution (as well as an announcement about a new course). 
+<img src="{{ site.baseurl }}/uploads/2008/Allen_2007-thumb-100x127.jpg" alt="Thumbnail image for Allen_2007.jpg" width="100" height="127" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />Allen MacNeill has yet another interesting contribution (as well as an announcement about a new course). 
 **Allen MacNeill**:It's very gratifying to see Lynn Margulis finally getting the recognition that she deserves. As the originator of the serial endosymbiosis theory (SET) for the origin of eukaryotes, Lynn's work provides an excellent example of how ID should (but currently doesn't) proceed. During the late 1960s, Lynn published a series of revolutionary papers on the evolution of eukaryotic cells, culminating in her landmark book Symbiosis and Cell Evolution, in which she carefully laid out the empirical evidence supporting the theory that mitochondria, choloroplasts, and undulapodia (eukaryotic cilia and flagella) were once free living bacteria (purple sulfur bacteria, cyanobacteria, and spirochaetes, respectively).
 
 Read the rest at [Serial Endosymbiosis and Intelligent Design ](http://evolutionlist.blogspot.com/2008/04/serial-endosymbiosis-and-intelligent.html)

@@ -13,7 +13,7 @@ Photograph by **Robin Lee-Thorp**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2014/Lee-Thorp.Eastern%20Blue.JPG" alt="Lee-Thorp.Eastern Blue.JPG" width="564" height="587" />
+<img src="{{ site.baseurl }}/uploads/2014/Lee-Thorp.Eastern%20Blue.JPG" alt="Lee-Thorp.Eastern Blue.JPG" width="564" height="587" />
 <figcaption markdown="span">
 <big>[_Cupido comyntas_](http://www.butterfliesandmoths.org/species/Cupido-comyntas) -- eastern tailed-blue butterfly.</big>
 

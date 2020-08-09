@@ -28,12 +28,12 @@ Michael Behe in Darwin's Black Box
 The simplest system consists of a Zeitgeber ('time giver') which can be light or any other external signal which drives an input pathway which drives the clock which drives the output pathway.
 
 
-<img alt="circadian_basic.jpg" src="/uploads/2005/circadian_basic.jpg" width="785" height="216" border="0" />
+<img alt="circadian_basic.jpg" src="{{ site.baseurl }}/uploads/2005/circadian_basic.jpg" width="785" height="216" border="0" />
 
 More complex systems can maintain a circadian rythm even without the external signals. 
 
 
-<img alt="circadian_complex.jpg" src="/uploads/2005/circadian_complex.jpg" width="591" height="216" border="0" />
+<img alt="circadian_complex.jpg" src="{{ site.baseurl }}/uploads/2005/circadian_complex.jpg" width="591" height="216" border="0" />
 
 
 In this case the input, and output pathways form auto-regulatory feedback loops and often exhibit circadian rhythms as well. Additionally the clock protein(s) can form a feedback loop to the input pathways.

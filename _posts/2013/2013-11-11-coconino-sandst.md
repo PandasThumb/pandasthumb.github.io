@@ -9,7 +9,7 @@ post_id: 6851
 basename: coconino_sandst
 ---
 <figure>
-<img src="/uploads/2013/Woolf.Coconino_Sandstone_JSW.jpg" alt="Woolf.Coconino_Sandstone_JSW.jpg" width="600" height="401" />
+<img src="{{ site.baseurl }}/uploads/2013/Woolf.Coconino_Sandstone_JSW.jpg" alt="Woolf.Coconino_Sandstone_JSW.jpg" width="600" height="401" />
 <figcaption markdown="span">
 <big>[Coconino Sandstone](http://3dparks.wr.usgs.gov/coloradoplateau/lexicon/coconino.htm), Walnut Canyon, near Flagstaff, Arizona.  Mr. Woolf adds, "Look carefully and you can see crossbedding preserved from the sand dunes that were lithified to form the Coconino."</big>
 

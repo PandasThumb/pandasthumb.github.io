@@ -11,7 +11,7 @@ basename: bear_lake_rocky_1
 Photograph by **David Young**.
 
 <figure>
-<img src="/uploads/2012/BearLake_RockyMtn%20NatPark_600.jpg" alt="BearLake_RockyMtn NatPark_600.jpg" width="600" height="400" />
+<img src="{{ site.baseurl }}/uploads/2012/BearLake_RockyMtn%20NatPark_600.jpg" alt="BearLake_RockyMtn NatPark_600.jpg" width="600" height="400" />
 <figcaption markdown="span">
 <big>[Bear Lake](http://en.wikipedia.org/wiki/Bear_Lake_%28Colorado%29), [Rocky Mountain National Park](http://en.wikipedia.org/wiki/Rocky_Mountain_National_Park).</big> Yes, this [really is](http://pandasthumb.org/archives/2011/12/bear-lake-rocky.html#comment-277098) Bear Lake.
 

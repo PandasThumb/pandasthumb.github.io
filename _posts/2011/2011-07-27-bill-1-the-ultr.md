@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 6288
 basename: bill_1_the_ultr
 ---
-<img src="/uploads/2011/Bill&Ted2Crop.jpg" alt="Bill&amp;amp;Ted2Crop.jpg" width="196" height="221" style="float: right; margin: 0 0 20px 20px;" class="mt-image-right" />The inaugural [BILL](http://pandasthumb.org/archives/2011/07/they-have-ted-w.html), BILL the First, primordial BILL, the founder, the prototype, the archetype, the Platonic BILL form. It has to be something special.
+<img src="{{ site.baseurl }}/uploads/2011/Bill&Ted2Crop.jpg" alt="Bill&amp;amp;Ted2Crop.jpg" width="196" height="221" style="float: right; margin: 0 0 20px 20px;" class="mt-image-right" />The inaugural [BILL](http://pandasthumb.org/archives/2011/07/they-have-ted-w.html), BILL the First, primordial BILL, the founder, the prototype, the archetype, the Platonic BILL form. It has to be something special.
 
 The inaugural BILL is "[The Ultraviolet Garden](http://www.youtube.com/watch?v=_igTWNidwnk&amp;feature=youtube_gdata)," one episode from a 1991 lecture series by Richard Dawkins. The series of five lectures was called "[Growing Up in the Universe](http://richarddawkins.net/videos/826-growing-up-in-the-universe-2-disc-dvd-set)" and was the 1991 edition of [The Royal Institution Christmas Lectures](http://www.rigb.org/contentControl?id=00000001882&amp;action=displayContent). That series is meant to be enjoyed by children and adults alike, and "The Ultraviolet Garden" accomplishes this quite well.
 

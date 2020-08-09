@@ -13,7 +13,7 @@ Photograph by **Nicholas Plummer**.
 Photography contest, Honorable Mention.
 
 <figure>
-<img src="/uploads/2014/plummer.agkistrodon1.jpg" alt="plummer.agkistrodon1.jpg" width="600" height="455" />
+<img src="{{ site.baseurl }}/uploads/2014/plummer.agkistrodon1.jpg" alt="plummer.agkistrodon1.jpg" width="600" height="455" />
 <figcaption markdown="span">
 <big>[_Agkistrodon contortrix_](http://en.wikipedia.org/wiki/Agkistrodon_contortrix) -- juvenile copperhead snake.</big>
 

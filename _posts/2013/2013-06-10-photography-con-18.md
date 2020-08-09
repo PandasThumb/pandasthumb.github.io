@@ -13,7 +13,7 @@ Polish your lenses again (but not dry, please) -- this post announces the fifth 
 We dedicate this contest to the memory of our colleague Mark Perakh.  First prize will be a copy of his book [Unintelligent Design](http://www.amazon.com/books/dp/1591020840).
 
 <figure>
-<img src="/uploads/2013/IMG_3406_Films_600.JPG" alt="IMG_3406_Films_600.JPG" width="600" height="450" />
+<img src="{{ site.baseurl }}/uploads/2013/IMG_3406_Films_600.JPG" alt="IMG_3406_Films_600.JPG" width="600" height="450" />
 <figcaption markdown="span">
 4 x 5 film holder (2 exposures), Tri-X film (24 exposures), SD memory card (&gt;1000 exposures).
 

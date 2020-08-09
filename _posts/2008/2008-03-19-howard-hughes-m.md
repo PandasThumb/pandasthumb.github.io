@@ -12,7 +12,7 @@ The Howard Hughes Medical Institute has [extensive lectures and resources](http:
 
 Talks include Ken Miller's [Evolution: Fossils, Genes, and Mousetraps](http://www.hhmi.org/biointeractive/evolution/talks.html)
 
-[<img src="/uploads/2008/miller_dvd_webad.jpg" alt="miller_dvd_webad.jpg" width="157" height="236" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://www.hhmi.org/biointeractive/ordermaterials.html)
+[<img src="{{ site.baseurl }}/uploads/2008/miller_dvd_webad.jpg" alt="miller_dvd_webad.jpg" width="157" height="236" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />](http://www.hhmi.org/biointeractive/ordermaterials.html)
 
 > Leading evolution educator Ken Miller discusses the controversy surrounding the teaching of evolution, presents compelling evidence for evolution and reasons why "intelligent design" is not scientific. The presentation also features Dr. Miller's responses to questions from a live audience of high school students.
 

@@ -11,7 +11,7 @@ basename: scandal_is_obam
 ---
 <i>Fortune</i> magazine <i>CLAIMS</i> that Barack Obama is the first president to publish a scientific article. 
 
-<img alt="Obama_2016.png" src="/uploads/2016/Obama_2016.png" width="483" height="335" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" />
+<img alt="Obama_2016.png" src="{{ site.baseurl }}/uploads/2016/Obama_2016.png" width="483" height="335" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" />
 
 They are referring to:
 
@@ -25,7 +25,7 @@ See also JAMA's Twitter feed: <a href="https://twitter.com/JAMA_current?ref_src=
 
 Dear _Fortune_/_JAMA_/Obama, I'll see your _JAMA_ article and raise you Thomas Jefferson's description of the [extinct giant sloth _Megalonyx_](https://en.wikipedia.org/wiki/Megalonyx), "A memoir on the discovery of certain bones of a quadruped of the clawed kind in the western parts of Virginia."
 
-<img src="/uploads/2016/Jefferson_1799.png" alt="Jefferson_1799.png" width="604" height="585" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
+<img src="{{ site.baseurl }}/uploads/2016/Jefferson_1799.png" alt="Jefferson_1799.png" width="604" height="585" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" />
 
 > Jefferson, Thomas (1799). "A memoir on the discovery of certain bones of a quadruped of the clawed kind in the western parts of Virginia." _Transactions of the American Philosophical Society_, 4(30), 246-60. [http://www.jstor.org/stable/1005103](http://www.jstor.org/stable/1005103) 
 

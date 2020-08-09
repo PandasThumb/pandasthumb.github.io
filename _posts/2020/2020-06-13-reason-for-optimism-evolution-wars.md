@@ -4,7 +4,7 @@ date: '2020-06-13 13:13:00 -06:00'
 author: Matt Young
 ---
 <figure>
-<img src="/uploads/2020/Plutzer_2020_Graph.jpg" alt="Graph"/>
+<img src="{{ site.baseurl }}/uploads/2020/Plutzer_2020_Graph.jpg" alt="Graph"/>
 <figcaption>"Teachers classified by the scientific accuracy of the messages reportedly conveyed to students, 2007 and 2019." Note, in particular, that the number of teachers who teach evolution as settled science has increased from around 50 to nearly 70&nbsp;%, whereas the number who give mixed messages or outright teach creationism has decreased. <small>Plutzer, E., Branch, G. & Reid, A. Teaching evolution in U.S. public schools: a continuing challenge. <i>Evo Edu Outreach</i> <strong>13</strong>, 14 (2020). https://doi.org/10.1186/s12052-020-00126-8. Creative Commons Attribution 4.0 International (CC BY 4.0).</small>
 </figcaption>
 </figure>

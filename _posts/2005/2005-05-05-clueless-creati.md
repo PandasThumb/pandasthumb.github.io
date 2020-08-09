@@ -9,7 +9,7 @@ blog_id: 2
 post_id: 941
 basename: clueless_creati
 ---
-<img src="/uploads/2006/Historic_Discoveries_Web_Poster.jpg" alt="" style="float:left;" />Interestingly for a group that says they are not promoting intelligent design or creationism, the Kansas Kangaroo Court today called Charles Thaxton, the creationist [who had the bright idea to rename creationism as "intelligent design" back in 1988](http://www.cmf.org.uk/literature/content.asp?context=article&amp;id=1303).
+<img src="{{ site.baseurl }}/uploads/2006/Historic_Discoveries_Web_Poster.jpg" alt="" style="float:left;" />Interestingly for a group that says they are not promoting intelligent design or creationism, the Kansas Kangaroo Court today called Charles Thaxton, the creationist [who had the bright idea to rename creationism as "intelligent design" back in 1988](http://www.cmf.org.uk/literature/content.asp?context=article&amp;id=1303).
 
 According to [Red State Rabble](http://redstaterabble.blogspot.com/):
 

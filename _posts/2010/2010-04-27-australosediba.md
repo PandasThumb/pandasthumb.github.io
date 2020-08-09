@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 4602
 basename: australosediba
 ---
-<img src="/uploads/2010/MH1fossil.png" alt="MH1fossil.png" width="208" height="396" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
+<img src="{{ site.baseurl }}/uploads/2010/MH1fossil.png" alt="MH1fossil.png" width="208" height="396" style="float: left; margin: 0 20px 20px 0;" class="mt-image-left" />
 
 Two spectacular new hominid fossils found in a cave at Malapa in South Africa in 2008 and 2009 have been assigned to a new species, _Australopithecus sediba_ ('sediba' means 'wellspring' in the local seSotho language). Discovered by a team led by Lee Berger and Paul Dirks, it is claimed by them to be the best candidate yet for an immediate ancestor to the genus _Homo_. The fossils are between 1.78 and 1.95 million years old, about the same date of the oldest _Homo erectus_ fossils.
 

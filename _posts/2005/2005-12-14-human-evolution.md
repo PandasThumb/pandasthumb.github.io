@@ -10,7 +10,7 @@ blog_id: 2
 post_id: 1675
 basename: human_evolution
 ---
-[<img src="/uploads/2006/plosMarques-thumb.jpg" alt="plosMarques.jpg" width="135" height="173" style="float:right;" />](/uploads/2006/plosMarques.jpg)
+[<img src="{{ site.baseurl }}/uploads/2006/plosMarques-thumb.jpg" alt="plosMarques.jpg" width="135" height="173" style="float:right;" />](/uploads/2006/plosMarques.jpg)
 Review of: [
 Marques et al., "Emergence of Young Human Genes after a Burst of Retroposition in Primates."](http://biology.plosjournals.org/perlserv/?request=get-pdf&amp;file=10.1371_journal.pbio.0030357-S.pdf)
 **PLoS Biology 3**(11):1970-1979.([Synopsis ](http://biology.plosjournals.org/perlserv/?request=get-document&amp;doi=10.1371/journal.pbio.0030399) on PLoS Biology)

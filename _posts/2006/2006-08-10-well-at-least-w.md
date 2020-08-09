@@ -8,7 +8,7 @@ blog_id: 2
 post_id: 2418
 basename: well_at_least_w
 ---
-<img src="/uploads/2006/Miller_etal_2006_Science_Public_Acceptance_Evo.gif" alt="Miller et al. 2006, Public Acceptance of Evolution, Science Magazine" style="float:left;" />
+<img src="{{ site.baseurl }}/uploads/2006/Miller_etal_2006_Science_Public_Acceptance_Evo.gif" alt="Miller et al. 2006, Public Acceptance of Evolution, Science Magazine" style="float:left;" />
 
 _Science_ magazine has just published the results of international polls assessing public acceptance of evolution around the world: Jon D. Miller, Eugenie C. Scott, and Shinji Okamoto (2006) "[](http://www.sciencemag.org/cgi/content/full/313/5788/765)." _Science_ Aug 11 2006: 765-766 ([Supporting Online Material](http://www.sciencemag.org/cgi/content/full/313/5788/765/DC1))
 
