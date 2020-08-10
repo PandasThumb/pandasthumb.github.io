@@ -4,3 +4,5 @@ _site/
 .local
 .bundle
 Gemfile.lock
+vendor
+.jekyll-cache
