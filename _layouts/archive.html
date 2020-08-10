@@ -12,7 +12,7 @@ header_title: Archives
         <ul class="pagelist">
 		{% for post in page.posts %}
 		  <li><time pubdate="pubdate" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%B %-d, %Y' }}</time>:
-                  <a href="{{ site.url }}/PT{{ post.url }}">{{ post.title }}</a>
+                  <a href="{{ site.url }}{{ site.baseurl }}{{ post.url | relative_url }}">{{ post.title }}</a>
                   by {{ post.author }}.
                   </li>
                  {% endfor %}
