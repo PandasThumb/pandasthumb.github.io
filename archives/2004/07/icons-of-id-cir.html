@@ -1,0 +1,150 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Icons of ID: Circadian Rythms II</title>
+  
+  <meta property="og:site_name" content="The Panda's Thumb" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Icons of ID: Circadian Rythms II" />
+  <meta property="og:url" content="https://pandasthumb.org/archives/2004/07/icons-of-id-cir.html" />
+  <meta property="og:image" content="https://pandasthumb.org/media/roar.jpg" />
+  <meta property="article:author" content="PvM" />
+  <meta property="article:published_time" content="2004-07-13T13:05:12-07:00" />
+
+
+  <link rel="stylesheet" type='text/css' href="/css/normalize.css" />
+  <link rel="stylesheet" type='text/css' href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic,700italic|Source+Code+Pro:400,700" />
+  <link rel="stylesheet" type='text/css' href="/css/gridism.css" />
+  <link rel="stylesheet" type='text/css' href="/css/style.css" />
+  <link rel="stylesheet" type='text/css' href="/css/github.css" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <script type="text/javascript" src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="https://use.fontawesome.com/e6a24c6dde.js"></script>
+  <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>  
+  <script src="/js/local.js"></script>
+
+</head>
+
+
+<body class="wrap">
+  <div class="grid page-fill"><div></div></div>
+<header class="topbar">
+  <div class="grid no-gutters">
+    <div class="banner unit whole">
+		  <img src="/media/banner.jpg" alt="The Panda's Thumb" />
+    </div>
+    <nav class="main-nav unit whole align-center">
+      <ul>
+<li><a href="/" title="Main Page"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;Main</a></li>
+<li><a href="/archives/index.html" title="Archives"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Archives</a></li>
+<li><a href="#" title="Search is Unavailable"><i class="fa fa-search" aria-hidden="true"></i>&nbsp;Search</a></li>
+</ul>
+
+    </nav>
+  </div>
+</header>
+
+
+    <section class="blog">
+    <div class="grid">
+      <div class="unit whole">
+        <article class="blogpost">
+  <header>
+	  <h1><a href="/archives/2004/07/icons-of-id-cir.html">Icons of ID: Circadian Rythms II</a></h1>
+	  <div class="byline"><i class="fa fa-user-circle" aria-hidden="true"></i> By PvM</div>
+	  <div class="attrline"><i class="fa fa-clock-o" aria-hidden="true"></i>
+	  <span><time pubdate="pubdate" datetime="2004-07-13T13:05:12-07:00">July 13, 2004 13:05 MST</time></span>
+	  </div>
+   </header>
+  <p>This is the second installment in my postings on Circadian Rhythms. After having introduced the IC argument for Circadian rhythms, I intend to explain in general terms how the Circadian clock works.</p>
+
+<p>Let me repeat Behe’s definition of Irreducible Complexity</p>
+
+<blockquote>
+  <p>“By irreducibly complex I mean a single system composed of several well-matched, interacting parts that contribute to basic function, wherein the removal of any one of the parts causes the system to effectively cease functioning. An irreducibly complex system cannot be produced directly… “</p>
+</blockquote>
+
+<p>Michael Behe in Darwin’s Black Box</p>
+
+<p><a href="http://www.iscid.org/papers/Smart_ApplicationOfIC_060503.pdf">On the Application of Irreducible Complexity</a> by  Joshua A. Smart</p>
+
+<blockquote>
+  <p>Knockout Experiments</p>
+
+  <p>The best tool thus far in determining whether a gene product is indispensable has been the knockout experiment. In a knockout experiment, mutagenesis is used to produce a null mutant, a gene that exhibits no phenotype whatsoever. The use of knockout experiments in determining an irreducible core is obvious.</p>
+</blockquote>
+
+<h2 id="circadian-clocks">Circadian clocks</h2>
+
+<p>The simplest system consists of a Zeitgeber (‘time giver’) which can be light or any other external signal which drives an input pathway which drives the clock which drives the output pathway.</p>
+
+<p><img alt="circadian_basic.jpg" src="/uploads/2005/circadian_basic.jpg" width="785" height="216" border="0" /></p>
+
+<p>More complex systems can maintain a circadian rythm even without the external signals.</p>
+
+<p><img alt="circadian_complex.jpg" src="/uploads/2005/circadian_complex.jpg" width="591" height="216" border="0" /></p>
+
+<p>In this case the input, and output pathways form auto-regulatory feedback loops and often exhibit circadian rhythms as well. Additionally the clock protein(s) can form a feedback loop to the input pathways.</p>
+
+<p>A typical Circadian clock consists of an autoregulatory negative feedback loop involving at least one gene. The gene creates an mRNA and a protein. The clock protein down regulates its own gene expression. This an initial increase in the gene expression is down regulated by the clock protein leading to an oscillatory response.</p>
+
+<h2 id="modeling-the-circadian-clock">Modeling the Circadian clock</h2>
+
+<p>In general a feedback loop with positive or negative feedback combined with time-delays is what makes up a Circadian clock.  In “<a href="http://www.jneurosci.org/cgi/content/full/21/17/6644">Modeling Circadian Oscillations with Interlocking Positive and Negative Feedback Loops</a>” Smolen et al test the sufficiency of the various proposed mechanisms and find that the positive feedback loop can be removed but that a time delay is essential. A time delay models processes not explicitly modelled such as transcription and translation.</p>
+
+<p>Time delays are notorious in control science for adding instabilities to the system and much of the literature deals with how to ‘stabilize’ time-delayed linear systems. Time delays can lead to stable limit cycles or chaotic behavior depending on the parameter values and the exact nature of the <a href="http://lorien.ncl.ac.uk/ming/robust/freqapps.pdf">transfer function</a>.</p>
+
+<p><a href="http://www.jneurosci.org/content/vol21/issue17/images/large/ns1715574001.jpeg"><img src="http://www.jneurosci.org/content/vol21/issue17/images/medium/ns1715574001.gif" alt="" /></a></p>
+
+<p>Non-linear equations or linear equations with time delays are required for the system to exhibit of ‘<a href="http://en.wikipedia.org/wiki/Limit_cycle">limit cycle</a>’ behavior.</p>
+
+<p>A good example of a time delayed oscillating system involves trying to adjust the temperature of the water in the shower when there is significant delay. The unfortunate victim tries to warm up the icy cold water by adding more and more hot water, until the hot water finally reaches the shower head. The poor victim then quickly turnes down the hot water and is treated to ice cold water.</p>
+
+<p>Although the simple model of positive and negative feedback and time delays can successfully model Circadian rythms, actual Circadian clocks have proven themselves to be more complicated that first thought.  For instance the input pathway which transfers the signals from the Zeitgeber to the oscillatory clock is often under Circadian control as well, creating a fuzziness between input, clock and output pathways.</p>
+
+</article>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <footer>
+<div class="grid">
+<table bgcolor="204517">
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
+  <div align="left">
+    <p>&nbsp;&nbsp;To see earlier posts, select the Archives at the top of this page</p>
+    <p></p>
+  </div>
+  <div id="RecentComments" class="dsq-widget">
+      <div align="center">
+       <h2>Recent Comments</h2>
+       <P>
+       To see the comment in context of the discussion click on the text that indicates how long ago the comment was posted, such as "2 hours ago".  Then wait for the post and then the comments to load.
+      <P>
+    </div>
+    <div>
+     <script type="text/javascript" src="https://the-pandas-thumb.disqus.com/recent_comments_widget.js?num_items=15&hide_mods=0&hide_avatars=0&avatar_size=32&excerpt_length=100"></script>
+    </div>
+  </div>
+</td></tr>
+  <tr><td></td><td><div class="unit whole">
+      <p>Copyright &copy; The Panda&#8217;s Thumb and original authors &mdash; Content provided under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons BY-NC-ND License 4.0</a>.</p>
+    <p></p>
+    </div>
+    </td></tr>
+  </table>
+  </div>
+  </footer>
+
+  
+
+</body>
+
+</html>
+
+

@@ -1,0 +1,138 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Weasles on Parade</title>
+  
+  <meta property="og:site_name" content="The Panda's Thumb" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Weasles on Parade" />
+  <meta property="og:url" content="https://pandasthumb.org/archives/2009/03/weasles-on-para.html" />
+  <meta property="og:image" content="https://pandasthumb.org/media/roar.jpg" />
+  <meta property="article:author" content="Ian Musgrave" />
+  <meta property="article:published_time" content="2009-03-19T05:40:58-07:00" />
+
+
+  <link rel="stylesheet" type='text/css' href="/css/normalize.css" />
+  <link rel="stylesheet" type='text/css' href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic,700italic|Source+Code+Pro:400,700" />
+  <link rel="stylesheet" type='text/css' href="/css/gridism.css" />
+  <link rel="stylesheet" type='text/css' href="/css/style.css" />
+  <link rel="stylesheet" type='text/css' href="/css/github.css" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <script type="text/javascript" src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="https://use.fontawesome.com/e6a24c6dde.js"></script>
+  <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>  
+  <script src="/js/local.js"></script>
+
+</head>
+
+
+<body class="wrap">
+  <div class="grid page-fill"><div></div></div>
+<header class="topbar">
+  <div class="grid no-gutters">
+    <div class="banner unit whole">
+		  <img src="/media/banner.jpg" alt="The Panda's Thumb" />
+    </div>
+    <nav class="main-nav unit whole align-center">
+      <ul>
+<li><a href="/" title="Main Page"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;Main</a></li>
+<li><a href="/archives/index.html" title="Archives"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Archives</a></li>
+<li><a href="#" title="Search is Unavailable"><i class="fa fa-search" aria-hidden="true"></i>&nbsp;Search</a></li>
+</ul>
+
+    </nav>
+  </div>
+</header>
+
+
+    <section class="blog">
+    <div class="grid">
+      <div class="unit whole">
+        <article class="blogpost">
+  <header>
+	  <h1><a href="/archives/2009/03/weasles-on-para.html">Weasles on Parade</a></h1>
+	  <div class="byline"><i class="fa fa-user-circle" aria-hidden="true"></i> By Ian Musgrave</div>
+	  <div class="attrline"><i class="fa fa-clock-o" aria-hidden="true"></i>
+	  <span><time pubdate="pubdate" datetime="2009-03-19T05:40:58-07:00">March 19, 2009 05:40 MST</time></span>
+	  </div>
+   </header>
+  <p>It is now  62 hours since William Dembski posted that the Evolutionary Informatics lab was going to try and reproduce <a href="http://pandasthumb.org/archives/2009/03/dembski-weasels.html">Dawkins Weasel Program</a> according to how it was actually written, as opposed to <a href="https://webmail.adelaide.edu.au/horde/util/go.php?url=http%3A%2F%2Faustringer.net%2Fwp%2Findex.php%2F2007%2F10%2F09%2Ftoday-is-a-fine-day-for-a-woollen-kettle-or-a-copper-sweater%2F&amp;Horde=d05da374ed3b6fae1488aa30a855d6b7">their fantasy version</a>. In that time I’ve resurrected an elderly program, and several readers have made their own weasels from scratch. Commenter Anders has even made a <a href="http://www.cbs.dtu.dk/courses/27615.mol/weasel.php">Python version</a> that puts “freely mutating” and “locking versions” head to head with great graphs. (<strong>Update:</strong> Wes Elsberry did a head to head comparison last year, <a href="http://austringer.net/wp/index.php/2008/10/19/dembski-and-marks-are-still-mischaracterizing-dawkins-weasel/">see here</a> for his comparison [scroll down], it differs from my implementation but the basic message is the same).</p>
+
+<p>I’ve gone back and done a head to head comparison myself between a program with no “locking” (all letters in any given string have a chance to be mutated) and one with “<a href="https://webmail.adelaide.edu.au/horde/util/go.php?url=http%3A%2F%2Faustringer.net%2Fwp%2Findex.php%2F2007%2F10%2F09%2Ftoday-is-a-fine-day-for-a-woollen-kettle-or-a-copper-sweater%2F&amp;Horde=d05da374ed3b6fae1488aa30a855d6b7">locking</a>” (where the matching letters are preserved against mutation). Trying to implement “locking” <em>al la</em> Dembski proved too hard. You have to keep indices of the letter locations and keep updating them. It is such a pain in the bottom to try and do this that I cannot imagine Dawkins even wanting to try and program a “Locking” implementation in GBASIC. Remember, Dawkins weasel was a quick and dirty program bashed out in a short time. To implement “locking” I just kept a copy of the parent string unmutated (after all, in the real world not every offspring has mutations in genes of interest).</p>
+
+<p>So what happened?</p>
+
+<p><a href="/uploads/2009/weasel_dynamics.png"><img src="/uploads/2009/weasel_dynamics.png" alt="weasel_dynamics.png" width="360" height="298" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" /></a></p>
+
+<p>As you can see they were much the same (mean and standard error of an average of 4 independent runs per condition shown, click to embiggen). “Locked” runs finished earlier, on average but most of the trajectory of the run was determined by mutation supply. As you can see, runs done with locked and unlocked versions fell within the error bars of each other, for runs that set the Offspring number at either 100 or 30.</p>
+
+<p>This is easy to understand. Early on, virtually any mutation is of big benefit, while later on most mutations are of small benefit. Only in the final stages that there was any significant backing and forthing, and then only in the 30 Offspring case. In the 100 offspring case, the population was so large that the probability was high that even in the final stages a beneficial mutation would be acquired. Wesley Elsberry has done the mathematics explicitly (go to <a href="http://www.antievolution.org/cgi-bin/ikonboard/ikonboard.cgi?act=ST;f=14;t=6034;st=0">this link</a> and scroll down). Only in the 30 offspring case was the last 10 or so generations in an “unlocked” run spent bouncing from 3-1 differences.</p>
+
+<p>So Dembski’s claims that a list of every 10th output string shows that Dawkins is using a “locking” program are nonsense, Dawkins results are exactly what we would expect to see when sampling sparsely from a high population “freely mutating” weasel run.</p>
+
+<p><a href="/uploads/2009/weasel_convergance_time.png"><img src="/uploads/2009/weasel_convergance_time.png" alt="weasel_convergance_time.png" width="360" height="304" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" /></a></p>
+
+<p>Slightly more surprisingly, the median time to convergence (when the program finally reached the target string), was not actually statistically significantly different. I suspect when enough runs are accumulated (say around 20), they will be, but the “locked” runs are only about 20% faster.</p>
+
+<p>So, summary. Whether you “lock” your strings, or allow them to mutate at all positions freely, a weasel program will converge on a solution. The for most of the time, mutation supply dominates, and whether you lock your strings or not there is rapid accumulation of beneficial mutations. Only at the very end run does “locking” matter, and then only for small populations where the probability of a beneficial mutation is low.</p>
+
+<p>But even then, “unlocked”, freely mutating programs will converge on a solution in less than a minute (and only 20% slower than the “locking” programs), when simple random sampling will take longer than the lifespan of the Universe to converge.</p>
+
+<p>Still, the point is that against all evidence, Dembski believes that Dawkins wrote a overly complicated program in GBASIC, and then reverted to a simple one for a TV show, and can’t be bothered to get around to writing the code that would show him wrong (and show that freely mutating programs converge rapidly on the target string). Again, this shows that cdesign proponetists don’t understand the “test your hypothesis” part of science. I’m currently <a href="http://astroblogger.blogspot.com/2009/03/blogging-starry-messenger-stars.html">reading Galileo’s “Starry Messenger”</a>, and the debate over at Uncommon Descent  reminds me of Francesco Sizzi, who declared that Galileo really couldn’t have seen Moons around Jupiter, as metaphysics demands there only be 7 planets.</p>
+
+<p>Now If only they would put the same degree of effort that they put into critiquing the weasel program, a toy demonstration of selection the same importance as the <a href="http://www.icp.org.nz/html/drug_clearance_1.html">measuring cylinder/running tap model</a> of drug clearance, into doing some real science.</p>
+
+<hr />
+
+<p>The freely mutating QBASIC program is <a href="http://home.mira.net/~reynella1/weasle2b.bas">here</a>, the “locked” version is <a href="http://home.mira.net/~reynella1/WEASLE2E.BAS">here</a> (both write strings to a log file).</p>
+
+<p>Feel free to submit your own weasels, especially ones that compare freely mutating vs “locking” versions of the code, and the PT crew could do with a java applet version if you could do one. A weasel for every 6 hours the Uncommon Descent people do nothing would be great!</p>
+
+<p>See Wesley Elsberries superb <a href="http://www.antievolution.org/features/ec/weasel102.html">Java Weasel</a> as an example!</p>
+
+</article>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <footer>
+<div class="grid">
+<table bgcolor="204517">
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
+  <div align="left">
+    <p>&nbsp;&nbsp;To see earlier posts, select the Archives at the top of this page</p>
+    <p></p>
+  </div>
+  <div id="RecentComments" class="dsq-widget">
+      <div align="center">
+       <h2>Recent Comments</h2>
+       <P>
+       To see the comment in context of the discussion click on the text that indicates how long ago the comment was posted, such as "2 hours ago".  Then wait for the post and then the comments to load.
+      <P>
+    </div>
+    <div>
+     <script type="text/javascript" src="https://the-pandas-thumb.disqus.com/recent_comments_widget.js?num_items=15&hide_mods=0&hide_avatars=0&avatar_size=32&excerpt_length=100"></script>
+    </div>
+  </div>
+</td></tr>
+  <tr><td></td><td><div class="unit whole">
+      <p>Copyright &copy; The Panda&#8217;s Thumb and original authors &mdash; Content provided under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons BY-NC-ND License 4.0</a>.</p>
+    <p></p>
+    </div>
+    </td></tr>
+  </table>
+  </div>
+  </footer>
+
+  
+
+</body>
+
+</html>
+
+

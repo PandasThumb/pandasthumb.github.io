@@ -1,0 +1,219 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Multiple codes in DNA</title>
+  
+  <meta property="og:site_name" content="The Panda's Thumb" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Multiple codes in DNA" />
+  <meta property="og:url" content="https://pandasthumb.org/archives/2007/10/konstantin-b-ze.html" />
+  <meta property="og:image" content="https://pandasthumb.org/media/roar.jpg" />
+  <meta property="article:author" content="PvM" />
+  <meta property="article:published_time" content="2007-10-08T12:15:06-07:00" />
+
+
+  <link rel="stylesheet" type='text/css' href="/css/normalize.css" />
+  <link rel="stylesheet" type='text/css' href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic,700italic|Source+Code+Pro:400,700" />
+  <link rel="stylesheet" type='text/css' href="/css/gridism.css" />
+  <link rel="stylesheet" type='text/css' href="/css/style.css" />
+  <link rel="stylesheet" type='text/css' href="/css/github.css" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <script type="text/javascript" src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="https://use.fontawesome.com/e6a24c6dde.js"></script>
+  <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>  
+  <script src="/js/local.js"></script>
+
+</head>
+
+
+<body class="wrap">
+  <div class="grid page-fill"><div></div></div>
+<header class="topbar">
+  <div class="grid no-gutters">
+    <div class="banner unit whole">
+		  <img src="/media/banner.jpg" alt="The Panda's Thumb" />
+    </div>
+    <nav class="main-nav unit whole align-center">
+      <ul>
+<li><a href="/" title="Main Page"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;Main</a></li>
+<li><a href="/archives/index.html" title="Archives"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Archives</a></li>
+<li><a href="#" title="Search is Unavailable"><i class="fa fa-search" aria-hidden="true"></i>&nbsp;Search</a></li>
+</ul>
+
+    </nav>
+  </div>
+</header>
+
+
+    <section class="blog">
+    <div class="grid">
+      <div class="unit whole">
+        <article class="blogpost">
+  <header>
+	  <h1><a href="/archives/2007/10/konstantin-b-ze.html">Multiple codes in DNA</a></h1>
+	  <div class="byline"><i class="fa fa-user-circle" aria-hidden="true"></i> By PvM</div>
+	  <div class="attrline"><i class="fa fa-clock-o" aria-hidden="true"></i>
+	  <span><time pubdate="pubdate" datetime="2007-10-08T12:15:06-07:00">October 8, 2007 12:15 MST</time></span>
+	  </div>
+   </header>
+  <p>In an earlier posting, I promised to provide an overview of alternative codes in DNA. Such examples include alternative splicing and alternative reading frames (ARFs) which I will discuss here</p>
+
+<p>The classical view of DNA was straightforward, DNA gets transcribed into RNA, introns get removed and the resulting exons form a protein. Exons are coding sequences in genes, introns are pieces of DNA/RNA that interrupt exons. The first step involves RNA synthesis (transcription) where the DNA is transcribed into RNA and exons and introns are still present, the next step is RNA splicing where introns are being removed. Alternative splicing causes different exons to be combined into messenger RNA (mRNA). These mRNA are translated into proteins in a step called protein synthesis.</p>
+
+<p><img src="/uploads/2007/tradgene.jpg" alt="tradgene.jpg" width="370" height="317" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" /></p>
+
+<p>Alternative splicing involves different exons and result in different proteins from the same gene</p>
+
+<p><img src="/uploads/2007/altsplice.jpg" alt="altsplice.jpg" width="391" height="259" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" /></p>
+
+<p><a href="http://publications.nigms.nih.gov/thenewgenetics/thenewgenetics.pdf">Source: The New Genetics</a> NIH Publication No. 07-662</p>
+
+<p>Alternative reading frames (ARFs) are overlapping stretches of DNA which encode for different proteins. 
+Alternative reading frames are offset +1 or +2 and read in the same direction.</p>
+
+<p>In general there are <a href="http://www.ebi.ac.uk/2can/tutorials/transcription.html">6 reading frames</a></p>
+
+<blockquote>
+  <p>Once the RNA has been transcribed, it travels from the DNA template to the ribosome on the endoplasmic reticulum to be translated for protein synthesis. Each 3 bases in the RNA sequence codes for 1 amino acid. As you may not be sure what position to start at when predicting what protein sequence may be produced by this code, you could start with one of 3 positions from either end of the RNA sequence. Thus there are 6 possible predicted protein sequences resulting from such a piece of code. These are known as the 6 possible reading frames. There are 3 forward frames and 3 reverse sense frames.</p>
+</blockquote>
+
+<p>Let’s perform an example</p>
+
+<p>Assume you have just found a new stretch of DNA and you need to determine where to find an Open Reading Frame (ORF). An open reading frame starts with an atg (Met) in most species and ends with a stop codon (taa, tag or tga).</p>
+
+<blockquote>
+  <p>5’  TCAATGTAACGCGCTACCCGGAGCTCTGGGCCCAAATTTCATCCACT  3’</p>
+</blockquote>
+
+<p>There are six possible interpretations, from right to left and left to right and with an offset of 0, 1 and 2.</p>
+
+<p><a href="http://workbench.sdsc.edu/">Biology WorkBench</a> is a tool which allows you to enter DNA sequences and find the ORF which has the longest frame.</p>
+
+<p>Frame 1 start from left to right with zero offset</p>
+
+<blockquote>
+  <p>S  M *  R  A  T  R  S  S  G  P  K  F  H  P<br />
+tca_atg_<strong>taa</strong>cgcgctacccggagctctgggcccaaatttcatccact</p>
+</blockquote>
+
+<p>Note the <em>atg</em> which is a start codon and <strong>taa</strong> which is a stop codon</p>
+
+<p>Frame 2, offset 1</p>
+
+<blockquote>
+  <p>Q  C  N  A  L  P  G  A  L  G  P  N  F  I  H <br />
+caatgtaacgcgctacccggagctctgggcccaaatttcatccact</p>
+</blockquote>
+
+<p>No start or stop codon</p>
+
+<p>Frame 3, offset 2</p>
+
+<blockquote>
+  <p>N  V  T  R  Y  P  E  L  W  A  Q  I  S  S  T<br />
+aatgtaacgcgctacccggagctctgggcccaaatttcatccact  47</p>
+</blockquote>
+
+<p>No start or stop codon</p>
+
+<p>Frame 4, right to left zero offset</p>
+
+<blockquote>
+  <p>S  G  *  N  L  G  P  E  L  R  V  A  R  Y  I<br />
+agtgga<strong>tga</strong>aatttgggcccagagctccgggtagcgcgttacattga</p>
+</blockquote>
+
+<p>One stop codon, no start codon</p>
+
+<p>Frame 5, right to left one offset</p>
+
+<blockquote>
+  <p>V  D  E  I  W  A  Q  S  S  G  *  R  V  T  L<br />
+gtggatgaaatttgggcccagagctccggg<strong>tag</strong>cgcgttacattga</p>
+</blockquote>
+
+<p>One stop codon, no start codon</p>
+
+<p>Frame 6, right to left two offset</p>
+
+<blockquote>
+  <p>W  M  K  F  G  P  R  A  P  G  S  A  L  H  *<br />
+tgg_atg_aaatttgggcccagagctccgggtagcgcgttacat<strong>tga</strong></p>
+</blockquote>
+
+<p>The sixth ORF is the longest one.</p>
+
+<p>In “A First Look at ARFome: Dual-Coding Genes in Mammalian Genomes”, Chung et al, show that dual coding genes are not as rare in mammals as initially expected.</p>
+
+<blockquote>
+  <p>Coding of multiple proteins by overlapping reading frames is not a feature one would associate with eukaryotic genes. Indeed, codependency between codons of overlapping protein-coding regions imposes a unique set of evolutionary constraints, making it a costly arrangement. Yet in cases of tightly coexpressed interacting proteins, dual coding may be advantageous. Here we show that although dual coding is nearly impossible by chance, a number of human transcripts contain overlapping coding regions. Using newly developed statistical techniques, we identified 40 candidate genes with evolutionarily conserved overlapping coding regions. Because our approach is conservative, we expect mammals to possess more dual-coding genes. Our results emphasize that the skepticism surrounding eukaryotic dual coding is unwarranted: rather than being artifacts, overlapping reading frames are often hallmarks of fascinating biology.</p>
+</blockquote>
+
+<p>Remember this paper which was <a href="/archives/2007/06/luskin-dualcodi.html">quote-mined by Casey Luskin</a>?</p>
+
+<p>The paper shows the following figure (click to enlarge) which is Figure 2 in the original paper)</p>
+
+<p><a href="http://pandasthumb.org/archives/ARF1.html"><img src="/uploads/2007/ARF-thumb-300x87.jpg" alt="ARF.jpg" width="300" height="87" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" /></a></p>
+
+<p>Notice how there is and ORF and an ARF, where ORF is the larger reading frame and ARF a subset, both ORF and ARF have a start and stop codon.</p>
+
+<p><strong>Addition</strong></p>
+
+<p>The ENCODE project proposes a new definition of gene</p>
+
+<p><a href="http://pandasthumb.org/images/def_gene.html"><img src="/uploads/2007/def_gene-thumb-400x286.jpg" alt="def_gene.JPG" width="400" height="286" style="text-align: center; display: block; margin: 0 auto 20px;" class="mt-image-center" /></a></p>
+
+<blockquote>
+  <p>Figure 5. How the proposed definition of the gene can be applied to a sample case. A genomic region produces three primary transcripts. After alternative splicing, products of two of these encode five protein products, while the third encodes for a noncoding RNA (ncRNA) product. The protein products are encoded by three clusters of DNA sequence segments (A, B, and C; D; and E). In the case of the three-segment cluster (A, B, C), each DNA sequence segment is shared by at least two of the products. Two primary transcripts share a 5 untranslated region, but their translated regions D and E do not overlap. There is also one noncoding RNA product, and because its sequence is of RNA, not
+protein, the fact that it shares its genomic sequences (X and Y) with the protein-coding genomic segments A and E does not make it a co-product of these protein-coding genes. In summary, there are
+four genes in this region, and they are the sets of sequences shown inside the orange dashed lines: Gene 1 consists of the sequence segments A, B, and C; gene 2 consists of D; gene 3 of E; and gene 4 of X and Y. In the diagram, for clarity, the exonic and protein sequences A  have been lined up vertically, so the dashed lines for the spliced transcripts and functional products indicate connectivity between the proteins sequences (ovals) and RNA sequences (boxes). (Solid boxes on transcripts) Untranslated sequences, (open boxes) translated sequences.</p>
+</blockquote>
+
+<p>Mark B. Gerstein, Can Bruce, Joel S. Rozowsky, Deyou Zheng, Jiang Du, Jan O. Korbel, Olof Emanuelsson, Zhengdong D. Zhang, Sherman Weissman, and Michael Snyder What is a gene, post-ENCODE? History and updated definition Genome Res., Jun 2007; 17: 669 - 681.</p>
+
+</article>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <footer>
+<div class="grid">
+<table bgcolor="204517">
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
+  <div align="left">
+    <p>&nbsp;&nbsp;To see earlier posts, select the Archives at the top of this page</p>
+    <p></p>
+  </div>
+  <div id="RecentComments" class="dsq-widget">
+      <div align="center">
+       <h2>Recent Comments</h2>
+       <P>
+       To see the comment in context of the discussion click on the text that indicates how long ago the comment was posted, such as "2 hours ago".  Then wait for the post and then the comments to load.
+      <P>
+    </div>
+    <div>
+     <script type="text/javascript" src="https://the-pandas-thumb.disqus.com/recent_comments_widget.js?num_items=15&hide_mods=0&hide_avatars=0&avatar_size=32&excerpt_length=100"></script>
+    </div>
+  </div>
+</td></tr>
+  <tr><td></td><td><div class="unit whole">
+      <p>Copyright &copy; The Panda&#8217;s Thumb and original authors &mdash; Content provided under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons BY-NC-ND License 4.0</a>.</p>
+    <p></p>
+    </div>
+    </td></tr>
+  </table>
+  </div>
+  </footer>
+
+  
+
+</body>
+
+</html>
+
+

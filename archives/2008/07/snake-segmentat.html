@@ -1,0 +1,151 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Snake segmentation</title>
+  
+  <meta property="og:site_name" content="The Panda's Thumb" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Snake segmentation" />
+  <meta property="og:url" content="https://pandasthumb.org/archives/2008/07/snake-segmentat.html" />
+  <meta property="og:image" content="https://pandasthumb.org/media/roar.jpg" />
+  <meta property="article:author" content="PZ Myers" />
+  <meta property="article:published_time" content="2008-07-23T11:33:56-07:00" />
+
+
+  <link rel="stylesheet" type='text/css' href="/css/normalize.css" />
+  <link rel="stylesheet" type='text/css' href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic,700italic|Source+Code+Pro:400,700" />
+  <link rel="stylesheet" type='text/css' href="/css/gridism.css" />
+  <link rel="stylesheet" type='text/css' href="/css/style.css" />
+  <link rel="stylesheet" type='text/css' href="/css/github.css" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <script type="text/javascript" src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="https://use.fontawesome.com/e6a24c6dde.js"></script>
+  <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>  
+  <script src="/js/local.js"></script>
+
+</head>
+
+
+<body class="wrap">
+  <div class="grid page-fill"><div></div></div>
+<header class="topbar">
+  <div class="grid no-gutters">
+    <div class="banner unit whole">
+		  <img src="/media/banner.jpg" alt="The Panda's Thumb" />
+    </div>
+    <nav class="main-nav unit whole align-center">
+      <ul>
+<li><a href="/" title="Main Page"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;Main</a></li>
+<li><a href="/archives/index.html" title="Archives"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Archives</a></li>
+<li><a href="#" title="Search is Unavailable"><i class="fa fa-search" aria-hidden="true"></i>&nbsp;Search</a></li>
+</ul>
+
+    </nav>
+  </div>
+</header>
+
+
+    <section class="blog">
+    <div class="grid">
+      <div class="unit whole">
+        <article class="blogpost">
+  <header>
+	  <h1><a href="/archives/2008/07/snake-segmentat.html">Snake segmentation</a></h1>
+	  <div class="byline"><i class="fa fa-user-circle" aria-hidden="true"></i> By PZ Myers</div>
+	  <div class="attrline"><i class="fa fa-clock-o" aria-hidden="true"></i>
+	  <span><time pubdate="pubdate" datetime="2008-07-23T11:33:56-07:00">July 23, 2008 11:33 MST</time></span>
+	  </div>
+   </header>
+  <div style="float: left; padding: 5px;"><a href="http://bpr3.org/?p=52"><img alt="Blogging on Peer-Reviewed Research" src="http://bpr3.org/images/rbicons/ResearchBlogging-Large-Trans.png" width="120" height="90" /></a></div>
+
+<p class="lead">Life has two contradictory properties that any theory explaining its origin must encompass: <b>similarities</b> everywhere, and <b>differences</b> separating species. So far, the only theory that covers both beautifully and explains how one is the consequence of the other is evolution. Common descent unites all life on earth, while evolution itself is about constant change; similarities are rooted in our shared ancestry, while differences arise as lineages diverge.</p>
+
+<p>Now here's a new example of both phenomena: the development of segmentation in snakes. We humans have 33 vertebrae, zebrafish have 30-33, chickens have 55, mice have 65, and snakes have up to 300 &mdash; there's about a ten-fold range right there. There are big obvious morphological and functional differences, too: snakes are sinuous slitherers notable for their flexibility, fish use their  spines as springs for side-to-side motion, chickens fuse the skeleton into a bony box, and humans are upright bipeds with backaches. Yet underlying all that diversity is a common thread, that segmented vertebral column.</p>
+
+<div class="captionedfigure" style="text-align: center; font-size: 11px;"><a href="http://scienceblogs.com/pharyngula/2008/07/23/snakeseg_lg.php" onclick="window.open('http://scienceblogs.com/pharyngula/2008/07/23/snakeseg_lg.php','popup','width=1190,height=567,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img alt="snakeseg.jpg" src="http://scienceblogs.com/pharyngula/2008/07/23/snakeseg.jpg" width="400" height="191" /><br >(Click for larger image)</a><br />Vertebral formula and somitogenesis in the corn snake. 
+a, Alizarin staining of a corn snake showing 296 vertebrae, including 3 
+cervical, 219 thoracic, 4 cloacal (distinguishable by their forked 
+lymphapophyses) and 70 caudal. b, Time course of corn snake development 
+after egg laying (118-somite embryo on the far left) until the end of 
+somitogenesis (~315 somites).</div>
+
+<p>The similarities are a result of common descent. The differences, it turns out, arise from subtle changes in developmental timing.</p>
+
+<a class="anchor" id="more"></a>
+
+
+
+
+<p><b>Similarities</b></p>
+
+<p>Let's consider the similarities first. We know how segments form in many vertebrates: it's a process of progressive partitioning of an unsegmented, relatively undifferentiated mass of cells called the presomitic mesoderm. This mass extends the length of the body and tail of the early embryo. If you just watch the developing embryo, you can actually see the cells self-organize serially, from front to back, with little knots of cells pinching off to form each segment. It's very cool to see, and I've often witnessed it in my zebrafish embryos.</p>
+
+<p>Looking deeper at the molecules involved, there is an <a href="http://www.seedmagazine.com/news/2007/10/a_profound_sense_of_time.php">elegant clockwork mechanism ticking away</a>. There is a slowly receding gradient of Wnt/FGF molecules that travels down the presomitic mesoderm, and at the same time, there is a faster oscillation of Notch-related molecules that has the same cycle as the timing of segment formation. Each tick of the Notch clock sets aside the most anterior cells expressing Wnt/FGF, and the go on to form a segment. Wnt/FGF recedes back a little further, and at the next cycle of Notch, the next segment is pinched off, and so on, until the gradient runs out of presomitic mesoderm, and the array of segments is complete.</p>
+
+<p>This latest work is an extensive analysis of the molecular basis of segment formation in the zebrafish (<i>Danio rerio</i>), chicken (<i>Gallus gallus</i>), mouse (<i>Mus musculus</i>), and the new player in this game, the corn snake (<i>Pantherophis guttatus</i>), with its impressive roster of 315 total segments. They examined many genes, including FGF and Wnt3a of course, but also many of their downstream targets, as well as components of the retinoic acid counter gradient, and molecules involved in the oscillator, like <i>Lunatic fringe</i>.</p>
+
+<p>No one should be surprised to learn that snakes have the very same segmental clock that fish and mammals and birds have already been shown to have &mdash; the same molecules are observed, operating in the same compartments, with roughly the same relationships. They all use a conserved developmental mechanism.</p>
+
+
+<p><b>Differences</b></p>
+
+<p>So what causes the obvious difference of 300 segments vs. 30? There are two simple hypotheses that would fit within the clock and wavefront model. One would be that the wavefront recedes more slowly, or at the same speed but over a longer mass of presomitic mesoderm, allowing more ticks of the oscillator to occur before the wavefront ends at the tailtip. The other is that the wavefront is operating at roughly the same rate, but the oscillator is operating at a much faster rate, partitioning off many more smaller segments.</p>
+
+<p>The answer is the latter. The snake clock is running at a much higher speed than the clock in a chicken or mouse, so that over the same relative span of time for segment formation, it counts off many more pulses and triggers many more segments to assemble. The estimates are a little bit complex, because these species all have very different overall times of development, with the snake being slowest overall, so rates had to be normalized to specific developmental events. Among the standard metrics was the number of cell generations during the period of segment formation; about 21 cell generations to make 300 segments in the snake, about 17 generations to make 65 segments in the mouse.</p>
+
+<p>There were other subtle differences that hint at some changes in gene regulation, for instance, in that <i>Lunatic fringe</i> expression shows more simultaneous stripes in the corn snake than in other species, but this may also simply be a side effect of the more rapid cycling of the somitic clock.</p>
+
+
+<p>This is a demonstration of the real power of evo-devo. When we talk about major evolutionary changes in phenotype, like the increase in segment numbers in snakes, the way to track down and figure out the specific molecular details is to study the developmental processes behind the morphology, and look for the small differences that lead to the differing outcomes. In this case, we see a direction for further research: it looks like a quantitative change in the regulation of a developmental regulator, the somitic clock, is responsible for the variation. Now the next big question is to identify the specific adjustments to the clock &mdash; what small shifts in the sequence of various genes lead to the clock running faster or slower? </p>
+
+<p>At any rate, it's another case where we don't need a watchmaker, just blind, tiny, incremental changes to the machinery of development.</p>
+
+<hr />
+<p class="ref">Gomez C, Ozbudak EM, Wunderlich J, Baumann D, Lewis J, Pourquie O (2008) Control of segment number in vertebrate embryos. Nature 454:335-339.</p>
+
+</article>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <footer>
+<div class="grid">
+<table bgcolor="204517">
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
+  <div align="left">
+    <p>&nbsp;&nbsp;To see earlier posts, select the Archives at the top of this page</p>
+    <p></p>
+  </div>
+  <div id="RecentComments" class="dsq-widget">
+      <div align="center">
+       <h2>Recent Comments</h2>
+       <P>
+       To see the comment in context of the discussion click on the text that indicates how long ago the comment was posted, such as "2 hours ago".  Then wait for the post and then the comments to load.
+      <P>
+    </div>
+    <div>
+     <script type="text/javascript" src="https://the-pandas-thumb.disqus.com/recent_comments_widget.js?num_items=15&hide_mods=0&hide_avatars=0&avatar_size=32&excerpt_length=100"></script>
+    </div>
+  </div>
+</td></tr>
+  <tr><td></td><td><div class="unit whole">
+      <p>Copyright &copy; The Panda&#8217;s Thumb and original authors &mdash; Content provided under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons BY-NC-ND License 4.0</a>.</p>
+    <p></p>
+    </div>
+    </td></tr>
+  </table>
+  </div>
+  </footer>
+
+  
+
+</body>
+
+</html>
+
+

@@ -1,0 +1,140 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Phylogenomics Produces New and Improved Tree of Birds</title>
+  
+  <meta property="og:site_name" content="The Panda's Thumb" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Phylogenomics Produces New and Improved Tree of Birds" />
+  <meta property="og:url" content="https://pandasthumb.org/archives/2015/01/phylogenomics-r.html" />
+  <meta property="og:image" content="https://pandasthumb.org/media/roar.jpg" />
+  <meta property="article:author" content="Emily Thompson" />
+  <meta property="article:published_time" content="2015-01-15T11:00:00-07:00" />
+
+
+  <link rel="stylesheet" type='text/css' href="/css/normalize.css" />
+  <link rel="stylesheet" type='text/css' href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic,700italic|Source+Code+Pro:400,700" />
+  <link rel="stylesheet" type='text/css' href="/css/gridism.css" />
+  <link rel="stylesheet" type='text/css' href="/css/style.css" />
+  <link rel="stylesheet" type='text/css' href="/css/github.css" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <script type="text/javascript" src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="https://use.fontawesome.com/e6a24c6dde.js"></script>
+  <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>  
+  <script src="/js/local.js"></script>
+
+</head>
+
+
+<body class="wrap">
+  <div class="grid page-fill"><div></div></div>
+<header class="topbar">
+  <div class="grid no-gutters">
+    <div class="banner unit whole">
+		  <img src="/media/banner.jpg" alt="The Panda's Thumb" />
+    </div>
+    <nav class="main-nav unit whole align-center">
+      <ul>
+<li><a href="/" title="Main Page"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;Main</a></li>
+<li><a href="/archives/index.html" title="Archives"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Archives</a></li>
+<li><a href="#" title="Search is Unavailable"><i class="fa fa-search" aria-hidden="true"></i>&nbsp;Search</a></li>
+</ul>
+
+    </nav>
+  </div>
+</header>
+
+
+    <section class="blog">
+    <div class="grid">
+      <div class="unit whole">
+        <article class="blogpost">
+  <header>
+	  <h1><a href="/archives/2015/01/phylogenomics-r.html">Phylogenomics Produces New and Improved Tree of Birds</a></h1>
+	  <div class="byline"><i class="fa fa-user-circle" aria-hidden="true"></i> By Emily Thompson</div>
+	  <div class="attrline"><i class="fa fa-clock-o" aria-hidden="true"></i>
+	  <span><time pubdate="pubdate" datetime="2015-01-15T11:00:00-07:00">January 15, 2015 11:00 MST</time></span>
+	  </div>
+   </header>
+  <p>What do flamingoes and pigeons have in common? You might say very little—after all, flamingoes are long–legged, vibrantly–colored water–dwellers and the pigeons we often see inhabiting our cities appear to be completely the opposite. But according to a <a href="http://www.sciencemag.org/content/346/6215/1320.full">study</a> published last month in <em>Science</em> magazine, flamingoes and pigeons are more closely related than previously thought.</p>
+
+<p>The groundbreaking new study used phylogenomics to compare the genes of 48 bird species. It is the first study of its kind to use whole genomes to construct the tree of birds, thousands of genes altogether. Prior studies attempting to resolve some of the more controversial bird relationships only examined 10–20 genes, meaning that the researchers in the new study had much more data to analyze and could be more confident in their results.</p>
+
+<figure>
+<img src="/uploads/2014/flamingo%20and%20pigeon.jpg" alt="" width="600" height="250" style="" />
+<figcaption>
+Flamingoes and pigeons are more closely related than you might think, according to a new study.     Images: Wikipedia
+
+</figcaption>
+</figure>
+
+<p>Scientists have been revising our understanding of the tree of birds using phylogenetics over the past decade. In 2006, when the cost to sequence a single genome was $10 million, <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1834003/">Ericson et. al.</a> published one of the earliest phylogenetic bird papers, using 5 genes from 87 species for their analysis.  <a href="http://www.ncbi.nlm.nih.gov/pubmed/18583609">Hackett et. al.</a> conducted another phylogenetic study of birds in 2008, when sequencing a genome had fallen to $1 million, this time using 19 genes from 169 species for comparison.  While these studies were able to divide modern birds into their larger classifications, some of the deeper relationships remained unresolved and the researchers were still unable to establish with certainty the timing of the bird “big bang”—the rapid and successive divergence of birds into many species. Scientists agree that this divergence occurred around the time of the mass extinction of non-avian dinosaurs about 65 million years ago, but they debate whether birds diversified before or after the mass extinction.</p>
+
+<p>Jarvis et. al. (2014) found that the bird big bang happened immediately after the extinction, taking a relatively short 10–15 million years. Using thousands of genes, they could draw this and other conclusions with more certainty. But with so much data, the researchers could not use standard phylogenetic analysis tools; they needed to develop new ones.</p>
+
+<p>First of all, the team developed a custom algorithm for filtering out gene sequences that were unaligned or incorrectly aligned. Once the data from the aligned genes were gathered, the researchers used a new and more efficient <a href="http://sco.h-its.org/exelixis/web/software/examl/index.html">program</a> (implementing a <a href="http://en.wikipedia.org/wiki/Maximum_likelihood">maximum likelihood</a> model) to construct the phylogenetic relationships from the raw data. Finally, the researchers used a method called <a href="http://en.wikipedia.org/wiki/Data_binning">data binning</a> to reduce errors that arise from the mathematical assumption that species divergence occurred instantaneously (when it more likely occurred gradually). Using these new methods and the added information from so many genes, the researchers were able to confirm and reject with more conviction some of the branches proposed by the previous studies, like the flamingo-pigeon relationship.</p>
+
+<figure>
+<img src="/uploads/2015/Red-billed_Tropicbird_JCB.jpg" alt="" width="300" height="200" style="float:right;" />
+<figcaption>
+The red-billed tropicbird is a member of the Tropicbird family, which is excluded from Pelecaniformes in the new phylogenetic tree of birds.    Image: Wikipedia
+
+</figcaption>
+</figure>
+
+<p>Along with this relationship and resolving the timing of the bird divergence, the researchers discovered several other important findings about birds. From some of the traits of the bird tree, they could conclude that the common ancestor of land birds was an apex predator, or a predator at the top of the food chain with no predators of its own. Also, the new tree of birds contradicts previous trees by excluding eagles and New World vultures from Falconiformes, the group containing falcons, kestrels, and other birds of prey. Similarly, the group Pelecaniformes excluded tropicbirds, a family of seabirds. Finally, the study revealed some characteristics about the way songbirds gained their vocal abilities with a gene that is similar to the one giving humans the ability to learn speech. This finding has gained a lot of recognition because of its potential application to the study of human speech.</p>
+
+<p>As we’ve talked about in previous <a href="http://pandasthumb.org/archives/2014/11/-this-is-the-th.html">posts</a>, using a complete set of genomic data can give us a more accurate phylogenetic tree and more confidence in results like the ones we just mentioned, as long as the analytical methods are appropriate for big data sets. Because the researchers in this new study improved their methods to reduce the error and noise that can be found in big data sets, their tree is probably the most accurate tree of birds produced so far. But all mathematical models of natural phenomena are at least somewhat incorrect, so it is likely that researchers will make further improvements to the methods and the tree.</p>
+
+<p>Regardless, the field of phylogenetics is changing to realize the full potential of genome sequencing. As the tools to analyze these data improve, we’ll continue to gain new insights into species relationships and evolution with greater confidence than ever before. Who knows what other surprising relationships we’ll discover?</p>
+
+<p>See the complete tree of birds <a href="http://www.sciencemag.org/content/346/6215/1320/F1.large.jpg">here</a>.</p>
+
+<p><em>This series is supported by NSF Grant #DBI-1356548 to RA Cartwright.</em></p>
+
+</article>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <footer>
+<div class="grid">
+<table bgcolor="204517">
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
+  <div align="left">
+    <p>&nbsp;&nbsp;To see earlier posts, select the Archives at the top of this page</p>
+    <p></p>
+  </div>
+  <div id="RecentComments" class="dsq-widget">
+      <div align="center">
+       <h2>Recent Comments</h2>
+       <P>
+       To see the comment in context of the discussion click on the text that indicates how long ago the comment was posted, such as "2 hours ago".  Then wait for the post and then the comments to load.
+      <P>
+    </div>
+    <div>
+     <script type="text/javascript" src="https://the-pandas-thumb.disqus.com/recent_comments_widget.js?num_items=15&hide_mods=0&hide_avatars=0&avatar_size=32&excerpt_length=100"></script>
+    </div>
+  </div>
+</td></tr>
+  <tr><td></td><td><div class="unit whole">
+      <p>Copyright &copy; The Panda&#8217;s Thumb and original authors &mdash; Content provided under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons BY-NC-ND License 4.0</a>.</p>
+    <p></p>
+    </div>
+    </td></tr>
+  </table>
+  </div>
+  </footer>
+
+  
+
+</body>
+
+</html>
+
+

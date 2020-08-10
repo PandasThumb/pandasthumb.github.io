@@ -1,0 +1,132 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Information content of DNA</title>
+  
+  <meta property="og:site_name" content="The Panda's Thumb" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Information content of DNA" />
+  <meta property="og:url" content="https://pandasthumb.org/archives/2008/10/information-con.html" />
+  <meta property="og:image" content="https://pandasthumb.org/media/roar.jpg" />
+  <meta property="article:author" content="PvM" />
+  <meta property="article:published_time" content="2008-10-22T19:53:37-07:00" />
+
+
+  <link rel="stylesheet" type='text/css' href="/css/normalize.css" />
+  <link rel="stylesheet" type='text/css' href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic,700italic|Source+Code+Pro:400,700" />
+  <link rel="stylesheet" type='text/css' href="/css/gridism.css" />
+  <link rel="stylesheet" type='text/css' href="/css/style.css" />
+  <link rel="stylesheet" type='text/css' href="/css/github.css" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <script type="text/javascript" src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="https://use.fontawesome.com/e6a24c6dde.js"></script>
+  <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>  
+  <script src="/js/local.js"></script>
+
+</head>
+
+
+<body class="wrap">
+  <div class="grid page-fill"><div></div></div>
+<header class="topbar">
+  <div class="grid no-gutters">
+    <div class="banner unit whole">
+		  <img src="/media/banner.jpg" alt="The Panda's Thumb" />
+    </div>
+    <nav class="main-nav unit whole align-center">
+      <ul>
+<li><a href="/" title="Main Page"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;Main</a></li>
+<li><a href="/archives/index.html" title="Archives"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Archives</a></li>
+<li><a href="#" title="Search is Unavailable"><i class="fa fa-search" aria-hidden="true"></i>&nbsp;Search</a></li>
+</ul>
+
+    </nav>
+  </div>
+</header>
+
+
+    <section class="blog">
+    <div class="grid">
+      <div class="unit whole">
+        <article class="blogpost">
+  <header>
+	  <h1><a href="/archives/2008/10/information-con.html">Information content of DNA</a></h1>
+	  <div class="byline"><i class="fa fa-user-circle" aria-hidden="true"></i> By PvM</div>
+	  <div class="attrline"><i class="fa fa-clock-o" aria-hidden="true"></i>
+	  <span><time pubdate="pubdate" datetime="2008-10-22T19:53:37-07:00">October 22, 2008 19:53 MST</time></span>
+	  </div>
+   </header>
+  <p>The information content of DNA is much harder to determine than merely looking at the number of base pairs and multiplying it by 2 to get the size in bits (remember that each site can have up to 4 different nucleotides, or 2 bits). However, this approach can provide us with a zeroth order estimate of the maximum possible information that can be stored in said sequence which for the human genome with 3 billion base pairs would amount to 6 billion bits or 750 Mbytes.</p>
+
+<p>However, information theory shows that random sequences have the lowest information content and that well preserved sequences contain the maximum information content. In other words, the actual information content ranges from zero for totally random sequences to 2 bits for conserved sequences.</p>
+
+<p>Another way to look at this is to compress the DNA sequence using a regular archive utility. If the sequence is random, the compression will be minimal, if the sequence is fully regular, the compression will be much higher.</p>
+
+<p>So how does one obtain a better estimate of the information content of DNA? By estimating the entropy per triplet (3 base pairs) which has a maximum entropy of 6 and for coding regions a value of 5.6 and for non-coding regions 5.82. This means that the information content for coding regions is 0.4 bit per triplet and for non-coding regions .18 bit per triplet. For 3 billion base pairs, or 1 billion triplets, this gives us an actual information content of 0.4 billion bits or 50 Mbytes  assuming the best case scenario that all DNA is coding or about 24 Mbytes if all the DNA is non-coding.</p>
+
+<p>Now how does this compare with evolutionary theory? In a 1960 paper “Natural selection as the process of accumulating genetic information in adaptive evolution”, Kimura calculated that the amount of information added per generation was around 0.29 bits or since the Cambrian explosion some 500 million years ago, on the order of 10<sup>8</sup> bits or 12.5 Mbytes assuming that the geometric mean of the duration of one generation is about 1 year.</p>
+
+<p>As a side note, Kimura reasoned that about 10<sup>7</sup> or 10<sup>8</sup> bits bits of information would be necessary to specify human anatomy.(Source: Adaptation and Natural Selection  By George Christopher Williams)</p>
+
+<p>So is this a reliable way to determine the information content of DNA? Perhaps not, and a better way is to take a large sample DNA from different people and determine for each base pair, how variable it is. A preserved site will have the maximum of 2 bits of information while a totally random site will have zero bits of information.</p>
+
+<p>The problem is to understand how much information is contained by these ‘bits’. For instance, the total number of electrons is about 10<sup>79</sup> <strong>and finding one ‘preferred’ one’ amongst these</strong> <del>which</del> translates to about 250 bits. This means that in 1000 generations, natural selection can achieve something far more improbable than this.</p>
+
+<hr />
+
+<p><br /></p>
+
+<p><strong>Update Oct 26</strong>: I have to take responsibility for not clarifying that my usage of information is based on Shannon’s theory of information according to which</p>
+
+<p>I(y)=H<sub>max</sub> - H(Y)</p>
+
+<p>where I(Y) is the amount of information, H(Y) is the entropy of the received sequence and H<sub>Max</sub> is the maximum entropy (basically the entropy of uniform distributed sequence).</p>
+
+<p>See <a href="http://www.pandasthumb.org/archives/2004/05/shannon-entropy.html">Shannon entropy applied</a> where I described how Shannon entropy is applied in biology with references to the work by Chris Adami and Tom Schneider.</p>
+
+</article>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <footer>
+<div class="grid">
+<table bgcolor="204517">
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
+  <div align="left">
+    <p>&nbsp;&nbsp;To see earlier posts, select the Archives at the top of this page</p>
+    <p></p>
+  </div>
+  <div id="RecentComments" class="dsq-widget">
+      <div align="center">
+       <h2>Recent Comments</h2>
+       <P>
+       To see the comment in context of the discussion click on the text that indicates how long ago the comment was posted, such as "2 hours ago".  Then wait for the post and then the comments to load.
+      <P>
+    </div>
+    <div>
+     <script type="text/javascript" src="https://the-pandas-thumb.disqus.com/recent_comments_widget.js?num_items=15&hide_mods=0&hide_avatars=0&avatar_size=32&excerpt_length=100"></script>
+    </div>
+  </div>
+</td></tr>
+  <tr><td></td><td><div class="unit whole">
+      <p>Copyright &copy; The Panda&#8217;s Thumb and original authors &mdash; Content provided under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons BY-NC-ND License 4.0</a>.</p>
+    <p></p>
+    </div>
+    </td></tr>
+  </table>
+  </div>
+  </footer>
+
+  
+
+</body>
+
+</html>
+
+

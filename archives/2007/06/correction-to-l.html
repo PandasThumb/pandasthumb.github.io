@@ -1,0 +1,120 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Correction to Liu & Ochman paper</title>
+  
+  <meta property="og:site_name" content="The Panda's Thumb" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Correction to Liu & Ochman paper" />
+  <meta property="og:url" content="https://pandasthumb.org/archives/2007/06/correction-to-l.html" />
+  <meta property="og:image" content="https://pandasthumb.org/media/roar.jpg" />
+  <meta property="article:author" content="Nick Matzke" />
+  <meta property="article:published_time" content="2007-06-22T13:21:09-07:00" />
+
+
+  <link rel="stylesheet" type='text/css' href="/css/normalize.css" />
+  <link rel="stylesheet" type='text/css' href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic,700italic|Source+Code+Pro:400,700" />
+  <link rel="stylesheet" type='text/css' href="/css/gridism.css" />
+  <link rel="stylesheet" type='text/css' href="/css/style.css" />
+  <link rel="stylesheet" type='text/css' href="/css/github.css" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <script type="text/javascript" src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="https://use.fontawesome.com/e6a24c6dde.js"></script>
+  <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>  
+  <script src="/js/local.js"></script>
+
+</head>
+
+
+<body class="wrap">
+  <div class="grid page-fill"><div></div></div>
+<header class="topbar">
+  <div class="grid no-gutters">
+    <div class="banner unit whole">
+		  <img src="/media/banner.jpg" alt="The Panda's Thumb" />
+    </div>
+    <nav class="main-nav unit whole align-center">
+      <ul>
+<li><a href="/" title="Main Page"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;Main</a></li>
+<li><a href="/archives/index.html" title="Archives"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Archives</a></li>
+<li><a href="#" title="Search is Unavailable"><i class="fa fa-search" aria-hidden="true"></i>&nbsp;Search</a></li>
+</ul>
+
+    </nav>
+  </div>
+</header>
+
+
+    <section class="blog">
+    <div class="grid">
+      <div class="unit whole">
+        <article class="blogpost">
+  <header>
+	  <h1><a href="/archives/2007/06/correction-to-l.html">Correction to Liu & Ochman paper</a></h1>
+	  <div class="byline"><i class="fa fa-user-circle" aria-hidden="true"></i> By Nick Matzke</div>
+	  <div class="attrline"><i class="fa fa-clock-o" aria-hidden="true"></i>
+	  <span><time pubdate="pubdate" datetime="2007-06-22T13:21:09-07:00">June 22, 2007 13:21 MST</time></span>
+	  </div>
+   </header>
+  <p>A correction to the paper by Liu &amp; Ochman, “<a href="http://www.pnas.org/cgi/content/full/104/17/7116">Stepwise formation of the bacterial flagellar system</a>,” was <a href="http://www.pnas.org/cgi/content/abstract/0705172104v1">just published</a> in <em>PNAS</em>.  PT readers will recall that I and others had many problems with the methods and conclusions of this paper (see PT posts <a href="/archives/2007/04/flagellum-evolu-1.html">1</a>, <a href="/archives/2007/04/update-on-pnas.html">2</a>, <a href="/archives/2007/04/flagellum-evolu-3.html">3</a> for commentary and <a href="/archives/2007/05/flagellum-evo-f.html">4</a> for comprehensive links).  The correction and brief comments are below.</p>
+
+<blockquote>
+  <p><strong>Correction</strong></p>
+
+  <p><strong>EVOLUTION.</strong> For the article “Stepwise formation of the bacterial flagellar system,” by Renyi Liu and Howard Ochman, which appeared in issue 17, April 24, 2007, of <em>Proc Natl Acad Sci USA</em> (104:7116–7121; first published April 16, 2007; <a href="http://dx.doi.org/10.1073/pnas.0700266104">10.1073/pnas.0700266104</a>), the authors note that on page 7121, right column, line 4, the phrase “by using the Bl2seq program (with default options)” should instead read: “by using the Bl2seq program (with the ‘-F F’ option).” Additionally, in the Fig. 3 legend, line 3, the cutoff value 10<sup>-4</sup> should instead appear as 9 x 10<sup>-4</sup>. Applying this cutoff yields a total of 70, not 24, hits of flagellar core proteins to nonflagellar proteins in the entire <em>E. coli</em> K-12 genome. These errors do not affect the conclusions of the article.</p>
+
+  <p><a href="http://www.pnas.org/cgi/doi/10.1073/pnas.0705172104">www.pnas.org/cgi/doi/10.1073/pnas.0705172104</a></p>
+</blockquote>
+
+<p>Unfortunately the correction leaves out the well-known fact that removing the default filters (the “-F F” option on bl2seq) means that many homology hits with moderate e-values (like the paper’s original e=10<sup>-4</sup> cutoff, and the even weaker revised cutoff of basically 10<sup>-3</sup>) will be spurious hits and not truly indicative of homology.  How one can then say that this doesn’t effect the conclusions, when the main conclusion was that all of the core flagellar proteins are homologous (which was <a href="/archives/2007/04/update-on-pnas.html">what the paper said</a>, going beyond the long-known and well-established fact that many of the axial proteins are homologous), is beyond me.</p>
+
+<p>Additionally, if the number of nonflagellar homologs to core flagellar proteins in the <em>E. coli</em> genome is now 70 instead of 24, due to the slightly revised cutoff, (1) this just goes to show how unstable the proffered homology identification technique is (and the correction didn’t deal with the <a href="/archives/2007/04/flagellum-evolu-3.html">database size issue</a> at all), and (2) it is even more obscure than before to say, as the original paper did, that “the similarities among core proteins to one another are more common and, on average, stronger than to nonflagellar proteins” – which seems to have been the main reason in the first place for the contention that all 24 core flagellar proteins were related by duplication from a single ancestral gene.  I guess the paper was arguing that 24 flagellar homologs out of 24 core flagellar proteins is a higher percentage than 24 (now 70) nonflagellar homologs out of 4,000 nonflagellar proteins, but how this is supposed to show that “core flagellar proteins all came from one gene” is a better idea than “core flagellar proteins were coopted from diverse sources” remains baffling.</p>
+
+<p>Over the course of the original discussion of the Liu &amp; Ochman paper the limitations of the blog format for critiquing published scientific papers have become more apparent to me. Although I still think blog critiques are important for public education and for rapidly spreading information within a community activists who already know a blogger, they are far less useful within the general scientific arena, where in the end one party has their conclusions published in <em>PNAS</em> and the other is just some random guy on the ‘net.  So mostly I will wait for further publications in the scientific literature to sort this all out.</p>
+
+</article>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <footer>
+<div class="grid">
+<table bgcolor="204517">
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
+  <div align="left">
+    <p>&nbsp;&nbsp;To see earlier posts, select the Archives at the top of this page</p>
+    <p></p>
+  </div>
+  <div id="RecentComments" class="dsq-widget">
+      <div align="center">
+       <h2>Recent Comments</h2>
+       <P>
+       To see the comment in context of the discussion click on the text that indicates how long ago the comment was posted, such as "2 hours ago".  Then wait for the post and then the comments to load.
+      <P>
+    </div>
+    <div>
+     <script type="text/javascript" src="https://the-pandas-thumb.disqus.com/recent_comments_widget.js?num_items=15&hide_mods=0&hide_avatars=0&avatar_size=32&excerpt_length=100"></script>
+    </div>
+  </div>
+</td></tr>
+  <tr><td></td><td><div class="unit whole">
+      <p>Copyright &copy; The Panda&#8217;s Thumb and original authors &mdash; Content provided under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons BY-NC-ND License 4.0</a>.</p>
+    <p></p>
+    </div>
+    </td></tr>
+  </table>
+  </div>
+  </footer>
+
+  
+
+</body>
+
+</html>
+
+

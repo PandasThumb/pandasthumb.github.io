@@ -1,0 +1,214 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Red Lynx: A Population Genetics Simulator</title>
+  
+  <meta property="og:site_name" content="The Panda's Thumb" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Red Lynx: A Population Genetics Simulator" />
+  <meta property="og:url" content="https://pandasthumb.org/archives/2009/03/population-gene.html" />
+  <meta property="og:image" content="https://pandasthumb.org/media/roar.jpg" />
+  <meta property="article:author" content="Reed A. Cartwright" />
+  <meta property="article:published_time" content="2009-03-07T21:02:10-07:00" />
+
+
+  <link rel="stylesheet" type='text/css' href="/css/normalize.css" />
+  <link rel="stylesheet" type='text/css' href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic,700italic|Source+Code+Pro:400,700" />
+  <link rel="stylesheet" type='text/css' href="/css/gridism.css" />
+  <link rel="stylesheet" type='text/css' href="/css/style.css" />
+  <link rel="stylesheet" type='text/css' href="/css/github.css" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <script type="text/javascript" src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="https://use.fontawesome.com/e6a24c6dde.js"></script>
+  <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>  
+  <script src="/js/local.js"></script>
+
+</head>
+
+
+<body class="wrap">
+  <div class="grid page-fill"><div></div></div>
+<header class="topbar">
+  <div class="grid no-gutters">
+    <div class="banner unit whole">
+		  <img src="/media/banner.jpg" alt="The Panda's Thumb" />
+    </div>
+    <nav class="main-nav unit whole align-center">
+      <ul>
+<li><a href="/" title="Main Page"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;Main</a></li>
+<li><a href="/archives/index.html" title="Archives"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Archives</a></li>
+<li><a href="#" title="Search is Unavailable"><i class="fa fa-search" aria-hidden="true"></i>&nbsp;Search</a></li>
+</ul>
+
+    </nav>
+  </div>
+</header>
+
+
+    <section class="blog">
+    <div class="grid">
+      <div class="unit whole">
+        <article class="blogpost">
+  <header>
+	  <h1><a href="/archives/2009/03/population-gene.html">Red Lynx: A Population Genetics Simulator</a></h1>
+	  <div class="byline"><i class="fa fa-user-circle" aria-hidden="true"></i> By Reed A. Cartwright</div>
+	  <div class="attrline"><i class="fa fa-clock-o" aria-hidden="true"></i>
+	  <span><time pubdate="pubdate" datetime="2009-03-07T21:02:10-07:00">March 7, 2009 21:02 MST</time></span>
+	  </div>
+   </header>
+  <p>I’ve been building this simulator off and on for a few months.  It is called Red Lynx and is written completely in client-side javascript using <a href="http://jquery.com/">jQuery</a>, <a href="http://ui.jquery.com/">jQuery UI</a>, and <a href="http://keith-wood.name/svg.html">jQuery SVG plugin</a>.</p>
+
+<p>My goal is to host several of these javascript toys and teaching tools on PT and allow our readers to experiment with them.  I’ll be back later to explain the model, but I want to give y’all the chance to play with it and try to deduce the model beforehand.  (Of course, you can look at the code, but that’s cheating.)</p>
+
+<p>This simulation is inspired by a few <a href="http://darwin.eeb.uconn.edu/simulations/simulations.html">Java applets</a> written by Kent Holsinger at the University of Connecticut.  <a href="http://pandasthumb.org/archives/2009/01/coding-help.html">Dan Earle</a> came through big time by porting the binomial random number generator from GSL to javascript.</p>
+
+<p>Internet Explorer does not have native support for SVG graphics.  You can install  <a href="http://www.adobe.com/svg/viewer/install/main.html">Adobe SVG viewer</a> or the
+<a href="http://www.examotion.com/index.php?id=product_player">Renesis Player</a> to use the simulator.</p>
+
+<style type="text/css">
+@import "scripts/jquery.svg.min.css";
+*.ui-redlynx {
+width: 600px;
+margin-left: auto;
+margin-right: auto;	
+}
+*.ui-redlynx div.canvus {
+height: 400px;
+border: 1px solid black;
+}
+*.ui-redlynx div.control {
+margin-top: 1.5em;
+font-size: 95%;
+}
+*.ui-redlynx input[type="text"] {
+text-align: right;
+border-width: 0px;
+margin-right: 0.75em;
+float: right;
+color: #444;
+}
+*.ui-redlynx label {
+float: left;
+}
+*.ui-redlynx div.ui-slider {
+width: 325px;
+float: right;
+}
+*.ui-redlynx div.control p {
+margin: 0em 0em;
+margin-bottom: 0.5em;
+}
+
+*.ui-redlynx div.control p.ui-redlynx-buttons,
+#red-lynx-den p.ui-widget {
+margin-top 1.5em;
+text-align: center;
+margin-bottom: 1.5em;
+}
+
+*.ui-redlynx a.ui-redlynx-run,
+*.ui-redlynx a.ui-redlynx-clear,
+#red-lynx-den a.ui-redlynx-on {
+padding: .4em 1em .4em 20px;
+text-decoration: none;
+position: relative;
+margin-left: 0.5em;
+margin-right: 0.5em;
+}
+
+*.ui-redlynx a.ui-redlynx-run span.ui-icon,
+*.ui-redlynx a.ui-redlynx-clear span.ui-icon,
+#red-lynx-den a.ui-redlynx-on span.ui-icon {
+margin: 0 5px 0 0;
+position: absolute;
+left: .2em;
+top: 50%;
+margin-top: -8px;
+zoom: 1;
+}
+*.ui-redlynx div.ui-state-error {
+padding: 0 .7em;
+margin-top: 1em;
+}
+*.ui-redlynx div.ui-state-error span.ui-icon {
+float: left;
+margin: 4px;
+}
+
+</style>
+
+<script type="text/javascript" src="/scripts/jquery.svg.min.js"></script>
+
+<script type="text/javascript" src="/scripts/jquery.svggraph.min.js"></script>
+
+<script type="text/javascript" src="/scripts/ui.redlynx.min.js"></script>
+
+<div id="red-lynx-den">
+<p class="ui-widget"><a href="#" class="ui-redlynx-on ui-state-default ui-corner-all">
+<span class="ui-icon ui-icon-power"></span>Start Red Lynx Simulator
+</a></p>
+</div>
+<script type="text/javascript">
+$(function(){
+$('#red-lynx-den a.ui-redlynx-on').click( function(event,ui) {
+event.preventDefault();
+$('#red-lynx-den').html('').redlynx({initPath: '/scripts/'});
+}).hover(
+function(event, ui){ $(this).addClass('ui-state-hover'); }, 
+function(event, ui){ $(this).removeClass('ui-state-hover'); }
+).mousedown(
+function(event, ui){ $(this).addClass('ui-state-active'); }
+).mouseup(
+function(event, ui){ $(this).removeClass('ui-state-active'); }		
+);
+});
+</script>
+
+<p><strong>Update:</strong>  I’ve made some changes based on feed back that I’ve received and some new ideas I had.</p>
+
+</article>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <footer>
+<div class="grid">
+<table bgcolor="204517">
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
+  <div align="left">
+    <p>&nbsp;&nbsp;To see earlier posts, select the Archives at the top of this page</p>
+    <p></p>
+  </div>
+  <div id="RecentComments" class="dsq-widget">
+      <div align="center">
+       <h2>Recent Comments</h2>
+       <P>
+       To see the comment in context of the discussion click on the text that indicates how long ago the comment was posted, such as "2 hours ago".  Then wait for the post and then the comments to load.
+      <P>
+    </div>
+    <div>
+     <script type="text/javascript" src="https://the-pandas-thumb.disqus.com/recent_comments_widget.js?num_items=15&hide_mods=0&hide_avatars=0&avatar_size=32&excerpt_length=100"></script>
+    </div>
+  </div>
+</td></tr>
+  <tr><td></td><td><div class="unit whole">
+      <p>Copyright &copy; The Panda&#8217;s Thumb and original authors &mdash; Content provided under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons BY-NC-ND License 4.0</a>.</p>
+    <p></p>
+    </div>
+    </td></tr>
+  </table>
+  </div>
+  </footer>
+
+  
+
+</body>
+
+</html>
+
+

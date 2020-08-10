@@ -1,0 +1,160 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Fun with Hominin Cranial Capacity Datasets (and Excel)</title>
+  
+  <meta property="og:site_name" content="The Panda's Thumb" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Fun with Hominin Cranial Capacity Datasets (and Excel)" />
+  <meta property="og:url" content="https://pandasthumb.org/archives/2006/09/fun-with-homini.html" />
+  <meta property="og:image" content="https://pandasthumb.org/media/roar.jpg" />
+  <meta property="article:author" content="Nick Matzke" />
+  <meta property="article:published_time" content="2006-09-30T02:38:23-07:00" />
+
+
+  <link rel="stylesheet" type='text/css' href="/css/normalize.css" />
+  <link rel="stylesheet" type='text/css' href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic,700italic|Source+Code+Pro:400,700" />
+  <link rel="stylesheet" type='text/css' href="/css/gridism.css" />
+  <link rel="stylesheet" type='text/css' href="/css/style.css" />
+  <link rel="stylesheet" type='text/css' href="/css/github.css" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <script type="text/javascript" src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="https://use.fontawesome.com/e6a24c6dde.js"></script>
+  <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>  
+  <script src="/js/local.js"></script>
+
+</head>
+
+
+<body class="wrap">
+  <div class="grid page-fill"><div></div></div>
+<header class="topbar">
+  <div class="grid no-gutters">
+    <div class="banner unit whole">
+		  <img src="/media/banner.jpg" alt="The Panda's Thumb" />
+    </div>
+    <nav class="main-nav unit whole align-center">
+      <ul>
+<li><a href="/" title="Main Page"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;Main</a></li>
+<li><a href="/archives/index.html" title="Archives"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Archives</a></li>
+<li><a href="#" title="Search is Unavailable"><i class="fa fa-search" aria-hidden="true"></i>&nbsp;Search</a></li>
+</ul>
+
+    </nav>
+  </div>
+</header>
+
+
+    <section class="blog">
+    <div class="grid">
+      <div class="unit whole">
+        <article class="blogpost">
+  <header>
+	  <h1><a href="/archives/2006/09/fun-with-homini.html">Fun with Hominin Cranial Capacity Datasets (and Excel)</a></h1>
+	  <div class="byline"><i class="fa fa-user-circle" aria-hidden="true"></i> By Nick Matzke</div>
+	  <div class="attrline"><i class="fa fa-clock-o" aria-hidden="true"></i>
+	  <span><time pubdate="pubdate" datetime="2006-09-30T02:38:23-07:00">September 30, 2006 02:38 MST</time></span>
+	  </div>
+   </header>
+  <p><a href="/uploads/2006/fossil_hominin_cranial_capacity_lg.png"><img src="/uploads/2006/fossil_hominin_cranial_capacity_sm.png" alt="Preview graphic of chart showing hominin cranial capacity over time. Summary: fossil hominid brain size over the last 3 million years. Data from De Miguel and Henneberg, 2001, chart by Nick Matzke of NCSE.  Free for nonprofit educational use." style="float:left;" /></a>For some time I have been annoyed that charts of the changing cranial capacity of fossil hominin skulls are not more common.  There is <a href="http://www.talkorigins.org/faqs/homs/brainsize.gif">this chart</a> online at the <a href="http://www.talkorigins.org/faqs/homs/a_brains.html">Talk.Origins Fossil Hominids FAQ</a>, derived from <a href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;cluster=10917408103086933329">this 1994 PNAS paper</a>, but that is about it.  I wanted to make my own chart, but there was no easy way to get all of the relevant data.  Then, this week, I ran into <a href="http://www.ingentaconnect.com/content/urban/471/2001/00000052/00000001/art00019">this amazing paper</a> (<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=11515396&amp;dopt=Abstract">De Miguel and M. Henneberg 2001</a>*), which conviently included a 29-page Appendix listing <em>every known published measurement</em> of a hominin skull older than 10,000 years old.</p>
+
+<p>While killing my brain cells by listening to the <a href="http://redstaterabble.blogspot.com/2006/09/doomed-in-dome.html">radio broadcast</a> of the ID movement <strong><del>presenting cutting-edge research in the USF Sun Dome</del></strong> <a href="http://www.pssiinternational.com/save_the_date.htm">conducting an old-fashioned creationist revival in the USF Sun Dome</a>,**  I schlepped all 602 measurements and metadata into Excel.</p>
+
+<p>I am not complaining here, but I would like everyone to know that this was exceedingly tedious – many specimens have more than one measurement and there are all sorts of notes about various taxon designations, juvenile specimens, specimens confused with other specimens, and the like.  I can’t imagine how long it took the authors to assemble the table and the 239 references they cited.  But it did dull the pain from the Sun Dome broadcast.</p>
+
+<p>And, once the numbers were in Excel, I was able to recalculate the averages for each specimen, exclude the juveniles and dubious specimens that the authors excluded, and more-or-less reproduce the charts they have in their paper.  The big advantages are (a) my chart can be freely reproduced and (b) I can play with it in future blog posts.  For now, here is just your basic plain-vanilla chart of cranial capacity vs. time:</p>
+
+<p><img src="/uploads/2006/fossil_hominin_cranial_capacity_lg.png" alt="Chart showing hominin cranial capacity over time. Summary: fossil hominid brain size over the last 3 million years. Data from De Miguel and Henneberg, 2001, chart by Nick Matzke of NCSE.  Free for nonprofit educational use." style="" /></p>
+
+<p>It seems to me that <em>every</em> popular-level discussion of human evolution should use this sort of chart as much as possible.  Creationists should be embarrassed and ashamed about the huge mass of evidence they ignore every time they fail to mention the stunning, overwhelming, transitional, gradual, nature of the hundreds of ancient fossil skulls that have been discovered since Darwin and Huxley postulated apelike ancestors for humans back in the 1800s.  The evidence is simply an astonishing confirmation of evolution, and the endless pages of creationist diatribes about the lack of transitional hominid fossils are revealed to be mere verbal obfuscation when compared to this simple chart.  I suspect that in the entire history of creationist/ID writings, not one of them has been brave enough to show a chart like this to their readers, and then continue to maintain that there are no transitional fossils between humans and their apelike ancestors.  <em>Icons of Evolution</em> doesn’t do it.  <em>Of Pandas and People</em> doesn’t do it.  But I would be happy to be proven wrong.</p>
+
+<p>De Miguel and Henneberg are the same people who authored the 2004 paper “<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&amp;cmd=Retrieve&amp;dopt=AbstractPlus&amp;list_uids=15553266&amp;query_hl=2&amp;itool=pubmed_docsum">Hominins are a single lineage: brain and body size variability does not reflect postulated taxonomic diversity of hominins</a>.”  Here is the abstract:</p>
+
+<blockquote>
+  <p>Henneberg and de Miguel (2004). “Hominins are a single lineage: brain and body size variability does not reflect postulated taxonomic diversity of hominins.”  <em>Homo</em>. 55(1-2), pp. 21-37.</p>
+
+  <p>Fossil hominin taxonomy is still debated, chiefly due to the fragmentary nature of fossils and the use of qualitative (subjective) morphological traits. A quantitative analysis of a complete database of hominin cranial capacities (CC, n = 207) and body weight estimates (Wt, n = 285), covering a period from 5.1 ma (millions of years) to 10 ka (thousands of years) shows no discontinuities through time or geographic latitude. Distributions of residuals of CC and Wt around regressions on date and latitude are continuous and do not differ significantly from normal. Thus, with respect to these characteristics, all hominins appear to be a single gradually evolving lineage.</p>
+</blockquote>
+
+<p>Whether or not you agree with scrapping hominin taxonomy (major plus: it would vastly reduce creationists’ ability to transmogrify pedestrian taxonomic hairsplitting into wild declarations of the absense of transitional hominin fossils), a result like this should make it hard for anyone to take seriously the idea that there are major discontinuities in the hominin fossil record.  But strangely, this paper is not cited in Casey Luskin’s 2005 <a href="http://www.iscid.org/pcid/2005/4/1/luskin_human_origins.php">analysis of hominid evolution</a> (which I <a href="/archives/2006/09/meet-selam.html">discussed briefly</a> last week).  This has not stopped Luskin from keeping up his argument for the special creation of humans by citing the allegedly drastic size difference between <em>Australopithecus</em> and <em>Homo</em>, as he has <a href="http://www.ideacenter.org/stuff/contentmgr/files/41a6225be227b2691a1b0a0e41108571/miscdocs/luskin_humanevolution_pcidsubmission_withpics.pdf">done</a> <a href="http://www.evolutionnews.org/2006/09/media_goes_gaga_over_baby_aust.html">several</a> <a href="http://www.evolutionnews.org/2006/04/no_steps_forward_acknowledging_1.html">times</a> by putting up this graphic from Hawks et al. (2000)***:</p>
+
+<p><img src="http://scienceblogs.com/afarensis/upload/2006/09/afarensis%20comparison%202.gif" alt="Australopithecus and Homo fossils from Population Bottlenecks and Pleistocene Evolution, from Hawks et al. 2000" style="" /></p>
+
+<p>Hmm.  Is comparing two fossils the best way to assess the question of whether or not there is a huge gap in the hominin fossil record?  Lucky for us, Henneberg and de Miguel (2004) put their spiffy database to use, and plot both hominin cranial capacity and body mass in Figure 1:</p>
+
+<p><img src="/uploads/2006/Henneberg_de_Miguel_2004_Homo_hominins_single_lineage_fig1.png" alt="Fossil hominin cranial capacity and estimated body weight vs. time.  Figure 1 from Henneberg and de Miguel 2004." style="" /></p>
+
+<p>This chart is a little more complex to interpret.  The top set of points is cranial capacity, corresponding to the vertical axis on the left.  This is essentially the same data that I plotted above – it just plots on a straight line here because the authors are using a logarithmic scale for the y-axis.</p>
+
+<p>The bottom set of points is body mass, corresponding to body weight in kilograms (right-hand axis).  This is also on a log scale.  There are two interesting scientific points here: (1) cranial capacity increased disproportionately compared to a slower increase in body weight during human evolution (which everyone hopefully knew already) and, (2), in fact, contra Luskin, the fossil evidence makes the increase in body mass look pretty darn gradual also.</p>
+
+<p>P.S.: I would like to generate my own spiffy plots of hominin body weight estimates over time, but the dataset seems to have been published in this annoyingly rare publication:</p>
+
+<blockquote>
+  <p>De Miguel and Henneberg (1999). “Variation in hominid body size estimates: Do we know how big our ancestors were?”  <em>Perspectives in Human Biology</em>, 4(1), pp. 65-80.</p>
+</blockquote>
+
+<p>Here is the <a href="http://www.worldcatlibraries.org/oclc/31416665&amp;referer=brief_results">WorldCat entry</a> for the series.  If anyone happens to have it handy, please email me a scan at matzkeATncseweb.org if you get a chance.</p>
+
+<p><strong>Notes</strong></p>
+
+<p><strong>*</strong> <em>The paper is:</em> C. De Miguel and M. Henneberg (2001). “<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=11515396&amp;dopt=Abstract">Variation in hominid brain size: How much is due to method?</a>”  <em>Homo</em> 52(1), pp. 3-58.</p>
+
+<p>In this paper, the authors, <a href="http://www.adelaide.edu.au/health/anat/staff/carmen.html">Carmen de Miguel</a> and <a href="http://www.adelaide.edu.au/health/anat/staff/maciej.html">Maciej Henneberg</a> of the Department of Anatomical Sciences, University of Adelaide, Australia, conducted a study of the experimental error  in researcher measurements of cranial capacity.  Although I am not discussing this in detail here, this question is interesting in itself.  Basically the authors found that the error is substantial, and due to numerous sources such as different reconstructions of mushed skulls, but (creationists, take note!) <em>despite</em> these errors, the <em>time</em> variable explains <strong>89%</strong> of the variance in the dataset.  The error is significant, but is still overwhelmed by the time-dependent trend:</p>
+
+<blockquote>
+  <p>When the entire time span of more than 3 Ma is analysed jointly, the date (= time) is responsible for the major portion (89%) of the variation in hominid cranial capacity, while taxa on their own are responsible for a minor portion of this variation (5%), the rest being errors of estimates. (<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=11515396&amp;dopt=Abstract">De Miguel and M. Henneberg 2001</a>, p. 16)</p>
+</blockquote>
+
+<p>The authors conclude that their study supports previous studies indicating that the change in cranial capacity can be explained by “a typical Darwinian mechanism” of exponential increase in a quantitative trait under selection.  (Creationists, take note again: “exponential increase” does not mean “sudden” – think of compound interest.)</p>
+
+<p><strong>**</strong> <em>Summary of ID Sun Dome broadcast:</em> same ol’, same ol’, but the radio hosts narrated the event like it was a football game, which was hilarious – “Wow, Bob, Jonathan Wells sure answered a lot of tough questions just now, didn’t he?” “Yes, Shelly, isn’t this pure science great?  This is really impressive stuff we’re hearing, and it’s all science, not religion!” “Oh, and isn’t it awful how the textbooks and public schools are lying to kids?”  “Up next is the famous Michael Behe, but first we’re going to watch a segment from this amazing ID video, which you can get free by signing up with Physicians and Surgeons for Scientific Integrity.” “What’s that website again, Bob?”…etc.  This is a paraphrase, but I Am Not Making This Up.)</p>
+
+<p><strong>***</strong> <em>See also</em> <a href="http://scienceblogs.com/afarensis/2006/09/28/casey_luskin_and_selam/">this recent debunking at afarensis</a>.</p>
+
+</article>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <footer>
+<div class="grid">
+<table bgcolor="204517">
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
+  <div align="left">
+    <p>&nbsp;&nbsp;To see earlier posts, select the Archives at the top of this page</p>
+    <p></p>
+  </div>
+  <div id="RecentComments" class="dsq-widget">
+      <div align="center">
+       <h2>Recent Comments</h2>
+       <P>
+       To see the comment in context of the discussion click on the text that indicates how long ago the comment was posted, such as "2 hours ago".  Then wait for the post and then the comments to load.
+      <P>
+    </div>
+    <div>
+     <script type="text/javascript" src="https://the-pandas-thumb.disqus.com/recent_comments_widget.js?num_items=15&hide_mods=0&hide_avatars=0&avatar_size=32&excerpt_length=100"></script>
+    </div>
+  </div>
+</td></tr>
+  <tr><td></td><td><div class="unit whole">
+      <p>Copyright &copy; The Panda&#8217;s Thumb and original authors &mdash; Content provided under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons BY-NC-ND License 4.0</a>.</p>
+    <p></p>
+    </div>
+    </td></tr>
+  </table>
+  </div>
+  </footer>
+
+  
+
+</body>
+
+</html>
+
+

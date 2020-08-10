@@ -1,0 +1,286 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>EvoMath 1: The Hardy-Weinberg Principle</title>
+  
+  <meta property="og:site_name" content="The Panda's Thumb" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="EvoMath 1: The Hardy-Weinberg Principle" />
+  <meta property="og:url" content="https://pandasthumb.org/archives/2004/04/evomath-1-the-h-1.html" />
+  <meta property="og:image" content="https://pandasthumb.org/media/roar.jpg" />
+  <meta property="article:author" content="Reed A. Cartwright" />
+  <meta property="article:published_time" content="2004-04-04T13:00:00-07:00" />
+
+
+  <link rel="stylesheet" type='text/css' href="/css/normalize.css" />
+  <link rel="stylesheet" type='text/css' href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic,700italic|Source+Code+Pro:400,700" />
+  <link rel="stylesheet" type='text/css' href="/css/gridism.css" />
+  <link rel="stylesheet" type='text/css' href="/css/style.css" />
+  <link rel="stylesheet" type='text/css' href="/css/github.css" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <script type="text/javascript" src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="https://use.fontawesome.com/e6a24c6dde.js"></script>
+  <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>  
+  <script src="/js/local.js"></script>
+
+</head>
+
+
+<body class="wrap">
+  <div class="grid page-fill"><div></div></div>
+<header class="topbar">
+  <div class="grid no-gutters">
+    <div class="banner unit whole">
+		  <img src="/media/banner.jpg" alt="The Panda's Thumb" />
+    </div>
+    <nav class="main-nav unit whole align-center">
+      <ul>
+<li><a href="/" title="Main Page"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;Main</a></li>
+<li><a href="/archives/index.html" title="Archives"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Archives</a></li>
+<li><a href="#" title="Search is Unavailable"><i class="fa fa-search" aria-hidden="true"></i>&nbsp;Search</a></li>
+</ul>
+
+    </nav>
+  </div>
+</header>
+
+
+    <section class="blog">
+    <div class="grid">
+      <div class="unit whole">
+        <article class="blogpost">
+  <header>
+	  <h1><a href="/archives/2004/04/evomath-1-the-h-1.html">EvoMath 1: The Hardy-Weinberg Principle</a></h1>
+	  <div class="byline"><i class="fa fa-user-circle" aria-hidden="true"></i> By Reed A. Cartwright</div>
+	  <div class="attrline"><i class="fa fa-clock-o" aria-hidden="true"></i>
+	  <span><time pubdate="pubdate" datetime="2004-04-04T13:00:00-07:00">April 4, 2004 13:00 MST</time></span>
+	  </div>
+   </header>
+  <p>The Hardy-Weinberg Principle states that a population satisfying certain primary conditions will not evolve.  This result is very important because any departure from these conditions will result in an evolving population.  Three scientists in the early 20th century (G.H Hardy, Wilhelm Weinberg, and W.E. Castle) independently discovered this principle which is now used as the null model of population biology.</p>
+
+<p>Consider a group of interbreeding organisms (a population). . .</p>
+
+<h2 id="initial-assumptions-about-the-population">Initial assumptions about the population:</h2>
+
+<p>In order to construct any model, assumptions need to be made.  These establish the “world” in which the model exists.  How applicable the model is to the real world depends on how well the assumptions reflect reality.  With this in mind we will make the following assumptions to establish the theoretical conditions for the model.</p>
+
+<p>Primary:</p>
+
+<ul>
+  <li>Random mating (panmixia)</li>
+  <li>Random union of gametes (Mendelian inheritance)</li>
+  <li>The size of the population is infinite.</li>
+  <li>No Migration</li>
+  <li>No Mutation</li>
+  <li>No Selection</li>
+</ul>
+
+<p>Secondary:</p>
+
+<ul>
+  <li>Diploid</li>
+  <li>Sexual, hermaphroditic (no difference between males and females)</li>
+  <li>Nonoverlapping generations</li>
+  <li>The gene under consideration has two forms (alleles). (<em>A</em> and <em>a</em>)</li>
+  <li>The gene is not on a sex chromosome.</li>
+</ul>
+
+<h2 id="some-quick-definitions">Some Quick Definitions:</h2>
+
+<ul>
+  <li><strong>Allele:</strong> an alternate form of a gene</li>
+  <li><strong>Chromosome:</strong> a long molecule of double stranded DNA that is associated with proteins and contains many genes</li>
+  <li><strong>Evolution:</strong> the change in heritable characteristics of a group of organisms over time</li>
+  <li><strong>Gene:</strong> a segment of DNA responsible for producing an RNA transcript</li>
+  <li><strong>Genotype:</strong> the genetic constitution of an individual</li>
+  <li><strong>Locus:</strong> the place on a chromosome where a particular gene is located</li>
+  <li><strong>Migration:</strong> movement of genes from one population to another</li>
+  <li><strong>Mutation:</strong> a change in an organism’s genetic constitution</li>
+  <li><strong>Phenotype:</strong> the physiological traits of an individual</li>
+  <li><strong>Population:</strong> a group of interbreeding organisms</li>
+  <li><strong>Selection:</strong> the process where different alleles have different effects on the ability of an organism to produce offspring</li>
+</ul>
+
+<h2 id="allele-frequencies">Allele Frequencies:</h2>
+
+<p>There are two alleles in the population: <em>A</em> and <em>a</em>.  Let the frequency of the <em>A</em> allele be represented by \(p\) and the frequency of the <em>a</em> allele be represented by \(q\). Note: \(p+q=1\).</p>
+
+<h2 id="genotype-frequencies">Genotype Frequencies:</h2>
+
+<p>Let \(P\), \(H\), and \(Q\) represent the genotype frequencies <em>AA</em>, <em>Aa</em>, <em>aa</em> respectively in the parental population and \(P^\prime\), \(H^\prime\), and \(Q^\prime\) represent the genotype frequencies in the daughter population.  At Hardy-Weinberg equilibrium the frequency of the genotypes will be related to the allele frequencies as follows.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Genotype</strong></td>
+      <td><strong>Frequency</strong></td>
+    </tr>
+    <tr>
+      <td><em>AA</em></td>
+      <td>\(P = P^\prime = p^2\)</td>
+    </tr>
+    <tr>
+      <td><em>Aa</em></td>
+      <td>\(H = H^\prime = 2pq\)</td>
+    </tr>
+    <tr>
+      <td><em>aa</em></td>
+      <td>\(Q = Q^\prime = q^2\)</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="rationale">Rationale:</h2>
+
+<p>Each individual in the population has two alleles.  Homozygous individuals have two identical alleles; heterozygous individuals have one copy of each allele.  Using these facts we can determine allele frequencies as the ratio of the number of each allele over the total number of alleles in the population.  But first, to simplify things let \(N\) be the number of individuals in a population, which means that the number of <em>AA</em> individuals is \(PN\), the number of <em>Aa</em> individuals is \(HN\), and the number of <em>aa</em> individuals is \(QN\).  Then the allele frequencies can be calculated from counts of individuals as follows.</p>
+
+\[p = \frac{2PN + HN}{2N} = \frac{2P + H}{2} =  P + \frac{H}{2}\]
+
+\[q = \frac{2QN + HN}{2N} = \frac{2Q + H}{2} = Q + \frac{H}{2}\]
+
+<p>Note: \(p + q = P + H + Q = 1\).</p>
+
+<p>Because mating is random, the frequency of a mating is the frequency of the genotype of the first parent multiplied by the frequency of the genotype of the second.  For example, the probability that an <em>AA</em> individual and an <em>aa</em> individual mate with one another is</p>
+
+\[\begin{split}
+\Pr\left\{AA \, \&amp; \, aa\right\} &amp;= \Pr\left\{\mbox{mom} = AA \,\&amp;\, \mbox{dad} = aa \right\} + \Pr\left\{\mbox{dad} = aa\,\&amp;\,\mbox{mom} = AA\right\} \\
+&amp;= PQ + PQ = 2PQ
+\end{split}\]
+
+<p>Because random union of gametes (Mendelian inheritance) is occurring, the genotype of an offspring is derived by randomly choosing one allele from each parent.  <em>AA</em> individuals will always produce <em>A</em> gametes, <em>aa</em> individuals will always produce <em>a</em> gametes, and   <em>Aa</em> individuals will always produce both <em>A</em> gametes and <em>a</em> gametes in a 50:50 ratio.  It is easy to see that an <em>AA</em> x <em>aa</em> mating will always produce <em>Aa</em> offspring.  These frequencies can be calculated likewise for each of the six possible matings, and the results are displayed in the table below.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Mating</strong></td>
+      <td><strong>Freq</strong></td>
+      <td><strong>Offspring</strong></td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong><em>AA</em></strong></td>
+      <td><strong><em>Aa</em></strong></td>
+      <td><strong><em>aa</em></strong></td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong><em>AA</em> x <em>AA</em></strong></td>
+      <td>\(P^2\)</td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+    </tr>
+    <tr>
+      <td><strong><em>AA</em> x <em>Aa</em></strong></td>
+      <td>\(2PH\)</td>
+      <td>0.5</td>
+      <td>0.5</td>
+      <td>0.0</td>
+    </tr>
+    <tr>
+      <td><strong><em>AA</em> x <em>aa</em></strong></td>
+      <td>\(2PQ\)</td>
+      <td>0.0</td>
+      <td>1.0</td>
+      <td>0.0</td>
+    </tr>
+    <tr>
+      <td><strong><em>Aa</em> x <em>Aa</em></strong></td>
+      <td>\(H^2\)</td>
+      <td>0.25</td>
+      <td>0.5</td>
+      <td>0.25</td>
+    </tr>
+    <tr>
+      <td><strong><em>Aa</em> x <em>aa</em></strong></td>
+      <td>\(2HQ\)</td>
+      <td>0.0</td>
+      <td>0.5</td>
+      <td>0.5</td>
+    </tr>
+    <tr>
+      <td><strong><em>aa</em> x <em>aa</em></strong></td>
+      <td>\(Q^2\)</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
+    </tr>
+    <tr>
+      <td><strong>Total</strong></td>
+      <td>1.0</td>
+      <td>\(P^\prime\)</td>
+      <td>\(H^\prime\)</td>
+      <td>\(Q^\prime\)</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="therefore">Therefore:</h2>
+
+<p>Using this table, we can calculate the genotype frequencies in the next generation as the average of the proportion of offspring of each genotype that each mating produces, weighted by the frequency of the mating.</p>
+
+\[\begin{split}
+P^\prime &amp;= 1.0 \times P^2 +0.5\times 2PH + 0.25\times H^2 = \left(P + \frac{H}{2}\right)^2 = p^2 \\
+H^\prime &amp;= 0.5 \times 2PQ + 1.0 \times 2PQ + 0.5 \times H^2 + 0.5 \times 2HQ  = 2\left(P+\frac{H}{2}\right)\left(Q+\frac{H}{2}\right) = 2pq \\
+Q^\prime &amp;= 0.25 \times H^2 + 0.5 \times 2HQ + 1.0 \times Q^2 = \left(Q+\frac{H}{2}\right)^2 = q^2\end{split}\]
+
+<h2 id="equilibrium">Equilibrium:</h2>
+
+<p>The process of reproduction described above does not affect the allele frequency in the population: \(p^\prime = \frac{2P^\prime+H^\prime}{2}=\frac{2p^2+2pq}{2} = p\).  Because the allele frequency does not change from one generation to the next, the population is considered to be at “equilibrium” with respect to its alleles.  The only things that have changed in the population are the frequencies of genotypes, and that only happens if they are not already at \(\left\{p^2, 2pq, q^2\right\}\).  After the first round of reproduction, the genotype frequencies also reach equilibrium.</p>
+
+<h2 id="significance">Significance:</h2>
+
+<p>A population satisfying the initial assumptions does not evolve after the first generation.  The allele frequencies never change, and the genotype frequencies only change in the first breeding cycle to the equilibrium distribution of \(\left\{p^2, 2pq, q^2\right\}\).  This is significant because, before the Hardy-Weinberg principle was proved, it was argued by some biologists that a gene will go extinct unless it was actively selected for.  In fact the opposite is true; in the absence of evolutionary forces, alleles will be maintained at their present frequencies.</p>
+
+<p>This result can be shown to be consistent when the secondary assumptions are changed, i.e. there is an analogous principle for multiallelic, continuous, and/or polyploid populations.  Although populations that violate the primary conditions will technically evolve, in many instances these violations can be so slight that the rate of evolution is not significantly different than zero.  For instance, a very large population might be effectively infinite, and a mutation or migration rate might be so small that it is effectively zero.  The Hardy-Weinberg principle forms the null hypothesis for population biology, and most population-based models of evolution derive from modifying the assumptions of this model.</p>
+
+<p><a href="http://www.pandasthumb.org/pt-archives/000090.html">Back to EvoMath Introduction.</a></p>
+
+</article>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <footer>
+<div class="grid">
+<table bgcolor="204517">
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
+  <div align="left">
+    <p>&nbsp;&nbsp;To see earlier posts, select the Archives at the top of this page</p>
+    <p></p>
+  </div>
+  <div id="RecentComments" class="dsq-widget">
+      <div align="center">
+       <h2>Recent Comments</h2>
+       <P>
+       To see the comment in context of the discussion click on the text that indicates how long ago the comment was posted, such as "2 hours ago".  Then wait for the post and then the comments to load.
+      <P>
+    </div>
+    <div>
+     <script type="text/javascript" src="https://the-pandas-thumb.disqus.com/recent_comments_widget.js?num_items=15&hide_mods=0&hide_avatars=0&avatar_size=32&excerpt_length=100"></script>
+    </div>
+  </div>
+</td></tr>
+  <tr><td></td><td><div class="unit whole">
+      <p>Copyright &copy; The Panda&#8217;s Thumb and original authors &mdash; Content provided under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons BY-NC-ND License 4.0</a>.</p>
+    <p></p>
+    </div>
+    </td></tr>
+  </table>
+  </div>
+  </footer>
+
+  
+
+</body>
+
+</html>
+
+

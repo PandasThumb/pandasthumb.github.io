@@ -1,0 +1,124 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Phylogenomics: Deciphering a Billion-Piece Puzzle </title>
+  
+  <meta property="og:site_name" content="The Panda's Thumb" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Phylogenomics: Deciphering a Billion-Piece Puzzle " />
+  <meta property="og:url" content="https://pandasthumb.org/archives/2014/11/phylogenomics-d.html" />
+  <meta property="og:image" content="https://pandasthumb.org/media/roar.jpg" />
+  <meta property="article:author" content="Emily Thompson" />
+  <meta property="article:published_time" content="2014-11-06T11:40:49-07:00" />
+
+
+  <link rel="stylesheet" type='text/css' href="/css/normalize.css" />
+  <link rel="stylesheet" type='text/css' href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic,700italic|Source+Code+Pro:400,700" />
+  <link rel="stylesheet" type='text/css' href="/css/gridism.css" />
+  <link rel="stylesheet" type='text/css' href="/css/style.css" />
+  <link rel="stylesheet" type='text/css' href="/css/github.css" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <script type="text/javascript" src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="https://use.fontawesome.com/e6a24c6dde.js"></script>
+  <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>  
+  <script src="/js/local.js"></script>
+
+</head>
+
+
+<body class="wrap">
+  <div class="grid page-fill"><div></div></div>
+<header class="topbar">
+  <div class="grid no-gutters">
+    <div class="banner unit whole">
+		  <img src="/media/banner.jpg" alt="The Panda's Thumb" />
+    </div>
+    <nav class="main-nav unit whole align-center">
+      <ul>
+<li><a href="/" title="Main Page"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;Main</a></li>
+<li><a href="/archives/index.html" title="Archives"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Archives</a></li>
+<li><a href="#" title="Search is Unavailable"><i class="fa fa-search" aria-hidden="true"></i>&nbsp;Search</a></li>
+</ul>
+
+    </nav>
+  </div>
+</header>
+
+
+    <section class="blog">
+    <div class="grid">
+      <div class="unit whole">
+        <article class="blogpost">
+  <header>
+	  <h1><a href="/archives/2014/11/phylogenomics-d.html">Phylogenomics: Deciphering a Billion-Piece Puzzle </a></h1>
+	  <div class="byline"><i class="fa fa-user-circle" aria-hidden="true"></i> By Emily Thompson</div>
+	  <div class="attrline"><i class="fa fa-clock-o" aria-hidden="true"></i>
+	  <span><time pubdate="pubdate" datetime="2014-11-06T11:40:49-07:00">November 6, 2014 11:40 MST</time></span>
+	  </div>
+   </header>
+  <p><em>This is the second in a series of articles for the general public focused on understanding how species are related and how genomic data is used in research. Today, we talk about phylogenomics, the application of whole genome sequencing to understand evolutionary relationships among species.</em></p>
+
+<figure>
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DNA_chemical_structure.svg/411px-DNA_chemical_structure.svg.png" alt="" width="411" height="480" style="float:right;" />
+<figcaption>
+DNA Chemical Structure.  Source: <a href="http://commons.wikimedia.org/wiki/File:DNA_chemical_structure.svg">Madeleine Price Ball</a>
+
+</figcaption>
+</figure>
+
+<p>The haploid human genome is 3.2 billion <a href="http://en.wikipedia.org/wiki/DNA">DNA</a> bases long, and each base can be one of four nucleotides: A, T, C, and G.  Uncoiled, the DNA in a single human cell would be 2 meters long, and the DNA in a human body would <a href="http://skeptics.stackexchange.com/a/10612">stretch from the sun to Pluto multiple times</a>.  With 3.2 billion bases, each person’s genome is unique, and this plays an essential role in shaping our physical and mental individuality.  However, despite being unique, each human genome is very very similar, due to our shared ancestral heritage.  Similarly, species that share a recent ancestral heritage also have similar genomes.  Species that are distantly related are likely to demonstrate significant differences in their genomes.  This is why, <a href="http://pandasthumb.org/archives/2014/10/the-family-tree.html">as we discussed last week</a>, evolutionary biologists compare traits and genes to determine the relationships of different species.</p>
+
+<p>Unfortunately, some genes give us the wrong answer about how species are related. A section of a gene can be identical for two species due to independent mutations. After all, any given base can only mutate into one of three other bases. Chances are the same mutation could happen twice, or multiple mutations can produce the same sequence. Consider two species that are distantly related; one contains an <code class="kw-code">AGA</code> fragment, while the corresponding fragment in the other species is <code class="kw-code">TGT</code>, i.e. they differ in 2 out of 3 positions.  As these species evolve, by chance the first species may experience a change in the first position such that <code class="kw-code">AGA</code>→<code class="kw-code">TGA</code>, and the second species may experience a change in the third position such that <code class="kw-code">TGT</code>→<code class="kw-code">TGA</code>.  Now, these two sequences look the same so you might think the species share a recent common ancestor; however, it is only an accident of biology that they appear closely related. Because some fragments may be identical due to independent mutations and not shared ancestry, estimating species relationships with using whole genomes is better than just a few genes. The more information we have, the more likely we are to figure out species’ relationships correctly.</p>
+
+<p>The cost to sequence whole genomes has fallen from $100 million to $1000 in just the past twelve years. It now takes days to sequence a genome compared to the 13 years it took for the first human genome. The challenge now is not to obtain the data but to compare all the billions of base pairs in one genome to those in another. Current sequencing methods, while fast, can only read the genome by dividing it into millions of short fragments, which must be reassembled like an enormous puzzle. Researchers then have to figure out which genes correspond to one another in different species’ genomes. These comparisons are challenging because genes in one genome might be in a different order, on different chromosomes, or missing completely in another species’ genome.</p>
+
+<p>Biologists are beginning to use genomic information to understand how species are related and measure how fast or slowly different genes evolve. Then in turn allows us to understand how evolution happens. For example, using genomic information we can figure out how genes mutate, characterize and diagnose genetic diseases, and track harmful pathogens. But before that can happen, we need to address the difficulties of analyzing these large genomic datasets. You might think that more data is always better, but having a lot of data can lead us to have very high confidence in the wrong answer. In a pool of thousands of genes, we need to find the ones that tell us the right answer.</p>
+
+<p><em>Next week, we’ll discuss statistical challenges associated with big data analysis, especially as it relates to phylogenomics. This series is supported by NSF Grant #DBI-1356548 to RA Cartwright.</em></p>
+
+</article>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <footer>
+<div class="grid">
+<table bgcolor="204517">
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
+  <div align="left">
+    <p>&nbsp;&nbsp;To see earlier posts, select the Archives at the top of this page</p>
+    <p></p>
+  </div>
+  <div id="RecentComments" class="dsq-widget">
+      <div align="center">
+       <h2>Recent Comments</h2>
+       <P>
+       To see the comment in context of the discussion click on the text that indicates how long ago the comment was posted, such as "2 hours ago".  Then wait for the post and then the comments to load.
+      <P>
+    </div>
+    <div>
+     <script type="text/javascript" src="https://the-pandas-thumb.disqus.com/recent_comments_widget.js?num_items=15&hide_mods=0&hide_avatars=0&avatar_size=32&excerpt_length=100"></script>
+    </div>
+  </div>
+</td></tr>
+  <tr><td></td><td><div class="unit whole">
+      <p>Copyright &copy; The Panda&#8217;s Thumb and original authors &mdash; Content provided under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons BY-NC-ND License 4.0</a>.</p>
+    <p></p>
+    </div>
+    </td></tr>
+  </table>
+  </div>
+  </footer>
+
+  
+
+</body>
+
+</html>
+
+

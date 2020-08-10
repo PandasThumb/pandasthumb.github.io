@@ -1,0 +1,149 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Mapping fitness: ribozymes, landscapes, and Seattle</title>
+  
+  <meta property="og:site_name" content="The Panda's Thumb" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Mapping fitness: ribozymes, landscapes, and Seattle" />
+  <meta property="og:url" content="https://pandasthumb.org/archives/2011/05/mapping-fitness-3.html" />
+  <meta property="og:image" content="https://pandasthumb.org/media/roar.jpg" />
+  <meta property="article:author" content="Steve Matheson" />
+  <meta property="article:published_time" content="2011-05-30T01:15:28-07:00" />
+
+
+  <link rel="stylesheet" type='text/css' href="/css/normalize.css" />
+  <link rel="stylesheet" type='text/css' href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic,700italic|Source+Code+Pro:400,700" />
+  <link rel="stylesheet" type='text/css' href="/css/gridism.css" />
+  <link rel="stylesheet" type='text/css' href="/css/style.css" />
+  <link rel="stylesheet" type='text/css' href="/css/github.css" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <script type="text/javascript" src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="https://use.fontawesome.com/e6a24c6dde.js"></script>
+  <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>  
+  <script src="/js/local.js"></script>
+
+</head>
+
+
+<body class="wrap">
+  <div class="grid page-fill"><div></div></div>
+<header class="topbar">
+  <div class="grid no-gutters">
+    <div class="banner unit whole">
+		  <img src="/media/banner.jpg" alt="The Panda's Thumb" />
+    </div>
+    <nav class="main-nav unit whole align-center">
+      <ul>
+<li><a href="/" title="Main Page"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;Main</a></li>
+<li><a href="/archives/index.html" title="Archives"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Archives</a></li>
+<li><a href="#" title="Search is Unavailable"><i class="fa fa-search" aria-hidden="true"></i>&nbsp;Search</a></li>
+</ul>
+
+    </nav>
+  </div>
+</header>
+
+
+    <section class="blog">
+    <div class="grid">
+      <div class="unit whole">
+        <article class="blogpost">
+  <header>
+	  <h1><a href="/archives/2011/05/mapping-fitness-3.html">Mapping fitness: ribozymes, landscapes, and Seattle</a></h1>
+	  <div class="byline"><i class="fa fa-user-circle" aria-hidden="true"></i> By Steve Matheson</div>
+	  <div class="attrline"><i class="fa fa-clock-o" aria-hidden="true"></i>
+	  <span><time pubdate="pubdate" datetime="2011-05-30T01:15:28-07:00">May 30, 2011 01:15 MST</time></span>
+	  </div>
+   </header>
+  <p><a href="http://www.researchblogging.org/"><img src="http://www.researchblogging.org/public/citation_icons/rb2_large_gray.png" alt="ResearchBlogging.org" style="float:left;" /></a>A few months ago, we were looking at the concept of a fitness landscape and how new technologies are creating opportunities for biologists to look in detail at relationships between genetics and fitness. The <a href="http://pandasthumb.org/archives/2010/11/mapping-fitness.html">first post</a> discussed the concepts of a fitness landscapes and adaptive walks, with some focus on the <a href="http://www.pnas.org/content/107/suppl.1/1747.full">limitations of the metaphor</a>. The <a href="http://pandasthumb.org/archives/2010/11/mapping-fitness-1.html">second post</a> summarized some recent work on bacterial fitness and mutation rates, with the concept of a fitness landscape as a theme, and the <a href="http://pandasthumb.org/archives/2011/02/mapping-fitness-2.html">third post</a> reviewed another recent paper, one that described techniques for studying fitness landscapes in detail by linking protein function (which can be screened and/or selected) and genetic information. Here we’ll look at yet another approach to the problem, in which the subject of the analysis is not an organism (as in the first paper) or a protein (as in the second paper) but an RNA molecule.</p>
+
+<p><a href="http://pandasthumb.org/archives/2011/02/mapping-fitness-2.html">Recall</a> that Fowler et al. set out to design a system in which one can study a protein’s function (its “fitness”) as it varies in sequence. The idea is to look at all (or at least nearly all) of the variants of a particular protein to see how well each one works, and then to map this measure of fitness onto the sequence space of the protein. Such a map would be a form of fitness landscape. Fowler and colleagues (henceforth called the UW group) used a previously-known technique (protein display) to link each variant of the protein to its gene sequence, then used <a href="http://en.wikipedia.org/wiki/Next-generation_sequencing#High-throughput_sequencing">next-generation gene-sequencing technology</a> to rapidly determine the gene sequences of millions of variants.</p>
+
+<p>Last October, a group at the <a href="http://www.fhcrc.org/">Fred Hutchinson Cancer Research Center</a> in Seattle reported the results of a somewhat similar experimental effort. Jason Pitt and Adrian Ferré-D’Amaré co-authored the paper in <em>Science</em>, and their title identified their research objective: “<a href="http://dx.doi.org/10.1126/science.1192001">Rapid Construction of Empirical RNA Fitness Landscapes</a>.” The first couple of sentences of the abstract should sound familiar by now. (The genotype is the gene sequence. The phenotype is the function.)</p>
+
+<blockquote>
+  <p>Evolution is an adaptive walk through a hypothetical fitness landscape, which depicts the relationship between genotypes and the fitness of each corresponding phenotype. We constructed an empirical fitness landscape for a catalytic RNA by combining next-generation sequencing, computational analysis, and “serial depletion,” an in vitro selection protocol.</p>
+</blockquote>
+
+<p>And they identify two major challenges, both of which we have already discussed:</p>
+
+<blockquote>
+  <p>First, even for macromolecules of modest length, the sequence space is vast; a 20-mer RNA or protein has ~10<sup>12</sup> or ~10<sup>26</sup> possible sequences, respectively. Second, to characterize the landscape, the phenotypic fitness of each individual genotype needs to be measured, or an indirect measure of fitness needs to be validated.</p>
+</blockquote>
+
+<p>The authors tackled the challenges using a strategy very similar to that of the UW group: first they designed a functional screen, a way to subject an enormous population of variants to a gauntlet of selection, so that the population would be altered in structure after each round of selection. Think of it as evolution in a test tube. But the UW group had a problem that Pitt and Ferré-D’Amaré didn’t have to worry about: the linkage of protein function with the underlying gene sequence. Why the difference?  Pitt and Ferré-D’Amaré didn’t study protein. They studied RNA - specifically, they analyzed the function of a <a href="http://en.wikipedia.org/wiki/Ribozyme">ribozyme</a>, which is a molecule of RNA that is capable of altering chemical reactions the way protein enzymes do. This means that there was no translation problem for them, since the gene sequence (the base sequence of the RNA) also comprises the structure of the molecule that is being functionally assessed.<img src="http://pandasthumb.org/archives/2011/05/29/EmpiricalFitnessRNAFigure2B.jpg" alt="EmpiricalFitnessRNAFigure2B.jpg" width="300" height="454" style="float: right; margin: 0 0 20px 20px;" class="mt-image-right" /></p>
+
+<p>So, like the UW group, they took a known molecule and made zillions of variants, through the use of random mutation. Then they assessed the function of the variants by putting them into pools (huge groups) and forcing them to compete with each other. (The competition involved binding to a specific target; the UW group used a similar approach.) Each round of competition (selection) led to the pool being enriched for “functional” molecules. And, importantly, they demonstrated that the binding competition really does select for function; that is, the selection process is enriching for higher “fitness.” After selection, they saw the enrichment that they expected: random sequences (added as a control) were depleted, whereas sequences very similar to the known “normal” sequence were enriched. And, interestingly, lots of other sequences were intermediate between those. Now, how can we graphically depict this? Pitt and Ferré-D’Amaré decided to plot the rate of change in frequency over time for each genotype (i.e., for each variant as identified by sequencing) against a representation of genotype space. The challenge of representing genotype space, or sequence space, is daunting: it will hardly do to put every sequence onto the axis of a graph. So the authors devised a similarity score as an indicator of sequence space, with the known normal sequence as the standard for comparison. Their empirical fitness landscape, from Figure 2B, is on the right.</p>
+
+<p>Each dot is a single sequence. (Actually, each dot is a whole set of sequences that have the same similarity to the reference sequence. <a href="http://www.sciencemag.org/content/330/6002/376.figures-only">In Figures 1C and 1E</a> the authors introduce another dimension to show the spread that each dot represents.) The green dots show enrichment of sequences after 1 minute of competition; the reference sequence is on the far right, such that the steeply-sloping peak on the far right represents sequences that are similar to that reference sequence. As we might expect, the more similar a sequence is to the reference sequence, the more “fit” it is (in general). Fitness is indicated by extent of enrichment, which the authors term “fecundity.” The magenta dots represent not enrichment, but depletion; in a reciprocal experiment, the investigators removed the most fit molecules from the pool by subtracting the best-binding population from the pool. Notice that the depletion landscape is basically a mirror image of the enrichment landscape, as we would expect if the process is truly selecting based on binding activity.</p>
+
+<p>There’s a lot of data in that graph. Here’s how the authors describe the result:</p>
+
+<blockquote>
+  <p>…the fecundity of any individual sequence provides a metric of its fitness, and we can create an experimental fitness landscape composed of ~10<sup>7</sup> different RNA genotypes in a single experiment.</p>
+</blockquote>
+
+<p>And yet the picture is a vast oversimplification of that huge data set. For one thing, the graph provides no specific sequence information even though the sequence of every one of those 10 million variants is known.  Pitt and Ferré-D’Amaré write:</p>
+
+<blockquote>
+  <p>The empirical fitness landscape we generated is a high-dimensional object. We visualized it by computing the information content per residue of the master sequence, in essence projecting the landscape onto the ribozyme sequence.</p>
+</blockquote>
+
+<p><img src="http://pandasthumb.org/archives/2011/05/29/EmpiricalFitnessRNAFigure4A.jpg" alt="EmpiricalFitnessRNAFigure4A.jpg" width="300" height="229" style="float: right; margin: 0 0 20px 20px;" class="mt-image-none" />The resulting visualization (in Figure 4A) is a heat map of the actual structure of the catalytic RNA. It’s simpler than it seems: each base in the RNA is colored according to information content as indicated on the color scale. More information means more diversity at that position; low information content means that there is little diversity at that position, indicating strong conservation due to functional constraint. The graph seems utterly unlike the topographical landscape that <a href="http://pandasthumb.org/archives/2010/11/mapping-fitness.html">Sewall Wright sketched</a>, but it’s a fitness landscape nonetheless, made possible by the creativity of  Pitt and Ferré-D’Amaré and by the power of next-generation sequencing.</p>
+
+<p>So, we’ve looked at three significant articles in the last year or so on fitness landscapes, in which talented scientists explored the relationships between genotype and phenotype, on scales barely imaginable just a decade ago. All three studies were carried out in Seattle, Washington, within just a few miles of <a href="http://www.biologicinstitute.org/">Biologic Institute</a>, where the scientists of the intelligent design movement work on questions of the same ilk. If those scientists really want to be taken seriously, if they really seek to understand how structure and function and evolution are related, they’ll have to understand fitness landscapes and their experimental applications. Fortunately, they can find some of the world’s experts on that very subject right in their own backyard. Whether that amounts to tragic irony or a golden opportunity is a choice for the intelligent design apologists of the Seattle area. May they choose wisely.</p>
+
+<p>\[Cross-posted at [Quintessence of Dust](http://sfmatheson.blogspot.com/2011/05/mapping-fitness-ribozymes-landscapes.html).\]
+
+------
+</p>
+
+<p>Pitt, J., &amp; Ferre-D’Amare, A. (2010). Rapid Construction of Empirical RNA Fitness Landscapes. Science, 330 (6002), 376-379 DOI: <a href="http://dx.doi.org/10.1126/science.1192001">10.1126/science.1192001</a></p>
+
+</article>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <footer>
+<div class="grid">
+<table bgcolor="204517">
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
+  <div align="left">
+    <p>&nbsp;&nbsp;To see earlier posts, select the Archives at the top of this page</p>
+    <p></p>
+  </div>
+  <div id="RecentComments" class="dsq-widget">
+      <div align="center">
+       <h2>Recent Comments</h2>
+       <P>
+       To see the comment in context of the discussion click on the text that indicates how long ago the comment was posted, such as "2 hours ago".  Then wait for the post and then the comments to load.
+      <P>
+    </div>
+    <div>
+     <script type="text/javascript" src="https://the-pandas-thumb.disqus.com/recent_comments_widget.js?num_items=15&hide_mods=0&hide_avatars=0&avatar_size=32&excerpt_length=100"></script>
+    </div>
+  </div>
+</td></tr>
+  <tr><td></td><td><div class="unit whole">
+      <p>Copyright &copy; The Panda&#8217;s Thumb and original authors &mdash; Content provided under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons BY-NC-ND License 4.0</a>.</p>
+    <p></p>
+    </div>
+    </td></tr>
+  </table>
+  </div>
+  </footer>
+
+  
+
+</body>
+
+</html>
+
+

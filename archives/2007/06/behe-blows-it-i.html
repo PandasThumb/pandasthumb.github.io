@@ -1,0 +1,220 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Behe Blows It (in other news, dog bites man)</title>
+  
+  <meta property="og:site_name" content="The Panda's Thumb" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Behe Blows It (in other news, dog bites man)" />
+  <meta property="og:url" content="https://pandasthumb.org/archives/2007/06/behe-blows-it-i.html" />
+  <meta property="og:image" content="https://pandasthumb.org/media/roar.jpg" />
+  <meta property="article:author" content="Richard B. Hoppe" />
+  <meta property="article:published_time" content="2007-06-13T19:40:03-07:00" />
+
+
+  <link rel="stylesheet" type='text/css' href="/css/normalize.css" />
+  <link rel="stylesheet" type='text/css' href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic,700italic|Source+Code+Pro:400,700" />
+  <link rel="stylesheet" type='text/css' href="/css/gridism.css" />
+  <link rel="stylesheet" type='text/css' href="/css/style.css" />
+  <link rel="stylesheet" type='text/css' href="/css/github.css" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <script type="text/javascript" src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="https://use.fontawesome.com/e6a24c6dde.js"></script>
+  <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>  
+  <script src="/js/local.js"></script>
+
+</head>
+
+
+<body class="wrap">
+  <div class="grid page-fill"><div></div></div>
+<header class="topbar">
+  <div class="grid no-gutters">
+    <div class="banner unit whole">
+		  <img src="/media/banner.jpg" alt="The Panda's Thumb" />
+    </div>
+    <nav class="main-nav unit whole align-center">
+      <ul>
+<li><a href="/" title="Main Page"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;Main</a></li>
+<li><a href="/archives/index.html" title="Archives"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Archives</a></li>
+<li><a href="#" title="Search is Unavailable"><i class="fa fa-search" aria-hidden="true"></i>&nbsp;Search</a></li>
+</ul>
+
+    </nav>
+  </div>
+</header>
+
+
+    <section class="blog">
+    <div class="grid">
+      <div class="unit whole">
+        <article class="blogpost">
+  <header>
+	  <h1><a href="/archives/2007/06/behe-blows-it-i.html">Behe Blows It (in other news, dog bites man)</a></h1>
+	  <div class="byline"><i class="fa fa-user-circle" aria-hidden="true"></i> By Richard B. Hoppe</div>
+	  <div class="attrline"><i class="fa fa-clock-o" aria-hidden="true"></i>
+	  <span><time pubdate="pubdate" datetime="2007-06-13T19:40:03-07:00">June 13, 2007 19:40 MST</time></span>
+	  </div>
+   </header>
+  <p>The iconic image of the <em>Kitzmiller v. Dover</em> trial in Pennsylvania was Michael Behe sitting on the witness stand, a pile of papers and book chapters on the evolution of the vertebrate immune system on his lap, steadfastly denying the existence of research on the evolution of the vertebrate immune system.  In his new book, <em>The Edge of Evolution</em>, Behe continues his practiced denial, minimizing or ignoring a pile of research in order to maintain his claim that evolution can’t produce this or that biological structure because it is “irreducibly complex”.  While I didn’t get a review copy, I know a friendly bookstore owner who encourages customers to read in the store.</p>
+
+<p>I will leave it to others to evaluate Behe’s claims about the various specific biological systems (and many have: see <a href="http://www.sunclipse.org/?p=123#links">Science after Sunclipse</a> for a complete listing).  I will return to a piece of research that demonstrates that Behe’s conception of how evolutionary processes produce complicated structures is amazingly over-simplified and empirically false, and that his conception of what evolutionary processes are capable of is pure caricature.</p>
+
+<p>Mark Chu-Carroll <a href="http://scienceblogs.com/goodmath/2007/05/behes_dreadful_new_book_a_revi_1.php">has already dissected</a> Behe’s misuse of probability and his utter ignorance of the properties of high-dimensioned and plastic fitness landscapes and <a href="http://endogenousretrovirus.blogspot.com/2007/06/look-ma-no-math.html">ERV</a> nicely illustrates the point.  As Nick Matzke <a href="/archives/2007/05/behes-bad-math.html">has remarked</a>,</p>
+
+<blockquote>
+  <p>My first take is that The Edge of Evolution is basically an incompetent attempt to provide a biological foundation for the silly assumptions that were made in Behe and Snoke’s (2004) mathematical modeling paper in Protein Science.</p>
+</blockquote>
+
+<p>Mark analyzed Behe’s argument from teeny-weeny numbers, showing that it is based on fundamentally flawed assumptions about the topography of fitness landscapes and the supposed inability of evolving populations to escape from local maxima.  I’ll show that Mark’s analysis has empirical corroboration – Behe’s probability model generates wholly absurd results.  In addition, I’ll describe data, some of it from new analyses, that flatly contradict Behe’s claims about what evolutionary mechanisms allegedly cannot do.  To put it in the most direct terms possible, Behe is either ignorant or actively ignores evidence that contradicts his fundamental assumption about what evolutionary mechanisms can do.  I’ll show that in addition to producing entities that are irreducibly complex by Behe’s original <em>Darwin’s Black Box</em> definition, computer models of evolution also produce those entities via evolutionary pathways that are irreducibly complex by Behe’s second so-called “evolutionary” definition, pathways that contain multiple unselected mutational steps.  Neutrality lives!  Then I’ll make a few remarks on Behe’s probability calculations in the light of computer evolutionary simulation runs, and make a few remarks on Behe’s notion of fitness landscapes.</p>
+
+<p>More below the fold.</p>
+
+<p>The research to which I return is Lenski, <em>et al.</em>’s <a href="http://myxo.css.msu.edu/papers/nature2003/">The Evolutionary Origin of Complex Features</a>, the 2003 <em>Nature</em> paper that used Avida, an evolutionary simulator, to show the evolution of IC structures.  I have previously written on that research (see <a href="http://www.pandasthumb.org/archives/2004/03/evolving_complex_stuff_darwinian_evolution_and_irreducible_complexity.html">here</a> for one post).  In that previous post I described how the Avida research showed that structures that meet Behe’s first definition of “irreducible complexity” evolve by standard Darwinian mechanisms – random mutations and selection.  In the course of an interminable thread on <a href="http://www.iidb.org/vbb/showthread.php?t=197955">Internet Infidels</a> I did some additional analyses of the Lenski, <em>et al.</em>, data to show that evolution can produce structures via pathways that are IC by Behe’s second definition.</p>
+
+<p><strong>I.  Evolving irreducibly complex structures</strong></p>
+
+<p>Behe’s original definition of irreducible complexity in <em>Darwin’s Black Box</em> defined IC in terms of the structure of the object under analysis:</p>
+
+<blockquote>
+  <p>A single system composed of several well-matched, interacting parts that contribute to the basic function of the system, wherein the removal of any one of the parts causes the system to effectively cease functioning. (Darwin’s Black Box, 39)</p>
+</blockquote>
+
+<p>That implies a simple operational procedure to determine whether a structure is IC: Do knockout experiments.  Knock out components one by one and determine whether the structure retains its function.  By that operational criterion, the evolution of Avida critters capable of performing EQU produced IC structures.  See <a href="http://myxo.css.msu.edu/papers/nature2003/pivotal_arrays/index.html">here for the results</a> of Lenski, <em>et al.</em>’s knockout analysis.  Case closed on that version of IC.</p>
+
+<p><strong>II.  Evolving irreducibly complex structures via irreducibly complex pathways</strong></p>
+
+<p>Following <em>DBB</em>, Behe later offered a <a href="http://www.iscid.org/papers/Behe_ReplyToCritics_121201.pdf">second, “evolutionary” definition</a> of irreducible complexity:</p>
+
+<blockquote>
+  <p>An irreducibly complex evolutionary pathway is one that contains one or more unselected steps (that is, one or more necessary-but-unselected mutations). The degree of irreducible complexity is the number of unselected steps in the pathway. (p. 17)</p>
+</blockquote>
+
+<p>Behe &amp; Snoke’s <a href="http://www.proteinscience.org/cgi/content/abstract/ps.04802904v1">2004 Protein Science paper</a> was an attempt to show that the time and population sizes required to produce structures via irreducibly complex evolutionary pathways are prohibitively huge.  See <a href="/archives/2004/10/theory-is-as-th.html">here for a rebuttal</a>.</p>
+
+<p>The operational definition of an irreducibly complex evolutionary pathway is simple in principle: determine the “necessary-but-unselected” mutational steps in an evolutionary history and count them.  Unfortunately, in biological systems we typically don’t know the actual evolutionary history nor the nature of the selective environments through that history at the level of detail necessary to determine whether a given mutation was selectively neutral or deleterious <em>when it first occurred</em> and hence was unselected.  However, in the Avida evolutionary simulator it’s easy to do that: the selective environment is controlled by the experimenter and the complete evolutionary history of a lineage can be dumped to disk for analyses.  In fact, Lenski, <em>et al.</em> made available the evolutionary history of one of the lineages that evolved to perform EQU and that was IC by the first definition.  Since the knockout procedure tells us which instructions in the first EQU-performing critter were necessary, we can trace back every one of them through the evolutionary history to determine whether they were selected when they first occurred.  The <a href="http://myxo.css.msu.edu/papers/nature2003/case-study/lineage.html">saved evolutionary history</a> includes the fitness value of the critter associated with each mutational step.  Hence one can classify every instruction in the final IC structure according to whether on its first appearance it was beneficial, neutral, or deleterious.</p>
+
+<p>In the case study lineage there were 111 mutational steps leading to the first critter capable of performing EQU.  That critter had a genome of 60 instructions.  Of those 60 instructions, 28 were <a href="http://myxo.css.msu.edu/papers/nature2003/pivotal_arrays/phenotype_130.html">necessary to perform EQU</a>.  I traced back all of those 28 instructions in the <a href="http://myxo.css.msu.edu/papers/nature2003/case-study/lineage.html">evolutionary history of that critter</a>, determining for each mutation whether on its first appearance it was selectively beneficial, neutral, or deleterious.  Of the 28 essential instructions, 7 produced by insertion or substitution mutations were either neutral (6) or deleterious (1) on their first appearance.  (It’s also noteworthy that three other EQU IC instructions were part of the original Ancestor’s replication code that acquired an additional role in performing EQU.  Two simultaneously retained their original role in replication – knocking them out abolished both replication and EQU – but one was no longer used in replication but only in EQU, a nice example of change of function through evolution.  Behe, of course, studiously ignores changes of function.)</p>
+
+<p><strong>III.  How does Behe address Lenski, <em>et al.</em>?  He doesn’t.</strong></p>
+
+<p>And how does Behe’s book actually address the Lenski, <em>et al.</em>, paper?  Behe’s initial 2003 reaction to the paper, quoted in <a href="/archives/2004/10/theory-is-as-th.html">the PT critique of Behe &amp; Snoke</a>, was</p>
+
+<blockquote>
+  <p>“There’s precious little real biology in this project,” Mr. Behe said. For example, he said, the results might be more persuasive if the simulations had operated on genetic sequences rather than fictitious computer programs.</p>
+</blockquote>
+
+<p>This from a man whose iconic metaphor is a mousetrap, and who in Behe &amp; Snoke constructed a computer model that eliminated virtually all evolutionary mechanisms and then imagined that he was testing an evolutionary hypothesis!  In <em>The Edge of Evolution</em> Behe again declines to address the substance and specifics of the Lenski, <em>et al.</em> study, but instead focuses on an irrelevant side issue.  In Appendix D he refers to the Avida experiments without describing them.  Rather, he focuses on just one property of the simulation.  In the Lenski, <em>et al.</em>, study, genome length was rendered selectively neutral by apportioning computer cycles in proportion to length.  The effect of that is to make genome length invisible to selection.  Describing that, Behe wrote</p>
+
+<blockquote>
+  <p>Let’s look at just one example to illustrate the point. In Avida, acquiring new abilities is only one way for an organism to get computer food. Another way is by simply acquiring surplus instructions, <em>whether or not they do anything</em>. In fact, instructions that aren’t ever executed—making them utterly useless for performing tasks – are beneficial in Avida because they provide additional food without requiring any additional consumption. It’s survival of the fattest!  (p. 276; italics original)</p>
+</blockquote>
+
+<p>But it’s false that “instructions that aren’t ever executed … are <em>beneficial</em>”.  They’re selectively <em>neutral</em>.  Either Behe didn’t read the paper or he didn’t understand it or he consciously misrepresents it.  Adding instructions <em>does</em> increase “food” consumption – it requires cycles to reproduce the added instructions.  Hence, apportioning computer cycles in proportion to genome length <em>neutralizes</em> length.</p>
+
+<p>Now it’s still worth asking whether making genome length selectively neutral invalidates the simulation.  Several lines of research are relevant.  Genomes in biological critters vary enormously in length.  For example, in animals <a href="http://www.genomesize.com/statistics.php">the C-values</a> (on present data) vary by 5 orders of magnitude.  In Archea and Bacteria  the <a href="http://www.sciencemag.org/cgi/content/abstract/309/5738/1242">number of protein-coding genes</a> varies by at least an order of magnitude.  The major metabolic cost of DNA apparently lies in <a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=219383">its expression</a> – transcription and translation – and not in its reproduction during cell division.  Added DNA that is not expressed is apparently not strongly selected against; the metabolic cost of replicating DNA during cell division appears to be down in the noise in a cell’s energy budget.  Corroboration comes from the persistence of pseudogenes and other non-coding DNA in genomes.  Their ubiquity argues against strong selective pressures to slim down the genome.  Also note T. Ryan Gregory’s remark <a href="http://genomicron.blogspot.com/2007/06/junk-dna-gets-wired.html">here</a>:</p>
+
+<blockquote>
+  <p>I make this statement because there are several different sorts of DNA sequences in the genome whose presence can be explained even if they do not benefit (and indeed, even if they slightly harm) the organism carrying them. Pseudogenes, satellite DNA, transposable elements (45% of our genome), and other non-coding sequences may or may not be functional – that requires evidence – and some may exist as a result of accidental duplication or even due to selection at the level of the elements themselves (by “intragenomic selection”). The old assumption that all non-coding DNA must be beneficial to the organism or it would have been deleted by now ignores genome-specific processes by which non-coding DNA evolves.</p>
+</blockquote>
+
+<p>As a consequence, Behe’s claim that</p>
+
+<blockquote>
+  <p>It’s also very unrealistic. Biological organisms show the opposite behavior—genes that are useless in the real world are not rewarded; the genes are rapidly lost or degraded by mutation.</p>
+</blockquote>
+
+<p>is false.  Degraded, yes, but “rapidly lost” in the sense of disappearing altogether?  The data argue that’s not the case.  So rendering genome length selectively neutral is not a disabling flaw in the Avida work, and the results stand as refutations of Behe’s claims.</p>
+
+<p><strong>IV.  Calculating Behe’s probabilities for an Avida run</strong></p>
+
+<p>One can use Behe’s probability model in Chapter 3, “The Mathematical Limits of Darwinism” to analyze the Lenski, <em>et al.</em> data.  Behe treats the initial appearance of components of a structure as statistically independent and calculates the probability of occurrence of the necessary mutations as the product of the probabilities of occurrence of each mutation individually:</p>
+
+<blockquote>
+  <p>Recall that the odds against getting two <em>necessary, independent</em> mutations are the multiplied odds for getting each mutation individually.  What if a problem arose during the course of life on earth that required a cluster of mutations that was twice as complex as a CCC? (Let’s call it a double CCC.) For example, what if instead of the several amino acid changes needed for chloroquine resistance in malaria, twice that number were needed? In that case the odds would be that for a CCC times itself. Instead of 10<sup>20</sup> cells to solve the evolutionary problem, we would need 10<sup>40</sup> cells. (italics added; p. 62-63)</p>
+</blockquote>
+
+<p>So for Behe it’s simple: Multiple the probabilities of the (allegedly) independent events to get the probability of the joint event.  Let’s do that for the Avida case study lineage.  Again, seven of the mutations that produced components of the final irreducibly complex structure were unselected when they first appeared.</p>
+
+<p>There are 26 instructions in the Avida instruction set, so the probability of any given instruction occurring via a random insertion or substitution mutation is 1/25.  On average the genome of the lineage that produced the first critter to perform EQU had fewer than 60 instructions through the course of most of its history – it started at 50 instructions in the Ancestor, increased to 61 instructions by step 92, and then shrank back to 60 at step 111 when the EQU-performing critter appeared.  Call it an average of 55 instructions.  Since sequence is important in the Avida genome – it is after all an opcode program – the probability that a given mutation will appear via insertion or substitution in a given position is then about 1/55 * 1/25, or 0.000727.  On Behe’s assumptions (mainly independence), the probability that the seven specific unselected mutations would occur in the specific positions in which they did is 0.000727<sup>7</sup>, or 1.076x10<sup>-22</sup>.</p>
+
+<p>Now, 1.076x10<sup>-22</sup> is a pretty small probability, but it gets worse.  Critters capable of performing EQU evolved in 23 of the 50 runs in Lenski, <em>et al.</em>’s main experiment.  If the other 22 lineages were comparable to the case study run (and there’s no reason to suppose they weren’t), then the joint probability of all 23 runs evolving via pathways including seven unselected mutations is (1.076x10<sup>-22</sup>)<sup>23</sup>, or a number so small (on the order of 10<sup>-506</sup>) that Excel calls it zero.  Excel poops out at (1.076x10<sup>-22</sup>),<sup>14</sup>.  Clearly it couldn’t have happened.</p>
+
+<p>Of course, that’s a ridiculous set of numbers, since the probability calculations do not veridically map the phenomena.  Behe’s calculations are directly parallel to those of young-earth creationist Henry Morris in his 1974 <em>Scientific Creationism</em> and they are equally ludicrous.  Unfortunately for Behe, they are informative only about the ignorance of the person doing the calculating.  They ignore the role of neutral mutations in making multiple potential evolutionary pathways available and the probability amplification of cumulative selection – see <a href="http://richarddawkins.net/article,1271,The-Great-Mutator,Jerry-Coyne-The-New-Republic">Jerry Coyne’s review</a> and <a href="http://www.nature.com/nature/journal/v445/n7126/abs/nature05451.html">ths recent <em>Nature</em> brief review</a> of the reconstruction of selectable pathways in molecular evolution.  Of particular interest in the latter review is a description of one study in which 120 potential evolutionary pathways from a precursor to a ‘final’ structure were identified.  Of the 120 potential pathways, 18 were composed of selectable steps all the way.  Now, if one picked out one of the pathways with unselectable steps, one could marvel at how an intelligent designer was necessary to bridge the gaps.  On the other hand, if one knows there are pathways in which all steps are selectable, no designer is necessary.  Behe consistently picks out just one path and marvels at the gaps.</p>
+
+<p><strong>V.  The topography of fitness landscapes</strong></p>
+
+<p>As noted above, Mark Chu-Carroll analyzed Behe’s argument from teeny-weeny numbers, showing that it is based on fundamentally flawed assumptions about the topography of fitness landscapes and the notion that evolving populations cannot escape from local maxima.  <a href="http://scienceblogs.com/goodmath/2007/05/behes_dreadful_new_book_a_revi_1.php">Mark</a> and <a href="http://endogenousretrovirus.blogspot.com/2007/06/look-ma-no-math.html">ERV</a> have already done the heavy lifting on the fitness landscape issue.  My remarks corroborate theirs.</p>
+
+<p>That 25% of the mutational steps in the Lenski, <em>et al.</em> case study lineage were unselected when they occurred is consistent with the dispersal of populations along selectively nearly-equal ‘ridges’ in fitness space.  Those ridges enable subpopulations to escape apparent local maxima, especially in high-dimensioned genotype spaces where ‘local’ maxima are maxima only in a subset of the dimensions.  That’s an empirical demonstration of Gavrilets’ argument that the topography of fitness landscapes in high-dimensioned spaces is akin to a highly interconnected network with genotypes connected by traversable ‘ridges’ of nearly-equal fitness, rather than like a one- or two-dimension surface with inescapable local maxima as in Behe’s conception.  As <a href="http://evolvethought.blogspot.com/2005/11/gavrilets-continued.html">John Wilkins described it</a>,</p>
+
+<blockquote>
+  <p>Gavrilets uses a different metaphor, and I must point out that it is indeed a metaphor not a model, of a holey landscape, in which there is a high region of fitness in the landscape, interspersed with regions of low fitness (see figure). In the high fitness region, a random walk can take you all over the place. Of course, one thing Gavrilets insists upon is the high dimensionality of the space of fitness combinations - the 2-dimensional space here is a necessary limitation of paper.</p>
+</blockquote>
+
+<p>Put differently, high-dimensioned fitness spaces are like Swiss cheese, with the (relatively) high fitness cheese surrounding local low-fitness ‘holes’.  Behe actually used a figure from Gavrilets’ book, but as Mark Chu-Carroll pointed out, Behe confines his consideration to low-dimensioned spaces.  Even worse, Behe footnotes Gavrilets’ book in his discussion of rugged fitness landscapes, but completely ignores Gavrilets’ main argument!  Thus while Behe is demonstrably aware of Gavrilets’ work (after all, he uses Gavrilets’ figure), he ignores Gavrilets’ analysis.  Maybe he just looked at the pictures.</p>
+
+<p><strong>VI.  From dogs to cats?</strong></p>
+
+<p>Finally, I can’t resist quoting from a radio interview Behe recently gave plugging his book.  On <a href="http://michaelmedved.townhall.com/TalkRadio/Show.aspx?ContentGuid=d7cf6ff9-e895-4800-830a-4a20bf4cb55f&amp;RadioShowId=4">Michael Medved’s program</a> there was this interchange at about 23:30:</p>
+
+<blockquote>
+  <p>Medved:  “What you’re talking about really is the leaps, aren’t you.  I mean the kind of random mutations, or allegedly random mutations, who (sic) create a new species.”</p>
+
+  <p>Behe:  “Yeah, well I wouldn’t call it species.  I’d go a little higher, maybe genus or something in biology.  Biology has a number of levels and you might be able to get, say, from a wolf to a dog using random mutation and natural selection.  But I don’t think you can get from a dog to a cat or a precursor organism and get from a dog to a cat or certainly to an elephant.”</p>
+</blockquote>
+
+<p>That’s pure creationist drivel.  I half expected Behe to start telling us about how all those kinds fit on the ark.</p>
+
+<p><strong>VII.  Take-home summary</strong></p>
+
+<p>Behe studiously ignores contradictory data, is ignorant of relevant properties of fitness landscapes, misrepresents evolutionary processes and research, and misuses probabilities in exactly the fashion of young-earth creationists.  His book is an extended sham and will appeal only to a pre-committed and biologically ignorant audience.  It’s a damn shame that its appeal depends on such egregiously poor scholarship, flat ignorance, and apparently purposeful misrepresentations.</p>
+
+<p>RBH</p>
+
+</article>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <footer>
+<div class="grid">
+<table bgcolor="204517">
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
+  <div align="left">
+    <p>&nbsp;&nbsp;To see earlier posts, select the Archives at the top of this page</p>
+    <p></p>
+  </div>
+  <div id="RecentComments" class="dsq-widget">
+      <div align="center">
+       <h2>Recent Comments</h2>
+       <P>
+       To see the comment in context of the discussion click on the text that indicates how long ago the comment was posted, such as "2 hours ago".  Then wait for the post and then the comments to load.
+      <P>
+    </div>
+    <div>
+     <script type="text/javascript" src="https://the-pandas-thumb.disqus.com/recent_comments_widget.js?num_items=15&hide_mods=0&hide_avatars=0&avatar_size=32&excerpt_length=100"></script>
+    </div>
+  </div>
+</td></tr>
+  <tr><td></td><td><div class="unit whole">
+      <p>Copyright &copy; The Panda&#8217;s Thumb and original authors &mdash; Content provided under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons BY-NC-ND License 4.0</a>.</p>
+    <p></p>
+    </div>
+    </td></tr>
+  </table>
+  </div>
+  </footer>
+
+  
+
+</body>
+
+</html>
+
+

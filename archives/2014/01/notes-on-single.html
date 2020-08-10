@@ -1,0 +1,143 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Notes on: Single-cell RNA-Seq reveals dynamic, random monoallelic gene expression in mammalian cells</title>
+  
+  <meta property="og:site_name" content="The Panda's Thumb" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Notes on: Single-cell RNA-Seq reveals dynamic, random monoallelic gene expression in mammalian cells" />
+  <meta property="og:url" content="https://pandasthumb.org/archives/2014/01/notes-on-single.html" />
+  <meta property="og:image" content="https://pandasthumb.org/media/roar.jpg" />
+  <meta property="article:author" content="M. Wilson Sayres" />
+  <meta property="article:published_time" content="2014-01-26T21:36:50-07:00" />
+
+
+  <link rel="stylesheet" type='text/css' href="/css/normalize.css" />
+  <link rel="stylesheet" type='text/css' href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic,700italic|Source+Code+Pro:400,700" />
+  <link rel="stylesheet" type='text/css' href="/css/gridism.css" />
+  <link rel="stylesheet" type='text/css' href="/css/style.css" />
+  <link rel="stylesheet" type='text/css' href="/css/github.css" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <script type="text/javascript" src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="https://use.fontawesome.com/e6a24c6dde.js"></script>
+  <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>  
+  <script src="/js/local.js"></script>
+
+</head>
+
+
+<body class="wrap">
+  <div class="grid page-fill"><div></div></div>
+<header class="topbar">
+  <div class="grid no-gutters">
+    <div class="banner unit whole">
+		  <img src="/media/banner.jpg" alt="The Panda's Thumb" />
+    </div>
+    <nav class="main-nav unit whole align-center">
+      <ul>
+<li><a href="/" title="Main Page"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;Main</a></li>
+<li><a href="/archives/index.html" title="Archives"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Archives</a></li>
+<li><a href="#" title="Search is Unavailable"><i class="fa fa-search" aria-hidden="true"></i>&nbsp;Search</a></li>
+</ul>
+
+    </nav>
+  </div>
+</header>
+
+
+    <section class="blog">
+    <div class="grid">
+      <div class="unit whole">
+        <article class="blogpost">
+  <header>
+	  <h1><a href="/archives/2014/01/notes-on-single.html">Notes on: Single-cell RNA-Seq reveals dynamic, random monoallelic gene expression in mammalian cells</a></h1>
+	  <div class="byline"><i class="fa fa-user-circle" aria-hidden="true"></i> By M. Wilson Sayres</div>
+	  <div class="attrline"><i class="fa fa-clock-o" aria-hidden="true"></i>
+	  <span><time pubdate="pubdate" datetime="2014-01-26T21:36:50-07:00">January 26, 2014 21:36 MST</time></span>
+	  </div>
+   </header>
+  <p>Brief background:<br />
+<strong><br /></strong>
+We have two copies of each non-sex gene. Each version of the gene is called an allele: one inherited from your genetic mother, one from your genetic father. It is generally thought that each allele is expressed (turned out) at the same intensity. But, there are some examples where this isn’t true. The most notable occurs on the X chromosome. Females with two X chromosomes inherited one X chromosome from each parent, but one of these X chromosomes is almost completely inactivated. That means that instead of having biallelic expression (expression from both the maternal and paternal allele), most genes on the X chromosome exhibit monoallelic expression.<br />
+<br />
+In recent work, <a href="http://www.sciencemag.org/content/343/6167/193.long">Deng et al (2014)</a> isolated single cells from two different stains of mice, where they could detect maternal-alleles and paternal-alleles for over 82% of assayed genes (in the other genes, there were not unique variants that allowed deciphering between the two alleles). For each gene, the authors characterized whether they could detect expression from both the maternal and paternal alleles, or from only the maternal or paternal allele. Although the title says, “mammalian,” all of the experiments and analysis were conducted in mouse cells and tissues, so far as I can tell.<br />
+<br />
+My notes and thoughts on the paper:<br /></p>
+
+<ul>
+  <li>The authors state, “…<em><strong>different SNPs within the same gene gave coherent allelic calls</strong>(fig. S2).</em>” I am very interested to see what they did in cases where different SNPs did not give the same estimates of allele-specific expression.</li>
+  <li><strong>Mouse paternal X chromosome inactivation is complicated.</strong>In single cells, the paternal X chromosome is inactive initially, reactivated starting at the late 2-cell stage, active at the 4-cell stage, then inactivated starting at the 16-cell stage, and completely inactivated again by the early blastocyst stage. Xist appears to be off during early embryogensis, and is only expressed starting at the 16-cell stage - correlating with the re-silencing of the paternal X chromosome in the mouse.</li>
+  <li><strong>X-inactivation near and far from mouse XIC.</strong>The spread of X-inactivation is not directly correlated to the distance from the X-inactivation center (XIC).</li>
+  <li><strong>Technology biases estimates of allele-specific expression.</strong> Initial observations of allele-specific expression on the autosomes suggested over half of all genes exhibit mono-allelic expression, but as much as 66% of these are false positives due to the loss of RNA molecules with the available technology. After inferring the proportion of losses RNA molecules, the authors propose that 12-24% of genes exhibit monoallelic expression in single cells.</li>
+  <li><strong>Monoallelic expression evens out in tissues.</strong>The authors state, “<em>Pooling cells by embryo removed essentially all monoallelic expression, demonstrating a high degree of cell-specific randomness in monoallelic expression.</em>” To me this suggests that studies of single cell gene expression may not give the most accurate picture of gene expression within a tissue. </li>
+</ul>
+
+<div>
+  <p>Additional thoughts:</p>
+</div>
+
+<ul>
+  <li>I would very much like to know how estimates of allele-specific expression on the X chromosome varied between the single cell and multicelluar analyses. </li>
+  <li>The authors claim the patterns of monoallelic expression on the autosomes is likely due to independent allelic expression, but I would like to understand the mechanism more. Is this simply variance in polymerase activity? </li>
+  <li>If 12-24% of genes are expressed from only one allele, what can we learn from it? Is dosage of these genes less important? Is selection weaker on genes that are more likely to be mono-allelicly expressed? </li>
+</ul>
+
+<p><br /></p>
+
+<div style="background-color: white; font-family: arial, helvetica, clean, sans-serif; font-size: 0.8465em; line-height: 1.45em;" class="cit">
+  <p><a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Single-cell+RNA-Seq+reveals+dynamic%2C+random+monoallelic+gene+expression+in+mammalian+cells#">Science.</a> 2014 Jan 10;343(6167):193-6. doi: 10.1126/science.1245316.</p>
+</div>
+
+<p># 
+Single-cell RNA-seq reveals dynamic, random monoallelic gene expression in mammalian cells.</p>
+
+<div style="background-color: white; font-family: arial, helvetica, clean, sans-serif; font-size: 0.923em;" class="auths">
+  <p><a href="http://www.ncbi.nlm.nih.gov/pubmed?term=Deng%20Q%5BAuthor%5D&amp;amp;cauthor=true&amp;amp;cauthor_uid=24408435">Deng Q</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed?term=Ramsk%C3%B6ld%20D%5BAuthor%5D&amp;amp;cauthor=true&amp;amp;cauthor_uid=24408435">Ramsköld D</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed?term=Reinius%20B%5BAuthor%5D&amp;amp;cauthor=true&amp;amp;cauthor_uid=24408435">Reinius B</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed?term=Sandberg%20R%5BAuthor%5D&amp;amp;cauthor=true&amp;amp;cauthor_uid=24408435">Sandberg R</a>.</p>
+</div>
+
+</article>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <footer>
+<div class="grid">
+<table bgcolor="204517">
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
+  <div align="left">
+    <p>&nbsp;&nbsp;To see earlier posts, select the Archives at the top of this page</p>
+    <p></p>
+  </div>
+  <div id="RecentComments" class="dsq-widget">
+      <div align="center">
+       <h2>Recent Comments</h2>
+       <P>
+       To see the comment in context of the discussion click on the text that indicates how long ago the comment was posted, such as "2 hours ago".  Then wait for the post and then the comments to load.
+      <P>
+    </div>
+    <div>
+     <script type="text/javascript" src="https://the-pandas-thumb.disqus.com/recent_comments_widget.js?num_items=15&hide_mods=0&hide_avatars=0&avatar_size=32&excerpt_length=100"></script>
+    </div>
+  </div>
+</td></tr>
+  <tr><td></td><td><div class="unit whole">
+      <p>Copyright &copy; The Panda&#8217;s Thumb and original authors &mdash; Content provided under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons BY-NC-ND License 4.0</a>.</p>
+    <p></p>
+    </div>
+    </td></tr>
+  </table>
+  </div>
+  </footer>
+
+  
+
+</body>
+
+</html>
+
+

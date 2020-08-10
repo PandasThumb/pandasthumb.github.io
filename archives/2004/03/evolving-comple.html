@@ -1,0 +1,152 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Evolving Complex Stuff: "Darwinian" Evolution and Irreducible Complexity</title>
+  
+  <meta property="og:site_name" content="The Panda's Thumb" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Evolving Complex Stuff: "Darwinian" Evolution and Irreducible Complexity" />
+  <meta property="og:url" content="https://pandasthumb.org/archives/2004/03/evolving-comple.html" />
+  <meta property="og:image" content="https://pandasthumb.org/media/roar.jpg" />
+  <meta property="article:author" content="Richard B. Hoppe" />
+  <meta property="article:published_time" content="2004-03-28T15:09:20-07:00" />
+
+
+  <link rel="stylesheet" type='text/css' href="/css/normalize.css" />
+  <link rel="stylesheet" type='text/css' href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic,700italic|Source+Code+Pro:400,700" />
+  <link rel="stylesheet" type='text/css' href="/css/gridism.css" />
+  <link rel="stylesheet" type='text/css' href="/css/style.css" />
+  <link rel="stylesheet" type='text/css' href="/css/github.css" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <script type="text/javascript" src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="https://use.fontawesome.com/e6a24c6dde.js"></script>
+  <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>  
+  <script src="/js/local.js"></script>
+
+</head>
+
+
+<body class="wrap">
+  <div class="grid page-fill"><div></div></div>
+<header class="topbar">
+  <div class="grid no-gutters">
+    <div class="banner unit whole">
+		  <img src="/media/banner.jpg" alt="The Panda's Thumb" />
+    </div>
+    <nav class="main-nav unit whole align-center">
+      <ul>
+<li><a href="/" title="Main Page"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;Main</a></li>
+<li><a href="/archives/index.html" title="Archives"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Archives</a></li>
+<li><a href="#" title="Search is Unavailable"><i class="fa fa-search" aria-hidden="true"></i>&nbsp;Search</a></li>
+</ul>
+
+    </nav>
+  </div>
+</header>
+
+
+    <section class="blog">
+    <div class="grid">
+      <div class="unit whole">
+        <article class="blogpost">
+  <header>
+	  <h1><a href="/archives/2004/03/evolving-comple.html">Evolving Complex Stuff: "Darwinian" Evolution and Irreducible Complexity</a></h1>
+	  <div class="byline"><i class="fa fa-user-circle" aria-hidden="true"></i> By Richard B. Hoppe</div>
+	  <div class="attrline"><i class="fa fa-clock-o" aria-hidden="true"></i>
+	  <span><time pubdate="pubdate" datetime="2004-03-28T15:09:20-07:00">March 28, 2004 15:09 MST</time></span>
+	  </div>
+   </header>
+  As I noted in an <a href="http://www.pandasthumb.org/pt-archives/000043.html">earlier posting</a>, research using computational models of evolution are a thorn in the side of Intelligent Design proponents.  That thorn is becoming sharper and more penetrating as computer models of evolution become powerful and versatile enough to begin addressing biologically interesting questions.  An example from last year is Lenski, et al.'s <a href="http://myxo.css.msu.edu/papers/nature2003/"><i>The evolutionary origin of complex features</i></a>, published in <i>Nature</i>.
+
+<b>Brief (!) Intro to the AVIDA artificial life platform</b>
+
+<a class="anchor" id="more"></a>
+
+Lenski, <i>et al.</i>, used <b>avida</b> to study "the evolution of complex organismal features."  <b>Avida</b> is an artificial life platform in which digital organisms reproduce, mutate and diversify, and compete on reproductive success in a space-limited context, and therefore evolve in a virtual world.  The genomes of the digital critters are assembly language programs that can (if the necessary instruction sequences evolve) perform logic functions, mapping inputs to outputs in a manner corresponding to the performance of logic functions like AND, OR, XOR, and so on.  (<b>Avida</b> is <a href="http://dllab.caltech.edu/avida/">available</a> free on the Web for Linux, Windows, and Mac platforms.)
+
+An <b>avida</b> evolutionary run starts with a single Ancestral digital critter that can do nothing but replicate itself.  The Ancestor may or may not have some "junk" instructions appended to its (human-written) replication code.  As the run proceeds, that Ancestor begins to reproduce, with an occasional mutation occurring during the process.  Various kinds of mutations are possible - point mutations (alterations of a single instruction), insertions, and deletions.  Replication errors induced by one or another of those kinds of mutations can produce what roughly corresponds to gene duplication.  It is also possible to enable a process that resembles horizontal gene transfer.
+
+The digital critters compete on reproductive fitness: better replicators have a relative advantage in the (fixed size) population.  If the experimenter has not chosen to provide an extrinsic fitness function, the critters compete solely on reproductive efficiency, and one can watch lineages within the population getting better and better at reproducing, often evolving replication code that is tighter and more efficient than even the best human-written code.  A more complete introduction to <b>avida</b> is <a href="http://www.krl.caltech.edu/~adami/TREE2002.pdf">Biology of Digital Organisms</a> and the technical manual (for version 1.0) is also  <a href="http://dllab.caltech.edu/avida/">available</a>.  The former has several examples of the use of <b>avida</b> to address interesting questions in evolutionary biology.
+
+More interesting is the situation where an extrinsic fitness function is imposed on the <b>avida</b> world so the <b>avida</b> environment is selectively non-neutral. With an extrinsic fitness function, digital organisms can acquire reproductive resources - computer cycles - by performing various logic functions on 32-bit binary strings.  The more (different) logic functions a critter performs, and the more complicated the functions, the more reproductive resources it acquires.
+
+Under circumstances where digital organisms can acquire reproductive resources by performing logic operations on inputs, mapping them to appropriate outputs, one sees lineages evolving that perform first one, then two, then a number of different logic functions.  After some hundreds of generations (tens of thousands of updates), some lineages of digital organisms may be performing half a dozen or more logic functions, ranging from very simple (AND) to quite complicated (XOR, EQU).
+
+Lenski, <i>et al.</i>, studied the evolution of lineages of digital critters in a selective environment that differentially rewarded performance of logic functions, with more complicated logic functions garnering more reproductive resources.  Under those circumstances, many lineages evolved to first perform simple logic operations, then the most complicated logic functions in the <b>avida</b> environment, XOR and EQU.  The results of analyses of the evolutionary histories of individual lineages demonstrated (given their control conditions) that plain old evolutionary processes can build complex structures on the basis of prior evolution of simpler structures, where any <i>particular</i> simpler structures are not required.  One advantage of the <b>avida</b> platform is that one can dump the full evolutionary history of lineages to disk for later analysis.
+
+<b>Why Intelligent Design Creationists don't like it</b>
+
+What gets IDCs edgy about the Lenski, <i>et al.</i>, paper is that the assembly language programs - the genomes of the digital critters - that evolved to perform those complicated logic functions are "irreducibly complex" in exactly the definition of Michael Behe.  In <i>Darwin's Black Box</i> Behe defined an irreducibly complex structure or process as <quote> A single system composed of several well-matched, interacting parts that contribute to the basic function of the system, wherein the removal of any one of the parts causes the system to effectively cease functioning.</quote>Behe (and Dembski, following him) contends that "irreducibly complex" structures and processes are not accessible to evolutionary processes: they cannot have evolved by "Darwinian" mechanisms.  (Later, both Behe and Dembski engaged in some tap-dancing about "direct" Darwinian pathways, and argued that things like cooption are too rare.)  But Lenski, <i>et al.</i>, showed that the assembly language programs evolved in <b>avida</b> satisfy Behe's operational (knockout) definition.  If replacing an instruction with a null instruction (a knockout procedure) in a digital critter's program results in the loss of a logic function, the program is "irreducibly complex" by Behe's definition (or is part of the "irreducible core" of the critter's program, to use Dembski's term).  So the Lenski, <i>et al.</i>, analysis shows that "irreducibly complex" structures <i>can</i> evolve by plain old "Darwinian" mechanisms.
+
+What was Behe's response to the Lenski, <i>et al.</i> paper?  He was quoted in the <a href="http://alpha.lasalle.edu/~didio/hon462/hon462_assets/evolution_assets/digital_organisms_no_intelligent_design.htm">Chronicle of Higher Education</a> as scoffing at it.<quote>But Michael J. Behe, a professor of biological sciences at Lehigh University who is one of the most vocal proponents of intelligent design, says that the simulation proves nothing. "If I were a Darwinist, I would be embarrassed for this paper to be published in Nature," he said.
+
+"There's precious little real biology in this project," Mr. Behe said. For example, he said, the results might be more persuasive if the simulations had operated on genetic sequences rather than fictitious computer programs.</quote>This from a man whose iconic example of "irreducible complexity" is a <b>mousetrap</b>!  (Elsewhere I wondered whether Behe was fondling his mousetrap as he made that comment.)
+
+William Dembski must tenaciously defend irreducible complexity against work like that of Lenski, <i>et al.</i>, because his notion of "specified complexity," the core of his 'design detection methodology,' depends upon irreducible complexity.  (See <a href=" http://www.designinference.com/documents/2004.01.Irred_Compl_Revisited.pdf">here</a> for Dembski's discussion of the connection.)  Dembski addressed the Lenski, <i>et al.</i> paper in a manner similar to Behe in the introduction to <a href="http://www.designinference.com/ documents/2003.09.UncDiss_Intro_Contribs.pdf "><i>Uncommon Dissent: Intellectuals Who Find Darwinism Unconvincing</i></a>:<quote>This paper describes a computer simulation and thus contains no actual biology.</quote>As I said in my earlier posting, physicists (and anyone else who uses computer modeling, for that matter) in the crowd had better watch out.  All that fooling around with computer models is going to lead you astray.
+
+Dembski goes on to complain that the Lenski, <i>et al.</i> simulation builds the results into the initial conditions:<quote>Go to the discussion section, and you'll read: "Some readers might suggest that we 'stacked the deck' by studying the evolution of a complex feature that could be built on simpler functions that were also useful. However, that is precisely what evolutionary theory requires...." In other words, the computer programmers built into the simulation what they thought evolution needed to make it work. The validity of this study therefore depends on whether the simulation faithfully models biological reality.</quote>Um.  That's what one <b>does</b> when one performs an experiment to test a hypothesis.  One sets up the conditions that the hypothesis requires and then looks to see if the observations predicted by the hypothesis are actually observed, as compared with appropriate control conditions (which Lenski, <i>et al.</i> ran).
+
+But for Dembski (who, let us recall, is a mathematician, theologian, and philosopher, not a scientist) this is a fault:<quote>Unfortunately, the simulation presupposes the very point at  issue. It therefore begs the question and doesn't prove a thing about real-life biological evolution. The Lenski simulation requires that complex systems exhibiting complex functions can always be built up from (or decomposed into) simpler systems exhibiting simpler functions. This is a much stronger assumption than merely allowing that complex systems may include functioning subsystems. Just because a complex system can include functioning subsystems doesn't mean that it decomposes into a collection of subsystems each of which is presently functional or vestigial of past function and thus amenable to shaping by natural selection.</quote>Contrary to Dembski's claim, the Lenski, <i>et al.</i> simulation did not "... <i>require</i> that complex systems ... can always be built up from (or decomposed into) simpler systems ...".  It <i>asked</i> whether complex systems <i>can</i> be built up out of simpler systems using only evolutionary mechanisms.  Dembski cannot accept the fact that the answer is "Yes."  Intelligent Design Creationists are big on the "limitations" of evolution.  The Lenski, <i>et al.</i>, study was aimed specifically at testing whether a particular limitation claimed by the IDCs is in fact a limit.  It isn't, and Dembski clearly doesn't like learning that.
+
+Finally, Dembski says<quote>The simulation by Lenski et al. assumes that all functioning biological systems are evolutionary kludges of subsystems that presently have function or previously had function. But there's no evidence that real-life irreducibly complex biochemical machines, for instance, can be decomposed in this way. If there were, the Lenski et al. computer simulation would be unnecessary. And without it, their demonstration is an exercise in irrelevance.</quote>Yes, evolutionary biology does indeed suggest that complex biological systems are "evolutionary kludges" built from other, often simpler, components, and Lenski, <i>et al.</i>, clearly showed that evolutionary processes are sufficient for that to occur.  But in his "there's no evidence" remark, Dembski displays once again (see my previous posting referenced above) pervasive ignorance of the biological and biochemical literature.  See critiques of Behe's claims of irreducible complexity for various biological systems, including the <a href="http://www.talkorigins.org/origins/postmonth/feb97.html">blood clotting cascade</a> (and <a href="http://biocrs.biomed.brown.edu/Darwin/DI/Clotting.html">here</a>), <a href="http://www.talkdesign.org/faqs/Evolving_Immunity.html">immune system</a>, and <a href="http://www.talkdesign.org/faqs/flagellum.html">the bacterial flagellum</a>.
+
+Further, in that paragraph Dembski made an interesting equation.  He equated the <i>evolution</i> of complex systems with their <i>decomposition</i>.  He appears to believe that one must be able to recover an evolutionary history (or in the case of so-called irreducibly complex systems, infer the lack thereof) by decomposing the system <i>as it presently exists</i> into all the subsystems that participated in its evolutionary history.  It's entirely true that evolutionary theory holds that complex systems are built from simpler systems (though not necessarily from only the most primitive parts - cooption of existing parts and divergent evolution of gene-duplicated subsystems are common), but that's not the only source of the code, genetic or digital, that is aggregated by evolution to perform complex functions.  For example, there are indications from both biological and digital evolution that so-called "junk" DNA/instructions can occasionally be pressed into service.  Exclusive reliance on decomposition is also vitiated by evolutionary histories that include scaffolding.  Finally, subsystems that were recognizable in an evolutionarily early form may be lost as the system evolves new ways of performing those subsystems' functions, and thus that part of the evolutionary history can't be recovered by decomposition of the current structure.  So decomposition of a system as it exists now is not the sole means of inferring evolutionary histories, though it can be a valuable source of hypotheses.
+
+Finally, Dembski's remarks about decomposition are a <i>non sequitur</i>, a diversion.  While looking for simpler homologs of the subsystems of a 'decomposed' complex system is helpful in analyzing the potential evolutionary history of a particular structure (see, for example, <a href="http://www.talkdesign.org/faqs/flagellum.html">Nick Matzke's</a> recent analysis of the bacterial flagellum), that was simply not the question at issue in the Lenski, <i>et al.</i> paper.  What they showed was that mechanical evolutionary processes operating on strings of primitive assembly language instructions in an appropriate selective environment <b>can</b> generate complex systems that meet both Behe's definition of "irreducible complexity" and Dembski's modification of Behe's definition.  None of Dembski's complaints touch that conclusion.
+
+Because the complete evolutionary histories of all the lineages that evolve in <b>avida</b> are available for analyses, the processes inferred from comparative biology and biochemistry to account for the evolution of complex structures can be studied in detail now.  So far the analyses strengthen those inferences.
+
+<b>Additional reading</b>
+
+Andrea Bottaro has some remarks on Dembski's critique of the Lenski, <i>et al.</i> paper in <a href="http://www.talkdesign.org/faqs/demskiscompass.html">DR. DEMBSKI'S COMPASS or, How to lose one's way while looking for misdirection</a>.
+
+There are also two threads on ISCID, one <a href="http://www.iscid.org/ubb/ultimatebb.php?ubb=get_topic;f=18;t=000001;p=1">very long one</a> originating shortly after the Lenski, <i>et al.</i>, paper came out, and one more recent when Royal Truman posted a <a href="http://www.iscid.org/boards/ubb-get_topic-f-6-t-000465.html">critique</a> of it on ISCID.  My remarks in the latter cover Truman's error-ridden critique; those who wish to wade through the 19 or so pages of the former thread will find some strange critiques of the Lenski, <i>et al.</i>, paper that don't bear mentioning.
+
+Richard B. Hoppe
+
+</article>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <footer>
+<div class="grid">
+<table bgcolor="204517">
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
+  <div align="left">
+    <p>&nbsp;&nbsp;To see earlier posts, select the Archives at the top of this page</p>
+    <p></p>
+  </div>
+  <div id="RecentComments" class="dsq-widget">
+      <div align="center">
+       <h2>Recent Comments</h2>
+       <P>
+       To see the comment in context of the discussion click on the text that indicates how long ago the comment was posted, such as "2 hours ago".  Then wait for the post and then the comments to load.
+      <P>
+    </div>
+    <div>
+     <script type="text/javascript" src="https://the-pandas-thumb.disqus.com/recent_comments_widget.js?num_items=15&hide_mods=0&hide_avatars=0&avatar_size=32&excerpt_length=100"></script>
+    </div>
+  </div>
+</td></tr>
+  <tr><td></td><td><div class="unit whole">
+      <p>Copyright &copy; The Panda&#8217;s Thumb and original authors &mdash; Content provided under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons BY-NC-ND License 4.0</a>.</p>
+    <p></p>
+    </div>
+    </td></tr>
+  </table>
+  </div>
+  </footer>
+
+  
+
+</body>
+
+</html>
+
+

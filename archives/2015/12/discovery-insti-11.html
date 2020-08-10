@@ -1,0 +1,129 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Discovery Institute: So much for Academic Freedom!</title>
+  
+  <meta property="og:site_name" content="The Panda's Thumb" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Discovery Institute: So much for Academic Freedom!" />
+  <meta property="og:url" content="https://pandasthumb.org/archives/2015/12/discovery-insti-11.html" />
+  <meta property="og:image" content="https://pandasthumb.org/media/roar.jpg" />
+  <meta property="article:author" content="Nick Matzke" />
+  <meta property="article:published_time" content="2015-12-18T09:07:08-07:00" />
+
+
+  <link rel="stylesheet" type='text/css' href="/css/normalize.css" />
+  <link rel="stylesheet" type='text/css' href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic,700italic|Source+Code+Pro:400,700" />
+  <link rel="stylesheet" type='text/css' href="/css/gridism.css" />
+  <link rel="stylesheet" type='text/css' href="/css/style.css" />
+  <link rel="stylesheet" type='text/css' href="/css/github.css" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <script type="text/javascript" src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="https://use.fontawesome.com/e6a24c6dde.js"></script>
+  <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>  
+  <script src="/js/local.js"></script>
+
+</head>
+
+
+<body class="wrap">
+  <div class="grid page-fill"><div></div></div>
+<header class="topbar">
+  <div class="grid no-gutters">
+    <div class="banner unit whole">
+		  <img src="/media/banner.jpg" alt="The Panda's Thumb" />
+    </div>
+    <nav class="main-nav unit whole align-center">
+      <ul>
+<li><a href="/" title="Main Page"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;Main</a></li>
+<li><a href="/archives/index.html" title="Archives"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Archives</a></li>
+<li><a href="#" title="Search is Unavailable"><i class="fa fa-search" aria-hidden="true"></i>&nbsp;Search</a></li>
+</ul>
+
+    </nav>
+  </div>
+</header>
+
+
+    <section class="blog">
+    <div class="grid">
+      <div class="unit whole">
+        <article class="blogpost">
+  <header>
+	  <h1><a href="/archives/2015/12/discovery-insti-11.html">Discovery Institute: So much for Academic Freedom!</a></h1>
+	  <div class="byline"><i class="fa fa-user-circle" aria-hidden="true"></i> By Nick Matzke</div>
+	  <div class="attrline"><i class="fa fa-clock-o" aria-hidden="true"></i>
+	  <span><time pubdate="pubdate" datetime="2015-12-18T09:07:08-07:00">December 18, 2015 09:07 MST</time></span>
+	  </div>
+   </header>
+  <p>(<strong>Update:</strong> <a href="http://phylo.wikidot.com/matzke-2015-science-paper-on-the-evolution-of-antievolution">paper preprint and bonus material available free here</a>)</p>
+
+<p><a href="http://www.evolutionnews.org/2015/12/did_nick_matzke101761.html">It appears that John West and the Discovery Institute</a> skipped past reading <a href="http://pandasthumb.org/archives/2015/12/the-evolution-o-9.html">the <em>Science</em> paper</a> and went straight to accusing the author of misconduct. So much for “Academic Freedom”!  I don’t even think they read the Supplemental Material, and I’m pretty sure they wouldn’t understand if if they did.  It’s conceivable they aren’t up on the latest in phylogenetic methods and their applications.</p>
+
+<p>In any event, though, I welcome any opportunity to explain why my research is in the public interest and how this work connects to my other work scientifically. It’s very late here in Australia, so I will give the short version.</p>
+
+<p><strong>Short version</strong></p>
+
+<p>Evolutionary biologists do research not just on evolutionary questions, but also research to develop and test the methods and computational tools that are used to answer evolutionary methods. One huge category of such methods is phylogenetics (something like 1% of all published research in all fields involves phylogenetics, according to David Hillis), within that there is Bayesian phylogenetics, within that there is dated Bayesian phylogenetics (where dates are estimated along with the phylogeny), and within that there is “tip-dated” Bayesian phylogenetics, where fossils from different time points are included directly in the analysis.  And, within <em>that</em> there is tip-dated Bayesian phylogenetics with the possibility of sampling direct ancestors, a technique which has only become available in the last year or so.</p>
+
+<p>Well, the <em>Science</em> paper did a Bayesian tip-dating sampled-ancestors analysis in the phylogenetics program <a href="http://beast2.org/">Beast2</a>, with the Beast2 analysis (which is quite complex to get right) set up using R code that I wrote and called “BEASTmasteR” (<a href="http://phylo.wikidot.com/beastmaster">http://phylo.wikidot.com/beastmaster</a>). (Yes, ha, BEASTmasteR - but it’s late.) BEASTmasteR is being used for various analyses at the moment – dinosaurs, fossil dogs, etc. I developed BEASTmasteR for Beast2 at NIMBioS, and it was built on R code I wrote for Beast1 while in grad school on a previous grant when tip-dating was in its earliest days (tip-dating is how you put fossils in a dated Bayesian phylogeny, one of the goals of the bivalves project). It is customary to gratefully cite grants that supported your work, including software (and this is the first publication I’ve gotten out using BEASTmasteR - although I believe papers have already been published by others using it!).</p>
+
+<p>What good is tip-dating? What good are sampled ancestors analyses?  The short answer is that they allow us to include more information in phylogenetic analyses than we could before, and to estimate things that we couldn’t estimate before (like probability of direct ancestry – this is something that *should* be of great interest to the creationists at the Discovery Institute, except that they never learned enough about phylogenetics to understand why this is new.) I am convinced this is “the way of the future” for phylogenetics involving fossils, but a great deal of the methods’ effectiveness depends on the details of the datasets (the short version is: fossil dogs=lots of characters=easy case; fossil clams=few characters=hard case. And, it turns out, antievolution bills=lots of characters=pretty easy case.)</p>
+
+<p>At the very least, paleontologists and evolutionary biologists are interested in trying out the new methods and seeing what they can do, if the interest in talks and symposia on the topic is any guide (I have participated in such at the Society for Vertebrate Paleontology Annual Meetings in 2014 and 2015).</p>
+
+<p>What’s the broader societal relevance?  I happen to think that better understanding the history of life is in the public interest, as is tracking antievolution legislation.  But even if you don’t buy that, consider this:  phylogenetic methods for sampling lineages serially through time are also used for disease phylogenies – tracking the evolution and spread of things like HIV and Ebola year-by-year, and even month-by-month.</p>
+
+<p>What software is used in these analyses?  Why, Beast1 and Beast2! One particularly prominent example was <a href="http://www.sciencemag.org/content/345/6200/989">this paper tracking the timing and geographic origins of the 2014 Ebola outbreak</a>. <a href="http://www.sciencemag.org/content/345/6200/989">This was published in <em>Science</em></a> even while the outbreak was still going on. This is deadly serious stuff, quite literally: 
+note that <a href="http://news.sciencemag.org/health/2014/08/ebolas-heavy-toll-study-authors">five of the coauthors of this Beast dating study died</a> after contracting Ebola in the field in West Africa.</p>
+
+<p><strong>Short-short version</strong></p>
+
+<p>So, here’s the short-short version: Bayesian phylogenetic dating methods are important for studying the history of life, from fossils to ongoing disease outbreaks. By pushing the methods with novel datasets and applications, we learn more about the capabilities of the methods. This was part of the point of my phylogenetic study of antievolution bills. Another point: antievolution bills seem to evolve rather like pathogens - when one strategy is shut down, more stealthy strategies begin to propagate.  It’s a shame that, in a world where phylogenetic methods have life-and-death relevance, the Discovery Institute continues to promote legislation with the purpose of convincing students that all this evolution stuff is just made up.</p>
+
+</article>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <footer>
+<div class="grid">
+<table bgcolor="204517">
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
+  <div align="left">
+    <p>&nbsp;&nbsp;To see earlier posts, select the Archives at the top of this page</p>
+    <p></p>
+  </div>
+  <div id="RecentComments" class="dsq-widget">
+      <div align="center">
+       <h2>Recent Comments</h2>
+       <P>
+       To see the comment in context of the discussion click on the text that indicates how long ago the comment was posted, such as "2 hours ago".  Then wait for the post and then the comments to load.
+      <P>
+    </div>
+    <div>
+     <script type="text/javascript" src="https://the-pandas-thumb.disqus.com/recent_comments_widget.js?num_items=15&hide_mods=0&hide_avatars=0&avatar_size=32&excerpt_length=100"></script>
+    </div>
+  </div>
+</td></tr>
+  <tr><td></td><td><div class="unit whole">
+      <p>Copyright &copy; The Panda&#8217;s Thumb and original authors &mdash; Content provided under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons BY-NC-ND License 4.0</a>.</p>
+    <p></p>
+    </div>
+    </td></tr>
+  </table>
+  </div>
+  </footer>
+
+  
+
+</body>
+
+</html>
+
+

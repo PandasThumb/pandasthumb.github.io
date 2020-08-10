@@ -1,0 +1,216 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Lab Notes: The Alias Method for Sampling from Discrete Distributions</title>
+  
+  <meta property="og:site_name" content="The Panda's Thumb" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Lab Notes: The Alias Method for Sampling from Discrete Distributions" />
+  <meta property="og:url" content="https://pandasthumb.org/archives/2012/08/lab-notes-the-a.html" />
+  <meta property="og:image" content="https://pandasthumb.org/media/roar.jpg" />
+  <meta property="article:author" content="Reed A. Cartwright" />
+  <meta property="article:published_time" content="2012-08-03T01:45:02-07:00" />
+
+
+  <link rel="stylesheet" type='text/css' href="/css/normalize.css" />
+  <link rel="stylesheet" type='text/css' href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic,700italic|Source+Code+Pro:400,700" />
+  <link rel="stylesheet" type='text/css' href="/css/gridism.css" />
+  <link rel="stylesheet" type='text/css' href="/css/style.css" />
+  <link rel="stylesheet" type='text/css' href="/css/github.css" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <script type="text/javascript" src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="https://use.fontawesome.com/e6a24c6dde.js"></script>
+  <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>  
+  <script src="/js/local.js"></script>
+
+</head>
+
+
+<body class="wrap">
+  <div class="grid page-fill"><div></div></div>
+<header class="topbar">
+  <div class="grid no-gutters">
+    <div class="banner unit whole">
+		  <img src="/media/banner.jpg" alt="The Panda's Thumb" />
+    </div>
+    <nav class="main-nav unit whole align-center">
+      <ul>
+<li><a href="/" title="Main Page"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;Main</a></li>
+<li><a href="/archives/index.html" title="Archives"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Archives</a></li>
+<li><a href="#" title="Search is Unavailable"><i class="fa fa-search" aria-hidden="true"></i>&nbsp;Search</a></li>
+</ul>
+
+    </nav>
+  </div>
+</header>
+
+
+    <section class="blog">
+    <div class="grid">
+      <div class="unit whole">
+        <article class="blogpost">
+  <header>
+	  <h1><a href="/archives/2012/08/lab-notes-the-a.html">Lab Notes: The Alias Method for Sampling from Discrete Distributions</a></h1>
+	  <div class="byline"><i class="fa fa-user-circle" aria-hidden="true"></i> By Reed A. Cartwright</div>
+	  <div class="attrline"><i class="fa fa-clock-o" aria-hidden="true"></i>
+	  <span><time pubdate="pubdate" datetime="2012-08-03T01:45:02-07:00">August 3, 2012 01:45 MST</time></span>
+	  </div>
+   </header>
+  <p>I am a computational evolutionary geneticist, and in my research I develop software to analyze genetic data and study evolutionary questions.  As part of my research, I work with a lot of simulation programs to generate evolutionary datasets.  My most widely used program is <a href="http://scit.us/projects/dawg/">Dawg</a>, and I am currently putting the finishing touches on a new version.</p>
+
+<p>In simulating molecular sequences, you start by simulating the ancestral sequence at the root of a phylogenetic tree and then evolve that sequence upwards, making point mutations and indels as you go.  Depending on type of sequences being generated, the root would be a string of nucleotides, amino acids, or codons.  To simulate the root sequence, we draw its characters from a discrete, stochastic distribution.  For example, lets say that in your system the frequencies of A, C, G, and T are 26%, 23%, 24%, and 27%.  In order to create a root sequences of length <em>k</em>, you simply sample <em>k</em> nucleotides from this distribution, e.g. AAGTGCA or GATTACA.</p>
+
+<p>Therefore, the key step in the simulation of the root sequence is sampling repeatedly from an arbitrary discrete distribution.  While I have been doing this for years, I recently went searching for doing it better and came across the following excellent article: <a href="http://www.keithschwarz.com/darts-dice-coins/">Darts, Dice, and Coins</a>, written by Keith Schwarz, a lecturer at Stanford.  In this article, he describes many different methods for sampling from a discrete distribution and analyzes their performance.  It turns out the best method is the Alias Method, first described in the 1970s and improved by <a href="http://web.eecs.utk.edu/~vose/Publications/random.pdf">M. Vose in 1991</a>.  I will describe it below, but before we get there, here are some alternatives.</p>
+
+<p>Imagine that you want to sample from the following discrete distribution of nucleotides:</p>
+
+<p><img src="/uploads/2012/vose-0.png" alt="vose-0.png" width="500" height="500" class="mt-image-none" /></p>
+
+<p>Let the heights of these bars be <em>h<sub>0</sub></em>, <em>h<sub>1</sub></em>, <em>h<sub>2</sub></em>, and <em>h<sub>3</sub></em>.  Since these heights correspond to the probability that a random base is A, C, G, or T, the total area of the histogram is 1.  Now to sample from this histogram, you can draw a uniform random number—call it <em>u</em>—between 0 and 1 and find which bar corresponds to that number.  If <em>u &lt; h<sub>0</sub></em>, you sample an A.  If <em>u &lt; h<sub>0</sub>+h<sub>1</sub></em>, you sample a C, etc.  This works, but is clearly inefficient since it requires you to search through the histogram from left to right every time you sample a nucleotide.  Imagine if you were sampling from 64 codons.</p>
+
+<p>A more efficient method is to sample a point uniformly in a box that contains all the bars:</p>
+
+<p><img src="/uploads/2012/vose-1.png" alt="vose-1.png" width="500" height="500" class="mt-image-none" /></p>
+
+<p>The (<em>x</em>, <em>y</em>) coordinates of the sampled point are defined by uniform random numbers between [0, 4) and [0,3/8) respectively.  If this point lands in the white space, you reject it and try again.  This approach is more efficient because once you have chosen <em>x</em>, you only need to compare <em>y</em> against <em>h<sub>floor(x)</sub></em>.
+However, the white space makes up one third of the space in this box, and thus on average you will have to sample 1.5 points for every sampled nucleotide.</p>
+
+<p>With the Alias Method, we can bring this down to 1 point for every sampled nucleotide.  Start by constructing the following box, which has an area of 1.</p>
+
+<p><img src="/uploads/2012/vose-2.png" alt="vose-2.png" width="500" height="500" class="mt-image-none" /></p>
+
+<p>Notice that the amount of white space within the box is equal to the amount of filled space outside it. Thus it is possible to cut the histogram into blocks and rearrange them such that the entire box is filled.</p>
+
+<p><img src="/uploads/2012/vose-3.png" alt="vose-3.png" width="500" height="500" class="mt-image-none" /></p>
+
+<p>Thus every bar is defined by two regions, the lower, normal region, and the upper, “alias” region.  Now we can draw a point (<em>x</em>, <em>y</em>) uniformly inside this box; <em>x</em> determines which bar we look at, and <em>y</em> determines whether we return the normal or the alias value.  Since there is no white space, we only have to draw 1 point per sampled nucleotide.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/*
+ *  C++ code for sampling from an alias table
+ */
+
+uint32_t a[64]; //aliases
+uint64_t h[64]; //bar heights
+uint32_t get_codon() {
+	uint64_t u = rand_uint64();
+	uint32_t x = u&amp;63;
+	return (u &lt; h[x]) ? x : a[x];
+}
+</code></pre></div></div>
+
+<p>Now the hard part comes in slicing and moving the blocks around.  That is where Vose’s method come in.  Basically keep a list of bars above or below the top line of the box, called large and small.  Then pop an element off of both lists, and use the large element to fill in the small element.  If the large element is still above the line, put it back in the large list, otherwise put it in the small list.  Repeat until the box is filled.  The process looks a bit like this:</p>
+
+<p><img src="/uploads/2012/vose.png" alt="vose.png" width="500" height="500" class="mt-image-none" /></p>
+
+<p>While Vose’s method is typically implemented using arrays, (see <a href="http://www.keithschwarz.com/darts-dice-coins/">Darts, Dice, and Coins</a>), array manipulation can be expensive.  However, it is possible to implement Vose’s method without using temporary arrays to hold large and small elements.  In the code below, I use indices to walk through the histogram linearly.  Only three indices are required: <em>g</em> for the current large bar, <em>m</em> for the current small bar, and <em>mm</em> for the next possible small bar. While <em>g</em> and <em>mm</em> keep track of the positions that we’ve examined and never decrease, <em>m</em> sometimes will jump backwards if a large bar has become small.  This is the code that Dawg 2.0 is currently using to construct an alias table for codon simulations, and is more efficient than previous solutions.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/*
+ *  Initialize alias table from discrete distribution, pp
+ */
+
+void create_alias_table(const double *pp) {
+    // normalize pp and copy into buffer
+    double f=0.0, p[64];
+    for(int i=0;i&lt;64;++i)
+        f += pp[i];
+    f = 64.0/f;
+    for(int i=0;i&lt;64;++i)
+        p[i] = pp[i]*f;
+    
+    // find starting positions
+    std::size_t g,m,mm;
+    for(g=0; g&lt;64 &amp;&amp; p[g] &lt;  1.0; ++g)
+        /*noop*/;
+    for(m=0; m&lt;64 &amp;&amp; p[m] &gt;= 1.0; ++m)
+        /*noop*/;
+    mm = m+1;
+    
+    // build alias table until we run out of large or small bars
+    while(g &lt; 64 &amp;&amp; m &lt; 64) {
+        // convert double to 64-bit integer, control for precision
+        h[m] = (static_cast&lt;uint64_t&gt;(
+                ceil(p[m]*9007199254740992.0)) &lt;&lt; 11);
+        a[m] = g;
+        p[g] = (p[g]+p[m])-1.0;
+        if(p[g] &gt;= 1.0 || mm &lt;= g) {
+            for(m=mm;m&lt;64 &amp;&amp; p[m] &gt;= 1.0; ++m)
+                /*noop*/;
+            mm = m+1;
+        } else
+            m = g;
+        for(; g&lt;64 &amp;&amp; p[g] &lt;  1.0; ++g)
+            /*noop*/;
+    }
+    
+    // any bars that remain have no alias 
+    for(; g&lt;64; ++g) {
+        if(p[g] &lt; 1.0)
+            continue;
+        h[g] = std::numeric_limits&lt;boost::uint64_t&gt;::max();
+        a[g] = g;
+    }
+    if(m &lt; 64) {
+        q[m] = std::numeric_limits&lt;boost::uint64_t&gt;::max();
+        a[m] = m;
+        for(m=mm; m&lt;64; ++m) {
+            if(p[m] &gt; 1.0)
+                continue;
+            h[m] = std::numeric_limits&lt;boost::uint64_t&gt;::max();
+            a[m] = m;
+        }
+    }
+}
+</code></pre></div></div>
+
+<p>Note that if the values in pp were not immutable, then we would not need p.</p>
+
+<p><strong>Note 2012/11/25:</strong> updated to fix typos.</p>
+
+<p><strong>Note 2013/05/03:</strong> fixed typo.</p>
+
+</article>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <footer>
+<div class="grid">
+<table bgcolor="204517">
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
+  <div align="left">
+    <p>&nbsp;&nbsp;To see earlier posts, select the Archives at the top of this page</p>
+    <p></p>
+  </div>
+  <div id="RecentComments" class="dsq-widget">
+      <div align="center">
+       <h2>Recent Comments</h2>
+       <P>
+       To see the comment in context of the discussion click on the text that indicates how long ago the comment was posted, such as "2 hours ago".  Then wait for the post and then the comments to load.
+      <P>
+    </div>
+    <div>
+     <script type="text/javascript" src="https://the-pandas-thumb.disqus.com/recent_comments_widget.js?num_items=15&hide_mods=0&hide_avatars=0&avatar_size=32&excerpt_length=100"></script>
+    </div>
+  </div>
+</td></tr>
+  <tr><td></td><td><div class="unit whole">
+      <p>Copyright &copy; The Panda&#8217;s Thumb and original authors &mdash; Content provided under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons BY-NC-ND License 4.0</a>.</p>
+    <p></p>
+    </div>
+    </td></tr>
+  </table>
+  </div>
+  </footer>
+
+  
+
+</body>
+
+</html>
+
+
