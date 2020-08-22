@@ -9,4 +9,4 @@ author: Matt Young
 </figcaption>
 </figure>
 
-The  period for submitting entries to the photography contest ends now, August 24, at noon Mountain Daylight Time.  As of this writing, we have received 21 submissions from 9 photographers. We will select finalists and post a poll as soon as possible, but not later than next Monday, August 31. Voting will close the following week, on <i>Tuesday</i>, September 8 at <i>8</i> a.m., MDT, and  the winning photograph will be posted at noon that day.
+The  period for submitting entries to the photography contest ends now, August 24, at noon Mountain Daylight Time (6&nbsp;h earlier than UTC).  As of this writing, we have received 21 submissions from 9 photographers. We will select finalists and post a poll as soon as possible, but not later than next Monday, August 31. Voting will close the following week, on <i>Tuesday</i>, September 8 at <i>8</i> a.m., MDT, and  the winning photograph will be posted at noon that day.
