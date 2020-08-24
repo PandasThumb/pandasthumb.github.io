@@ -35,7 +35,7 @@ Common gray moth, by **James Kocher**.
 
 Black-headed grosbeak, by **Mark Lee**.
 <figure>
-<img src="/uploads/2020/Lee_BlackheadedGrosbeak.jpeg" alt="Grosbeak"/>
+<img src="/uploads/2020/Lee_BlackheadedGrosbeak.JPEG" alt="Grosbeak"/>
 <figcaption>
 <a href="https://www.allaboutbirds.org/guide/Black-headed_Grosbeak/id">Pheucticus melanocephalus</a> molting. Black-headed grosbeak, Palo Duro Canyon State Park, Texas.</figcaption>
 </figure>
@@ -44,7 +44,7 @@ Black-headed grosbeak, by **Mark Lee**.
 
 Unidentified dragonfly molting, by **Al Denelsbeck**.
 <figure>
-<img src="/uploads/2020/Gorkem_DomesticPigeon1_600.jpg" alt="Dragonfly molting"/>
+<img src="/uploads/2020/" alt="Dragonfly molting"/>
 <figcaption>
 <a href="https://en.wikipedia.org/wiki/Dragonfly">Dragonfly</a> molting. The photographer writes, </figcaption>
 </figure>
@@ -53,7 +53,7 @@ Unidentified dragonfly molting, by **Al Denelsbeck**.
 
 Unidentified dragonfly molting, by **Al Denelsbeck**.
 <figure>
-<img src="/uploads/2020/Gorkem_DomesticPigeon1_600.jpg" alt="Dragonfly molting"/>
+<img src="/uploads/2020/" alt="Dragonfly molting"/>
 <figcaption>
 <a href="https://en.wikipedia.org/wiki/Dragonfly">Dragonfly</a> molting. The photographer writes, </figcaption>
 </figure>
@@ -62,7 +62,7 @@ Unidentified dragonfly molting, by **Al Denelsbeck**.
 
 Unidentified dragonfly molting, by **Al Denelsbeck**.
 <figure>
-<img src="/uploads/2020/Gorkem_DomesticPigeon1_600.jpg" alt="Dragonfly molting"/>
+<img src="/uploads/2020/" alt="Dragonfly molting"/>
 <figcaption>
 <a href="https://en.wikipedia.org/wiki/Dragonfly">Dragonfly</a> molting. The photographer writes, </figcaption>
 </figure>
@@ -71,7 +71,7 @@ Unidentified dragonfly molting, by **Al Denelsbeck**.
 
 Unidentified dragonfly molting, by **Al Denelsbeck**.
 <figure>
-<img src="/uploads/2020/Gorkem_DomesticPigeon1_600.jpg" alt="Dragonfly molting"/>
+<img src="/uploads/2020/" alt="Dragonfly molting"/>
 <figcaption>
 <a href="https://en.wikipedia.org/wiki/Dragonfly">Dragonfly</a> molting. The photographer writes, </figcaption>
 </figure>
