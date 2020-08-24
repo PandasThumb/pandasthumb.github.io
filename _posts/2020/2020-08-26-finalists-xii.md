@@ -16,7 +16,7 @@ Please remember that this is a photography contest, not a popularity contest, an
 
 Domestic pigeon, by **Muharrem Gorkem**.
 <figure>
-<img src="/uploads/2020/Gorkem_DomesticPigeon1_600.jpg" alt="Dragonfly molting"/>
+<img src="/uploads/2020/Gorkem_DomesticPigeon1_600.jpg" alt="Pigeon"/>
 <figcaption>
 The photographer writes, "A domestic pigeon, <a href="https://en.wikipedia.org/wiki/Domestic_pigeon">Columba livia domestica</a>, on her evening tour just before my apartment."
 </figcaption>
@@ -60,21 +60,27 @@ Green hyalite, by **Alan Rice**.
 
 -----
 
-Unidentified dragonfly molting, by **Al Denelsbeck**.
+Fishing spider under water, by **Mark Sturtevant**.
 <figure>
-<img src="/uploads/2020/" alt="Dragonfly molting"/>
+<img src="/uploads/2020/Sturtevant.Fishing_spider_under_water.jpg" alt="Fishing spider"/>
 <figcaption>
-<a href="https://en.wikipedia.org/wiki/Dragonfly">Dragonfly</a> molting. The photographer writes, </figcaption>
+<a href="https://en.wikipedia.org/wiki/Six-spotted_fishing_spider">Dolomedes triton</a>, six-spotted fishing spider. The photographer writes, "The six-spotted fishing spider hunts aquatic insects and even small fish. Large enough to inspire respectful handling, but they are quite shy and will hide under water to escape danger, as is shown in this staged picture, which was taken from the under-side of an aquarium. You are here looking up at a spider that is hiding under a lily pad. A minnow swims nearby."</figcaption>
 </figure>
 
 -----
 
-Unidentified dragonfly molting, by **Al Denelsbeck**.
+Gatekeeper butterfly, by **Marilyn Susek**.
 <figure>
-<img src="/uploads/2020/" alt="Dragonfly molting"/>
+<img src="/uploads/2020/https://www.ukbutterflies.co.uk/species.php?species=tithonus" alt="Butterfly"/>
 <figcaption>
-<a href="https://en.wikipedia.org/wiki/Dragonfly">Dragonfly</a> molting. The photographer writes, </figcaption>
+<a href="Susek_Gatekeeper-Butterfly.jpg">Pyronia Tithonus</a>, gatekeeper butterfly. The photographer writes, </figcaption>
 </figure>
+
+
+This butterfly was taken at my garden in Rotherham, S. Yorksshire, UK. I noticed that the under wing of this Gatekeeper is not the same as other photos of Gatekeeper butterflies. It is sitting on an Echinacea.
+ 
+
+
 
 -----
 
