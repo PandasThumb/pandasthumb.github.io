@@ -71,16 +71,10 @@ Fishing spider under water, by **Mark Sturtevant**.
 
 Gatekeeper butterfly, by **Marilyn Susek**.
 <figure>
-<img src="/uploads/2020/https://www.ukbutterflies.co.uk/species.php?species=tithonus" alt="Butterfly"/>
+<img src="/uploads/2020/Susek_Gatekeeper-Butterfly.jpg" alt="Butterfly"/>
 <figcaption>
-<a href="Susek_Gatekeeper-Butterfly.jpg">Pyronia Tithonus</a>, gatekeeper butterfly. The photographer writes, </figcaption>
+<a href="https://www.ukbutterflies.co.uk/species.php?species=tithonus">Pyronia Tithonus</a>, gatekeeper butterfly. The photographer writes, "This butterfly was taken at my garden in Rotherham, S. Yorksshire, UK. I noticed that the under wing of this Gatekeeper is not the same as other photos of gatekeeper butterflies. It is sitting on an Echinacea."</figcaption>
 </figure>
-
-
-This butterfly was taken at my garden in Rotherham, S. Yorksshire, UK. I noticed that the under wing of this Gatekeeper is not the same as other photos of Gatekeeper butterflies. It is sitting on an Echinacea.
- 
-
-
 
 -----
 
