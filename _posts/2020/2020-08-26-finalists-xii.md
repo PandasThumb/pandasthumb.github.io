@@ -26,18 +26,18 @@ The photographer writes, "A domestic pigeon, <a href="https://en.wikipedia.org/w
 
 Common gray moth, by **James Kocher**.
 <figure>
-<img src="/uploads/2020/Gorkem_DomesticPigeon1_600.jpg" alt="Dragonfly molting"/>
+<img src="/uploads/2020/Kocher_CommonGrayMoth1.jpg" alt="Common gray moth"/>
 <figcaption>
 <a href="https://en.wikipedia.org/wiki/Anavitrinella_pampinaria">Anavitrinella pampinaria</a>, common gray moth, resting on block of limestone masonry &ndash; a nice example of camouflage (cryptic) coloration, St. Louis, Missouri. </figcaption>
 </figure>
 
 -----
 
-Unidentified dragonfly molting, by **Al Denelsbeck**.
+Black-headed grosbeak, by **Mark Lee**.
 <figure>
-<img src="/uploads/2020/Gorkem_DomesticPigeon1_600.jpg" alt="Dragonfly molting"/>
+<img src="/uploads/2020/Lee_BlackheadedGrosbeak.jpeg" alt="Grosbeak"/>
 <figcaption>
-<a href="https://en.wikipedia.org/wiki/Dragonfly">Dragonfly</a> molting. The photographer writes, </figcaption>
+<a href="https://www.allaboutbirds.org/guide/Black-headed_Grosbeak/id">Pheucticus melanocephalus</a> molting. Black-headed grosbeak, Palo Duro Canyon State Park, Texas.</figcaption>
 </figure>
 
 -----
