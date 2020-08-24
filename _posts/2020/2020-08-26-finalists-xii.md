@@ -42,20 +42,20 @@ Black-headed grosbeak, by **Mark Lee**.
 
 -----
 
-Unidentified dragonfly molting, by **Al Denelsbeck**.
+Roseate spoonbill, by **C. Joseph Long**.
 <figure>
-<img src="/uploads/2020/" alt="Dragonfly molting"/>
+<img src="/uploads/2020/Long_roseate_spoonbill.jpg" alt="Roseate spoonbill"/>
 <figcaption>
-<a href="https://en.wikipedia.org/wiki/Dragonfly">Dragonfly</a> molting. The photographer writes, </figcaption>
+<a href="https://en.wikipedia.org/wiki/Roseate_spoonbill">Platalea ajaja L.</a>, with young. The photographer writes, "This shot was taken at the Alligator Farm in St. Augustine, Florida.  This is a popular place (among the birds, as well as humans) because, while nestlings that fall to the surface are lost, the nests are safe from such predators as raccoons, bobcats, and snakes due to the inaccessibility of the trees’ bases.  The color is due, as in flamingos, to carotenoids in the diet.  According to Wikipedia, the roseate’s closest relative is the yellow-billed spoonbill, which is found in southeast Australia.  They do get around."</figcaption>
 </figure>
 
 -----
 
-Unidentified dragonfly molting, by **Al Denelsbeck**.
+Green hyalite, by **Alan Rice**.
 <figure>
 <img src="/uploads/2020/" alt="Dragonfly molting"/>
 <figcaption>
-<a href="https://en.wikipedia.org/wiki/Dragonfly">Dragonfly</a> molting. The photographer writes, </figcaption>
+<a href="https://en.wikipedia.org/wiki/Hyalite">Hyalite</a> glowing green, or <a href="https://en.wikipedia.org/wiki/Fluorescence">fluorescing</a>, under ultraviolet light (ultraviolet C 100–280&nbsp;nm). The photographer writes, "Hyalite is a form of opal with a glassy and clear appearance. My brother builds ultraviolet lights for mineral exploration and is silhouetted by the abundant hyalite. This sample is deep underground in a tungsten mine in Nevada, USA." </figcaption>
 </figure>
 
 -----
