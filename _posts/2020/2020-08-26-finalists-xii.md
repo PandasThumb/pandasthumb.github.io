@@ -6,7 +6,7 @@ author: Matt Young
 
 Here are the finalists of the 2020 photography contest. We received 21 photographs, all of which were excellent, as you will no doubt see during the coming months. With assistance from our wife, we chose 6 finalists and then added one rather than bite the bullet and break a tie. We display the *7* finalists below the proverbial fold. We chose the photographs more on the basis of their pictorial quality than on their scientific interest. The text, if any, was written by the photographers and lightly edited for consistency.
 
-The finalists are presented in alphabetical order of last name. Please look through their photographs before voting for your favorite. Polling will close *Tuesday*, September 8, at approximately *8* a.m. MDT, and we will display the winner at noon that day.
+The finalists are presented in alphabetical order of last name. Please look through their photographs before voting for your favorite. Polling will close *Tuesday*, September 8, at approximately *8* a.m. MDT, and we will display the winner at noon that day. (Monday is Labor Day in the US.)
 
 Please remember that this is a photography contest, not a popularity contest, and discourage your friends from enlisting others specifically to vote for you.
 
@@ -28,7 +28,7 @@ Common gray moth, by **James Kocher**.
 <figure>
 <img src="/uploads/2020/Kocher_CommonGrayMoth1.jpg" alt="Common gray moth"/>
 <figcaption>
-<a href="https://en.wikipedia.org/wiki/Anavitrinella_pampinaria">Anavitrinella pampinaria</a>, common gray moth, resting on block of limestone masonry &ndash; a nice example of camouflage (cryptic) coloration, St. Louis, Missouri. </figcaption>
+<a href="https://en.wikipedia.org/wiki/Anavitrinella_pampinaria">Anavitrinella pampinaria</a>, common gray moth, resting on block of limestone masonry &ndash; "a nice example of camouflage (cryptic) coloration, St. Louis, Missouri." </figcaption>
 </figure>
 
 -----
@@ -73,7 +73,7 @@ Gatekeeper butterfly, by **Marilyn Susek**.
 <figure>
 <img src="/uploads/2020/Susek_Gatekeeper-Butterfly.jpg" alt="Butterfly"/>
 <figcaption>
-<a href="https://www.ukbutterflies.co.uk/species.php?species=tithonus">Pyronia Tithonus</a>, gatekeeper butterfly. The photographer writes, "This butterfly was taken at my garden in Rotherham, S. Yorkshire, UK. I noticed that the under wing of this Gatekeeper is not the same as other photos of gatekeeper butterflies. It is sitting on an Echinacea."</figcaption> 
+<a href="https://www.ukbutterflies.co.uk/species.php?species=tithonus">Pyronia tithonus</a>, gatekeeper butterfly. The photographer writes, "This butterfly was taken at my garden in Rotherham, S. Yorkshire, UK. I noticed that the under wing of this Gatekeeper is not the same as other photos of gatekeeper butterflies. It is sitting on an Echinacea."</figcaption> 
 </figure>
 
 -----
