@@ -1,6 +1,6 @@
 ---
 title: 'Photography Contest XII: Finalists'
-date: '2020-08-31 12:00:00 -06:00'
+date: '2020-08-25 08:30:00 -06:00'
 author: Matt Young
 ---
 
