@@ -4,6 +4,9 @@ date: '2020-08-07 13:00:00 -07:00'
 author: Joe Felsenstein
 ---
 
+**[Added 14th of August:  comments now work correctly, so Panda's Thumb is now back "on the air" as of the 11th.  The outage was 56 days, or 8 weeks.]**
+<P>
+
 Panda's Thumb has been down since the 16th of June, owing to a hardware failure in its server machine.
 Reed has been working to fix that, and I have been adapting the site to be served by Github Pages.  This
 has been possible since it was already using a locally-served version of Github Pages since 2016,
