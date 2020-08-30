@@ -43,7 +43,7 @@ effect in modifying the legacy passed on the next generation.  A bird tried to f
 wings were bigger.
 
 But there's another phenomenon in Lamarck's theory, one that most people don't know of.  This is that in
-addation to the effects of use and disuse, there a whole other force at work in Lamarck's theory.  And that is
+addition to the effects of use and disuse, there a whole other force at work in Lamarck's theory.  And that is
 the inherent complexifying force.
 
 Here, for example, is a summary by Lamarck contrasting the existing theory with his own:
