@@ -1,7 +1,7 @@
 ---
 title: 'A belated happy birthday to Lamarck'
 date: '2020-08-30 08:00:00 -07:00'
-author: 'Joe Fesenstein'
+author: 'Joe Felsenstein'
 ---
 
 Since 2009 I have posted every year a happy birthday greeting to the first evolutionary biologist, the
@@ -22,7 +22,7 @@ Lamarckians in subsequent decades.  An interesting story.
 <!--more-->
 
 <figure>
-<img src="{{ site.baseurl }}/uploads/2020/380px-Jean-Baptiste_de_Lamarck.jpg" width="380"/>
+<img src="{{ site.baseurl }}/uploads/2020/380px-Jean-Baptiste_de_Lamarck.jpg" width="380" height="480"/>
 <figcaption>By Charles Thévenin, 1802 or 1803, Public Domain, https://commons.wikimedia.org/w/index.php?curid=19173092
 </figcaption>
 </figure>
