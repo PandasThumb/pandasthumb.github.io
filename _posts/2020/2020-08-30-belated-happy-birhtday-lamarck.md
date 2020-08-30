@@ -22,7 +22,7 @@ Lamarckians in subsequent decades.  An interesting story.
 <!--more-->
 
 <figure>
-<img src="{{ site.baseurl }}/uploads/2020/380px-Jean-Baptiste_de_Lamarck.jpg"/>
+<img src="{{ site.baseurl }}/uploads/2020/380px-Jean-Baptiste_de_Lamarck.jpg" width="380"/>
 <figcaption>By Charles Thévenin, 1802 or 1803, Public Domain, https://commons.wikimedia.org/w/index.php?curid=19173092
 </figcaption>
 </figure>
