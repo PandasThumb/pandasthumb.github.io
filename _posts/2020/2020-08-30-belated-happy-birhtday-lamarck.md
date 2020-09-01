@@ -59,4 +59,4 @@ developments in physics and chemistry, an inherent complexifying force seemed mo
 complexifying force, or even effects of use and disuse.  The former was dropped, the latter became the direct
 effects of the environment on the organism.
 
-Today any effect of environment on the organism, such as epigenetic modifications, is called "Lamarckian", usually quite inaccurately.  There is not going to be a true revival of Lamrckian views, as they would involve mystical trends towards complexity, and effects of will power on inheritance.  Neither has much appeal on light of modern physics.  Nevertheless, Happy Birthday to Jean-Baptiste, the first true evolutionary biologist.
+Today any effect of environment on the organism, such as epigenetic modifications, is called "Lamarckian", usually quite inaccurately.  There is not going to be a true revival of Lamarckian views, as they would involve mystical trends towards complexity, and effects of will power on inheritance.  Neither has much appeal on light of modern physics.  Nevertheless, Happy Birthday to Jean-Baptiste, the first true evolutionary biologist.
