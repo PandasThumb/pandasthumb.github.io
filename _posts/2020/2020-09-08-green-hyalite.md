@@ -4,7 +4,7 @@ date: '2020-09-08 12:00:00 -06:00'
 author: Matt Young
 ---
 
-Green hyalite, by **Alan Rice**.
+Photograph by **Alan Rice**.
 
 Photography contest, **Winner**.
 
