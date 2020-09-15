@@ -69,3 +69,6 @@ Questions like these are surely going to shape research going forward. Perhaps w
 
 This is the great mystery that this paper offers. That is what makes it compelling. It is the questions of phosphine gas on Venus that draw us in.
 
+-----
+
+<i>[Joshua Swamidass](http://swami.wustl.edu/), a new member of the PT Crew, is Associate Professor, Laboratory and Genomic Medicine, Washington University in St Louis. He is the author of [The Genealogical Adam and Eve](https://www.ivpress.com/the-genealogical-adam-and-eve) and the founding scientist of the blog [Peaceful Science](https://peacefulscience.org/mission-and-values/).</i>
