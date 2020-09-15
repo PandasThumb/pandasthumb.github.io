@@ -1,6 +1,6 @@
 ---
 title: 'The mystery of phosphine gas on Venus'
-date: '2020-09-15 12:00:00 -06:00'
+date: '2020-09-15 13:06:00 -06:00'
 author: S. Joshua Swamidass 
 ---
 
