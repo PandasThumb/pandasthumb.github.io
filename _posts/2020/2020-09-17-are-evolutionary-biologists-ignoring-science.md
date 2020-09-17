@@ -45,7 +45,7 @@ where I disagree with them, with quotes from the new Champneys video.  He says m
 of these there.  Each quote is accompanied by the time in minutes and seconds
 in his video where it will be found.
 
-1. Champneys describes evolutionary biologists as arguing that there are "loopholes"
+Champneys describes evolutionary biologists as arguing that there are "loopholes"
 and "exceptions" preventing the Second Law from working:
 <blockquote>
 (13:22) Sadly many brilliant scientists seek to dodge the law
@@ -79,7 +79,7 @@ which is specification."
 As far as I know that's not what evolutionary biologists say: all the ones I have
 heard say that evolution is completely consistent with the Second Law.
 
-2. Champneys seems to think that natural selection cannot put specified
+Champneys seems to think that natural selection cannot put specified
 information into the genome because it only destroys less fit individuals, and
 does not preserve fit ones.
 <blockquote>
@@ -107,7 +107,7 @@ and affects the entropy calculation for the system.  But to Champneys,
 this is not how information comes to be in the genome, he says clearly that
 only intelligence can put it there.
 
-3. Champneys seems to miss the role in the thermodynamic bookkeeping
+Champneys seems to miss the role in the thermodynamic bookkeeping
 of energy flowing into living systems from
 the sun (or from chemosynthesis) in allowing the growth of organisms and increases
 in their adaptation and specified information.  
@@ -129,7 +129,7 @@ a higher wavelength than its ultimate form as outgoing heat radiation seems
 important, and affects entropy calculations, but that is
 missing from part of Champneys' argument.
 
-4. Champneys keeps describing biologists as saying that it is mutation that puts
+Champneys keeps describing biologists as saying that it is mutation that puts
 specified information into the genome.  He lampoons the way biologists
 say that natural selection makes the mutation nonrandom, and makes
 his "culling" argument to say that natural selection cannot add
