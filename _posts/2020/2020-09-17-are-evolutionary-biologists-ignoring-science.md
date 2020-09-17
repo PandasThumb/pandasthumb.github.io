@@ -20,10 +20,10 @@ other.  So they all think that these arguments are good science, and that
 what evolutionary biologists say is most definitely not.
 
 Champneys has shown up here once before: in 
-2017 [he made some comments on a 2011 post](http://pandasthumb.org/archives/2017/04/Does-Granville-Sewells-entropy.html/) by me about Granville Sewell's
+2017 [he made some comments on a 2011 post](https://pandasthumb.org/archives/2017/04/Does-Granville-Sewells-entropy.html/) by me about Granville Sewell's
 arguments.  He and I had a brief, mild exchange in the comments section.  In those
 days we had no Recent Comments widget to allow people to find comments on
-older posts like that one, so no one else noticed this.  So I put up [a new post about Champneys' arguments](http://pandasthumb.org/archives/2017/04/Does-Granville-Sewells-entropy.html/)
+older posts like that one, so no one else noticed this.  So I put up [a new post about Champneys' arguments](https://pandasthumb.org/archives/2017/04/Does-Granville-Sewells-entropy.html/)
 in the hope that he would join the discussion.  Alas, he did not show up.
 
 Now Champneys has a [**new video**](https://youtu.be/0oOt317kSro), which makes the shocking argument that when
