@@ -127,7 +127,7 @@ and pass some of it on to offspring.  The proteins and RNAs of the cell.
 That the incoming sunlight that arrives is at
 a higher <strike>wavelength</strike> frequency than its ultimate form as outgoing heat radiation seems
 important, and affects entropy calculations, but that is
-missing from part of Champneys' argument.
+missing from Champneys' argument.
 
 Champneys keeps describing biologists as saying that it is mutation that puts
 specified information into the genome.  He lampoons the way biologists
