@@ -6,7 +6,7 @@ author: 'Joe Felsenstein'
 
 <figure>
 <img src="/uploads/2020/champneysscientists.png"/>
-<figcaption>"From Champneys' video. Evolutionary biologists ignoring the Second Law"
+<figcaption>From Champneys' video. Evolutionary biologists ignoring the Second Law
 </figcaption>
 </figure>
 
