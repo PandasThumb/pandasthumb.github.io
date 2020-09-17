@@ -63,7 +63,7 @@ everywhere without exception.
 </blockquote>
 and
 <blockquote>
-(18:25) "Their primary defense is to excuse their theory
+(18:25) Their primary defense is to excuse their theory
 by virtue of the fact that the earth is an open system. 
 That's it, that's all they have.  Richard Dawkins has
 stated that the Second Law can be disregarded simply
@@ -74,7 +74,7 @@ loophole!' Evolutionists claim that sunlight is the magical
 ingredient that makes entropy decrease possible, but
 it's simply not true -- sublight is actually very random,
 and what's needed is the polar opposite of random,
-which is specification." 
+which is specification. 
 </blockquote>
 As far as I know that's not what evolutionary biologists say: all the ones I have
 heard say that evolution is completely consistent with the Second Law.
@@ -83,7 +83,7 @@ Champneys seems to think that natural selection cannot put specified
 information into the genome because it only destroys less fit individuals, and
 does not preserve fit ones.
 <blockquote>
-(22:27)Then comes the evolutionists' last gasp
+(22:27) Then comes the evolutionists' last gasp
 'but random mutations are not really random -- they
 are directed by natural selection', so, they always say.
 Oops again. I say, natural
