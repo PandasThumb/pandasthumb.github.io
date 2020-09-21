@@ -1,6 +1,6 @@
 ---
 title: 'Science on the Ballot'
-date: '2020-09-21 12:15:00 -06:00'
+date: '2020-09-21 12:35:00 -06:00'
 author: Matt Young
 ---
 <figure>
