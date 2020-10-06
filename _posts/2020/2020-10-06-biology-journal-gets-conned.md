@@ -1,6 +1,6 @@
 ---
-title: 'Journal of Theoretical Biology Gets Conned'
-date: '2021-10-06 12:00:00 -06:00'
+title: 'Biology Journal Gets Conned'
+date: '2020-10-06 16:02:00 -06:00'
 author: Jason Rosenhouse
 ---
 In 1977, the *Journal of Theoretical Biology* (JTB) published a paper by Hubert Yockey called [A calculation of the probability of spontaneous biogenesis by information theory](https://www.sciencedirect.com/science/article/abs/pii/0022519377900443).  The paper became something of an embarrassment for the journal, since Yockey’s calculations, which purported to show that a naturalistic origin of life was effectively impossible, were both biologically and mathematically ridiculous.  Of course, this didn’t stop the creationists from crowing about the paper.
