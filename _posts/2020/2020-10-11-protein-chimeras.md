@@ -26,7 +26,7 @@ Another idea is that novel protein-coding genes can arise by recombination of sm
 
 <figure>
 <img src="/uploads/2020/Rasmussen_Fig1_600.jpg" alt="Origin of chimeric gene"/>
-<figcaption>**Figure 1**: Overview of a step-wise process by which a chimeric gene can arise by what is in essence analogous to a copy-and-paste mechanism operating on DNA sequences. A piece of an organism’s chromosome is depicted with intergenic DNA represented by black horizontal lines, separated by colored bars representing the protein-coding genes A and B. (1) A small segment of chromosomal DNA is copied. (2) This copy is inserted back into the chromosome, this time inside the functional gene B. (3) This insertion results in a novel hybrid gene A/B. (4) All three genes A, B, and hybrid gene A/B, are expressed within the cell.
+<figcaption><strong>Figure 1</strong>: Overview of a step-wise process by which a chimeric gene can arise by what is in essence analogous to a copy-and-paste mechanism operating on DNA sequences. A piece of an organism’s chromosome is depicted with intergenic DNA represented by black horizontal lines, separated by colored bars representing the protein-coding genes A and B. (1) A small segment of chromosomal DNA is copied. (2) This copy is inserted back into the chromosome, this time inside the functional gene B. (3) This insertion results in a novel hybrid gene A/B. (4) All three genes A, B, and hybrid gene A/B, are expressed within the cell.
 </figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ The protocol he employed to detect whether such a function existed among his mil
 
 <figure>
 <img src="/uploads/2020/Rasmussen_Fig2_600.jpg" alt="Plasmids carrying hybrid genes"/>
-<figcaption>**Figure 2**: On the right: circles with colored segments represent DNA ([plasmids](https://en.wikipedia.org/wiki/Plasmid)) carrying hybrid genes (created using the ITCHY protocol). These plasmids are [transformed](https://en.wikipedia.org/wiki/Transformation_(genetics) (a process by which bacteria can take in and use foreign DNA) into auxotrophic *E. coli* bacteria, and the transformed bacteria are then transferred to a Petri dish to see if they are able to grow and divide by employing the hybrid gene. If they can, a bacterial colony will become visible on the Petri dish, which can then be isolated and analyzed. On the left: Same strains of bacteria are used, but without the plasmid DNA carrying the hybrid genes. <small>Image credit: Figure 4.10 of Rawcliffe, G. (2019). Exploring the protein universe: a study of subdomain driven evolution. Reproduced with permission. </small>
+  <figcaption><strong>Figure 2</strong>: On the right: circles with colored segments represent DNA <a href="https://en.wikipedia.org/wiki/Plasmid">plasmids</a> carrying hybrid genes (created using the ITCHY protocol). These plasmids are <a href="https://en.wikipedia.org/wiki/Transformation_(genetics)">transformed</a> (a process by which bacteria can take in and use foreign DNA) into auxotrophic *E. coli* bacteria, and the transformed bacteria are then transferred to a Petri dish to see if they are able to grow and divide by employing the hybrid gene. If they can, a bacterial colony will become visible on the Petri dish, which can then be isolated and analyzed. On the left: Same strains of bacteria are used, but without the plasmid DNA carrying the hybrid genes. <small>Image credit: Figure 4.10 of Rawcliffe, G. (2019). Exploring the protein universe: a study of subdomain driven evolution. Reproduced with permission. </small>
 </figcaption>
 </figure>
 
