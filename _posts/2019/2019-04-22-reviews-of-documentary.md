@@ -4,7 +4,7 @@ date: '2019-04-22 08:00:00 -06:00'
 author: Matt Young
 ---
 <figure>
-<img src="{{ site.baseurl }}/uploads/2019/Ark_On_Opening_Day.jpg" alt="Ark"/>
+<img src="https://pandasthumb.github.io/uploads/2019/Ark_On_Opening_Day.jpg" alt="Ark"/>
 <figcaption>
 Ark on Opening Day, courtesy of Dan Phelps.
 </figcaption>
@@ -77,3 +77,19 @@ You may also see a clip from the film and a short background article in The Play
 "On the other side of the divide are people like paleontologist Dan Phelps (who points out that roadside Kentucky shale offers ample proof of Earth’s great age) and David MacMillan, a teenage evangelical and Creation Museum charter member who now runs an anti-Creationist website. He sees no conflict between his continued Christian beliefs and acquired trust in science, resenting that faulty creationist 'evidence' gets shoved down many a gullible schoolchild’s throat. ...
 
 "... 'We Believe in Dinosaurs' does definitely suggest that this eccentric collision between faith and secularism, commerce and politics — one that might have seemed wholly outlandish not long ago—is kinda-sorta the direction in which our republic is now headed. Politicians increasingly bend to accommodate religious causes, with judiciary right behind them. Science denial is a trend, whether the motivation is Biblical literalism or simple capitalist greed." &ndash; <a href="https://variety.com/2019/film/reviews/we-believe-in-dinosaurs-review-1203194204/">Dennis Harvey in <i>Variety</i></a>.
+
+<strong>Review added</strong> 10/12/2020, 3:30 p.m. "Smart and generous, filled with fair and acute observations, this film brilliantly highlights much of what is wrong with the Ark and the Answers in Genesis (AiG) project in general. 
+
+"One of the reasons this film works is that it eschews a hostile, “culture wars” tone. Viewers get to see and hear from the earnest and talented designers and artists who created exhibits at Ark Encounter and at the Ark’s sister attraction, the Creation Museum....
+
+"The stars of We Believe in Dinosaurs are David MacMillan, a former young Earth creationist, and Dan Phelps, Kentucky Paleontology Society president. Given his creationist pedigree, MacMillan is a particularly compelling figure in the documentary: he nicely (and painfully) describes how he had been indoctrinated to believe that, if you give up young Earth creationism, you are on your way to undermining the Gospel. Next thing you know, you will be a feminist, communist, atheist. 
+
+"It turns out that MacMillan, who has accepted evolution, remains a Christian . . . but he has – quite predictably – been repeatedly labeled as an atheist. (So have we.)
+
+"Then there’s Phelps, who we see in the film collecting rock specimens on a steep slope next to a highway in Kentucky. While Phelps is quite clear that he sees the entire Ham young-Earth-creationist enterprise as a “flim-flam” operation, he is also quite winsome and humble, determined that viewers understand that in science it is okay not to have all the answers, and to change your mind (both of which are absolutely verboten in young Earth creationism). ...
+
+"Ham has also attacked us at rightingamerica for pointing out that Williamstown has not benefitted economically, and for making the point that Ham and AiG used the prospect of great economic gains to convince this little town to issue $62m in junk bonds and then loaned the proceeds to help get the Ark project underway – a deal made particularly sweet by the provision that 75% of what Ark Encounter would have paid in property taxes will instead be used to pay off the loan. Ham has repeatedly failed to own up to this sweet deal, instead claiming again and again that the Ark has received no significant governmental assistance.
+
+"David MacMillan has it right: Ham fleeced a town that gave him his Ark Encounter.
+
+"Whatever Ken Ham and his fundamentalist acolytes have to say, We Believe in Dinosaurs is a terrific documentary that is very much worth watching." &ndash; [Susan Trollinger and William Trollinger](https://rightingamerica.net/we-believe-in-dinosaurs-a-must-see-documentary-on-ark-encounter/), review in Righting America.
