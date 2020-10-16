@@ -18,5 +18,6 @@ Au boy! The author seems a little Au-struck by what seem to me relatively unrela
 >Since intelligent-design creationists are desperately searching for "hints" of design, they are more likely than empirically based scientists to come up with a positive answer — showing once again that intelligent-design creationists can pretend that any unanticipated scientific discovery leads to "interesting questions." If the answer is, "Yes, gold has a purpose," no practical applications will result.
 
 Actually, the answer to the question is, "Yes, gold, like anything else, has whatever purposes we assign to it."
+
 ***
 Thanks to Glenn Branch, who apparently reads Evolution News, so I generally do not have to.
