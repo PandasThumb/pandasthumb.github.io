@@ -20,4 +20,5 @@ Au boy! The author seems a little Au-struck by what seem to me relatively unrela
 Actually, the answer to the question is, "Yes, gold, like anything else, has whatever purposes we assign to it."
 
 ***
+
 Thanks to Glenn Branch, who apparently reads Evolution News, so I generally do not have to.
