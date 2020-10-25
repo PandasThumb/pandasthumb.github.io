@@ -27,7 +27,7 @@ can avoid having 1,600-plus comments and actually discuss the matter at hand.
 Let's try for that focus and relevance.  Surely someone who wants scientists
 to actually grapple with the science must agree with that goal.  Right?  Let's
 see ...
-
+<p>
 <!--more-->
 
 <strong>The example</strong>
