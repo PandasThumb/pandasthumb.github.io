@@ -83,7 +83,7 @@ selected towards it.
 <p>
 In the figure, the result is the green histogram.  There is an
 average of 98.01332 Cs in these 100 sites.  It varies around that
-from genome to genome, just as tosses of 100 coins that have a Heads
+from genome to genome, just as tosses of 100 coins would that have a Heads
 probability of 0.9801332.  It is possible to show that the average
 fitness of genomes in that equilibrium distribution is 1.630472.
 Natural selection shifts the equilibrium distribution dramatically
