@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://pandasthumb.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pandasthumb.org/" rel="alternate" type="text/html" /><updated>2020-10-25T07:03:29-07:00</updated><id>https://pandasthumb.org/feed.xml</id><title type="html">The Panda’s Thumb</title><entry><title type="html">Does approach to higher probability block natural selection?</title><link href="https://pandasthumb.org/archives/2020/10/does-approach-toward-higher-probability.html" rel="alternate" type="text/html" title="Does approach to higher probability block natural selection?" /><published>2020-10-25T00:00:01-07:00</published><updated>2020-10-25T00:00:01-07:00</updated><id>https://pandasthumb.org/archives/2020/10/does-approach-toward-higher-probability</id><content type="html" xml:base="https://pandasthumb.org/archives/2020/10/does-approach-toward-higher-probability.html">&lt;figure&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://pandasthumb.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pandasthumb.org/" rel="alternate" type="text/html" /><updated>2020-10-25T07:11:30-07:00</updated><id>https://pandasthumb.org/feed.xml</id><title type="html">The Panda’s Thumb</title><entry><title type="html">Does approach to higher probability block natural selection?</title><link href="https://pandasthumb.org/archives/2020/10/does-approach-toward-higher-probability.html" rel="alternate" type="text/html" title="Does approach to higher probability block natural selection?" /><published>2020-10-25T00:00:01-07:00</published><updated>2020-10-25T00:00:01-07:00</updated><id>https://pandasthumb.org/archives/2020/10/does-approach-toward-higher-probability</id><content type="html" xml:base="https://pandasthumb.org/archives/2020/10/does-approach-toward-higher-probability.html">&lt;figure&gt;
 &lt;img src=&quot;/uploads/2020/gf.png&quot; /&gt;
 &lt;/figure&gt;
 
@@ -67,7 +67,7 @@ of the number of Cs in those sites.
 It will not be a big surprise that Cs increase at each of the
 sites.  I'll leave out the algebra, but can supply it on request.
 Starting out with a population gene frequency of 0.25 at all 100
-sites, the gene freuqncies are always the same at all of the sites,
+sites, the gene frequencies are always the same at all of the sites,
 but they rise gradually.  After about 5,000 generations. they
 rise almost to 1, settling in to an equailibrium gene frequency
 of 0.9801332.  They don't get all the way to 1, because mutation
