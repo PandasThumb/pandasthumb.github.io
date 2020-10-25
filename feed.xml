@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://pandasthumb.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pandasthumb.org/" rel="alternate" type="text/html" /><updated>2020-10-25T07:28:18-07:00</updated><id>https://pandasthumb.org/feed.xml</id><title type="html">The Panda’s Thumb</title><entry><title type="html">Does approach to higher probability block natural selection?</title><link href="https://pandasthumb.org/archives/2020/10/does-approach-toward-higher-probability.html" rel="alternate" type="text/html" title="Does approach to higher probability block natural selection?" /><published>2020-10-25T00:00:01-07:00</published><updated>2020-10-25T00:00:01-07:00</updated><id>https://pandasthumb.org/archives/2020/10/does-approach-toward-higher-probability</id><content type="html" xml:base="https://pandasthumb.org/archives/2020/10/does-approach-toward-higher-probability.html">&lt;figure&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://pandasthumb.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pandasthumb.org/" rel="alternate" type="text/html" /><updated>2020-10-25T07:29:15-07:00</updated><id>https://pandasthumb.org/feed.xml</id><title type="html">The Panda’s Thumb</title><entry><title type="html">Does approach to higher probability block natural selection?</title><link href="https://pandasthumb.org/archives/2020/10/does-approach-toward-higher-probability.html" rel="alternate" type="text/html" title="Does approach to higher probability block natural selection?" /><published>2020-10-25T00:00:01-07:00</published><updated>2020-10-25T00:00:01-07:00</updated><id>https://pandasthumb.org/archives/2020/10/does-approach-toward-higher-probability</id><content type="html" xml:base="https://pandasthumb.org/archives/2020/10/does-approach-toward-higher-probability.html">&lt;figure&gt;
 &lt;img src=&quot;/uploads/2020/gf.png&quot; /&gt;
 &lt;/figure&gt;
 
@@ -37,7 +37,7 @@ per base per generation, a fairly high value.
 No matter what the population of sequences is, as mutations accumulate,
 the population proceeds towards its equilibrium.  Each site becomes
 equally likely to have all four bases, and this happens independently
-at all 100 sites.  The equilibrium has all 4^(100), equally frequent.
+at all 100 sites.  The equilibrium has all 4^(100) possible sequences, equally frequent.
 If we were to follow only how many copies of one of the four bases,
 say C, the sequence has, each site has a 25% chance of having a C.  So
 on average there will be 25 Cs.  It will be like coin tosses of a biased
