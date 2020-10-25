@@ -44,7 +44,7 @@ per base per generation, a fairly high value.
 No matter what the population of sequences is, as mutations accumulate,
 the population proceeds towards its equilibrium.  Each site becomes
 equally likely to have all four bases, and this happens independently
-at all 100 sites.  The equilibrium has all 4^(100), equally frequent.
+at all 100 sites.  The equilibrium has all 4^(100) possible sequences, equally frequent.
 If we were to follow only how many copies of one of the four bases,
 say C, the sequence has, each site has a 25% chance of having a C.  So
 on average there will be 25 Cs.  It will be like coin tosses of a biased
