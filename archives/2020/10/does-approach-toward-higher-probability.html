@@ -1,0 +1,226 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Does approach to higher probability block natural selection?</title>
+  
+  <meta property="og:site_name" content="The Panda's Thumb" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Does approach to higher probability block natural selection?" />
+  <meta property="og:url" content="https://pandasthumb.org/archives/2020/10/does-approach-toward-higher-probability.html" />
+  <meta property="og:image" content="https://pandasthumb.org/media/roar.jpg" />
+  <meta property="article:author" content="Joe Felsenstein" />
+  <meta property="article:published_time" content="2020-10-25T00:00:01-07:00" />
+
+
+  <link rel="stylesheet" type='text/css' href="/css/normalize.css" />
+  <link rel="stylesheet" type='text/css' href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic,700italic|Source+Code+Pro:400,700" />
+  <link rel="stylesheet" type='text/css' href="/css/gridism.css" />
+  <link rel="stylesheet" type='text/css' href="/css/style.css" />
+  <link rel="stylesheet" type='text/css' href="/css/github.css" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <script type="text/javascript" src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="https://use.fontawesome.com/e6a24c6dde.js"></script>
+  <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>  
+  <script src="/js/local.js"></script>
+
+</head>
+
+
+<body class="wrap">
+  <div class="grid page-fill"><div></div></div>
+<header class="topbar">
+  <div class="grid no-gutters">
+    <div class="banner unit whole">
+		  <img src="/media/banner.jpg" alt="The Panda's Thumb" />
+    </div>
+    <nav class="main-nav unit whole align-center">
+      <ul>
+<li><a href="/" title="Main Page"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;Main</a></li>
+<li><a href="/archives/index.html" title="Archives"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Archives</a></li>
+<li><a href="/search/search.html" title="Searching Panda's Thumb"><i class="fa fa-search" aria-hidden="true"></i>&nbsp;Search</a></li>
+</ul>
+
+    </nav>
+  </div>
+</header>
+
+
+    <section class="blog">
+    <div class="grid">
+      <div class="unit whole">
+        <article class="blogpost">
+  <header>
+	  <h1><a href="/archives/2020/10/does-approach-toward-higher-probability.html">Does approach to higher probability block natural selection?</a></h1>
+	  <div class="byline"><i class="fa fa-user-circle" aria-hidden="true"></i> By Joe Felsenstein</div>
+	  <div class="attrline"><i class="fa fa-clock-o" aria-hidden="true"></i>
+	  <span><time pubdate="pubdate" datetime="2020-10-25T00:00:01-07:00">October 25, 2020 00:00 MST</time></span>
+	  </div>
+   </header>
+  <figure>
+<img src="/uploads/2020/gf.png" />
+</figure>
+
+<p>In his video, which we have discussed <em>ad nauseam</em> in <a href="https://pandasthumb.org/archives/2020/09/are-evolutionary-biologists-ignoring-science.html">our
+extremely long recent thread</a> he claims that
+scientists are ignoring science when they claim that natural selection can
+result in functional information increasing in the genome.  In the subsequent
+discussion, Champneys insisted that there was a generalized form of the Second
+Law which made such increase impossible, insisted that it applied not just to
+isolated systems but to non-isolated populations of organisms, and that it did
+prevent natural selection from achieving long-term improvement.</p>
+<p>
+In this post, I hope to show a very simple example, and to get away from
+the issue of whether this has anything to do with the Second Law.  If we
+can focus on discussing whether the approach of a stochastic process to its
+equilibrium prevents natural selection from having effect, maybe we
+can avoid having 1,600-plus comments and actually discuss the matter at hand.
+<p>
+Let's try for that focus and relevance.  Surely someone who wants scientists
+to actually grapple with the science must agree with that goal.  Right?  Let's
+see ...
+
+<a class="anchor" id="more"></a>
+
+<strong>The example</strong>
+<p>
+My simple example will be a large population of organisms, haploid ones, for
+simplicity.  We will follow 100 sites in their DNA.  At each site there are four
+possible bases, A, C, G and T.  There will be a simple mutational process
+which changes summetrically among the four possible bases (technically, a
+Jukes-Cantor model of change).  Each base has the same probability of
+mutating, and when it mutates it changes to one of the other three bases,
+chosen at random.  We'll take the probability of mutation to be 0.0001
+per base per generation, a fairly high value.
+<o>
+No matter what the population of sequences is, as mutations accumulate,
+the population proceeds towards its equilibrium.  Each site becomes
+equally likely to have all four bases, and this happens independently
+at all 100 sites.  The equilibrium has all 4^(100), equally frequent.
+If we were to follow only how many copies of one of the four bases,
+say C, the sequence has, each site has a 25% chance of having a C.  So
+on average there will be 25 Cs.  It will be like coin tosses of a biased
+coin, with 100
+tosses, on average 25% of which are Heads.  This is a binomial distribution.  In the
+figure above, it is the orange histogram, which varies around 25.  If
+having lots of Cs were somehow desirable, with only mutation, the
+sequences are stuck in the vicinity of 25, forever.
+<p>
+The process of change of these sequences is a random process (a stochastic
+process), and it has a single equilibrium distribution toward which it
+proceeds.  In technical terminology, this is an ergodic process.
+So far things look as if they follow Mark Champneys' rules.
+<p>
+<strong>With natural selection</strong>
+<p>
+But notice what is left out -- natural selection.  So let's consider
+another case, which puts it in.  Suppose that at a site, having a C
+improves the fitness of the individual by 0.005, which is one part
+in 200, or 0.5%.  And suppose that this happens at all the sites.
+For simplicity we'll suppose that the higher fitness is always
+for C, with all three other bases having the equal, slightly lower fitness.
+The fitnesses at the different sites combine by multiplying.  So
+The fitness of a 100-base genotype is 1.005, raised to the power
+of the number of Cs in those sites.
+<p>
+It will not be a big surprise that Cs increase at each of the
+sites.  I'll leave out the algebra, but can supply it on request.
+Starting out with a population gene frequency of 0.25 at all 100
+sites, the gene freuqncies are always the same at all of the sites,
+but they rise gradually.  After about 5,000 generations. they
+rise almost to 1, settling in to an equailibrium gene frequency
+of 0.9801332.  They don't get all the way to 1, because mutation
+has continued, and Cs keep mutating away from C as well as being
+selected towards it.
+<p>
+In the figure, the result is the green histogram.  There is an
+average of 98.01332 Cs in these 100 sites.  It varies around that
+from genome to genome, just as tosses of 100 coins that have a Heads
+probability of 0.9801332.  It is possible to show that the average
+fitness of genomes in that equilibrium distribution is 1.630472.
+Natural selection shifts the equilibrium distribution dramatically
+to the right.
+<p>
+<strong>Mark Champneys is right (and also wrong)</strong>
+<p>
+Yes, in both of these cases the random process results in an equilibrium
+distribution, toward which the process moves.  But note -- <em>they
+aren't the same distribution in the two cases.</em>  Natural
+selection has a dramatic effect on what the equilibrium
+distribution is.  So the movement towards an equilibrium does
+not mean that natural selection is ineffective.
+<p>
+I will be interested in seeing whether Mark Champneys agrees with
+this.  His video gives the distinct impression that
+both case are expected to have the same equilibrium distribution,
+with natural selection therefore being ineffective.  That would
+seem to require some changes in the video, and some acknowledgement
+that maybe evolutionary biologists are not quite as ignorant
+of science as Mark Champneys said they were.
+
+
+</p></p></p></p></p></p></p></p></o></p></p></p>
+
+</article>
+
+      </div>
+
+   
+<div id="disqus_thread" class="unit whole"></div>
+<script>
+var disqus_config = function () {
+this.page.url = 'https://pandasthumb.org/archives/2020/10/does-approach-toward-higher-probability.html';
+this.page.identifier = '/archives/2020/10/does-approach-toward-higher-probability';
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//the-pandas-thumb.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+
+    </div>
+  </section>
+
+
+  <footer>
+<div class="grid">
+<table bgcolor="204517">
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
+  <div align="left">
+    <p>&nbsp;&nbsp;To see earlier posts, select the Archives at the top of this page</p>
+    <p></p>
+  </div>
+  <div id="RecentComments" class="dsq-widget">
+      <div align="center">
+       <h2>Recent Comments</h2>
+       <P>
+       To see the comment in context of the discussion click on the text that indicates how long ago the comment was posted, such as "2 hours ago".  Then wait for the post and then the comments to load.
+      <P>
+    </div>
+    <div>
+     <script type="text/javascript" src="https://the-pandas-thumb.disqus.com/recent_comments_widget.js?num_items=99&hide_mods=0&hide_avatars=0&avatar_size=32&excerpt_length=100"></script>
+    </div>
+  </div>
+</td></tr>
+  <tr><td></td><td><div class="unit whole">
+      <p>Copyright &copy; The Panda&#8217;s Thumb and original authors &mdash; Content provided under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons BY-NC-ND License 4.0</a>.</p>
+    <p></p>
+    </div>
+    </td></tr>
+  </table>
+  </div>
+  </footer>
+
+  
+
+</body>
+
+</html>
+
+
