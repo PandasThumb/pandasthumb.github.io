@@ -10,7 +10,7 @@ author: 'Joe Felsenstein'
 
 In his video, which we have discussed <em>ad nauseam</em> in <a
 href="https://pandasthumb.org/archives/2020/09/are-evolutionary-biologists-ignoring-science.html">our
-extremely long recent thread</a> he claims that
+extremely long recent thread</a> Mark Champneys claims that
 scientists are ignoring science when they claim that natural selection can
 result in functional information increasing in the genome.  In the subsequent
 discussion, Champneys insisted that there was a generalized form of the Second
