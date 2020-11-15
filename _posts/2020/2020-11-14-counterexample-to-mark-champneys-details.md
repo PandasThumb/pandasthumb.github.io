@@ -61,6 +61,7 @@ the symmetry of the mutational model.  When *s = 0.005*, the equation becomes
 whose positive root is the equilibrium frequency,  *p = 0.980133157*.
 
 
+
 **Simulations showing the effect of genetic drift**
 
 If the 100 sites are far enough apart to have noticeable levels of recombination
@@ -79,9 +80,10 @@ The figure below shows two runs, each with 5 populations, which is equivalent to
 We see the mutational equilibrium in the absence of natural selection on the left,
 and the effect of selection with mutation in the figure on the right.  The smooth blue
 curve shows what would have happened without genetic drift.  With a larger population
-the individual populations would have remained closer to the smooth blue curves.
+the individual sites would have remained closer to the smooth blue curves.
 The 50 individual sites will vary in gene frequency, as these 5 do,  The result will
 be distributions a bit wider than the original  binomial distributions.
+
 
 
 **Without genetic drift**
