@@ -65,7 +65,7 @@ whose positive root is the equilibrium frequency,  *p = 0.980133157*.
 **Simulations showing the effect of genetic drift**
 
 If the 100 sites are far enough apart to have noticeable levels of recombination
-between them, and if their fitnesses combine multiplicatively, then each site can be regarded as evolving independently.  If the population size is not infinite but, say, 20,000 then we can use a single-locus genetic simulation program such as the teaching program PopG produced by my laboratory.  It is a Java application that can be downloaded from the site  [https://evolution.gs.washington.edu/popg/popg.html](https://evolution.gs.washington.edu/popgen.html) at our webserver.
+between them, and if their fitnesses combine multiplicatively, then each site can be regarded as evolving independently.  If the population size is not infinite but, say, 20,000 then we can use a single-locus genetic simulation program such as the teaching program PopG produced by my laboratory.  It is a Java application that can be downloaded from the site  [https://evolution.gs.washington.edu/popg/popg.html](https://evolution.gs.washington.edu/popg/popg.html) at our webserver.
 
 The program is for a diploid population, but by making the diploid population size be
 10,000 and making the fitnesses of the genotypes be powers of *(1+s)*, it will give the same results as a haploid population twice the size and with fitnesses *(1+s) ; 1*.  So I ran the program with 5 independent populations and 10,000 diploid individuals per population, and fitnesses of *AA*, *Aa*, and *aa* of  *1.010025 : 1.005 : 1*, and this is equivalent to having *20,000* haploid individuals with fitnesses *1.005 : 1* for *A* and *a*.  
