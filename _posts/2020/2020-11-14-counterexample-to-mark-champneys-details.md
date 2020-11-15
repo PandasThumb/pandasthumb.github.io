@@ -1,5 +1,5 @@
 ---
-title: 'Counterexample to Mark Champneys' argument about natural selection: more technical details'
+title: 'Counterexample to Mark Champneys\' argument about natural selection: more technical details'
 date: '2020-11-14 00:17:00 -08:00'
 author: 'Joe Felsenstein'
 ---
