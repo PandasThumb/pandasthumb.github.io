@@ -21,6 +21,8 @@ jobs:
 
       - name: install dependencies & build site
         uses: limjh16/jekyll-action-ts@v2
+        env:
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: true
         with:
           enable_cache: true
           ### Enables caching. Similar to https://github.com/actions/cache.
