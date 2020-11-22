@@ -5,7 +5,7 @@ author: 'Joe Felsenstein'
 ---
 
 <figure>
-<img src="/uploads/2020/TeheranGraffitoPaulKeller.png"/>
+<img src="/uploads/2020/TeheranGraffitoPaulKellerA.png"/>
 <caption><small>Street art from Teheran, 2007.  Photo by Paul Keller</small></caption>
 </figure>
 
