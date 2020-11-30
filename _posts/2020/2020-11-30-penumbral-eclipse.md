@@ -5,7 +5,7 @@ author: Matt Young
 ---
 <figure>
 <img src="/uploads/2020/DSC03929_Penumbral_Eclipse_600.jpg" alt=" Penumbral eclipse"/>
-<figcaption> Penumbral eclipse of the moon, 2:40 a. m., November 30, 2002.
+<figcaption> Penumbral eclipse of the moon, 2:40 a. m., November 30, 2020.
 </figcaption>
 </figure>
 
