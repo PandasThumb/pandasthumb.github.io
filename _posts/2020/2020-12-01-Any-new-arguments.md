@@ -15,7 +15,7 @@ So ...
 they're trying, and doing lots of very mathy things, and these can get cited by creationists and other ID advocates as powerful mathy disproofs of the effectiveness of evolutionary processes, as long as no one really looks inside the argument to see what it actually shows.  And so far they have not dotted the i's and crossed the t's in any way that actually argues against natural selection being able to result in
 adaptation.
 <p>
-For posts here at PT on the Dembski/Marks/Ewert "evolutionary algorithms" argument, ad on the relevance of the ASC measure of (non-)complexity see __[here](https://pandasthumb.org/archives/2015/03/fitness-surface.html)__ and __[here](https://pandasthumb.org/archives/2019/12/Is-Algorithmic-Specified-Complexity-Useless-for-Analyzing-Evolution.html)__.
+For posts here at PT on the Dembski/Marks/Ewert "evolutionary algorithms" argument, ad on the relevance of the ASC measure of (non-)complexity see <a href="https://pandasthumb.org/archives/2015/03/fitness-surface.html"><strong>here</strong></a> and <a href="https://pandasthumb.org/archives/2019/12/Is-Algorithmic-Specified-Complexity-Useless-for-Analyzing-Evolution.html"><strong>here</strong></a>.
 <p>
 There's also <a href="https://discourse.peacefulscience.org/t/intelligent-design-1-0-2-0-3-0-and-beyond/12588"><strong>a recent discussion</strong></a> at Josh Swamidass's site Peaceful Science of a video in which Stephen Meyer and Douglas Axe present "ID 3.0". Many of the commenters conclude that it is vaporware.  I must have missed 2.0 as well.
 <p>
