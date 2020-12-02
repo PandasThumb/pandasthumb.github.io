@@ -1,7 +1,7 @@
 ---
-Title: 'Are there any new ID arguments?'
-Date: '2020-12-01 20:00:00 -7:00'
-Author: Joe Felsenstein
+title: 'Are there any new ID arguments?'
+date: '2020-12-01 20:00:00 -7:00'
+author: Joe Felsenstein
 ---
 
 In a discussion of the future of arguments with creationists and/or ID advocates, someone said there were no new arguments from then.  Here is my response, from an email.  It is mostly about the sort of ID arguments that I have paid most attention to.
