@@ -37,5 +37,7 @@ Relatedly, consider what NABT has to say regarding theories:
 The statement that “Scientific theories are supported by extensive evidence” is sometimes true, sometimes untrue, and claims to the contrary will correctly be seen as self-serving and based on circular reasoning. The study of evolution is a research program containing numerous theoretical and observational components, while common descent, which is what is really under discussion here, is not theory, but fact.
 
 _footnotes_: 1] ABT is incorrectly imposing Intrinsic Methodological Naturalism on science as an a priori constraint, whereas it should be using Provisory Methodological Naturalism, in which naturalism emerges from the failure of the supernatural under scientific scrutiny. See How not to attack Intelligent Design Creationism: Philosophical misconceptions about Methodological Naturalism, Maarten Boudry, Stefaan Blancke, Johan Braeckman, Foundations of Science, 15(3), 227–244, 2010; draft publicly available at [https://sites.google.com/site/maartenboudry/teksten-1/methodological-naturalism](https://sites.google.com/site/maartenboudry/teksten-1/methodological-naturalism).
+
 2] 2nd Edition, Intervarsity Press, 1997. The current NABT Statement differs in wording from the one that he is attacking, but not in ways that affect his argument.
+
 _I thank Joe Felsenstein and Maarten Boudry  for useful discussions._
