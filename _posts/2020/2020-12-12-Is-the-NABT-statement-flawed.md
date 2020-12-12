@@ -1,6 +1,6 @@
 ---
 title: 'Is the NABT statement on teaching evolution flawed?'
-date: '2020-12-12 11:59:01 -8:00'
+date: '2020-12-12 09:36:01 -8:00'
 author: 'Paul Braterman'
 ---
 
