@@ -6,7 +6,7 @@ author: 'Paul Braterman and Anj Petto'
 
 <figure>
 <img src="/uploads/2020/SistineDarwinApe.jpg" alt="SistineDarwinApe"/>
-<figcaption><small>Copyright Michaelangelo Buonarotti and anonymous</small>
+<figcaption><small>Copyright Michelangelo di Lodovico Buonarroti Simoni and anonymous</small>
 </figcaption>
 </figure>
 
