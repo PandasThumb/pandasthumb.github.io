@@ -5,6 +5,6 @@ author: Matt Young
 ---
 <figure>
 <img src="/uploads/2020/DSC03943_Foxes_600.jpg" alt="Red foxes"/>
-<figcaption>Pair of red foxes, <a href="https://cpw.state.co.us/fox">Vulpes vulpes</a>, um, enjoying the outdoors. I had to take the picture through a dirty glass window, so the focus is a little soft.
+<figcaption>Pair of red foxes, <a href="https://cpw.state.co.us/fox">Vulpes vulpes</a>, um, enjoying the outdoors. I had to take the picture through a dirty glass window to avoid disturbing them, and I confess to a little image processing.
 </figcaption>
 </figure>
