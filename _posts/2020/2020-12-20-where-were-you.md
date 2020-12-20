@@ -6,7 +6,7 @@ author: Matt Young
 Where were you on December 20, 2005? I was in Cusco, Peru, ...
 <figure>
 <img src="/uploads/2020/IMG_3424_Cusco_Cathedral_600.jpg" alt="Cathedral"/>
-<figcaption><a href="https://en.wikipedia.org/wiki/Cusco_Cathedral"</a>Cusco Cathedral</a>.
+<figcaption><a href="https://en.wikipedia.org/wiki/Cusco_Cathedral">Cusco Cathedral</a>.
 </figcaption>
 </figure>
 
