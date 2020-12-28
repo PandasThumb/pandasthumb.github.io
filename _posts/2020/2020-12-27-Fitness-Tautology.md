@@ -50,7 +50,7 @@ theoretical population genetics that predict long-term outcomes. And we can
 calculate what will happen if fitnesses vary between populations, or vary across generations.</li>
 </ol>
 <p>
-My colleagues in evolutionary biology are not idiots.  They devote a <em>lot</em) of time and effort to measuring fitnesses of different genotypes and phenotypes, and in different populations and in different generations.  Right now "experimental evolution" studies which mutate sequences and then ask how those genotyopes
+  My colleagues in evolutionary biology are not idiots.  They devote a <em>lot</em> of time and effort to measuring fitnesses of different genotypes and phenotypes, and in different populations and in different generations.  Right now "experimental evolution" studies which mutate sequences and then ask how those genotyopes
 change frequency in cultures of yeast are very popular, now that DNA sequencing
 of large samples can be done. These are popular methods for assessing the
 effect of changes in the sequence.  There are good reasons for all of these studies,
