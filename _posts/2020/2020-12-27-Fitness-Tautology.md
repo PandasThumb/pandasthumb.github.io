@@ -6,8 +6,8 @@ author: Joe Felsenstein
 
 <figure>
 <img src="/uploads/2020/mothceiling.png" alt="Image of Moth on ceiling"/>
-<figcaption>A moth (species unknown) on our dining room ceiling,<br> with 
-unsuccessful cryptic coloration</figcaption>
+<figcaption><div align=center>A moth (species unknown) on our dining room ceiling, with 
+unsuccessful cryptic coloration</div></figcaption>
 </figure>
 <p>
 In argument with creationists one often hears the point made, triumphantly,
@@ -25,7 +25,7 @@ But ...
 <p>
 ... it's <em>not</em> a tautology.  First of all, an aside: fitness is not merely "survival".  For some reason creationists are fixated on survival and do not realize that
 evolutionary biologists also count in fitness the expected amount of reproduction of
-those parents that survive.  But that technicality aside..
+those parents that survive.  But that technicality aside ...
 <p>
 I saw on a blog (<a href="http://theskepticalzone.com/wp/is-darwinian-evolution-teleonomic/comment-page-4/#comment-104569">here</a>) a good analogy:
 Is it tautological or circular or meaningless
