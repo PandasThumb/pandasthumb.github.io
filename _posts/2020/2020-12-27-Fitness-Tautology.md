@@ -61,5 +61,5 @@ And in case you need more elaborate philosophical consideration of this issue,
 here are two discussions you can access online:
 <ol>
 <li><a href="http://www.talkorigins.org/faqs/evolphil/tautology.html">John Wilkins's discussion</a> of the charge of tautology at the Talk.Origins Archive site,</li>
-<li>In the Wikipedia article on "Survival of the fittest", <a href="https://en.wikipedia.org/wiki/Survival_of_the_fittest#Tautology">the section on this issue</a></li>`
+<li>In the Wikipedia article on "Survival of the fittest", <a href="https://en.wikipedia.org/wiki/Survival_of_the_fittest#Tautology">the section on this issue</a>.</li>`
 </ol>
