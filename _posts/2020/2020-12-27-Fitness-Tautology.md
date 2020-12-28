@@ -1,12 +1,12 @@
 ---
-Title: 'Is natural selection a meaningless tautology?'
-Date: '2020-12-27 16:45:00 -8:00'
-Author: 'Joe Felsenstein'
+title: 'Is natural selection a meaningless tautology?'
+date: '2020-12-27 16:45:00 -8:00'
+author: Joe Felsenstein
 ---
 
 <figure>
-<img src="/uploads/2020/mothceiling.png" alt="Image of Moth on ceiling">
-<figcaption>A moth (species unknown) on our dining room ceiling, with 
+<img src="/uploads/2020/mothceiling.png" alt="Image of Moth on ceiling"/>
+<figcaption>A moth (species unknown) on our dining room ceiling,<br> with 
 unsuccessful cryptic coloration</figcaption>
 </figure>
 <p>
