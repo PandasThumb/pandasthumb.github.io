@@ -1,6 +1,6 @@
 ---
 Title: 'Is natural selection a meaningless tautology?'
-Date: '2020-12-27 08:00:00 -8:00'
+Date: '2020-12-27 16:45:00 -8:00'
 Author: 'Joe Felsenstein'
 ---
 
