@@ -4,7 +4,7 @@ date: '2020-12-29 13:05:00 -07:00'
 author: Matt Young
 ---
 <figure>
-<img src="/uploads/2020/Lents_Swamidass_900.jpg" alt="Venn diagram"/>
+<img src="/uploads/2020/Lents_Swamidass_1200.jpg" alt="Venn diagram"/>
 </figure>
 
 
