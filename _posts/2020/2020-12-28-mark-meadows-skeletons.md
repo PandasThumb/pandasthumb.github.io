@@ -1,6 +1,6 @@
 ---
-title: 'Dummy'
-date: '2020-12-29 16:50:00 -07:00'
+title: 'Mark Meadows and his skeletons'
+date: '2020-12-28 17:00:00 -07:00'
 author: Matt Young
 ---
 <figure>
@@ -19,7 +19,7 @@ That was a bit anodyne. In fact, according to an [article In Salon](https://www.
 
 according to a press release from paleontologist Daniel Phelps.
 
-It gets worse. According to the Salon article, besides involving his 9-year-old daughter in some kind of apparent fraud, Mr. Meadows
+According to the Salon article, besides involving his 9-year-old daughter in some kind of apparent fraud, Mr. Meadows
 
 >had since at least 2018 apparently failed to disclose a loan and monthly income of $11,000 related to the sale of a deed to a Colorado fossil park dedicated to promoting the creationist fiction that humans coexisted with dinosaurs.
 
