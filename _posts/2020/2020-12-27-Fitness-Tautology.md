@@ -6,9 +6,9 @@ author: Joe Felsenstein
 
 <figure>
 <img src="/uploads/2020/mothceiling.png" alt="Image of Moth on ceiling"/>
-<figcaption><div align=center>A moth on our dining room ceiling, with<br>
-unsuccessful cryptic coloration -- most likely
- a geometrid moth<br> of the tribe Hydriomenini, perhaps the Tissue Moth,<br> <em>Triphosa haesitata</em> (thanks to John Morgan and Matt Young for the leads)</div></figcaption>
+<figcaption><div align=center>A moth on our dining room ceiling, with
+ unsuccessful<br> cryptic coloration -- most likely
+ a geometrid moth of the tribe Hydriomenini,<br> perhaps the Tissue Moth, <em>Triphosa haesitata</em><br> (thanks to John Morgan and Matt Young for the leads)</div></figcaption>
 </figure>
 <p>
 In argument with creationists one often hears the point made, triumphantly,
