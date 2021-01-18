@@ -5,7 +5,7 @@ author: S. Joshua Swamidass
 ---
 <figure>
 <img src="/uploads/2021/ML_King_600.jpg" alt="Martin Luther King, Jr."/>
-<figcaption>[Rev. Martin Luther King, Jr.](https://abc7news.com/mlk-martin-luther-king-jr-nobel-prize-lecture/1163922/) delivering his Nobel Peace Prize acceptance speech. <small>ABC News, Channel 7, San Francisco; Associated Press.</small>
+<figcaption><a href="https://abc7news.com/mlk-martin-luther-king-jr-nobel-prize-lecture/1163922/">Rev. Martin Luther King, Jr.</a> delivering his Nobel Peace Prize acceptance speech. <small>ABC News, Channel 7, San Francisco; Associated Press.</small>
 </figcaption>
 </figure>
 
