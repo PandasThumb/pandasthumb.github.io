@@ -7,7 +7,7 @@ author: Matt Young
 Photograph by **Dan Phelps**.
 
 <figure>
-<img src="/uploads/2021/DSC01175_Pentatomidae_600.jpg" alt="Pentatomidae"/>
+<img src="/uploads/2021/Phelps_Meteorite_600.jpg" alt="Meteorite"/>
 <figcaption>
 </figcaption>
 </figure>
