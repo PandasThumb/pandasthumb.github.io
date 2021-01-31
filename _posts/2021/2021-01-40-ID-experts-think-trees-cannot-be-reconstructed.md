@@ -6,7 +6,7 @@ author: 'Joe Felsenstein'
 
 <figure>
 <img src="/uploads/2021/Seedplants.jpg"/>
-<figcaption> <tiny>One of the figures from Louca and Pennell's 2020 paper.  From the Bioarxiv server, courtesy of Matt Pennell.</tiny></figcaption>
+<figcaption> <tiny>One of the figures from Louca and Pennell's 2020 paper.  From the Biorxiv server, courtesy of Matt Pennell.</tiny></figcaption>
 </figure>
 
 <p>
