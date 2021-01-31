@@ -1,4 +1,83 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://pandasthumb.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pandasthumb.org/" rel="alternate" type="text/html" /><updated>2021-01-30T20:36:08-07:00</updated><id>https://pandasthumb.org/feed.xml</id><title type="html">The Panda’s Thumb</title><entry><title type="html">Some Assembly Required: book review</title><link href="https://pandasthumb.org/archives/2021/01/some-assembly-required.html" rel="alternate" type="text/html" title="Some Assembly Required: book review" /><published>2021-01-21T14:40:00-07:00</published><updated>2021-01-21T14:40:00-07:00</updated><id>https://pandasthumb.org/archives/2021/01/some-assembly-required</id><content type="html" xml:base="https://pandasthumb.org/archives/2021/01/some-assembly-required.html">&lt;figure&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://pandasthumb.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pandasthumb.org/" rel="alternate" type="text/html" /><updated>2021-01-30T20:37:42-07:00</updated><id>https://pandasthumb.org/feed.xml</id><title type="html">The Panda’s Thumb</title><entry><title type="html">Report: ID experts mistakenly think evolutionary trees cannot be reconstructed</title><link href="https://pandasthumb.org/archives/2021/01/ID-experts-think-trees-cannot-be-reconstructed.html" rel="alternate" type="text/html" title="Report: ID experts mistakenly think evolutionary trees cannot be reconstructed" /><published>2021-01-30T16:00:00-07:00</published><updated>2021-01-30T16:00:00-07:00</updated><id>https://pandasthumb.org/archives/2021/01/ID-experts-think-trees-cannot-be-reconstructed</id><content type="html" xml:base="https://pandasthumb.org/archives/2021/01/ID-experts-think-trees-cannot-be-reconstructed.html">&lt;figure&gt;
+&lt;img src=&quot;/uploads/2021/Seedplants.jpg&quot; /&gt;
+&lt;figcaption&gt; &lt;tiny&gt;One of the figures from Louca and Pennell's 2020 paper.  From the Bioarxiv server, courtesy of Matt Pennell.&lt;/tiny&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;
+It is rather easy to find examples of misconceptions about evolution and misinterpretations of scientific results. All you need to do is look at the latest articles at the Discovery Institute's site &quot;Evolution News &amp;amp; Science Today&quot;.  Case in point: their take on a recent paper by Stilianos Louca and Matt Pennell in &lt;em&gt;Nature&lt;/em&gt; last spring.  The paper is
+this one:
+
+Louca, S. and Pennell, MW. (2020). Extant timetrees are consistent with a myriad of diversification histories. &lt;em&gt;Nature&lt;/em&gt;  
+&lt;a href=&quot;https://doi:10.1038/s41586-020-2176-1&quot;&gt;doi:10.1038/s41586-020-2176-1&lt;/a&gt;
+
+It ius behind a paywall, but the preprint version of the paper is
+freely available at the Biorxiv preprint server here:
+
+&lt;a href=&quot;https://www.biorxiv.org/content/10.1101/719435v2.full&quot;&gt;
+https://www.biorxiv.org/content/10.1101/719435v2.full&lt;/a&gt;
+
+The Discovery Institute's site is quite excited about this paper.  Their
+report on 21 January (&lt;a href=&quot;https://evolutionnews.org/2021/01/controversy-arising-timetrees-unconstrained/&quot;&gt;here&lt;/a&gt;) announced that the paper announced something very dramatic:
+
+&lt;blockquote&gt; Two theorists have caused a stir in evolutionary circles, claiming to have proven that Darwinian phylogeny efforts (tree-building) cannot be constrained to one “best” answer. In fact, any proposed tree is no better than an infinity of other trees. They can’t see the tree for the forest.  &lt;/blockquote&gt;
+
+Now if true, this would call phylogenies (evolutionary trees) seriously
+into question.  Can it be that Louca and Pennell have undermined the
+foundation of reconstruction of evolutionary trees?  Or is it possible
+instead that the folks at EN&amp;amp;&amp;amp;ST have misread Louca and Pennell's paper?
+
+Guess which is more likely? ...
+&lt;!--more--&gt;
+(no points for guessing from the title of this post that it is the EN&amp;amp;ST people who are wrong)
+&lt;p&gt;
+&lt;strong&gt;What the paper's authors assert&lt;/strong&gt;
+&lt;p&gt;
+Reading the Conlusions of the Louca and Pennell paper, we immediately see that
+&lt;blockquote&gt;
+We have shown that for virtually any candidate birth-death process, suspected of having generated some extant timetree, there exists an infinite number of alternative and markedly dierent birth-death processes that could have generated the timetree with the same likelihood. Without further information or prior constraints on plausible diversification scenarios, extant timetrees alone cannot be used to reliably infer speciation rates (except at present-day), extinction rates or net diversification rates, raising serious doubts over a multitude of previous estimates of past diversification dynamics.
+&lt;/blockquote&gt;
+
+In other words, the authors have a timetree, a tree for a set of species, with the
+branching events on a time scale.  Their assumption is actually that the tree is entirely correct -- they are then evaluating from it what are the underlying rates of speciation (&quot;birth&quot; rates of lineages) and extinction (&quot;death rates&quot; of lineages). These rates are the &quot;diversification
+scenario&quot;, not the tree itself.  Louca and Pennell argue that any one true tree is compatible with many different birth-death processes, and does not distinguish between them.
+&lt;p&gt;
+This is a somewhat shocking result, as it does call into question our ability to 
+use a correct tree to infer the birth and death rates of lineages.  
+&lt;p&gt;
+&lt;strong&gt;What the Discovery Institute thought the paper meant&lt;/strong&gt;
+&lt;p&gt;
+Reading the coverage in Evolution News and Science Today, you'd get a very different impression: the paper is supposed to show that we cannot tell the difference between
+phylogenies from the usual biological data used to infer them.  The paper does not
+at all say that -- it says that the inferences that can be drawn from an entirely-correct tree do not specify the underlying speciation and extinction rates as narrowly as
+previously thought.
+&lt;p&gt;
+EN&amp;amp;ST quotes the University of Oregon press release about the paper.  It does get
+the issue wrong, talking about &quot;flawa in how scientists build trees of life&quot; and how there are limits on how scientists can &quot;reconstruct evolution's path&quot;.  But the &quot;path&quot;
+referred to is not the timetree itself -- it is the combinations of underlying birth and death rates of species that are compatibile with the correct tree.
+&lt;p&gt;
+&lt;strong&gt; Uncommon Descent chimes in &lt;/strong&gt;
+&lt;p&gt;
+The website Uncommon Descent, which is a cheering section for the Discovery Institute, of course cheered the DI's interpretation.  The UD post is signed by their commentator News, who is identified by UD as being Denyse O'Leary.  She is paid to generate posts for discussion there.  O'Leary, a skilled specialist in invective,
+has some oft-repeated themes:
+&lt;ul&gt;
+&lt;li&gt; Science is mostly wrong, and so cannot be trusted, as demonstrated by publication scandals, failures of the
+peer review process, failure to replicate statistically significant results, and particularly by scientists finding unexpected results of any kind.
+&lt;li&gt; Scientific results, particularly any unexpected ones, show that &quot;Darwinism&quot; is wrong, and they can entirely be trusted when they do that.
+&amp;lt;/ul&amp;gt;
+
+Even though UD lately has been spending most of its time on arguing that the U.S. presidential elections were
+rigged, that the Covid-19 pandemic will not be serious and that hydroxyquinone is all that is needed, that Quantum Mechanics and Relativity validate the Shroud of Turin, that
+consciousness cannot possibly be explained by evolution, that G&amp;ouml;del's mathematics proves the existence of God, etc., they did deign to take time out from these extraordinary efforts to
+cheer &quot;News&quot; when she said that &quot;Darwinian timetrees don't really work&quot;, and that they are &quot;deeply flawed&quot;.  
+&lt;p&gt;
+In the ensuing discussion, commenter Orthomyxo repeatedly calls their attention to what the Louca and Pennell paper actually is about, that the EN&amp;amp;ST conclusion was not warranted, that the timetrees in Luca and Pennell's paper were in fact being taken as completely correct, and that the questions
+Louca and Pennell raised were only about what could be known from correct trees about underlying birth-death rates.
+&lt;p&gt;
+But they will have none of it, pointing to the EN&amp;amp;ST post and to the University of Oregon press release, which appears to support that post.  None of them check Orthomyxo's assertions by actually going back to read the Louca and Pennell paper.  UD's commenters EDTA, Martin_r, PaV, Ralph David Westfall, ET, and EugeneS pile on, Orthomyxo sounding inreasingly astonished at their obtuseness.  In the last few comments the UD commenters fall back on taunting Orthomyxo about the obvious election conspiracy and the falseness of official statements about the Covid-19 pandemic.
+&lt;p&gt;
+Which is an ironic coda to their total misunderstandings about the Louca and Pennell paper.
+
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;</content><author><name>Joe Felsenstein</name></author><summary type="html">One of the figures from Louca and Pennell's 2020 paper. From the Bioarxiv server, courtesy of Matt Pennell. It is rather easy to find examples of misconceptions about evolution and misinterpretations of scientific results. All you need to do is look at the latest articles at the Discovery Institute's site &quot;Evolution News &amp;amp; Science Today&quot;. Case in point: their take on a recent paper by Stilianos Louca and Matt Pennell in Nature last spring. The paper is this one: Louca, S. and Pennell, MW. (2020). Extant timetrees are consistent with a myriad of diversification histories. Nature doi:10.1038/s41586-020-2176-1 It ius behind a paywall, but the preprint version of the paper is freely available at the Biorxiv preprint server here: https://www.biorxiv.org/content/10.1101/719435v2.full The Discovery Institute's site is quite excited about this paper. Their report on 21 January (here) announced that the paper announced something very dramatic: Two theorists have caused a stir in evolutionary circles, claiming to have proven that Darwinian phylogeny efforts (tree-building) cannot be constrained to one “best” answer. In fact, any proposed tree is no better than an infinity of other trees. They can’t see the tree for the forest. Now if true, this would call phylogenies (evolutionary trees) seriously into question. Can it be that Louca and Pennell have undermined the foundation of reconstruction of evolutionary trees? Or is it possible instead that the folks at EN&amp;amp;&amp;amp;ST have misread Louca and Pennell's paper? Guess which is more likely? ...</summary></entry><entry><title type="html">Some Assembly Required: book review</title><link href="https://pandasthumb.org/archives/2021/01/some-assembly-required.html" rel="alternate" type="text/html" title="Some Assembly Required: book review" /><published>2021-01-21T14:40:00-07:00</published><updated>2021-01-21T14:40:00-07:00</updated><id>https://pandasthumb.org/archives/2021/01/some-assembly-required</id><content type="html" xml:base="https://pandasthumb.org/archives/2021/01/some-assembly-required.html">&lt;figure&gt;
 &lt;img src=&quot;/uploads/2021/Shubin_Cover.jpg&quot; alt=&quot;Book cover&quot; /&gt;
 &lt;figcaption&gt;
 &lt;/figcaption&gt;
@@ -276,21 +355,4 @@ here are two discussions you can access online:
 &lt;img src=&quot;/uploads/2020/DSC03959_Cropped_600.jpg&quot; alt=&quot;Jupiter, Saturn, and the Moon&quot; /&gt;
 &lt;figcaption&gt;The &lt;a href=&quot;https://www.nasa.gov/feature/the-great-conjunction-of-jupiter-and-saturn&quot;&gt;conjunction&lt;/a&gt; of Jupiter and Saturn will be seen tonight if the sky is clear. But the Moon cooperated better a few days ago, on December 18. Directly above, you can see Jupiter and, slightly above Jupiter, a dimmer Saturn.
 &lt;/figcaption&gt;
-&lt;/figure&gt;</content><author><name>Matt Young</name></author><summary type="html">The conjunction of Jupiter and Saturn will be seen tonight if the sky is clear. But the Moon cooperated better a few days ago, on December 18. Directly above, you can see Jupiter and, slightly above Jupiter, a dimmer Saturn.</summary></entry><entry><title type="html">Where were you on December 20, 2005?</title><link href="https://pandasthumb.org/archives/2020/12/where-were-you.html" rel="alternate" type="text/html" title="Where were you on December 20, 2005?" /><published>2020-12-20T08:00:00-07:00</published><updated>2020-12-20T08:00:00-07:00</updated><id>https://pandasthumb.org/archives/2020/12/where-were-you</id><content type="html" xml:base="https://pandasthumb.org/archives/2020/12/where-were-you.html">&lt;p&gt;Where were you on December 20, 2005? I was in Cusco, Peru, …&lt;/p&gt;
-&lt;figure&gt;
-&lt;img src=&quot;/uploads/2020/IMG_3424_Cusco_Cathedral_600.jpg&quot; alt=&quot;Cathedral&quot; /&gt;
-&lt;figcaption&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Cusco_Cathedral&quot;&gt;Cusco Cathedral&lt;/a&gt;.
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;… with a handful of others, when we entered a hotel, foraging for coffee. Immediately, a copy of the day’s &lt;a href=&quot;https://timesdigest.com/&quot;&gt;Times Digest&lt;/a&gt; bearing this headline …&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img src=&quot;/uploads/2020/Dover_Pic_Montage.jpg&quot; alt=&quot;Newspaper clipping&quot; /&gt;
-&lt;figcaption&gt;&lt;a href=&quot;https://www.nytimes.com/2005/12/20/education/judge-bars-intelligent-design-from-pa-classes.html&quot;&gt;Article in the New York Times&lt;/a&gt; by Laurie Goodstein on December 20, 2005.
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;… or some approximation thereto positively leaped off a table and into my hand, and screamed, “&lt;em&gt;We won in Dover!&lt;/em&gt;”&lt;/p&gt;
-
-&lt;p&gt;Where were you that day? What were you doing when you heard the news? Let us know in the comments.&lt;/p&gt;</content><author><name>Matt Young</name></author><summary type="html">Where were you on December 20, 2005? I was in Cusco, Peru, … Cusco Cathedral. … with a handful of others, when we entered a hotel, foraging for coffee. Immediately, a copy of the day’s Times Digest bearing this headline … Article in the New York Times by Laurie Goodstein on December 20, 2005. … or some approximation thereto positively leaped off a table and into my hand, and screamed, “We won in Dover!” Where were you that day? What were you doing when you heard the news? Let us know in the comments.</summary></entry></feed>
+&lt;/figure&gt;</content><author><name>Matt Young</name></author><summary type="html">The conjunction of Jupiter and Saturn will be seen tonight if the sky is clear. But the Moon cooperated better a few days ago, on December 18. Directly above, you can see Jupiter and, slightly above Jupiter, a dimmer Saturn.</summary></entry></feed>
