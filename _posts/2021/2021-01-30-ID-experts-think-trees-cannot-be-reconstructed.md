@@ -59,7 +59,7 @@ referred to is not the timetree itself -- it is the combinations of underlying b
 <p>
 <strong> Uncommon Descent chimes in </strong>
 <p>
-The website Uncommon Descent, which is a cheering section for the Discovery Institute, of course cheered the DI's interpretation.  The UD post is signed by their commentator News, who is identified by UD as being Denyse O'Leary.  She is paid to generate posts for discussion there.  O'Leary, a skilled specialist in invective,
+The website Uncommon Descent, which is a cheering section for the Discovery Institute, of course cheered the DI's interpretation (in a post <a href="https://uncommondescent.com/intelligent-design/darwinian-time-trees-dont-really-work/">here</a>). The UD post is signed by their commentator News, who is identified by UD as being Denyse O'Leary.  She is paid to generate posts for discussion there.  O'Leary, a skilled specialist in invective,
 has some oft-repeated themes:
 <ul>
 <li> Science is mostly wrong, and so cannot be trusted, as demonstrated by publication scandals, failures of the
