@@ -34,7 +34,7 @@ Guess which is more likely? ...
 <P>
 <strong>What the paper's authors assert</strong>
 <P>
-Reading the Conlusions of the Louca and Pennell paper, we immediately see that
+Reading the Conclusions of the Louca and Pennell paper, we immediately see that
 <blockquote>
 We have shown that for virtually any candidate birth-death process, suspected of having generated some extant timetree, there exists an infinite number of alternative and markedly dierent birth-death processes that could have generated the timetree with the same likelihood. Without further information or prior constraints on plausible diversification scenarios, extant timetrees alone cannot be used to reliably infer speciation rates (except at present-day), extinction rates or net diversification rates, raising serious doubts over a multitude of previous estimates of past diversification dynamics.
 </blockquote>
