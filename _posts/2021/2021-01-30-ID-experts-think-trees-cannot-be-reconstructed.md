@@ -53,7 +53,7 @@ phylogenies from the usual biological data used to infer them.  The paper does n
 at all say that -- it says that the inferences that can be drawn from an entirely-correct tree do not specify the underlying speciation and extinction rates as narrowly as
 previously thought.
 <p>
-EN&amp;ST quotes the University of Oregon press release about the paper.  It does get
+EN&amp;ST quotes the University of Oregon press release about the paper.  The U of O press release does get
 the issue wrong, talking about "flaws in how scientists build trees of life" and how there are limits on how scientists can "reconstruct evolution's path".  But the "path"
 referred to is not the timetree itself -- it is the combinations of underlying birth and death rates of species that are compatibile with the correct tree.
 <p>
