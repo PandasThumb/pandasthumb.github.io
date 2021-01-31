@@ -63,8 +63,8 @@ The website Uncommon Descent, which is a cheering section for the Discovery Inst
 has some oft-repeated themes:
 <ul>
 <li> Science is mostly wrong, and so cannot be trusted, as demonstrated by publication scandals, failures of the
-peer review process, failure to replicate statistically significant results, and particularly by scientists finding unexpected results of any kind.
-<li> Scientific results, particularly any unexpected ones, show that "Darwinism" is wrong, and they can entirely be trusted when they do that.
+peer review process, failure to replicate statistically significant results, and particularly by scientists finding unexpected results of any kind.</li>
+<li> Scientific results, particularly any unexpected ones, show that "Darwinism" is wrong, and they can entirely be trusted when they do that.</li>
 </ul>
 
 Even though UD lately has been spending most of its time on arguing that the U.S. presidential elections were
