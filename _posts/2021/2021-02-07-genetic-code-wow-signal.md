@@ -1,5 +1,6 @@
 ---
-title: 'Does the genetic code reveal a Wow! signal?&newline;A team of scientists claim evidence for &quot;intelligent design&quot;'
+title: 'Does the genetic code reveal a Wow! signal?: 
+A team of scientists claim evidence for &quot;intelligent design&quot;'
 date: '2021-02-07 16:28:00 -07:00'
 author: Martin Neukamm
 ---
