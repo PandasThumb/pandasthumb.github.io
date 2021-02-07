@@ -1,6 +1,6 @@
 ---
-title: 'We Believe in Dinosaurs on YouTube'
-date: '2022-02-07 10:40:00 -07:00'
+title: 'We Believe in Dinosaurs <i>Not</i> on YouTube'
+date: '2021-02-07 10:40:00 -07:00'
 author: Matt Young
 ---
 
@@ -24,10 +24,12 @@ Some of them obviously watched it, some plainly did not, and some read into it w
 
 <!--more-->
 
->I initially decided not to review this splendid movie. I am penpals with two of its principal subjects, David MacMillan and Dan Phelps, and was peripherally involved with promoting the movie, as when I detailed its progress in The Panda's Thumb blog. The film has been well received by critics and initially earned a respectable number of 5-star reviews here. Since early July, however, a number of 1-star reviews began to show up, many of them one-liners by people who had probably never seen the film and others that are simply irrelevant to the actual film. In short, these reviews suggest the possibility of a coordinated effort to lower the average rating.
+>I initially decided not to review this splendid movie. I am penpals with two of its principal subjects, David MacMillan and Dan Phelps, and was peripherally involved with promoting the movie, as when I detailed its progress in The Panda's Thumb blog. The film has been well received by critics and initially earned a respectable number of 5-star reviews here [on Amazon]. Since early July, however, a number of 1-star reviews began to show up, many of them one-liners by people who had probably never seen the film and others that are simply irrelevant to the actual film. In short, these reviews suggest the possibility of a coordinated effort to lower the average rating.
 
 
 >I thought that the film was an excellent documentary, clear and evenhanded. The film shows how hard and irrefutable evidence forced David MacMillan to evolve from a young-earth creationist and a charter member of the Creation Museum to a scientist, though he remains a committed Christian (contrary to at least one review). Doug Henderson, a lead designer for the Ark is a dedicated creationist who seems to think that he is doing God's work; he is shown with at least as much sympathy as is given to MacMillan. So are the merchants of downtown Williamstown, which was left desolate after the Ark opened.
 
 
 >This movie is not a hatchet job on the Ark Encounter, creationism, Ken Ham, Christianity, or anything else. It is not a liberal screed, much less an atheist screed. It is a fair depiction of the design, construction, and (shall we say) chaotic opening of the Ark. You may buy it or rent it here, or see it in slightly abridged form on PBS's Independent Lens, provided that you are a member of a local station. Watch it for yourself and do not believe any overwrought depictions in 1-star reviews.
+
+<small>Revised 2:10 MST.</small>
