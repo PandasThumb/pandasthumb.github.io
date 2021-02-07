@@ -12,6 +12,7 @@ author: Matt Young
 
 <strike>We received an e-mail today from our penpal Dan Phelps, informing us that the Independent Lens version of We Believe In Dinosaurs is available on YouTube [link removed]. Mr. Phelps asks that we</strike>
 
+
 Oh dear, we jumped on this message too fast. Mr. Phelps now tells us,
 
 >It looks as if the site is a well-done fake. Please don’t promote it. The copyright people at the distribution company are on it.
