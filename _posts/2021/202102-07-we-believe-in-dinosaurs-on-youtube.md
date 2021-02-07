@@ -1,6 +1,6 @@
 ---
 title: 'We Believe in Dinosaurs on YouTube'
-date: '2021-02-07 12:00:00 -07:00'
+date: '2021-02-07 10:40:00 -07:00'
 author: Matt Young
 ---
 
