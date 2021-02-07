@@ -98,7 +98,7 @@ To make matters worse, this formal H transfer would lead to an impossible molecu
 </figcaption>
 </figure>
 
-<i>Martin Neukamm is a German chemist and managing editor of the “AG Evolutionsbiologie” (www.ag-evolutionsbiologie.de), a German scientific association that deals with evolutionary biology and creationism. He has published various articles and books on evolution and creationism in the German language. Matt Young is the moderator of this post.</i>
+
 #####The power of numerology
 
 
@@ -121,3 +121,5 @@ In a word, the approach of shCherbak and Makukov is pure number mysticism. They 
 
 
 The mathematician Underwood Dudley (1997) shows in his book [Numerology](https://www.amazon.com/Numerology-What-Pythagoras-Wrought-Spectrum/dp/0883855240) in an entertaining way what nonsense can be done with such number games.
+
+<i>Martin Neukamm is a German chemist and managing editor of the “AG Evolutionsbiologie” (www.ag-evolutionsbiologie.de), a German scientific association that deals with evolutionary biology and creationism. He has published various articles and books on evolution and creationism in the German language. Matt Young is the moderator of this post.</i>
