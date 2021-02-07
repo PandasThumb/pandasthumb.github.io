@@ -1,6 +1,6 @@
 ---
 title: 'We Believe in Dinosaurs on YouTube'
-date: '2021-02-07 10:40:00 -07:00'
+date: '2022-02-07 10:40:00 -07:00'
 author: Matt Young
 ---
 
@@ -10,7 +10,13 @@ author: Matt Young
 </figcaption>
 </figure>
 
-We received an e-mail today from our penpal Dan Phelps, informing us that the Independent Lens version of [We Believe In Dinosaurs is available on YouTube](https://youtu.be/KeSNADFCT0E). Mr. Phelps asks that we
+<strike>We received an e-mail today from our penpal Dan Phelps, informing us that the Independent Lens version of We Believe In Dinosaurs is available on YouTube [link removed]. Mr. Phelps asks that we</strike>
+
+Oh dear, we jumped on this message too fast. Mr. Phelps now tells us,
+
+>It looks as if the site is a well-done fake. Please don’t promote it. The copyright people at the distribution company are on it.
+
+You may still, however,
 
 >[c]onsider [rating it on Amazon](https://www.amazon.com/gp/aw/reviews/B081S9Y898) since creationists have been leaving inaccurate and negative reviews there misrepresenting the film indicating they probably didn’t watch it.
 
