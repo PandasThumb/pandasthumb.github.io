@@ -1,5 +1,5 @@
 ---
-title: 'Does the genetic code reveal a Wow! signal?: 
+title: 'Does the genetic code reveal a Wow! signal?<br/>
 A team of scientists claim evidence for &quot;intelligent design&quot;'
 date: '2021-02-07 16:28:00 -07:00'
 author: Martin Neukamm
@@ -61,7 +61,7 @@ According to the authors, the frequent appearance of “37”, the emergence of 
 </figcaption>
 </figure>
 
-[Prothero and Callahan](https://www.amazon.com/UFOs-Chemtrails-Aliens-What-Science/dp/025302692X) (p. 127) note that the approach of the authors shows clear similarities with the method of the so-called Bible code", which is as also called *equidistant letter spacing* (ELS). It serves to track down presumed “hidden messages” and prophecies in biblical texts. How does this method work? 
+[Prothero and Callahan](https://www.amazon.com/UFOs-Chemtrails-Aliens-What-Science/dp/025302692X) (p. 127) note that the approach of the authors shows clear similarities with the method of the so-called Bible code, which is as also called *equidistant letter spacing* (ELS). It serves to track down presumed “hidden messages” and prophecies in biblical texts. How does this method work? 
 
 
 To recognize the “message”, a rectangular grid with a constant but arbitrary number of columns and rows is placed over the text, and a freely selectable number of letters is skipped from a starting point in the horizontal and vertical direction. Then meaningful words or word constellations are sought (Fig. 3). According to this method, world historical events such as the Holocaust or 9/11 are said to have been predicted.
