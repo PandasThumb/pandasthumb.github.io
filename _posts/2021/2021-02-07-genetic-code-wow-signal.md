@@ -57,7 +57,7 @@ According to the authors, the frequent appearance of “37”, the emergence of 
 
 <figure>
 <img src="/uploads/2021/Neukamm_Figure_3.jpg" alt="Bible code"/>
-<figcaption>Fig. 3. The Bible Code. For detailed explanations see text. <small>Source: https://de.wikipedia.org/wiki/Bibelcode. See  also [here](https://www.amazon.com/No-Sense-Obligation-Religion-Impersonal/dp/0759610894/), pp. 102-104.</small>
+<figcaption>Fig. 3. The Bible Code. For detailed explanations see text. <small>Source: https://de.wikipedia.org/wiki/Bibelcode. See  also <a href="https://www.amazon.com/No-Sense-Obligation-Religion-Impersonal/dp/0759610894/">here</a>, pp. 102-104.</small>
 </figcaption>
 </figure>
 
