@@ -14,5 +14,5 @@ Photography Contest, **Honorable Mention**.
 </figcaption>
 </figure><br/>
 
-We are posting this picture now in honor of <a href="https://darwinday.org/events/?action=tribe_list&tribe_paged=1&tribe_event_display=list&tribe-bar-date=2021-02-01">Darwin Day</a>, which was Friday, and <a href="http://theclergyletterproject.org/rel_evolution_weekend_2021.html">Evolution Weekend</a>. There were not a great many events, but <a href="https://darwinday.org/events/?action=tribe_list&tribe_paged=1&tribe_event_display=list&tribe-bar-date=2022-02-01">wait till next year</a>!
+We are posting this picture now in honor of <a href="https://darwinday.org/events/?action=tribe_list&tribe_paged=1&tribe_event_display=list&tribe-bar-date=2021-02-01">Darwin Day</a>, which was Friday, and <a href="http://theclergyletterproject.org/rel_evolution_weekend_2021.html">Evolution Weekend</a>. There were not a great many events, presumably due to the pandemic, but <a href="https://darwinday.org/events/?action=tribe_list&tribe_paged=1&tribe_event_display=list&tribe-bar-date=2022-02-01">wait till next year</a>!
 
