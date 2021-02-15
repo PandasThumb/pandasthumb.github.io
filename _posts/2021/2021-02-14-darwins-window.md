@@ -10,7 +10,7 @@ Photography Contest, **Honorable Mention**.
 
 <figure>
 <img src="/uploads/2021/Rintoul.darwins_window_4976.jpg" alt="Darwin's Window"/>
-  <figcaption>Mr. Rintouls writes, "Darwin's Window is the local name for a sea arch in an ancient cinder/ash cone known as Cerro Brujo (Hill of the Sorcerer), on the northwest-facing side of San Cristobal in the Galapagos Archipelago. The view through this arch includes three common noddies (<i>Anous stolidus</i>, aka brown noddy) as well as a formation known as Kicker Rock. Darwin landed on San Cristobal during his time in the Galapagos, and this formation (along with Darwin's Bay, where he allegedly landed) is named in his honor. More information at http://www.galapagos.org/about_galapagos/about-galapagos/the-islands/san-cristobal/."
+  <figcaption>Mr. Rintoul writes, "Darwin's Window is the local name for a sea arch in an ancient cinder/ash cone known as Cerro Brujo (Hill of the Sorcerer), on the northwest-facing side of San Cristobal in the Galapagos Archipelago. The view through this arch includes three common noddies (<i>Anous stolidus</i>, aka brown noddy) as well as a formation known as Kicker Rock. Darwin landed on San Cristobal during his time in the Galapagos, and this formation (along with Darwin's Bay, where he allegedly landed) is named in his honor. More information at http://www.galapagos.org/about_galapagos/about-galapagos/the-islands/san-cristobal/."
 </figcaption>
 </figure><br/>
 
