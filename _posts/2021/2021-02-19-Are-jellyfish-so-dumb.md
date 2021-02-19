@@ -6,12 +6,12 @@ Author: Joe Felsenstein
 
 <figure>
 <img src="/uploads/2021/AureliaEkranoplan.jpg">
-<figcaption>The moon jelly <em>Aurelia aurita</em> and a Russian Soviet-era Ekranoplan ground-effect craft, the A-90 Orlyonok.  Both images courtesy of Wikimedia Commons under the Creative Commons license.</figcaption>
+<figcaption><small>The moon jelly <em>Aurelia aurita</em> and a Russian Soviet-era Ekranoplan ground-effect craft, the A-90 Orlyonok.  Both images courtesy of Wikimedia Commons under the Creative Commons license.</small></figcaption>
 </figure>
 
-An interesting report in this paper:
+An interesting report in this paper:<br/>
 Gemmell, Brad J., Kevin T. Du Clos, Sean P. Colin, Kelly R. Sutherland and John H. Costello.  2021. The most efficient metazoan swimmer creates a 'virtual wall' to enhance performance.  Proceedings of the Royal Society B (Biological Sciences)  
-[http://doi.org/rspb.20202494](http://doi.org/rspb.20202494)
+[http://doi.org/rspb.20202494](http://doi.org/rspb.20202494)<br/>
 argues that jellyfish use a subtle fluid dynamic effect, the 'ground effect', to swim efficiently.  The suthors used sophisticated monitoring techniques to measure the movement of water, as well as computationally intensive calculation methods of fluid dynamics.  They found that when the body of the common Moon Jelly <em>Aurelia aurita</em> contracts, it creates two vortices, each like a smoke ring, but rotating in opposite directions.  Together they function as a 'virtual wall' against which the next contraction pushes water.  The result is extraordinarily efficient swimming.  The paper is open access and may be read at the link above.
 
 The ground effect has been known in fluid dynamics since the 1920s, when pilots reported that their planes flew more efficiently when close to the ground, an effect due to the air beneath the wings being compressed by being squeezed between the wings and the ground.  A number of countries have tested vehicles used the ground effect to "fly" just above the surface of the ocean.  The most active development program was the models of "ekranoplans" produced in Soviet-era Russia in the 1970s and 1980s, one of which you will see above.  The model shown there was also capable of a limited amount of actual flight.
