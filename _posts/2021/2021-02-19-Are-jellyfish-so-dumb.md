@@ -5,7 +5,7 @@ Author: Joe Felsenstein
 ---
 
 <figure>
-<img src="/uploads/2021/AureliaEkranoplan.jog">
+<img src="/uploads/2021/AureliaEkranoplan.jpg">
 <figcaption>The moon jelly <em>Aurelia aurita</em> and a Russian Soviet-era Ekranoplan ground-effect craft, the A-90 Orlyonok.  Both images courtesy of Wikimedia Commons under the Creative Commons license.</figcaption>
 </figure>
 
