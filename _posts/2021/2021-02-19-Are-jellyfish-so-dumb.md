@@ -9,6 +9,8 @@ author: Joe Felsenstein
 <figcaption><small>The moon jelly <em>Aurelia aurita</em> and a Russian Soviet-era Ekranoplan ground-effect craft, the A-90 Orlyonok.  Both images courtesy of Wikimedia Commons under the Creative Commons license.</small></figcaption>
 </figure>
 
+<em>Posts labeled "Report:" will discuss material posted on other sites, particularly ones that contain silly arguments</em>
+
 An interesting report in this paper:<br/>
 Gemmell, Brad J., Kevin T. Du Clos, Sean P. Colin, Kelly R. Sutherland and John H. Costello.  2021. The most efficient metazoan swimmer creates a 'virtual wall' to enhance performance.  Proceedings of the Royal Society B (Biological Sciences)  
 [http://doi.org/rspb.20202494](http://doi.org/rspb.20202494)<br/>
