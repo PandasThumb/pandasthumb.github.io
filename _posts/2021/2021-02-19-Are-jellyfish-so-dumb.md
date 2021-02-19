@@ -1,7 +1,7 @@
 ---
-Title: 'Report: Are jellyfish so dumb that their evolution needed help?'
-Date: '2021-02-19 12:01:00 -8:00 GMT'
-Author: Joe Felsenstein
+title: 'Report: Are jellyfish so dumb that their evolution needed help?'
+date: '2021-02-19 12:01:00 -8:00 GMT'
+author: Joe Felsenstein
 ---
 
 <figure>
