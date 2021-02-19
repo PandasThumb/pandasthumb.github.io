@@ -25,11 +25,11 @@ argument needs to be quoted -- you would not believe me if I summarized it ...
 
 O'Leary, who writes for Uncommon Descent as "News", is an expert at invective.  A common trope of her reports is that science is wrong, a position that she backs up with frequent reports on fudged data, failures of peer review, and failure of further work to confirm initial reports.  This time, for a change, she is merely implying that scientists have failed to notice a dramatic implication of some work -- that the feature could not be explained by ordinary evolutionary mechanisms but must imply that there was Intelligent Design.
 
-After citing a report on jellyfish and ground effect and indicating that the original paper is open access, she simply says ([**here**](https://uncommondescent.com/intelligent-design/jellyfish-enhance-their-skills-by-building-a-virtual-wall/):
+After citing a report on jellyfish and ground effect and indicating that the original paper is open access, she simply says <a href="https://uncommondescent.com/intelligent-design/jellyfish-enhance-their-skills-by-building-a-virtual-wall/">i(<strong>here</strong>)</a>:
 
-[quote]
+<blockquote>
 Either jellyfish are smarter than we think or there is design in nature.
-[/quote]
+</blockquote>
 
 
 This is astonishing -- I am glad I am not a coffee drinker because I would have had to replace my computer after reading it.  
@@ -37,9 +37,9 @@ This is astonishing -- I am glad I am not a coffee drinker because I would have 
 
 There are only two comments on that post.  True to the form of UD commenters, who are the ultimate ID cheering section, one from commenter Mahuna says
 
-[quote] ....
+<blockquote> ....
 OK, clearly some INDIVIDUAL jellyfish did NOT invent this technique on a slow afternoon and then TEACH it to his bros. It is MUCH more likely, since ALL jellyfish know how to do this, that the skill was INSTALLED way back when the Designer was messing around with the pre-production prototypes. ....
-[/quote]
+</blockquote>
 
 while commenter Querius says "Yes, indeed!".
 
