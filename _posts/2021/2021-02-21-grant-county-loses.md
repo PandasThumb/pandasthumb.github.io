@@ -6,7 +6,7 @@ author: Matt Young
 
 <figure>
 <img src="/uploads/2021/Ark_Bow.jpg" alt="Bow of Ark"/>
-<figcaption><small>Photo courtesy of Dan Phelps.</small>
+  <figcaption><center><small>Photo courtesy of Dan Phelps.</small></center>
 </figcaption>
 </figure><br/>
 
