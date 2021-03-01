@@ -1,6 +1,6 @@
 ---
 title: 'Behe Meets the Peaceful Science Forum'
-date: '2017-03-01 12:00:00 -07:00'
+date: '2021-03-01 10:00:00 -07:00'
 author: Joshua Swamidass
 ---
 Today Nathan H. Lents authored an article in the *Skeptical Inquirer*, telling the story of how we responded to Michael Behe’s last book. Specifically, in February of 2019, Michael Behe published the third book in his trilogy critiquing evolutionary science, [*Darwin Devolves*](https://science.sciencemag.org/content/363/6427/590).
