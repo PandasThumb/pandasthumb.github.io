@@ -13,7 +13,7 @@ We expected a reaction from the Discovery Institute (DI).
 
 <!--more-->
  
-There certainly was a strong reaction. In the ensuing weeks, the DI published [over seventeen articles](https://discourse.peacefulscience.org/t/darwin-devolves-the-end-of-evolution/4270). In just days, they flooded search engine results with thousands and thousands of words written in response to us. These articles were written by Michael Behe himself and other scientists associated with intelligent-design (ID) creationism. Some articles were unsigned without identifying any authors by name.
+There certainly was a strong reaction. In the ensuing weeks, the DI published [over seventeen articles](https://discourse.peacefulscience.org/t/darwin-devolves-the-end-of-evolution/4270). In just days, they flooded search engine results with thousands and thousands of words written in response to us. These articles were written by Michael Behe himself and other scientists associated with intelligent-design (ID). Some articles were unsigned without identifying any authors by name.
  
 This sort of “squid ink” response to criticism is surely unorthodox, but do not underestimate its effectiveness. It performs a particular public theater, one that benefits the DI in its quest to promote ID. The cloud of articles attracts attention. The DI and Behe can claim to have “responded” to all the criticism directed at them. Most non-scientists cannot follow the details or assess the quality of the responses. Some might interpret the exchange as a legitimate debate.
 
@@ -53,5 +53,8 @@ The DI still uses this same strategy, so we will not be the last to face the clo
 
 If we are lucky, we might even get to explore some interesting science together. It was polar bear evolution this time, but next time? I cannot wait to find out.  Whatever comes, I’m sure that we will have far more success tackling it together than alone.
 
+----
+
+*On March 8th, this article was updated correct an editing error, replacing a reference to "ID creationism" with a reference to "ID" alone.*
 
 
