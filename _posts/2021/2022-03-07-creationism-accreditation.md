@@ -19,13 +19,13 @@ Here I discuss Tracs as an instrument of power.
 
 In order to be accredited by Tracs, an institution must, [as their website makes plain](https://tracs.org/resources/) submit a Faith Statement which 
 
-›should identify it as part of the evangelical protestant tradition in higher education. It is to be written so as to conform to the historic creeds and statements of Christianity. 
+>should identify it as part of the evangelical protestant tradition in higher education. It is to be written so as to conform to the historic creeds and statements of Christianity. 
 
 As to what those historic creeds and statements may be, they would seem to require compatibility with at least the spirit of Tracs’s own [Statement of Faith](https://tracs.org/statement-of-faith/), which concludes with the following statements:
 
-›**Biblical Creation**. Special creation of the existing space-time universe and all its basic systems and kinds of organisms in the six literal days of the creation week.
+>**Biblical Creation**. Special creation of the existing space-time universe and all its basic systems and kinds of organisms in the six literal days of the creation week.
 
-›**Satan**. The existence of a personal, malevolent being called Satan who acts as tempter and accuser, for whom the place of eternal punishment was prepared, where all who die outside of Christ shall be confined in conscious torment for eternity.
+>**Satan**. The existence of a personal, malevolent being called Satan who acts as tempter and accuser, for whom the place of eternal punishment was prepared, where all who die outside of Christ shall be confined in conscious torment for eternity.
 
 (Readers may remember that Charles Darwin, in his Autobiography, expressed his repugnance towards the “damnable doctrine” of punishment of unbelievers, and that his widow wished to suppress his remarks on the grounds that [surely nobody really believed anything of the sort any more](http://darwin-online.org.uk/content/frameset?itemID=F1497&viewtype=side&pageseq=89).)
 
