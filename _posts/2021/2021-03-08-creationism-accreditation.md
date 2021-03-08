@@ -1,6 +1,6 @@
 ---
 title: 'Creationism, accreditation, and the rules of evidence'
-date: '2022-03-07 12:00:00 -07:00'
+date: '2022-03-08 08:00:00 -07:00'
 author: Paul Braterman
 ---
 Last month I argued  that [present-day creationism is a conspiracy theory]( https://www.snopes.com/news/2021/02/04/why-creationism-bears-all-the-hallmarks-of-a-conspiracy-theory/), that like other conspiracy theories, it has its own rules of evidence, and that one underlying driver for this conspiracy theory is a struggle for power. Two recent developments give substance to my claim.
@@ -11,7 +11,7 @@ The errors here are obvious. The observations must, circumstances permitting, be
 
 But this month the world’s most noted creationist organisation has gone even further.  In a piece titled [Thinking Critically About “Ape-Man” Messages](https://answersingenesis.org/apologetics/critical-thinking/thinking-critically-ape-man-messages/), Patricia Engler of Answers in Genesis tells us “how to sort through such claims with biblical, critical thinking.” Her recommended procedure is dramatically effective: “The first way to detect a lie is by comparing it to the truth, with the ultimate standard for truth being God’s Word.” Unsurprisingly, this leads her to conclude, “Hominid claims fail this test.” The first test for truth, she tells us, is correspondence with AiG’s views. Whatever does not correspond to these views is not true. The insulation from criticism is perfect.
 
-I wanted find out more about Ms Engler, but Answers in Genesis tells us [tantalizingly little](https://answersingenesis.org/bios/patricia-engler/). We are told that after 12 years homeschooling, she completed a BSc with distinction at a liberal arts college, where “she studied intensely evolutionary courses to learn firsthand how Christian students can navigate secular education without compromising their biblical worldview,” but we are not told the subject matter of her BSc nor identity of the college where she acquired these navigational skills.
+I wanted find out more about Ms Engler, but Answers in Genesis tells us [tantalizingly little](https://answersingenesis.org/bios/patricia-engler/). We are told that after 12 years homeschooling, she completed a BSc with distinction at a liberal arts college, where “she studied intensely evolutionary courses to learn firsthand how Christian students can navigate secular education without compromising their biblical worldview,” but we are not told the subject matter of her BSc nor the identity of the college where she acquired these navigational skills.
 
 As for the role of power in creationism, we have an example this week, when the Transnational Association of Christian Colleges and Schools (Tracs) will have the status of its accreditations reviewed by the Council for Higher Education Accreditation. Joshua Swamidass has [discussed the issues concerned in the Wall Street Journal](https://www.wsj.com/articles/a-compromise-on-creationism-11614901537), and Panda’s Thumb has covered Dr. Swamidass’s article [here](https://pandasthumb.org/archives/2021/03/should-colleges-that-teach.html).
 
@@ -29,4 +29,4 @@ As to what those historic creeds and statements may be, they would seem to requi
 
 (Readers may remember that Charles Darwin, in his Autobiography, expressed his repugnance towards the “damnable doctrine” of punishment of unbelievers, and that his widow wished to suppress his remarks on the grounds that [surely nobody really believed anything of the sort any more](http://darwin-online.org.uk/content/frameset?itemID=F1497&viewtype=side&pageseq=89).)
 
-My present concern, however, is not with the content of this Statement of Faith, but with Trac’s enforcement of it. Since its inception, Christianity has given rise to endless differences of doctrine and interpretation. Yet Tracs claims the right to determine which particular doctrines and interpretations an institution must adhere to, and which historic creeds and statements it must accept, before it will recognize that institution as Christian. Power indeed!
+My present concern, however, is not with the content of this Statement of Faith, but with Tracs’s enforcement of it. Since its inception, Christianity has given rise to endless differences of doctrine and interpretation. Yet Tracs claims the right to determine which particular doctrines and interpretations an institution must adhere to, and which historic creeds and statements it must accept, before it will recognize that institution as Christian. Power indeed!
