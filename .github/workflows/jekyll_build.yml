@@ -24,7 +24,7 @@ jobs:
         env:
           ACTIONS_ALLOW_UNSECURE_COMMANDS: true
         with:
-          enable_cache: true
+          enable_cache: false
           ### Enables caching. Similar to https://github.com/actions/cache.
           #
           # format_output: true
