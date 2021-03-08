@@ -1,6 +1,6 @@
 ---
 title: 'Creationism, accreditation, and the rules of evidence'
-date: '2022-03-08 08:00:00 -07:00'
+date: '2021-03-08 08:00:00 -07:00'
 author: Paul Braterman
 ---
 Last month I argued  that [present-day creationism is a conspiracy theory]( https://www.snopes.com/news/2021/02/04/why-creationism-bears-all-the-hallmarks-of-a-conspiracy-theory/), that like other conspiracy theories, it has its own rules of evidence, and that one underlying driver for this conspiracy theory is a struggle for power. Two recent developments give substance to my claim.
