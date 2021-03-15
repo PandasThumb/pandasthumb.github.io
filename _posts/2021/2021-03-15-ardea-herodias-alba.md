@@ -1,6 +1,6 @@
 ---
 title: 'Ardea herodias and ardea alba'
-date: '2021-03-15 12:00:00 -06:00'
+date: '2021-03-15 12:00:00 -07:00'
 author: Matt Young
 ---
 
