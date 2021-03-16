@@ -6,7 +6,8 @@ author: Matt Young
 
 <figure>
 <img src="/uploads/2021/Pi.jpg" alt="100 digits of pi"/>
-<figcaption><center>3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679, etc.</center>
+<figcaption><center>3.1415926535897932384626433832795028841971693993751058209<br/>
+  749445923078164062862089986280348253421170679, etc.</center>
 </figcaption>
 </figure>
 
@@ -14,11 +15,11 @@ Yesterday, March 14, was Pi Day, and I learned today that several representative
 
 <blockquote>Whereas Pi can be approximated as 3.14, and thus March 14, 2021, is an appropriate day for "National Pi Day": Now, therefore, be it <br/><br/>
 
-<i>Resolved</i>, That the House of Representatives— 
+<i>Resolved</i>, That the House of Representatives— <br/>
 
-(1) supports the designation of a "Pi Day" and its celebration around the world; 
+(1) supports the designation of a "Pi Day" and its celebration around the world; <br/>
 
-(2) recognizes the continuing importance of the National Science Foundation’s math and science education programs; 
+(2) recognizes the continuing importance of the National Science Foundation’s math and science education programs; <br/>
 
 and (3) encourages schools and educators to observe the day with appropriate activities that teach students about Pi and engage them about the study of mathematics.</blockquote>
 
