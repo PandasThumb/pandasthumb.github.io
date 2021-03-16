@@ -1,6 +1,6 @@
 ---
 title: 'House Resolution Concerning Pi Day'
-date: '2021-03-15 19:59:00 -07:00'
+date: '2021-03-15 20:15:00 -07:00'
 author: Matt Young
 ---
 
@@ -12,11 +12,11 @@ author: Matt Young
 
 Yesterday, March 14, was Pi Day, and I learned today that several representatives introduced a <a href="https://www.congress.gov/117/bills/hres221/BILLS-117hres221ih.pdf">RESOLUTION Expressing support for designation of March 14, 2021, as &ldquo;National Pi Day&rdquo;</a>. I thought it was a good resolution, and it concluded
 
->Whereas Pi can be approximated as 3.14, and thus March 14, 2021, is an appropriate day for &ldquo;National Pi Day&rdquo;: Now, therefore, be it 
+>Whereas Pi can be approximated as 3.14, and thus March 14, 2021, is an appropriate day for "National Pi Day": Now, therefore, be it 
 
 ><i>Resolved</i>, That the House of Representatives— 
 
->(1) supports the designation of a &ldquo;Pi Day&rdquo; and its celebration around the world; 
+>(1) supports the designation of a "Pi Day" and its celebration around the world; 
 
 >(2) recognizes the continuing importance of the National Science Foundation’s math and science education programs; 
 
