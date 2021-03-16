@@ -10,7 +10,7 @@ author: Matt Young
 </figcaption>
 </figure>
 
-Yesterday, March 14, was Pi Day, and I learned today that several representatives introduced a <a href="https://www.congress.gov/117/bills/hres221/BILLS-117hres221ih.pdf">RESOLUTION Expressing support for designation of March 14, 2021, as &ldquo;National Pi Day&rdquo;</a>. I thought it was a good resolution, and it concluded
+Yesterday, March 14, was Pi Day, and I learned today that several representatives introduced a <a href="https://www.congress.gov/117/bills/hres221/BILLS-117hres221ih.pdf">RESOLUTION Expressing support for designation of March 14, 2021, as &ldquo;National Pi Day&rdquo;</a>. I thought it was a good resolution, and it concluded,
 
 >Whereas Pi can be approximated as 3.14, and thus March 14, 2021, is an appropriate day for "National Pi Day": Now, therefore, be it 
 
