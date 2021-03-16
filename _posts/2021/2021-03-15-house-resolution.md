@@ -26,4 +26,4 @@ The bill was <a href="https://www.congress.gov/bill/117th-congress/house-resolut
 
 <!--more-->
 
-… In committee.
+… In committee. 
