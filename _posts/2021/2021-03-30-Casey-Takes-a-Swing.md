@@ -6,7 +6,7 @@ author: Andrew Petto
 
 <figure>
 <img src="/uploads/2021/Ardipithecus_Ramidus.jpg" alt="Ardipithecus ramidus"/> 
-<figcaption><a href="https://commons.wikimedia.org/wiki/File:Ardipithecus_ramidus.jpg">Ardipithecus ramidus</a> skull in National Museum of Natural Sciences of Spain. <small>Credit: Tiia Monto, CC BY-SA 3.0.</small>
+<figcaption><a href="https://commons.wikimedia.org/wiki/File:Ardipithecus_ramidus.jpg"><i>Ardipithecus ramidus</i></a> skull in National Museum of Natural Sciences of Spain. <small>Credit: Tiia Monto, CC BY-SA 3.0.</small>
 </figcaption>
 </figure>
 
