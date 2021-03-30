@@ -4,17 +4,13 @@ date: '2022-03-30 12:00:00 -07:00'
 author: Andrew Petto
 ---
 
-Photograph by **C. Joseph Long**.
-
-
-
 <figure>
-<img src="/uploads/2021/DSC01175_Pentatomidae_600.jpg" alt="Pentatomidae"/> 
-<figcaption>
+<img src="/uploads/2021/Ardipithecus_Ramidus.jpg" alt="Ardipithecus ramidus"/> 
+<figcaption><a href="https://commons.wikimedia.org/wiki/File:Ardipithecus_ramidus.jpg">Ardipithecus ramidus</a> skull in National Museum of Natural Sciences of Spain. <small>Credit: Tiia Monto, CC BY-SA 3.0.</small>
 </figcaption>
 </figure>
 
-In a recent posting, <a href="https://evolutionnews.org/2021/02/study-hands-of-ardi-indicate-a-chimp-like-tree-dweller-and-knuckle-walker/)">Study of &quot;Ardi&quot; Indicate a Chimp-like Tree-Dweller and Knuckle-Walker</a>, Casey Luskin of the Discovery Institute reports some of the findings from a recent re-analysis of the forelimb anatomy of <i>Ardipithecus</i> and comes to the unsurprising conclusion that "Ardi" was not designed for obligate bipedal orthogrady, otherwise known as the way humans get around the world when forced to walk.  
+In a recent posting, <a href="https://evolutionnews.org/2021/02/study-hands-of-ardi-indicate-a-chimp-like-tree-dweller-and-knuckle-walker/)">Study: Hands of &quot;Ardi&quot; Indicate a Chimp-like Tree-Dweller and Knuckle-Walker</a>, Casey Luskin of the Discovery Institute reports some of the findings from a recent re-analysis of the forelimb anatomy of <i>Ardipithecus</i> and comes to the unsurprising conclusion that "Ardi" was not designed for obligate bipedal orthogrady, otherwise known as the way humans get around the world when forced to walk.  
 
 He swings for the fences, telling us all reasons why these findings eliminate Ardi from its status as an ancestral hominin. However, his conclusions are based on common rookie mistakes about evolutionary science in general, and hominin evolution in particular. And so, the intention to hit the ball out of the park results in a disappointing strikeout reminding me of another <a href="https://poets.org/poem/casey-bat">well known Casey</a>. 
 
