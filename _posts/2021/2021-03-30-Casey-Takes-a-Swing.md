@@ -1,0 +1,89 @@
+---
+title: 'Casey Takes a Swing at <i>Ardipithecus</i>—and Strikes Out'
+date: '2022-03-30 12:00:00 -07:00'
+author: Andrew Petto
+---
+
+Photograph by **C. Joseph Long**.
+
+
+
+<figure>
+<img src="/uploads/2021/DSC01175_Pentatomidae_600.jpg" alt="Pentatomidae"/> 
+<figcaption>
+</figcaption>
+</figure>
+
+In a recent posting, <a href="https://evolutionnews.org/2021/02/study-hands-of-ardi-indicate-a-chimp-like-tree-dweller-and-knuckle-walker/)">Study of &quot;Ardi&quot; Indicate a Chimp-like Tree-Dweller and Knuckle-Walker</a>, Casey Luskin of the Discovery Institute reports some of the findings from a recent re-analysis of the forelimb anatomy of <i>Ardipithecus</i> and comes to the unsurprising conclusion that "Ardi" was not designed for obligate bipedal orthogrady, otherwise known as the way humans get around the world when forced to walk.  
+
+He swings for the fences, telling us all reasons why these findings eliminate Ardi from its status as an ancestral hominin. However, his conclusions are based on common rookie mistakes about evolutionary science in general, and hominin evolution in particular. And so, the intention to hit the ball out of the park results in a disappointing strikeout reminding me of another <a href="https://poets.org/poem/casey-bat">well known Casey</a>. 
+
+<!--more-->
+
+<strong>Strike 1: Looking for Mr. Goodlink </strong>
+
+Evolutionary science is not a search for specific ancestors that gave rise to specific descendants—even if occasionally it appears that we do find them. The proclamation that a specific fossil hominin—especially one from over 4 million years ago—is <i>the</i> ancestor of our modern species is the stuff of press releases and news headlines, but not the serious study of paleontology. 
+
+Most of what we can find—especially from millions of years back in our history—will be collateral relatives. Even though my paternal grandfather was removed from our family tree as a very young man, I can get a good sense of his physical characteristics because I knew his surviving relatives: his father, siblings, cousins, and nieces and nephews—his collateral relatives. Even though these relatives appear in a "side branch" relative to me, information about them allows us to sketch the history of our family. 
+ 
+In a similar way, what hominin fossils such as <i>Ardipithecus</i> do is show us how and when ancestral members of our human family tree acquired certain morphologic traits that came to define the remaining surviving branch of the human family tree. The real question is <i>not</i> whether there is some feature that reflects the arboreal habits of the last common ancestor (LCA) of humans and other African apes. Rather the question is what features are present in <i>Ardipithecus</i> that are found only in the evolutionary branch leading to modern hominins. Even in the light of Ardi’s retention of some morphologic features well suited to suspensory locomotor behavior (movement characterized by hanging or swinging below branches of trees), Ardi still possesses traits commonly found in hominins, but not in chimpanzees or gorillas. 
+
+It is unlikely that Ardi is <i>the</i> direct ancestor of all modern humans, but the point is that this is not why <i>Ardipithecus</i> is of interest. Rather, <i>Ardipithecus</i> helps to tell us about the journey of our branch of the evolutionary tree from the last common ancestor (LCA) with the other African apes to modern humans. The greatest value of these specimens to that inquiry is in how they shed light on that journey—even if we never find <i>the</i> direct lineal ancestor of all modern humans. 
+
+The rookie mistake here is presuming that finding collateral relatives with key features different from our own means that they nullify any relationship among us. 
+
+<strong>Strike 2: Phylo-D’Oh</strong>
+
+Luskin cites the paper in <i>Science Advances</i> by T.C. Prang and others, <a ref="https://advances.sciencemag.org/content/7/9/eabf2474/tab-article-info"><i>Ardipithecus</i> hand provides evidence that humans and chimpanzees evolved from an ancestor with suspensory adaptations</a>, which provides a morphometric analysis of features of several hand bones of <i>Ardipithecus</i> compared with those of other primate species. What these results tell us is how the sizes, shapes, and proportions of these bones in <i>Ardipithecus</i> compare to those in other primates that exhibit certain locomotor behaviors. 
+
+These are important analyses that show us groups of primates that share similarities in morphology. When those similarities also match up with specialized locomotor behaviors, then they suggest that the "owners" of these morphologic features were probably adept at moving through their environments in the same way.  In fact, the analysis by Prang and others confirms, rather than refutes, one of the key conclusions of the first <a href="https://science.sciencemag.org/content/326/5949/68">Comprehensive evaluations of the <i>Ar. ramidus</i> remains</a> by G. Suwa and others: 
+
+<blockquote>The <i>Ar. ramidus</i> postcranium indicates both substantial arboreal capability and an intermediate form of terrestrial bipedality that preceded the more fully established  <i>Australopithecus</i> condition.</blockquote>
+
+Miocene apes that we infer gave rise to the last common ancestor of humans and African apes do not give a clear picture of the emergence of the branch that led to modern descendant species. Dryopithecines appear to have been generic apes without significant anatomic specializations for "hanging" by the forelimbs (suspensory progression or locomotor behaviors)—even though all the survivving non-human ape species have these specializations. Recent work by Böhme and others, <a href="https://www.nature.com/articles/s41586-019-1731-0">A   new Miocene    ape  and  locomotion  in the ancestor  of great  apes  and  humans</a>, proposes another way of using suspensory morphology in arboreal settings: morphologic analysis of the remains of <i>Danuvius guggenmosi</i> suggest that this species might have employed what the authors called "extended-limb clambering"—a form of movement combining standing upright with overhead grasping. 
+
+ These data suggest—but by no means prove—that the LCA of all modern apes probably relied on suspensory locomotor behaviors.  The key question here is why should we be surprised to see that heritage reflected in the anatomy of early hominins, especially if moving through or climbing in trees represented important behaviors for the first of our relatives to establish the hominin clade? 
+
+Furthermore, if we actually watch the locomotor behavior of chimpanzees, even in the trees, we see a wide array of behaviors. Across wide trunks, chimps sometimes knuckle-walk as they do on the ground; walking on smaller tree limbs or climbing vertically, they wrap their hands around the surface; sometimes they stand and move along a branch on their feet while they reach overhead to grasp branches as they progress; and at other times, they hang below the branches and move by ricochetal brachiation—the classic "swinging from the trees" behavior popular culture associates with arboreal apes. Chimpanzees are clearly not limited to suspensory, below-the-branch locomotor behaviors (or to knuckle-walking), even if their hand and forelimb morphology are well suited for it. 
+
+As valuable as morphometric analyses are in helping us understand locomotor and positional behaviors, determining evolutionary relatedness, or phylogeny, is not simply a matter of anatomic or locomotor similarities. The critical data for determining the phylogenetic status of any fossil species is the appearance of anatomic features that are unique to specific branches of the evolutionary tree.  Showing anatomic similarity is not enough. 
+
+The article by Prang and others also compared morphologic features related to suspensory locomotor behavior from species in vastly different primate clades—which means they do <i>not</i> share a recent common ancestor with the African apes. We see these anatomic changes in these species because the physical demands of similar environments often lead to convergent evolution of the features necessary to navigate the environment. 
+
+In a similar environment with similar opportunities and challenges for locomotion, primate species that are only distantly related show similar morphologies in the upper limbs. However, that does not mean that spider monkeys and gibbons are closely relatives that emerged from a common ancestor with these features, in the same way that, despite their overall morphologic similarities, we have no doubt that dolphins are not fishes, but mammals. Many anatomic and biomechanical similarities reflect environmental demands on the organism and these must be separated from those that unique identify members of different evolving lineages. 
+
+The rookie mistake here is the "like-goes-with-like" approach to grouping organisms in various classification schemes 
+
+<strong>Strike 3: "One of these things is not like the others"</strong>
+
+Chimpanzees (together with bonobos) are our closest living biologic relatives—but they are decidedly <i>not</i> our ancestors. Since the fossil record of African apes leading up to the time when the LCA is estimated to have lived (5‒7 million years ago) and for a long time afterward is limited, it is difficult to say what Ardi’s cousins were doing at the time and what they looked like.  But we can study contemporary descendants of the LCA, so that we can outline the trajectory of what had to change on the evolutionary journey from then to now.
+
+Luskin’s conclusion that Ardi belongs on the chimpanzee and not the human branch of the family tree looks backward toward the LCA. He asks, in effect, "What features did Ardi have resembling those of the presumed LCA that are also shared with modern chimpanzees?" But to determine the proper phylogenetic placement of <i>Ardipithecus</i>, we really need to look <i>forward</i> to the anatomic changes found only in humans and not in the other apes. Only those can tell us whether this species belongs on our branch of the family tree. 
+
+Of course, it is not just the lineage containing humans that has changed and evolved in the last 7 million years or so; the lineage containing chimpanzees has as well.  Even if, as seems likely, the LCA of humans and chimps relied on suspensory locomotor behaviors in moving through the trees, modern chimpanzee anatomy is not frozen in time. Modern chimps have highly specialized derived locomotor adaptations, just as humans do. 
+
+Consider this: given the estimate of a divergence time between humans and chimps at 5‒7 million years ago, the estimated dates for the <i>Ardipithecus</i> ramidus remains are no more than about 35&nbsp;% (and possibly as little as 12&nbsp;%) of the way along the road from LCA to the modern species. So if we had, as Suwa and others suggested, a primate retaining "substantial arboreal capability" while also being able to move effectively on the ground, how much anatomic difference from the LCA might we expect in the forelimb and hands? And how much would it vary from the anatomic changes that would define the chimpanzee branch of the evolutionary tree? 
+
+We don't have direct evidence in the fossil record to answer those questions definitively, especially for chimpanzees. But we do have direct fossil evidence to make it clear that it would take at least another 2 million years after <i>Ardipithecus</i> until humans completed the transition in the skeletal features that we recognize today as the hallmarks of obligate bipedal orthogrady. In other words, Ardi is less than halfway through the transition from trees to ground, even for some estimates of an earlier time frame for the LCA.  
+
+The analysis by Prang and others places the morphology of the <i>Ardipithecus</i> hands closer to those primates that engage in suspensory behaviors. But it does not compare the features that are unrelated to arboreal locomotion. The early analysis by Suwa and others looked, for example, at features of the face and skull, for which Ardi shows several specific changes found only in humans. It should surprise no one who understands evolutionary science that some of those showed derived conditions found only in humans. Other features appeared in a form that was intermediate between those that characterize those found in modern humans and chimpanzees, and still others showed features that appeared relatively unchanged in descendants of the LCA and that we share today with the other African apes. This is how evolution works. 
+
+When Suwa and others placed those features known to have unique forms in humans on a continuum that included modern humans, fossil humans, and African apes, the values for <i>Ardipithecus</i> were intermediate between those for modern chimpanzee species and australopithecines. These include changes in the skull and face that were less like those of chimpanzees and more like those that define australopithecines as humans. And one of these in particular—the relative position of the opening in the base of the skull for the connection to the spinal column (foramen magnum), which reliably indicates habitually upright positional behavior—is notably distinct from that of modern quadrupedal apes and intermediate between them and australopithecines—right where it should be for a member of an evolutionary lineage in transition.  
+
+It is the appearance of uniquely derived traits that confer membership in a phylogenetic clade, regardless of what other features are shared with other evolutionary relatives. And this is true even—or perhaps especially—if not every feature is highly specialized for a particular behavior, even one as important as the human way of walking. 
+
+The rookie mistake here is to look at features that tell us mainly about navigating local environmental conditions with a suite of anatomic traits inherited from a recent ancestor, but to ignore those changes that relate to specific anatomic changes that make humans different from the other African ape lineages. 
+
+<strong>Ardi Wins in a Walk-Off</strong> 
+
+Was <i>Ardipithecus</i> a knuckle-walker like modern chimps and gorillas? The headline for Luskin’s article implies that Prang and others concluded that is the case. In fact, what they concluded was that the morphology of the wrist joint and the lengths of some of the segments of the digits were similar to that of knuckle-walking chimps. But they also point out that <i>later</i> hominins retained some of these same features of the wrist, even though there is definitive evidence that these later descendants walked upright. 
+
+If Ardi moved around as do modern chimps, was it because it had to or because it could? This is the main question. Humans walk upright; we are specialized to do so. However, we can climb, and we can swim. That is, we can use our bodies in ways that allow us to perform a variety of behaviors—including the quintessence of suspensory behavior, ricochetal brachiation—but we do not perform these actions as well as organisms that are especially modified to do them faster, more efficiently, and more powerfully than we can. 
+
+ Could Ardi have used knuckle-walking? Prang and others suggest it is <i>possible</i>, even though it is clear that its anatomical features do not require knuckle-walking. Could Ardi have walked upright? Other anatomic features and comparisons to the wide variety of locomotor behaviors in chimpanzees suggest this is also possible. 
+
+Basically what Prang and others tell us is that Ardi was not "designed for" obligate orthograde bipedal progression—and <i>not</i> that Ardi was not an early hominin species. More specifically, this analysis places <i>Ardipithecus</i> closer to the presumed morphology of the LCA and as being less specialized for upright walking than is the case for later hominin fossil species. And at a point that early in the emergence of the humans from the LCA, is this finding really so surprising?
+
+No, and it is not more surprising than that Luskin, freshly returned to the Discovery Institute, has returned to his old pattern of misunderstanding and misrepresenting the scientific literature, based on a caricature of evolutionary science.
+
+<i>Andrew Petto is Distinguished Lecturer Emeritus at the University of Wisconsin‒Milwaukee, where he taught anatomy in the Departments of Biological Sciences and Kinesiology.  He also lived for nearly a decade on the edge of the Mudville neighborhood of Holliston, Massachusetts, where there is a statute commemorating the main character in "Casey at the Bat" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hollis</i>
