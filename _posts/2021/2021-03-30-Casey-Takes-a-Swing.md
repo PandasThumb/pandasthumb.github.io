@@ -1,6 +1,6 @@
 ---
 title: 'Casey Takes a Swing at <i>Ardipithecus</i>—and Strikes Out'
-date: '2022-03-30 12:00:00 -07:00'
+date: '2021-04-01 14:10:00 -07:00'
 author: Andrew Petto
 ---
 
@@ -10,7 +10,7 @@ author: Andrew Petto
 </figcaption>
 </figure>
 
-In a recent posting, <a href="https://evolutionnews.org/2021/02/study-hands-of-ardi-indicate-a-chimp-like-tree-dweller-and-knuckle-walker/)">Study: Hands of &quot;Ardi&quot; Indicate a Chimp-like Tree-Dweller and Knuckle-Walker</a>, Casey Luskin of the Discovery Institute reports some of the findings from a recent re-analysis of the forelimb anatomy of <i>Ardipithecus</i> and comes to the unsurprising conclusion that "Ardi" was not designed for obligate bipedal orthogrady, otherwise known as the way humans get around the world when forced to walk.  
+In a recent posting, <a href="https://evolutionnews.org/2021/02/study-hands-of-ardi-indicate-a-chimp-like-tree-dweller-and-knuckle-walker/)">Study: Hands of &quot;Ardi&quot; indicate a chimp-like tree-dweller and knuckle-walker</a>, Casey Luskin of the Discovery Institute reports some of the findings from a recent re-analysis of the forelimb anatomy of <i>Ardipithecus</i> and comes to the unsurprising conclusion that "Ardi" was not designed for obligate bipedal orthogrady, otherwise known as the way humans get around the world when forced to walk.  
 
 He swings for the fences, telling us all reasons why these findings eliminate Ardi from its status as an ancestral hominin. However, his conclusions are based on common rookie mistakes about evolutionary science in general, and hominin evolution in particular. And so, the intention to hit the ball out of the park results in a disappointing strikeout reminding me of another <a href="https://poets.org/poem/casey-bat">well known Casey</a>. 
 
@@ -24,9 +24,9 @@ Most of what we can find—especially from millions of years back in our history
  
 In a similar way, what hominin fossils such as <i>Ardipithecus</i> do is show us how and when ancestral members of our human family tree acquired certain morphologic traits that came to define the remaining surviving branch of the human family tree. The real question is <i>not</i> whether there is some feature that reflects the arboreal habits of the last common ancestor (LCA) of humans and other African apes. Rather the question is what features are present in <i>Ardipithecus</i> that are found only in the evolutionary branch leading to modern hominins. Even in the light of Ardi’s retention of some morphologic features well suited to suspensory locomotor behavior (movement characterized by hanging or swinging below branches of trees), Ardi still possesses traits commonly found in hominins, but not in chimpanzees or gorillas. 
 
-It is unlikely that Ardi is <i>the</i> direct ancestor of all modern humans, but the point is that this is not why <i>Ardipithecus</i> is of interest. Rather, <i>Ardipithecus</i> helps to tell us about the journey of our branch of the evolutionary tree from the last common ancestor (LCA) with the other African apes to modern humans. The greatest value of these specimens to that inquiry is in how they shed light on that journey—even if we never find <i>the</i> direct lineal ancestor of all modern humans. 
+It is unlikely that Ardi is the direct ancestor of all modern humans, but the point is that this is not why Ardipithecus is of interest. Rather, Ardipithecus helps to tell us about the journey of our branch of the evolutionary tree from the last common ancestor (LCA) with the other African apes to modern humans. The greatest value of these specimens to that inquiry is in how they shed light on that journey—even if we never find the direct lineal ancestor of all modern humans.  
 
-The rookie mistake here is using a "like-goes-with-like" classification scheme that relies on similar morphologic responses to environmental pressures rather than the features shared uniquely by members of the same branch of the evolutionary tree. 
+The rookie mistake here is presuming that finding collateral relatives with key features different from our own means that they nullify any relationship among us. 
 
 <strong>Strike 2: Phylo-D’Oh</strong>
 
@@ -46,9 +46,9 @@ As valuable as morphometric analyses are in helping us understand locomotor and 
 
 The article by Prang and others also compared morphologic features related to suspensory locomotor behavior from species in vastly different primate clades—which means they do <i>not</i> share a recent common ancestor with the African apes. We see these anatomic changes in these species because the physical demands of similar environments often lead to convergent evolution of the features necessary to navigate the environment. 
 
-In a similar environment with similar opportunities and challenges for locomotion, primate species that are only distantly related show similar morphologies in the upper limbs. However, that does not mean that spider monkeys and gibbons are closely relatives that emerged from a common ancestor with these features, in the same way that, despite their overall morphologic similarities, we have no doubt that dolphins are not fishes, but mammals. Many anatomic and biomechanical similarities reflect environmental demands on the organism and these must be separated from those that unique identify members of different evolving lineages. 
+In a similar environment with similar opportunities and challenges for locomotion, primate species that are only distantly related show similar morphologies in the upper limbs. However, that does not mean that spider monkeys and gibbons are closely relatives that emerged from a common ancestor with these features, in the same way that, despite their overall morphologic similarities, we have no doubt that dolphins are not fishes, but mammals. Many anatomic and biomechanical similarities reflect environmental demands on the organism and these must be separated from those that unique identify members of different evolving lineages.
 
-The rookie mistake here is the "like-goes-with-like" approach to grouping organisms in various classification schemes 
+The rookie mistake here is using a "like-goes-with-like" classification scheme that relies on similar morphologic responses to environmental pressures rather than the features shared uniquely by members of the same branch of the evolutionary tree. 
 
 <strong>Strike 3: "One of these things is not like the others"</strong>
 
@@ -70,7 +70,7 @@ This is not the only feature pointing forward to the hominid branch and away fro
 
 It is the appearance of uniquely derived traits that confer membership in a phylogenetic clade, regardless of what other features are shared with other evolutionary relatives, and this analsysis of Ardi showed a roughly 50/50 split in those features that mark the pathway from the LCA to the human, and not the chimpanzee, branch of the family tree. And this is true even—or perhaps especially—if not every feature is highly specialized for a particular behavior, even one as important as the human way of walking. 
  
-The rookie mistake here is to look at features that tell us mainly about navigating local environmental conditions with a suite of anatomic traits inherited from a recent ancestor, but to ignore those changes that relate to specific anatomic changes that make humans different from the other African ape lineages. 
+The rookie mistake here is to look at features that tell us mainly about navigating local environmental conditions with a suite of anatomic traits inherited from a recent ancestor, but to ignore those changes found in <i>Ardipithecus</i> that relate to specific anatomic changes that make humans different from the other African ape lineages. 
 
 <strong>Ardi Wins in a Walk-Off</strong> 
 
