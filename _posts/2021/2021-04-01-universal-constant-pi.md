@@ -12,4 +12,4 @@ It can be shown that the equality is exact, given a small correction.
 
 Additionally, πies are called pies because they are circular. Philologists do not know the origin of the trailing "e," and they do not know why some pies are called pizzas. 
 
-And, finally, π is precisely equal to 3, with no corrections, for very small circles.
+And, finally, π is precisely equal to 3, with no corrections, for very small circles. Indeed, it <i>was</i> equal to 3 in Biblical times but has been inceasing ever since.
