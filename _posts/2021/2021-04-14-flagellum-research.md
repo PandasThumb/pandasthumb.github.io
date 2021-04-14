@@ -1,6 +1,6 @@
 ---
 title: 'Flagellum research on the front burner again'
-date: '2021-04-14 09:25:00 -07:00'
+date: '2021-04-14 09:25:00 -06:00'
 author: Matt Young
 ---
 <figure>
