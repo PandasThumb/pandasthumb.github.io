@@ -7,7 +7,7 @@ author: Matt Young
 <img src="/uploads/2021/Chlamydomonas_Flagellum.jpg" alt="Chlamydomonas"/>
 <figcaption><a href="https://en.wikipedia.org/wiki/Flagellum">SEM image of flagellated <i>Chlamydomonas</i> sp.</a> (10000×), a single-celled green alga. <small>Credit: Dartmouth Electron Microscope Facility, Dartmouth College. Public domain.</small>
 </figcaption>
-</figure><br/>
+</figure><br/> 
 
 We have not discussed the bacterial flagellum on PT in a good long time – one of the last instances was Nick Matzke’s 2007 article, <a href="http://pandasthumb.org/archives/2007/10/full-text-of-th.html">The Edge of Creationism</a>, a clever pun on Michael Behe’s book title, <i>The Edge of Evolution</i>. In that article, Dr. Matzke thoroughly debunks Dr. Behe’s contention that the flagellum could not have evolved, hence was designed.
 
