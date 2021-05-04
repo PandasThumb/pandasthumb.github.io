@@ -4,7 +4,8 @@ date: 2021-05-04 12:00 -7:00
 author: Joe Felsenstein
 ---
 <figure>
-<a href="/uploads/2021/Pure_Quartz.jpg">By &lt;a href=&quot;//commons.wikimedia.org/wiki/User:EvaK&quot; title=&quot;User:EvaK&quot;&gt;Eva K.&lt;/a&gt; - &lt;span class=&quot;int-own-work&quot; lang=&quot;en&quot;&gt;Own work&lt;/span&gt;, <a href="http://www.gnu.org/licenses/old-licenses/fdl-1.2.html" title="GNU Free Documentation License 1.2">GFDL 1.2</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9425545">Something Granville Sewell may not expect</a>
+  <img src="uploads/2021/Pure_Quartz.jpg">
+  <figcaption>By &lt;a href=&quot;//commons.wikimedia.org/wiki/User:EvaK&quot; title=&quot;User:EvaK&quot;&gt;Eva K.&lt;/a&gt; - &lt;span class=&quot;int-own-work&quot; lang=&quot;en&quot;&gt;Own work&lt;/span&gt;, <a href="http://www.gnu.org/licenses/old-licenses/fdl-1.2.html" title="GNU Free Documentation License 1.2">GFDL 1.2</a> Something Granville Sewell may not expect</a></figcaption>
 </figure>
 <P>
 Granville Sewell is at it again, and he never seems to learn.  In <a href="https://evolutionnews.org/2021/04/some-problems-can-be-proved-unsolvable/">a piece at the Discovery Institute's site Evolution News &amp; Science Today</a> 
