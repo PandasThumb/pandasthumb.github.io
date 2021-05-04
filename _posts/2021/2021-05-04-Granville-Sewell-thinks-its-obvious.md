@@ -30,7 +30,9 @@ confidence than that a few unintelligent forces of physics alone could not have 
 
 Now Sewell is a mathematician, author of a book on solving differential equations.  But he seems to accept proof-by-obviousness, a method most mathematicians
 would not accept.  He should listen to them.  Instead he lays the obviousness on a bit too thick ...
+
 <!--more-->
+
 He asks whether elementary particles and the four fundamental forces of physics (there are now only two, actually) could end up with computers, iPhones, libraries,
 and so on.  That sounds impossible.  But he's left out a few steps.  For example:
 
