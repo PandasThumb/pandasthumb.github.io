@@ -34,7 +34,6 @@ would not accept.  He should listen to them.  Instead he lays the obviousness on
 <!--more-->
 
 He asks whether elementary particles and the four fundamental forces of physics (there are now only two, actually) could end up with computers, iPhones, libraries,
-</ul
 and so on.  That sounds impossible.  But he's left out a few steps.  For example:
 <ul>
   <li> Elementary particles aggregating to form larger particles</li>
@@ -55,6 +54,7 @@ and so on.  That sounds impossible.  But he's left out a few steps.  For example
   <li> and civilization,</li>
   <li> and technology</li>
 </ul>
+
 <p>
 See, it isn't just a direct aggregation of particles.  If we don't know all the details of those steps, few seem to doubt that the processes of astronomy, 
 chemistry, and geology can't explain our planet without the intervention of a cosmic Designer.  Intelligent Design arguments are not very visible in physics, in chemistry,
