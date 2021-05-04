@@ -4,7 +4,7 @@ date: 2021-05-04 12:00 -7:00
 author: Joe Felsenstein
 ---
 <figure>
-  <img src="uploads/2021/Pure_Quartz.jpg">
+  <img src="/uploads/2021/Pure_Quartz.jpg">
   <figcaption>By Eva K., from Wikimedia Commons.  Something Granville Sewell may not expect.</figcaption>
 </figure>
 <P>
