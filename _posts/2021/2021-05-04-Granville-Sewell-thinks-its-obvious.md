@@ -7,7 +7,7 @@ author: Joe Felsenstein
   <img src="/uploads/2021/Pure_Quartz.jpg">
   <figcaption>By Eva K., from Wikimedia Commons.  Something Granville Sewell may not expect.</figcaption>
 </figure>
-<P>
+
 Granville Sewell is at it again, and he never seems to learn.  In <a href="https://evolutionnews.org/2021/04/some-problems-can-be-proved-unsolvable/">a piece at the Discovery Institute's site Evolution News &amp; Science Today</a> 
 he argues that it is obvious that one can reject the ordinary processes of physics, chemistry, and evolution as having brought about living organisms. His piece is entitled "Some problems can be proved unsolvable".
 He mentions a mathematical theorem that was finally proven after hundreds of years (Fermat's Last Theorem), and a task that can easily shown to be unsolvable
