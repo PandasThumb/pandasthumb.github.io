@@ -20,9 +20,9 @@ Well, I have a very simple proof that the biological problem #3 posed above is a
 to do is realize that if a solution were found, we would have proved something obviously false, that a few (four, apparently) fundamental, unintelligent 
 forces of physics alone could have rearranged the fundamental particles of physics into libraries full of science texts and encyclopedias, 
 computers connected to monitors, keyboards, laser printers and the Internet, cars, trucks, airplanes, nuclear power plants and Apple iPhones. 
-</blockquote>
+
 Is this really a valid proof? It seems perfectly valid to me, as I cannot think of anything in all of science that can be stated with more confidence than that a few unintelligent forces of physics alone could not have rearranged the basic particles of physics into Apple iPhones.
-[/quote]
+</blockquote>
 Now Sewell is a mathematician, author of a book on solving differential equations.  But he seems to accept proof-by-obviousness, a method most mathematicians
 would not accept.  He should listen to them.  Instead he lays the obviousness on a bit too thick ...
 <!--more-->
