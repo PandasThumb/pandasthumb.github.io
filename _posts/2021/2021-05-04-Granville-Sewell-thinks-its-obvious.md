@@ -57,5 +57,5 @@ and so on.  That sounds impossible.  But he's left out a few steps.  For example
 
 <p>
 See, it isn't just a direct aggregation of particles.  If we don't know all the details of those steps, few seem to think that the processes of astronomy, 
-chemistry, and geology can't explain our planet without the intervention of a cosmic Designer.  Intelligent Design arguments are not very visible in physics, in chemistry,
+chemistry, and geology can't explain our planet without the intervention of a cosmic Designer.  Intelligent Design arguments are not very visible in physics, in chemistry, in astronomy, 
 and in geology.  Those very active sciences get along fine without ID.  Sewell's proof-by-obviousness needs somewhat more focus.
