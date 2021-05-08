@@ -1,6 +1,6 @@
 ---
 title: 'AIG&#39;s Statement of Faith Outdoes Itself'
-date: '2021-05-08 14:35:00 -06:00'
+date: '2021-05-08 14:45:00 -06:00'
 author: Matt Young
 ---
 
