@@ -84,3 +84,5 @@ Of course, an account by a virologist specializing in coronaviruses would be the
 BIO: Andrew Petto is Distinguished Lecturer Emeritus at the University of Wisconsin‒Milwaukee, where he taught anatomy in the Departments of Biological Sciences and Kinesiology. For 8 years he and his students initiated and studied mock epidemics in the summer Research Apprenticeship Program for high-school students at the University of Wisconsin School of Medicine and Public Health in Madison, Wisconsin. The culminating publication from this project was Communic-Able: Writing to learn about emerging infectious diseases. In: Yager R. E., ed. Exemplary Science for Solving Societal Problems. Reston, Virginia: National Science Teaching Association. 2010.
 
 
+
+
