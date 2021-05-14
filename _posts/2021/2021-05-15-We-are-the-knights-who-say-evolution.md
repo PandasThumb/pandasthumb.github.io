@@ -45,7 +45,8 @@ tableau where every creature came from some other creature and is becoming somet
         seems to always end there.
         <P>
         So now we seem to be back to an earlier era, when species were assumed to be fixed.  Even Young Earth Creationists seemed
-          to have invoked extremely rapid evolution so as the turn the limited number of "kinds" on the Ark into all present-day species.
+          to have invoked extremely rapid evolution so as to turn the limited number of "kinds" on the Ark into all present-day species in a few hundred years.
+          Now the Discovery Institute announces that, whatever the amount of change. the word "evolution" is unhearable.
           <p>
             Well, I am an evolutionary biologist, because that's what I work on -- the processes of evolution and the history of life that results. 
             And I guarantee you that evolutionary geneticists, evolutionary genomicists, evolutionary anthropologists, evolutionary physiologists, evolutionary developmental biologists,
