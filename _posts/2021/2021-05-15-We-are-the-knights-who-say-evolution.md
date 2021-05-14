@@ -44,8 +44,8 @@ tableau where every creature came from some other creature and is becoming somet
         they become unable to acknowledge those changes.  And, it turns out, when common descent is inferred.  Their love affair with "change"
         seems to always end there.
         <P>
-        So now we seem to be back to an earlier era, when species were assumed to be fixed.  Even Young Earth Creationists seemed
-          to have invoked extremely rapid evolution so as to turn the limited number of "kinds" on the Ark into all present-day species in a few hundred years.
+        So now we seem to be back to an earlier era, when species were assumed to be fixed.  Even Young Earth Creationists seemed lately 
+          to have invoked extremely rapid evolution so as to turn the limited number of "kinds" that would fit on the Ark into all present-day species in a few hundred years.
           Now the Discovery Institute announces that, whatever the amount of change. the word "evolution" is unhearable.
           <p>
             Well, I am an evolutionary biologist, because that's what I work on -- the processes of evolution and the history of life that results. 
