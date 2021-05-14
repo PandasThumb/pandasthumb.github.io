@@ -5,8 +5,8 @@ author: 'Joe Felsenstein'
 ---
 
 <figure>
-  <img src="/uploads/Knightni.jpg">
-  <figcaption>Michael Palin, as the chief of the Knights Who Say "Ni", from <em>Monty Python and the Holy Grail</em>. From Wikipedia.
+  <img src="/uploads/2021/Knightni.jpg">
+  <figcaption> <small>Michael Palin, as the chief of the Knights Who Say "Ni", from <em>Monty Python and the Holy Grail</em>. From Wikipedia.</small>
   </figcaption>
 </figure>
 
