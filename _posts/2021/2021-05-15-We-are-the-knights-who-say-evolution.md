@@ -31,6 +31,7 @@ Throughout these articles, one can see the writers inserting the adjective “ev
   <li> “evolutionary pleiotropy” — why not just pleiotropy?</li>
 <li> “a suite of traits are changed within a short evolutionary time” — why not a suite of traits that work together?</li>
 </ul>
+
 Typists could avoid carpal tunnel syndrome by eliminating this unnecessary word in science papers and news stories. 
 It seems that the “evolutionary” biologists, who should just call themselves biologists, want to push a narrative
 that everything in the living world must pay tribute to Darwin. The repetition of the word hammers it into people’s
