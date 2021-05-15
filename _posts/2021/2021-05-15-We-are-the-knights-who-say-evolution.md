@@ -23,13 +23,13 @@ author: 'Joe Felsenstein'
 <p>
 Throughout these articles, one can see the writers inserting the adjective “evolutionary” in front of everything. 
 <ul>
-<li> “an evolutionary geneticist at the University of Copenhagen” — why not just a geneticist?
-<li> “giraffes are a poster child for evolutionary oddities” — why not just oddities?
-<li> “several phenotypic traits that share evolutionary constraints” — why not just constraints, as in engineering specifications?
-<li> “This [reduction in olfactory sensitivity] may be an evolutionary consequence of enhanced vision” — why not just a consequence, as in a designed trade-off for multiple competing specifications?
-<li> “evolutionary adaptations” — why not just adaptations, or unique traits fit for the giraffe’s ecological niche?
-<li> “evolutionary pleiotropy” — why not just pleiotropy?
-<li> “a suite of traits are changed within a short evolutionary time” — why not a suite of traits that work together?
+  <li> “an evolutionary geneticist at the University of Copenhagen” — why not just a geneticist?</li>
+  <li> “giraffes are a poster child for evolutionary oddities” — why not just oddities?</li>
+<li> “several phenotypic traits that share evolutionary constraints” — why not just constraints, as in engineering specifications?</li>
+<li> “This [reduction in olfactory sensitivity] may be an evolutionary consequence of enhanced vision” — why not just a consequence, as in a designed trade-off for multiple competing specifications?</li>
+<li> “evolutionary adaptations” — why not just adaptations, or unique traits fit for the giraffe’s ecological niche?</li>
+  <li> “evolutionary pleiotropy” — why not just pleiotropy?</li>
+<li> “a suite of traits are changed within a short evolutionary time” — why not a suite of traits that work together?</li>
 </ul>
 Typists could avoid carpal tunnel syndrome by eliminating this unnecessary word in science papers and news stories. 
 It seems that the “evolutionary” biologists, who should just call themselves biologists, want to push a narrative
@@ -42,7 +42,7 @@ tableau where every creature came from some other creature and is becoming somet
         have often explained, everything changes, and that is all that "evolution" means.  It is only when natural selection is invoked that
         they become unable to acknowledge those changes.  And, it turns out, when common descent is inferred.  Their love affair with "change"
         seems to always end there.
-        <P>
+        <p>
         So now we seem to be back to an earlier era, when species were assumed to be fixed.  Even Young Earth Creationists seemed lately 
           to have invoked extremely rapid evolution so as to turn the limited number of "kinds" that would fit on the Ark into all present-day species in a few hundred years.
           But now the Discovery Institute announces that, whatever the amount of change, the word "evolution" is unhearable.
