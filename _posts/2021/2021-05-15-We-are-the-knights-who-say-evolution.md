@@ -39,6 +39,7 @@ heads. Everything in nature, they are taught with this propaganda tactic, is par
 tableau where every creature came from some other creature and is becoming something else. 
 </blockquote>
 
+
 And here I had thought that the Discovery Institute was now OK with using the word "evolution".  After all, they
 have often explained, everything changes, and that is all that "evolution" means.  It is only when natural selection is invoked that
 they become unable to acknowledge those changes.  And, it turns out, when common descent is inferred.  Their love affair with "change"
