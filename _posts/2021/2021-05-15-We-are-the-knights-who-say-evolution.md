@@ -38,6 +38,7 @@ that everything in the living world must pay tribute to Darwin. The repetition o
 heads. Everything in nature, they are taught with this propaganda tactic, is part of a fluid phantasmagoric 
 tableau where every creature came from some other creature and is becoming something else. 
 </blockquote>
+
       <p>
         And here I had thought that the Discovery Institute was now OK with using the word "evolution".  After all, they
         have often explained, everything changes, and that is all that "evolution" means.  It is only when natural selection is invoked that
