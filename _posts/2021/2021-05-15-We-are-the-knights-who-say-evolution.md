@@ -12,10 +12,9 @@ author: 'Joe Felsenstein'
 
 <P>
  In a famous scene in <em>Monty Python and the Holy Grail</em>, King Arthur and his knights encounter the menacing figures of The Knights Who Say "Ni" (pronounced "nee").  The word
- is so unhearable that they fall back in anguish, covering their ears.  Ultimately, they are allowed to pass, but only after providing those Knights with what they want, "a shrubbery".
+ is so unhearable that Arthur and his men fall back in anguish, covering their ears.  Ultimately, they are allowed to pass, but only after providing those Knights with what they want, "a shrubbery".
   <p>
-    If you thought that the scene was farfetched, think again.  At <em>Evolution News and and Science Today</em> their anonymous commentator (Casey Luskin? David Klinghoffer?)
-    complains about an equally unhearable word.  After interpreting the evolution of the giraffe as brought about by Design rather than by evolutionary processes, the real complaint comes out:
+    If you thought that the scene was farfetched, think again.  At <em>Evolution News and and Science Today</em> their anonymous commentator (Casey Luskin? David Klinghoffer?), in an article about the giraffe genome, <a href="https://evolutionnews.org/2021/05/giraffe-genome-is-not-evolutionary/"><strong>complains about an equally unhearable word</strong></a>.  After interpreting the evolution of the giraffe as brought about by Design rather than by evolutionary processes, the real complaint comes out:
     <p>
     <!--more-->
     <P>
