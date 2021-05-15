@@ -17,18 +17,18 @@ author: 'Joe Felsenstein'
     If you thought that the scene was farfetched, think again.  At <em>Evolution News and and Science Today</em> their anonymous commentator (Casey Luskin? David Klinghoffer?), in an article about the giraffe genome, <a href="https://evolutionnews.org/2021/05/giraffe-genome-is-not-evolutionary/"><strong>complains about an equally unhearable word</strong></a>.  After interpreting the evolution of the giraffe as brought about by Design rather than by evolutionary processes, the real complaint comes out:
     <p>
     <!--more-->
-    <P>
-    <blockquote>
-      <h3>The Bad “Evolutionary” Habit</h3>
+      <P>
+<blockquote>
+<h3>The Bad “Evolutionary” Habit</h3>
 <p>
 Throughout these articles, one can see the writers inserting the adjective “evolutionary” in front of everything. 
 <ul>
-  <li> “an evolutionary geneticist at the University of Copenhagen” — why not just a geneticist?</li>
-  <li> “giraffes are a poster child for evolutionary oddities” — why not just oddities?</li>
+<li> “an evolutionary geneticist at the University of Copenhagen” — why not just a geneticist?</li>
+<li> “giraffes are a poster child for evolutionary oddities” — why not just oddities?</li>
 <li> “several phenotypic traits that share evolutionary constraints” — why not just constraints, as in engineering specifications?</li>
 <li> “This [reduction in olfactory sensitivity] may be an evolutionary consequence of enhanced vision” — why not just a consequence, as in a designed trade-off for multiple competing specifications?</li>
 <li> “evolutionary adaptations” — why not just adaptations, or unique traits fit for the giraffe’s ecological niche?</li>
-  <li> “evolutionary pleiotropy” — why not just pleiotropy?</li>
+<li> “evolutionary pleiotropy” — why not just pleiotropy?</li>
 <li> “a suite of traits are changed within a short evolutionary time” — why not a suite of traits that work together?</li>
 </ul>
 
@@ -37,6 +37,7 @@ It seems that the “evolutionary” biologists, who should just call themselves
 that everything in the living world must pay tribute to Darwin. The repetition of the word hammers it into people’s
 heads. Everything in nature, they are taught with this propaganda tactic, is part of a fluid phantasmagoric 
 tableau where every creature came from some other creature and is becoming something else. 
+<p>
 </blockquote>
 
 
