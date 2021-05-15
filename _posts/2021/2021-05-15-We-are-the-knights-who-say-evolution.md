@@ -39,19 +39,18 @@ heads. Everything in nature, they are taught with this propaganda tactic, is par
 tableau where every creature came from some other creature and is becoming something else. 
 </blockquote>
 
-      <p>
-        And here I had thought that the Discovery Institute was now OK with using the word "evolution".  After all, they
-        have often explained, everything changes, and that is all that "evolution" means.  It is only when natural selection is invoked that
-        they become unable to acknowledge those changes.  And, it turns out, when common descent is inferred.  Their love affair with "change"
-        seems to always end there.
-        <p>
-        So now we seem to be back to an earlier era, when species were assumed to be fixed.  Even Young Earth Creationists seemed lately 
-          to have invoked extremely rapid evolution so as to turn the limited number of "kinds" that would fit on the Ark into all present-day species in a few hundred years.
-          But now the Discovery Institute announces that, whatever the amount of change, the word "evolution" is unhearable.
-          <p>
-            Well, I am an evolutionary biologist, because that's what I work on -- the processes of evolution and the history of life that results. 
-            And I guarantee you that evolutionary geneticists, evolutionary genomicists, evolutionary anthropologists, evolutionary physiologists, evolutionary developmental biologists,
-            and evolutionary molecular biologists are going to keep using that word, no matter how unhearable it is to the Discovery Institute. We will investigate
-            evolutionary rates, evolutionary correlations, evolutionary tradeoffs, and much more.
-            And there is no "shrubbery" that will change that.
+And here I had thought that the Discovery Institute was now OK with using the word "evolution".  After all, they
+have often explained, everything changes, and that is all that "evolution" means.  It is only when natural selection is invoked that
+they become unable to acknowledge those changes.  And, it turns out, when common descent is inferred.  Their love affair with "change"
+seems to always end there.
+<p>
+So now we seem to be back to an earlier era, when species were assumed to be fixed.  Even Young Earth Creationists seemed lately 
+to have invoked extremely rapid evolution so as to turn the limited number of "kinds" that would fit on the Ark into all present-day species in a few hundred years.
+But now the Discovery Institute announces that, whatever the amount of change, the word "evolution" is unhearable.
+<p>
+Well, I am an evolutionary biologist, because that's what I work on -- the processes of evolution and the history of life that results. 
+And I guarantee you that evolutionary geneticists, evolutionary genomicists, evolutionary anthropologists, evolutionary physiologists, evolutionary developmental biologists,
+and evolutionary molecular biologists are going to keep using that word, no matter how unhearable it is to the Discovery Institute. We will investigate
+evolutionary rates, evolutionary correlations, evolutionary tradeoffs, and much more.
+And there is no "shrubbery" that will change that.
             
