@@ -18,7 +18,8 @@ author: 'Joe Felsenstein'
     <p>
     <!--more-->
       <P>
-<blockquote border=1>
+<div bgcolor="lightblue">
+<blockquote>
 <h3>The Bad “Evolutionary” Habit</h3>
 
 Throughout these articles, one can see the writers inserting the adjective “evolutionary” in front of everything. 
@@ -39,6 +40,7 @@ heads. Everything in nature, they are taught with this propaganda tactic, is par
 tableau where every creature came from some other creature and is becoming something else. 
 
 </blockquote>
+</div>
 
 &nbsp;&nbsp;
 And here I had thought that the Discovery Institute was now OK with using the word "evolution".  After all, they
