@@ -18,7 +18,7 @@ author: 'Joe Felsenstein'
     <p>
     <!--more-->
       <P>
-<blockquote>
+<blockquote border=1>
 <h3>The Bad “Evolutionary” Habit</h3>
 
 Throughout these articles, one can see the writers inserting the adjective “evolutionary” in front of everything. 
