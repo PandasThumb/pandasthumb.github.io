@@ -11,9 +11,9 @@ author: Matt Young
 </figure>
 
 
-<blockquote>The evil that men do lives after them;
+<blockquote>The evil that men do lives after them;<br/>
   
-The good is oft interred with their bones.
+The good is oft interred with their bones.<br/>
 
 &mdash;Shakespeare, <i>Julius Caesar</i> </blockquote>
 
