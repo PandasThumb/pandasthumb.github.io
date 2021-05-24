@@ -19,3 +19,13 @@ The "Dr. Axe" in question is Douglas Axe, the president of the Biologic Institut
 I am not very familiar with Biologic Institute, and reading a 2019 Form 990-EZ seems almost like reading ancient history, or at least medieval history, so I took a look at their website. The home page displays an undated article that was reposted from a 2017 article, followed by another article dated 2018. Medieval history indeed! Undiscouraged, I checked a tab labeled <a href="https://www.biologicinstitute.org/research">Research</a>. After a long discussion of motivation, "core ideas," and research areas, they list their publications. I will let other people discuss the content of the publications and will note only that the most recent is from 2014. Thus, unless the web page has simply been ignored, there has been little or no activity at the Biologic Institute since 2013 or 2014 at the latest.
 
 If the Biologic Institute is not dead, it has surely been moribund for the better part of the last decade. Where, I wonder, is their vaunted research program now?
+
+ADDED 6:30 p.m., 05/23/2021:
+
+A colleague sent me <a href="https://ccfs.sos.wa.gov/#/">here</a>, whence I scrolled down to "Charity ... Search" and entered "Biologic Institute." I quickly found the following, which suggests that they ceased operations on 09/30/2019 with a balance of $9285, which precisely matches the amount on the last Form 990_EZ that I could find. 
+
+<figure>
+<img src="/uploads/2021/Biologic_Institute_Data.jpg" alt="Data Sheet"/>
+</figure>
+
+According to "Business Search," the corporation is "Active" through 10/31/2021, but with Dr. Axe gone, we may assume that they will be about as productive as in the past.
