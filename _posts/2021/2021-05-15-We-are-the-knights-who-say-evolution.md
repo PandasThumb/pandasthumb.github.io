@@ -39,8 +39,9 @@ It seems that the “evolutionary” biologists, who should just call themselves
 that everything in the living world must pay tribute to Darwin. The repetition of the word hammers it into people’s
 heads. Everything in nature, they are taught with this propaganda tactic, is part of a fluid phantasmagoric 
 tableau where every creature came from some other creature and is becoming something else. 
-
-<p><em>[end of quote from EN&amp;ST]</em>
+<p>
+&nbsp;&nbsp;<p>  
+<em>[end of quote from EN&amp;ST]</em>
 </blockquote>
 </div>
 
