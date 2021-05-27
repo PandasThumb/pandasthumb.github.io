@@ -20,6 +20,7 @@ author: 'Joe Felsenstein'
       <P>
 <div bgcolor="lightblue">
 <blockquote>
+  <em>[quote from EN&amp;ST]</em>
 <h3>The Bad “Evolutionary” Habit</h3>
 
 Throughout these articles, one can see the writers inserting the adjective “evolutionary” in front of everything. 
@@ -39,6 +40,7 @@ that everything in the living world must pay tribute to Darwin. The repetition o
 heads. Everything in nature, they are taught with this propaganda tactic, is part of a fluid phantasmagoric 
 tableau where every creature came from some other creature and is becoming something else. 
 
+ <em>[end of quote from EN&amp;ST]</em>
 </blockquote>
 </div>
 
