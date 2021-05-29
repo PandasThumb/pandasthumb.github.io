@@ -19,7 +19,7 @@ author: 'Joe Felsenstein'
     <!--more-->
       <P>
 <em>(quote from EN&amp;ST)</em>
-<div>
+
 <blockquote>
 
 <h3>The Bad “Evolutionary” Habit</h3>
@@ -42,7 +42,8 @@ heads. Everything in nature, they are taught with this propaganda tactic, is par
 tableau where every creature came from some other creature and is becoming something else. 
 <p>
 </blockquote>
-</div>
+
+  <P>
 <em>(end of quote from EN&amp;ST)</em>
 
 &nbsp;&nbsp;
