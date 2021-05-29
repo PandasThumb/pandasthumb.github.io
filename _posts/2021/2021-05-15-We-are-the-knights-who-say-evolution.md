@@ -41,6 +41,7 @@ that everything in the living world must pay tribute to Darwin. The repetition o
 heads. Everything in nature, they are taught with this propaganda tactic, is part of a fluid phantasmagoric 
 tableau where every creature came from some other creature and is becoming something else. 
 <p>
+
 </blockquote>
 
   <P>
