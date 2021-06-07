@@ -1,13 +1,8 @@
 ---
 title: 'Do Not Jump the Gun'
-date: '2022-06-07 12:00:00 -06:00'
+date: '2021-06-07 09:53:00 -06:00'
 author: Matt Young
 ---
-<figure>
-<img src="/uploads/2021/" alt=""/>
-<figcaption>   
-</figcaption>
-</figure>
 
 In a dispassionate look at the Covid pandemic, on May 28, Ann Reid of the <a href="https://ncse.ngo">National Center for Science Education</a> warns us <a href="https://ncse.ngo/remember-when-we-said-dont-jump-gun-we-need-say-it-again">not to jump the gun</a> and assume that the pandemic was caused by a leak from the laboratory of the Wuhan Institute of Virology (WIV). Dr. Reid notes that
 <blockquote>even though the overwhelming likelihood remains that SARS-CoV-2 evolved naturally, the accidental-escape theory hasn’t been ruled out. Still, there are a lot of reasons why that scenario is unlikely. Foremost among them, to my mind, is that it’s hard to imagine how a wild bat virus could evolve the ability to be both infectious to humans and transmissible between humans in a highly controlled laboratory environment, even admitting the possibility of occasional safety lapses (which have so far only been rumored, not proven). Remember, the most closely related bat virus — which cannot infect humans — <a href="https://www.nature.com/articles/s41564-020-0771-4">differs at over 1,200 nucleotides</a>. Nevertheless, making a good-faith effort to rule out that possibility is important, and that is why a group of prominent scientists recently <a href="https://science.sciencemag.org/content/372/6543/694.1">called for a new investigation</a>, suggesting that an earlier one was not as thorough as it should have been.</blockquote>
