@@ -6,7 +6,7 @@ author: Mikkel Nif Rasmussen
 
 ID-creationists Ola Hössjer, Günter Bechly, and Ann Gauger have managed to get a paper published [Hossjer et al. 2021](https://www.sciencedirect.com/science/article/pii/S0022519321000795) in the Journal of theoretical biology, in which they argue that a complex adaptation would take a very long time to evolve given certain imaginary conditions. 
 
-![JTB IDcreationist paper](/uploads/2021/JTBHBG.jpg)
+![JTB IDcreationist paper](/uploads/2021/JTBHBG2021.jpg)
 
 They never give any evidence that any known complex adaptation had to evolve through their imaginary scenario, so the relevance of their paper to real biology is only that, imaginary.
 
