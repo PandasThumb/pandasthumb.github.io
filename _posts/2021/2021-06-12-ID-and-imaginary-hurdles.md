@@ -1,6 +1,6 @@
 ---
 title: '"Waiting time problems” and imaginary hurdles for evolution'
-date: '2021-06-12 21:00:00 -06:00'
+date: '2021-06-12 11:00:00 -06:00'
 author: Mikkel Nif Rasmussen
 --- 
 
