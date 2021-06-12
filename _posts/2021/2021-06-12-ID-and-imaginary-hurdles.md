@@ -28,7 +28,8 @@ It’s another example of creationist papers focused on so-called “waiting tim
 Unfortunately for creationists, this imaginary scenario has next to nothing to do with how new potential genes gain regulatory promoter sequences. In real biology the background low-level affinities between DNA binding proteins and DNA sequences ensures that there’s basically always *some* activity for selection to act on to improve the binding between a transcription factor and a promoter sequence. 
 Rather than try to calculate the probability of evolving this with “targets” that have to match near-perfectly from some random ancestor with zero real chemical or biophysical input, biochemists have done even better and experimentally evolved promoters in the lab.  It turns out this is surprisingly easy for evolution. In an experiment with E coli [Yona et al. 2018](https://www.nature.com/articles/s41467-018-04026-w) approximately **~60%** of random DNA sequences are *one* mutation away from turning into a selectively useful transcriptional promoter, and **~10%** of random DNA sequences are functional promoters just by chance: 
 
-> **Random sequences rapidly evolve into de novo promoters** 
+> **Random sequences rapidly evolve into de novo promoters**
+> 
 > Avihu H. Yona, Eric J Alm & Jeff Gore
 >
 > **Abstract**
