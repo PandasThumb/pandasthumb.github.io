@@ -27,14 +27,16 @@ This is really all one needs to say about this paper with respect to its relevan
 It’s another example of creationist papers focused on so-called “waiting time problems” with evolution, which are typically based on the entirely imaginary - and totally dubious premise - that there are “target sequences” that evolution must find and evolve towards without any input by natural selection, by mutating incrementally from some random ancestral sequence until the correct (or almost correct) “target” sequence is produced by the chance accumulation of mutations. To nobody’s surprise, the longer the target sequence is, the longer it will take before chance mutations happen to produce it or something very near to it. 
 Unfortunately for creationists, this imaginary scenario has next to nothing to do with how new potential genes gain regulatory promoter sequences. In real biology the background low-level affinities between DNA binding proteins and DNA sequences ensures that there’s basically always *some* activity for selection to act on to improve the binding between a transcription factor and a promoter sequence. 
 Rather than try to calculate the probability of evolving this with “targets” that have to match near-perfectly from some random ancestor with zero real chemical or biophysical input, biochemists have done even better and experimentally evolved promoters in the lab.  It turns out this is surprisingly easy for evolution. In an experiment with E coli [Yona et al. 2018](https://www.nature.com/articles/s41467-018-04026-w) approximately **~60%** of random DNA sequences are *one* mutation away from turning into a selectively useful transcriptional promoter, and **~10%** of random DNA sequences are functional promoters just by chance: 
-[blockquote]
-**Random sequences rapidly evolve into de novo promoters** 
-Avihu H. Yona, Eric J Alm & Jeff Gore
 
-**Abstract**
-How new functions arise de novo is a fundamental question in evolution. We studied de novo evolution of promoters in Escherichia coli by replacing the lac promoter with various random sequences of the same size (~100 bp) and evolving the cells in the presence of lactose. We find that ~60% of random sequences can evolve expression comparable to the wild-type with only one mutation, and that ~10% of random sequences can serve as active promoters even without evolution. Such a short mutational distance between random sequences and active promoters may improve the evolvability, yet may also lead to accidental promoters inside genes that interfere with normal expression. Indeed, our bioinformatic analyses indicate that E. coli was under selection to reduce accidental promoters inside genes by avoiding promoter-like sequences. We suggest that a low threshold for functionality balanced by selection against undesired targets can increase the evolvability by making new beneficial features more accessible.
-[/blockquote]
+> **Random sequences rapidly evolve into de novo promoters** 
+> Avihu H. Yona, Eric J Alm & Jeff Gore
+>
+> **Abstract**
+> How new functions arise de novo is a fundamental question in evolution. We studied de novo evolution of promoters in Escherichia coli by replacing the lac promoter with various random sequences of the same size (~100 bp) and evolving the cells in the presence of lactose. We find that ~60% of random sequences can evolve expression comparable to the wild-type with only one mutation, and that ~10% of random sequences can serve as active promoters even without evolution. Such a short mutational distance between random sequences and active promoters may improve the evolvability, yet may also lead to accidental promoters inside genes that interfere with normal expression. Indeed, our bioinformatic analyses indicate that E. coli was under selection to reduce accidental promoters inside genes by avoiding promoter-like sequences. We suggest that a low threshold for functionality balanced by selection against undesired targets can increase the evolvability by making new beneficial features more accessible.
+
 
 References: 
+
 Hössjer O, Bechly G, Gauger A. On the waiting time until coordinated mutations get fixed in regulatory sequences. *J Theor Biol*. 2021;524:110657. doi:10.1016/j.jtbi.2021.110657
+
 Yona AH, Alm EJ, Gore J. Random sequences rapidly evolve into de novo promoters. *Nat Commun*. 2018;9(1):1530. Published 2018 Apr 18. doi:10.1038/s41467-018-04026-w
