@@ -16,7 +16,7 @@ The 13th annual Panda's Thumb Photography Contest begins now, Monday, June 21, a
 
 We encourage entries in a single, general category, which includes pictures of just about anything of scientific interest: any object of experimentation or observation, from single-celled organisms, through nematodes, fruit flies, rats, chimpanzees, and college sophomores to volcanoes, stars, and galaxies. In order not to omit theoreticians, we will consider computer-generated pictures and also photographs of equipment. Photomicrographs and electron micrographs are likewise welcomed.
 
-Since rumor has it that the pandemic encouraged macro photography, we may, if we receive enough entries, 
+Since rumor has it that the pandemic encouraged macro photography, we may, if we receive enough entries, establish a "macro" category.
 
 The winner and the runner-up will receive a book, title to be determined, generously donated by the <a href="https://ncse.com/">National Center for Science Education</a>, and a copy of one of my own books.
 
@@ -48,4 +48,4 @@ The rules of the contest are simple:
 
 >Even though we are getting fairly good at running contests, we reserve the right to change any of the rules, or add or subtract rules at any time at our discretion.
 
-We will choose a number of finalists and open voting for the winner at 12:00 p.m., Monday, July 12. Voting will end Friday, July 23, <i>at 9:00 a.m.</i>, and the winner will be announced om Monday, July 26, at 12:00.
+We will choose a number of finalists and open voting for the winner at 12:00 p.m., Monday, July 12. Voting will end Friday, July 23, at 12:00 noon, and the winner will be announced om Monday, July 26, at 12:00.
