@@ -4,12 +4,12 @@ date: '2021-06-22 12:00:00 -06:00'
 author: Faizal Ali  
 ---
 
-![Devil Bat movie](/uploads/2021/devilbat.png)
+![Devil Bat movie](/uploads/2021/Devilbat.png)
 <div align="center">
   Are killer bat experiments by mad scientists only the stuff of B movies?
   </div>
 
-
+<p>
 <p>Although William Dembski is no longer a prominent figure in the Intelligent Design movement he helped found, he does remain among its proponents and occasionally writes about it on his blog.  A recent entry entitled <a href="https://billdembski.com/intelligent-design/how-to-cover-up-design-inferences/">"How to Cover Up a Design Inference: The Coronavirus as a Case Study"</a> draws some unexpected, and unintentionally revealing, connections between ID and the COVID-19 pandemic.</p> 
 <p>He begins with a brief summary of his ID argument:</p>
 <p><i>(My) method took the form of an inference—specifically, an inference to the best explanation. Thus the method asserted that if an event, object, or structure conforms to an independently given pattern (i.e., a specification) and if in the absence of intelligence the probability of matching that pattern is small (i.e., improbability), then a design inference is warranted. Simply put, specified improbability constitutes a method for inferring design. Moreover, things that exhibit specified improbability are best explained as the product of intelligence.</i></p>
