@@ -18,7 +18,7 @@ We encourage entries in a single, general category, which includes pictures of j
 
 Since rumor has it that the pandemic encouraged macro photography, we may, if we receive enough entries, establish a "macro" category.
 
-The winner and the runner-up will receive a copy of <a href="https://www.penguinrandomhouse.com/books/534976/improbable-destinies-by-jonathan-b-losos/">Improbable Destinies</a> by Jonathan Losos, generously donated by the <a href="https://ncse.com/">National Center for Science Education</a>, and a copy of one of my own books.
+The winner and the runner-up will receive a copy of <a href="https://www.penguinrandomhouse.com/books/534976/improbable-destinies-by-jonathan-b-losos/">Improbable Destinies</a> by Jonathan Losos, generously donated by the <a href="https://ncse.com/">National Center for Science Education</a>, and a copy of one of my own books. 
 
 <!--more-->
 
