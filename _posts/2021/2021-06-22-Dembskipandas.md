@@ -5,6 +5,10 @@ author: Faizal Ali
 ---
 
 ![Devil Bat movie](/uploads/2021/devilbat.png)
+<div align="center">
+  Are killer bat experiments by mad scientists only the stuff of B movies?
+  </div>
+
 
 <p>Although William Dembski is no longer a prominent figure in the Intelligent Design movement he helped found, he does remain among its proponents and occasionally writes about it on his blog.  A recent entry entitled <a href="https://billdembski.com/intelligent-design/how-to-cover-up-design-inferences/">"How to Cover Up a Design Inference: The Coronavirus as a Case Study"</a> draws some unexpected, and unintentionally revealing, connections between ID and the COVID-19 pandemic.</p> 
 <p>He begins with a brief summary of his ID argument:</p>
