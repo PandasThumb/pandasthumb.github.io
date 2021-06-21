@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Bill Dembski has thoughts about COVID-19'
 date: '2021-06-22 12:00:00 -06:00'
 author: Faizal Ali  
