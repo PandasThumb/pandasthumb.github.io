@@ -1,8 +1,10 @@
-﻿---
+---
 Title: 'Phylogeny Q&A for the skeptic'
-Date: '2021-07-01 12:00:00 -9:00'
+Date: '2021-07-01 12:00:01 -9:00'
 Author: John Harshman
 ---
+
+_Questions by Josh Swamidass_
 
 <figure>
 <img src="/uploads/2021/cladograms.png" alt="figure 1">
@@ -10,7 +12,7 @@ Author: John Harshman
 </figure>
 <P>
 
-_Questions by Josh Swamidass_
+
 
 The most powerful evidence in favor of common descent is what’s called the nested hierarchy of life. Other scientists may have their own candidates for most powerful evidence, and might say that the most powerful evidence comes from within their fields. A paleontologist might point to the fossil record. But I’m a phylogeneticist and I’m writing this, so nested hierarchy it is. Also, since I work with molecular data, I’m going to talk most often about DNA sequences. But what I say applies to all sorts of other data too: proteins, anatomy, behavior, whatever heritable features an organism has.
  
