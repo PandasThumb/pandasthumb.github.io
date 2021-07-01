@@ -8,7 +8,7 @@ _Questions by Josh Swamidass, the rest by John Harshman_
 
 <figure>
 <img src="/uploads/2021/cladograms.png" alt="figure 1">
-</figure>
+</figure> 
 <P>
 
 
@@ -77,5 +77,3 @@ There are cases in which you might choose to leave out some species: those at th
  <p>
 
 Not usually. Attributes are picked because they show a reasonable amount of variation. If a character doesn’t vary across the tree, it can’t disagree with any tree, and so is useless for a test. If a character varies wildly within species, it doesn’t provide evidence for variation between species. There’s a middle ground that provides the most efficient source of data, enough variation to be useful but not enough to dissolve into noise, and that middle ground may be different depending on what collection of species you want to study. More recent events may be best investigated using fast-evolving DNA sequences such as introns, while very ancient events may be best investigated using amino acid sequences of slowly evolving proteins. Importantly, when choosing a sequence of DNA to include in a data set, we don’t know in advance what tree it will support, and we use all of the sequence we gather, so cherry-picking is unlikely. With anatomical data, cherry-picking is possible, but scientists make every effort to sample a variety of characters so as to avoid this, and again without regard to what sort of tree they might support. 
- 
- 
