@@ -1,13 +1,14 @@
 ﻿---
-title: 'Phylogeny Q&A for the skeptic'
-date: '2021-07-01 12:00:00 -9:00 PST'
-author: John Harshman
+Title: 'Phylogeny Q&A for the skeptic'
+Date: '2021-07-01 12:00:00 -9:00'
+Author: John Harshman
 ---
 
 <figure>
 <img src="/uploads/2021/cladograms.png" alt="figure 1">
 <figcaption>Cladograms for a four-species two-character data set showing one that perfectly fits the first character, and one that perfectly fits the second character.  Both are equally parsimonious, requiring 3 steps</figcaption>
 </figure>
+<P>
 
 _Questions by Josh Swamidass_
 
@@ -39,6 +40,7 @@ A second source of homoplasy is adaptive convergence: two distantly related spec
 <img src="/uploads/2021/ILS.png" alt="figure 2">
 <figcaption>Incomplete lineage sorting for the frequency of an allele in a four-species tree</figcaption>
 </figure>
+ <P>
  
 Another common event is incomplete lineage sorting. Since populations are not uniform but contain genetic variation, some of that variation can be long-lasting enough to be maintained across multiple branchings of species. When that variation is eventually sorted out, as must eventually happen, different species may retain different variations. In such cases, the actual tree of descent of the characters may differ slightly from the tree of the species they reside in and from the trees of other characters. 
  
