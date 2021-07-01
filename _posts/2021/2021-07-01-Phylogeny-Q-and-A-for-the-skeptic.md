@@ -1,7 +1,7 @@
 ---
-Title: 'Q and A on phylogeny for the skeptic'
-Date: '2021-07-01 12:00:01 -9:00'
-Author: John Harshman
+title: 'Q and A on phylogeny for the skeptic'
+date: '2021-07-01 12:00:01 -9:00'
+author: John Harshman
 ---
 
 _Questions by Josh Swamidass_
