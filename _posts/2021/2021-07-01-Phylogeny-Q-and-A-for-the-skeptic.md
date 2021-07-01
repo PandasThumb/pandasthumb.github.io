@@ -1,5 +1,5 @@
 ---
-Title: 'Phylogeny Q&A for the skeptic'
+Title: 'Q&A on phylogeny for the skeptic'
 Date: '2021-07-01 12:00:01 -9:00'
 Author: John Harshman
 ---
