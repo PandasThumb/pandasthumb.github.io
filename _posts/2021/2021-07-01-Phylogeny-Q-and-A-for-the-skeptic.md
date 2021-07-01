@@ -4,7 +4,7 @@ date: '2021-07-01 10:48:00 -6:00'
 author: John Harshman
 ---
 
-_Questions by Josh Swamidass, the rest by John Harshman_
+<strong>Questions by Josh Swamidass, the rest by John Harshman</strong>
 
 <figure>
 <img src="/uploads/2021/cladograms.png" alt="figure 1">
@@ -25,8 +25,10 @@ But of course the tree diagram itself is evidence of nothing; you can draw a tre
 We also need some way to decide which tree the data fit. I’m going to use a very simple criterion, parsimony. Other criteria are more complex, but the way they are used is the same. Under parsimony, the tree that most simply accounts for the similarities and differences among the species is the one that fits. Consider, for example, the two characteristics (characters, for short) shown in the figure above, character #1 in blue and character #2 in red. Each of them has two possible values, or states, that we name A and B. In the tree at left, look at character #1 (again, in blue); the human and chimp both have the state A, and the gorilla and orangutan share state B. That’s  most simply explained by a change in character state, from B to A, happening in one branch of the left-hand tree. But the same character would require two changes to explain the distribution of A and B among species on the right-hand tree. For that reason we say that character supports the left-hand tree but not the right-hand tree. (Character B, the one in red, supports the right-hand tree but not the left-hand tree) If we collect a great many characters and they all support the left-hand tree, that’s good evidence of a true nested hierarchy and thus a true tree of descent.
 <p>
 
-Any questions?
+Any questions? 
+
  <!--more-->
+ 
 <p>
 
 <em>1. What would it look like for data not to fit the tree?</em>
