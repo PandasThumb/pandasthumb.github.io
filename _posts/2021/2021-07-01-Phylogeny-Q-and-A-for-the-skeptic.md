@@ -1,6 +1,6 @@
 ---
 title: 'Q and A on phylogeny for the skeptic'
-date: '2021-07-01 12:00:01 -9:00'
+date: '2021-07-01 10:48:00 -6:00'
 author: John Harshman
 ---
 
