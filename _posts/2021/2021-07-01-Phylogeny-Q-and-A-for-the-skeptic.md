@@ -1,7 +1,7 @@
 ---
 Title: 'Q &amp; A on phylogeny for the skeptic'
 Date: '2021-07-01 12:00:01 -9:00'
-Author: 'John Harshman'
+Author: "John Harshman"
 ---
 
 _Questions by Josh Swamidass_
@@ -29,13 +29,13 @@ Any questions?
  <!--more-->
 <p>
 
-_1. What would it look like for data not to fit the tree?_
+<em>1. What would it look like for data not to fit the tree?</em>
 <p>
 
 There are many possible measurements of the fit of data to a tree, and they aren’t all or nothing. Data would fit the tree to a greater or lesser degree, and the degree of fit would not just be to the tree itself but to the tree and the model of change you attach to it. But forgetting all those complexities, let's consider one simple model, parsimony: data fit the tree if they can be explained by the smallest possible number of evolutionary changes. If there are two possible states of a character, as in the figure above, the smallest possible number of changes is one, and the character fits the tree perfectly if only one change is needed to account for the distribution of states in the included species, as the left-hand tree did for character #1. If two or more changes are needed, as for character #2 on the left-hand tree, the character doesn’t fit the tree, or at least not perfectly. Character #2 fits the right-hand tree instead. If we have a large collection of characters, a data set, the data set fits the tree perfectly if each character requires only one change on that tree. If a few characters require two (or even more) changes, the data set fits the tree pretty well. If we look at all possible trees, we say the data fit the left-hand tree  if most of the characters are like the character #1, requiring one change on that tree and two or more changes on other trees. If, on the other hand, different pieces of data prefer different trees, with no clear winner, that would show that the data set does not fit the tree.
 <p>
  
-_2. If common descent is true, do we expect violations in the tree in evolution? When and why?_
+<em>2. If common descent is true, do we expect violations in the tree in evolution? When and why?</em>
  <p>
 
 Yes, we do. There are several reasons why characters would be expected not  to fit the tree. The simplest is homoplasy: the same state arising twice at different spots on the tree. If changes are randomly sprinkled throughout the genome, we would expect a certain proportion of those changes to happen twice, on different branches of the tree. The resulting pattern of character states wouldn’t fit the tree on which they had actually occurred. Other possible reasons are incomplete lineage sorting and horizontal transfer.
@@ -64,7 +64,7 @@ A third source of violations of the tree is horizontal transfer, resulting from 
 So how do we deal with characters that conflict with the tree? If we’re lucky, homoplasy and other sources of conflict are rare and affect few characters. If homoplasy is common but random, different characters showing homoplasy will disagree on what tree to support, leaving the characters without homoplasy to show a consistent signal that stands out from the noise, even if collectively the noise is louder than the signal.
  <p>
 
-_3. Are the species misleadingly cherry picked to match the attributes to minimize homoplasy?_
+<em>3. Are the species misleadingly cherry picked to match the attributes to minimize homoplasy?</em>
  <p>
 
 No. The species in phylogenetic studies are picked to answer the questions the researcher is interested in. If you want to know relationships of humans within primates, you pick species from all the various groups of primates, and perhaps a rodent or two for an outgroup. If you want to know whether humans really are primates, you pick species from various other groups of mammals as well as a collection of primates. And generally you don’t know in advance how much homoplasy you will encounter.
@@ -73,7 +73,7 @@ No. The species in phylogenetic studies are picked to answer the questions the r
 There are cases in which you might choose to leave out some species: those at the end of very long branches may have accumulated so much homoplasy that they cause problems for the analysis. Leaving them out is one solution, but another would be to add more species that break up that long branch. However, that’s not always possible, as such species may not exist.
  <p>
 
-_4. Are attributes cherry-picked, such that other attributes would not fit the tree? What is a fair way to pick attributes?_
+<em>4. Are attributes cherry-picked, such that other attributes would not fit the tree? What is a fair way to pick attributes?</em>
  <p>
 
 Not usually. Attributes are picked because they show a reasonable amount of variation. If a character doesn’t vary across the tree, it can’t disagree with any tree, and so is useless for a test. If a character varies wildly within species, it doesn’t provide evidence for variation between species. There’s a middle ground that provides the most efficient source of data, enough variation to be useful but not enough to dissolve into noise, and that middle ground may be different depending on what collection of species you want to study. More recent events may be best investigated using fast-evolving DNA sequences such as introns, while very ancient events may be best investigated using amino acid sequences of slowly evolving proteins. Importantly, when choosing a sequence of DNA to include in a data set, we don’t know in advance what tree it will support, and we use all of the sequence we gather, so cherry-picking is unlikely. With anatomical data, cherry-picking is possible, but scientists make every effort to sample a variety of characters so as to avoid this, and again without regard to what sort of tree they might support. 
