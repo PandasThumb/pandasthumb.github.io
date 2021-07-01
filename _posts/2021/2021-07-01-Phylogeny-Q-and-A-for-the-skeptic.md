@@ -4,7 +4,7 @@ date: '2021-07-01 10:48:00 -6:00'
 author: John Harshman
 ---
 
-<strong>Questions by Josh Swamidass, the rest by John Harshman</strong>
+<strong>Questions by Josh Swamidass, the rest by John Harshman</strong> 
 
 <figure>
 <img src="/uploads/2021/cladograms.png" alt="figure 1">
