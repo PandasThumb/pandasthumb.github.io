@@ -12,4 +12,4 @@ author: Matt Young
 </figure>
 <big>Reminder: <a href="https://pandasthumb.org/archives/2021/06/photography-contest-xiii.html">Photography Contest XIII</a> ends in <2 days, on Wednesday, July 7, at noon, UTC – 6 h.</big><br/>
   
-Well, unless we decide to extend it for a week because of the July 4 holiday in the US. Stay tuned.
+Well, unless we decide to extend it for a week because of the July 4 holiday in the US. Stay tuned. 
