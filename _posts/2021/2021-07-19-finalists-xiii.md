@@ -4,7 +4,7 @@ date: '2021-07-19 12:00:00 -06:00'
 author: Matt Young
 ---
 
-Here are the finalists of the 2021 photography contest. It was nice to see some new names as well as old friends. With assistance from Our Wife and Harshest Critic, we chose 8, which we display below the Figurative Fold. We chose the photographs more on the basis of their pictorial quality than on their scientific interest. The text, if any, was written by the photographers and lightly edited for consistency. The majority of those chosen are either macros or close-ups, so we did not define a macro category, as we had suggested in the "RFP."
+Here are the finalists of the 2021 photography contest. It was nice to see some new names as well as old friends. With assistance from Our Wife and Harshest Critic, we chose 8, which we display below the Figurative Fold. We chose the photographs more on the basis of their pictorial quality than on their scientific interest. The text, if any, was written by the photographers and lightly edited for consistency. The majority of finalists are either macros or close-ups, so we did not define a macro category, as we had suggested in the "RFP."
 
 The finalists are presented in alphabetical order of last name. Please look through their photographs before voting for your favorite. Polling will close Friday, July 30, at approximately noon MDT, and we will display the winner at noon Monday, August 2. 
 
