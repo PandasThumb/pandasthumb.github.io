@@ -6,7 +6,7 @@ author: Joe Felsenstein
 
 <figure>
 <img src="/uploads/2021/Diffusion640px.png">
-<figcaption>Diffusion, modeled by random movement of molecules.  By ,
+<figcaption>Diffusion, modeled by random movement of molecules.  By Jaap Pol,
 <a href="https://en.wikipedia.org/wiki/Diffusion#/media/File:Diffusion.svg">from Wikimedia Commons</a>, see <a href="https://creativecommons.org/licenses/by/3.0/">its license</a>,</figcaption>
 </figure>
 
@@ -24,13 +24,15 @@ theories have to be tossed out if we accept it.  Let me explain ...
 
 <!--more-->
 
-The general principle was stated by Eric Holloway, in a post on the Discovery
+The general principle was stated by Eric Holloway, in a post <a href="https://mindmatters.ai/2021/08/randomness-is-not-a-scientific-explanation/">"Randomness is
+not a Scientific Explanation"</a> on the Discovery
 Institute's site "Mind Matters" on 9 August 2021.  Mind Matters, a blog
 of the DI's Walter Bradley Center for Natural and Artificial Intelligence,
 is devoted
 to making profound arguments as to why artificial intelligence will forever
 remain unintelligent, because only supernatural forces can create an
-intelligent system.
+intelligent system.  The article was of course immediately <a href="https://uncommondescent.com/intelligent-design/at-mind-matters-news-randomness-is-not-a-scientific-explanation/">greeted with enthusiasm</a>
+at Uncommon Descent.
 
 <a
 href="https://mindmatters.ai/2021/08/randomness-is-not-a-scientific-explanation/">Here</a> is Holloway's argument:
@@ -99,8 +101,5 @@ interested to hear that.  Though I may be profoundly skeptical of that.
 
 So, does Holloway's argument work?  Has science been revolutionized?  Any
 discussion?
-
-
-
-Those are just the o
-
+    
+    <em>I wish to thank the Discovery Institute for making a science blogger's life easy.</em>
