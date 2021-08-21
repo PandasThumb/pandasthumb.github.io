@@ -102,4 +102,4 @@ interested to hear that.  Though I may be profoundly skeptical of that.
 So, does Holloway's argument work?  Has science been revolutionized?  Any
 discussion?
     
-    <em>I wish to thank the Discovery Institute for making a science blogger's life easy.</em>
+_I wish to thank the Discovery Institute for making a science blogger's life easy._
