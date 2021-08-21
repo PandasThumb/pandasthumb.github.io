@@ -41,18 +41,24 @@ href="https://mindmatters.ai/2021/08/randomness-is-not-a-scientific-explanation/
 >   3. In biology, much of the genome is random.
 >   4. In business theory, organizational ecologists state new ideas are
 > random.
+> <P>
+>
 > There is a general idea that everything new has its origins in randomness.
 > This is because within our current philosophy of science, the two fundamental
 > causes in our universe boil down to randomness and necessity. Since necessity
 > never creates anything new, then by process of elimination the source of
 > newness must be randomness. Similar to how the ancient Greeks believed the
 > universe originated from chaos.
+<p>
+    
 > Here's  the irony of the view that whatever is unique in our universe is
 > random: We can never know if anything is truly random. This is because
 > randomness is unprovable, which was proven by three different computer
 > scientists: Ray Solomonoff, Andrey Kolmogorov, and Gregory Chaitin.
 > The only thing we can know is that something is not random. Hence, we can
 > never know that something originated from randomness.
+<P>
+  
 > What does this result mean for science? It means that randomness can never be
 > a scientific explanation, since we can never know that something is random. At
 > best, saying something is random is shorthand for "we don't know".
