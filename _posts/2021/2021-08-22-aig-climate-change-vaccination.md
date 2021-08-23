@@ -7,7 +7,7 @@ author: Paul Braterman
 <figure>
 <img src="/uploads/2021/Great_Unmasked.jpg" alt="Audience"/>
 
-<figcaption><div align="center"><a href="https://twitter.com/aigkenham/status/1425040762052427776?s=21">Forty days & nights of gospel music at the Ark</a> &ndash; The Great Unmasked.</a></div> 
+<figcaption><div align="center"><a href="https://twitter.com/aigkenham/status/1425040762052427776?s=21">Forty days & nights of gospel music at the Ark</a> &ndash; The Great Unmasked.</div> 
 </figcaption>
 </figure>
 
