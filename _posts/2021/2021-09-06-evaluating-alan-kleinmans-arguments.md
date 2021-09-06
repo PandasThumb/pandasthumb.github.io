@@ -1,6 +1,6 @@
 ---
 title: "Evaluating Alan Kleinman\'s arguments"
-date: '2022-09-04 18:00 -7:00'
+date: '2022-09-06 18:00 -7:00'
 author: Joe Felsenstein
 ---
 
@@ -16,7 +16,7 @@ Let me explain.
 Kleinman has published 7 papers on modeling evolutionary processes:
 
 * Kleinman, A.  2014.  The basic science and mathematics of random mutation and natural
- selection <em>Statistics in Medicine</em> <strong>33 (29):</strong> 5074--5080[PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1002/sim.6307)
+ selection <em>Statistics in Medicine</em> <strong>33 (29):</strong> 5074--5080 [(PDF)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/sim.6307)
 * Kleinman, A. 2015.  Random recombination and evolution of drug resistance. <em>Statistics in Medicine</em> <strong>34 (11):</strong> 1977--1980.
 * Kleinman, A.  2016.  The mathematics of random mutation and natural selection for multiple simultaneous selection
  pressures and the evolution of antimicrobial drug resistance. <em>Statistics in Medicine</em> <strong>35 (29):</strong> 5391-5400
@@ -25,7 +25,7 @@ noncompetitive environments.  <em>Biomedical Journal</em> <strong>1:</strong> 4.
 * Kleinman, A. 2018b. Malaria and other infectious diseases, Suppression of the evolution
  of drug resistance. <em>Biomedical Journal of Scientific &amp; Technical Research</em>
 <strong>12 (2):</strong> 9083-9085.
-* Kleinman, A. 2019c. Fixation and adaptation in the Lenski E. coli Long Term Evolution Experiment. <em>Biomedical Journal of Scientific & Technical Research</em> <strong>20 (1):</strong> 14754--14760. [free PDF](https://www.researchgate.net/profile/Alan-Kleinman/publication/335243441_Fixation_and_Adaptation_in_the_Lenski_E_coli_Long_Term_Evolution_Experiment/links/5d5ae99d4585152102521f7f/Fixation-and-Adaptation-in-the-Lenski-E-coli-Long-Term-Evolution-Experiment.pdf)
+* Kleinman, A. 2019c. Fixation and adaptation in the Lenski E. coli Long Term Evolution Experiment. <em>Biomedical Journal of Scientific & Technical Research</em> <strong>20 (1):</strong> 14754--14760. [(PDF)](https://www.researchgate.net/profile/Alan-Kleinman/publication/335243441_Fixation_and_Adaptation_in_the_Lenski_E_coli_Long_Term_Evolution_Experiment/links/5d5ae99d4585152102521f7f/Fixation-and-Adaptation-in-the-Lenski-E-coli-Long-Term-Evolution-Experiment.pdf)
 * Kleinman, A. M. 2020.  Drug resistance, An enemy of targeted cancer therapies. <em>Annals of Clinical and Medical Case Reports</em> <strong>4 (9):</strong> 1--4.
 
 He has also brought his argument up repeatedly at Peaceful Science and at 
