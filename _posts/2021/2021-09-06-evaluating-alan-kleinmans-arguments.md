@@ -1,7 +1,7 @@
 ---
-title: "Evaluating Alan Kleinman\'s arguments"
+title: "Evaluating Alan Kleinman's arguments"
 date: '2021-09-06 18:00 -7:00'
-author: Joe Felsenstein
+author: 'Joe Felsenstein'
 ---
 
 Alan Kleinman has been commenting on various threads here at PT, in ways that repeatedly argue that he has done
