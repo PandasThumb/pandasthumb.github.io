@@ -1,4 +1,80 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://pandasthumb.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pandasthumb.org/" rel="alternate" type="text/html" /><updated>2021-09-06T13:54:53-07:00</updated><id>https://pandasthumb.org/feed.xml</id><title type="html">The Panda’s Thumb</title><entry><title type="html">Dendrocygna viduata</title><link href="https://pandasthumb.org/archives/2021/09/Dendrocygna-viduata.html" rel="alternate" type="text/html" title="Dendrocygna viduata" /><published>2021-09-06T11:00:00-07:00</published><updated>2021-09-06T11:00:00-07:00</updated><id>https://pandasthumb.org/archives/2021/09/Dendrocygna-viduata</id><content type="html" xml:base="https://pandasthumb.org/archives/2021/09/Dendrocygna-viduata.html">&lt;p&gt;Whistling ducks, by &lt;strong&gt;John Harshman&lt;/strong&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://pandasthumb.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pandasthumb.org/" rel="alternate" type="text/html" /><updated>2021-09-06T13:58:37-07:00</updated><id>https://pandasthumb.org/feed.xml</id><title type="html">The Panda’s Thumb</title><entry><title type="html"></title><link href="https://pandasthumb.org/archives/2021/09/2021-09-06-evaluating-alan-kleinmans-arguments.html" rel="alternate" type="text/html" title="" /><published>2021-09-06T13:58:37-07:00</published><updated>2021-09-06T13:58:37-07:00</updated><id>https://pandasthumb.org/archives/2021/09/2021-09-06-evaluating-alan-kleinmans-arguments</id><content type="html" xml:base="https://pandasthumb.org/archives/2021/09/2021-09-06-evaluating-alan-kleinmans-arguments.html">&lt;p&gt;Alan Kleinman has been commenting on various threads here at PT, in ways that repeatedly argue that he has done
+the first correct probabilistic analysis of “DNA evolutionary adaptation” and “competition”, and that call for
+evolutionary biologists to provide an analysis of the Lenski and Kishony experiments in bacterial evolution.  He
+also argues that we have not provided a correct analysis of bacterial antibiotic resistence or of the evolution
+of drug resistance in cancer.  This thread is intended to allow discussion of these assertions, without disrupting discussions of other topics at PT.&lt;/p&gt;
+
+&lt;p&gt;Let me explain.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Kleinman has published 7 papers on modeling evolutionary processes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Kleinman, A.  2014.  The basic science and mathematics of random mutation and natural
+ selection &lt;em&gt;Statistics in Medicine&lt;/em&gt; &lt;strong&gt;33 (29):&lt;/strong&gt; 5074–5080 &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/pdf/10.1002/sim.6307&quot;&gt;(PDF)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kleinman, A. 2015.  Random recombination and evolution of drug resistance. &lt;em&gt;Statistics in Medicine&lt;/em&gt; &lt;strong&gt;34 (11):&lt;/strong&gt; 1977–1980.&lt;/li&gt;
+  &lt;li&gt;Kleinman, A.  2016.  The mathematics of random mutation and natural selection for multiple simultaneous selection
+ pressures and the evolution of antimicrobial drug resistance. &lt;em&gt;Statistics in Medicine&lt;/em&gt; &lt;strong&gt;35 (29):&lt;/strong&gt; 5391-5400&lt;/li&gt;
+  &lt;li&gt;Kleinman, A. 2018a.  Random mutation and natural selection in competitive and 
+noncompetitive environments.  &lt;em&gt;Biomedical Journal&lt;/em&gt; &lt;strong&gt;1:&lt;/strong&gt; 4.&lt;/li&gt;
+  &lt;li&gt;Kleinman, A. 2018b. Malaria and other infectious diseases, Suppression of the evolution
+ of drug resistance. &lt;em&gt;Biomedical Journal of Scientific &amp;amp; Technical Research&lt;/em&gt;
+&lt;strong&gt;12 (2):&lt;/strong&gt; 9083-9085.&lt;/li&gt;
+  &lt;li&gt;Kleinman, A. 2019c. Fixation and adaptation in the Lenski E. coli Long Term Evolution Experiment. &lt;em&gt;Biomedical Journal of Scientific &amp;amp; Technical Research&lt;/em&gt; &lt;strong&gt;20 (1):&lt;/strong&gt; 14754–14760. &lt;a href=&quot;https://www.researchgate.net/profile/Alan-Kleinman/publication/335243441_Fixation_and_Adaptation_in_the_Lenski_E_coli_Long_Term_Evolution_Experiment/links/5d5ae99d4585152102521f7f/Fixation-and-Adaptation-in-the-Lenski-E-coli-Long-Term-Evolution-Experiment.pdf&quot;&gt;(PDF)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kleinman, A. M. 2020.  Drug resistance, An enemy of targeted cancer therapies. &lt;em&gt;Annals of Clinical and Medical Case Reports&lt;/em&gt; &lt;strong&gt;4 (9):&lt;/strong&gt; 1–4.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;He has also brought his argument up repeatedly at Peaceful Science and at 
+Panda&quot;Thumb,
+usually in the middle of threads devoted to other issues.&lt;/p&gt;
+
+&lt;p&gt;The basic calculation he does is to consider a haploid clonally-reproducing organism such
+a bacterial culture, one which has no recombination.  He develops a formula for the
+probability that the clone has beneficial mutations occuring at &lt;em&gt;n&lt;/em&gt; sites, where the
+first such mutation has &lt;em&gt;nGA&lt;/em&gt; generations to occur, the second has &lt;em&gt;nGB&lt;/em&gt; generations to
+occur, and so on.  Note that an important feature of his model is that he considers,
+not the time in generations but the number of cells that have ever arisen in the clone.
+So with a probability &lt;em&gt;mu PA&lt;/em&gt; for each new cell that
+it has a beneficial mutation, it takes about &lt;em&gt;1/(mu PA)&lt;/em&gt; cells before there is a
+reasonable probability of seeing the beneficial mutation once.&lt;/p&gt;
+
+&lt;p&gt;The same theory is also used in most of his other papers (an exception being the paper
+on recombination which I will get back to later).  He has an idiosyncratic terminology.
+As far as I can tell it involves calling the occurrence of beneficial mutations by
+mutation “DNA adaptive evolution” while he calls their subsequent changes of gene
+frequency in the population “competition”.&lt;/p&gt;
+
+&lt;p&gt;A mystery (to me, anyway) is where selection is in all this.  We are computing
+probabilities that, when a given number of cells has arisen, we have had
+beneficial mutation at all of the &lt;em&gt;n&lt;/em&gt; sites.  Once one has occurred, there seems to
+be no futher mutation at that site.  Why?   This calculation is supposed to show
+us the fundamental mathematical theory of mutation &lt;em&gt;and selection&lt;/em&gt;, but aside from
+waiting until a mutation labelled “beneficial” occurs, there is no further
+effect of selection.&lt;/p&gt;
+
+&lt;p&gt;Some questions arise:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Kleinman sees two processes at work: “competition” which is survival of the fittest, and “DNA evolutionary adaptation” which is
+changes of genotypes by mutation, either deleterious or beneficial.  Is this terminology helpful?&lt;/li&gt;
+  &lt;li&gt;His equations are all about how many organisms (or cells) need to be available to get a given probability that a beneficial
+allele will arise by mutation.  The theory uses the stochastic process of mutation. How does natural selection affect
+this?&lt;/li&gt;
+  &lt;li&gt;His treatment of recombination between genotypes with two or more loci assumes that offspring of a cross between a haploid
+Ab genotype and a haploid  aB  genotype will all be  AB.  Is that true?&lt;/li&gt;
+  &lt;li&gt;He seems to think that he is the first to give a correct mathematical theory of
+mutation and natural selection.  Was he?  For example, his first paper has the
+rather astonishingly grand title “The basic science and mathematics of random mutation and
+natural selection”. Would RA Fisher
+(1922) or JBS Haldane (1924) have agreed?  I think he is off by 97-99 years.&lt;/li&gt;
+  &lt;li&gt;Is he really the first to apply the mathematics of population genetics theory to evolution or drug resistance in cancer, or to
+success of multidrug therapies for diseases?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Anyway, I must be misunderstanding how his theory works, and I hope that this thread will explain his theory to me.
+After all, it is the fundamental mathematical theory of my own field, so surely important to know.
+By doing the discussion here, we can avoid being so rudely interrupted by the folks who are trying to discuss arguments
+other than Kleinman&quot;s.&lt;/p&gt;</content><author><name></name></author></entry><entry><title type="html">Dendrocygna viduata</title><link href="https://pandasthumb.org/archives/2021/09/Dendrocygna-viduata.html" rel="alternate" type="text/html" title="Dendrocygna viduata" /><published>2021-09-06T11:00:00-07:00</published><updated>2021-09-06T11:00:00-07:00</updated><id>https://pandasthumb.org/archives/2021/09/Dendrocygna-viduata</id><content type="html" xml:base="https://pandasthumb.org/archives/2021/09/Dendrocygna-viduata.html">&lt;p&gt;Whistling ducks, by &lt;strong&gt;John Harshman&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Photography Contest, &lt;strong&gt;Honorable Mention&lt;/strong&gt;.&lt;/p&gt;
 &lt;figure&gt;
@@ -203,13 +279,4 @@ pure that it is acceptable to name something after them?&lt;/li&gt;&lt;br /&gt;
 &lt;figcaption&gt;
 &lt;a href=&quot;https://www.rspb.org.uk/birds-and-wildlife/wildlife-guides/bird-a-z/ring-necked-parakeet&quot;&gt; &lt;i&gt;Psittacula krameria&lt;/i&gt;&lt;/a&gt;, ring necked parakeet, photographed 27 June 2021, at the Royal Hospital, Chelsea, London SW3, United Kingdom. The photographer writes, &quot;Although they are not indigenous, there are estimated to be some 8600 breeding pairs in the UK, mostly in and around London. They are very noisy, and, often, quite tame and trusting! More info from the Royal Society for Protection of Birds (link, above).&quot;
 &lt;/figcaption&gt;
-&lt;/figure&gt;</content><author><name>Matt Young</name></author><summary type="html">Ring necked parakeet, by Philip Abrams. Photography Contest, Honorable Mention. Psittacula krameria, ring necked parakeet, photographed 27 June 2021, at the Royal Hospital, Chelsea, London SW3, United Kingdom. The photographer writes, &quot;Although they are not indigenous, there are estimated to be some 8600 breeding pairs in the UK, mostly in and around London. They are very noisy, and, often, quite tame and trusting! More info from the Royal Society for Protection of Birds (link, above).&quot;</summary></entry><entry><title type="html">Belostoma flumineum</title><link href="https://pandasthumb.org/archives/2021/08/Belostoma-flumineum.html" rel="alternate" type="text/html" title="Belostoma flumineum" /><published>2021-08-02T11:00:00-07:00</published><updated>2021-08-02T11:00:00-07:00</updated><id>https://pandasthumb.org/archives/2021/08/Belostoma-flumineum</id><content type="html" xml:base="https://pandasthumb.org/archives/2021/08/Belostoma-flumineum.html">&lt;p&gt;Photograph by &lt;strong&gt;Al Denelsbeck&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Photography contest, &lt;strong&gt;Runner-Up&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img src=&quot;/uploads/2021/Denelsbeck_Belostoma_flumineum_Notonecta_kirbyi.jpg&quot; alt=&quot;Giant water bug&quot; /&gt;
-&lt;figcaption&gt;
-&lt;a href=&quot;https://bugguide.net/node/view/368937&quot;&gt;&lt;i&gt;Belostoma flumineum&lt;/i&gt;&lt;/a&gt; – Giant water bug – and &lt;a href=&quot;https://bugguide.net/node/view/17932&quot;&gt;&lt;i&gt;Notonecta kirbyi &lt;/i&gt;&lt;/a&gt; – backswimmer prey: The photographer writes, &quot;I'm not &lt;i&gt;absolutely&lt;/i&gt; sure of the prey species, but we'll pretend that I'm confident/competent. I had collected some aquatic arthropods from a glorified ditch for some detailed aquarium shots, when the water bug cooperatively snagged the backswimmer for a meal – not exactly rare, because they're notoriously rapacious. The macro aquarium allowed both good lighting and a decent angle to fit within the short depth of field, and I cannot recommend one enough. The $5 'breeder' aquarium had one plastic side removed and replaced with a pane of glass from a photo frame for better clarity, allowing for desktop aquatic photos.&quot;
-&lt;/figcaption&gt;
-&lt;/figure&gt;</content><author><name>Matt Young</name></author><summary type="html">Photograph by Al Denelsbeck. Photography contest, Runner-Up. Belostoma flumineum – Giant water bug – and Notonecta kirbyi – backswimmer prey: The photographer writes, &quot;I'm not absolutely sure of the prey species, but we'll pretend that I'm confident/competent. I had collected some aquatic arthropods from a glorified ditch for some detailed aquarium shots, when the water bug cooperatively snagged the backswimmer for a meal – not exactly rare, because they're notoriously rapacious. The macro aquarium allowed both good lighting and a decent angle to fit within the short depth of field, and I cannot recommend one enough. The $5 'breeder' aquarium had one plastic side removed and replaced with a pane of glass from a photo frame for better clarity, allowing for desktop aquatic photos.&quot;</summary></entry></feed>
+&lt;/figure&gt;</content><author><name>Matt Young</name></author><summary type="html">Ring necked parakeet, by Philip Abrams. Photography Contest, Honorable Mention. Psittacula krameria, ring necked parakeet, photographed 27 June 2021, at the Royal Hospital, Chelsea, London SW3, United Kingdom. The photographer writes, &quot;Although they are not indigenous, there are estimated to be some 8600 breeding pairs in the UK, mostly in and around London. They are very noisy, and, often, quite tame and trusting! More info from the Royal Society for Protection of Birds (link, above).&quot;</summary></entry></feed>
