@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://pandasthumb.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pandasthumb.org/" rel="alternate" type="text/html" /><updated>2021-09-06T13:58:37-07:00</updated><id>https://pandasthumb.org/feed.xml</id><title type="html">The Panda’s Thumb</title><entry><title type="html"></title><link href="https://pandasthumb.org/archives/2021/09/2021-09-06-evaluating-alan-kleinmans-arguments.html" rel="alternate" type="text/html" title="" /><published>2021-09-06T13:58:37-07:00</published><updated>2021-09-06T13:58:37-07:00</updated><id>https://pandasthumb.org/archives/2021/09/2021-09-06-evaluating-alan-kleinmans-arguments</id><content type="html" xml:base="https://pandasthumb.org/archives/2021/09/2021-09-06-evaluating-alan-kleinmans-arguments.html">&lt;p&gt;Alan Kleinman has been commenting on various threads here at PT, in ways that repeatedly argue that he has done
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://pandasthumb.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pandasthumb.org/" rel="alternate" type="text/html" /><updated>2021-09-06T14:00:02-07:00</updated><id>https://pandasthumb.org/feed.xml</id><title type="html">The Panda’s Thumb</title><entry><title type="html"></title><link href="https://pandasthumb.org/archives/2021/09/2021-09-06-evaluating-alan-kleinmans-arguments.html" rel="alternate" type="text/html" title="" /><published>2021-09-06T14:00:02-07:00</published><updated>2021-09-06T14:00:02-07:00</updated><id>https://pandasthumb.org/archives/2021/09/2021-09-06-evaluating-alan-kleinmans-arguments</id><content type="html" xml:base="https://pandasthumb.org/archives/2021/09/2021-09-06-evaluating-alan-kleinmans-arguments.html">&lt;p&gt;Alan Kleinman has been commenting on various threads here at PT, in ways that repeatedly argue that he has done
 the first correct probabilistic analysis of “DNA evolutionary adaptation” and “competition”, and that call for
 evolutionary biologists to provide an analysis of the Lenski and Kishony experiments in bacterial evolution.  He
 also argues that we have not provided a correct analysis of bacterial antibiotic resistence or of the evolution
@@ -20,7 +20,7 @@ noncompetitive environments.  &lt;em&gt;Biomedical Journal&lt;/em&gt; &lt;strong
   &lt;li&gt;Kleinman, A. 2018b. Malaria and other infectious diseases, Suppression of the evolution
  of drug resistance. &lt;em&gt;Biomedical Journal of Scientific &amp;amp; Technical Research&lt;/em&gt;
 &lt;strong&gt;12 (2):&lt;/strong&gt; 9083-9085.&lt;/li&gt;
-  &lt;li&gt;Kleinman, A. 2019c. Fixation and adaptation in the Lenski E. coli Long Term Evolution Experiment. &lt;em&gt;Biomedical Journal of Scientific &amp;amp; Technical Research&lt;/em&gt; &lt;strong&gt;20 (1):&lt;/strong&gt; 14754–14760. &lt;a href=&quot;https://www.researchgate.net/profile/Alan-Kleinman/publication/335243441_Fixation_and_Adaptation_in_the_Lenski_E_coli_Long_Term_Evolution_Experiment/links/5d5ae99d4585152102521f7f/Fixation-and-Adaptation-in-the-Lenski-E-coli-Long-Term-Evolution-Experiment.pdf&quot;&gt;(PDF)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kleinman, A. 2019. Fixation and adaptation in the Lenski E. coli Long Term Evolution Experiment. &lt;em&gt;Biomedical Journal of Scientific &amp;amp; Technical Research&lt;/em&gt; &lt;strong&gt;20 (1):&lt;/strong&gt; 14754–14760. &lt;a href=&quot;https://www.researchgate.net/profile/Alan-Kleinman/publication/335243441_Fixation_and_Adaptation_in_the_Lenski_E_coli_Long_Term_Evolution_Experiment/links/5d5ae99d4585152102521f7f/Fixation-and-Adaptation-in-the-Lenski-E-coli-Long-Term-Evolution-Experiment.pdf&quot;&gt;(PDF)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Kleinman, A. M. 2020.  Drug resistance, An enemy of targeted cancer therapies. &lt;em&gt;Annals of Clinical and Medical Case Reports&lt;/em&gt; &lt;strong&gt;4 (9):&lt;/strong&gt; 1–4.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -38,12 +38,6 @@ So with a probability &lt;em&gt;mu PA&lt;/em&gt; for each new cell that
 it has a beneficial mutation, it takes about &lt;em&gt;1/(mu PA)&lt;/em&gt; cells before there is a
 reasonable probability of seeing the beneficial mutation once.&lt;/p&gt;
 
-&lt;p&gt;The same theory is also used in most of his other papers (an exception being the paper
-on recombination which I will get back to later).  He has an idiosyncratic terminology.
-As far as I can tell it involves calling the occurrence of beneficial mutations by
-mutation “DNA adaptive evolution” while he calls their subsequent changes of gene
-frequency in the population “competition”.&lt;/p&gt;
-
 &lt;p&gt;A mystery (to me, anyway) is where selection is in all this.  We are computing
 probabilities that, when a given number of cells has arisen, we have had
 beneficial mutation at all of the &lt;em&gt;n&lt;/em&gt; sites.  Once one has occurred, there seems to
@@ -51,6 +45,12 @@ be no futher mutation at that site.  Why?   This calculation is supposed to show
 us the fundamental mathematical theory of mutation &lt;em&gt;and selection&lt;/em&gt;, but aside from
 waiting until a mutation labelled “beneficial” occurs, there is no further
 effect of selection.&lt;/p&gt;
+
+&lt;p&gt;The same theory is also used in most of his other papers (an exception being the paper
+on recombination which I will get back to later).  He has an idiosyncratic terminology.
+As far as I can tell it involves calling the occurrence of beneficial mutations by
+mutation “DNA adaptive evolution” while he calls their subsequent changes of gene
+frequency in the population “competition”.&lt;/p&gt;
 
 &lt;p&gt;Some questions arise:&lt;/p&gt;
 
