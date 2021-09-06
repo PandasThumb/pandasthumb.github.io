@@ -1,6 +1,6 @@
 ---
 title: "Evaluating Alan Kleinman\'s arguments"
-date: '2022-09-06 18:00 -7:00'
+date: '2021-09-06 18:00 -7:00'
 author: Joe Felsenstein
 ---
 
@@ -29,7 +29,7 @@ noncompetitive environments.  <em>Biomedical Journal</em> <strong>1:</strong> 4.
 * Kleinman, A. M. 2020.  Drug resistance, An enemy of targeted cancer therapies. <em>Annals of Clinical and Medical Case Reports</em> <strong>4 (9):</strong> 1--4.
 
 He has also brought his argument up repeatedly at Peaceful Science and at 
-Panda&quot;Thumb,
+Panda&quot;s Thumb,
 usually in the middle of threads devoted to other issues.
 
 The basic calculation he does is to consider a haploid clonally-reproducing organism such
@@ -60,7 +60,7 @@ Some questions arise:
 
 1. Kleinman sees two processes at work: "competition" which is survival of the fittest, and "DNA evolutionary adaptation" which is
 changes of genotypes by mutation, either deleterious or beneficial.  Is this terminology helpful?
-2.  His equations are all about how many organisms (or cells) need to be available to get a given probability that a beneficial
+2.  His equations are all about how many organisms (or cells) need to have arisen to get a given probability that a beneficial
 allele will arise by mutation.  The theory uses the stochastic process of mutation. How does natural selection affect
 this?
 3. His treatment of recombination between genotypes with two or more loci assumes that offspring of a cross between a haploid
@@ -75,6 +75,6 @@ success of multidrug therapies for diseases?
 
 
 Anyway, I must be misunderstanding how his theory works, and I hope that this thread will explain his theory to me.
-After all, it is the fundamental mathematical theory of my own field, so surely important to know.
+After all, if it is the fundamental mathematical theory of my own field, then it is surely important to know.
 By doing the discussion here, we can avoid being so rudely interrupted by the folks who are trying to discuss arguments
 other than Kleinman&quot;s.
