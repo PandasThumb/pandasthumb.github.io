@@ -25,7 +25,7 @@ noncompetitive environments.  <em>Biomedical Journal</em> <strong>1:</strong> 4.
 * Kleinman, A. 2018b. Malaria and other infectious diseases, Suppression of the evolution
  of drug resistance. <em>Biomedical Journal of Scientific &amp; Technical Research</em>
 <strong>12 (2):</strong> 9083-9085.
-* Kleinman, A. 2019c. Fixation and adaptation in the Lenski E. coli Long Term Evolution Experiment. <em>Biomedical Journal of Scientific & Technical Research</em> <strong>20 (1):</strong> 14754--14760. [(PDF)](https://www.researchgate.net/profile/Alan-Kleinman/publication/335243441_Fixation_and_Adaptation_in_the_Lenski_E_coli_Long_Term_Evolution_Experiment/links/5d5ae99d4585152102521f7f/Fixation-and-Adaptation-in-the-Lenski-E-coli-Long-Term-Evolution-Experiment.pdf)
+* Kleinman, A. 2019. Fixation and adaptation in the Lenski E. coli Long Term Evolution Experiment. <em>Biomedical Journal of Scientific & Technical Research</em> <strong>20 (1):</strong> 14754--14760. [(PDF)](https://www.researchgate.net/profile/Alan-Kleinman/publication/335243441_Fixation_and_Adaptation_in_the_Lenski_E_coli_Long_Term_Evolution_Experiment/links/5d5ae99d4585152102521f7f/Fixation-and-Adaptation-in-the-Lenski-E-coli-Long-Term-Evolution-Experiment.pdf)
 * Kleinman, A. M. 2020.  Drug resistance, An enemy of targeted cancer therapies. <em>Annals of Clinical and Medical Case Reports</em> <strong>4 (9):</strong> 1--4.
 
 He has also brought his argument up repeatedly at Peaceful Science and at 
@@ -42,12 +42,6 @@ So with a probability *mu PA* for each new cell that
 it has a beneficial mutation, it takes about *1/(mu PA)* cells before there is a
 reasonable probability of seeing the beneficial mutation once.
 
-The same theory is also used in most of his other papers (an exception being the paper
-on recombination which I will get back to later).  He has an idiosyncratic terminology.
-As far as I can tell it involves calling the occurrence of beneficial mutations by
-mutation "DNA adaptive evolution" while he calls their subsequent changes of gene
-frequency in the population "competition".
-
 A mystery (to me, anyway) is where selection is in all this.  We are computing
 probabilities that, when a given number of cells has arisen, we have had
 beneficial mutation at all of the *n* sites.  Once one has occurred, there seems to
@@ -56,6 +50,11 @@ us the fundamental mathematical theory of mutation *and selection*, but aside fr
 waiting until a mutation labelled "beneficial" occurs, there is no further
 effect of selection.
 
+The same theory is also used in most of his other papers (an exception being the paper
+on recombination which I will get back to later).  He has an idiosyncratic terminology.
+As far as I can tell it involves calling the occurrence of beneficial mutations by
+mutation "DNA adaptive evolution" while he calls their subsequent changes of gene
+frequency in the population "competition".
 
 Some questions arise:
 
