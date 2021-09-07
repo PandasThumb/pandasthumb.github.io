@@ -13,7 +13,7 @@ of drug resistance in cancer.  This thread is intended to allow discussion of th
 Let me explain.
 <!--more-->
 
-Kleinman has published 7 papers on modeling evolutionary processes:
+Kleinman has published 7 papers on modeling evolutionary processes.  I have provided links to PDFs of these, when I encountered ones that might be free:
 
 * Kleinman, A.  2014.  The basic science and mathematics of random mutation and natural
  selection <em>Statistics in Medicine</em> <strong>33 (29):</strong> 5074--5080 [(PDF)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/sim.6307)
@@ -21,7 +21,7 @@ Kleinman has published 7 papers on modeling evolutionary processes:
 * Kleinman, A.  2016.  The mathematics of random mutation and natural selection for multiple simultaneous selection
  pressures and the evolution of antimicrobial drug resistance. <em>Statistics in Medicine</em> <strong>35 (29):</strong> 5391-5400
 * Kleinman, A. 2018a.  Random mutation and natural selection in competitive and 
-noncompetitive environments.  <em>Biomedical Journal of Scientific &amp; Technical Research</em> <strong>1:</strong> 4. [(PDF)](https://biomedres.us/volume9-issue1.php)
+noncompetitive environments.  <em>Biomedical Journal of Scientific &amp; Technical Research</em> <strong>9 (1):</strong> 6903--6906. [(PDF)](https://biomedres.us/volume9-issue1.php)
 * Kleinman, A. 2018b. Malaria and other infectious diseases, Suppression of the evolution
  of drug resistance. <em>Biomedical Journal of Scientific &amp; Technical Research</em>
 <strong>12 (2):</strong> 9083-9085. [(PDF)](https://biomedres.us/fulltexts/BJSTR.MS.ID.002219.php)
@@ -76,5 +76,5 @@ success of multidrug therapies for diseases?
 
 Anyway, I must be misunderstanding how his theory works, and I hope that this thread will explain his theory to me.
 After all, if it is the fundamental mathematical theory of my own field, then it is surely important to know.
-By doing the discussion here, we can avoid being so rudely interrupted by the folks who are trying to discuss arguments
+By doing the discussion here, we can avoid being so rudely interrupted by the folks in the previous threads who were trying to discuss arguments
 other than Kleinman&quot;s.
