@@ -21,10 +21,10 @@ Kleinman has published 7 papers on modeling evolutionary processes:
 * Kleinman, A.  2016.  The mathematics of random mutation and natural selection for multiple simultaneous selection
  pressures and the evolution of antimicrobial drug resistance. <em>Statistics in Medicine</em> <strong>35 (29):</strong> 5391-5400
 * Kleinman, A. 2018a.  Random mutation and natural selection in competitive and 
-noncompetitive environments.  <em>Biomedical Journal</em> <strong>1:</strong> 4.
+noncompetitive environments.  <em>Biomedical Journal of Scientific &amp; Technical Research</em> <strong>1:</strong> 4. [(PDF)](https://biomedres.us/volume9-issue1.php)
 * Kleinman, A. 2018b. Malaria and other infectious diseases, Suppression of the evolution
  of drug resistance. <em>Biomedical Journal of Scientific &amp; Technical Research</em>
-<strong>12 (2):</strong> 9083-9085.
+<strong>12 (2):</strong> 9083-9085. [(PDF)](https://biomedres.us/fulltexts/BJSTR.MS.ID.002219.php)
 * Kleinman, A. 2019. Fixation and adaptation in the Lenski E. coli Long Term Evolution Experiment. <em>Biomedical Journal of Scientific & Technical Research</em> <strong>20 (1):</strong> 14754--14760. [(PDF)](https://www.researchgate.net/profile/Alan-Kleinman/publication/335243441_Fixation_and_Adaptation_in_the_Lenski_E_coli_Long_Term_Evolution_Experiment/links/5d5ae99d4585152102521f7f/Fixation-and-Adaptation-in-the-Lenski-E-coli-Long-Term-Evolution-Experiment.pdf)
 * Kleinman, A. M. 2020.  Drug resistance, An enemy of targeted cancer therapies. <em>Annals of Clinical and Medical Case Reports</em> <strong>4 (9):</strong> 1--4.
 
