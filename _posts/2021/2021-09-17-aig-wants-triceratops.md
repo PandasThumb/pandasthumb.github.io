@@ -1,6 +1,6 @@
 ---
 title: 'AIG creationists want auctioned triceratops donated to them'
-date: '2021-09-17 21:50:00 -06:00'
+date: '2021-09-17 10:00:00 -06:00'
 author: Matt Young
 ---
 
