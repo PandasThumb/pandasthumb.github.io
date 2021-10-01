@@ -10,7 +10,7 @@ author: Matt Young
 </figcaption>
 </figure>
 
-I have not read Stephen Meyers's new book, <a href="https://www.amazon.com/dp/B07G122JJN/">Return of the God Hypothesis</a>, subtitled "Three Scientific Discoveries That Reveal the Mind Behind the Universe," and possibly will not. I had not been aware that the God hypothesis had ever gone away, and 700-odd pages of what looks like old hat seems perhaps a bit excessive.
+I have not read Stephen Meyer's new book, <a href="https://www.amazon.com/dp/B07G122JJN/">Return of the God Hypothesis</a>, subtitled "Three Scientific Discoveries That Reveal the Mind Behind the Universe," and possibly will not. I had not been aware that the God hypothesis had ever gone away, and 700-odd pages of what looks like old hat seems perhaps a bit excessive.
 
 Fortunately, what may look to some like an unlikely source, the right-wing blog <a href="https://en.wikipedia.org/wiki/Ricochet_(website)">Ricochet</a>, may have saved me the trouble: They recently ran a splendid "<a href="https://ricochet.com/1059644/stephen-meyers-return-of-the-god-hypothesis/">critique</a>" of the book by <a href="https://poddtoppen.se/podcast/1535406429/clearer-thinking-with-spencer-greenberg/liberalism-and-conservatism-with-cassandra-xia-and-hank-racette">Henry Racette</a>.
 
