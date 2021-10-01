@@ -32,4 +32,4 @@ I think I shall have no need to read this book, since Mr. Racette has done so fo
 
 -----
 
-**Acknowledgment.** I am indebted to the Google Group devoted to The Panda's Thumb for some links and a brief discussion of Mr. Racette's review.
+**Acknowledgment.** I am indebted to several colleagues, who provided some links and a brief discussion of Mr. Racette's review.
