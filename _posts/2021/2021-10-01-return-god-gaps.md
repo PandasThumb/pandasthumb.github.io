@@ -19,9 +19,9 @@ According to Mr. Racette, the book stands on three pillars:
 <!--more-->
 
 <ol>
-<lis>The universe had a beginning.</lis><br/><br/>
-<lis>The universe is fine-tuned for life.</lis><br/><br/>
-  <lis>The genetic code is evidence of an intelligent designer. </lis>
+<li>The universe had a beginning.</li><br/><br/>
+<li>The universe is fine-tuned for life.</li><br/><br/>
+  <li>The genetic code is evidence of an intelligent designer. </li>
 </ol>
 
 Mr. Racette considers the fine-tuning argument to be the strongest of the three. Nevertheless, he ultimately dismisses it and wisely invokes the God of the Gaps before concluding,
