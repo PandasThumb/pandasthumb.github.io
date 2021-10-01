@@ -19,8 +19,8 @@ According to Mr. Racette, the book stands on three pillars:
 <!--more-->
 
 <ol>
-<li>The universe had a beginning.</li><br/><br/>
-<li>The universe is fine-tuned for life.</li><br/><br/>
+<li>The universe had a beginning.</li>
+<li>The universe is fine-tuned for life.</li>
   <li>The genetic code is evidence of an intelligent designer. </li>
 </ol>
 
