@@ -1,6 +1,6 @@
 ---
 title: 'Creationists and advocates of social justice unite to take down T.H. Huxley, a leader in educational inclusion'
-date: '2021-10-07 11:15:00 -06:00'
+date: '2021-10-07 11:40:00 -06:00'
 author: Nick Matzke
 ---
 
