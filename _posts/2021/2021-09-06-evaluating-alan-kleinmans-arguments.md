@@ -79,4 +79,4 @@ After all, if it is the fundamental mathematical theory of my own field, then it
 By doing the discussion here, we can avoid being so rudely interrupted by the folks in the previous threads who were trying to discuss arguments
 other than Kleinman&quot;s.
 
-**After 2,111 comments in this thread, many by AK, I am placing him on pre-moderation and limiting him to 1 comment per day.  I will accumulate his future comments and release them at a rate of 1 per day.  People who consider this unreasonable suppression of discussion are invited to read his past comments and consider his responses to counterarguments.**
+**[Note added 9 October 2021] After 2,111 comments in this thread, many by AK, I am placing him on pre-moderation and limiting him to 1 comment per day.  I will accumulate his future comments and release them at a rate of 1 per day.  People who consider this unreasonable suppression of discussion are invited to read his past comments and consider his responses to counterarguments.**
