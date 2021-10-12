@@ -94,7 +94,7 @@ As most references are online and hyperlinked, I list only a few particularly us
 
 Lorimer, Douglas A. (1978). <i>Colour, Class and the Victorians: English attitudes to the Negro in the mid-nineteenth century</i>. New York: Holmes & Meier Publishers.
 
-Watson, George (1977). "Race and Socialists." Chapter 8 of <i>Politics and Literature in Modern Britain</i>. London: The Macmillan Press.
+Watson, George (1977). "Race and the Socialists." Chapter 8 of <i>Politics and Literature in Modern Britain</i>. London: The Macmillan Press.
 
 
 
