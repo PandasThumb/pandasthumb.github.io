@@ -5,7 +5,7 @@ author: 'Joe Felsenstein'
 ---
 
 <figure><img src="/uploads/2021/JTBHBG2021.jpg" alt="[JTB creationist paper]"/>
-<caption>The paper that Mikkel Rasmussen previously posted on, and which is covered here too.</caption>
+<figcaption>The paper that Mikkel Rasmussen previously posted on, and which is covered here too.</figcaption>
 </figure>
 
 
