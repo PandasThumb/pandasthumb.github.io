@@ -4,9 +4,8 @@ date: 2022-10-18 13:00 -8:00
 author: 'Joe Felsenstein'
 ---
 
-<figure><img src="" alt="">
-
-<caption>The paper that Mikkel Rasmussen previously posted on, and which is covered here too</caption>
+<figure><img src="/uploads/2021/JTBHBG2021.jpg" alt="[JTB creationist paper]"/>
+<caption>The paper that Mikkel Rasmussen previously posted on, and which is covered here too.</caption>
 </figure>
 
 
