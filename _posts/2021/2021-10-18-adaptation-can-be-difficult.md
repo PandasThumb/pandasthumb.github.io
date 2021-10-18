@@ -9,4 +9,5 @@ author: 'Joe Felsenstein'
 </figure>
 
 
-Yes, this is the same image as in Mikkel Rasmussen's post in June.   And it's appropriate because I want to discuss the same paper in some more detail.  The paper (as you can see) is this one:  
+Yes, this is the same image as in Mikkel Rasmussen's post in June.   And it's appropriate because I want to discuss the same paper in some more detail.  The paper (as you can see) is this one:  Hössjer O., G. Bechly and A. Gauger. 2021. On the waiting time until coordinated mutations get fixed in regulatory sequences. *Journal of Theoretical Biology*  **524:** 110657. doi:10.1016/j.jtbi.2021.110657    It is by three affiliates of the Discovery Institute, and was published in a respected journal (at least, one in which I myself have published twice).  The first author is Professor of Mathematical Statistics at the University of Stockholm, Sweden, and has published highly technical papers in theoreticalk population genetics.
+
