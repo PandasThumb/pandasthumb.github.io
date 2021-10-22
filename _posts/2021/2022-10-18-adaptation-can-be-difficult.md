@@ -1,7 +1,7 @@
 ---
 title: 'A model shows that adaptation can be difficult without natural selection.  Here&#39;s why.'
-date: 2022-10-18 13:00 -8:00
-author: 'Joe Felsenstein'
+date: '2022-10-18 13:00:00 -8:00'
+author: Joe Felsenstein
 ---
 
 <figure><img src="/uploads/2021/JTBHBG2021.jpg" alt="[JTB creationist paper]"/>
