@@ -1,6 +1,6 @@
 ---
 title: 'A model ahows that adaptation can be difficult without natural selection.  Here's why.'
-date: 2022-10-18 13:00 -8:00
+date: '2022-10-18 13:00 -8:00'
 author: 'Joe Felsenstein'
 ---
 
