@@ -4,7 +4,7 @@ date: '2021-10-24 17:15:00 -06:00'
 author: Matt Young
 ---
 <figure>
-<img src="/uploads/2021/Sinai_Synapses_Cover.jpg" alt="Cover"/>
+<img src="/uploads/2021/Sinai_Synapses_Cover_600.jpg" alt="Cover"/>
 
 <figcaption>Detail from the cover of the <i>Electronic Journal for Research
 in Science & Mathematics Education</i>, Vol. 25, no. 3, Fall, 2021.
@@ -49,7 +49,7 @@ I will eventually read more of the articles and will comment only if I think the
 
 &#42;A word about <a href="https://sinaiandsynapses.org/our-mission-and-methods/ ">Sinai and Synapses</a>. I think it is fair to say that it is a religious organization that is interested in scientific inquiry. It has been "incubated" by <a href="https://www.clal.org/">Clal – The National Jewish Center for Learning and Leadership</a> and provides education and seminars. I have listened to a few interviews presided over by Geoffrey Mitelman and attended two or three sessions of <a href="http://sinaiandsynapses.org/scientists-in-synagogues/">Scientists in Synagogues</a> and found them at least mildly interesting. Scientists in Synagogues is partly funded by <a href="https://www.templeton.org/">Templeton</a>. I do not think Sinai and Synapses has any hidden agenda such as trying to mount a scientific defense of religion. And they have an exceedingly clever logo:
 <figure>
-<img src="/uploads/2021/Sinai_And_Synapses_Logo.jpg" alt="Logo"/>
+<img src="/uploads/2021/Sinai_And_Synapses_Logo_600.jpg" alt="Logo"/>
 <figcaption>
 </figcaption>
 </figure>
