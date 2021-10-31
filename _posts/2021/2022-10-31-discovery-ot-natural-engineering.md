@@ -9,8 +9,8 @@ Author: Joe Felsenstein
 I try to keep up with the Discovery Institute's site Evolution News and Science Today'.  It used to
 be called 'Evolution News and Views' but they presumably wanted to emphasize that all that was
 published there is hard factual information, so they changed the name.  I am getting a bit
-behind: on the 24th of September there was a remarkable article written by the DI staff member
-Brian Miller.
+behind: on the 24th of September there was a remarkable article written by Brian Miller, the Research Coordinator
+of the DI's Center for Science and Culture.
 
 Under the title "Nearly All of Evolution Is Best Explained by Engineering" [his
 post](https://evolutionnews.org/2021/09/nearly-all-of-evolution-is-best-explained-by-engineering/) notes a
