@@ -60,12 +60,16 @@ continually push it up in frequency.
 spread, do they only continue to be present in individuals whose NGE system is intact?  If so
 that would be a mechanism maintaining NGE.  But recombination should rapidly break down any such
 association.
+* There also seems to be an interesting contradiction between the NGE view and current advocacy by
+young earth creationists.  The YECs are strongly pushing the idea that there are basically no
+advantageous mutations.  NGE seems to say that its marvellous mechanisms guarantee mostly
+superbly beneficial mutations.  Can these two views be reconciled?
 
 Brian Miller, in EN&amp;ST, actually does so far as to declare that
 "Traditional evolutionary processes do play a part in biological adaptation, but mounting evidence
 demonstrates that their role is relatively minor in the drama of life .... Instead, engineered
 adaptive mechanisms that direct targeted modifications perform on center stage."
 
-We await the details.
+We await the answers to these questions.
 
 
