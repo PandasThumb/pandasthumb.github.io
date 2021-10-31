@@ -63,7 +63,7 @@ young earth creationists.  The YECs are strongly pushing the idea that there are
 advantageous mutations.  NGE seems to say that its marvellous mechanisms guarantee mostly
 superbly beneficial mutations.  Can these two views be reconciled?
 
-Brian Miller, in EN&amp;ST, actually does so far as to declare that
+Brian Miller, in EN&amp;ST, actually goes so far as to declare that
 >Traditional evolutionary processes do play a part in biological adaptation, but mounting evidence demonstrates that their role is relatively minor in the drama of life .... Instead, engineered adaptive mechanisms that direct targeted modifications perform on center stage.
 
 We await the answers to these questions.
