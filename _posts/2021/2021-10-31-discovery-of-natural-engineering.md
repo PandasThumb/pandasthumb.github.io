@@ -1,6 +1,6 @@
 ---
 title: 'ID advocates look forward to discovery of natural genetic engineering'
-date: '2021-10-31 12:00:00 -8:00'
+date: '2021-10-31 12:00:00 -08:00'
 author: Joe Felsenstein
 ---
 
