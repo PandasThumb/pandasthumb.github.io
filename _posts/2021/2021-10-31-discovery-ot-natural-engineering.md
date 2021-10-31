@@ -1,7 +1,7 @@
 ---
-Title: 'ID advocates look forward to discovery of natural genetic engineering'
-Date: '2021-10-31 12:00:00 -8:00'
-Author: Joe Felsenstein
+title: 'ID advocates look forward to discovery of natural genetic engineering'
+date: '2021-10-31 12:00:00 -8:00'
+author: Joe Felsenstein
 ---
 
 <figure><img src="/uploads/2021/Tacoma_Narrows_Bridge.jpg" alt="Image of the Tacoma Narrows Bridge"/></figure>
