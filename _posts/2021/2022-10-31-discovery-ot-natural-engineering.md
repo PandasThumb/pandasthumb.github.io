@@ -1,11 +1,10 @@
-
 ---
 Title: 'ID advocates look forward to discovery of natural genetic engineering'
 Date: '2022-10-31 12:00:00 -8:00'
 Author: Joe Felsenstein
 ---
 
-<figure><img src="/uploads/2021/Tacoma_Narrow_Bridge.jpg" alt="Image of the Tacoma Narrows Bridge"/></figure>
+<figure><img src="/uploads/2021/Tacoma_Narrows_Bridge.jpg" alt="Image of the Tacoma Narrows Bridge"/></figure>
 
 I try to keep up with the Discovery Institute's site Evolution News and Science Today'.  It used to
 be called 'Evolution News and Views' but they presumably wanted to emphasize that all that was
@@ -52,7 +51,7 @@ the mechanisms of replication functioning less exactly when the organism is stre
 * Are the mutants (including genomic changes) preferentially in an adaptive direction?  Or are
 they, as usually happens, mostly neutral or deleterious?  
 "Note that Brian Miller describes NGE by saying that
-NGE ewfwea ro gwnwtix alterations that are not random. Instead, they result from cells employing highly complex machinery to direct targeted DNA modifications."
+NGE refers to genetic alterations that are not random. Instead, they result from cells employing highly complex machinery to direct targeted DNA modifications."
 * Where is natural selection in all of this?  If a mutation arises which is adaptive, is its
 increase in frequency in the population due to its fitness advantage?  Or does NGE somehow
 continually push it up in frequency.
