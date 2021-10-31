@@ -31,9 +31,8 @@ the genetic variation that is specifically needed in the current situation.
 Among advocates of ID, this has been greeted with enthusiasm.  At Uncommon Descent, their in-house
 science reporter "News" (Denyse O'Leary) made a similar comment about a report that reptile teeth
 were gained multiple times in evolution, [on
-10/16/21](https://uncommondescent.com/evolution/reptiles-evolved-de-evolved-re-evolved-teeth/) she noted that
-"In short, when researchers actually looked at reptile tooth history, it was hardly a simple evolution tale at all. It seems as if there are plans that life forms can access, perhaps within their genomes. But how do they trigger the
-needed changes, as opposed to just going extinct?"
+10/16/21](https://uncommondescent.com/evolution/reptiles-evolved-de-evolved-re-evolved-teeth/) she noted that 
+> In short, when researchers actually looked at reptile tooth history, it was hardly a simple evolution tale at all. It seems as if there are plans that life forms can access, perhaps within their genomes. But how do they trigger the needed changes, as opposed to just going extinct?
 
 The idea of natural genetic engineering that responds adaptively by making the needed changes in the
 genome, rather than by having natural selection pick them out from among available variation, is wildly
@@ -49,10 +48,11 @@ rearrangements?  There are numerous reports of this.  Is this an adaptation, or 
 the mechanisms of replication functioning less exactly when the organism is stressed?
 * Are the mutants (including genomic changes) preferentially in an adaptive direction?  Or are
 they, as usually happens, mostly neutral or deleterious?  
-Note that Brian Miller describes NGE by saying that "NGE refers to genetic alterations that are not random. Instead, they result from cells employing highly complex machinery to direct targeted DNA modifications."
+Note that Brian Miller describes NGE by saying that
+> NGE refers to genetic alterations that are not random. Instead, they result from cells employing highly complex machinery to direct targeted DNA modifications.
 * Where is natural selection in all of this?  If a mutation arises which is adaptive, is its
 increase in frequency in the population due to its fitness advantage?  Or does NGE somehow
-continually push it up in frequency.
+continually push it up in frequency?
 * Where in the genome is this mechanism?  And how does it know what the organism needs?
 * How is it maintained intact in the face of mutation?  If the genetic variations it induces
 spread, do they only continue to be present in individuals whose NGE system is intact?  If so
@@ -63,9 +63,8 @@ young earth creationists.  The YECs are strongly pushing the idea that there are
 advantageous mutations.  NGE seems to say that its marvellous mechanisms guarantee mostly
 superbly beneficial mutations.  Can these two views be reconciled?
 
-Brian Miller, in EN&amp;ST, actually does so far as to declare that "Traditional evolutionary processes do play a part in biological adaptation, but mounting evidence
-demonstrates that their role is relatively minor in the drama of life .... Instead, engineered
-adaptive mechanisms that direct targeted modifications perform on center stage."
+Brian Miller, in EN&amp;ST, actually does so far as to declare that
+>Traditional evolutionary processes do play a part in biological adaptation, but mounting evidence demonstrates that their role is relatively minor in the drama of life .... Instead, engineered adaptive mechanisms that direct targeted modifications perform on center stage.
 
 We await the answers to these questions.
 
