@@ -14,7 +14,7 @@ of the DI's Center for Science and Culture.
 
 Under the title "Nearly All of Evolution Is Best Explained by Engineering" [his
 post](https://evolutionnews.org/2021/09/nearly-all-of-evolution-is-best-explained-by-engineering/) notes a
-report that, as notes "Transposable elements modify gene regulation in maize to confer drought tolerance,
+report that, as it describes "Transposable elements modify gene regulation in maize to confer drought tolerance,
 alter flowering time, and enable plants to grow in toxic aluminum soils."  He also mentions a number
 of other cases in which organisms adapt rapidly in ways which seem to him to be the result
 of their being engineered to do so.  His report is one in a series on a Conference on Engineering in
