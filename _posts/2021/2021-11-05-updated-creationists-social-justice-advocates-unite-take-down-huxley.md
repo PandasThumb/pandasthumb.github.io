@@ -70,7 +70,7 @@ Huxley not only opposed Britain’s leading scientific racist, he engaged in pol
 
 The link between being an evolutionist and having progressive views on race was noticed by [racists of the day](https://www.jstor.org/stable/25611713), for example when the <i>Pall Mall Gazette</i> said, “It would be curious also to know how far Sir Charles Lyell's and Mr. Huxley's peculiar views on the development of species have influenced them in bestowing on the negro that sympathetic recognition which they are willing to extend even to the ape as ‘a man and a brother’.” James Hunt, for his part, wrote that "[ignorant, prejudiced Stupid](https://www.amazon.com/dp/B002RI9S8I/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) and bigoted Humbugs of the Jamaica Committee who were hunting to the gallows...the brave Heroic Man who had saved Jamaica", and Governor Eyre was explored as a replacement for Hunt when he resigned as leader of the Anthropological Society. In 1867, Hunt gave a particularly nasty address to his Society, targeting Huxley [yet again](https://www.jstor.org/stable/10.1525/j.ctt1pprf8.19):
 
-<blockquote><div style="background-color: rgb(227, 107, 107);">Even scientific men were sometimes afflicted with the disorder [of negromania]. He heard, only on passing through London, that a very eminent anatomist had had another attack, and actually gone and joined the Jamaica committee (laughter). This was Professor Huxley; and it was said that he intended to propose that they should prosecute M. du Chaillu for shooting gorillas (laughter).</div></blockquote>
+<blockquote><div style="background-color: rgb(227, 180, 180);">Even scientific men were sometimes afflicted with the disorder [of negromania]. He heard, only on passing through London, that a very eminent anatomist had had another attack, and actually gone and joined the Jamaica committee (laughter). This was Professor Huxley; and it was said that he intended to propose that they should prosecute M. du Chaillu for shooting gorillas (laughter).</div></blockquote>
 
 <a name="Huxley1867"></a>
 **<i>Huxley’s 1867 Birmingham lecture</i>**
@@ -101,7 +101,7 @@ All of the above information is easily accessible with a little scholarly due di
 
 Other Task Force errors flow from the lack of scientific input. Misunderstandings of the relevant science and history are rife. For example, the Task Force Report says that 
 
-<blockquote>“Genetic scientists have since disproved the notions of a ‘Black gene’ or ‘White gene’ and have disproven the idea that intragroup difference exceeds intergroup difference—establishing that race is a social, not biological, system.”</blockquote>
+<blockquote><div style="background-color: rgb(235, 235, 235);">“Genetic scientists have since disproved the notions of a ‘Black gene’ or ‘White gene’ and have disproven the idea that intragroup difference exceeds intergroup difference—establishing that race is a social, not biological, system.”</div></blockquote>
 
 The Report is attempting to make the [accurate statement](https://pandasthumb.org/archives/2012/02/continuous-geog.html) that in humans, within-group genetic variance exceeds between-group variance, but the Report text actually states the opposite. 
 
@@ -203,7 +203,7 @@ https://www.imperial.ac.uk/media/imperial-college/administration-and-support-ser
 https://www.thetimes.co.uk/article/times-letters-tax-rises-and-sunaks-expansion-of-the-state-0tgc7lb9w<br />
 <br />
 
-<blockquote><div style="background-color: rgb(220, 220, 220);"><b>HUXLEY CONTROVERSY AT IMPERIAL</b><br />
+<blockquote><div style="background-color: rgb(235, 235, 235);"><b>HUXLEY CONTROVERSY AT IMPERIAL</b><br />
 <br />
 Sir, The History Group at Imperial College London, my university, has recommended renaming the Huxley Building, among several changes (“Rename science buildings with eugenics links, university is urged”, Oct 27). I am sorry that it has chosen to judge people from the past by the standards of today. I would say that Thomas Henry Huxley is the individual of whom Imperial can be most proud. Rightly, he was and is widely admired. If Huxley is to be cancelled, no one from the past is secure. There are much better approaches. One is summarised in the careful report from Yale University on renaming buildings, which includes the recommendation to judge people by the times in which they lived, and to focus on a person’s principal legacies, because no one is perfect. The Imperial History Group was very aware of the Yale report.<br />
 <br />
