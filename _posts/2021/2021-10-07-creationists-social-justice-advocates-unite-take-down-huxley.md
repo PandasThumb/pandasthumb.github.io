@@ -137,60 +137,65 @@ Thanks to everyone involved in the WWU/Huxley discussion. Thanks to John Wilkins
 <a name="KeyLinks"></a>
 **Key Links**
 
-*WWU Legacy Review Task Force (LRTF)*
+**WWU Legacy Review Task Force (LRTF)**
 
-WWU Legacy Review Task Force page - links to reports, historian comments, etc.
-https://president.wwu.edu/research-and-resources
+<ul>
+<li>WWU Legacy Review Task Force page - links to reports, historian comments, etc.<br />
+https://president.wwu.edu/research-and-resources</li>
 
-Why is TH Huxley Problematic? - report by WWU student Laura Wagner that uncritically gathered a great many extremist right-wing claims about TH Huxley. She was put on the Legacy Review Task Force (no evolutionary biologists or historians of science were on the Task Force), and much of this material ended up in the LRTF Report.
-https://president.wwu.edu/files/2021-04/TH%20Huxley%20Research%20Document_%20_Why%20is%20TH%20Huxley%20problematic__.pdf
+<li>Why is TH Huxley Problematic? - report by WWU student Laura Wagner that uncritically gathered a great many extremist right-wing claims about TH Huxley. She was put on the Legacy Review Task Force (no evolutionary biologists or historians of science were on the Task Force), and much of this material ended up in the LRTF Report.<br />
+https://president.wwu.edu/files/2021-04/TH%20Huxley%20Research%20Document_%20_Why%20is%20TH%20Huxley%20problematic__.pdf</li>
 
-WWU Legacy Review Task Force (LRTF) Report
-https://president.wwu.edu/files/2021-07/LRTF%20Report%20and%20Recommendations_June%202021.pdf
+<li>WWU Legacy Review Task Force (LRTF) Report<br />
+https://president.wwu.edu/files/2021-07/LRTF%20Report%20and%20Recommendations_June%202021.pdf</li>
 
-Historian Paul White's report on Huxley, basically ignored by the LRTF
-https://president.wwu.edu/files/2021-04/PS%20White%20Huxley%20Legacy.pdf
+<li>Historian Paul White's report on Huxley, basically ignored by the LRTF<br />
+https://president.wwu.edu/files/2021-04/PS%20White%20Huxley%20Legacy.pdf</li>
+</ul>
 
-*Responses to WWU's LRTF Report*
+**Responses to WWU's LRTF Report**
 
-Response to the Western Washington University Legacy Review Task Force Report by 10 WWU Faculty
-https://huxley.wwu.edu/response-legacy-review-task-force-report
-https://wp.wwu.edu/huxley-legacy/
-https://huxley.wwu.edu/files/2021-08/Response%20to%20LRTF%20report%207-18-2021_1.pdf
+<ul>
+<li>Response to the Western Washington University Legacy Review Task Force Report by 10 WWU Faculty<br />
+https://huxley.wwu.edu/response-legacy-review-task-force-report<br />
+https://wp.wwu.edu/huxley-legacy/<br />
+https://huxley.wwu.edu/files/2021-08/Response%20to%20LRTF%20report%207-18-2021_1.pdf</li>
 
-Response to the Western Washington University Legacy Review Task Force Report by 20 WWU Environmental Science Faculty
-https://wp.wwu.edu/responseslegacyreviewtaskforce/files/2021/10/ESCI_Motion_Legacy_Review_Com_Final_Oct6-1.pdf
-
-
-Faculty response to Western Washington University’s proposal to cancel the name of T. H. Huxley
-https://whyevolutionistrue.com/2021/08/20/response-to-proposal-to-cancel-t-h-huxley/
-
-T. H. Huxley about to be cancelled at Imperial College London
-https://whyevolutionistrue.com/2021/10/27/t-h-huxley-about-to-be-cancelled-at-imperial-college-london/
+<li>Response to the Western Washington University Legacy Review Task Force Report by 20 WWU Environmental Science Faculty<br />
+https://wp.wwu.edu/responseslegacyreviewtaskforce/files/2021/10/ESCI_Motion_Legacy_Review_Com_Final_Oct6-1.pdf</li>
 
 
-*Imperial College, London*
+<li>Faculty response to Western Washington University’s proposal to cancel the name of T. H. Huxley<br />
+https://whyevolutionistrue.com/2021/08/20/response-to-proposal-to-cancel-t-h-huxley/</li>
 
-Imperial College 'History Group' that called for the removal of Huxley, Haldane, etc.
-https://www.imperial.ac.uk/equality/activities/history-group/
+<li>T. H. Huxley about to be cancelled at Imperial College London<br />
+https://whyevolutionistrue.com/2021/10/27/t-h-huxley-about-to-be-cancelled-at-imperial-college-london/</li>
+</ul>
 
-Imperial College London urged to remove statue and rename buildings
-https://www.theguardian.com/education/2021/oct/26/imperial-college-london-urged-remove-statue-rename-buildings
 
-Adrian Desmond comments on Huxley
-https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/equality/public/history-group/Appendix-10---Huxley-and-Racism-by-Adrian-Desmond.pdf
+**Imperial College, London**
 
-Letter from Stephen Warren, astrophysicist at Imperial College
-https://www.thetimes.co.uk/article/times-letters-tax-rises-and-sunaks-expansion-of-the-state-0tgc7lb9w
+<ul>
+  <li>Imperial College 'History Group' that called for the removal of Huxley, Haldane, etc.<br />
+https://www.imperial.ac.uk/equality/activities/history-group/</li>
 
-<blockquote><div style="background-color: rgb(220, 220, 220);"><b>HUXLEY CONTROVERSY AT IMPERIAL</b>
+<li>Imperial College London urged to remove statue and rename buildings<br />
+https://www.theguardian.com/education/2021/oct/26/imperial-college-london-urged-remove-statue-rename-buildings</li>
 
-Sir, The History Group at Imperial College London, my university, has recommended renaming the Huxley Building, among several changes (“Rename science buildings with eugenics links, university is urged”, Oct 27). I am sorry that it has chosen to judge people from the past by the standards of today. I would say that Thomas Henry Huxley is the individual of whom Imperial can be most proud. Rightly, he was and is widely admired. If Huxley is to be cancelled, no one from the past is secure. There are much better approaches. One is summarised in the careful report from Yale University on renaming buildings, which includes the recommendation to judge people by the times in which they lived, and to focus on a person’s principal legacies, because no one is perfect. The Imperial History Group was very aware of the Yale report.
+<li>Adrian Desmond comments on Huxley<br />
+https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/equality/public/history-group/Appendix-10---Huxley-and-Racism-by-Adrian-Desmond.pdf</li>
 
-Stephen Warren
+<li>Letter from Stephen Warren, astrophysicist at Imperial College<br />
+https://www.thetimes.co.uk/article/times-letters-tax-rises-and-sunaks-expansion-of-the-state-0tgc7lb9w</li>
 
-  Professor of astrophysics, Imperial College London</div></blockquote>
-
+<blockquote><div style="background-color: rgb(220, 220, 220);"><b>HUXLEY CONTROVERSY AT IMPERIAL</b><br />
+<br />
+Sir, The History Group at Imperial College London, my university, has recommended renaming the Huxley Building, among several changes (“Rename science buildings with eugenics links, university is urged”, Oct 27). I am sorry that it has chosen to judge people from the past by the standards of today. I would say that Thomas Henry Huxley is the individual of whom Imperial can be most proud. Rightly, he was and is widely admired. If Huxley is to be cancelled, no one from the past is secure. There are much better approaches. One is summarised in the careful report from Yale University on renaming buildings, which includes the recommendation to judge people by the times in which they lived, and to focus on a person’s principal legacies, because no one is perfect. The Imperial History Group was very aware of the Yale report.<br />
+<br />
+Stephen Warren<br />
+<br />
+Professor of astrophysics, Imperial College London</div></blockquote>
+</li></ul>
 -----
 
 <i>This article was originally posted <a href="https://osf.io/4smwv/">here</a> and is reproduced at the request of the author. Matt Young will be the principal moderator. </i>
