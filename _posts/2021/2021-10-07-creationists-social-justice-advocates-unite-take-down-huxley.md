@@ -12,19 +12,21 @@ Update, November 2021: A similar situation has now broken out at Imperial Colleg
 
 **Outline**
 
-<a href="#intro">Introduction</a>
-<a href="#HuxleyAntiRacism">Huxley’s anti-racist activities</a>
 <ul>
+  <li><a href="#intro">Introduction</a></li>
+<li><a href="#HuxleyAntiRacism">Huxley’s anti-racist activities</a></li>
+<li><ul>
 <li><a href="#HuxleyVsJamesHunt">T.H. Huxley vs. Leading Scientific Racist James Hunt</a></li>
 <li><a href="#HuxleyJamaica">Huxley on the Jamaica Committee</a></li>
 <li><a href="#Huxley1867">Huxley’s 1867 Birmingham lecture</a></li>
+</ul></li>
+<li><a href="#RadicalsRace1865">Radicals and Race in 1865</a></li>
+<li><a href="#OtherWWUerrors">Other WWU Task Force errors</a></li>
+<li><a href="#HuxleyDEI">T.H. Huxley's Advocacy for Diversity, Equity, and Inclusion in Science</a></li>
+<li><a href="#footshooting">Is WWU shooting its anti-racism goals in the foot?</a></li>
+<li><a href="#references">References</a></li>
+<li><a href="#KeyLinks">Key Links</a></li>
 </ul>
-<a href="#RadicalsRace1865">Radicals and Race in 1865</a>
-<a href="#OtherWWUerrors">Other WWU Task Force errors</a>
-<a href="#HuxleyDEI">T.H. Huxley's Advocacy for Diversity, Equity, and Inclusion in Science</a>
-<a href="#footshooting">Is WWU shooting its anti-racism goals in the foot?</a>
-<a href="#references">References</a>
-<a href="#KeyLinks">Key Links</a>
 
 <a name="intro"></a>
 **Introduction**
