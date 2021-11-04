@@ -186,7 +186,8 @@ https://www.theguardian.com/education/2021/oct/26/imperial-college-london-urged-
 https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/equality/public/history-group/Appendix-10---Huxley-and-Racism-by-Adrian-Desmond.pdf</li>
 
 <li>Letter from Stephen Warren, astrophysicist at Imperial College<br />
-https://www.thetimes.co.uk/article/times-letters-tax-rises-and-sunaks-expansion-of-the-state-0tgc7lb9w</li>
+https://www.thetimes.co.uk/article/times-letters-tax-rises-and-sunaks-expansion-of-the-state-0tgc7lb9w<br />
+<br />
 
 <blockquote><div style="background-color: rgb(220, 220, 220);"><b>HUXLEY CONTROVERSY AT IMPERIAL</b><br />
 <br />
