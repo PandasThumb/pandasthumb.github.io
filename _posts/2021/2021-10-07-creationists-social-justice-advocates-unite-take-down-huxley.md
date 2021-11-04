@@ -1,6 +1,6 @@
 ---
 title: 'Creationists and advocates of social justice unite to take down T.H. Huxley, a leader in educational inclusion'
-date: '2021-11-05 00:40:00 -06:00'
+date: '2021-10-07 11:40:00 -06:00'
 author: Nick Matzke
 ---
 
@@ -8,7 +8,7 @@ author: Nick Matzke
 
 <i>From 2004-2007 Dr. Nick Matzke worked at the National Center for Science Education, including the <u>[Kitzmiller v. Dover](http://www.talkorigins.org/faqs/dover/kitzmiller_v_dover.html)</u> court case that determined that teaching “intelligent design” in public schools was unconstitutional. He obtained his Ph.D. in Integrative Biology from the University of California, Berkeley, in 2013. He is now a Senior Lecturer in the School of Biological Sciences at the University of Auckland. This essay represents his personal scholarly views, not those of current or former employers.</i>
 
-<b>Update, November 2021:</b> A similar situation has now broken out at Imperial College, London. A "History Group" review of colonialist legacies at Imperial has decided that the important thing to do is to target a Huxley statue and building, as well as room named for J.B.S. Haldane (apparently for discussing cloning; never mind Haldane's strong socialism, critique of hardline eugenics, and explicit anti-imperialism). The name "Imperial College" appears to be untouched. An outline and list of "Key Links" has been added, along with various corrections/clarifications.
+Update, November 2021: A similar situation has now broken out at Imperial College, London. A "History Group" review of colonialist legacies at Imperial has decided that the important thing to do is to target a Huxley statue and building, as well as room named for J.B.S. Haldane (apparently for discussing cloning; never mind Haldane's strong socialism, critique of hardline eugenics, and explicit anti-imperialism). The name "Imperial College" appears to be untouched.
 
 **Outline**
 
@@ -25,14 +25,7 @@ author: Nick Matzke
 <li><a href="#HuxleyDEI">T.H. Huxley's Advocacy for Diversity, Equity, and Inclusion in Science</a></li>
 <li><a href="#footshooting">Is WWU shooting its anti-racism goals in the foot?</a></li>
 <li><a href="#references">References</a></li>
-<li><a href="#KeyLinks">Key Links</a>
-  <ul>
-    <li><a href="#WWU_Task_Force">WWU Legacy Review Task Force (LRTF)</a></li>
-    <li><a href="#WWU_Response_to_Task_Force">Responses to WWU’s LRTF Report</a></li>
-    <li><a href="#Imperial">Imperial College, London</a></li>
-  </ul>
-  
-  </li>
+<li><a href="#KeyLinks">Key Links</a></li>
 </ul>
 
 <a name="intro"></a>
@@ -144,7 +137,6 @@ Thanks to everyone involved in the WWU/Huxley discussion. Thanks to John Wilkins
 <a name="KeyLinks"></a>
 **Key Links**
 
-<a name="WWU_Task_Force"></a>
 **WWU Legacy Review Task Force (LRTF)**
 
 <ul>
@@ -161,7 +153,6 @@ https://president.wwu.edu/files/2021-07/LRTF%20Report%20and%20Recommendations_Ju
 https://president.wwu.edu/files/2021-04/PS%20White%20Huxley%20Legacy.pdf</li>
 </ul>
 
-<a name="WWU_Response_to_Task_Force"></a>
 **Responses to WWU's LRTF Report**
 
 <ul>
@@ -181,7 +172,7 @@ https://whyevolutionistrue.com/2021/08/20/response-to-proposal-to-cancel-t-h-hux
 https://whyevolutionistrue.com/2021/10/27/t-h-huxley-about-to-be-cancelled-at-imperial-college-london/</li>
 </ul>
 
-<a name="Imperial"></a>
+
 **Imperial College, London**
 
 <ul>
