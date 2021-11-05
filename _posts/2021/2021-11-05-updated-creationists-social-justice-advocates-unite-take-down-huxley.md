@@ -101,7 +101,7 @@ All of the above information is easily accessible with a little scholarly due di
 
 Other Task Force errors flow from the lack of scientific input. Misunderstandings of the relevant science and history are rife. For example, the Task Force Report says that 
 
-<blockquote><div style="background-color: rgb(235, 235, 235);">“Genetic scientists have since disproved the notions of a ‘Black gene’ or ‘White gene’ and have disproven the idea that intragroup difference exceeds intergroup difference—establishing that race is a social, not biological, system.”</div></blockquote>
+<blockquote><div style="background-color: rgb(235, 235, 235); padding: 20px;">“Genetic scientists have since disproved the notions of a ‘Black gene’ or ‘White gene’ and have disproven the idea that intragroup difference exceeds intergroup difference—establishing that race is a social, not biological, system.”</div></blockquote>
 
 The Report is attempting to make the [accurate statement](https://pandasthumb.org/archives/2012/02/continuous-geog.html) that in humans, within-group genetic variance exceeds between-group variance, but the Report text actually states the opposite. 
 
