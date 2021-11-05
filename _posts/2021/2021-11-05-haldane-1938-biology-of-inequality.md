@@ -82,9 +82,14 @@ We note that Fisher takes for granted the exact opposite of the proposition conc
 <br />
 (ibid, p. 118)</div></blockquote>
 
-I note that Fisher, according to Haldane a critic of the Jeffersonian ideal; Haldane, critic of Fisher's criticism; and Jefferson himself, have now all been cancelled, all for violating Jefferson's proposition concerning equality.
+I note that Fisher, according to Haldane a critic of the Jeffersonian ideal; Haldane, critic of Fisher's criticism; and Jefferson himself, have now all been canned, all for violating Jefferson's proposition concerning equality.
+
+References
+
+J.B.S. Haldane (1938). "The Biology of Inequality." pp. 113-134 of: <i>On Being the Right Size and other essays</i>, Edited by John Maynard Smith. Oxford: Oxford University Press, 1985.  Originally published as Chapter 1 of <i><a href="https://www.routledge.com/Heredity-and-Politics/Haldane/p/book/9781138955141">Heredity and Politics</a></i>.   Derived from Haldane's Muirhead Lectures given at the University of Birmingham in February and March 1937.
 
 -----
+Related Links
 
 Jerry Coyne has a good blogpost on Haldane at: https://whyevolutionistrue.com/2020/08/15/the-colorful-and-erudite-j-b-s-haldane-my-take-and-a-new-biography/ 
 
