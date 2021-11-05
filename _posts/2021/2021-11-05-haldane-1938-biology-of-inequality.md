@@ -1,6 +1,6 @@
 ---
 title: 'Haldane (1938) on the Biology of Inequality'
-date: '2021-11-04 02:40:00 -00:00'
+date: '2021-11-05 01:40:00 -00:00'
 author: Nick Matzke
 ---
 
