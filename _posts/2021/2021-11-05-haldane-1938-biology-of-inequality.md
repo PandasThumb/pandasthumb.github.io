@@ -4,7 +4,7 @@ date: '2021-11-05 01:40:00 -00:00'
 author: Nick Matzke
 ---
 
-As noted in the post on the attempts to can T.H. Huxley, <a href="https://www.imperial.ac.uk/equality/activities/history-group/">Imperial College is proposing to also dename</a> rooms named for R. A. Fisher and J.B.S. Haldane. Fisher has been widely targeted since 2020 (in my view out all proportion of the actual evidence -- I agree with <a href="https://www.proquest.com/docview/210620887?accountid=8424">Stephen Jay Gould</a> (<a href="https://pubmed.ncbi.nlm.nih.gov/11612599/">1991</a>) on Fisher, but that is another post). But as a political conservative and eugenicist (although he basically stopped eugenics advocacy in the 1930s, unlike many others), and without a big obvious record of progressive actions, Fisher is a challenge to defend.
+<img src="/uploads/2021/Haldane_1938_Biology_of_Inequality_p118.png" alt="Skadoosh" class="on-the-left-side"/ >As noted in the post on the attempts to can T.H. Huxley, <a href="https://www.imperial.ac.uk/equality/activities/history-group/">Imperial College is proposing to also dename</a> rooms named for R. A. Fisher and J.B.S. Haldane. Fisher has been widely targeted since 2020 (in my view out all proportion of the actual evidence -- I agree with <a href="https://www.proquest.com/docview/210620887?accountid=8424">Stephen Jay Gould</a> (<a href="https://pubmed.ncbi.nlm.nih.gov/11612599/">1991</a>) on Fisher, but that is another post). But as a political conservative and eugenicist (although he basically stopped eugenics advocacy in the 1930s, unlike many others), and without a big obvious record of progressive actions, Fisher is a challenge to defend.
 
 Targeting J.B.S. Haldane, of all people, is, well, nuts. Everyone seems to have forgotten that he was a vocal critic of the older eugenics, another reform eugenicist like Julian Huxley, but even further left. Haldane was a literal card-carrying communist and inveterate critic of the classist assumptions of the earlier eugenicists. His far-left views got him in trouble when it came to defending Stalin -- Haldane probably was on a lot of lists for cancellation by the right in the 1950s. The <a href="https://www.nytimes.com/2020/07/28/books/review/a-dominant-character-haldane-samanth-subramanian.html"><i> New York Times</i> review</a> of the 2020 biography <a href="https://en.wikipedia.org/wiki/A_Dominant_Character"><i>A Dominant Character: The Radical Science and Restless Politics of J. B. S. Haldane</i></a> says, "British intelligence kept him under surveillance for more than 20 years on the suspicion — probably unfounded — that he was a Soviet spy."  Haldane's slowness to criticize Lysenko didn't make him any friends in the genetics community either.  
 
@@ -95,3 +95,12 @@ Jerry Coyne has a good blogpost on Haldane at: https://whyevolutionistrue.com/20
 
 Coyne on the Imperial College situation:
 https://whyevolutionistrue.com/2021/10/27/t-h-huxley-about-to-be-cancelled-at-imperial-college-london/
+
+
+**Images of Haldane 1938 excerpts**
+
+<img src="/uploads/2021/Haldane_1938_Biology_of_Inequality_p113.png" alt="Skadoosh" / ><img src="/uploads/2021/Haldane_1938_Biology_of_Inequality_p115.png" alt="Skadoosh" / >
+<img src="/uploads/2021/Haldane_1938_Biology_of_Inequality_p116.png" alt="Skadoosh" / ><img src="/uploads/2021/Haldane_1938_Biology_of_Inequality_p118.png" alt="Skadoosh" / >
+
+
+
