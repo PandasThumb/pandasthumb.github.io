@@ -4,7 +4,7 @@ date: '2021-11-06 12:00:00 -08:00'
 author: Joe Felsenstein
 ---
 
-<figure><img src="/uploads/2021/300px-Pay_the_bill.jpg" alt="[Paying the bill]"/>
+<figure><img src="/uploads/2021/300Px-Pay_the_bill.jpg" alt="[Paying the bill]"/>
 <figcaption>Illustration EN&amp;ST uses for "paying the bill", from Wikimedia Commons</figcaption>
 </figure>
 
