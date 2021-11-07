@@ -15,7 +15,7 @@ concept](https://evolutionnews.org/2021/11/case-study-inadvertently-shows-why-un
 
 The paper is in the journal Molecular Biology and Evolution: [Citrullination was introduced into animals by horizontal gene transfer from
 cyanobacteria](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msab317/6420225)  (Disclosure: I have
-published in that journal, and served as President of its pafrent society).
+published in that journal, and served as President of its parent society).
 
 The paper straightforwardly provides evidence from molecular phylogenies and functional studies that the enzyme
 peptidylarginine deaminase has a distribution discordant with the overall phylogeny of life, in that
@@ -29,7 +29,8 @@ Aha! exclaims EN&amp;ST. About Universal Common Descent, they note that
 >  with unequivocal homology to the same sequences found elsewhere in phylogenetically distant or divergent groups, UCD
 >  would be in trouble.
 
-And indeed they think it is in trouble:
+And indeed they think that horizontal gene transfer is an added assumption that needs to be verified, and that if we
+invoke it in this way, UCD is in trouble:
 
 > UCD's big entourage only becomes a problem when its members always pay the fines for UCD's failed
 > predictions, pick up UCD's tab at restaurants and hotels, and generally cover the empirical shortfalls of UCD.
