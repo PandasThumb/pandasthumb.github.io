@@ -1,6 +1,6 @@
 ---
 title: 'Is common descent untestable?'
-date: '2022-11-06 12:00:00 -08:00'
+date: '2021-11-06 12:00:00 -08:00'
 author: Joe Felsenstein
 ---
 
