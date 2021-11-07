@@ -27,11 +27,15 @@ Aha! exclaims EN&amp;ST. About Universal Common Descent, they note that
 >  UCD is often held to be testable via the counterfactual of "genes and proteins might have been discovered in
 >  groups where they should not exist". In other words, if we observed genes and proteins occurring in the TOL,
 >  with unequivocal homology to the same sequences found elsewhere in phylogenetically distant or divergent groups, UCD
->  would be in trouble. 
+>  would be in trouble.
+
 And indeed they think it is in trouble:
+
 > UCD's big entourage only becomes a problem when its members always pay the fines for UCD's failed
 > predictions, pick up UCD's tab at restaurants and hotels, and generally cover the empirical shortfalls of UCD.
+
 and they end with the declaration that
+
 > If ever anyone needed evidence of the
 > untestability of UCD, papers like this provide it.
 
