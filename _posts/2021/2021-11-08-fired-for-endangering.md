@@ -10,7 +10,7 @@ author: Matt Young
 
 <p>An observant reader sent us <a href="https://www.facebook.com/aigkenham/photos/4898302493533401">this picture</a>, which was the subject of a tweet by Ken Ham of AIG, and noted that the caption should have been</p>
 
-<p><strong><big>"Fired because my beliefs endangered the health and safety of others."</strong></big></p>
+<p><strong><big>"Fired because my beliefs endangered the health and safety of others."</big></strong></p>
 
 <p>He further commented,</p>
 
