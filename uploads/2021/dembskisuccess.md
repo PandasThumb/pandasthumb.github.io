@@ -5,7 +5,7 @@ author: Joe Felsenstein
 ---
 
 <figure><figcaption><img src="/uploads/2021/DembskiGaugingSuccess.png" alt="[Dembski Youtube]"/>
-William Dembski summarizes the status of ID (link to Youtube is below)></figcaption></figure>
+William Dembski summarizes the status of ID (link to Youtube is below)</figcaption></figure>
 
 
 The Discovery Institute had released a YouTube video of William Dembski's 30-minute talk last March at the
@@ -21,7 +21,7 @@ Design movement.  He feels that its intellectual arguments have been a substanti
 that society has mostly not been persuaded to accept them.
 
 You will find the Youtube video of his 30-minute talk on "Gauging the Success of Intelligent
-Ddesign [**here**](https://youtu.be/mDD7pARRfm4)   Take a look.  The talk is only 30 minutes
+Design" [**here**](https://youtu.be/mDD7pARRfm4).   Take a look.  The talk is only 30 minutes
 long.  Which arguments does he consider to be valid?  The part about how successful ID
 has been starts 20 minutes in, but there is much before that that illuminates his
 perspective ...
