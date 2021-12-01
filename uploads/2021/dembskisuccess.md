@@ -5,7 +5,7 @@ author: Joe Felsenstein
 ---
 
 <figure><figcaption><img src="/uploads/2021/DembskiGaugingSuccess.png" alt="[Dembski Youtube]"/>
-William Dembski summarizes the status of ID (link to Youtube is below)</figcaption></figure>
+William Dembski summarizes the status of ID (link to YouTube video is below)</figcaption></figure>
 
 
 The Discovery Institute had released a YouTube video of William Dembski's 30-minute talk last March at the
