@@ -216,7 +216,7 @@ Huxley’s legacy, simply, is that evolutionary science is true, and all the imm
 
 Western’s legacy, sadly, will be as the public higher education institution to elevate creationist disinformation from the darkest fringe corners of American thought, giving it the legitimacy they’ve long sought. 
 
-Huxley’s legacy is that common decent applies to humans, and scientific justification for the oneness - and equality - of all humanity. 
+Huxley’s legacy is that common descent applies to humans, and scientific justification for the oneness - and equality - of all humanity. 
 
 Our legacy will be advancing the creationist wedge strategy to undermine science, and how we fell into that trap. We commend the Committee for removing – if not actually acknowledging – the most scurrilous accusations in the Task Force Report. Yet it still includes fringe claims that Huxley held hierarchal views of race, derived from a Lyndon LaRouche operative, Discovery Institute author, and creationist historian. This despite abundant evidence of Huxley’s moral journey from typical Victorian to radical anti-racist, where he rejected such physical hierarchies, arguing instead that they were culturally imposed and enforced--often violently--by an oppressive society. Is that not an early description of what we now call systemic racism?
   
