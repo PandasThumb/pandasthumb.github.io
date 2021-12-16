@@ -48,5 +48,5 @@ the ID argument.
 
 But don't just read these quotes, listen to the whole thing and let us know what you hear and what you think.
 
-**Correction: the talks at the 2021 Dallas Conference on Science and Faith are all available on YouTube, <a href="https://www.youtube.com/playlist?list=PLR8eQzfCOiS0JHtYZoI4K-NsoFZh2QcOG"><em>here</em></a>, or just use YouTube's search: Dallas Conference on Science and Faith 2021
+<strong>Correction: the talks at the 2021 Dallas Conference on Science and Faith are all available on YouTube, <a href="https://www.youtube.com/playlist?list=PLR8eQzfCOiS0JHtYZoI4K-NsoFZh2QcOG"><em>here</em></a>, or just use YouTube's search: Dallas Conference on Science and Faith 2021</strong>
   
