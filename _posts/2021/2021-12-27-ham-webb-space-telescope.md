@@ -1,13 +1,12 @@
 ---
-Title: 'What Ken Ham thinks about the Webb Space Telescope'
-Date: '2021-12-27 12:40:00 -07:00'
-Author: 'Matt Young'
+title: 'What Ken Ham thinks about the Webb Space Telescope'
+date: '2021-12-27 12:40:00 -07:00'
+author: 'Matt Young'
 ---
 
 <figure>
 <img src="/uploads/2021/Ham_Job_Foundation_Earth_600.jpg" alt="Ham tweet"/>
 </figure>
-
 
 A correspondent sent us this tweet by Ken Ham:
 
