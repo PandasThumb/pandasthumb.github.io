@@ -1,0 +1,41 @@
+---
+title: 'The worst ID or creationist argument of 2021? Let us know'
+date: '2021-12-29 12:00:00 -8:00'
+author: Joe Felsenstein
+---
+
+![Old arguments never die; they just get recycled.  From Wikimedia.](/uploads/2021//400pxRecycleBin.png)
+
+It is the end of 2021, which has been a fairly miserable year for most of us.  So it is entirely appropriate for us to consider what is the most ridiculous argument put forward this year for ID or for creationism.  I'm going to give my own choice, which is both highly technical and highly absurd.
+
+But you get to make a nomination of your own. (There will no winner chosen or prize awarded).  The argument need not be one that was first proposed in 2021, as long as it continued to be put forward.
+
+My own choice is the Algorithmic Specified Complexity argument, which purports to show mathematically that
+high levels of adaptation cannot be achieved, because the length of the "program" used is unusually short, and
+this is backed up by very impressive, and sometimes quite correct, mathematical proofs.  The effort is usually
+to show that the length of the program needed is conserved, so perhaps it cannot be changed by evolution.  Perhaps.    I've ranted and
+raved in [**another
+post**](https://pandasthumb.org/archives/2019/12/Is-Algorithmic-Specified-Complexity-Useless-for-Analyzing-Evolution.html)
+about the wrongness of this two years ago here.  But the argument has never been disowned by any of its
+advocates, including Robert Marks, Winston Ewert, or Eric Holloway.  So it is still out there.
+
+Here's why it is silly:
+1. There never is any attempt by its advocates to show that an unusually simple program is needed for a highly fit
+adaptation, and
+2. It is never clarified whether the "program" computes the genotype, the phenotype, or something else, and
+3. Even the name is ludicrous: "Complexity" is achieved by the program being unusually simple (the reverse of
+the way algorithmic complexity theory is used to discuss random numbers),
+4. The distribution of binary bitstrings used is totally arbitrary, and there could be many others as well- (or ill-)
+justified.
+5. When one asks about how any of this works, the authors of the theory simply say that they are not biologusts,
+so they leave the filling in of those details to the biologists, but
+6. Somehow they still expect people to consideir argyument to be meaningful biologically.
+The argument has such a tension between its mathematical pretentiousness and its basic meaninglessness that
+for me it achieves worstness.
+
+OK, that's my candidate for Worst.  What's yours?  We have quite a few wise heads here who are quite familiar with the
+arguments creationists make.  If you aren't as familiar, just take a look at the Discovery Institute's "Evolution
+News and Science Today" site and start reading stories there.  It will supply
+you with lots of candidates. Let's hear from you, below.
+
+
