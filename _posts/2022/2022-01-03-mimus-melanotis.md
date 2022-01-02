@@ -11,7 +11,6 @@ Photography Contest, **Honorable Mention**.
 <figure>
 <img src="/uploads/2022/Rintoul.San_cristobal_mockingbird_0920.jpg" alt="Mockingbird"/>
 <figcaption><a href="https://www.darwinfoundation.org/en/datazone/checklist?species=5117"><i>Mimus melanotis</i></a> &ndash; San Cristobal mockingbird (aka Chatham Island mockingbird). Mr. Rintoul writes that the San Cristobal mockingbird "is found only on the island of San Cristobal and nearby Pitt Island in the Galápagos Archipelago. It was one of the first animals encountered by Darwin when he arrived on San Cristobal (which British sailors called Chatham Island) in 1835. Other similar-but-different species of mockingbirds, collected by Darwin on other islands in the archipelago, provided some of the first sparks for his ideas about speciation and common descent. See <a href="https://www.theguardian.com/science/2008/nov/14/evolution-charles-darwin">here</a> and <a href="http://darwin-online.org.uk/EditorialIntroductions/Chancellor_Keynes_Galapagos.html">here</a>."
- 
 </figcaption>
 </figure>
 
