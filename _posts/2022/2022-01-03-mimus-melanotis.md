@@ -1,7 +1,7 @@
 ---
 Title: 'Mimus melanotis'
 Date: '2022-01-03 12:00:00 -07:00'
-Author: 'Matt Young'
+Author: Matt Young
 ---
 
 Photograph by **Dave Rintoul**.
