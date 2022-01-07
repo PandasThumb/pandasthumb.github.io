@@ -10,7 +10,7 @@ author: Nick Matzke
 
 <blockquote><figure><img src="/uploads/2022/Ernst_Mayr_1928.jpg" alt="[Mayr in 1928]"/>
 <figcaption><small><i>According to the photo description at <a href="https://achievement.org/achiever/ernst-mayr-ph-d/">https://achievement.org/achiever/ernst-mayr-ph-d/</a> : "June 1928: Ernst Mayr with Sario, one of his Malay assistants, in the former Dutch New Guinea. Mayr led ornithological expeditions to Dutch New Guinea and German Mandated New Guinea, an experience that fulfilled 'the greatest ambition of his youth.' Mayr collected ca. 7000 bird skins in two and a half years." (Caption text added by NM)</i></small></figcaption>
-</figure><br />
+</figure><br /><br />
 
 <b><a href="https://sites.cns.utexas.edu/hillislab/home">David Hillis</a></b><br />
 <br />
