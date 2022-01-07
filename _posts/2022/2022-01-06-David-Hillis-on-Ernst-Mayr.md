@@ -6,9 +6,9 @@ author: Nick Matzke
 
 
 
-<i><a href="https://sites.cns.utexas.edu/hillislab/home">David Hillis</a> posted the following short essay to <a href="https://www.facebook.com/DoubleHelixRanch/posts/10159648610955170">Facebook</a> on June 21, 2021. Apparently the leadership of the Society for Systematic Biology (SSB) was discussing a proposal de-name the Ernst Mayr Award.  This proposal <a href="https://www.systbio.org/award-naming.html">has now been released</a>, and, because the Ernst Mayr Award is written into SSB's constitution (Ernst Mayr and his donations helped found SSB!), a 2/3 vote of the membership is required to change it. Hillis has given me permission to republish his essay here. -- Nick Matzke</i>
+<i><a href="https://sites.cns.utexas.edu/hillislab/home">David Hillis</a> posted the following short essay to <a href="https://www.facebook.com/DoubleHelixRanch/posts/10159648610955170">Facebook</a> on June 21, 2021. Apparently the leadership of the Society for Systematic Biology (SSB) was discussing a proposal de-name the Ernst Mayr Award.  This proposal <a href="https://www.systbio.org/award-naming.html">has now been released</a>, and, because the Ernst Mayr Award is written into SSB's constitution (Ernst Mayr and his donations helped found SSB!), a 2/3 vote of the membership is required to change it. Hillis has given me permission to republish his essay here. I have my own comments below the fold. -- Nick Matzke</i>
 
-<blockquote><figure><img src="/uploads/2022/Ernst_Mayr_1928.jpg" alt="[Mayr in 1928]"/>
+<blockquote><div style="background-color: rgb(210, 210, 210); padding: 15px;"><figure><img src="/uploads/2022/Ernst_Mayr_1928.jpg" alt="[Mayr in 1928]"/>
 <figcaption><small><i>According to the photo description at <a href="https://achievement.org/achiever/ernst-mayr-ph-d/">https://achievement.org/achiever/ernst-mayr-ph-d/</a> : "June 1928: Ernst Mayr with Sario, one of his Malay assistants, in the former Dutch New Guinea. Mayr led ornithological expeditions to Dutch New Guinea and German Mandated New Guinea, an experience that fulfilled 'the greatest ambition of his youth.' Mayr collected ca. 7000 bird skins in two and a half years." (Caption text added by NM)</i></small></figcaption>
 </figure><br /><br />
 
@@ -23,26 +23,28 @@ Mayr worked to establish several major evolutionary societies, including the Soc
 <br />
 I greatly admire the life and accomplishments of Mayr, even though he and I frequently disagreed over scientific issues. He was already one of the 20th Century's most famous biologists when I met him, and I was just a lowly graduate student working on bringing molecular techniques into systematics. Mayr was not a big fan of this; he was not anti-molecular systematics, but he argued (quite reasonably) that single gene analyses of systematic questions were problematic, and he thought that many molecular systematists did not pay enough attention to the biology and natural history of their organisms (which was often true). After I co-edited the book Molecular Systematics in 1990, he and I often discussed the development and expansion of molecular techniques in the field. But despite our disagreements over this (as well as various issues of systematic theory), he was always cordial, encouraging, warm, and most of all—knowledgeable. It was always clear to me that he read the literature exhaustively. When he asked me questions about or critiqued my papers, it was clear that he had read and thought about them carefully. He had a command of the literature like no one else that I'd ever encountered, or have encountered since. He taught me that people can disagree about issues, and still be great friends (in fact, it can even help and build a friendship to discuss such disagreements).<br />
 <br />
-Most people today likely picture Mayr as an old man, as he was over 100 when he died in 2005, and most living people would remember him (if at all) as an old man. This photo of him (on the right in the photo) shows him as a 23-year-old field biologist in New Guinea in 1928. He had an enormous, positive influence on the world, and especially on the positive development of evolutionary and systematic biology. We should remember and thank him for that. He worked to make the world, and his discipline, better than they were when he came into them. I think that is the lofty goal that we should all strive to achieve in our lives.</blockquote>
+Most people today likely picture Mayr as an old man, as he was over 100 when he died in 2005, and most living people would remember him (if at all) as an old man. This photo of him (on the right in the photo) shows him as a 23-year-old field biologist in New Guinea in 1928. He had an enormous, positive influence on the world, and especially on the positive development of evolutionary and systematic biology. We should remember and thank him for that. He worked to make the world, and his discipline, better than they were when he came into them. I think that is the lofty goal that we should all strive to achieve in our lives.</div></blockquote>
 
 <i>Hillis posted additional comments to his Facebook post on January 6, 2022:</i>
 
 <!--more-->
 
-<blockquote><b>David Hillis</b><br />
+<blockquote><div style="background-color: rgb(210, 210, 210); padding: 15px;"><b>David Hillis</b><br />
 <br />
 I am deeply saddened to see in today's e-mail a proposal to eliminate Ernst Mayr's name from the Society of Systematic Biology's Ernst Mayr Award. As this post from last year describes, Mayr was champion of inclusion and diversity; he worked to fight discrimination in science; he supported young scientists, and endowed the student award that bares his name. Members of the society will get to vote on this constitutional change, and I hope that they have the wisdom to continue honoring his life and contributions with this named award.<br />
 <br />
 The proposal to change the name claims that some members disagree with some of his writings, even though Mayr "was a prolific and profound scholar of evolutionary biology and a dedicated champion of students." Really? We are now eliminating mention of people because someone disagrees with some of their academic ideas? That is especially troublesome in this case, as Mayr was an ardent defender of equality and inclusion, and spoke out effectively against racial discrimination (as discussed below).
-Please, if you are a member of SSB, vote against this mean-spirited and unfair discrimination against Mayr on the spring 2022 ballot.</blockquote>
+Please, if you are a member of SSB, vote against this mean-spirited and unfair discrimination against Mayr on the spring 2022 ballot.</div></blockquote>
 
-<blockquote><b>David Hillis</b><br />
+...and then...
+
+<blockquote><div style="background-color: rgb(210, 210, 210); padding: 15px;"><b>David Hillis</b><br /><br />
 
 Even given all of Mayr's vast biological accomplishments, I think what most impresses me about him were his efforts to build a better world for all. For example, in 1951, in support of “UNESCO 1951: The race concept: Results of an inquiry,” Mayr made a public statement opposing the views of R. A. Fisher, and supporting the UNESCO statement:<br />
 <br />
 Mayr stated that he hoped that “the authoritative Statement prepared by UNESCO will help to eliminate the pseudo-scientific race conceptions which have been used as excuses for many injustices and even shocking crimes”… “I applaud and wholeheartedly endorse [it],” Mayr wrote, adding: “It cannot be emphasized too strongly that all so-called races are variable populations, and that there is often more difference between extreme individuals of one race than between certain individuals of different races. All human races are mixtures of populations and the term “pure race” is an absurdity. The second important point which needs stressing is that genetics plays a very minor part in the cultural characteristics of different peoples. . . . The third point is that equality of opportunity and equality in law do not depend on physical, intellectual and genetic identity. There are striking differences in physical, intellectual and other genetically founded qualities among individuals of even the most homogeneous human population, even among brothers and sisters. No acknowledged ethical principle exists which would permit denial of equal opportunity for reason of such differences to any member of the human species.”<br />
 <br />
-Three years later, US Supreme Court cited this same Mayr-supported UNESCO statement in the landmark desegregation case, Brown v. Board of Education of Topeka. Mayr spoke up and did the right thing at a critical time, when many of his colleagues were doing the opposite.</blockquote>
+Three years later, US Supreme Court cited this same Mayr-supported UNESCO statement in the landmark desegregation case, Brown v. Board of Education of Topeka. Mayr spoke up and did the right thing at a critical time, when many of his colleagues were doing the opposite.</div></blockquote>
 
 
 -----
@@ -53,7 +55,7 @@ Three years later, US Supreme Court cited this same Mayr-supported UNESCO statem
 Here is the <a href="https://www.systbio.org/award-naming.html">SSB announcement about de-naming the Ernst Mayr Award</a>:
 
 
-<blockquote>SSB Council Review of the Mayr Award and Award Names<br /><br />
+<blockquote><div style="background-color: rgb(227, 180, 180); padding: 15px;">SSB Council Review of the Mayr Award and Award Names<br /><br />
 
 In the summer of 2020, the SSB Council began a discussion about potentially renaming the Ernst Mayr Award in Systematic Biology at the request of society members. Since then, the SSB leadership have been working in conjunction with the Diversity, Equity, and Inclusion (DEI) Committee to learn more about the origin of named awards and their representation of the diverse membership within the society. Renaming the award is one step toward greater inclusivity within the society, as named awards often lead to feelings of exclusion among those who are members of underrepresented groups whose scientific contributions continue to remain unrecognized. At a council meeting following Virtual Evolution 2021, the Council voted to propose to all members an award name change, in conjunction with other actions intended to better recognize SSB’s history and legacy.<br /><br />
 
@@ -71,7 +73,7 @@ Original text:<br /><br />
 
 New text:<br /><br />
 
-1) The Outstanding Student Presentation Award in Systematic Biology given for the outstanding paper presented at the Annual Meeting by a student member of the Society or a member who has received the Ph.D. degree within the last 15 months;</blockquote>
+1) The Outstanding Student Presentation Award in Systematic Biology given for the outstanding paper presented at the Annual Meeting by a student member of the Society or a member who has received the Ph.D. degree within the last 15 months;</div></blockquote>
 
 
 **References**
