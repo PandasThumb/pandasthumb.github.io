@@ -36,7 +36,7 @@ I am deeply saddened to see in today's e-mail a proposal to eliminate Ernst Mayr
 The proposal to change the name claims that some members disagree with some of his writings, even though Mayr "was a prolific and profound scholar of evolutionary biology and a dedicated champion of students." Really? We are now eliminating mention of people because someone disagrees with some of their academic ideas? That is especially troublesome in this case, as Mayr was an ardent defender of equality and inclusion, and spoke out effectively against racial discrimination (as discussed below).
 Please, if you are a member of SSB, vote against this mean-spirited and unfair discrimination against Mayr on the spring 2022 ballot.</div></blockquote>
 
-...and then...
+<i>...and then...</i>
 
 <blockquote><div style="background-color: rgb(210, 210, 210); padding: 15px;"><b>David Hillis</b><br /><br />
 
@@ -106,12 +106,12 @@ http://pandasthumb.org/archives/2021/12/Matzke-Huxley-comments.html
 
 My attempts to put some context onto Twitter in the midst of the Great R.A. Fisher Panic of June 2020 -- almost wholly unsuccessfully, I might add -- are here:
 
-Part 1: https://twitter.com/NickJMatzke/status/1270280876958474240
+Part 1: https://twitter.com/NickJMatzke/status/1270280876958474240 <br />
 Part 2: https://twitter.com/NickJMatzke/status/1270287477928939521
 
 Apparently, some of the back-and-forth over Fisher in June 2020 was the origin of the SSB Mayr Award controversy, i.e. these posts:
 
-https://twitter.com/Lagomarsino_L/status/1270856892630339601
+https://twitter.com/Lagomarsino_L/status/1270856892630339601 <br />
 https://twitter.com/landismj/status/1270756154940022784
 
 The short version of my argument in June 2020 was that we shouldn't make hasty judgments about R.A. Fisher, because if you have read much about the history of eugenics or scientific racism, and the history of the opposition to the same, you realise that many of the people who made substantial progress in defeating these repugnant views did not achieve perfection instantaneously.  Views on race and eugenics changed gradually, step-by-step, with some mistakes and prejudices (e.g. polygenism) defeated long before others (e.g. the idea that biological race referred to real, meaningful categories). The people who fought against Nazi eugenics before World War 2 were largely eugenicists themselves (but "reform eugenicists").  There were anti-racist eugenicists, anti-eugenics racists, etc.  None of this should be surprising to evolutionary biologists, of all people, who generally have an instinct for the importance and complexity of history, and how gradual change in many small steps can add up to big changes where the end result is almost unrecognizable from the beginning point.  The interesting thing about progress in moral views is not when it is done by people who are morally perfect. The interesting thing is when this progress is made by imperfect people, despite received wisdom and their initial prejudices. The process is, I think, not unlike scientific discovery. And in the case of racism & eugenics, scientific discoveries and moral progress were often linked, and many of the people who did the linking were the very evolutionary greats who are now being canned right and left.  For all of these reasons and more, it is more important to acknowledge the important progress people made, rather than the inherited assumptions they failed to overcome. 
