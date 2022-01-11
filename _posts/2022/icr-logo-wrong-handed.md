@@ -1,5 +1,5 @@
 ---
-title: 'Creationists have wrong-handed DNA
+title: 'Creationists have wrong-handed DNA'
 date: '2022-01-11 11:45:00 -07:00'
 author: 'Matt Young'
 ---
