@@ -9,4 +9,5 @@ author: Matt Young
 </figcaption>
 </figure>
 <p>
+<p>
 The Institute for Creation Research has just <a href="https://www.icr.org/article/icr-announces-new-logo/">announced a new logo</a>, above. Evidently the helix spirals the wrong way. I wonder if they are all left-handed and are made up of right-handed proteins. If I made book, I would take bets on whether they will leave it alone, announce that they had made an error, or change it quickly in the dead of night.
