@@ -1,6 +1,6 @@
 ---
 title: 'Creationists have wrong-handed DNA'
-date: '2022-01-12 11:45:00 -07:00'
+date: '2022-01-11 11:30:00 -07:00'
 author: Matt Young
 ---
 <figure>
