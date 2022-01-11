@@ -5,7 +5,7 @@ author: Matt Young
 ---
 <figure>
 <img src="/uploads/2022/ICR_New_Logo_403.jpg" alt="Logo"/>
-<figcaption><div align=center><a href="https://www.icr.org/article/icr-announces-new-logo/">The DNA in the helix spirals the wrong way.</a></div> 
+<figcaption><div align=center><a href="https://freethoughtblogs.com/pharyngula/2022/01/10/the-institute-for-creation-research-has-a-new-logo/">The DNA in the helix spirals the wrong way.</a></div> 
 </figcaption>
 </figure>
 <p>
