@@ -1,7 +1,7 @@
 ---
-Title: 'Devolution of language? Or of thought?'
-Date: '2022-01-16 12:04:00 -07:00'
-Author: Matt Young
+title: 'Devolution of language? Or of thought?'
+date: '2022-01-16 12:04:00 -07:00'
+author: Matt Young
 ---
 <figure>
 <img src="/uploads/2022/Rise_Fall_Rationality_Language.jpg" alt="Graphs"/>
