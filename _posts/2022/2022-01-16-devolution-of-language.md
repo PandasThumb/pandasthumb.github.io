@@ -9,7 +9,7 @@ Author: Matt Young
 </figcaption>
 </figure>
 
-A correspondent the other day sent us a link to an article with this intriguing title, <a href=https://phys.org/news/2022-01-rationality-declined-decades.html>'We conclude' or 'I believe?' Study finds rationality declined decades ago</a>. The study, out of Wageningen and Indiana Universities, suggests that since 1980 public interest has shifted from rationality toward emotion. Those who think we are in a "post-truth" era will not be surprised. It seems to me that this trend, if substantiated, shows that we may be veering away from scientific thinking and evidence to unfounded opinions and unsubstantiated claims.
+A correspondent the other day sent us a link to an article with this intriguing title, <a href="https://phys.org/news/2022-01-rationality-declined-decades.html">'We conclude' or 'I believe?' Study finds rationality declined decades ago</a>. The study, out of Wageningen and Indiana Universities, suggests that since 1980 public interest has shifted from rationality toward emotion. Those who think we are in a "post-truth" era will not be surprised. It seems to me that this trend, if substantiated, shows that we may be veering away from scientific thinking and evidence to unfounded opinions and unsubstantiated claims.
 
 <!--more-->
 
