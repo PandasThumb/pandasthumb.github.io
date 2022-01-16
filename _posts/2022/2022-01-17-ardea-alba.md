@@ -8,6 +8,6 @@ Photograph by **Arthur Rosen**.
 
 <figure>
 <img src="/uploads/2022/Rosen_Egret_FAM_5463_Crop_600.jpg" alt="Great Egret"/>
-<figcaption><a href="https://www.allaboutbirds.org/guide/Great_Egret/id"><i>Ardea alba</i></a> &ndash; great egret, <a href="https://en.wikipedia.org/wiki/Walden_Pond">Walden Pond</a>, Concord, Massachusetts, September, 2021.
+<figcaption><a href="https://www.allaboutbirds.org/guide/Great_Egret/id"><i>Ardea alba</i></a> &ndash; great egret, <a href="https://en.wikipedia.org/wiki/Walden_Pond">Walden Pond</a>, Concord, Massachusetts, September, 2021. Dr. Rosen notes, "It was strutting around at the water's edge, fishing among the swimming and wading people, not paying the humans any attention."
 </figcaption>
 </figure>
