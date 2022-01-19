@@ -1,5 +1,5 @@
 ---
-title: An Open Letter to the SSB Council, on a solution the the Ernst Mayr Award controversy
+title: An Open Letter to the SSB Council, on a solution to the Ernst Mayr Award controversy
 date: 2022-01-19 12:00:00 -8:00
 author: David Hillis
 ---
