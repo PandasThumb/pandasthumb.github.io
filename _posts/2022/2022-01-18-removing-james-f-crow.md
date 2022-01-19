@@ -26,7 +26,8 @@ Jim considered his own mentor to be H.J. Muller.  In the period after World War 
 Eugenicists were hereditarians, who tended to explain all differences between humans as likely being genetic (biologists more generally also have that tendency to forget about cultural and social influences on people in their eagerness to point to the importance of biology).  Eugenicists actually did not talk much about "race" but their hereditarian attitude implied biological-determinist views on that.  
 
 Jim was involved with the quantitative genetics theory used in animal and
-plant breeding.  He knew that differences could be either environmental or genetic, and that one could not always tell.  He came from a Quaker family and was politically quite liberal, and of course supported the civil rights movement but he did want to keep the door open for
+plant breeding.  He knew that differences could be either environmental or genetic, and that one could not always tell.  He came from a Quaker family and was politically quite liberal, and of course supported the civil rights movement, 
+but he did want to keep the door open for
 there to be a "good" eugenics.  Student organizations at the University of Wisconsin had to have faculty advisors listed.  One year, I heard, the NAACP chapter on
 campus had asked Jim Crow to be their advisor, which he agreed to.  I think they and Jim just thought it was a good joke.  When the race-and-IQ controversies flared up in 1969 after Arthur
 Jensen's article, I think Jim was ambivalent.  He did not want to totally rule out explaining differences between groups of humans genetically.  He neither defended nor attacked Jensen.  When the issue came up of having the Genetics Society of America 
@@ -45,8 +46,7 @@ of individuals to the field.  Will the methodology simply be to look for somethi
 "of course, we must not judge people by today's standards", and then proceed to do precisely that, judge the person by today's standards?  That 
 seems to be what is happening.
 
-I note that in the Institute's statement about renaming it was said that 
-"some of us have a deep appreciation for his career and/or considered him a dear friend, whereas others are only beginning to learn about Professor Crow through this controversy". Unless some way is found to honestly discuss the history of population genetics, the people who are "only beginning" will never get any further in their learning of the history of the field.  If only ideal people can be remembered, then we will have to spend a lot of time and effort forgetting.
+I note that in the Institute's statement about renaming it was said that "some of us have a deep appreciation for his career and/or considered him a dear friend, whereas others are only beginning to learn about Professor Crow through this controversy". Unless some way is found to honestly discuss the history of population genetics, the people who are "only beginning" will never get any further in their learning of the history of the field.  If only ideal people can be remembered, then we will have to spend a lot of time and effort forgetting.
 
 
 
