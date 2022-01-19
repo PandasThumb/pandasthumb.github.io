@@ -21,9 +21,10 @@ influences, so I should go elsewhere.  He said there was an interesting young po
 Dick Lewontin's lab (then at the University of Rochester).  That ultimately resulted in me getting my Ph.D. with Dick at the University of Chicago.  For that and more, I am grateful.  Jim played similar
 roles with many other theoretical population geneticists and has many people who consider themselves in his debt.
 
-Jim considered his own mentor to be H.J. Muller.  In the period after World War II, Muller (the greatest classical geneticist, who proved that radiation could cause mutations) felt that in spite of the catastrophe of Nazi eugenics, that there could be a "good" eugenics, so that humans could direct their own genetic change.  Jim tended to agree with Muller about that.  The focus of eugenics had been largely on class, making sure that the working class did not out-reproduce their rulers.  
+Jim considered his own mentor to be H.J. Muller.  In the period after World War II, Muller (the greatest classical geneticist, who proved that radiation could cause mutations) felt that in spite of the catastrophe of Nazi eugenics, that there could be a "good" eugenics, so that humans could direct their own genetic change.  Jim tended to agree with Muller about that.  Their concern was with matters such as the spread of deleterious mutations, Muller's chief concern.
 
-Eugenicists were hereditarians, who tended to explain all differences between humans as likely being genetic (biologists more generally also have that tendency to forget about cultural and social influences on people in their eagerness to point to the importance of biology).  Eugenicists actually did not talk much about "race" but their hereditarian attitude implied biological-determinist views on that.  
+From its early days, the focus of eugenics had been largely on class rather than race, making sure that the working class did not out-reproduce their rulers.  
+Eugenicists were hereditarians, who tended to explain differences between humans as likely being genetic (biologists more generally often have that tendency to forget about cultural and social influences on people in their eagerness to point to the importance of biology).  Eugenicists actually did not talk much about "race" but their hereditarian attitude implied biological-determinist views on that.  
 
 Jim was involved with the quantitative genetics theory used in animal and
 plant breeding.  He knew that differences could be either environmental or genetic, and that one could not always tell.  He came from a Quaker family and was politically quite liberal, and of course supported the civil rights movement, 
@@ -48,6 +49,6 @@ seems to be what is happening.
 
 I note that in the Institute's statement about renaming it was said that "some of us have a deep appreciation for his career and/or considered him a dear friend, whereas others are only beginning to learn about Professor Crow through this controversy". Unless some way is found to honestly discuss the history of population genetics, the people who are "only beginning" will never get any further in their learning of the history of the field.  If only ideal people can be remembered, then we will have to spend a lot of time and effort forgetting.
 
-
+_(Edited 1/19 to distinguish more clearly between traditional eugenics and Crow and Muller's concerns)._
 
 
