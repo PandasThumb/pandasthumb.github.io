@@ -31,7 +31,7 @@ but he did want to keep the door open for
 there to be a "good" eugenics.  Student organizations at the University of Wisconsin had to have faculty advisors listed.  One year, I heard, the NAACP chapter on
 campus had asked Jim Crow to be their advisor, which he agreed to.  I think they and Jim just thought it was a good joke.  When the race-and-IQ controversies flared up in 1969 after Arthur
 Jensen's article, I think Jim was ambivalent.  He did not want to totally rule out explaining differences between groups of humans genetically.  He neither defended nor attacked Jensen.  When the issue came up of having the Genetics Society of America 
- pass a resolution dissociating itself from Jensen he was not among those of us who felt it was important to pass a firmly-stated resolution.  Ultimately the GSA passed a resolution so carfully nuanced 
+ pass a resolution dissociating itself from Jensen he was not among those of us who felt it was important to pass a firmly-stated resolution.  Ultimately the GSA passed a resolution so carefully nuanced 
 that it had no impact on the public perception of geneticists.
 
 So should the Crow Institute be renamed?  Abolished?  Defunded? Condemned?  Forgotten? Apologized for?  Wept about? Held up as a Horrible Example?
