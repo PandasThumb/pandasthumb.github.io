@@ -6,7 +6,7 @@ author: Joe Felsenstein
 
 In 2012 I [posted an obituary here](https://pandasthumb.org/archives/2012/01/james-f-crow-19.html) of James F. (Jim) Crow, Professor in the Department of Genetics at the University of Wisconsin, Madison, who had been 
 a mentor of mine and of many other population geneticists.  Subsequently UW/Madison established the 
-[JF Crow Instutute for the Study of Evolution](https://genetics.wisc.edu/the-j-f-crow-institute-for-the-study-of-evolution/).  Subsequently it has been pointed out that he 
+[JF Crow Institute for the Study of Evolution](https://genetics.wisc.edu/the-j-f-crow-institute-for-the-study-of-evolution/).  Subsequently it has been pointed out that he 
 had a connection to eugenics, and there is now serious consideration of removing his name from the eponymous Institute.  The debate is within the UW/M community, and outside opinions 
 have not been solicited, and are possibly not welcome.  I am told that the matter will most likely be decided on January 24th.
 
