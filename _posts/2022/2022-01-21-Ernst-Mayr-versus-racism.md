@@ -4,7 +4,7 @@ date: 2022-01-20 20:00:00 -8:00
 author: Nick Matzke
 ---
 
-<figure class="on-the-left-side"><img src="/uploads/2022/Ernst_Mayr_bust_Berlin.jpg" alt="[Mayr in 1928]"/>
+<figure class="on-the-left-side"><img src="/uploads/2022/Ernst_Mayr_bust_Berlin.jpg" alt="[Mayr bust in Berlin museum]"/>
 <figcaption><small>Bust of Ernst Mayr at the Museum für Naturkunde in Berlin. <a href="https://commons.wikimedia.org/wiki/File:Ernst_Mayr_-_B%C3%BCste_-_Museum_f%C3%BCr_Naturkunde_-_Berlin.jpg">Source and license at Wikipedia</a>.</small></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ As for the Modern Synthesis versus racism, writing it all up is more than I have
 
 
 
-In the USA, the key nexus was Columbia University in New York City, where the anthropologist <a href="https://en.wikipedia.org/wiki/Franz_Boas">Franz Boas</a> and his students (e.g. <a href="https://en.wikipedia.org/wiki/Ruth_Benedict">Ruth Benedict</a>, <a href="https://en.wikipedia.org/wiki/Melville_J._Herskovits">Melville J. Herskovits</a>, <a href="https://blogs.berkeley.edu/2020/07/24/alfred-kroeber-and-his-relations-with-california-indians/">Alfred L. Kroeber</a>, <a href="https://en.wikipedia.org/wiki/Margaret_Mead">Margaret Mead</a>, and <a href="https://en.wikipedia.org/wiki/Ashley_Montagu">Ashley Montagu</a>) waged a long public campaign against racism, joined most notably by Theodosius Dobzhansky (originally a member of <a href="https://en.wikipedia.org/wiki/Thomas_Hunt_Morgan">T.H. Morgan</a>'s "fly-room" at Columbia) and his colleague, Columbia geneticist <a href="https://en.wikipedia.org/wiki/L._C._Dunn">Leslie Clarence Dunn</a>. Dobzhansky wrote books and articles against racism for decades (see e.g. Dunn & Dobzhansky, 1947, <i><a href="https://wellcomecollection.org/works/akf3dnfs">Heredity, race, and society</a></i>.  Reviewing Dobzhansky's work in this area will have to wait for when The Great Iconoclasm of the 2020s comes for him (give it a few weeks!).  I do include a few quotes from <i>Genetics and the Origin of Species</i>, below, as clearly Dobzhansky helped inspire Mayr's anti-racism.
+In the USA, the key nexus was Columbia University in New York City, where the anthropologist <a href="https://en.wikipedia.org/wiki/Franz_Boas">Franz Boas</a> and his students (e.g. <a href="https://en.wikipedia.org/wiki/Ruth_Benedict">Ruth Benedict</a>, <a href="https://en.wikipedia.org/wiki/Melville_J._Herskovits">Melville J. Herskovits</a>, <a href="https://blogs.berkeley.edu/2020/07/24/alfred-kroeber-and-his-relations-with-california-indians/">Alfred L. Kroeber</a>, <a href="https://en.wikipedia.org/wiki/Margaret_Mead">Margaret Mead</a>, and <a href="https://en.wikipedia.org/wiki/Ashley_Montagu">Ashley Montagu</a>) waged a long public campaign against racism, joined most notably by Theodosius Dobzhansky (originally a member of <a href="https://en.wikipedia.org/wiki/Thomas_Hunt_Morgan">T.H. Morgan</a>'s "fly-room" at Columbia) and his colleague, Columbia geneticist <a href="https://en.wikipedia.org/wiki/L._C._Dunn">Leslie Clarence Dunn</a>. Dobzhansky wrote books and articles against racism for decades (see e.g. Dunn & Dobzhansky, 1947, <i><a href="https://wellcomecollection.org/works/akf3dnfs">Heredity, race, and society</a></i>.  Reviewing Dobzhansky's work in this area will have to wait for when The Great Iconoclasm of the 2020s comes for him (give it a few weeks!).  I do include a few quotes from Dobzhansky below, as clearly Dobzhansky helped inspire Mayr's anti-racism.
 
 Returning to Ernst Mayr: Mayr and Dobzhansky were probably <b>the two biggest boosters of the idea that population genetic thinking destroyed the typological concept of race, and thus undermined the basic foundation of racism.</b>  For them, races were pretty arbitrary divisions of a continuously mixing gene pool, the differences between individuals within each "race" were far greater than any between them, and individual variation meant there was no such thing as a "typical" member of a race.
 
@@ -380,12 +380,12 @@ Well, it's exciting, but it's a tough life, I'll tell you that. I had malaria, I
 <br />
 Most land birds really taste almost about the same. They have a soft and rather flavorful meat. I ate only one bird that was absolutely awful, and that was a cormorant. That was so fishy it was almost inedible.<br />
 <br />
-<i>Do you keep a regular schedule for work?</i>
+<i>Do you keep a regular schedule for work?</i><br />
 <br />
 More or less. I have an alarm that wakes me up at 6:15 every morning. I have a little kitchenette. I take one meal outside, and one I make myself. I'm quite active. I write, give lectures, travel abroad.<br />
 <br />
-<i>Have you had any major disappointments, any regrets?</i>
-
+<i>Have you had any major disappointments, any regrets?</i><br />
+<br />
 Well, I probably do, but I'm one of these euphoric guys. I always look to the future and never look back.</div></blockquote>
 
 
