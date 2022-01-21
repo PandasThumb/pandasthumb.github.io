@@ -1,6 +1,6 @@
 ---
 title: Ernst Mayr versus racism
-date: 2022-01-20 20:00:00 -8:00
+date: 2022-01-20 17:00:00 -8:00
 author: Nick Matzke
 ---
 
@@ -134,7 +134,9 @@ Every politician, clergyman, educator, or physician, in short, anyone dealing wi
 Mayr, Ernst (1963). The Biology, Genetics, and Evolution of Man. Review of <i>Mankind Evolving: The Evolution of the Human Species</i> by Theodosius Dobzhansky. <i>Quarterly Review of Biology</i>, 38(3), 221-288. September 1963. https://www.jstor.org/stable/2820130
 
 <blockquote><div style="background-color: rgb(235, 235, 235); padding: 15px;">
-358<br />Nothing has delayed a modern approach to the study of man more than antiquated ideologies and meaningless controversies. Nature versus nurture, instinct versus learning, race versus biological identity, equality versus biological identity all such antitheses have provoked arguments that have long been shown by biologists to be meaningless, yet much political argument and indecision in public policy is due to the painful lag between scientific recognition and public understanding. This is why a scientifically sound volume on man such as Dobzhansky's is of such extraordinary importance. It admirably fulfills two functions: it presents that which we know, and, perhaps more importantly, it demolishes a considerable number of harmful misconceptions.<br /> 
+358<br />
+<br />
+Nothing has delayed a modern approach to the study of man more than antiquated ideologies and meaningless controversies. Nature versus nurture, instinct versus learning, race versus biological identity, equality versus biological identity all such antitheses have provoked arguments that have long been shown by biologists to be meaningless, yet much political argument and indecision in public policy is due to the painful lag between scientific recognition and public understanding. This is why a scientifically sound volume on man such as Dobzhansky's is of such extraordinary importance. It admirably fulfills two functions: it presents that which we know, and, perhaps more importantly, it demolishes a considerable number of harmful misconceptions.<br /> 
 <br />
 Appreciating the grave danger of various misconceptions such as that of the master race, the nongenetic aspects of nonphysical characteristics, the concept of the tabula rasa of some psychologists, etc., Dobzhansky devotes much space to their refutation. The idea that modern man is no longer subject to natural selection is shown to be false. There is, however, a difference between primitive and modern man: the mortality differential of selection has been replaced by a fertility differential. Here the author could have perhaps stressed even more clearly that so-called Darwinian fitness consists of two drastically different components: genuine adaptive fitness and mere reproductive advantage. Dobzhansky's discussion of equality versus identity is particularly clear and constructive. "The notion that all men are born...biologically alike, is a fallacy...pernicious in the long run." <br />
 <br />
@@ -169,7 +171,7 @@ Man behaves in this respect differently from <i>Drosophila</i>. Contrary to what
 
 360<br />
 <br />
-The genetic consequences of migration are worth more thought and study than they have thus far received. What happens when a race of a polytypic species improves its adaptedness and spreads to the areas of other races? There is no need to ascribe to our remote ancestors a degree of ferocity attained by only some of their descendants; the invaders need not have slaughtered the entire populations of the territories invaded. Genocide is less probable than genosorption, i.e., incorporation of genes of one population into the gene pool of another. Furthermore, even if the genes of the invaders are superior in some respects, the Darwinian fitness of their descendants in the new territory will probably be increased by incorporation of some of the genes of the indigenous populations. The latter may, for example, have a superior resistance to the endemic diseases. Suppose that the territories of <i>H. erectus erectus</i> and <i>H. erectus pekinensis</i> were invaded by migrants from the west. These westerners may have been superior genetically or culturally or both. However, provided the easterners and the westerners belonged to the same species, it is most likely that a population resulted which had some genes from both. Even if a stage of cultural development was reached at which the invaders were so "advanced" that they massacred all or most of the native males, they may have spared and interbred with the females.<br />
+The genetic consequences of migration are worth more thought and study than they have thus far received. What happens when a race of a polytypic species improves its adaptedness and spreads to the areas of other races? There is no need to ascribe to our remote ancestors a degree of ferocity attained by only some of their descendants; the invaders need not have slaughtered the entire populations of the territories invaded. Genocide is less probable than genosorption, i.e., incorporation of genes of one population into the gene pool of another. <br />
 <br />
 
 361<br />
