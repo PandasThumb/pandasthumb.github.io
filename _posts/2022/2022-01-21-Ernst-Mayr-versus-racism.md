@@ -1,6 +1,6 @@
 ---
 title: Ernst Mayr versus racism
-date: 2022-01-20 17:00:00 -8:00
+date: 2022-01-20 20:00:00 -8:00
 author: Nick Matzke
 ---
 
@@ -78,7 +78,7 @@ One might claim that these errors are irrelevant in a book primarily concerned w
 
 -----
 
-Mayr, Ernst (1963). Animal Species and Evolution. The Belknap Press of Harvard University Press. Cambridge, Mass. 1-797.
+Mayr, Ernst (1963). <i>Animal Species and Evolution</i>. The Belknap Press of Harvard University Press. Cambridge, Mass. 1-797.
 
 <blockquote><div style="background-color: rgb(235, 235, 235); padding: 15px;">
 358<br />
@@ -124,7 +124,7 @@ There are other reasons for man's phenotypic variability. Man is a restless crea
 <br />
 649<br />
 <br />
-Claims of human identity [Mayr means the concept that all humans are identical, which he contrasts with the concept of moral/legal equality] are the outcome of typological thinking, of a belief that within the human type there is "no essential variation." Political theorizers have invariably applied such typological formulas when trying to resolve the difficulties posed by man's variability. The racism of the Nazis, for instance, was an outcome of such thinking. They rigidly defined each race by absolute characteristics: the X race "is lazy," the Y race is "of great intelligence," and Z race is "musical," and, worst of all, the A race is "superior." This allowed neither for the fact that many of the characteristic mentioned have only a partial (often a very small) genetic component, nor for the fact that many members of the various races do not have these characteristics at all. Another fallacy of typological racism is that it claims perfect correlation between the various characteristics ascribed to each race. Accordingly it claims an association between a particular color of the eyes or the hair and certain traits of the [650] mind or the character. Actually, all available evidence negates the existence of such absolute correlations.<br />
+Claims of human identity [Mayr means the concept that all humans are identical, which he contrasts with the concept of moral/legal equality] are the outcome of typological thinking, of a belief that within the human type there is "no essential variation." Political theorizers have invariably applied such typological formulas when trying to resolve the difficulties posed by man's variability. The racism of the Nazis, for instance, was an outcome of such thinking. They rigidly defined each race by absolute characteristics: the <i>X</i> race "is lazy," the <i>Y</i> race is "of great intelligence," and <i>Z</i> race is "musical," and, worst of all, the <i>A</i> race is "superior." This allowed neither for the fact that many of the characteristic mentioned have only a partial (often a very small) genetic component, nor for the fact that many members of the various races do not have these characteristics at all. Another fallacy of typological racism is that it claims perfect correlation between the various characteristics ascribed to each race. Accordingly it claims an association between a particular color of the eyes or the hair and certain traits of the [650] mind or the character. Actually, all available evidence negates the existence of such absolute correlations.<br />
 <br />
 Every politician, clergyman, educator, or physician, in short, anyone dealing with human individuals, is bound to make grave mistakes if he ignores these two great truths of population zoology: (1) no two individuals are alike, and (2) both environment and genetic endowment make a contribution to nearly every trait. 
 </div></blockquote>
