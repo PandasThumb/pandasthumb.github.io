@@ -6,8 +6,6 @@ author: Matt Young
 
 <figure>
 <img src="/uploads/2022/Swamidass_Cover_384.jpg" alt="Book cover"/>
-<figcaption>
-</figcaption>
 </figure>
 
 The author of this interesting <a href="https://www.ivpress.com/the-genealogical-adam-and-eve">book</a>, <a href="https://en.wikipedia.org/wiki/S._Joshua_Swamidass">S. Joshua Swamidass</a>, posits that the scientific evidence is consistent with the hypothesis that we could all be descended from a single couple who lived in comparatively recent times, say, 10,000 years or so ago. The conventional wisdom is that <a href="https://en.wikipedia.org/wiki/Mitochondrial_Eve">Mitochondrial Eve</a>, the most recent matrilineal common ancestor of all people alive today, and Y-Chromosomal Adam, our most recent patrilineal common ancestor, lived at very different times 100,000 or more years ago and so could not have been a couple. Dr. Swamidass, an MD, holds a PhD in information science, and is an associate professor at Washington University in St Louis. He is the real McCoy, not someone who has quit to shill for Answers in Genesis, Reasons to Believe, or Aish HaTorah, and must be taken seriously.
