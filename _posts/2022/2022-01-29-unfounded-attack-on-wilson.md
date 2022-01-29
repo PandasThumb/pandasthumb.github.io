@@ -1,0 +1,13 @@
+---
+title: 'Unfounded attack on the late E.O. Wilson'
+date: '2022-01-29 14:55:00  -07:00'
+author: Matt Young
+---
+
+I will keep this short, but I wanted to call attention to two <i>Science</i> articles on E.O. Wilson, who died on Dec. 26 and, I think, needs no introduction.  First: an <a href="https://www.science.org/doi/10.1126/science.abn9848">obituary</a> by Stuart Pimm of Duke University and an expert on conservation biology. Second: a <a href="https://www.science.org/doi/10.1126/science.abo2335">editorial</a> by H. Holden Thorp, the editor of <i>Science</i>. Dr. Pimm in particular notes Wilson's assertion that natural selection might actually select for human behaviors and observed that he was attacked for this view, sometimes unfairly. Both articles were pleasant and made me wish I had met Wilson, rather than just read a <a href="https://www.amazon.com/Naturalist-Edward-Wilson-ebook/dp/B009LO4796">memoir</a> of his.
+
+The attacks have not stopped, and on December 29, before Wilson's body was metaphorically cold, <i>Scientific American</i> published a <a href="https://www.scientificamerican.com/article/the-complicated-legacy-of-e-o-wilson/">hatchet job</a> by a nursing professor, <a href="https://profiles.ucsf.edu/monica.mclemore">Monica McLemore</a> of the University of California, San Francisco. You may read a detailed critique of Dr. McLemore's paper, <a href="https://whyevolutionistrue.com/2021/12/30/scientific-american-does-an-asinine-hit-job-on-e-o-wilson-calling-him-a-racist/">Scientific American does an asinine hit job on E. O. Wilson, calling him a racist</a>, by Jerry Coyne, who does not mince his words, even in a title. 
+
+According to Google Scholar, Dr. McLemore is an author or coauthor of a fair number of papers in scientific journals (she says, "81 peer reviewed articles, OpEds and commentaries," as well as being cited here and there, but only journal articles count). She is thus supposedly a competent researcher. Yet her article said barely a word about Wilson and accused even <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4707027/">Gregor Mendel</a> of racism, though how she might know that is beyond me. I should have stopped reading then and there.
+
+When I was in graduate school, during the Vietnam war, we listened as an earnest young medical resident told about his project to find the psychological causes of war. One of my friends told him, "If you set out to find the psychological causes of war, you will surely find them." The point was not lost on the resident. I think likewise that if you set out to find racism in science, you will surely find it. Even where it does not exist.
