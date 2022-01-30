@@ -7,8 +7,7 @@ author: Joe Felsenstein
 <figure><img src="/uploads/2022/notusker512.jpg" alt=[Tuskless Asian bull elephant]/>
 <figcaption>Tuskless bull Asian Elephant in Huai Kha Khaeng wildlife sanctuary, Thailand. <em><a
 href="https://commons.m.wikimedia.org/wiki/File:Tuskless_bull_Asian_Elephant_in_Huai_Kha_Khaeng_wildlife_sanctuary_(15942505646).jpg">From
-Wikimedia Commons</a></em>
-</figcaption>
+Wikimedia Commons</a></em></figcaption>
 </figure>
 
 When is evolution not evolution?  When it\'s described by creationist/ID sources and is
