@@ -58,7 +58,7 @@ better represented in the next generation.  Neither wolves preying on deer, nor 
 trying to get more butterfat from their cows, carry around with them a detailed
 genetic plan.
 
-Darwin's analogy is a powerful and convincing one.  All that creationists can do
+Darwin\'s analogy is a powerful and convincing one.  All that creationists can do
 is to flatly declare that the analogy is false.   There\'s more to say, but I\'ll
 leave that to the comment section, and mostly to our commenters.
 
