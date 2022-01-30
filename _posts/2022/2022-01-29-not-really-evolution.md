@@ -32,7 +32,7 @@ Obviously, her answer is no, and the UD commenters all applaud this. But they're
 
 <!--more-->
 
-In _The Origin of Species__ Darwin started out, in the first chapter, by reviewing
+In _The Origin of Species_ Darwin started out, in the first chapter, by reviewing
 variation of animals and plants under domestication, and attributes many of the
 changes from their wild ancestors to conscious or unconscious artificial selection.
 He regarded these processes as a close parallel to natural selection, a good way
