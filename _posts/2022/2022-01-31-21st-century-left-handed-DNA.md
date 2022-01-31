@@ -4,6 +4,11 @@ date: 2022-01-31 12:00:01 -8:00
 author: Martin Hafner
 ---
 
+<figure><figcaption> The left-handed DNA helix model that was displayed in the Seattle World's Fair ended up in storage
+in a utility tunnel underneath the Pacific Science Center.  (We'll show the image here as soon as we get
+permission to show it on this page.)  [This link]() shows the image on the PSC Facebook page.</figcaption></figure>
+
+
 On January 11, Matt Young reported that the Institute for Creation Science announced a new log that depicting left-handed DNA. Although regularly occurring in vivo in the form of Z-DNA left-handed DNA only represent a very tiny proportion of the word’s DNA which consists predominantly of right-handed B-DNA as Watson and Crick described it in their 1954 paper.
 
 The ICR left-handed DNA logo made it on the pages of [Tom Schneider’s Left Handed DNA Hall of Fame](https://users.fred.net/tds/leftdna/) immediately and became the sites first entry in 2022.
