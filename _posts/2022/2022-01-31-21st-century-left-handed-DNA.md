@@ -9,9 +9,9 @@ in a utility tunnel underneath the Pacific Science Center.  (We'll show the imag
 permission to show it on this page.)  <a href="https://www.facebook.com/PacSci/photos/pcb.10152437776723855/10152437771508855/">This link</a> shows the image on the PSC Facebook page.</figcaption></figure>
 
 
-On January 11, Matt Young reported that the Institute for Creation Science announced a new log that depicting left-handed DNA. Although regularly occurring in vivo in the form of Z-DNA left-handed DNA only represent a very tiny proportion of the word’s DNA which consists predominantly of right-handed B-DNA as Watson and Crick described it in their 1954 paper.
+On January 11, Matt Young reported that the Institute for Creation Science announced a new logo that depicted left-handed DNA. Although regularly occurring in vivo in the form of Z-DNA left-handed DNA only represent a very tiny proportion of the word’s DNA which consists predominantly of right-handed B-DNA as Watson and Crick described it in their 1954 paper.
 
-The ICR left-handed DNA logo made it on the pages of [Tom Schneider’s Left Handed DNA Hall of Fame](https://users.fred.net/tds/leftdna/) immediately and became the sites first entry in 2022.
+The ICR left-handed DNA logo made it on the pages of [Tom Schneider’s Left Handed DNA Hall of Fame](http://users.fred.net/tds/leftdna/) immediately and became the sites first entry in 2022.
 
 > The Institute for Creation Research has created a new logo representing their support for left handed DNA research and the ongoing takeover! First reported on 2022 Jan 11, new as of 2022 Jan 112
 
