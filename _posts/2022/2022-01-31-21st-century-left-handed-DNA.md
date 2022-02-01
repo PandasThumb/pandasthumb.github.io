@@ -50,7 +50,7 @@ There actually was a [third correctly right-handed DNA model](https://www.facebo
 1. Gamow, G. (1955) “Information Transfer in the Living Cell.” _Scientific American_. 193,(4), 70–79
 [http://www.jstor.org/stable/24943758](http://www.jstor.org/stable/24943758)
 2. Timofeeff-Ressovsky, N.W. and Zimmer, K.G. and Delbrueck, M. (1935) “Über die Natur der Genmutation und der Genstruktur.“ _Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen_. 1935, pp. 190-245
-[https://www.ini.uzh.ch/~tobi/fun/max/timofeeffZimmerDelbruck1935.pdf](https://www.ini.uzh.ch/~tobi/fun/max/timofeeffZimmerDelbruck1935.pdf)
+[https://www.ini.uzh.ch/~tobi/fun/max/timofeeffZimmerDelbruck1935.pdf](http://www.ini.uzh.ch/~tobi/fun/max/timofeeffZimmerDelbruck1935.pdf)
 3. Luria SE, Delbrück M. (1943) “Mutations of Bacteria from Virus Sensitivity to Virus Resistance.” _Genetics_. 28(6):491-511 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1209226/pdf/491.pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1209226/pdf/491.pdf)
 4. US Department of Commerce (1962) _United States science exhibit, World's Fair in Seattle, 1962 Souvenir Guide Book_](
