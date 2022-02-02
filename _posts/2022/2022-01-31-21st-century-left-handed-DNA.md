@@ -23,7 +23,7 @@ In most cases depicting DNA left-handed will be caused by mirroring a correct pi
 
 When Gamow learned about the double helix structure of DNA he suggested a model by which DNA could encode protein sequences. It turned out later that this model was completely wrong (since the intermediate messenger- and transfer-RNA involved in protein synthesis were unknown back then he assumed a direct interaction between DNA and amino acids during the formation of protein chains), but he suggested that a code of triplets of bases of DNA would be sufficient to encode the 20 proteinogenic amino acids. This idea was adopted by Crick who together with Sydney Brenner, Leslie Barnett and R.J. Watts-Tobin proved the three-letter code in 1961. Actually, by the use of T4 one of the phages Delbrück introduced.
 
-It remains unclear if Delbrück or Gamow, who both studied in Göttingen, Germany, spent some postdoctoral time in Niels Bohr’s lab in Copenhagen, and stayed in contact later in the US, were involved in the planning of the Seattle World Fair Science Exhibition. But Delbrück was corresponding with Hans Neurath who joined the Seattle UW School of Medicine
+It remains unclear if Delbrück or Gamow, who both studied in Göttingen, Germany, spent some postdoctoral time in Niels Bohr’s lab in Copenhagen, and stayed in contact later in the US, were involved in the planning of the Seattle World Fair Science Exhibition. But Delbrück was corresponding with Hans Neurath who joined the University of Washington School of Medicine
 faculty in 1950 to head the new biochemistry department and later would become [a member of the
 national science planning board of the 1962 Seattle World's Fair](https://magazine.washington.edu/hans-neurath-1909-2002/).
 
