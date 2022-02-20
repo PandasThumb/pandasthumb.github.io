@@ -206,8 +206,8 @@ John Ross (2021). Does the teaching of indigenous knowledge need to be examined?
 
 John Ross (2021). Auckland plans dialogue on Māori knowledge and science: Vice-chancellor commits to 'challenging and confronting debate' on hot-button issue.   <i>Times Higher Education</i>, December 15, 2021. https://www.timeshighereducation.com/news/auckland-plans-dialogue-maori-knowledge-and-science 
 
-Peter J. Ramberg (2000) The Death of Vitalism and The Birth of Organic
-Chemistry: Wohler's Urea Synthesis and the Disciplinary Identity of Organic Chemistry, Ambix,
+Peter J. Ramberg (2000) "The Death of Vitalism and The Birth of Organic
+Chemistry: Wohler's Urea Synthesis and the Disciplinary Identity of Organic Chemistry." <i>Ambix</i>,
 47:3, 170-195, DOI: 10.1179/amb.2000.47.3.170
 To link to this article: https://doi.org/10.1179/amb.2000.47.3.170
 
