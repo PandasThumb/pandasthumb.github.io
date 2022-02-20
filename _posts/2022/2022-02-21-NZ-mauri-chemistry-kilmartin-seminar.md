@@ -1,11 +1,11 @@
 ---
 title: Chemistry Professor Paul Kilmartin on "mauri" in the NZ Chemistry/Biology curriculum
-date: 2022-02-22 20:00:00 -8:00
+date: 2022-02-21 20:00:00 -8:00
 author: Nick Matzke
 ---
 
 <figure class="on-the-left-side"><img src="/uploads/2022/Paul_Kilmartin.png" alt="[Prof. Paul Kilmartin university webpage]"/>
-<figcaption><small>Prof. Paul Kilmartin's university webpage. <a href="https://unidirectory.auckland.ac.nz/profile/p-kilmartin">Source and license at Wikipedia</a>.</small></figcaption>
+<figcaption><small>Prof. Paul Kilmartin's university webpage. <a href="https://unidirectory.auckland.ac.nz/profile/p-kilmartin">Source: UoA webpage</a>.</small></figcaption>
 </figure>
 
 On Friday, February 18, I attended (on Zoom) a fascinating seminar given by Paul Kilmartin, a Professor of Chemistry in the School of Chemical Sciences at the University of Auckland, New Zealand. (I work in the School of Biological Sciences at the same institution.) Prof. Kilmartin specialises in wine chemistry, among other things, and in addition to chemistry, has degrees in theology and philosophy, and has done extensive work the history of his own family and the land they have helped manage.
