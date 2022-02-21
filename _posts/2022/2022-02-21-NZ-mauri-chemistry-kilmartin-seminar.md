@@ -47,11 +47,11 @@ The following Glossary is provided, where mauri is defined as:<br />
 <br />
 <img src="/uploads/2022/Kilmartin2.png"><br />
 <br />
-[Then follows several minutes of discussion of various definitions and usages of the mauri concept; Kilmartin states that insofar as mauri is used to refer to a concept like individual or ecosystem health, he can work with it.  Kilmartin also discusses Prof. T.K.K.B. Morgan's mauri-o-meter, etc.]<br />
+[Then follows several minutes of discussion of various definitions and usages of the mauri concept; Kilmartin states that insofar as mauri is used to refer to a concept like individual or ecosystem health, he can work with it.  Kilmartin also discusses Prof. T.K.K.B. Morgan's <a href="http://www.mauriometer.com/">mauri-o-meter</a>, etc.]<br />
 <br />
 [Resume at about minute 33:00]<br />
 <br />
-But is there more to the concept of mauri than this?  In an earlier publication, within a civil engineers' proceeding, Dr. Morgan provides more background to mauri. <br />
+But is there more to the concept of mauri than this?  In an earlier publication, within a civil engineers' proceeding, Prof. Morgan provides more background to mauri. <br />
 <br />
 <img src="/uploads/2022/Kilmartin3.png"><br />
 <br />
