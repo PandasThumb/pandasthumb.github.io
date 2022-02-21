@@ -8,11 +8,13 @@ author: Nick Matzke
 <figcaption><small>Prof. Paul Kilmartin's university webpage. <a href="https://unidirectory.auckland.ac.nz/profile/p-kilmartin">Source: UoA webpage</a>.</small></figcaption>
 </figure>
 
-On Friday, February 18, I attended (on Zoom) a fascinating seminar given by Paul Kilmartin, a Professor of Chemistry in the School of Chemical Sciences at the University of Auckland, New Zealand. (I work in the School of Biological Sciences at the same institution.) Prof. Kilmartin specialises in wine chemistry, among other things, and in addition to chemistry, has degrees in theology and philosophy, and has done extensive work the history of his own family and the land they have helped manage.
+On Friday, February 18, I attended (on Zoom) a fascinating seminar given by <a href="https://unidirectory.auckland.ac.nz/profile/p-kilmartin">Paul Kilmartin, Professor of Chemistry</a> in the <a href="https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-chemical-sciences.html">School of Chemical Sciences</a> at the <a href="https://www.auckland.ac.nz/en.html">University of Auckland</a>, here in Aotearoa/New Zealand. (<a href="https://unidirectory.auckland.ac.nz/profile/nmat471">I work</a> in the <a href="https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-biological-sciences.html">School of Biological Sciences</a> at the same institution.) Prof. Kilmartin specialises in wine chemistry, among other things, and in addition to chemistry, has degrees in theology and philosophy.
 
-Kilmartin's talk was entitled "Chemistry and Mātauranga Māori: A Conversation." Kilmartin has given me permission to quote this part of his talk, below, which covers science education material of international interest. I will also include the talk summary. Other parts of the talk focused on his own background coming to this issue, and ideas for Auckland's chemistry program to explore regarding mātauranga Māori.
+Kilmartin's talk was entitled <b>"Chemistry and Mātauranga Māori: A Conversation."</b> Kilmartin has given me permission to quote this part of his talk, below, which covers science education material of international interest. I will also include the talk summary. Other parts of Kilmartin's seminar focused on his own background coming to this issue (Scottish and Māori ancestry, member of <a href="https://ngaitahu.iwi.nz/">Ngāi Tahu</a>, deep knowledge of Ngāi Tahu history and land claims), and ideas for Auckland's chemistry program to explore regarding mātauranga Māori.
 
-As the Panda's Thumb has an international readership interested in science and science education, I will give some background/introduction to these issues, after the quote from Kilmartin's talk.  For more (much more) on current science education controversies in New Zealand, please search Google News, Twitter, etc. on the various terms mentioned. (All of non-talk material is written by me, and should not necessarily be taken as Kilmartin's views.)
+The Panda's Thumb blog has an international readership interested in science and science education, and I have been involved with science education controversies for 20 years (and with PT for 18!). But I'm sure the NZ situation is new to many readers. Therefore, I will give some background/introduction to the controversy around the science curriculum, after the quote from Kilmartin's talk.  For more (much more) on current science education controversies in New Zealand, please search <a href="https://news.google.com/search?q=science%2C%20M%C4%81tauranga%20M%C4%81ori&hl=en-NZ&gl=NZ&ceid=NZ%3Aen">Google News</a>, <a href="https://twitter.com/search?q=science%20%20M%C4%81tauranga%20M%C4%81ori&src=typed_query&f=live">Twitter</a>, <a href="https://whyevolutionistrue.com/?s=mauri+zealand&orderby=relevance&order=DESC&post_type=post">blogs</a> etc. on the various terms mentioned. 
+
+<i>(Please not that all of non-talk material is written by me, and should not necessarily be taken as Kilmartin's views. And, these are my personal views, not those of current or former employers.)</i>
 
 <blockquote><div style="background-color: rgb(235, 235, 235); padding: 15px;">
 <b>Quotes from: “Chemistry and Mātauranga Māori: A Conversation”</b><br />
@@ -57,13 +59,13 @@ And there are some new concepts here. Not only do all natural objects possess it
 <br />
 One question is whether using mauri in the sense of life-supporting capacity implies all of this additional meaning.  If it does, then I would want to ask, Who discovered this binding force between the physical and the spiritual?  And what evidence was involved in its discovery? If this binding force is real, then everyone needs to know about it. It needs to be in the chemistry syllabus of every country, not just in New Zealand.<br />
 <br />
-So how has this new syllabus been received by teachers? We have one publication on this topic from last year [Stewart and Teldoldi 2021], which explains that the inclusion of Māori concepts is an attempt to reflect the principal of equal mana, mana ōrite, for Māori knowledge -- one of the seven principles within the NCEA Change package, announced by the government in May 2019.<br />
+So how has this new syllabus been received by teachers? We have one publication on this topic from last year [Stewart and Tedoldi 2021], which explains that the inclusion of Māori concepts is an attempt to reflect the principal of equal mana, mana ōrite, for Māori knowledge -- one of the seven principles within the NCEA Change package, announced by the government in May 2019.<br />
 <br />
 <img src="/uploads/2022/Kilmartin4.png"><br />
 <br />
 We also learn that these proposals have sparked heated discussions, in which NCEA science teachers have referred to Māori knowledge as "myths and legends," or "’spiritual concepts’ that do not belong in the science curriculum." Well, good on the teachers for having their say.<br />
 <br />
-The authors of this article [Stewart and Teldoldi 2021] have other views. The problem with the teachers is seen as a narrow understanding of what is living, as taught under the MRS GREN life processes: Movement, Respiration, Sensitivity, Growth, Reproduction, Excretion, and Nutrition, and I remember teaching MRS GREN in my two years as a secondary school teacher in Christchurch in the early 90s.  Instead this should be expanded to consider a river as living. To support this understanding, teachers are recommended to look to the Gaia concept of the Earth as a living thing. I hadn't heard much about Gaia recently, and it was much more popular in the 80s and 90s, and I might be showing my age here.  I had to look up Wikipedia for some recent information. There is every indication that Gaia has little current following in the scientific community, after some years of more active debate.<br />
+The authors of this article [Stewart and Tedoldi 2021] have other views. The problem with the teachers is seen as a narrow understanding of what is living, as taught under the MRS GREN life processes: Movement, Respiration, Sensitivity, Growth, Reproduction, Excretion, and Nutrition, and I remember teaching MRS GREN in my two years as a secondary school teacher in Christchurch in the early 90s.  Instead this should be expanded to consider a river as living. To support this understanding, teachers are recommended to look to the Gaia concept of the Earth as a living thing. I hadn't heard much about Gaia recently, and it was much more popular in the 80s and 90s, and I might be showing my age here.  I had to look up Wikipedia for some recent information. There is every indication that Gaia has little current following in the scientific community, after some years of more active debate.<br />
 <br />
 One final example of mauri is of interest to myself as an electrochemist, given our use of electricity to interface with chemistry.  And this relates to domestic electrical wiring. In the current New Zealand Electrical Code of Practice, we are encouraged to think of the Green/Yellow=Earth wire as a Papatuanuku or Earth Mother. <br />
 <br />
@@ -93,7 +95,7 @@ https://ncea.education.govt.nz/science/chemistry-and-biology?view=subject-glossa
 
 -----
 
-Here is the poster advertising and summarising Kilmartin's seminar:
+<a name="poster" />Here is the poster advertising and summarising Kilmartin's seminar:
 
 <figure><img src="/uploads/2022/Paul_Kilmartin_talk_poster.png" alt="[Paul Kilmartin poster for Feb. 18 chemistry seminar on mātauranga Māori]"/>
 <figcaption><small>Poster for Paul Kilmart's Feb. 18 seminar in the School of Chemical Sciences, University of Auckland on mātauranga Māori and the NCEA Chemistry curriculum</small></figcaption>
@@ -143,7 +145,7 @@ In addition to his chemistry background, Paul has degrees in philosophy and theo
 
 -----
 
-<b>Quick Backgrounder for international readers (by Matzke)</b>
+<a name="background" /><b>Quick Backgrounder for international readers (by Matzke)</b>
 
 The term <i>mātauranga Māori</i> means Māori knowledge.  (It is often just "mātauranga" when the context is obvious; it is often also abbreviated MM.) Often this primarily refers to traditional indigenous knowledge, but it can also include newer knowledge that was developed or incorporated more recently.  Much more detail is available via google, see for example the Māori dictionary and mātauranga Māori and science, from the NZ Science Learning Hub.
 
@@ -159,7 +161,7 @@ However, there has been a new development. The NZ Ministry of Education's <a hre
 
 NCEA Level 1 includes classes on <a href="https://ncea.education.govt.nz/science/chemistry-and-biology?view=learning">Chemistry and Biology</a> (CB), general <a href="https://ncea.education.govt.nz/science/science?view=learning">Science</a> (SC), <a href="https://ncea.education.govt.nz/science/physics-earth-and-space-science?view=learning">Physics Earth and Space Science</a> (PESS), and <a href="https://ncea.education.govt.nz/mathematics-and-statistics/mathematics-and-statistics?view=learning">Mathematics and Statistics</a> (MS). Reviewing the curricula, some of it, including some of the mātauranga Māori content, seems fine, or at least not something to raise a public ruckus about. (E.g., the curriculum is often pretty vague and general, but NZ deliberately decided to not create hyper-detailed curricula like the 1000+ page curricula used in Australia.)
 
-But some of it is...very surprising. The example that lept out to me is also the section that Kilmartin critiqued: the chemistry discussion of atoms, molecules, chemical bonds, and conservation of mass/energy/the First Law of Thermodynamics. 
+But some of it is...very surprising. The example that leapt out to me is also the section that Kilmartin critiqued: the chemistry discussion of atoms, molecules, chemical bonds, and conservation of mass/energy/the First Law of Thermodynamics. 
 
 Here is some quick translations for the international reader. Please see the NCEA glossary or other online resources for more:
 
@@ -191,24 +193,29 @@ But the concept of a life force or vital essence is...vitalism!  And vitalism is
 
 Modern chemistry and biology, especially organic chemistry and biochemistry, essentially arose through the examination and experimental defeat of vitalism, including the defeat of many rear-guard attempts to defend some reduced version of the concept of a life force or life essence -- something "extra" beyond material matter and forces which gave living things the breath of life. To have some government bureaucrats try to bring it back into chemistry by administrative declaration is not going to fly.  Seeing vitalism in chemistry standards is as surprising as it would be to see a Geology curriculum endorse Noah's Flood or the idea that the Earth is 6,000 years old. 
 
+<a name="other_problems" />
 <b>Other problems</b>
 
-These problems should have been obvious, and they certainly were to the many science teachers who objected. Unfortunately, science teachers' objections seem to be being hand-waved away by the educational establishment. (Gaia? Even if one ignored Kilmartin's point that the Gaia Hypothesis is itself controversial, Gaia aims to explain how the Earth is a homeostatic system; it doesn't solve the problems with trying to bring back vitalism.)
+These problems should have been obvious, and they certainly were to the many science teachers who objected. Unfortunately, science teachers' objections seem to be being hand-waved away by the educational establishment, for example by . (Gaia? Even if one ignored Kilmartin's point that the Gaia Hypothesis is itself controversial, Gaia aims to explain how the Earth is a homeostatic system; it doesn't solve the problems with trying to bring back vitalism.)
 
 But there are other huge problems with the inclusion of mauri in the discussion of particles, chemical bonds, and conservation of mass.  These include: What will be on the exams? Won't this create conflict in the classroom between students (or teachers) with differing spiritual views? Is this even authentic mātauranga, or is it actually something hatched in the bowels of the Ministry of Education in mid-2021 in the service of some goal other than science education? And, especially, how did all of this get pushed through over negative reviews that the Ministry must have gotten from scientists and science teachers?
 
 However, this post is long enough as it is, so these other questions will have to wait for future posts. I do encourage others concerned about the situation with science standards in New Zealand to get in touch (nickmatzke@gmail.com); the only way that problems like this can get solved is by activism.
 
-
+<a name="refs" />
 <b>References</b>
 
-John Ross (2021). Does the teaching of indigenous knowledge need to be examined? New Zealand’s embrace of Māori vocabulary goes hand-in-hand with the incorporation of Māori understandings into curricula. But is a debate about the unintended consequences of this move being stifled by fear of speaking out? <i>Times Higher Education</i>, November 11, 2021. https://www.timeshighereducation.com/depth/does-teaching-indigenous-knowledge-need-be-examined
+NCEA/Ministry of Education (2021). SCIENCE: Chemistry and Biology Level 1 Curriculum. <a href="https://ncea.education.govt.nz/science/chemistry-and-biology?view=learning">https://ncea.education.govt.nz/science/chemistry-and-biology?view=learning</a>. Accessed 2022-02-21.
 
-John Ross (2021). Auckland plans dialogue on Māori knowledge and science: Vice-chancellor commits to 'challenging and confronting debate' on hot-button issue.   <i>Times Higher Education</i>, December 15, 2021. https://www.timeshighereducation.com/news/auckland-plans-dialogue-maori-knowledge-and-science 
+John Ross (2021). Does the teaching of indigenous knowledge need to be examined? New Zealand’s embrace of Māori vocabulary goes hand-in-hand with the incorporation of Māori understandings into curricula. But is a debate about the unintended consequences of this move being stifled by fear of speaking out? <i>Times Higher Education</i>, November 11, 2021. <a href="https://www.timeshighereducation.com/depth/does-teaching-indigenous-knowledge-need-be-examined">https://www.timeshighereducation.com/depth/does-teaching-indigenous-knowledge-need-be-examined</a>
+
+John Ross (2021). Auckland plans dialogue on Māori knowledge and science: Vice-chancellor commits to 'challenging and confronting debate' on hot-button issue.   <i>Times Higher Education</i>, December 15, 2021. <a href="https://www.timeshighereducation.com/news/auckland-plans-dialogue-maori-knowledge-and-science">https://www.timeshighereducation.com/news/auckland-plans-dialogue-maori-knowledge-and-science</a> 
 
 Peter J. Ramberg (2000) "The Death of Vitalism and The Birth of Organic
 Chemistry: Wohler's Urea Synthesis and the Disciplinary Identity of Organic Chemistry." <i>Ambix</i>,
-47:3, 170-195, DOI: 10.1179/amb.2000.47.3.170
-To link to this article: https://doi.org/10.1179/amb.2000.47.3.170
+47:3, 170-195, DOI: <a href="https://doi.org/10.1179/amb.2000.47.3.170">10.1179/amb.2000.47.3.170</a>
+To link to this article: <a href="https://doi.org/10.1179/amb.2000.47.3.170">https://doi.org/10.1179/amb.2000.47.3.170</a>
 
-Ian Wilkinson (2002). "History of Clinical Chemistry." <i>The Journal of the International Federation of Clinical Chemistry and Laboratory Medicine</i> (EJIFCC). 13(4): 114–118. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6208063/ 
+Georgina Tuari Stewart and Angelo Tedoldi (2021). Bringing Māori concepts into school science: NCEA. Access: Contemporary Issues in Education. 41(1), 77-81. <a href="https://doi.org/10.46786/ac21.1591">https://doi.org/10.46786/ac21.1591</a>
+
+Ian Wilkinson (2002). "History of Clinical Chemistry." <i>The Journal of the International Federation of Clinical Chemistry and Laboratory Medicine</i> (EJIFCC). 13(4): 114–118. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6208063/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6208063/</a> 
