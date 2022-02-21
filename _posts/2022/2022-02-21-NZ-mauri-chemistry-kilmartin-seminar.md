@@ -200,7 +200,7 @@ These problems should have been obvious, and they certainly were to the many sci
 
 But there are other huge problems with the inclusion of mauri in the discussion of particles, chemical bonds, and conservation of mass.  These include: What will be on the exams? Won't this create conflict in the classroom between students (or teachers) with differing spiritual views? Is this even authentic mātauranga, or is it actually something hatched in the bowels of the Ministry of Education in mid-2021 in the service of some goal other than science education? And, especially, how did all of this get pushed through over negative reviews that the Ministry must have gotten from scientists and science teachers?
 
-However, this post is long enough as it is, so these other questions will have to wait for future posts. I do encourage others concerned about the situation with science standards in New Zealand to get in touch (nickmatzke@gmail.com); the only way that problems like this can get solved is by activism.
+However, this post is long enough as it is, so these other questions will have to wait for future posts. I do encourage others concerned about the situation with science standards in New Zealand to get in touch (nickmatzke@gmail.com); the way that problems like this can get solved is by activism.
 
 <a name="refs" />
 <b>References</b>
