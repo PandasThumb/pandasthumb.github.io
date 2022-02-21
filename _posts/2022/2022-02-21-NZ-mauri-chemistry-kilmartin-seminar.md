@@ -1,6 +1,6 @@
 ---
 title: Chemistry Professor Paul Kilmartin on "mauri" in the NZ Chemistry/Biology curriculum
-date: 2022-02-21 20:00:00 -8:00
+date: 2022-02-20 16:00:00 -8:00
 author: Nick Matzke
 ---
 
@@ -201,9 +201,11 @@ Modern chemistry and biology, especially organic chemistry and biochemistry, ess
 <a name="other_problems" /></a>
 **Other problems**
 
-These problems should have been obvious, and they certainly were to the many science teachers who objected. Unfortunately, science teachers' objections seem to be being hand-waved away by the educational establishment, for example by . (Gaia? Even if one ignored Kilmartin's point that the Gaia Hypothesis is itself controversial, Gaia aims to explain how the Earth is a homeostatic system; it doesn't solve the problems with trying to bring back vitalism.)
+These problems should have been obvious, and they certainly were to the many science teachers who objected. Unfortunately, science teachers' objections seem to be being hand-waved away by the educational establishment, for example by <a href="https://doi.org/10.46786/ac21.1591">Stewart & Tedoldi (2021)</a>, who seem to be closely involved with the science curricula. They note the strong objections that science teachers voiced to bringing mauri into the Chemistry/Biology curriculum in this way, but they reply by bringing up...Gaia. Even if one ignored Kilmartin's point, namely that the Gaia Hypothesis is itself controversial, Gaia aims to explain how the Earth is a homeostatic system; it doesn't solve the problems with trying to bring back vitalism.
 
 But there are other huge problems with the inclusion of mauri in the discussion of particles, chemical bonds, and conservation of mass.  These include: What will be on the exams? Won't this create conflict in the classroom between students (or teachers) with differing spiritual views? Is this even authentic mātauranga, or is it actually something hatched in the bowels of the Ministry of Education in mid-2021 in the service of some goal other than science education? And, especially, how did all of this get pushed through over negative reviews that the Ministry must have gotten from scientists and science teachers?
+
+Finally, there is a rather profound meta-issue that keeps arising in these discussions, namely, "Who has the authority to speak?"  Professor Kilmartin (in a part of the talk I did not quote) argues strongly that everyone should be allowed to participate in the discussion -- scientists, mātauranga Māori experts, and the general public whose children will be educated under these curricula in the schools. I agree, but there is another point worth making. When the subject is a public school curriculum, we should keep in mind the <i>purpose</i> of such curricula: to get everyone on the same page, to supply the basic concepts and definitions and will be taught. If an introductory curriculum requires a complex hermeneutic to correctly interpret it, or if advanced knowledge is required to understand it, then the curriculum is failing at its basic purpose. Being simple and clear, providing a common baseline for everyone, is the <i>whole point</i> of a curriculum.
 
 However, this post is long enough as it is, so these other questions will have to wait for future posts. I do encourage others concerned about the situation with science standards in New Zealand to get in touch (nickmatzke@gmail.com); the way that problems like this can get solved is by activism.
 
