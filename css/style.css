@@ -445,6 +445,13 @@ article h6 {
   float: right;
 }
 
+.centerImage
+{
+ text-align:center;
+ display:block;
+}
+
+
 @media screen and (max-width: 568px) {
 .on-the-left-side,
 .on-the-right-side {
