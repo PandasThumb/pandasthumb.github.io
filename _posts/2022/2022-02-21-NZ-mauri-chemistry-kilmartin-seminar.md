@@ -95,7 +95,10 @@ https://ncea.education.govt.nz/science/chemistry-and-biology?view=subject-glossa
 
 -----
 
-<a name="poster" />Here is the poster advertising and summarising Kilmartin's seminar:
+<a name="poster" /></a>
+**Poster**
+
+To give a fuller summary of the talk, here is the poster advertising and summarising Kilmartin's seminar:
 
 <figure><img src="/uploads/2022/Paul_Kilmartin_talk_poster.png" alt="[Paul Kilmartin poster for Feb. 18 chemistry seminar on mātauranga Māori]"/>
 <figcaption><small>Poster for Paul Kilmart's Feb. 18 seminar in the School of Chemical Sciences, University of Auckland on mātauranga Māori and the NCEA Chemistry curriculum</small></figcaption>
@@ -145,7 +148,9 @@ In addition to his chemistry background, Paul has degrees in philosophy and theo
 
 -----
 
-<a name="background" /><b>Quick Backgrounder for international readers (by Matzke)</b>
+<a name="background" /></a>
+
+**Quick Backgrounder for international readers (by Matzke)**
 
 The term <i>mātauranga Māori</i> means Māori knowledge.  (It is often just "mātauranga" when the context is obvious; it is often also abbreviated MM.) Often this primarily refers to traditional indigenous knowledge, but it can also include newer knowledge that was developed or incorporated more recently.  Much more detail is available via google, see for example the Māori dictionary and mātauranga Māori and science, from the NZ Science Learning Hub.
 
@@ -193,8 +198,8 @@ But the concept of a life force or vital essence is...vitalism!  And vitalism is
 
 Modern chemistry and biology, especially organic chemistry and biochemistry, essentially arose through the examination and experimental defeat of vitalism, including the defeat of many rear-guard attempts to defend some reduced version of the concept of a life force or life essence -- something "extra" beyond material matter and forces which gave living things the breath of life. To have some government bureaucrats try to bring it back into chemistry by administrative declaration is not going to fly.  Seeing vitalism in chemistry standards is as surprising as it would be to see a Geology curriculum endorse Noah's Flood or the idea that the Earth is 6,000 years old. 
 
-<a name="other_problems" />
-<b>Other problems</b>
+<a name="other_problems" /></a>
+**Other problems**
 
 These problems should have been obvious, and they certainly were to the many science teachers who objected. Unfortunately, science teachers' objections seem to be being hand-waved away by the educational establishment, for example by . (Gaia? Even if one ignored Kilmartin's point that the Gaia Hypothesis is itself controversial, Gaia aims to explain how the Earth is a homeostatic system; it doesn't solve the problems with trying to bring back vitalism.)
 
@@ -202,8 +207,8 @@ But there are other huge problems with the inclusion of mauri in the discussion 
 
 However, this post is long enough as it is, so these other questions will have to wait for future posts. I do encourage others concerned about the situation with science standards in New Zealand to get in touch (nickmatzke@gmail.com); the way that problems like this can get solved is by activism.
 
-<a name="refs" />
-<b>References</b>
+<a name="refs" /></a>
+**References**
 
 NCEA/Ministry of Education (2021). SCIENCE: Chemistry and Biology Level 1 Curriculum. <a href="https://ncea.education.govt.nz/science/chemistry-and-biology?view=learning">https://ncea.education.govt.nz/science/chemistry-and-biology?view=learning</a>. Accessed 2022-02-21.
 
@@ -219,3 +224,7 @@ To link to this article: <a href="https://doi.org/10.1179/amb.2000.47.3.170">htt
 Georgina Tuari Stewart and Angelo Tedoldi (2021). Bringing Māori concepts into school science: NCEA. Access: Contemporary Issues in Education. 41(1), 77-81. <a href="https://doi.org/10.46786/ac21.1591">https://doi.org/10.46786/ac21.1591</a>
 
 Ian Wilkinson (2002). "History of Clinical Chemistry." <i>The Journal of the International Federation of Clinical Chemistry and Laboratory Medicine</i> (EJIFCC). 13(4): 114–118. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6208063/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6208063/</a> 
+
+-----
+
+<i>Note: I am going to be out of town and off the grid on a trek, so I ask other PT moderators to please eliminate spam and trolling in the comments, if any.</i>
