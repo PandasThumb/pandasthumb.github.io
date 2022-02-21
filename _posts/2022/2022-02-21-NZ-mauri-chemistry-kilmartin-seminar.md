@@ -95,7 +95,7 @@ https://ncea.education.govt.nz/science/chemistry-and-biology?view=subject-glossa
 
 -----
 
-<a name="poster" /></a>
+<a name="poster"></a>
 **Poster**
 
 To give a fuller summary of the talk, here is the poster advertising and summarising Kilmartin's seminar:
@@ -148,7 +148,7 @@ In addition to his chemistry background, Paul has degrees in philosophy and theo
 
 -----
 
-<a name="background" /></a>
+<a name="background" ></a>
 
 **Quick Backgrounder for international readers (by Matzke)**
 
@@ -198,7 +198,7 @@ But the concept of a life force or vital essence is...vitalism!  And vitalism is
 
 Modern chemistry and biology, especially organic chemistry and biochemistry, essentially arose through the examination and experimental defeat of vitalism, including the defeat of many rear-guard attempts to defend some reduced version of the concept of a life force or life essence -- something "extra" beyond material matter and forces which gave living things the breath of life. To have some government bureaucrats try to bring it back into chemistry by administrative declaration is not going to fly.  Seeing vitalism in chemistry standards is as surprising as it would be to see a Geology curriculum endorse Noah's Flood or the idea that the Earth is 6,000 years old. 
 
-<a name="other_problems" /></a>
+<a name="other_problems" ></a>
 **Other problems**
 
 These problems should have been obvious, and they certainly were to the many science teachers who objected. Unfortunately, science teachers' objections seem to be being hand-waved away by the educational establishment, for example by <a href="https://doi.org/10.46786/ac21.1591">Stewart & Tedoldi (2021)</a>, who seem to be closely involved with the science curricula. They note the strong objections that science teachers voiced to bringing mauri into the Chemistry/Biology curriculum in this way, but they reply by bringing up...Gaia. Even if one ignored Kilmartin's point, namely that the Gaia Hypothesis is itself controversial, Gaia aims to explain how the Earth is a homeostatic system; it doesn't solve the problems with trying to bring back vitalism.
@@ -209,7 +209,7 @@ Finally, there is a rather profound meta-issue that keeps arising in these discu
 
 However, this post is long enough as it is, so these other questions will have to wait for future posts. I do encourage others concerned about the situation with science standards in New Zealand to get in touch (nickmatzke@gmail.com); the way that problems like this can get solved is by activism.
 
-<a name="refs" /></a>
+<a name="refs" ></a>
 **References**
 
 NCEA/Ministry of Education (2021). SCIENCE: Chemistry and Biology Level 1 Curriculum. <a href="https://ncea.education.govt.nz/science/chemistry-and-biology?view=learning">https://ncea.education.govt.nz/science/chemistry-and-biology?view=learning</a>. Accessed 2022-02-21.
