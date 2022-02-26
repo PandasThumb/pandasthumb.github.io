@@ -11,7 +11,7 @@ author: Matt Young
 </figcaption>
 </figure>
 
-A geranium plant that I supposedly take care of has a serious infection with whiteflies. Before dousing the plant with insecticidal soap (a procedure I am supposed to follow every week for a while), I snapped the preceding picture. There is a lot of there there, so I asked Mark Sturtevant exactly what I am looking at. His response:
+A geranium plant that I supposedly take care of has a serious infestation with whiteflies. Before dousing the plant with insecticidal soap (a procedure I am supposed to follow every week for a while), I snapped the preceding picture. There is a lot of there there, so I asked Mark Sturtevant exactly what I am looking at. His response:
 
 <blockquote><p>The spiky things are a weird part of the life cycle of whiteflies. Although they are in the order Hemiptera, which are 'supposed' to have <a href="https://www.amentsoc.org/insects/glossary/terms/incomplete-metamorphosis/">incomplete metamorphosis</a> (passing thru nymphal stages before molting into adults), whiteflies are hemipterans that essentially have a larval stage and pupal stage of <a href="https://www.amentsoc.org/insects/glossary/terms/complete-metamorphosis/">holometabolous</a> insects.</p>
 
