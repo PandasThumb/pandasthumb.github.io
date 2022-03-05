@@ -12,8 +12,6 @@ The [awards affected](https://www.amnat.org/awards.html) are the Sewall Wright A
 
 Of these, [Sewall Wright](https://en.wikipedia.org/wiki/Sewall_Wright) and [E.O. Wilson](https://en.wikipedia.org/wiki/E._O._Wilson) need no introduction from me. [Jasper Loftus-Hills](https://www.amnat.org/awards.html#Jasper) was an Australian biologist of exceptional promise, killed by a hit and run driver when he was conducting fieldwork, just three years after receiving his PhD. Among numerous other achievements, [Ruth Patrick](https://en.wikipedia.org/wiki/Ruth_Patrick) established the Department of Limnology at the National Academy of Sciences, and did pioneering work on freshwater biodiversity and how it is impacted by pollution. [Julia Platt](https://en.wikipedia.org/wiki/Julia_Platt) was the first to establish the neural crest origin of the cranium, was not able (this was in the 1890s) to obtain a PhD or an academic position in the U.S., went into politics and used her political role to establish one of the earliest marine conservation areas. [Ed Ricketts](https://en.wikipedia.org/wiki/Ed_Ricketts) pioneered the study of intertidal ecology, and collaborated with the novelist John Steinbeck.  These are the people whose names the American Society of Naturalists no longer wishes to see prominently attached to their awards.
 
-<!--more-->
-
 I asked Professor Joel McGlothlin, Secretary of ASN, the following questions:
 
 <ul>
