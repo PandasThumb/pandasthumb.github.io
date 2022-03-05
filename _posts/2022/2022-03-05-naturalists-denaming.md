@@ -1,6 +1,6 @@
 ---
 title: 'On the American Society of Naturalists’ de-naming of its awards' 
-date: '2022-03-06 11:39:00 -07:00'
+date: '2022-03-05 11:39:00 -07:00'
 author: Paul Braterman
 ---
 
