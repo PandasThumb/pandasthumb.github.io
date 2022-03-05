@@ -12,20 +12,22 @@ The [awards affected](https://www.amnat.org/awards.html) are the Sewall Wright A
 
 Of these, [Sewall Wright](https://en.wikipedia.org/wiki/Sewall_Wright) and [E.O. Wilson](https://en.wikipedia.org/wiki/E._O._Wilson) need no introduction from me. [Jasper Loftus-Hills](https://www.amnat.org/awards.html#Jasper) was an Australian biologist of exceptional promise, killed by a hit and run driver when he was conducting fieldwork, just three years after receiving his PhD. Among numerous other achievements, [Ruth Patrick](https://en.wikipedia.org/wiki/Ruth_Patrick) established the Department of Limnology at the National Academy of Sciences, and did pioneering work on freshwater biodiversity and how it is impacted by pollution. [Julia Platt](https://en.wikipedia.org/wiki/Julia_Platt) was the first to establish the neural crest origin of the cranium, was not able (this was in the 1890s) to obtain a PhD or an academic position in the U.S., went into politics and used her political role to establish one of the earliest marine conservation areas. [Ed Ricketts](https://en.wikipedia.org/wiki/Ed_Ricketts) pioneered the study of intertidal ecology, and collaborated with the novelist John Steinbeck.  These are the people whose names the American Society of Naturalists no longer wishes to see prominently attached to their awards.
 
+<!--more-->
+
 I asked Professor Joel McGlothlin, Secretary of ASN, the following questions:
 
 <ul>
-<li>Who suggested this change?
-<li>What are the reasons for the change?
-<li>Did any of the names attached to awards seem to you problematic? If so, which ones, and in what way?
-<li>How long has the change been under consideration?
-<li>What debate or discussion took place?
-<li>What experts were consulted?
-<li>Why are no reasons given on the website?
-<li>When does the change come into effect?
-<li>Were the membership consulted? Were current holders of the relevant named awards consulted? 
-<li>Were Loftus-Hills' family notified in advance of the announcement? If so, when and how?
-<li>Will the Society be giving back the Loftus-Hills' endowment money? If not, how do you justify keeping it?
+<li>Who suggested this change?</li>
+<li>What are the reasons for the change?</li>
+<li>Did any of the names attached to awards seem to you problematic? If so, which ones, and in what way?</li>
+<li>How long has the change been under consideration?</li>
+<li>What debate or discussion took place?</li>
+<li>What experts were consulted?</li>
+<li>Why are no reasons given on the website?</li>
+<li>When does the change come into effect?</li>
+<li>Were the membership consulted? Were current holders of the relevant named awards consulted?</li> 
+<li>Were Loftus-Hills' family notified in advance of the announcement? If so, when and how?</li>
+<li>Will the Society be giving back the Loftus-Hills' endowment money? If not, how do you justify keeping it?</li>
 </ul>
 
 His full reply is given below. Here I summarise the main points of his personal reply in the order given. He starts by saying that the decision should be seen in the context of broader discussion of specific names, such as the decision of the Society for the Study of Evolution to rename the Fisher prize, because of Fisher’s role in eugenics, and of the Society of Systematic Biologists to remove the name of Ernst Mayr from their only named award, because, he says, of “the question of whether having named awards could have the effect of excluding some members.”
