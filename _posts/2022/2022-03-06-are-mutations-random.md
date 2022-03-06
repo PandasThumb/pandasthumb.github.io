@@ -21,7 +21,7 @@ Modern Synthesis had been undermined.
 * Here is [the _Nature_ paper, which is open access](https://www.nature.com/articles/s41586-021-04269-6)
 * and here are the responses [at the Discovery Institute's site _Evolution News and Science Today_](https://evolutionnews.org/2022/02/new-study-in-nature-showing-non-random-mutation-spells-trouble-for-neo-darwinism/)
 * and similar [commentary from the "peanut gallery"](https://uncommondescent.com/intelligent-design/are-mutations-really-random/) at Uncommon Descent
-* and the (short) [thread at Peaceful Science](https://discourse.peacefulscience.org/t/mutation-bias-reflects-natural-selection-in-arabidopsis-thaliana/14724)
+* and a (short) [thread at Josh Swamidass's site Peaceful Science](https://discourse.peacefulscience.org/t/mutation-bias-reflects-natural-selection-in-arabidopsis-thaliana/14724)
 
 What I would like to ask is, whether modern evolutionary theory,
 rests on the assumption that mutation is "random".  And if so,
