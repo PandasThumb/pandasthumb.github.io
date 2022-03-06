@@ -33,7 +33,7 @@ tentative, and your thoughts are welcome.
 
 Some questions:
 
-<ol>
+<ul>
 <li>Is there evidence that the mixture of mutations that happen
 shifts in response to environmental changes, in such a way that
 among those mutations that do occur, a larger fraction of them
@@ -56,7 +56,7 @@ and for the pattern of changes to depart from simple symmetrical
 models such as the Jukes-Cantor model.  This includes allowing
 models of regional mutation rate variation, such as Hidden
 Markov Models.</li>
-</ol>
+</ul>
 
 <p>
 Let's discuss ...
