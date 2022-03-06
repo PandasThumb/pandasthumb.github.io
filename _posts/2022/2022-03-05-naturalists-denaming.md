@@ -4,9 +4,9 @@ date: '2022-03-05 11:39:00 -07:00'
 author: Paul Braterman
 ---
 
-On Valentine’s Day of this year, the [American Society of Naturalists](https://www.amnat.org/announcements/named-awards.html) announced that it was removing individuals’ names from its awards.  Since some of us were concerned about what might lie behind this, I wrote to the Society’s Secretary, [Professor Joel McGothlin](https://www.mcglothlin.biol.vt.edu/), asking for clarification.
+On Valentine’s Day of this year, the [American Society of Naturalists](https://www.amnat.org/announcements/named-awards.html) announced that it was removing individuals’ names from its awards.  Since some of us were concerned about what might lie behind this, I wrote to the Society’s Secretary, [Professor Joel McGlothlin](https://www.mcglothlin.biol.vt.edu/), asking for clarification.
 
-Our worst fears were confirmed.  We have witnessed an act of preemptive cowardice by the ASN Executive Council, much of value has been lost, and a valuable educational opportunity has been wasted. However, the changes will not take effect until this year’s awards are made.  In the meantime, I would strongly urge all members of the Society who read this, and in particular all awardees, to contact the Society through the Secretary, Professor Joel McGothlin, at joelmcg@vt.edu, and make their views known.
+Our worst fears were confirmed.  We have witnessed an act of preemptive cowardice by the ASN Executive Council, much of value has been lost, and a valuable educational opportunity has been wasted. However, the changes will not take effect until this year’s awards are made.  In the meantime, I would strongly urge all members of the Society who read this, and in particular all awardees, to contact the Society through the Secretary, Professor Joel McGlothlin, at joelmcg@vt.edu, and make their views known.
 
 The [awards affected](https://www.amnat.org/awards.html) are the Sewall Wright Award, the E.O. Wilson Naturalist Award, the Jasper Loftus-Hills Young Investigator Award, the Ruth Patrick Student Poster Award, the Julia Platt Postdoc Presentation Award, and the Ed Ricketts Student Presentation Award.  
 
@@ -60,7 +60,7 @@ We would then have had the opportunity for an important debate.  There are cases
 
 None of this happened. No expert opinions were sought.  No new evidence was sought on this fascinating piece of contemporary history.  No E. O. Wilson Award recipients, who might have had a great deal to stay on the matter, were invited to take part in the debate because there was no debate.  Instead, in an unprecedented display of moral cowardice, the Society has made sure that no such debate takes place.
 
-The changes will not come into effect until this year’s awards are made.  In the meantime, I would once again strongly urge all members of the Society who read this, and in particular all awardees, to contact the Society through Professor McGothlin at joelmcg@vt.edu .
+The changes will not come into effect until this year’s awards are made.  In the meantime, I would once again strongly urge all members of the Society who read this, and in particular all awardees, to contact the Society through Professor McGlothlin at joelmcg@vt.edu .
 
 I thank numerous colleagues for discussions, including among others Glenn Branch, Joe Felsenstein, and Nick Matzke.
 
