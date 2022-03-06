@@ -1,7 +1,7 @@
 ---
 title: 'Is mutation nonrandom?  If so, in what sense? '
 date: '2022-03-06 12:00:00 -08:00'
-author: 'Joe Felsenstein
+author: 'Joe Felsenstein'
 ---
 
 _I was hoping to write this post a week ago, but war intervened,
