@@ -33,8 +33,8 @@ tentative, and your thoughts are welcome.
 
 Some questions:
 
-<ul>
-<li>Is there evidence that the mixture of mutations that happen
+
+1. Is there evidence that the mixture of mutations that happen
 shifts in response to environmental changes, in such a way that
 among those mutations that do occur, a larger fraction of them
 are adaptive in those environments?
@@ -42,9 +42,9 @@ are adaptive in those environments?
 For example, when one could have mutations that helped the organism
 adapt to higher temperatures, do more of those mutations show up?  And when the temperatures are getting colder, do the mutations
 that occur become more likely to help adaptation to lower temperatures and less likely to help adaptation to high temperatures?  I
-don't know of any evidence that shifts like this happen.</li>
+don't know of any evidence that shifts like this happen.
 
-<li>Does modern evolutionary biology have as a fundamental
+2. Does modern evolutionary biology have as a fundamental
 tenet that mutation rates in all parts of the genome are equal
 and that mutations that change bases are equally
 likely to result in each of the other three possible bases?
@@ -55,8 +55,7 @@ for mutation rates to differ in different parts of the genome,
 and for the pattern of changes to depart from simple symmetrical
 models such as the Jukes-Cantor model.  This includes allowing
 models of regional mutation rate variation, such as Hidden
-Markov Models.</li>
-</ul>
+Markov Models.
 
 <p>
 Let's discuss ...
