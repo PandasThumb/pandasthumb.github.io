@@ -1,6 +1,6 @@
 ---
 title: 'Victoria Mine'
-date: '2022-03-14 12:00:00 -07:00'
+date: '2022-03-14 12:00:00 -06:00'
 author: Matt Young
 ---
 
