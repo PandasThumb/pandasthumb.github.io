@@ -1,5 +1,5 @@
 ---
-title: 'Herschel Walker isn\'t the only one wrong about humans and apes'
+title: "Herschel Walker isn't the only one wrong about humans and apes"
 date: '2022-03-24 18:00:00 -08:00'
 author: Joe Felsenstein
 ---
