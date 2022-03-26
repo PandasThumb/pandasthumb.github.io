@@ -35,7 +35,6 @@ some to the Talk.Origins site, which itself cites a couple of articles here at P
 It is slightly more vague on the issue, but does say that 
 > Humans and the apes known today both evolved from ancient apes, who are now extinct. This split occurred between
 6-8 million years ago based on genetic and fossil evidence.
->
 > Over time, humans and apes have been evolving in their own ways to adapt in their respective environments.
 
 and also that "Humans and modern-day apes both evolved from ancient apes, who are now extinct. Anthropologists using
@@ -66,8 +65,7 @@ as chimpanzees and gorillas.  This evades the question of whether any of our anc
 classification was becoming the dominant approach.  In the 1980s it became clear that the lineage with the two species of
 chimpanzees was the sister lineage of hominids.  From that point on, it was inevitable that popular-science discussions
 of human ancestry would finally admit that we had ancestors that _were_ apes.  And that we ourselves were apes.
-Jared Diamond
-was straightforward about that in his book _The Third Chimpanzee: The Evolution and Future of the Human Animal_ in 1991.
+Jared Diamond was straightforward about that in his book _The Third Chimpanzee: The Evolution and Future of the Human Animal_ in 1991.
 But Francisco Ayala was more circumlocuitous in his 2010 book _Am I a Monkey? Six Big Questions about Evolution_.
 
 It has taken an extraordinary amount of time for popular writings in biology to admit that you not only have an inner fish,
