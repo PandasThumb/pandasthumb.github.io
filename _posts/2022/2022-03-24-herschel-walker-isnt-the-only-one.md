@@ -32,11 +32,7 @@ here](https://www.pbs.org/wgbh/evolution/library/faq/cat02.html)).  It in turn h
 some to the Talk.Origins site, which itself cites a couple of articles here at Panda's Thumb.
 - A fact-checking site, Politifact, has its article
   [here](https://www.politifact.com/factchecks/2022/mar/17/herschel-walker/yes-evolution-proves-humans-and-apes-can-coexist/).
-It is slightly more vague on the issue, but does say that 
-> Humans and the apes known today both evolved from ancient apes, who are now extinct. This split occurred between
-6-8 million years ago based on genetic and fossil evidence.
-> Over time, humans and apes have been evolving in their own ways to adapt in their respective environments.
-
+It is slightly more vague on the issue, but does say that "Humans and the apes known today both evolved from ancient apes, who are now extinct. This split occurred between 6-8 million years ago based on genetic and fossil evidence.  Over time, humans and apes have been evolving in their own ways to adapt in their respective environments."
 and also that "Humans and modern-day apes both evolved from ancient apes, who are now extinct. Anthropologists using
 genetic and fossil evidence pinpoint it between 6-8 million years ago. Humans and the apes seen today evolved
 differently over time."
