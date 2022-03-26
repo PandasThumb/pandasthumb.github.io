@@ -57,8 +57,9 @@ humans in another, even thought some of the descendants of the common ancestor o
 3. By this point, biologists should have started admitting that humans were descended from apes.  They sort-of did,
 though usually reassuring the public that they weren't descended from any hairy and gross animal like _present-day_ apes such
 as chimpanzees and gorillas.  This evades the question of whether any of our ancestors were hairy and gross.
-4. But by the 1970s it was becoming clear that humans were in a clade that included chimps and gorillas.  And monophyletic
-classification was becoming the dominant approach.  In the 1980s it became clear that the lineage with the two species of
+4. But by the 1970s it was becoming clear that humans were in a clade that included chimps and gorillas.  And that our lineage
+connected with apes less than 10 million years ago.  And monophyletic
+classification ("phylogenetic systematics") was becoming the dominant approach.  In the 1980s it became clear that the lineage with the two species of
 chimpanzees was the sister lineage of hominids.  From that point on, it was inevitable that popular-science discussions
 of human ancestry would finally admit that we had ancestors that _were_ apes.  And that we ourselves were apes.
 Jared Diamond was straightforward about that in his book _The Third Chimpanzee: The Evolution and Future of the Human Animal_ in 1991.
