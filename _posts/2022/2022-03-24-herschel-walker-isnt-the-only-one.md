@@ -27,13 +27,12 @@ branch of descent from their ape ancestors. Humans are another."
 with modern African apes. ... Scientists believe this common ancestor existed 5 to 8 million years ago. Shortly
 thereafter, the species diverged into two separate lineages. One of these lineages ultimately evolved into gorillas and
 chimps, and the other evolved into early human ancestors called hominids." (The PBS FAQ was actually from a 2001 science
-program "Evolution", a series funded by the National Science Foundation.  It [can be found
+program "Evolution", a series funded by a foundation of Paul Allen's.  It [can be found
 here](https://www.pbs.org/wgbh/evolution/library/faq/cat02.html)).  It in turn has links to some respectable sources,
 some to the Talk.Origins site, which itself cites a couple of articles here at Panda's Thumb.
 - A fact-checking site, Politifact, has its article
   [here](https://www.politifact.com/factchecks/2022/mar/17/herschel-walker/yes-evolution-proves-humans-and-apes-can-coexist/).
 It is slightly more vague on the issue, but does say that 
-
 > Humans and the apes known today both evolved from ancient apes, who are now extinct. This split occurred between
 6-8 million years ago based on genetic and fossil evidence.
 >
