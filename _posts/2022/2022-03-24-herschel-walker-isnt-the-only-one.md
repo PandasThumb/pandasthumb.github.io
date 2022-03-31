@@ -53,7 +53,7 @@ ago.  That would place most apes in a sister-group to humans.  It was thus possi
 an ape.  This was much less upsetting to the public than saying that any of their ancestors had been apes.
 2. The "evolutionary systematics" position on classification, which was dominant then, did not require groups in the
 classification system to be monophyletic (to have their very own common ancestor).  Apes could be placed in one group,
-humans in another, even thought some of the descendants of the common ancestor of all apes included humans.
+humans in another, even though some of the descendants of the common ancestor of all apes included humans.
 3. By this point, biologists should have started admitting that humans were descended from apes.  They sort-of did,
 though usually reassuring the public that they weren't descended from any hairy and gross animal like _present-day_ apes such
 as chimpanzees and gorillas.  This evades the question of whether any of our ancestors were hairy and gross.
