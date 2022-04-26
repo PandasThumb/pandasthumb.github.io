@@ -1,6 +1,6 @@
 ---
 title: 'Methinks it is sort-of like two weasels'
-date: '2022-04-24 12:00:00 -08:00'
+date: '2022-04-26 12:00:00 -08:00'
 author: Joe Felsenstein
 ---
 
