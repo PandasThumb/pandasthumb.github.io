@@ -9,9 +9,10 @@ author: Joe Felsenstein
 <figcaption> Part of a run of Dawkins's Weasel simulation,
 showing it approaching the target phrase </figcaption>
 </figure>
+<p>
 
 Eric Holloway has written an article [here](https://mindmatters.ai/2022/03/dawkins-dubious-double-weasel-and-the-combinatorial-cataclysm/) at the Discovery Institute's
-site ##Mind Matters##, in which he presents a variant on Richard
+site _Mind Matters_, in which he presents a variant on Richard
 Dawkins's famous Weasel simulation, one in which there is not
 just one target phrase, but two .  You may recall that the
 original Weasel program had a target phrase, which was "METHINKS
