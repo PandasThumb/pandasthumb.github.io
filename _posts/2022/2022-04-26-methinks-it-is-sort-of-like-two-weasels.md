@@ -113,8 +113,8 @@ wagon" and once again succumb to this obsession.
 
 **Holloway's criticism**
 
-[Eric Holloway's](https://mindmatters.ai/2022/03/dawkins-dubious-double-weasel-and-the-combinatorial-cataclysm/)
-) modified Weasel has two target strings.  In his
+[Eric Holloway's](https://mindmatters.ai/2022/03/dawkins-dubious-double-weasel-and-the-combinatorial-cataclysm/) 
+modified Weasel has two target strings.  In his
 trials, the second string was "IT LOOKS LIKE A WEASEL TO ME".  There
 is still one parent string, which starts out being random, and it undergoes
 the same mutational process as before.  But this time natural selection
