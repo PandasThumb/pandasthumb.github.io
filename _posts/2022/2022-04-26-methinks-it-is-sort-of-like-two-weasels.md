@@ -73,7 +73,7 @@ Wright-Fisher model of theoretical population genetics,
 see [a post by me at The Skeptical Zone in 2016](http://theskepticalzone.com/wp/wright-fisher-and-the-weasel/).
 But that carries us away from the present issues.
 
-** Previous criticisms **
+**Previous criticisms**
 
 Here are some of the most common creationist objections:
 
@@ -111,7 +111,7 @@ they have sworn off doing that.  But the minute someone claims to have an argume
 shows that natural selection is generally ineffective, they "fall off the
 wagon" and once again succumb to this obsession.
 
-** Holloway's criticism **
+**Holloway's criticism**
 
 [Eric Holloway's](https://mindmatters.ai/2022/03/dawkins-dubious-double-weasel-and-the-combinatorial-cataclysm/)
 ) modified Weasel has two target strings.  In his
@@ -145,7 +145,7 @@ difference":
 
 > It is like natural selection is driving the evolution bus down the road and encounters a fork with either a left or right turn. Unable to choose either alternative, natural selection decides to split the difference and plow straight ahead, leaving evolution a smoking wreck.
 
-** "Roy" replies to Holloway **
+**"Roy" replies to Holloway**
 
 At Josh Swamidass's "Peaceful Science" forum, a frequent commenter
 whose handle is "Roy" presented a rebuttal of Holloway which started
@@ -164,7 +164,7 @@ criticism is
 
 Roy is correct, as far as Roy's argument goes.  I want to discuss the matter a little more generally.
 
-** Holloway and different cases **
+**Holloway and different cases**
 
 In natural examples, natural selection could work either like Eric's program or like
 Roy's program.  These are two legitimate possibilities (and there are others, too).
@@ -191,4 +191,3 @@ Both case are possible, but you shouldn't go around arbitrarily declaring
 strings as being the targets, when evolution is acting as if there are
 far more or far fewer strings of high fitness.  Your argument might be left
 "a smoking wreck".
-
