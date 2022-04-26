@@ -5,7 +5,7 @@ author: Joe Felsenstein
 ---
 
 <figure>
-<img src="/uploads/2022/weasel.png" alt=[Weasel run result]/>
+<img src="/uploads/2022/weasel.png"/>
 <figcaption> Part of a run of Dawkins's Weasel simulation,
 showing it approaching the target phrase </figcaption>
 </figure>
