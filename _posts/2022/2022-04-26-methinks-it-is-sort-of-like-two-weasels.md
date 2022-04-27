@@ -136,7 +136,7 @@ is then 2<sup>26</sup>, which is 67,108,864.  <em>Oops! Roy has pointed out that
  made the same mistake that Holloway did, and which Roy corrected.  There are
  three positions that match between the two targets, positions 7, 8, and 9,
  which  means that the number of strings achieving a perfect score is
- 2<sup>25</sum>, which is 33,554,432.</em>
+ 2<sup>25</sup>, which is 33,554,432.</em>
 <p>
 Aha, cries Holloway.  The strings he calls targets are two strings out of this large number,
 and we reach all these possible perfect-scoring strings with equal
