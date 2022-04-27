@@ -132,7 +132,11 @@ would be "IE LINKS LTKIS  IEA EL EASME".  How many outcomes have a
 score of 28?  There are 26 positions in which there are two possible
 matches, and two positions in which there is only one possible match,
 positions 7 and 8.  The number of strings achieving a perfect score
-is then 2<sup>26</sup>, which is 67,108,864.  
+is then 2<sup>26</sup>, which is 67,108,864.  <em>Oops! Roy has pointed out that I
+ made the same mistake that Holloway did, and which Roy corrected.  There are
+ three positions that match between the two targets, positions 7, 8, and 9,
+ which  means that the number of strings achieving a perfect score is
+ 2<sup>25</sum>, which is 33,554,432.</em>
 <p>
 Aha, cries Holloway.  The strings he calls targets are two strings out of this large number,
 and we reach all these possible perfect-scoring strings with equal
