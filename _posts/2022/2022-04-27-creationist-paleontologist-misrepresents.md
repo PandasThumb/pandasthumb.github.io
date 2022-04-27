@@ -10,7 +10,7 @@ Answers News, the biweekly YouTube show put on by Answers in Genesis (creators o
 
 How could she not know that rapid burial is not the only way remarkable fossilization can occur? * 
 
-She also claims, unsurprisingly, that the poor ichthyosaur died in Noah’s Flood about 4,500 years ago and discusses the effects of sin on ichthyosaurs. Their video can be found <a href=https://youtu.be/HVceC2BjtyU>here</a>. The inane part about the new ichthyosaur find starts about 3&nbsp;min 45&nbsp;s in. 
+She also claims, unsurprisingly, that the poor ichthyosaur died in Noah’s Flood about 4,500 years ago and discusses the effects of sin on ichthyosaurs. Their video can be found <a href="https://youtu.be/HVceC2BjtyU">here</a>. The inane part about the new ichthyosaur find starts about 3&nbsp;min 45&nbsp;s in. 
 
 &ast; See, for example, the description <a href=https://en.wikipedia.org/wiki/Solnhofen_Limestone>here</a> and in this well-known and widely available classic book: Barthel, K.W., Swinburne, N.H.M., and Conway Morris, S. 1994. Solnhofen: A Study in Mesozoic Palaeontology. Cambridge University Press, Cambridge.
 
