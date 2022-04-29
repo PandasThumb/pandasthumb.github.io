@@ -1,6 +1,6 @@
 ---
 title: 'The Scientific Attitude: book review' 
-date: '2022-04-29 12:10:00 -07:00'
+date: '2022-04-29 12:10:00 -06:00'
 author: Matt Young
 ---
 
