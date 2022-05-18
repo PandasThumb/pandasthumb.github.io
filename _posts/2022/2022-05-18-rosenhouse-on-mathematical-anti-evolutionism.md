@@ -1,5 +1,5 @@
 ---
-title: 'Jason Rosenhouse\'s book on mathematical anti-evolutionism is available'
+title: "Jason Rosenhouse's book on mathematical anti-evolutionism is available"
 date: '2022-05-18 15:00 -08:00'
 author: Joe Felsenstein
 ---
