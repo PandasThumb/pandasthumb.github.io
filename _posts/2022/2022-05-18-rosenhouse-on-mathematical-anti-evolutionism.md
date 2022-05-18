@@ -7,7 +7,7 @@ author: Joe Felsenstein
 <figure><img src="/uploads/2022/RosenhouseCover2.jpg" alt="[Rosenhouse book cover]"/></figure>
 
 <p>
-Jason Rosenhouse, *The Failures of Mathematical Anti-Evolutionism*.  Cambridge
+  Jason Rosenhouse, <em>The Failures of Mathematical Anti-Evolutionism</em>.  Cambridge
 University Press, 2022.
 <p>
   
