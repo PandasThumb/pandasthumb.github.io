@@ -29,7 +29,7 @@ blog called EvolutionBlog.  He attended creationist and ID conferences
 and wrote about that experience in his 2012 book, <em>Among the Creationists. Dispatches from the Anti-Evolutionist Front Line</em>.
 <p>
 This is a lovely and fascinating book which covers the most
-widely-cited arguments against evolution, explaining them and
+widely-cited mathematical arguments against evolution, explaining them and
 their weaknesses lucidly for a general audience.  If you are not
 writing a review for one of the Discovery Institute sites, you
 will be impressed.
