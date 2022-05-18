@@ -10,6 +10,7 @@ author: Joe Felsenstein
 Jason Rosenhouse, *The Failures of Mathematical Anti-Evolutionism*.  Cambridge
 University Press, 2022.
 <p>
+  
 <p>
 Written by a mathematician who has paid close attention to mathematical arguments
 against evolution, this is a beautifully written and careful refutation of
@@ -26,7 +27,7 @@ creationist and ID arguments?  Hardly: he has written extensively
 on this, including many posts here in PT starting in its first year. For a while had his own
 blog called EvolutionBlog.  He attended creationist and ID conferences
 and wrote about that experience in his 2012 book,
-_Among the Creationists. Dispatches from the Anti-Evolutionist Front Line_.
+  <em>Among the Creationists. Dispatches from the Anti-Evolutionist Front Line</em>.
 
 This is a lovely and fascinating book which covers the most
 widely-cited arguments against evolution, explaining them and
