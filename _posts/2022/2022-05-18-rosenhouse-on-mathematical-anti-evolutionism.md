@@ -96,7 +96,9 @@ Of course not.  As someone who, like most of
 us, thinks visually, I would have liked to see
 more figures.  The argument fom fine-tuning
 is hammered into the ground at a bit more
-length than necessary.  And computers have not "been used to
+length than necessary.  The cover design is
+lovely, but I don't know what it symbolizes.
+And computers have not "been used to
 simulate evolution since the late 1960s", but
 actually since the mid-1950s.
 <p>
