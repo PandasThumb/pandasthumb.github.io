@@ -10,8 +10,7 @@ author: Joe Felsenstein
   Jason Rosenhouse, <em>The Failures of Mathematical Anti-Evolutionism</em>.  Cambridge
 University Press, 2022.
 <p>
-&nbsp;
-<p>
+
 Written by a mathematician who has paid close attention to mathematical arguments
 against evolution, this is a beautifully written and careful refutation of
 those arguments.  Actually, that sentence I plagiarized from the back cover
