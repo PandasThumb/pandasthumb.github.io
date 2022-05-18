@@ -4,10 +4,10 @@ date: 2022-05-18 15:00 -8:00'
 author: Joe Felsenstein
 ---
 
-<figure><img src="/uploads/2022/Rosenhouse.jpg" alt="[Rosenhouse book cover]"/></figure>
+<figure><img src="/uploads/2022/Rosenhouse2.jpg" alt="[Rosenhouse book cover]"/></figure>
 
 <p>
-Jason Rosenhouse, _The Failures of Mathematical Anti-Evolutionism_.  Cambridge
+Jason Rosenhouse, *The Failures of Mathematical Anti-Evolutionism*.  Cambridge
 University Press, 2022.
 <p>
 <p>
