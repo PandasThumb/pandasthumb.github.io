@@ -6,7 +6,7 @@ author: Jason Rosenhouse
 
 <figure>
 <img src="/uploads/2022/RosenhouseCover2.jpg" alt="Book Cover"/>
-<figcaption>Jason Rosenhouse, <a href="https://www.cambridge.org/us/academic/subjects/life-sciences/evolutionary-biology/failures-mathematical-anti-evolutionism?format=HB&isbn=9781108842303">The Failures of Mathematical Anti-Evolutionism</a>, Cambridge University Press, 2022.
+<figcaption>Jason Rosenhouse, <a href="https://www.cambridge.org/us/academic/subjects/life-sciences/evolutionary-biology/failures-mathematical-anti-evolutionism?format=HB&isbn=9781108842303"><i>The Failures of Mathematical Anti-Evolutionism</i></a>, Cambridge University Press, 2022.
 </figcaption>
 </figure>
 
@@ -31,4 +31,4 @@ The pattern occurs again in their invocations of the second law of thermodynamic
 It requires writing at book length to discuss the myriad conceptual and scientific errors of mathematical anti-evolutionism, and if you are interested in exploring that topic, then I know a good book you can read.  But even without all that effort you can be certain that their arguments amount to nothing.  If someone claims he can refute evolution with a back-of-the-envelope probability calculation or by invoking some abstract principle or theorem, then you can, with total confidence, dismiss the claim out of hand.   
 
 -----
-<i>Jason Rosenhouse is a professor of mathematics at James Madison University and the author of books on the mathematics of Sudoku and the Monty Hall problem. His latest book, <a href="https://www.cambridge.org/us/academic/subjects/life-sciences/evolutionary-biology/failures-mathematical-anti-evolutionism?format=HB&isbn=9781108842303">The Failures of Mathematical Anti-Evolutionism</a>, is available from Cambridge University Press. Matt Young will be the moderator of this thread.</i>
+<i>Jason Rosenhouse is a professor of mathematics at James Madison University and the author of books on the mathematics of Sudoku and the Monty Hall problem. His latest book, <a href="https://www.cambridge.org/us/academic/subjects/life-sciences/evolutionary-biology/failures-mathematical-anti-evolutionism?format=HB&isbn=9781108842303"></i>The Failures of Mathematical Anti-Evolutionism<i></a>, is available from Cambridge University Press. Matt Young will be the moderator of this thread.</i>
