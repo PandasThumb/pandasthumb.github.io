@@ -10,7 +10,7 @@ author: Matt Young
 </figcaption>
 </figure>
 
-If you think you have been reading, for example, <i>Skeptical Inquirer</i> for 40 years or so, you may think you have little to gain from reading this splendid, newish book by the eminent geologist Donald Prothero. You would not be more wrong.
+If have been reading, for example, <i>Skeptical Inquirer</i> for 40 years or so, you may think you have little to gain from reading this splendid, newish book by the eminent geologist Donald Prothero. You would not be more wrong.
 
 The book, <a href="https://iupress.org/9781684351794/weird-earth/">Weird Earth</a>, is subtitled "Debunking strange ideas about our planet," and debunk it does. I thought I knew a lot of the strange ideas about the planet, and indeed I did. But did I know the details? Usually not. Further, I had no idea that the earth is expanding (it is not), that Mount Shasta is riddled with tunnels leading to a secret city (it is not), nor that <i>ley lines</i> connect various points on a map (they do not).
 Professor Prothero devotes 16 chapters to debunking these and other concepts in some detail. Mostly the exposition was clear and I understood it easily; only rarely did I have to grapple with a description or explanation.
