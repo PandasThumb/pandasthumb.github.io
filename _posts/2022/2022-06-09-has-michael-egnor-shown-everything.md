@@ -4,7 +4,7 @@ date: 2022-06-09 12:00:01 -08:00
 author: 'Joe Felsenstein'
 ---
 
-<figure><img="/uploads/2022/cointoss.jpg" alt="[image of coin toss]">
+<figure><img="uploads/2022/cointoss.jpg" alt="[image of coin toss]"/>
 <figcaption><div align="center"> Source: By ICMA Photos - Coin Toss, CC BY-SA 2.0 <a href="https://commons.wikimedia.org/w/index.php?curid=71147286">from Wikimedia</a></div></figcaption>
 </figure>
 
