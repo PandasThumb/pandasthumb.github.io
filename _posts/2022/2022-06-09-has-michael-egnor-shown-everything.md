@@ -8,6 +8,7 @@ author: 'Joe Felsenstein'
 <figcaption><div align="center"> Source: By ICMA Photos - Coin Toss, CC BY-SA 2.0 <a href="https://commons.wikimedia.org/w/index.php?curid=71147286">from Wikimedia</a></div></figcaption>
 </figure>
 <p>
+  <p>
 Michael Egnor, by all accounts a talented neurosurgeon, has come up with an extraordinary argument at Evolution News, the Discovery Institute's site where they attempt to excise evolutionary thinking.  His argument, which is aimed at
 Jason Rosenhouse's book <em>The Failures of Mathematical Anti-Evolutionism</em>, can be found <a href="https://evolutionnews.org/2022/06/rosenhouses-blunder-another-nonsensical-mathematical-argument-against-intelligent-design/">at this link</a>.   Thanks to Jack Krebs for pointing out this extraordinary paragraph, about Jason's analogy to coin-tossing:
 
