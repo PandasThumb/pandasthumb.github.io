@@ -41,7 +41,7 @@ I strongly OPPOSE the proposed constitutional amendment, which would change the 
 <li>Changing the name to a generic award cheapens the award and is unfair to graduate students we wish to honor and recognize. A generic award certainly does not carry the prestige of the Ernst Mayr Award in Systematic Biology.</li>
 </ol>
 
-No one is claiming that Mayr was anything except a hero of diversity and inclusion, and an outstanding founder and accomplished benefactor of the society. Removing the names of people like Mayr from awards sends exactly the wrong message to students and members of the society..
+No one is claiming that Mayr was anything except a hero of diversity and inclusion, and an outstanding founder and accomplished benefactor of the society. Removing the names of people like Mayr from awards sends exactly the wrong message to students and members of the society.<br/><br/>
 For these reasons, please vote AGAINST the constitutional amendment. <br />
 <br />
 You can read more about the proposed change here:<br />
