@@ -12,21 +12,22 @@ The Society for Systematic Biology (SSB) has just announced the vote on the fate
 
 For previous comments on the SSB Ernst Mayr Award, please see:
 
-<ul>
+<blockquote><div style="background-color: rgb(200, 200, 200); padding: 15px;">
+  <ul>
 <li><a href="https://pandasthumb.org/archives/2022/01/David-Hillis-on-Ernst-Mayr.html">David Hillis on the proposal to de-name the Ernst Mayr Award at the Society for Systematic Biology</a> -- by David Hillis</li>
 <li><a href="https://pandasthumb.org/archives/2022/01/David-Hillis-on-Ernst-Mayr.html#comment-5698109834">Open Letter to the SSB Council</a></li>
 <li><a href="https://pandasthumb.org/archives/2022/01/David-Hillis-on-Ernst-Mayr.html#comment-5681790757">"As a graduate student myself, I must say that this proposal is outrageous, it deeply offends me."</a> -- Comment from Ph.D. student Mario Cupello</li>
 <li><a href="https://pandasthumb.org/archives/2022/01/David-Hillis-on-Ernst-Mayr.html#comment-5681656191">"[G]iven that the move to remove Ernst Mayr's name from the award is ostensibly being done in service for individuals for which I share many demographic qualities, I thought it worth providing my voice."</a></li> -- Comment from Ph.D. student Jackie Childers
 <li><a href="https://pandasthumb.org/archives/2022/01/Ernst-Mayr-versus-racism.html">Ernst Mayr versus racism</a> -- by Nick Matzke</li>
-</ul>
+  </ul></blockquote>
 
 David Hillis has given a good summary of the case against renaming the award, and given permission for me to post it here. See below the fold.
 
 <!--more-->
 
-David Hillis wrote (originally on Facebook, June 9, 2022):
+  <b>David Hillis wrote (originally on Facebook, June 9, 2022):</b>
 
-<blockquote>If you are a member of the Society of Systematic Biologists, you can vote on the election of new officers and on a proposed amendment to the society’s constitution. The ballot is now open (check your e-mail if you are a member of SSB).
+<blockquote><div style="background-color: rgb(235, 235, 235); padding: 15px;">If you are a member of the Society of Systematic Biologists, you can vote on the election of new officers and on a proposed amendment to the society’s constitution. The ballot is now open (check your e-mail if you are a member of SSB).
 I strongly OPPOSE the proposed constitutional amendment, which would change the Ernst Mayr Award in Systematic Biology to the Outstanding Student Presentation Award in Systematic Biology, for the following reasons:
 <br />
 <ol>
