@@ -1,14 +1,16 @@
 ---
 title: David Hills on the SSB vote on the Ernst Mayr Award
-date: 2022-06-10 20:00:00 -1:00
+date: 2022-06-13 20:00:00 -1:00
 author: Nick Matzke
 ---
 
-<figure class="on-the-left-side"><img src="/uploads/2022/Ernst_Mayr_bust_Berlin.jpg" alt="[Mayr bust in Berlin museum]"/>
-<figcaption><small>Bust of Ernst Mayr at the Museum für Naturkunde in Berlin. <a href="https://commons.wikimedia.org/wiki/File:Ernst_Mayr_-_B%C3%BCste_-_Museum_f%C3%BCr_Naturkunde_-_Berlin.jpg">Source and license at Wikipedia</a>.</small></figcaption>
+<figure class="on-the-left-side"><img src="/uploads/2022/Ernst-Mayr-enhanced-6-scaled.jpg" alt="[Ernst Mayr with painting of Ernst Mayr]"/>
+<figcaption><small>Ernst Mayr with painting of Ernst Mayr. <a href="[https://commons.wikimedia.org/wiki/File:Ernst_Mayr_-_B%C3%BCste_-_Museum_f%C3%BCr_Naturkunde_-_Berlin.jpg](https://achievement.org/achiever/ernst-mayr-ph-d/#interview)">Source: Achiever Interview with Ernst Mayr, Ph.D. Acaemdy of Achievement</a>.</small></figcaption>
 </figure>
 
-The Society for Systematic Biology (SSB) has just announced the vote on the fate of the Ernst Mayr Award. For previous comments on this topic, please see:
+The Society for Systematic Biology (SSB) has just announced the vote on the fate of the Ernst Mayr Award. SSB members can vote with a deadline of June 23rd, 2022 (they should each have received an email with the link). 
+
+For previous comments on the SSB Ernst Mayr Award, please see:
 
 <ul>
 <a href="https://pandasthumb.org/archives/2022/01/David-Hillis-on-Ernst-Mayr.html">David Hillis on the proposal to de-name the Ernst Mayr Award at the Society for Systematic Biology</a> -- by David Hillis
