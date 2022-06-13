@@ -1,6 +1,6 @@
 ---
-title: David Hills on the SSB vote on the Ernst Mayr Award
-date: 2022-06-13 20:00:00 -1:00
+title: 'David Hills on the SSB vote on the Ernst Mayr Award'
+date: 2022-06-13 20:00:00 -01:00
 author: Nick Matzke
 ---
 
