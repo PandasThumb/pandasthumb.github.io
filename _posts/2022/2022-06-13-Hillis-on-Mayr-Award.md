@@ -12,7 +12,7 @@ The Society for Systematic Biology (SSB) has just announced the vote on the fate
 
 For previous comments on the SSB Ernst Mayr Award, please see:
 
-<blockquote><div style="background-color: rgb(100, 100, 100); padding: 30px;">
+<blockquote><div style="background-color: rgb(200, 200, 200); padding: 30px;">
   <ul>
 <li><a href="https://pandasthumb.org/archives/2022/01/David-Hillis-on-Ernst-Mayr.html">David Hillis on the proposal to de-name the Ernst Mayr Award at the Society for Systematic Biology</a> -- by David Hillis</li>
 <li><a href="https://pandasthumb.org/archives/2022/01/David-Hillis-on-Ernst-Mayr.html#comment-5698109834">Open Letter to the SSB Council</a> -- by David Hillis</li>
@@ -22,6 +22,10 @@ For previous comments on the SSB Ernst Mayr Award, please see:
   </ul></div></blockquote>
 
 David Hillis has given a good summary of the case against renaming the award, and given permission for me to post it here. See below the fold.
+
+<br /><br /><br /><br />
+<hr />
+<br />
 
 <!--more-->
 
