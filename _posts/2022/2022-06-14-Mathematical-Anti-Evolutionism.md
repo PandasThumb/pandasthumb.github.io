@@ -60,6 +60,6 @@ If you want to use thermodynamics to describe evolution, you have to perform a r
                                                                                                                                                      
 -----
 
-Dr. Dembski has responded to Prof. Rosehouse's book <a href="https://billdembski.com/intelligent-design/success-of-mathematics-in-advancing-intelligent-design/">here</a>.
+Dr. Dembski has responded to Prof. Rosenhouse's book <a href="https://billdembski.com/intelligent-design/success-of-mathematics-in-advancing-intelligent-design/">here</a>.
 
 -----
