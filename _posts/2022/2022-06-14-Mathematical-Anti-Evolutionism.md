@@ -1,10 +1,10 @@
 ---
 title: 'The Failures of Mathematical Anti-Evolutionism: Review'
-date: '2022-06-18 12:00:00 -06:00'
+date: '2022-06-14 13:07:00 -06:00'
 author: Matt Young
 ---
 
-<figure class="on-the-left-side">
+<figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
 <img src="/uploads/2022/Rosenhouse_Cover_Crop_660.jpg" alt="Book cover"/>
 <figcaption><a href="https://www.cambridge.org/us/academic/subjects/life-sciences/evolutionary-biology/failures-mathematical-anti-evolutionism">The Failures of Mathematical Anti-Evolutionism</a> by Jason Rosenhouse, Cambridge University Press, 2022, 274 pp.
 </figcaption>
@@ -56,4 +56,10 @@ If you want to use thermodynamics to describe evolution, you have to perform a r
 
 ------
 
-<strong>Acknowledgment and disclosure</strong>. Jason Rosenhouse very kindly sent me a review copy of the book. He and I are members of a Google Group that is devoted to discussions of evolution and other topics and sometimes serves as consultants to PT. We communicated once as I was preparing this review.
+<strong>Acknowledgment and disclosure</strong>. Jason Rosenhouse very kindly sent me a review copy of the book. He and I are members of the PT "Crew." We communicated once as I was preparing this review.
+                                                                                                                                                     
+-----
+
+Dr. Dembski has responded to Prof. Rosehouse's book <a href="https://billdembski.com/intelligent-design/success-of-mathematics-in-advancing-intelligent-design/">here</a>.
+
+-----
