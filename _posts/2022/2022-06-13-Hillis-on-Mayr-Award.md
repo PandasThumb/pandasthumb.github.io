@@ -4,7 +4,7 @@ date: 2022-06-13 20:00:00 -01:00
 author: Nick Matzke
 ---
 
-<figure class="on-the-left-side"><img src="/uploads/2022/Ernst-Mayr-enhanced-6-scaled.jpg" alt="[Ernst Mayr with painting of Ernst Mayr.]" style="padding: 15px;"/>
+<figure class="on-the-left-side" style="margin-top: 50px; margin-right: 50px; margin-bottom: 50px; margin-left: 50px;"><img src="/uploads/2022/Ernst-Mayr-enhanced-6-scaled.jpg" alt="[Ernst Mayr with painting of Ernst Mayr.]"/>
 <figcaption><small>Ernst Mayr with painting of Ernst Mayr. <a href="[https://commons.wikimedia.org/wiki/File:Ernst_Mayr_-_B%C3%BCste_-_Museum_f%C3%BCr_Naturkunde_-_Berlin.jpg](https://achievement.org/achiever/ernst-mayr-ph-d/#interview)">Source: Achiever Interview with Ernst Mayr, Ph.D. Academy of Achievement</a>.</small></figcaption>
 </figure>
 
