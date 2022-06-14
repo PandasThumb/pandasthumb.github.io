@@ -4,7 +4,7 @@ date: 2022-06-13 20:00:00 -01:00
 author: Nick Matzke
 ---
 
-<figure class="on-the-left-side" style="margin-top: 50px; margin-right: 50px; margin-bottom: 50px; margin-left: 50px;"><img src="/uploads/2022/Ernst-Mayr-enhanced-6-scaled.jpg" alt="[Ernst Mayr with painting of Ernst Mayr.]"/>
+<figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;"><img src="/uploads/2022/Ernst-Mayr-enhanced-6-scaled.jpg" alt="[Ernst Mayr with painting of Ernst Mayr.]"/>
 <figcaption><small>Ernst Mayr with painting of Ernst Mayr. <a href="[https://commons.wikimedia.org/wiki/File:Ernst_Mayr_-_B%C3%BCste_-_Museum_f%C3%BCr_Naturkunde_-_Berlin.jpg](https://achievement.org/achiever/ernst-mayr-ph-d/#interview)">Source: Achiever Interview with Ernst Mayr, Ph.D. Academy of Achievement</a>.</small></figcaption>
 </figure>
 
@@ -12,7 +12,7 @@ The Society for Systematic Biology (SSB) has just announced the vote on the fate
 
 For previous comments on the SSB Ernst Mayr Award, please see:
 
-<blockquote><div style="background-color: rgb(200, 200, 200); padding: 30px;">
+<blockquote><div style="background-color: rgb(255, 255, 255); padding: 30px;">
   <ul>
 <li><a href="https://pandasthumb.org/archives/2022/01/David-Hillis-on-Ernst-Mayr.html">David Hillis on the proposal to de-name the Ernst Mayr Award at the Society for Systematic Biology</a> -- by David Hillis</li>
 <li><a href="https://pandasthumb.org/archives/2022/01/David-Hillis-on-Ernst-Mayr.html#comment-5698109834">Open Letter to the SSB Council</a> -- by David Hillis</li>
