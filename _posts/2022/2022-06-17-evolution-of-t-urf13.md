@@ -55,7 +55,7 @@ McLatchie (2019) tries to invalidate the T-URF13 protein as an example for the e
 
 <strong>The flawed probability argument</strong>
 
-The main objection against an “unguided” evolutionary origin of T-URF13 refers to the well-known probability argument. The premise is as follows: Neither the phylogenetic timeline nor the limited number of individuals involved seems sufficient (in such a case) for the emergence of an irreducibly complex system, since it allegedly requires synchronized, complex mutational events consisting of several independent steps. Yet such evolutionary processes obviously <i>di </i> happen! 
+The main objection against an “unguided” evolutionary origin of T-URF13 refers to the well-known probability argument. The premise is as follows: Neither the phylogenetic timeline nor the limited number of individuals involved seems sufficient (in such a case) for the emergence of an irreducibly complex system, since it allegedly requires synchronized, complex mutational events consisting of several independent steps. Yet such evolutionary processes obviously <i>did</i> happen! 
 
 As we will see, all data support the finding that the irreducibly complex URF13 protein emerged within a few decades from sequences lacking any genuine protein-coding capability. That supports the thesis that gene sequences which accomplish irreducibly complex functions are not as improbable as Behe supposes. The immunization tactic of the Discovery Institute, once again, aims at disputing the evidence, which refutes their premise, by referencing to just the same, obviously flawed, probability argument! 
 
@@ -108,7 +108,7 @@ Since we are able to identify the homologs of the T-URF13 sequence in the ancest
 
 Could one argue that URF13 admittedly evolved but originated from an <i>ancestral</i> pore-forming protein? In that case, the highly specific interdependencies of URF13 would have pre-existed somewhere in the DNA. Therefore, a simple mutation could have restored the receptor gene or altered its activity and specificity. Indeed, the Discovery Institute prefers speculations about a pre-existing gene that became T-URF13 by some so-called <i>devolutionary process</i> – whatever this may mean:
 
-<blockquote> One scenario is that the <i>URF-13</i> complex is involved in some other process, and that it became broken such that it was no longer properly regulated. Indeed, the first identification of <i>T-URF1 </i> long pre-dates the sequencing of the maize genome in the early 2000s (Chandler and Brendel, 2002; Schnable et al., 2009; Soderlund et al., 2009; Gore et al., 2009; Vielle-Calzada et al. 2009). It thus was impossible to determine whether the <i>T-URF13</i> gene had indeed arisen <i>de nov </i> ‘from scratch,’ or whether it was already present and doing something else. [McLatchie (2019)]</blockquote>
+<blockquote> One scenario is that the <i>URF-13</i> complex is involved in some other process, and that it became broken such that it was no longer properly regulated. Indeed, the first identification of <i>T-URF1 </i> long pre-dates the sequencing of the maize genome in the early 2000s (Chandler and Brendel, 2002; Schnable et al., 2009; Soderlund et al., 2009; Gore et al., 2009; Vielle-Calzada et al. 2009). It thus was impossible to determine whether the <i>T-URF13</i> gene had indeed arisen <i>de novo</i> ‘from scratch,’ or whether it was already present and doing something else. [McLatchie (2019)]</blockquote>
 
 However, no evidence supports these scenarios. There is no reason in sight to pursue them at all. By now, more than a hundred crop genomes, including mitochondriomes, have been <i>completely</i> sequenced and are available in public databases. There is no gene, there is no sequence resembling T-URF13 except the mentioned 26S rDNA gene (plus the adjacent intergenic region). 
 
@@ -262,6 +262,14 @@ You may find a pdf version of this paper <a href="https://www.ag-evolutionsbiolo
 
 -----
 
-<strong>Acknowledgement</strong>. Arthur G. Hunt, Professor in the Department of Plant and Soil Sciences, University of Kentucky, very kindly read and commented on a draft of this paper. Matt Young will be the moderator of this thread.
+<strong>About the authors.</strong> <strong>Prof. Dr. Andreas Beyer</strong> studied biology at the Ruhr University in Bochum (Germany) with a focus on biochemistry, physiology, cytology and microbiology. Doctorate on the topic “molecular biological characterization of the AAA gene family, a new group of putative ATPases”. Research on the phosphorylation of phosphorylase kinase at the Institute for Physiological Chemistry at the Ruhr University. Applied research in various industrial projects. Lecturer at the Westfälische Hochschule Gelsenkirchen, Bocholt, Recklinghausen (Germany) as Professor of Molecular Biology. Chairman of the working group “AG Evolutionsbiologie” which is associated with the German Association of Biologists (VBio).
+
+<strong>Dr. Hansjörg Hemminger</strong> received his postdoctoral qualification as a university teacher of behavioral biology (Habilitation) from the University of Freiburg (Germany). He was commissioner for world view questions, especially for the dialogue between science and religion, in the Protestant Church until retirement.  As an expert member of a parliament commission (Bundestag) he investigated fanatic and sectarian forms of religion. He published numerous articles and books in German and English.
+
+<strong>Martin Neukamm</strong> is a German chemist and managing editor of the “AG Evolutionsbiologie” (www.ag-evolutionsbiologie.de), a German scientific association that deals with evolutionary biology and creationism. He has published various articles and books on evolution and creationism in the German language. 
+
+-----
+
+<strong>Acknowledgement</strong>. Arthur G. Hunt, Professor in the Department of Plant and Soil Sciences, University of Kentucky, very kindly read and commented on a draft of this paper. Matt Young will be the moderator of this thread. Copyright © 2022 by AG EvoBio, all rights reserved.
 
 -----
