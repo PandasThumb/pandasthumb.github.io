@@ -257,7 +257,7 @@ In short: Obviously, the carrot PKT5 gene simply does not exist.
 
 &#8224;They even explain the origin of the red marked intermediate area illustrated in Fig. 3 and 4: When mismatched ends are assembled (via non-homologous double strand break repair mechanisms), the sequence at the junction often changes rather randomly. That is why no significant homologs are found in the databases for this area.
 
-&#8225;Further pseudo-arguments against the T-URF13 example presented by the “Uncommon Descent” guys are debunked by HUNT: https://www.ag-evolutionsbiologie.net/html/2019/T-URF13.html
+&#8225;Further pseudo-arguments against the T-URF13 example presented by the “Uncommon Descent” guys are debunked by Hunt: https://www.ag-evolutionsbiologie.net/html/2019/T-URF13.html
 
 -----
 
