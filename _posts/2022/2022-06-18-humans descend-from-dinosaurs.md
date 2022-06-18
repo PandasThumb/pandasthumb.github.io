@@ -3,7 +3,7 @@ title: ‘Humans Descended from Dinosaurs! Hilarious/Sad “Paleontology Journal
 date: '2022-06-18 12:00:00 -06:00'
 author: Dan Phelps
 ---
-On June 13, I received an invitation to publish in what was obviously a predatory paleontology journal. The “Assistant Managing Editor” falsely assumed I have a Doctorate (I don’t).
+On June 13, I received an invitation to publish in what was obviously a predatory paleontology journal. (The “Assistant Managing Editor” incorrectly assumed I have a doctorate (I don’t)).
 
 Here is the email, preceded by my curt response:
 <figure>
