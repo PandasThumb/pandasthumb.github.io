@@ -13,18 +13,18 @@ The shocking-but-not-surprising decision of the U.S. Supreme Court today raises 
 issues in the case, there are interesting questions that arise.  Here are some that puzzle me:
 <p>
 <ol>
-<li> What would this court do if asked to decide a case similar to the Dover School Board case?
+<li> What would this court do if asked to decide a case similar to the Dover School Board case?</li>
 <li> Would all lower courts rule against such a school board, with the case appealed to the Supreme
-Court?
+Court?</li>
 <li> Or would the increasing number of conservative justices who have been vetted by the Federalist 
 Society allow the Supreme Court to dodge such an issue by letting the pro-ID or pro-creationism
-ruling of an appeals court stand, by refusing to hear the case?
+ruling of an appeals court stand, by refusing to hear the case?</li>
 <li> How soon can we expect the Discovery Institute to lawyer-up and decide that its original position of
-"Teach The Controversy" is maybe not such a bad approach after all?
+"Teach The Controversy" is maybe not such a bad approach after all?</li>
 <li> What's the latest on threats to the teaching of evolution in countries where ultraconservative
-nationalist movements are in power or nearing it?  Hungary? Poland? Russia? Turkey? Brazil? India?
+nationalist movements are in power or nearing it?  Hungary? Poland? Russia? Turkey? Brazil? India?</li>
 <li> In countries such as Australia or Canada where there are more conservative and less conservative
-provinces, what local controversies are there about the teaching of evolution?
+provinces, what local controversies are there about the teaching of evolution?</li>
 </ol>
 <p>
 Discuss. I suspect that there is enough to 
