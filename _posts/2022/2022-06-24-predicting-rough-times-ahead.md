@@ -25,7 +25,8 @@ ruling of an appeals court stand, by refusing to hear the case?</li>
 nationalist movements are in power or nearing it?  Hungary? Poland? Russia? Turkey? Brazil? India?</li>
 <li> In countries such as Australia or Canada where there are more conservative and less conservative
 provinces, what local controversies are there about the teaching of evolution?</li>
-</ol>
+<li>Will evaluating the flaws in arguments against evolutionary biology have any effect
+on legal or political decisions?</li></ol>
 <p>
 Discuss. I suspect that there is enough to 
 discuss without going around in endless circles in the same old abortion rights debate.
