@@ -1,6 +1,6 @@
 ---
-title: 'Legally, a Lemon? '
-date: 2022-07-28 12:00:00 -08:00
+title: 'Religious Conservatism on the Supreme Court: Implications for Creationism? '
+date: 2022-06-28 12:00:00 -08:00
 author: Timothy Sandefur
 ---
 
