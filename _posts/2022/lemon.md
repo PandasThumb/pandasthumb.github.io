@@ -36,7 +36,7 @@ Everyone, of course, agrees that coercion is <em>one</em> of the things the Esta
 <p><p>
 <em>Would all lower courts rule against such a school board, with the case appealed to the Supreme Court?</em>
 <p><p>
-It would require a court-by-court analysis to answer this. Some recent judicial appointees are well known for being open advocates of ID creationism. Others would no doubt continue to hold that the First Amendment prohibits religious indoctrination in public schools.
+It would require a court-by-court analysis to answer this. Some recent judicial appointees are <a href="https://pandasthumb.org/archives/2004/03/the-calpundit-w.html">well known</a> for being open advocates of ID creationism. Others would no doubt continue to hold that the First Amendment prohibits religious indoctrination in public schools.
 <p>
 <em>Or would the increasing number of conservative justices who have been vetted by the Federalist Society allow the Supreme Court to dodge such an issue by letting the pro-ID or pro-creationism ruling of an appeals court stand, by refusing to hear the case?</em>
 <p>
