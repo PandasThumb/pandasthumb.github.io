@@ -15,7 +15,7 @@ I will only respond to what I regard as the most important points and will simpl
 <p>
  <!--more-->
 <p>
-PROBABILITY CALCULATIONS
+ <strong>PROBABILITY CALCULATIONS</strong>
 <p>
 Anti-evolutionists routinely present spurious probability calculations meant to refute evolution.  In a lengthy chapter on probability, I explain that a proper calculation must take place in the context of what mathematicians refer to as a “probability space”.  For our purposes, this means that you must have a good grasp on the range of possible outcomes, as well as an understanding of the probability distribution appropriate to those outcomes.  In the context of the evolution of complex adaptations, we never have what we need to do this.  As Harvard biologist Martin Nowak put it, “You cannot calculate the probability that an eye came about.  We don’t have the information to make this calculation.”
 <p>
@@ -68,7 +68,7 @@ And just to show that Dembski cannot be counted on to get even the simplest thin
 To review: I argued that Dembski’s flagellum calculation was biologically ridiculous.  For obvious reasons, he is unable to offer any response to this simple point and does not even try.  Instead, he just whines about phrasing, presents ludicrous caricatures of what I said, and misses every important point.  This is representative of his entire review. 
 <p>
 <p>
-SPECIFICATION
+ <strong>SPECIFICATION</strong>
 <p>
 Dembski argues that it is not low probability by itself that implies design, but rather the combination of low probability with a recognizable pattern.  He refers to such a pattern as a “specification”.  
 <p>
@@ -103,7 +103,7 @@ But if we have little hope of defining a probability space sufficient for carryi
 <p>
 In <em>No Free Lunch</em>, Dembski does not even try to define the real-world counterparts of his abstract constructs.  He presents no reference classes, probability measures, rejection functions, or relevant background knowledge.  He just looks at the flagellum and says, “Kinda looks like an outboard motor.”  Dembski’s liberal use of notation and jargon is useful for creating the illusion that something deep has been said, but all of that machinery goes clean out the window when it is time to apply it to evolution.
 <p>
- CONSERVATION OF INFORMATION
+ <strong>CONSERVATION OF INFORMATION</strong>
 <p>
 Another aspect of Dembski’s discourse is his use of the “No Free Lunch” theorems.  These are actual mathematical results that say, roughly, that the average performance of a search algorithm over all possible landscapes is no better than blind search.  This might make us wonder why nature presents us with just the sort of fitness landscapes on which evolution is effective.  
 <p>
@@ -185,7 +185,7 @@ Finally, what of Dembski’s assertion that “the information was not always th
 <p>
 Does that preexisting environmental information need to be explained by reference to intelligent design?  According to Dembski, that would only follow if environmental information were an instance of complex, specified information.  Good luck showing that it is.  You will run into all the same problems we have already seen.
 <p>
-MISCELLANEOUS WEIRDNESS
+ <strong>MISCELLANEOUS WEIRDNESS</strong>
 <p>
 I have shown that Dembski has not replied seriously to any of the major points I raised about his work.  But I do not think I have really done justice to just how poorly done his review really is.  You can start reading at any random point, and you will very quickly come to something stupid.  
 <p>
@@ -218,7 +218,7 @@ There is a reason Dembski does not quote me actually saying that all mathematica
 <p>
 My discussion of the BAI occurs in Section 5.5 of my book, in the chapter on probability theory.  If I really believed that all mathematical ID arguments fall under the BAI, then one wonders why this chapter went on for another 30 pages after this section was finished.  Not to mention that the book goes on for more than 150 pages past this point.  I even conclude this section by explicitly contrasting the extreme simple-mindedness of the BAI with the superficially more sophisticated probability arguments of certain ID proponents.  Dembski’s characterization of this section is just completely made up.
 <p>
-CONCLUSION
+ <strong>CONCLUSION</strong>
 <p>
 We have barely scratched the surface of all that is wrong with Dembski’s review.  He has not responded effectively to any of the main arguments of my book, and he has made no attempt even to characterize them with any honesty or integrity.  
 <p>
