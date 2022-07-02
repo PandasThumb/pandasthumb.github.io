@@ -13,6 +13,8 @@ It is a person of rare talent who can write at such length without getting anyth
 <p>
 I will only respond to what I regard as the most important points and will simply ignore large swaths of his review.  To anything that I do not specifically address, you can assume my response is to roll my eyes and say, “Whatever.  Let him blather.”
 <p>
+ <!--more-->
+<p>
 PROBABILITY CALCULATIONS
 <p>
 Anti-evolutionists routinely present spurious probability calculations meant to refute evolution.  In a lengthy chapter on probability, I explain that a proper calculation must take place in the context of what mathematicians refer to as a “probability space”.  For our purposes, this means that you must have a good grasp on the range of possible outcomes, as well as an understanding of the probability distribution appropriate to those outcomes.  In the context of the evolution of complex adaptations, we never have what we need to do this.  As Harvard biologist Martin Nowak put it, “You cannot calculate the probability that an eye came about.  We don’t have the information to make this calculation.”
