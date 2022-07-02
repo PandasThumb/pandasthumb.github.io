@@ -109,14 +109,14 @@ Another aspect of Dembski’s discourse is his use of the “No Free Lunch” th
 <p>
 Dembski, Robert Marks, and Winston Ewert claim to have extended these theorems.  They refer to their results as “conservation of information” theorems.  They define a quantity called “active information”, which roughly refers to the background information brought by a researcher to a specific search problem.  Their main theorem then shows that within their formalism, the amount of information outputted by the algorithm cannot exceed the active information brought by the researcher to the problem.
 <p>
-In this way they argue that evolutionary algorithms cannot create novel information.  They also spend a lot of time criticizing “artificial life” experiments on the grounds that they achieve such results as they do only because the researchers bring illicit active information to their work.
+In this way, they argue that evolutionary algorithms cannot create novel information.  They also spend a lot of time criticizing “artificial life” experiments on the grounds that they achieve such results as they do only because the researchers bring illicit active information to their work.
 <p>
 In my book, I offer many points in reply.  Among other things, I note that it is very unclear that evolution really is a search in the precise technical sense assumed by the No Free Lunch theorems.  We have here another instance of Dembski bringing difficult mathematical formalism into his discussions, but then not really using the formalism to do anything.  This is why David Wolpert, one of the discoverers of the original No Free Lunch theorems, described Dembski’s arguments as “fatally informal and imprecise” and as being “written in jello.”  He elaborated:
 <blockquote>
 There simply is not enough that is firm in his text, not sufficient precision of formulation, to allow one to declare unambiguously “right” or “wrong”. . . .The values of the factors arising in the NFL theorems are never properly specified in his analysis. . . .[T]hroughout, there is a marked elision of the formal details of the biological processes under consideration.
 </blockquote>
 <p>
-Dembski’s arguments do not improve when he starts extolling the virtues of his so-called conservation theorems.  As applied to biology, his argument is nothing more than the claim that nature has to be a certain way for evolution to work.  Most of us did not need difficult mathematical theorems to understand this.  The fitness landscapes confronted by evolving organisms arise ultimately from the laws of physics, and Dembski and his collaborators are really just asking why the universe is at is.  It is a perfectly good question, but hardly one within biology’s domain.
+Dembski’s arguments do not improve when he starts extolling the virtues of his so-called conservation theorems.  As applied to biology, his argument is nothing more than the claim that nature has to be a certain way for evolution to work.  Most of us did not need difficult mathematical theorems to understand this.  The fitness landscapes confronted by evolving organisms arise ultimately from the laws of physics, and Dembski and his collaborators are really just asking why the universe is as it is.  It's a perfectly good question, but hardly one within biology’s domain.
 <p>
 How does Dembski respond to this?  Mostly by complaining that I did not cite his technical papers laying out the theoretical apparatus underlying his theorems (we are now in Section 13 of the review):
 <blockquote>
@@ -126,7 +126,7 @@ He now presents the bibliographic information for three of his papers and writes
 <p>
 Now, first of all, my idiom was “track 1” and “track 2”. Just saying.
 <p>
-Secondly, do take a moment to savor the planet-sized ego it takes for anyone to describe his own work as “seminal”.  For those unfamiliar with this term, academics use it to refer to work that was not only original and important, but which also inspired new avenues of investigation for other researchers.  It is a term of respect bestowed by others years after a work is published and has proven its fruitfulness.  Absolutely nobody describes his own work as seminal, especially when few other researchers seem to have paid any attention to it.  See my earlier comment regarding arrogance and self-puffery.
+Secondly, do take a moment to savor the planet-sized ego it takes for anyone to describe his own work as “seminal”.  For those unfamiliar with this term, academics use it to refer to work that was not only original and important when it first appeared, but which also inspired new avenues of investigation for other researchers.  It is a term of respect bestowed by others years after a work is published and has proven its fruitfulness.  Big egos are an occupational hazard in academe, but absolutely nobody describes his own work as seminal, especially when few other researchers seem to have paid any attention to it.  See my earlier comment regarding arrogance and self-puffery.
 <p>
 Now let us see if we can come up with a reason why I did not cite those papers in my book.  In fact, maybe we should check to see if I explained precisely this point in the book itself:
 <blockquote>
@@ -135,7 +135,7 @@ Now let us see if we can come up with a reason why I did not cite those papers i
 And so it is here.  It would take many pages to explain and analyze the mathematical formalism proposed by [Marks, Dembski, and Ewert], but it would not further our agenda to do so.  If they want to apply their techniques to abstract problems in combinatorial search, then they are welcome to do so.  Whether such proposed applications have any merit would be a topic for a different book.  Our interest here is solely in the manner in which they apply their machinery to biology.  (pp. 212-213)
 </blockquote>
 <p>
-I based my discussion of “conservation of information” on their book <em>Introduction to Evolutionary Informatics</em>, published in 2017.  Marks, Dembski, and Ewert rather pompously describe their book as a monograph, which I took to mean they regarded it as primarily a work of scholarship as opposed to mere popularization.  The book is far more recent than the papers Dembski mentions, and it is specifically about the proposed applications of their ideas to evolution.  
+I based my discussion of “conservation of information” on their book <em>Introduction to Evolutionary Informatics</em>, published in 2017.  They rather pompously describe their book as a monograph, which I took to mean they regarded it as primarily a work of scholarship as opposed to mere popularization.  The book is far more recent than the papers Dembski mentions, and it is specifically about the proposed applications of their ideas to evolution.  
 <p>
 See the point? I was writing a book about mathematical anti-evolutionism (note the title).  The three papers Dembski faults me for not citing do not discuss biological questions.  That is why I did not cite them.  I cited recent writing that addresses the subject of my book, and I ignored older work that was irrelevant to my subject.  How does this reflect poorly on me?
 <p>
@@ -148,18 +148,18 @@ Let us have a look at what I actually said on page 214.  I had just quoted a par
 <blockquote>
 It is on the basis of such arguments that [Marks, Dembski, and Ewert] dismiss computer simulations of evolution as unrealistic, but their logic is hard to follow.  It is self-evident that the Avida organisms found evolutionary success in part because the researchers created an environment in which success was possible.  However, it is equally self-evident that the algorithm plays a big role in the success.  That is, Avida’s organisms achieved success because a particular algorithm interacted with a particular environment.  The algorithm and the environment are both critical, and therefore it is plainly wrong to say, “This active information source is the reason for Avida’s success.” (p. 214)
 </blockquote>
- Some admission.  What could be more obvious than that the environment and the algorithm are both important in evolution?  Who needs difficult mathematical theorems to grasp that point?
+Some admission.  What could be more obvious than that the environment and the algorithm are both important in evolution?  Who needs difficult mathematical theorems to grasp that point?
 <p>
 Dembski now writes:
 <blockquote>
 Yet if the crucial information for biological evolution (as opposed to artificial life evolution) is built into the environment, where exactly is it and how exactly is it structured?  It does no good to say, as Rosenhouse does, that “natural selection serves as a conduit for transmitting environmental information into the genomes of organisms.”  (p. 215) That’s simply an article of faith.
 </blockquote>
-He now presents a somewhat cryptic quote from Holmes Rolston.  We pick up the action on the other side:
+He now presents a somewhat cryptic quote from Holmes Rolston.  Picking up the action on the other side:
 <blockquote>
 So no, the information was not always there.  And no, Darwinian evolution cannot, according to the conservation of information theorems, create information from scratch.
 </blockquote>
 <p>
-Dembski is descending into gibberish here, and his point is becoming hard to discern.  I do not know what he means by “the information was not always there”.  <em>What</em> information was not always <em> where</em>?  Since evolution requires an interaction between the genetic systems of organisms and the environments in which they find themselves, I do not know what it means to say that the “crucial information . . . is built into the environment.”  The environment and the organisms are both crucial; why single out one or the other?  And since Darwinian evolution assumes that we already have both organisms and environments, I do not know what it means to suggest that Darwinian evolution “creates information from scratch”.  
+Dembski is descending into gibberish here, and his point is becoming hard to discern.  I do not know what he means by “the information was not always there”.  <em>What</em> information was not always <em>where</em>?  Since evolution requires an interaction between the genetic systems of organisms and the environments in which they find themselves, I do not know what it means to say that the “crucial information . . . is built into the environment.”  The environment and the organisms are both crucial; why single out one or the other?  And since Darwinian evolution assumes that we already have both organisms and environments, I do not know what it means to suggest that Darwinian evolution “creates information from scratch”.  
 <p>
 So let us back up a bit and try to bring some blessed clarity to the discussion.  
 <p>
@@ -197,7 +197,7 @@ I do not discuss those things because I was not writing a general treatise on ev
 Let me be clear that this is a mathematics book that also discusses biology, as opposed to a biology book that also discusses mathematics.  Inevitably, there are places where we must get our hands dirty by digging into the biological details, but my central points are mathematical and not biological.  Biologists will rightly criticize me for presenting a simplistic version of evolutionary theory.  I focus almost entirely on natural selection acting at the level of genes, but everyone understands that there is far more to evolution than this . . My argument is essentially that even if we take this narrow understanding of evolution as out starting point, we still have more than enough resources to refute any gambit coming from the other side. (p. xiv)
 </blockquote>
 <p>
-Moving on, in my book I often use the image of “track one” and “track two” mathematics.  Track one is our intuitive understanding of abstract objects, while track two is the rigorous technical detail found in textbooks and journal articles.  I use this distinction in part as a convenient way of describing different sorts of errors in anti-evolutionist mathematics.  Sometimes they argue vaguely at a track one level, but the rigorous details needed to make the argument convincing are just completely lacking.  Other times they provide very technical track two arguments, but when you try to understand what is really going on you find that it is all just meaningless gobbledygook.  Really, I am just saying that a good mathematical argument should be both precise and comprehensible.  
+Moving on, in my book I often use the image of “track one” and “track two” mathematics.  Track one is our intuitive understanding of abstract objects, while track two is the rigorous technical detail found in textbooks and journal articles.  I use this distinction in part as a convenient way of describing different sorts of errors in mathematical anti-evolutionism.  Sometimes they argue vaguely at a track one level, but the rigorous details needed to make the argument convincing are just completely lacking.  Other times they provide very technical track two arguments, but when you try to understand what is really going on you find that it is all just meaningless gobbledygook.  All I am really saying is that a good mathematical argument should be both precise and comprehensible.  
 <p>
 I thought I was stating the obvious, but my track one/track two distinction seems to have driven Dembski completely insane.  Section 7 of his review consists of ten full paragraphs of bizarre ranting about it, all of it nonsensical.  He declares that in making this distinction I am setting myself up as a “math cop, stipulating the rules by which design proponents may use mathematics against Darwinism and for intelligent design.”  He then accuses me of not playing by own rules:
 <blockquote>
@@ -222,9 +222,19 @@ My discussion of the BAI occurs in Section 5.5 of my book, in the chapter on pro
 <p>
 We have barely scratched the surface of all that is wrong with Dembski’s review.  He has not responded effectively to any of the main arguments of my book, and he has made no attempt even to characterize them with any honesty or integrity.  
 <p>
-Ultimately, for all his interminable ranting, blather, and self-admiration, the bottom line is this:  His notion of complex, specified information is a complete non-starter in the context of evolution.  We cannot establish complexity because we cannot even approximate, much less calculate, the probabilities his model requires.  And we cannot establish specificity because we have nothing like the background knowledge we would need to distinguish design-suggesting patterns from those that can be explained by natural selection.  His arguments about the No Free Lunch/Conservation of Information theorems likewise have no relevance to evolutionary questions.  It is not even clear that these theorems apply straightforwardly to biological evolution, but regardless, they imply nothing more than that nature has to be a certain way for evolution to be viable.
+Ultimately, for all his interminable ranting, blather, and self-admiration, the bottom line is this:  His notion of complex, specified information is a complete non-starter in the context of evolution.  We cannot establish complexity because we cannot even approximate, much less calculate, the probabilities his model requires,  and we cannot establish specificity because we have nothing like the background knowledge we would need to distinguish design-suggesting patterns from those that can be explained by natural selection.  His arguments about the No Free Lunch/Conservation of Information theorems likewise have no relevance to evolutionary questions.  It is not even clear that these theorems apply straightforwardly to biological evolution, but regardless, they imply nothing more than that nature has to be a certain way for evolution to be viable.
 <p>
 Looks like I could have written a shorter book!  Dembski does not even lay a finger on any of these points.  And he never will be successful in doing so, even if he writes another 18000 words.
 <p>
 Dembski understandably focused on that portion of my book that dealt with his own writing, but this is only a very small portion of the book overall.  Have a look for yourself!
+<p>
+ <strong>Related Posts</strong>
+ <p>
+ Jerry Coyne reviews the book <a href="https://whyevolutionistrue.com/2022/06/28/jason-rosenhouses-new-anti-id-book/">here</a>.
+ <p>
+ Matt Young reviews the book <a href="https://pandasthumb.org/archives/2022/06/Mathematical-Anti-Evolutionism.html">here</a>.
+ <p>
+ Joe Felsenstein reviews the book <a href="https://pandasthumb.org/archives/2022/05/rosenhouse-on-mathematical-anti-evolutionism.html">here</a>.
+ <p>
+ I announced the book and offer some general thoughts about mathematical anti-evolutionism <a href="https://pandasthumb.org/archives/2022/05/futility-anti-evolutionary.html">here</a>.  I also provided some additional commentary on this subject <a href="https://skepticalinquirer.org/2022/05/the-failures-of-mathematical-anti-evolutionism/">in an article</a> for <em>Skeptical Inquirer</em>.
 <p>
