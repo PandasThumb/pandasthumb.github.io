@@ -1,7 +1,7 @@
 ---
-title = 'A reply to Dembski's review of my book'
-date = 2022-07-03 12:00:00 -08:00
-author = Jason Rosenhouse
+title='A reply to Dembski's review of my book'
+date=2022-07-03 12:00:00 -08:00
+author=Jason Rosenhouse
 ---
 
 <figure><img src="/uploads/2022/" alt="[Image of cover of Rosenhouse book]">
