@@ -1,6 +1,6 @@
 ---
 title: A reply to Dembski's review of my book'
-date: 2022-07-03 12:00:00 -08:00
+date: 2022-07-03 08:00:00 -08:00
 author: Jason Rosenhouse
 ---
 
@@ -230,11 +230,11 @@ Dembski understandably focused on that portion of my book that dealt with his ow
 <p>
  <strong>Related Posts</strong>
  <p>
- Jerry Coyne reviews the book <a href="https://whyevolutionistrue.com/2022/06/28/jason-rosenhouses-new-anti-id-book/">here</a>.
+ Jerry Coyne reviews the book at his site Why Evolution Is True <a href="https://whyevolutionistrue.com/2022/06/28/jason-rosenhouses-new-anti-id-book/">here</a>.
  <p>
- Matt Young reviews the book <a href="https://pandasthumb.org/archives/2022/06/Mathematical-Anti-Evolutionism.html">here</a>.
+ Matt Young reviews the book at Panda's Thumb <a href="https://pandasthumb.org/archives/2022/06/Mathematical-Anti-Evolutionism.html">here</a>.
  <p>
- Joe Felsenstein reviews the book <a href="https://pandasthumb.org/archives/2022/05/rosenhouse-on-mathematical-anti-evolutionism.html">here</a>.
+ Joe Felsenstein reviews the book at Panda's Thumb <a href="https://pandasthumb.org/archives/2022/05/rosenhouse-on-mathematical-anti-evolutionism.html">here</a>.
  <p>
- I announced the book and offer some general thoughts about mathematical anti-evolutionism <a href="https://pandasthumb.org/archives/2022/05/futility-anti-evolutionary.html">here</a>.  I also provided some additional commentary on this subject <a href="https://skepticalinquirer.org/2022/05/the-failures-of-mathematical-anti-evolutionism/">in an article</a> for <em>Skeptical Inquirer</em>.
+ I announced the book and offer some general thoughts about mathematical anti-evolutionism at Panda's Thumb <a href="https://pandasthumb.org/archives/2022/05/futility-anti-evolutionary.html">here</a>.  I also provided some additional commentary on this subject <a href="https://skepticalinquirer.org/2022/05/the-failures-of-mathematical-anti-evolutionism/">in an article</a> for <em>Skeptical Inquirer</em>.
 <p>
