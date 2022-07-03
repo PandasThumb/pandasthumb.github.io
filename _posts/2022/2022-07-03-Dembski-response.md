@@ -48,7 +48,8 @@ That is a pretty strange thing to write, considering that in <em>No Free Lunch</
 <blockquote>
 Richard Dawkins has memorably described this gradualistic approach to achieving biological complexity as “climbing Mount Improbable.”  . . .  For irreducibly complex systems that have numerous diverse parts and that exhibit the minimal level of complexity needed to retain a minimal level of function, such a gradual ascent up Mount Improbable is no longer possible. (<em>No Free Lunch</em> p. 290)
 </blockquote>
-“A gradual ascent up Mount Improbable is no longer possible.”  Sure sounds like he is assuming that an irreducibly complex system cannot evolve gradually.  Moreover, irreducible complexity is only a signpost of where to look for biological improbability if you accept the premise that such a system cannot evolve gradually.  Since that premise is false, irreducible complexity is not a signpost for anything.  
+“A gradual ascent up Mount Improbable is no longer possible.”  Sure sounds like he is assuming that an irreducibly complex system cannot evolve gradually.  Moreover, irreducible complexity is only a signpost of where to look for biological improbability if you accept the premise that such a system cannot evolve gradually.  Since that premise is false, irreducible complexity is not a signpost for anything.
+</p>
 <p>
 I think what is going on here is that Dembski feels stung by another argument I present in my book.  I point out that in his discourse, it is really Michael Behe’s claims about irreducible complexity that are doing all the work.  The probability calculations do nothing to strengthen the argument.  Recall that Behe, in <em>Darwin’s Black Box</em> wrote:
 <blockquote>
