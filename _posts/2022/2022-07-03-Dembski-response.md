@@ -131,6 +131,7 @@ Secondly, do take a moment to savor the planet-sized ego it takes for anyone to 
 Now let us see if we can come up with a reason why I did not cite those papers in my book.  In fact, maybe we should check to see if I explained precisely this point in the book itself:
 <blockquote>
 [W]e find ourselves in the same position we were in back in Section 5.6.  We saw that Dembski claimed to have produced a piece of mathematical machinery---complex, specified information---that could be used to distinguish things that must have been designed from things that could be explained in some other way.  He then proposed to apply this machinery to biology and claimed thereby to show that intelligent design is in some way implicated in natural history.  We decided that we did not need to examine every piece of the machinery since we only cared about its claimed application to biology.
+</p>
 <p>
 And so it is here.  It would take many pages to explain and analyze the mathematical formalism proposed by [Marks, Dembski, and Ewert], but it would not further our agenda to do so.  If they want to apply their techniques to abstract problems in combinatorial search, then they are welcome to do so.  Whether such proposed applications have any merit would be a topic for a different book.  Our interest here is solely in the manner in which they apply their machinery to biology.  (pp. 212-213)
 </p></blockquote>
@@ -170,9 +171,10 @@ Plainly, such processes lead to the creation of novel genetic information by any
 Now let us turn to that sentence fragment about natural selection being an information conduit.  Had Dembski quoted even a little of the surrounding context, it would have been clear that I was referring back to a discussion from earlier in the book in which I explored these issues at length.  Dembski asks for where nature’s information is and for how it is structured.  I addressed that question thusly:
 <blockquote>
 [T]here is nothing wrong with viewing natural selection as an information conduit between the environment and a population’s gene pool.  Recall that according to Shannon’s conception, information content is something possessed by an event in a probability space.  Seen in that way, any physical system that can exist in more than one state can contain information.  This is because if the system can exist in more than one state, then there must, in principle, be a probability distribution that describes the likelihood of being in one state versus another.  And since the local environments in which gene pools find themselves can certainly exist in many states, it is not an abuse of language to say the environment contains information.  
+ </p>
 <p>
 This can actually be an illuminating metaphor.  There is a strong sense in which the gene pools of modern organisms can be said to record information about the ancestral environments in which they evolved.  The process is not much different from receiving medical information from your doctor and then making lifestyle changes as a result.  Just as your doctor gives you information on how to live a healthier life, so too does the environment give information to a gene pool about how better to survive.  In the language of information theory, we would say this is communication through a noisy channel because natural selection is not the only mechanism of change, and evolution is not always adaptive.  But it is an interesting way of looking at things nevertheless.  (p. 204)
-</blockquote>
+</p></blockquote>
 <p>
 Now, does this constitute evolution creating information “from scratch”?  Since Dembski and his coauthors are the only ones who talk like that, I am not sure what the question means.  But in my book, I make the following point:
 <blockquote>
