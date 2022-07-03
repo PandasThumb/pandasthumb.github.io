@@ -53,7 +53,6 @@ I think what is going on here is that Dembski feels stung by another argument I 
 The result of these cumulative efforts to investigate the cell---to investigate life at a molecular level---is a loud, clear, piercing cry of “design!”  The result is so unambiguous and so significant that it must be ranked as one of the greatest achievements in the history of science.  The discovery rivals those of Newton and Einstein, Lavoisier and Schrodinger, Pasteur and Darwin. (<em>Darwin’s Black Box</em>, p. 233)
 </blockquote>
 How interesting that Behe did not say, “Irreducible complexity in the cell is interesting and all, but what we <em>really</em> need is a probability calculation to seal the deal.”
-</p>
 <p>
 Returning to the review, after several paragraphs spent retreating from his own calculation, Dembski writes: 
 <blockquote>
@@ -62,7 +61,7 @@ The fact is that they [Rosenhouse and his fellow Darwinists] have no probability
 <p>
 <em>Of course</em> we have no probability estimates for the evolution of these systems.  That is because probability theory is fundamentally the wrong tool for this particular job.  That’s the whole point!  Not only can you not rigorously calculate the probability of evolving a particular complex system, you cannot even estimate it in any reasonable way.  Martin Nowak had it exactly right.  
 <p>
-Dembski’s claim to have presented techniques for evaluating these probabilities is pure fantasy.  His calculations are just biological numerology.  He assigns numbers to objects in random ways and then, by manipulating the numbers, pretends that he has learned something about the objects.  Actually, he has only learned something about how he assigned the numbers.
+Dembski’s claim to have presented techniques for evaluating these probabilities is pure fantasy.  His calculations are just biological numerology.  He assigns numbers to objects in random ways and then, by manipulating the numbers, pretends that he has learned something about the objects.  Actually, he has only learned something about the way he assigned the numbers.
 <p>
 And just to show that Dembski cannot be counted on to get even the simplest things right, let me also note that I certainly do not just assume that the probability of evolving a flagellum is high.  I distinctly remember writing “[T]he course of evolution is affected by so many chance events that the probability of any specific modern outcome of the process could be extremely low, but this does not make us suspect design, because <em>something</em> had to happen.  Therefore, some additional argument is needed to go from low probability to a conclusion of design” (p. 131).  I revisit this issue again on page 132, where I note that in considering anti-evolutionist probability, we need to pay attention to how they propose to get around this point (that low probability by itself does not mean much).  It arises again on page 139 in the context of Dembski’s flagellum calculation, and yet again on page 157 in the context of Behe’s probability calculations in <em>The Edge of Evolution</em>.
 <p>
