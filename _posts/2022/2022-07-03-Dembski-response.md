@@ -133,7 +133,7 @@ Now let us see if we can come up with a reason why I did not cite those papers i
 [W]e find ourselves in the same position we were in back in Section 5.6.  We saw that Dembski claimed to have produced a piece of mathematical machinery---complex, specified information---that could be used to distinguish things that must have been designed from things that could be explained in some other way.  He then proposed to apply this machinery to biology and claimed thereby to show that intelligent design is in some way implicated in natural history.  We decided that we did not need to examine every piece of the machinery since we only cared about its claimed application to biology.
 <p>
 And so it is here.  It would take many pages to explain and analyze the mathematical formalism proposed by [Marks, Dembski, and Ewert], but it would not further our agenda to do so.  If they want to apply their techniques to abstract problems in combinatorial search, then they are welcome to do so.  Whether such proposed applications have any merit would be a topic for a different book.  Our interest here is solely in the manner in which they apply their machinery to biology.  (pp. 212-213)
-</blockquote>
+</p></blockquote>
 <p>
 I based my discussion of “conservation of information” on their book <em>Introduction to Evolutionary Informatics</em>, published in 2017.  They rather pompously describe their book as a monograph, which I took to mean they regarded it as primarily a work of scholarship as opposed to mere popularization.  The book is far more recent than the papers Dembski mentions, and it is specifically about the proposed applications of their ideas to evolution.  
 <p>
