@@ -41,8 +41,10 @@ I replied that this model for understanding the evolution of the flagellum is fl
 In his review, Dembski makes no attempt to defend the biological legitimacy of his model.  Instead, he says things like this (still in Section 9):
 <blockquote>
 Thus, I’m supposed to be presupposing that irreducible complexity makes it impossible for a system to evolve by Darwinian means.  . . .  But that’s not what I’m doing.  Instead, I’m using irreducible complexity as a signpost of where to look for biological improbability.
-</blockquote>
+</p></blockquote>
+<p>
 That is a pretty strange thing to write, considering that in <em>No Free Lunch</em> he wrote this:
+</p?
 <blockquote>
 Richard Dawkins has memorably described this gradualistic approach to achieving biological complexity as “climbing Mount Improbable.”  . . .  For irreducibly complex systems that have numerous diverse parts and that exhibit the minimal level of complexity needed to retain a minimal level of function, such a gradual ascent up Mount Improbable is no longer possible. (<em>No Free Lunch</em> p. 290)
 </blockquote>
