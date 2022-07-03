@@ -134,8 +134,8 @@ Now, first of all, my idiom was “track 1” and “track 2”. Just saying.
 Secondly, do take a moment to savor the planet-sized ego it takes for anyone to describe his own work as “seminal”.  For those unfamiliar with this term, academics use it to refer to work that was not only original and important when it first appeared, but which also inspired new avenues of investigation for other researchers.  It is a term of respect bestowed by others years after a work is published and has proven its fruitfulness.  Big egos are an occupational hazard in academe, but absolutely nobody describes his own work as seminal, especially when few other researchers seem to have paid any attention to it.  See my earlier comment regarding arrogance and self-puffery.
 <p>
 Now let us see if we can come up with a reason why I did not cite those papers in my book.  In fact, maybe we should check to see if I explained precisely this point in the book itself:
-<p>
 <blockquote>
+ <p>
 [W]e find ourselves in the same position we were in back in Section 5.6.  We saw that Dembski claimed to have produced a piece of mathematical machinery---complex, specified information---that could be used to distinguish things that must have been designed from things that could be explained in some other way.  He then proposed to apply this machinery to biology and claimed thereby to show that intelligent design is in some way implicated in natural history.  We decided that we did not need to examine every piece of the machinery since we only cared about its claimed application to biology.
 </p>
 <p>
