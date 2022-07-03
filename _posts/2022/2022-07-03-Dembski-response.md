@@ -194,12 +194,14 @@ This can actually be an illuminating metaphor.  There is a strong sense in which
 </p></blockquote>
 <p>
 Now, does this constitute evolution creating information “from scratch”?  Since Dembski and his coauthors are the only ones who talk like that, I am not sure what the question means.  But in my book, I make the following point:
-<blockquote>
+<blockquote><p>
 Standard evolutionary mechanisms have the ability both to increase the information storage capacity of the genome through gene duplication, and to refine, via mutation and natural selection, the information stored there, resulting in better-adapted organisms.  This is what is meant when scientists attribute to evolution the ability to create new information.
 </p>
 <p>
 If you now want to play gotcha, and argue that evolution did not <em>really</em> create information but only transformed preexisting information in the environment, then you are welcome to do so.  However, it is no great accomplishment to make this observation.  If you are just saying that nature has to be a certain way for evolution to work then you can just assert it as obvious without further argument.  You do not need to write lengthy books to defend this claim, or to deploy difficult mathematical theorems in support of it. (p. 205)
-</p></blockquote>
+</p>
+</blockquote>
+</p>
 <p>
 Finally, what of Dembski’s assertion that “the information was not always there”?  Well, what was “there” was a source of information that had the potential to be modified by organisms into functional structures.  That information is found in the collection of possible environmental states, which in turn determine what constitutes fitness for the organisms living in those environments.  
 <p>
