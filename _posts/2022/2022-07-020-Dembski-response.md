@@ -4,7 +4,7 @@ date: 2022-07-03 12:00:00 -08:00
 author: Jason Rosenhouse
 ---
 
-<figure><img src="/uploads/2022/Rosenhouse_Cover.jpg" alt="[Image of cover of Rosenhouse book]">
+<figure><img src="/uploads/2022/RosenhouseCover3.jpg" alt="[Image of cover of Rosenhouse book]">
 </figure>
 <p>
 William Dembski has now reviewed my new book <em>The Failures of Mathematical Anti-Evolutionism</em>.  His review comes to roughly 18000 words.  According to at least one standard classification scheme, that makes it a novella.  The full review can be found <a href="https://billdembski.com/intelligent-design/success-of-mathematics-in-advancing-intelligent-design/">here</a>.  It is also appearing in sections at the Discovery Institute's site Evolution News (see <a href="https://evolutionnews.org/author/wdembski/">here</a>).
