@@ -53,6 +53,7 @@ I think what is going on here is that Dembski feels stung by another argument I 
 The result of these cumulative efforts to investigate the cell---to investigate life at a molecular level---is a loud, clear, piercing cry of “design!”  The result is so unambiguous and so significant that it must be ranked as one of the greatest achievements in the history of science.  The discovery rivals those of Newton and Einstein, Lavoisier and Schrodinger, Pasteur and Darwin. (<em>Darwin’s Black Box</em>, p. 233)
 </blockquote>
 How interesting that Behe did not say, “Irreducible complexity in the cell is interesting and all, but what we <em>really</em> need is a probability calculation to seal the deal.”
+</p>
 <p>
 Returning to the review, after several paragraphs spent retreating from his own calculation, Dembski writes: 
 <blockquote>
