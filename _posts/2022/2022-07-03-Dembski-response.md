@@ -1,5 +1,5 @@
 ---
-title: 'A reply to Dembski's review of my book'
+title: "A reply to Dembski's review of my book"
 date: 2022-07-03 08:00:00 -08:00
 author: Jason Rosenhouse
 ---
