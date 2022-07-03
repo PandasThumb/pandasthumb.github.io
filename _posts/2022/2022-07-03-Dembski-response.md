@@ -127,6 +127,7 @@ How does Dembski respond to this?  Mostly by complaining that I did not cite his
 As with specified complexity, in proving conservation of information theorems, we have taken a largely pre-theoretic notion and turned it into a full-fledged theoretic notion.  In the idiom of Rosenhouse, we have moved the concept from level 1 to level 2.  A reasonably extensive technical literature on conservation of information theorems now exists.  Here are three seminal peer-reviewed articles addressing these theorems on which I’ve collaborated. . .
 </blockquote>
 He now presents the bibliographic information for three of his papers and writes “Rosenhouse cites none of this literature.”
+</p>
 <p>
 Now, first of all, my idiom was “track 1” and “track 2”. Just saying.
 <p>
