@@ -12,7 +12,7 @@ is of course, found <a href="http://pandasthumb.org/archives/2022/06/religious-c
   </p>
   <p>
  The UD post <a href="https://uncommondescent.com/intelligent-design/at-pandas-thumb-worry-that-the-u-s-supreme-court-will-rule-for-creationism/">(here)</a> is 
- signed by their official reporter "News", who seems these days to be physicist Eric Hedin.They first quote a paragraph from Sandefur's post 
+ signed by their official reporter "News", who seems these days to be physicist Eric Hedin. They first quote a paragraph from Sandefur's post 
  about the flaws in the legal theory of "originalism" used by the Supreme Court majority.  Then
 they close in for the kill, saying:
 <blockquote>For some, tormenting themselves with this stuff probably seems to make more sense than confronting the fact that 
