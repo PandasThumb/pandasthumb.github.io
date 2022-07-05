@@ -4,7 +4,7 @@ date: 2022-07-06 08:00:00 -08:00
 author: Joe Felsenstein
 ---
 
-<p>,
+<p>
 One can always count on the ID/creationist website Uncommon Descent for oddities.  Yesterday they noticed a post here: Timothy Sandefur's
 discussion of the legal issues raised by the rightward move of the U.S. Supreme Court, and the legal theories the court majority used 
 to address separation of church and state.  And how the court might now rule on a case like the Dover School Board case.  (Tim's post 
