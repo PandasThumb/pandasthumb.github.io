@@ -1,6 +1,6 @@
 ---
 title: Uncommon Descent tries to stay on topic
-date: 2022-07-06 08:00:00 -08:00
+date: 2022-07-05 08:00:00 -08:00
 author: Joe Felsenstein
 ---
 
