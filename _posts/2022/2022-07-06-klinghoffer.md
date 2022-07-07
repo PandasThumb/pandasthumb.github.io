@@ -16,7 +16,7 @@ David
 </BLOCKQUOTE>
 </p>
 <p>
-Normally I would not publish a private a email without the sender's permission, but in this case I think it's OK to do so.  You see, Klinghoffer was so pleased with this email that he posted it himself at the <a href="https://evolutionnews.org/2022/07/invitation-to-jason-rosenhouse-respond-to-dembski/">Discovery Institute's blog.</a>  The title of the post was: Invitation to Jason Rosenhouse: Respond to Dembski.
+Normally I would not publish a private a email without the sender's permission, but in this case I think it's OK to do so.  You see, Klinghoffer was so pleased with this email that he posted it himself at the <a href="https://evolutionnews.org/2022/07/invitation-to-jason-rosenhouse-respond-to-dembski/">Discovery Institute's blog.</a>  The title of the post was: Invitation to Jason Rosenhouse: Respond to Dembski.  He concluded the post with, "Now let's find out what he will say."
 </p>
 <p>
 At 4:17 I sent the following reply to Klinghoffer:
@@ -30,4 +30,4 @@ Jason
 More than 24 hours have passed, but Klinghoffer has not updated his original post to let his readers know that I had replied to Dembski.  Nor did he post something new indicating that I had done so.  One minute he's looking forward to hearing from me and musing about the prospects for dialogue, but the next it's crickets.
   </p>
   <p>
-  It's almost as if he didn't <em>really</em> want to have an exchange of ideas, but was instead just preening for his readers.  I'm not surprised he didn't want to link to my post since I completely demolished Dembski's incompetent review of my book.
+  It's almost as if he didn't <em>really</em> want to have an exchange of ideas, but was instead just preening for his readers. He has now knows "what he will say", but seems afraid to let his readers in on it.  Why do you suppose that is?
