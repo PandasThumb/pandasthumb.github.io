@@ -1,6 +1,6 @@
 ---
 title: Does David Klinghoffer <em>really</em> want to have an exchange of ideas?
-date: 2022-07-07 12:00 -08:00
+date: 2022-07-07 01:00 -05:00
 author: Jason Rosenhouse
 ---
 <p>
