@@ -24,6 +24,7 @@ At 4:17 I sent the following reply to Klinghoffer:
 Hi David.  Thank you for the invitation.  I have recently posted <a href="https://pandasthumb.org/archives/2022/07/Dembski-response.html">a reply to Dembski</a> at the Panda's Thumb.  I intend for that to be my last word on the subject.
   
 Jason
+  </BLOCKQUOTE>
 </p>
 <p>
 More than 24 hours have passed, but Klinghoffer has not updated his original post to let his readers know that I had replied to Dembski.  Nor did he post something new indicating that I had done so.  One minute he's looking forward to hearing from me, and musing about the prospects for dialogue, but the next it's crickets.
