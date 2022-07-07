@@ -27,7 +27,7 @@ Jason
   </BLOCKQUOTE>
 </p>
 <p>
-More than 24 hours have passed, but Klinghoffer has not updated his original post to let his readers know that I had replied to Dembski.  Nor did he post something new indicating that I had done so.  One minute he's looking forward to hearing from me and musing about the prospects for dialogue, but the next it's crickets.
+As I write this, close to two days have passed, but Klinghoffer has not updated his original post to let his readers know that I had replied to Dembski.  Nor did he post something new indicating that I had done so.  One minute he's looking forward to hearing from me and musing about the prospects for dialogue, but the next it's crickets.
   </p>
   <p>
   It's almost as if he didn't <em>really</em> want to have an exchange of ideas, but was instead just preening for his readers. He now knows "what he will say", but seems afraid to let his readers in on it.  Why do you suppose that is?
