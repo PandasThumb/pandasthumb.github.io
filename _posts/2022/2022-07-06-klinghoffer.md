@@ -20,3 +20,13 @@ Normally I would not publish a private a email without the sender's permission, 
 </p>
 <p>
 At 4:17 I sent the following reply to Klinghoffer:
+<BLOCKQUOTE>
+Hi David.  Thank you for the invitation.  I have recently posted <a href="https://pandasthumb.org/archives/2022/07/Dembski-response.html">a reply to Dembski</a> at the Panda's Thumb.  I intend for that to be my last word on the subject.
+  
+Jason
+</p>
+<p>
+More than 24 hours have passed, but Klinghoffer has not updated his original post to let his readers know that I had replied to Dembski.  Nor did he post something new indicating that I had done so.  One minute he's looking forward to hearing from me, and musing about the prospects for dialogue, but the next it's crickets.
+  </p>
+  <p>
+  It's almost as if he didn't <em>really</em> want to have an exchange of ideas, but was instead just preening for his readers.  I'm not surprised he didn't want to link to my post since I completely demolished Dembski's incompetent review of my book.
