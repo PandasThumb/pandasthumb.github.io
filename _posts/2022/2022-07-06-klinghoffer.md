@@ -4,6 +4,9 @@ date: 2022-07-07 01:00 -05:00
 author: Jason Rosenhouse
 ---
 <p>
+UPDATE: July 8, 2022.  David Klinghoffer has now <a href="https://evolutionnews.org/2022/07/rosenhouse-roundup/">posted a link</a> to my reply to William Dembski's review of <a href="https://www.amazon.com/Failures-Mathematical-Anti-Evolutionism-Jason-Rosenhouse/dp/1108820441/ref=sr_1_1?crid=26C2DNOQ4ZV60&keywords=rosenhouse&qid=1657328451&s=books&sprefix=%2Cstripbooks%2C89&sr=1-1">my book</a>.  He even encourages people to buy the book.  Thanks!   
+</p>
+<p>
 On July 5, at 4:09 pm, Eastern time, I received the following email from the Discovery Institute's David Klinghoffer:
 <BLOCKQUOTE>
 Dear Jason,
