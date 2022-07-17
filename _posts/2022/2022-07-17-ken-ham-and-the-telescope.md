@@ -4,7 +4,7 @@ date: 2022-07-18 12:00:01 -08:00
 author: Dan Phelps
 ---
 
-<figure><img src="uploads/2022/SMACS0732.png">
+<figure><img src="/uploads/2022/SMACS0732.png">
 <figcaption>NASA SMACS0732 image from JWST space telescope. Public domain.  For full resolution see the
 NASA website or Wikimedia.</figcaption></figure>
 
