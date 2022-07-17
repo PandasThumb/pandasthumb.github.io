@@ -1,6 +1,6 @@
 ---
 title: Ken Ham’s “Scientist” and “Rocket Scientist” on JWST photos 
-date: 2022-07-18 12:00:01 -08:00
+date: 2022-07-17 12:00:01 -08:00
 author: Dan Phelps
 ---
 
