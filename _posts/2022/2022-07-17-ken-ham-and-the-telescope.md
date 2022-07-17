@@ -4,6 +4,11 @@ date: 2022-07-18 12:00:01 -08:00
 author: Dan Phelps
 ---
 
+<figure><img src="/uploads/SMACS0732.png">
+<figcaption>NASA SMACS0732 image from JWST space telescope. Public domain.  For full resolution see the
+NASA website or Wikimedia.</figcaption></figure>
+
+<P></P>
 It is interesting that, as of Wednesday (July 13) late afternoon, that Answers 
 in Genesis has posted nothing about the spectacular preliminary results from the James Webb 
 Space Telescope (JWST) released the previous day. Most people probably missed it, but AiG 
@@ -11,7 +16,8 @@ has responded in a very poor way, on their Facebook and possibly other social me
 Tuesday, July 12 on AiG’s and Ken Ham’s Facebook pages, there was a simulcast of the NASA 
 press conference where the first photos and results from the JWST were shown. Here is the link to the Ham Facebook post of the simulcast video: 
 ﻿[https://fb.watch/ee25qVAHqq/?mibextid=qZdngE&fs=e&s=cl](https://fb.watch/ee25qVAHqq/?mibextid=qZdngE&fs=e&s=cl).
-I don’t know if you have to have a Facebook account to view this.
+I don’t know if you have to have a Facebook account to view this.  (It is also available on Youtube
+[here](https://youtu.be/od6829WF-S4)).
 
 Their response was by AiG’s astronomer, Dr. Danny Faulkner, and their “rocket scientist,” Rob 
 Webb. Their discussion was a rather weak critique of the JWST’s findings and funny and sad at the same 
