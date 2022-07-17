@@ -20,6 +20,7 @@ I don’t know if you have to have a Facebook account to view this.  (It is also
 [here](https://youtu.be/od6829WF-S4)).
 
 <P></P>
+
 Their response was by AiG’s astronomer, Dr. Danny Faulkner, and their “rocket scientist,” Rob 
 Webb. Their discussion was a rather weak critique of the JWST’s findings and funny and sad at the same 
 time. Through most of their simulcast, one couldn’t hear what the NASA people were saying, but this 
@@ -30,7 +31,10 @@ to know this) that we can see things billions of light years away in a 6,000 yea
 of a “miracle.” His position is literally “then a miracle occurred.” This is reminiscent of the famous 
 Sidney Harris cartoon found here: [here](http://www.sciencecartoonsplus.com/pages/gallery.php). Dr. Faulkner 
 goes on to say that Adam and Eve in the Garden of Eden saw pretty much what we see today when 
-looking at the night sky. 
+looking at the night sky.
+
+<!--more-->
+ 
 
 Most of the rest of the simulcast consisted of preaching, and mocking NASA by ascribing the scientific 
 views of NASA (and basically all of science) as “naturalistic worldview” and “assumptions” while 
