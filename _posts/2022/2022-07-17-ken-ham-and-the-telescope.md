@@ -19,6 +19,7 @@ press conference where the first photos and results from the JWST were shown. He
 I don’t know if you have to have a Facebook account to view this.  (It is also available on Youtube
 [here](https://youtu.be/od6829WF-S4)).
 
+<P></P>
 Their response was by AiG’s astronomer, Dr. Danny Faulkner, and their “rocket scientist,” Rob 
 Webb. Their discussion was a rather weak critique of the JWST’s findings and funny and sad at the same 
 time. Through most of their simulcast, one couldn’t hear what the NASA people were saying, but this 
