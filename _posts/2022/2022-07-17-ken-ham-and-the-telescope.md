@@ -29,7 +29,7 @@ light year distances don’t necessarily equal long time scales (thus not refuti
 universe). Soon after, Dr. Faulkner states his “theory” (not a scientific theory, but he doesn’t seem 
 to know this) that we can see things billions of light years away in a 6,000 year old universe because 
 of a “miracle.” His position is literally “then a miracle occurred.” This is reminiscent of the famous 
-Sidney Harris cartoon found here: [here](http://www.sciencecartoonsplus.com/pages/gallery.php). Dr. Faulkner 
+Sidney Harris cartoon found [here:](http://www.sciencecartoonsplus.com/pages/gallery.php). Dr. Faulkner 
 goes on to say that Adam and Eve in the Garden of Eden saw pretty much what we see today when 
 looking at the night sky.
 
