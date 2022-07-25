@@ -130,7 +130,7 @@ philosophy professor Neil Thomas about Darwin and Lamarck.
 - I have previously posted [here at PT](http://pandasthumb.org/archives/2022/07/uncommon-diversion.html) on Uncommon
 Descent's invocation of Buranyi's article when looking
 forward to pro-ID rulings by the U.S. Supreme Court.
-- Cue creationist David Coppedge [at Creation/Evolution Headlines](https://crev.info/2022/07/darwin-sausage-factory-exposed/).  The title, "Darwin Sausage Factory Exposed"] and the summary "A look inside the sausage factory where Darwinism
+- Cue creationist David Coppedge [at Creation/Evolution Headlines](https://crev.info/2022/07/darwin-sausage-factory-exposed/).  The title, "Darwin Sausage Factory Exposed" and the summary "A look inside the sausage factory where Darwinism
 is manufactured could leave a visitor retching" says all.
 
 
