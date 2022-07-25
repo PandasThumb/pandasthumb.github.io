@@ -125,7 +125,7 @@ like to admit.
 - Of course, Evolution News needed to have its say,
 which it did more than once, in articles [by David Klinghoffer](https://evolutionnews.org/2022/07/donate-darwinism-for-a-tax-credit-evolutionists-admit-their-fields-failures/)
 ("evolutionists admit thei field's failures .... full of scandalous admissions"), by 
-- ... and [a mention]()https://evolutionnews.org/2022/07/darwin-and-the-ghost-of-lamarck/ in an article by philology, lterature, and
+- ... and [a mention](https://evolutionnews.org/2022/07/darwin-and-the-ghost-of-lamarck/) in an article by philology, lterature, and
 philosophy professor Neil Thomas about Darwin and Lamarck.
 - I have previously posted [here at PT](http://pandasthumb.org/archives/2022/07/uncommon-diversion.html) on Uncommon
 Descent's invocation of Buranyi's article when looking
