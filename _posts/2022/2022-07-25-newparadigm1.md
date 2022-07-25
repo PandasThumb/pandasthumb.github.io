@@ -1,6 +1,6 @@
 ---
 title: "New Paradigm Of The Month: Silly-looking birds, and evolutionary theory renamed"
-date: 2022-07-24 12:00:00 -08:00
+date: 2022-07-25 12:00:00 -08:00
 author: Joe Felsenstein
 ---
 
