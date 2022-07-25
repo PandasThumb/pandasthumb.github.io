@@ -31,7 +31,7 @@ Synthesis.  The piece has been welcomed by creationists and
 advocates of ID, and criticized by pro-evolution websites.
 
 "Below the fold" you will find some more details and links.  Will
-the new paradigms still be around, a month from now?
+the new paradigms still be around a month from now?
 
 <!--more-->
 
