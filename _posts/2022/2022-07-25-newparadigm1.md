@@ -35,6 +35,8 @@ the new paradigms still be around a month from now?
 
 <!--more-->
 
+### The hoatzin disproves the tree ###
+
 The hoatzin, which looks like an exasperated chicken, seems to
 have diverged from other birds early in the radiation of modern
 birds.  The branches in the tree of life connecting it to their
@@ -63,6 +65,8 @@ the Greater Yellowlegs _Tringa melanoleuca_ there was
 [some discussion of the _New Yorker_ piece](http://pandasthumb.org/archives/2022/07/tringa-melanoleuca.html) 
 in the comments, after the troll "Data" linked to it there.
 
+
+### Goodbye to the evolutionary synthesis too ###
 
 If the hoatzin piece were not enough, the past month also saw
 a piece in _The Guardian_ casually toss out the Modern
@@ -128,10 +132,6 @@ Descent's invocation of Buranyi's article when looking
 forward to pro-ID rulings by the U.S. Supreme Court.
 - Cue creationist David Coppedge [at Creation/Evolution Headlines](https://crev.info/2022/07/darwin-sausage-factory-exposed/).  The title, "Darwin Sausage Factory Exposed"] and the summary "A look inside the sausage factory where Darwinism
 is manufactured could leave a visitor retching" says all.
-
-
-
-
 
 
 In my obviously-biased view, evolutionary biology has
