@@ -65,7 +65,7 @@ Crair's dramatic piece has been noticed and commented on:
 - The Discovery Institute's "Evolution News" reporter David Klinghoffer [reacts to Jerry's article](https://evolutionnews.org/2022/07/bizarre-bird-highlights-the-problem-of-biogeography/).  It is less clear
 whether Klinghofer would accept any genealogical scheme for the
 relationships of living organisms.
-- Here, in the thread on the previous thread on the photo of
+- Here, in the previous thread on the photo of
 the Greater Yellowlegs _Tringa melanoleuca_ there was
 [some discussion of the _New Yorker_ piece](http://pandasthumb.org/archives/2022/07/tringa-melanoleuca.html) 
 in the comments, after the troll "Data" linked to it there.
