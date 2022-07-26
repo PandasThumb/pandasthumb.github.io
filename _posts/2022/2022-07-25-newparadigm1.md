@@ -4,7 +4,7 @@ date: 2022-07-25 12:00:00 -08:00
 author: Joe Felsenstein
 ---
 
-_[Image of hoatzin to go here when I can get that to happen]_
+![A hoatzin in Peru (Kate from UK, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons</a>](/uploads/2022/hoatzin.jpg)
 
 
 Dismissals of evolutionary biology have come at such a pace lately that we need at least a monthly report on how the previous month's evolutionary theory has been overthrown. I hope that this can 
