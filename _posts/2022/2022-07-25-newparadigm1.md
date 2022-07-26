@@ -109,7 +109,7 @@ their disagreement wth the article, concluding that it
 biology"
 - [At his site Why Evolution Is True](https://whyevolutionistrue.com/2022/07/06/our-rejected-letters-to-the-guardian-about-evolution/), Jerry Coyne
 republished their article, also a letter by
-evolutionary bilogist Doug Futuyma that the Guardian
+evolutionary biologist Doug Futuyma that the Guardian
 declined to publish, as well as a list of errors in
 Buranyi's article that Brian Charlesworth compiled.  In
 addition he describes three other replies that the
@@ -121,7 +121,7 @@ Biology, and he is not happy with the EES folks.  He says
 that Buranyi's article is pretty good, if you ignore
 its "unfortunate" first four paragraphs, which he quotes.
 Some Panda's Thumb regulars are among the commenters on Larry's
-arcle.
+article.
 - P. Z. Myers discussed the Buranyi article at some length
 [at his blog, Pharyngula](https://freethoughtblogs.com/pharyngula/2022/06/28/not-impressed-by-the-extended-evolutionary-synthesis/) in a post
 entitled "Not impressed by the Extended Evolutionary Synthesis".  He
@@ -136,7 +136,7 @@ philosophy professor Neil Thomas about Darwin and Lamarck.
 Descent's invocation of Buranyi's article when looking
 forward to pro-ID rulings by the U.S. Supreme Court.
 - Cue creationist David Coppedge [at Creation/Evolution Headlines](https://crev.info/2022/07/darwin-sausage-factory-exposed/).  The title, "Darwin Sausage Factory Exposed" and the summary "A look inside the sausage factory where Darwinism
-is manufactured could leave a visitor retching" says all.
+is manufactured could leave a visitor retching" say all.
 
 
 In my obviously-biased view, evolutionary biology has
