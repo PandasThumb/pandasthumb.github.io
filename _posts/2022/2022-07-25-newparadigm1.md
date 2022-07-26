@@ -6,7 +6,10 @@ author: Joe Felsenstein
 
 ![A hoatzin in Peru (Kate from UK, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons</a>](/uploads/2022/hoatzin.jpg)
 
-A hoatzin in Peru (Kate from UK, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons</a
+A hoatzin in Peru (Kate from UK, CC BY-SA 2.0, <https://creativecommons.org/licenses/by-sa/2.0>via Wikimedia Commons</a>
+
+<p>
+</p>
 
 Dismissals of evolutionary biology have come at such a pace lately that we need at least a monthly report on how the previous month's evolutionary theory has been overthrown. I hope that this can 
 be a regular feature.  I figure that once a month is about 
@@ -22,7 +25,7 @@ chicken, is hard to place on the phylogeny of birds.  An
 article in _The New Yorker_ suggests that this may discredit
 the very notion of a phylogeny.  That in turn has led to comments
 by many of the usual suspects.  One of the major scientific papers on
-bird phylogeny has as an author our own John Harshman, who has not been shy about commenting.
+bird phylogeny has as an author our own John Harshman.
 
 2. A survey of new discoveries in evolutionary biology appeared
 in _The Guardian_.  Its author called for existing
@@ -125,7 +128,7 @@ and Jerry Coyne are in more agreement on that than either would
 like to admit.
 - Of course, Evolution News needed to have its say,
 which it did more than once, in articles [by David Klinghoffer](https://evolutionnews.org/2022/07/donate-darwinism-for-a-tax-credit-evolutionists-admit-their-fields-failures/)
-("evolutionists admit thei field's failures .... full of scandalous admissions"), by 
+("evolutionists admit their field's failures .... full of scandalous admissions"),
 - ... and [a mention](https://evolutionnews.org/2022/07/darwin-and-the-ghost-of-lamarck/) in an article by philology, lterature, and
 philosophy professor Neil Thomas about Darwin and Lamarck.
 - I have previously posted [here at PT](http://pandasthumb.org/archives/2022/07/uncommon-diversion.html) on Uncommon
