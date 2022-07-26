@@ -4,10 +4,9 @@ date: 2022-07-25 12:00:00 -08:00
 author: Joe Felsenstein
 ---
 
-![A hoatzin in Peru (Kate from UK, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons</a>](/uploads/2022/hoatzin.jpg)
-
-A hoatzin in Peru (Kate from UK, CC BY-SA 2.0, <https://creativecommons.org/licenses/by-sa/2.0>via Wikimedia Commons</a>
-
+![A hoatzin in Peru (Kate from UK, CC BY-SA 2.0, <a href="https://creativecommons.org/licenses/by-sa/2.0">via Wikimedia Commons</a>](/uploads/2022/hoatzin.jpg)
+<p>
+ &nbsp; </p>
 <p>
 </p>
 
