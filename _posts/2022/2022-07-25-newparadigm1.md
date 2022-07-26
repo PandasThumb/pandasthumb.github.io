@@ -63,7 +63,7 @@ Crair's dramatic piece has been noticed and commented on:
 
 - Jerry Coyne, at his site Why Evolution Is True [is upset at the New Yorker article](https://whyevolutionistrue.com/2022/07/17/the-new-yorker-writes-about-the-hoatzin-implies-that-darwns-idea-of-evolutionary-trees-may-be-a-phantom/)
 - The Discovery Institute's "Evolution News" reporter David Klinghoffer [reacts to Jerry's article](https://evolutionnews.org/2022/07/bizarre-bird-highlights-the-problem-of-biogeography/).  It is less clear
-whether Klinghofer would accept any genealogical scheme for the
+whether Klinghoffer would accept any genealogical scheme for the
 relationships of living organisms.
 - Here, in the previous thread on the photo of
 the Greater Yellowlegs _Tringa melanoleuca_ there was
