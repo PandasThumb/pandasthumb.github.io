@@ -16,6 +16,6 @@ There are people who have evolutionary theories that they think are Lamarckian. 
 She declares herself a Lamarckian, invoking epigenetic changes of DNA as her mechanism (see <a href="https://en.wikipedia.org/wiki/Eva_Jablonka">her Wikipedia page).  Does that mean she believes that, in addition to the known physical laws, that there is an inherent complexifying force in nature?  I don't think so.  
 And does she believe that use and disuse of organs, together with epigenetic inheritance, explains adaptations?  I can't see that she does.
   
- She does identify her views as Lamarckian in her web page at the Third Way of Evolution website (<a href="">here</a>).  She is also
+ She does identify her views as Lamarckian in her web page at the Third Way of Evolution website (<a href="https://www.thethirdwayofevolution.com/people/view/eva-jablonka">here</a>).  She is also
   a member of the Extended Evolutionary Synthesis
-  group (see <a href="">here</a>).  For a critical review of her arguments, see Bruce Walsh's book review in volume 50, number 5, 1996 in <em>Evolution</am> (<a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1558-5646.1996.tb03600.x">here</a>).
+  group (see <a href="https://extendedevolutionarysynthesis.com/person/eva-jablonka/">here</a>).  For a critical review of her arguments, see Bruce Walsh's book review in volume 50, number 5, 1996 in <em>Evolution</am> (<a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1558-5646.1996.tb03600.x">here</a>).
