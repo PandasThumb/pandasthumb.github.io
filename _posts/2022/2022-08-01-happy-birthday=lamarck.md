@@ -13,7 +13,7 @@ Is Lamarckism dead now?  Well, yes and no.  Let me explain ...
 <!--more-->
 
 There are people who have evolutionary theories that they think are Lamarckian.  A prime example is Dr. Eva Jablonka, an evolutionary biologist at the Cohn Institute for the History of Philosophy of Science and Ideas at Tel Aviv University. 
-She declares herself a Lamarckian, invoking epigenetic changes of DNA as her mechanism (see <a href="https://en.wikipedia.org/wiki/Eva_Jablonka">her Wikipedia page).  Does that mean she believes that, in addition to the known physical laws, that there is an inherent complexifying force in nature?  I don't think so.  
+She declares herself a Lamarckian, invoking epigenetic changes of DNA as her mechanism (see <a href="https://en.wikipedia.org/wiki/Eva_Jablonka">her Wikipedia page</a>).  Does that mean she believes that, in addition to the known physical laws, that there is an inherent complexifying force in nature?  I don't think so.  
 And does she believe that use and disuse of organs, together with epigenetic inheritance, explains adaptations?  I can't see that she does.
   
  She does identify her views as Lamarckian in her web page at the Third Way of Evolution website (<a href="https://www.thethirdwayofevolution.com/people/view/eva-jablonka">here</a>).  She is also
