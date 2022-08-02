@@ -21,4 +21,4 @@ She does identify her views as Lamarckian in her web page at the Third Way of Ev
 
 Leaving aside her main concerns, which are to vindicate the importance of epigenetic phenomena in evolution, and to place them in the context of other forms of non-Mendelian inheritance, we can ask whether Lamarck would recognize her views as his own.  I can't see that he would.  "Lamarckian" evolutionary phenomena may be repeatedly invoked by a generation of skeptics of the Modern Evolutionary Synthesis.  But in their view evolutionary changes that involve epigenetic variations in populations come from natural selection acting on those variations.  By contrast, use and disuse is different: a kind of directed mutation.  Lamarck's theory invoked, in effect, directed mutation, and did not depend on selecting among variations in the population.
 
-Lamarck is being invoked against the Modern Synthesis.  But his theories of change are not,
+Lamarck is being invoked against the Modern Synthesis.  But his theories of change are not.
