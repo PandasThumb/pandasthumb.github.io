@@ -18,4 +18,4 @@ And does she believe that use and disuse of organs, together with epigenetic inh
   
  She does identify her views as Lamarckian in her web page at the Third Way of Evolution website (<a href="https://www.thethirdwayofevolution.com/people/view/eva-jablonka">here</a>).  She is also
   a member of the Extended Evolutionary Synthesis
-  group (see <a href="https://extendedevolutionarysynthesis.com/person/eva-jablonka/">here</a>).  For a critical review of her arguments, see Bruce Walsh's book review in volume 50, number 5, 1996 in <em>Evolution</am> (<a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1558-5646.1996.tb03600.x">here</a>).
+  group (see <a href="https://extendedevolutionarysynthesis.com/person/eva-jablonka/">here</a>).  For a critical review of her arguments, see Bruce Walsh's book review in volume 50, number 5, 1996 in <em>Evolution</em> (<a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1558-5646.1996.tb03600.x">here</a>).
