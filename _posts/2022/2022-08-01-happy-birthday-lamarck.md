@@ -5,7 +5,7 @@ author: Joe Felsenstein
 ---
 
 Happy birthday, Jean-Baptiste!  On this day, August 1, in 1744 Jean-Baptiste Pierre Antoine de Monet, the Chevalier de Lamarck, was born.  Had he lived he would now be a sprightly 
-278 years old.  It is time for my annual birthday post.  He was the first evolutionary biologist.  In addition to world-class work in invertebrate taxonomy he argued for common descent and put forward a mechanism to account for adaptation.  No not inheritance of acquired characters -- everyone always knew that was always known to be true.  The mechanism was Use and Disuse. Organsims tried to solve their problems by using (or disusing) their organs, and the resulting changes would be adaptive and of course would be passed on to the next generation.  Lamarck also believed that,
+278 years old.  It is time for my annual birthday post.  He was the first evolutionary biologist.  In addition to world-class work in invertebrate taxonomy he argued for common descent and put forward a mechanism to account for adaptation.  No not inheritance of acquired characters -- everyone always knew that it was true.  The mechanism was Use and Disuse. Organisms tried to solve their problems by using (or disusing) their organs, and the resulting changes would be adaptive and of course would be passed on to the next generation.  Lamarck also believed that,
 in addition, there was an overall force in descent of organisms in nature leading to an increase of complexity.
 
 Is Lamarckism dead now?  Well, yes and no.  Let me explain ...
