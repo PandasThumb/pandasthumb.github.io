@@ -8,7 +8,7 @@ author: Joe Felsenstein
 <div align="center">
 <img src="/uploads/2022/Giraffes_male_necking2.jpg" alt="[Image of giraffes "necking" from Wikimedia Commons]"/>
 </div>
-  <figcaption><div align="center">Male giraffes "necking".  From Wikimedia Commons</figcaption>
+  <figcaption><div align="center">Male giraffes "necking".  From Wikimedia Commons</div></figcaption>
 </figure>
 
 <p>
