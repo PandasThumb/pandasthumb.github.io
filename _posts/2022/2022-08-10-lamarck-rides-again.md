@@ -40,3 +40,6 @@ critique at his blog _Why Evolution Is True_. He tears strips off Noble in a rat
 disrespectful way.  Which seems to me to be appropriate.  When Jerry gets into 
 a high Evolutionary Synthesis dudgeon, he is well worth reading.  You will 
 find his piece [__here__](https://whyevolutionistrue.com/2022/08/07/denis-noble-goes-after-darwinian-evolution-again-scores-own-goal/).  Noble's original cri de couer was published  [__here__](https://iai.tv/articles/denis-noble-the-broken-paradigm-of-neo-darwinism-auid-2210).   
+<p>
+  </p>
+__To see comments on this post, click on the title of the post, above.__
