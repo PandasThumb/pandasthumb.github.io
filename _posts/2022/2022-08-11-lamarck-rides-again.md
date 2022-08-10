@@ -19,21 +19,21 @@ Synthesis who think that they are putting forth a Lamarckian theory most likely
 aren't doing that, as they do not actually believe that the direction of change 
 toward adaptation comes from use and disuse of organs.  To Lamarck, the 
 directionality was not due to external environmental effects being inherited, 
-it was actually the effort made by the individual to use its organs more or less that 
-somehow altered its genetic makeup and it was those that were inherited.
+it was actually the effort made by the individual to use particular organs more or use them 
+less that somehow altered its genetic makeup and it was those changes that were inherited.
 
 And now comes Dennis Noble.  A leader of the Extended Evolutionary Synthesis 
-group and one of the main organizers of the notorious 2016 meeting on New Directions 
+group and one of the main organizers of the notorious 2016 meeting on New Trends 
 in Evolutionary Biology brought about by misguided biologists, philosophers, and
 historians who talked the Royal Society into endorsing it, he has published 
 another outburst.
 
-Noble, an eminent physiologist, points to certain vesicles that can cross the 
-barrier between the somatic cells and the germ cells in animals.  These, he argues, 
-can serve as the basis for the effects of use and disuse to alter the herditary 
-material.  He does not actually show that this is what they do.  A 
-critical issue is whether the effects on the somatic cells induce a genetic change 
-that is adaptive.
+Noble, an eminent physiologist, points to exosome vesicles that can cross the 
+barrier between the somatic cells and the germ cells in animals, ones that can
+contain mRNA.  These, he argues, can serve as the basis for the effects of use 
+and disuse to alter the herditary material.  He does not actually show that this 
+is what they do.  A critical issue is whether the effects on the somatic cells 
+then induce in the germ cells a genetic change that is adaptive.
 
 But don't listen to me.  Jerry Coyne has lost his temper and published a 
 critique at his blog _Why Evolution Is True_. He tears strips off Noble in a rather 
