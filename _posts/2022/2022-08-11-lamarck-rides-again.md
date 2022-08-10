@@ -6,8 +6,9 @@ author: Joe Felsenstein
 
 <figure>
 <div align="center">
-<img src="" alt="[Image of giraffes "necking" from Wikimedia Commons to be put here as soon as I can"/>
+<img src="/uploads/2022/Giraffes_male_necking2.jpg" alt="[Image of giraffes "necking" from Wikimedia Commons]"/>
 </div>
+  <figcaption><div align="center">Male giraffes "necking".  From Wikimedia Commons</figcaption>
 </figure>
 
 <p>
