@@ -18,3 +18,15 @@ recognition that the origin of the information in
 the DNA might be a different issue from
 the origin of life.
 
+> During a session on the origin of life, the scientists 
+> discussed a question I had never considered: 
+> Where did the information stored in the DNA molecule 
+> come from? 
+
+> On February 10, 1985, I learned I wasn’t the only one. On 
+> that day I found myself sitting in front of 
+> eight world-class scientists, who were 
+> discussing the vexing scientific and 
+> philosophical question: How did the first life on earth arise? 
+
+Um, different question!
