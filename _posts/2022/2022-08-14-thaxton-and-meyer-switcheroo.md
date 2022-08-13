@@ -4,7 +4,7 @@ date: 2022-08-14 12:00:00 -08:00
 author: Joe Felsenstein
 ---
 
-<figure><img src="/uploads/2022/Tolstoy_and_Checkhov2.jpg" alt="[Photo of Chekhov and Tolstoy discussing literature]"/>
+<figure><img src="/uploads/2022/Tolstoy_and_chekhov.jpg" alt="[Photo of Chekhov and Tolstoy discussing literature]"/>
 <figcaption><div align="center">Chekhov(L) and Tolstoy(R).  Were they discussing the origin of the book?</div></figcaption>
 </figure> 
 
