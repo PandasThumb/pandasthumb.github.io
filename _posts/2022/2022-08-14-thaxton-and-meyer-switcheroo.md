@@ -22,7 +22,9 @@ by Thaxton.
 > discussed a question I had never considered: 
 > Where did the information stored in the DNA molecule 
 > come from? 
-....
+
+> ....
+
 > On February 10, 1985, I learned I wasn’t the only one. On 
 > that day I found myself sitting in front of 
 > eight world-class scientists, who were 
@@ -46,13 +48,13 @@ If we compare a novel by Leo Tolstoy to a set of short stories by Anton Chekhov,
 came to be invented, or how the particular binding, fonts, and physical format were chosen.  The two works might be
 very much the same in those respects, but they of course will be very different in the sequence of letters in the
 books.  And that is where the information is that makes them different, and makes both of them remarkable.  In the
-photo above we see Chekhov(L) with Tolstoy(R), when he visited Chekhov's dacha in 1900.  The two authors 
+photo above we see Chekhov(L) with Tolstoy(R), when Tolstoy visited Chekhov's dacha in 1900.  The two authors 
 had much to discuss about their writings, and those of others.  But I doubt they spent much of that time discussing 
 how and where books first arose.
 
 Most of Meyer's piece concentrates on the origin of life, and does not at all discuss how the information in the 
 DNA got there.  Why does Meyer insist on describing that as the issue? Is there some big mystery?  Are the ordinary processes of evolution, such as natural selection and 
-mutation some incapable, in principle, of putting into the DNA information that leads to the organism being well-adapted? 
+mutation somehow incapable, in principle, of putting into the DNA information that leads to the organism being well-adapted? 
 
 Differences in the sequences in DNA (or RNA) genomes can lead to differences in phenotype.  And those differences in 
 phenotype can lead to differences in function, and thus differences in fitness.  The sequences with higher fitness will 
