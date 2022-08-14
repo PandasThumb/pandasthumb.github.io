@@ -87,5 +87,7 @@ Of course, as usual,
 at Uncommon Descent, the Meyer/Thaxton article is
 [__taken very seriously__](https://uncommondescent.com/intelligent-design/at-evolution-news-from-intelligent-cause-to-intelligent-design-my-debt-to-charles-thaxton/), and quoted at length, with no
 recognition that the origin of the information in
-the DNA might be a different issue from the origin of the first DNA molecule.  Is it too much 
-to ask whether they might someday distinguish between these two questions?  Apparently so.
+the DNA might be a different issue from the origin of the first DNA molecule.  The post is authored by "Caspian", who the
+site identifies as its regular poster, physicist Eric Hedin.  He ought to have a good grasp of
+information theory.  Is it too much 
+to ask whether the site might someday distinguish between these two questions?  Apparently so.
