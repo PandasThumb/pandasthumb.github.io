@@ -76,7 +76,7 @@ gene flow, and genetic drift.  Yet these processes can easily be shown to put fu
 genomes.
 
 That's what Stephen Meyer does in the Preface to Thaxton's book, the one quoted in his piece in Evolution News.  It's the 
-old switcheroo once again.  When Meyer raises the issue of how the information comes to be in the DNA, he does the
+old switcheroo once again.  When Meyer raises the issue of how the information comes to be in the DNA, he immediately does the
 old familiar change-of-topic.  If he does not mean to deliberately switch the topic, then he is giving a strong indication 
 that he simply does not understand what the functional information in DNA is.
 
