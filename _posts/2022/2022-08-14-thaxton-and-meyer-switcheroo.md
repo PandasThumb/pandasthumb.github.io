@@ -66,8 +66,8 @@ this can happen, no proof that improved adaptation is somehow impossible in prin
 
 Advocates of ID and creationists often avoid talking about how changes of DNA sequence by mutation and by changes of 
 gene frequency of the resulting DNA sequences increase the functional information in the DNA.  They usually immediately 
-change the subject to the Origin Of Life.  I like to call this change of topic OTOOL (Off To the Origin of Life), or
-STOOL (Switch To the Origin of Life).  It is moving to a much-less-well-understood topic, one where Design Intervention 
+change the subject to the Origin Of Life.  I like to call this change of topic OTOOL (Off To the Origin Of Life), or
+STOOL (Switch To the Origin Of Life).  It is moving to a much-less-well-understood topic, one where Design Intervention 
 can be invoked.  
 
 
