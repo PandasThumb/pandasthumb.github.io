@@ -1,11 +1,11 @@
 ---
 title: "ICR argues that science refutes junk DNA"
-date: 2022-09-01 12:00:00 -08:00
+date: 2022-08-31 18:00:00 -08:00
 author: Joe Felsenstein
 ---
 
 <figure><img src="/uploads/2022/ICRjunkdna.png" alt="[Screen shot of ICR junk DNA video]"/>
-  <div align="center"><figcaption>ICR junk DNA video (screenshot above, for video <a href="https://www.youtube.com/watch?v=I0dPntyyCpU">click here</a></figcaption></div>
+  <div align="center"><figcaption>ICR junk DNA video (screenshot above, for video <a href="https://www.youtube.com/watch?v=I0dPntyyCpU">click here</a></figcaption>)</div>
   </figure>
   
   <p></p>
@@ -26,7 +26,7 @@ Cardinale, who teaches at Rutgers University, critiques the ICR video in detail 
   <p></p>
   
   <figure><img src="/uploads/2022/DSCjunkdna.png" alt="[Screen shot of Daniel Stern Cardinale response to ICR junk DNA video]"/>
-  <div align="center"><figcaption>Daniel Stern Cardinale reply to ICR junk DNA video (screenshot above, for video <a href="https://www.youtube.com/watch?v=FOXrsaCpt-A">click here</a></figcaption></div>
+  <div align="center"><figcaption>Daniel Stern Cardinale reply to ICR junk DNA video (screenshot above, for video <a href="https://www.youtube.com/watch?v=FOXrsaCpt-A">click here</a>)</figcaption></div>
   </figure>
   
 Thoughts?
