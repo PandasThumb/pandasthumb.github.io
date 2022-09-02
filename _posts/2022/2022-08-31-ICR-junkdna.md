@@ -22,7 +22,7 @@ author: Joe Felsenstein
   <!--more-->
 <p></p>
 
-Cardinale, who teaches at Rutgers University, critiques the ICR video in detail in a YouTube video in his ["Creation Myths" YouTube channel](https://www.youtube.com/c/CreationMyths):
+Cardinale, who teaches at Rutgers University, critiques the ICR video in detail in a YouTube video in his ["Creation Myths" YouTube channel](https://www.youtube.com/c/CreationMyths).  (Take a look at the other videos, there is a lot of good stuff there).
   
   <p></p>
   
