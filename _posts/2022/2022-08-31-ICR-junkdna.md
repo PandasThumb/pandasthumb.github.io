@@ -17,11 +17,12 @@ author: Joe Felsenstein
   
   <p>
   <a href="https://www.blogger.com/comment.g?blogID=37148773&postID=5192215128092575421">It's been suggested</a> by a commenter at Sandwalk that we do a crowdsourced critique of this video here at Panda's Thumb.  Fortunately, a response has already been done
-  by Daniel Stern Cardinale. See below ... 
+  by Daniel Stern Cardinale. See below ... </p>
   
   <!--more-->
+<p></p>
 
-Cardinale, who teaches at Rutgers University, critiques the ICR video in detail in a YouTube video in his "Bad Creationist Genetics" series:
+Cardinale, who teaches at Rutgers University, critiques the ICR video in detail in a YouTube video in his ["Creation Myths" YouTube channel](https://www.youtube.com/c/CreationMyths):
   
   <p></p>
   
