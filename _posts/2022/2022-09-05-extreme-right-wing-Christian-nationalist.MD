@@ -9,7 +9,7 @@ On September 4, Ken Ham blogged on speakers/preachers at his upcoming “<a href
 
 Tony Perkins merits not only a <a href="https://en.wikipedia.org/wiki/Tony_Perkins_(politician)">Wikipedia page</a> but also an <a href="http://americanloons.blogspot.com/2012/04/316-tony-perkins.html">entry in The Encyclopedia of American Loons</a>.
 
-Ham claims he and his ministry, Answers in Genesis, are against racism, in spite of receiving an <a href="https://pandasthumb.org/archives/2014/05/dinosaur-fossil.html"><i>Allosaurus</i> skeleton valued at $1 million from neo-confederate and former League of the South Board member Michael Peroutka</a> in 2013 that is on display at the Creation Museum. Perkins makes Peroutka look moderate.
+Ham claims he and his ministry, Answers in Genesis, are against racism, in spite of receiving an <a href="https://pandasthumb.org/archives/2014/05/dinosaur-fossil.html"><i>Allosaurus</i> skeleton valued at $1 million from neo-Confederate and former League of the South Board member Michael Peroutka</a> in 2013 that is on display at the Creation Museum. Perkins makes Peroutka look moderate.
 
 Besides the usual extreme right-wing policies promoted by Perkins, such as attacks on LGBTQ people and their right to marry, he has some astounding racist ties. According to Wikipedia, he has disquieting associations and also paid Klansman David Duke $82,500 for his mailing list while managing a US Senate campaign. See this part of the Wikipedia page:
 
