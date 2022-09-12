@@ -30,7 +30,7 @@ Evolution is simply slowing down this overall increase, not reversing it.</p>
 <p>
 This would seem to be an elementary example.  But at the ID-advocacy website
 Uncommon Descent, their regular post author Dr. Eric Hedin gets examples like
-this wrong.  In a recent post [_Natural sources of information?_](https://uncommondescent.com/intelligent-design/natural-sources-of-information/) He quotes his own book "Canceled Science":</p>
+this wrong.  In a recent post <a href="https://uncommondescent.com/intelligent-design/natural-sources-of-information/"><em>Natural sources of information?</em></a> He quotes his own book "Canceled Science":</p>
 
 > In systems which are far from thermodynamic equilibrium, differences or gradients in various thermodynamic variables may exist within the system and between the system and the environment. It has sometimes been mistakenly assumed that these gradients could generate the information found in living systems.[i] However, while thermodynamic gradients may produce complexity, they do not generate information.
 
