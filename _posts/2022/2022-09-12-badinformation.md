@@ -5,7 +5,7 @@ author: Joe Felsenstein
 ---
 
 <figure><img src="/uploads/2022/Dandelions.jpg" alt="Dandelions image"/>
-  <figcaption><div align="center">Dandelions at Nerstrand Big Woods State Park, Minnesota</br> (c) 2018 Tony Webster, from Wikimedia</div></figcaption></figure>
+  <figcaption><div align="center">Dandelions at Nerstrand Big Woods State Park, Minnesota (c) 2018 Tony Webster, from Wikimedia</div></figcaption></figure>
 
 <P></P>
 
