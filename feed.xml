@@ -1,4 +1,91 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://pandasthumb.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pandasthumb.org/" rel="alternate" type="text/html" /><updated>2022-09-12T13:29:42-07:00</updated><id>https://pandasthumb.org/feed.xml</id><title type="html">The Panda’s Thumb</title><entry><title type="html">Lovell telescope</title><link href="https://pandasthumb.org/archives/2022/09/lovell-telescope.html" rel="alternate" type="text/html" title="Lovell telescope" /><published>2022-09-12T11:00:00-07:00</published><updated>2022-09-12T11:00:00-07:00</updated><id>https://pandasthumb.org/archives/2022/09/lovell-telescope</id><content type="html" xml:base="https://pandasthumb.org/archives/2022/09/lovell-telescope.html">&lt;p&gt;Photograph by &lt;strong&gt;Marilyn Susek&lt;/strong&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://pandasthumb.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pandasthumb.org/" rel="alternate" type="text/html" /><updated>2022-09-12T13:30:32-07:00</updated><id>https://pandasthumb.org/feed.xml</id><title type="html">The Panda’s Thumb</title><entry><title type="html">A wrong analysis of information in evolution</title><link href="https://pandasthumb.org/archives/2022/09/badinformation.html" rel="alternate" type="text/html" title="A wrong analysis of information in evolution" /><published>2022-09-12T13:00:00-07:00</published><updated>2022-09-12T13:00:00-07:00</updated><id>https://pandasthumb.org/archives/2022/09/badinformation</id><content type="html" xml:base="https://pandasthumb.org/archives/2022/09/badinformation.html">&lt;figure&gt;&lt;img src=&quot;/uploads/2022/Dandelions.jpg&quot; alt=&quot;Dandelions image&quot; /&gt;
+&lt;figcaption&gt;Dandelions at Nerstrand Big Woods State Park, Minnesota (c) 2018 Tony Webster, from Wikimedia&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;
+As a simple example of how natural selection can put functional information
+into a population of organisms, I like to point to dandelions growing in
+my yard.  They take energy from the sun and grow.  If there are two different
+genotypes, one of which processes that solar energy more efficiently, the
+frequency of that genotype will increase as it grows more than the other one,
+competes better, and produces more seeds.&lt;/p&gt;
+
+&lt;p&gt;
+When we consider a scale of fitness, or a scale of energy-processing efficiency,
+this process of natural selection shifts the distribution of genotypes so
+that more and more of the dandelions have higher efficiency of energy
+processing.  It does not take much calculating to see that the population 
+then has increased functional information.  The information does not come mysteriously
+from nowhere: energy is flowing from the sun into the plants, and ultimately 
+heat is lost to the environment. All of which is a net increase in entropy. 
+Evolution is simply slowing down this overall increase, not reversing it.&lt;/p&gt;
+
+&lt;p&gt;
+This would seem to be an elementary example.  But at the ID-advocacy website
+Uncommon Descent, their regular post author Dr. Eric Hedin gets examples like
+this wrong.  In a recent post [_Natural sources of information?_](https://uncommondescent.com/intelligent-design/natural-sources-of-information/) He quotes his own book &quot;Canceled Science&quot;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In systems which are far from thermodynamic equilibrium, differences or gradients in various thermodynamic variables may exist within the system and between the system and the environment. It has sometimes been mistakenly assumed that these gradients could generate the information found in living systems.[i] However, while thermodynamic gradients may produce complexity, they do not generate information.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;
+This is particularly surprising since Dr. Hedin is trained as an experimental
+plasma physicist, actually at my own university.  He obviously got a solid grounding in thermodynamics and information theory.  But somehow he has failed to
+apply that correctly to evolving organisms.  Let's look more closely at
+his discussion ...&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;
+In the excerpt he quoted, Eric Hedin gives examples of natural processes 
+that tend to degrade information.  For example:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Our sun is a low-entropy source of thermal energy that the Earth receives via electromagnetic radiation. This thermal energy is useful energy in the thermodynamic sense because it can be used to do work. The same is true of energy released by gravitational potential energy being converted into kinetic energy or heat. Waterfalls and solar collectors can produce energy for useful work, but they are sterile with respect to generating information.
+In fact, sources of natural energy (sunlight, fire, earthquakes, hurricanes, etc.) universally destroy complex specified information, and never create it. What will happen to a painting if left outside in the elements? What happens to a note tossed into a mulch pile? They degrade by the actions of nature, until all traces of information disappear. Or consider an unfortunate opossum killed on a country road. Will its internal, complex biochemistry increase or decrease with time due to the effects of natural forces? We all know the answer. If not eaten by scavengers, it eventually turns to a pile of dirt.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;
+These examples are fine, but they do not consider what happens when there are biological organisms 
+present, such as my dandelions.  They can take sunlight, air and water, and make more dandelions,
+which would seem to contradict the generalization that Dr. Hedin just made.&lt;/p&gt;
+
+&lt;p&gt;
+He would probably answer that I have skipped over a part of his post where he addressed the 
+case where there is a &quot;design template&quot;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Decreasing thermodynamic entropy can only be leveraged into information if a design template and the mechanism to employ it already exist. In this case, the desired information is not being created by the action of the low-entropy energy source; it is merely being transferred from the template to an output product.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;
+For an individual clone of dandelions, he would be asserting that when the number of dandelions of 
+that genotype increases, that this is no gain of information.  But if the information is &quot;transferred&quot; 
+to the offspring, this can happen multiple times, if the parent produces lots of seeds. Which is an 
+odd way of bookkeeping the amount of information.&lt;/p&gt;
+
+&lt;p&gt;
+Things get even worse for his argument when we consider the information that gets put into the genome 
+when natural selection favors one genotype over the other.  That is the case I started with.  Choosing 
+one genotype out of a mixture, as the predominant genotype on my lawn is a fundamental operation in 
+information theory.  And if that genotype is the better one on a scale of specification or function, 
+that is an increase of functional information in the population of genotypes.&lt;/p&gt;
+
+&lt;p&gt;
+Is that information coming from a &quot;template&quot;?  No.  Each genotype might (or might not) be considered
+as one of Hedin's templates.  But where is the super-template that says which clone of dandelions will
+ultimately predominate?&lt;/p&gt;
+
+&lt;p&gt;
+Someone might point to William Dembski and Robert Marks's concept of &quot;active information&quot;, which 
+seems to describe information existing in the fitness landscape, the table of fitnesses of all possible 
+genotypes.  But that concept, whether sensible or not, is bookkeeping information that is transferred 
+by natural processes, such as mutation and natural selection, into the population of genotypes.  It 
+therefore already violates Hedin's generalization, so it cannot be used to rescue it.  Hedin's 
+sweeping statements are are contradicted by the natural processes of reproduction, and the process 
+of natural selection which flows from them.&lt;/p&gt;</content><author><name>Joe Felsenstein</name></author><summary type="html">Dandelions at Nerstrand Big Woods State Park, Minnesota (c) 2018 Tony Webster, from Wikimedia As a simple example of how natural selection can put functional information into a population of organisms, I like to point to dandelions growing in my yard. They take energy from the sun and grow. If there are two different genotypes, one of which processes that solar energy more efficiently, the frequency of that genotype will increase as it grows more than the other one, competes better, and produces more seeds. When we consider a scale of fitness, or a scale of energy-processing efficiency, this process of natural selection shifts the distribution of genotypes so that more and more of the dandelions have higher efficiency of energy processing. It does not take much calculating to see that the population then has increased functional information. The information does not come mysteriously from nowhere: energy is flowing from the sun into the plants, and ultimately heat is lost to the environment. All of which is a net increase in entropy. Evolution is simply slowing down this overall increase, not reversing it. This would seem to be an elementary example. But at the ID-advocacy website Uncommon Descent, their regular post author Dr. Eric Hedin gets examples like this wrong. In a recent post [_Natural sources of information?_](https://uncommondescent.com/intelligent-design/natural-sources-of-information/) He quotes his own book &quot;Canceled Science&quot;: In systems which are far from thermodynamic equilibrium, differences or gradients in various thermodynamic variables may exist within the system and between the system and the environment. It has sometimes been mistakenly assumed that these gradients could generate the information found in living systems.[i] However, while thermodynamic gradients may produce complexity, they do not generate information. This is particularly surprising since Dr. Hedin is trained as an experimental plasma physicist, actually at my own university. He obviously got a solid grounding in thermodynamics and information theory. But somehow he has failed to apply that correctly to evolving organisms. Let's look more closely at his discussion ...</summary></entry><entry><title type="html">Lovell telescope</title><link href="https://pandasthumb.org/archives/2022/09/lovell-telescope.html" rel="alternate" type="text/html" title="Lovell telescope" /><published>2022-09-12T11:00:00-07:00</published><updated>2022-09-12T11:00:00-07:00</updated><id>https://pandasthumb.org/archives/2022/09/lovell-telescope</id><content type="html" xml:base="https://pandasthumb.org/archives/2022/09/lovell-telescope.html">&lt;p&gt;Photograph by &lt;strong&gt;Marilyn Susek&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Photography Contest, &lt;strong&gt;Honorable Mention&lt;/strong&gt;.&lt;/p&gt;
 
@@ -165,21 +252,4 @@ to ask whether the site might someday distinguish between these two questions?  
 
 &lt;p&gt;I have not finished watching the video yet, but one thing that caught my attention was this: Mr. Chaffey is at pains to demonstrate that the Ark was big enough to hold all the “kinds” necessary. Apart from his risible contention that sea creatures needed no saving from a flood that could carve the Grand Canyon, Mr. Chaffey seems to think that the Ark had enough space to house the necessary land creatures. In rebuttal, Prof. Myers cleverly looked up the land areas and numbers of species of several zoos, not to mention the number of employees. Suffice to say that the zoos occupied more area than the Ark and had more employees than Noah and his family. (Yes, I know, the zoos need room for visitors. Fine, cut the area and the number of employees by 5 and compare that to the Ark.)&lt;/p&gt;
 
-&lt;p&gt;I will watch the rest of the video later on, but please feel free to comment, and do not worry about spoilers.&lt;/p&gt;</content><author><name>Matt Young</name></author><summary type="html">I am right now watching an unnamed video in which PZ Myers and Dan Phelps dissect a creationist video by Answers in Genesis functionary Tim Chaffey. The format is essentially that Prof. Myers plays a bit of the Chaffey video, then pauses and – I was going to say they dissect it, but demolish may be the better word. The original video is rather odd: it appears to have been speeded up, and all the pauses have been eliminated. It is as if they want to get through their arguments so fast that you cannot understand or refute them. (See also: Gish gallop.) I have not finished watching the video yet, but one thing that caught my attention was this: Mr. Chaffey is at pains to demonstrate that the Ark was big enough to hold all the “kinds” necessary. Apart from his risible contention that sea creatures needed no saving from a flood that could carve the Grand Canyon, Mr. Chaffey seems to think that the Ark had enough space to house the necessary land creatures. In rebuttal, Prof. Myers cleverly looked up the land areas and numbers of species of several zoos, not to mention the number of employees. Suffice to say that the zoos occupied more area than the Ark and had more employees than Noah and his family. (Yes, I know, the zoos need room for visitors. Fine, cut the area and the number of employees by 5 and compare that to the Ark.) I will watch the rest of the video later on, but please feel free to comment, and do not worry about spoilers.</summary></entry><entry><title type="html">Ark Park displays giant palm frond</title><link href="https://pandasthumb.org/archives/2022/08/giant-palm-frond.html" rel="alternate" type="text/html" title="Ark Park displays giant palm frond" /><published>2022-08-13T12:35:00-07:00</published><updated>2022-08-13T12:35:00-07:00</updated><id>https://pandasthumb.org/archives/2022/08/giant-palm-frond</id><content type="html" xml:base="https://pandasthumb.org/archives/2022/08/giant-palm-frond.html">&lt;p&gt;I was forwarded a press release from Answers in Genesis the other day. They tout a new addition to their collection, a giant palm frond:&lt;/p&gt;
-
-&lt;figure class=&quot;on-the-left-side&quot; style=&quot;margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;&quot;&gt;
-&lt;img src=&quot;/uploads/2022/Giant_Palm_Frond_600.jpg&quot; alt=&quot;Palm frond&quot; /&gt;
-&lt;figcaption&gt;Giant palm frond on display at Ark Park. &lt;small&gt; Credit: AIG press release.&lt;/small&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;blockquote&gt;&lt;p&gt;&quot;Meanwhile, the Ark Encounter continues to make major additions. On the third deck of the massive ship [sic], a large exhibit highlighting a giant plant fossil is now on display. This unique 10’7” palm frond fossil was discovered in the well-known Green River Formation of Wyoming. &lt;/p&gt;  
- 
-&lt;p&gt;&quot;Dr. Andrew Snelling, head of the research department at AiG, declared: 'It is a phenomenal, world-class fossil. It is not millions of years old. The palm frond was buried catastrophically as a result of the global flood of Noah’s day about 4,500 years ago.' A family in Wisconsin made the fossil’s donation possible.&quot; &lt;/p&gt; &lt;/blockquote&gt;
-
-&lt;p&gt;The palm frond, we note, is in very good condition for something that was buried catastrophically.&lt;/p&gt;
-
-&lt;p&gt;Fortunately, Green River Shale fossils are actually common and well-studied, so this display isn’t hurting scientific research as badly as the &lt;a href=&quot;https://pandasthumb.org/archives/2015/06/will-aig-return.html&quot;&gt;&lt;i&gt;Allosaurus&lt;/i&gt; specimen they received from the neo-Confederate Michael Peroutka&lt;/a&gt;.  Magnificent specimens like these are very expensive. This one was probably prepared by the &lt;a href=&quot;https://www.greenriverstone.com/&quot;&gt;Green River Stone Company&lt;/a&gt;, a commercial excavator and preparation company that is concerned exclusively with making sales (one of many problems with the commercial fossil market; sales do not necessarily benefit scientific research).  Ham’s Wisconsin donors must have deep pockets. I hope the donors and the costs are revealed on a future AiG or Crosswater Canyon IRS Form 990. I will be looking.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;i&gt;Matt Young will be the principal moderator of this thread. &lt;/i&gt;&lt;/p&gt;</content><author><name>Dan Phelps</name></author><summary type="html">I was forwarded a press release from Answers in Genesis the other day. They tout a new addition to their collection, a giant palm frond: Giant palm frond on display at Ark Park. Credit: AIG press release. &quot;Meanwhile, the Ark Encounter continues to make major additions. On the third deck of the massive ship [sic], a large exhibit highlighting a giant plant fossil is now on display. This unique 10’7” palm frond fossil was discovered in the well-known Green River Formation of Wyoming. &quot;Dr. Andrew Snelling, head of the research department at AiG, declared: 'It is a phenomenal, world-class fossil. It is not millions of years old. The palm frond was buried catastrophically as a result of the global flood of Noah’s day about 4,500 years ago.' A family in Wisconsin made the fossil’s donation possible.&quot; The palm frond, we note, is in very good condition for something that was buried catastrophically. Fortunately, Green River Shale fossils are actually common and well-studied, so this display isn’t hurting scientific research as badly as the Allosaurus specimen they received from the neo-Confederate Michael Peroutka. Magnificent specimens like these are very expensive. This one was probably prepared by the Green River Stone Company, a commercial excavator and preparation company that is concerned exclusively with making sales (one of many problems with the commercial fossil market; sales do not necessarily benefit scientific research). Ham’s Wisconsin donors must have deep pockets. I hope the donors and the costs are revealed on a future AiG or Crosswater Canyon IRS Form 990. I will be looking. Matt Young will be the principal moderator of this thread.</summary></entry></feed>
+&lt;p&gt;I will watch the rest of the video later on, but please feel free to comment, and do not worry about spoilers.&lt;/p&gt;</content><author><name>Matt Young</name></author><summary type="html">I am right now watching an unnamed video in which PZ Myers and Dan Phelps dissect a creationist video by Answers in Genesis functionary Tim Chaffey. The format is essentially that Prof. Myers plays a bit of the Chaffey video, then pauses and – I was going to say they dissect it, but demolish may be the better word. The original video is rather odd: it appears to have been speeded up, and all the pauses have been eliminated. It is as if they want to get through their arguments so fast that you cannot understand or refute them. (See also: Gish gallop.) I have not finished watching the video yet, but one thing that caught my attention was this: Mr. Chaffey is at pains to demonstrate that the Ark was big enough to hold all the “kinds” necessary. Apart from his risible contention that sea creatures needed no saving from a flood that could carve the Grand Canyon, Mr. Chaffey seems to think that the Ark had enough space to house the necessary land creatures. In rebuttal, Prof. Myers cleverly looked up the land areas and numbers of species of several zoos, not to mention the number of employees. Suffice to say that the zoos occupied more area than the Ark and had more employees than Noah and his family. (Yes, I know, the zoos need room for visitors. Fine, cut the area and the number of employees by 5 and compare that to the Ark.) I will watch the rest of the video later on, but please feel free to comment, and do not worry about spoilers.</summary></entry></feed>
