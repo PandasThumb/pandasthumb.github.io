@@ -84,6 +84,6 @@ seems to describe information existing in the fitness landscape, the table of fi
 genotypes.  But that concept, whether sensible or not, is bookkeeping information that is transferred 
 by natural processes, such as mutation and natural selection, into the population of genotypes.  It 
 therefore already violates Hedin's generalization, so it cannot be used to rescue it.  Hedin's 
-sweeping statements are are contradicted by the natural processes of reproduction, and the process 
+sweeping statements are contradicted by the natural processes of reproduction, and the process 
 of natural selection which flows from them.</p>
 
