@@ -69,7 +69,7 @@ odd way of bookkeeping the amount of information.</p>
 <p>
 Things get even worse for his argument when we consider the information that gets put into the genome 
 when natural selection favors one genotype over the other.  That is the case I started with.  Choosing 
-one genotype out of a mixture, as the predominant genotype on my lawn is a fundamental operation in 
+one genotype out of a mixture, as the predominant genotype on my lawn, is a fundamental operation in 
 information theory.  And if that genotype is the better one on a scale of specification or function, 
 that is an increase of functional information in the population of genotypes.</p>
 
