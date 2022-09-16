@@ -6,7 +6,7 @@ author: Dan Phelps
 
 <figure>
 <img src="/uploads/2022/Phelps_Yec_Astronomers_JWST_600.jpg" alt="Screenshot"/>
-<figcaption>Screenshot of an inane cartoon that the author considers insulting to scientists in particular and intelligent people in general. <small>Fair use.</small>
+<figcaption>Screenshot of an inane cartoon that the author considers insulting to scientists in particular and intelligent people in general. Note how it conflates cosmology or cosmogony with evolution.<small>Fair use.</small>
 </figcaption>
 </figure>
 
