@@ -24,5 +24,5 @@ But it is this secular science that lies behind our models of the climatic effec
 
 For all these reasons, I regard creationist climate science as a much more pressing threat than the usual annoying creationist nonsense. How should we respond? 
 <p></p>
-<figure><img src="/uploads/2022/milankovitch.png" alt="Milankovitch cycles and climate"/><figcaption>Milankovitch cycles and their effects on climate, showing positive feedback</figcaption></figure>
+<figure><img src="/uploads/2022/milankovitch.jpg" alt="Milankovitch cycles and climate"/><figcaption>420,000 years of ice core data from Vostok, Antarctica, research station. Current period is at left. From bottom to top: insolation at 65°N due to Milankovitch cycles (connected to 18O); 18O isotope of oxygen; levels of methane (CH4); relative temperature; levels of carbon dioxide (CO2). From Wikimedia Commons, public domain</figcaption></figure>
  
