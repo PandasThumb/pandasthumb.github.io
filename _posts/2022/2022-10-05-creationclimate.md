@@ -6,12 +6,12 @@ author: Paul Braterman
 
 
 <figure><img src="/uploads/2022/iceage.png" alt="Creationist timeline"/>
-<figcaption>A young-earth creationist timeline from AnswerInGenesis.  Where is
+<figcaption>A young-earth creationist timeline <a href="https://answersingenesis.org/bible-timeline/how-does-mans-history-fit-with-the-biblical-timeline/">from AnswerInGenesis in 2006</a>.  Where is
 the Ice Age?  Copyright 2022, Answers In Genesis. Used here under Fair Use.</figcaption>
   </figure>
 
 
-We are all too familiar with creationist life science (theory of kinds) and creationist Earth science (Flood geology). As I explain in an article at3 Quarks Daily, <a href="https://3quarksdaily.com/3quarksdaily/2022/10/creationism-in-the-service-of-climate-change-denial.html">here</a>, recent decades have seen the emergence of a creationist climate science, which is a direct attack on the “secular” climate science of climate change. Creationist climate science rejects, as it must, the palaeoclimatology that helped establish the existence of positive climate feedbacks, and from this draws the inference that our present concern about human effects on climate is unbiblical, unscientific, and exaggerated. This fits in directly with the agendas of the organisations opposing fossil fuel restraint, and even involves some of the same people. We need to pay attention.
+We are all too familiar with creationist life science (theory of kinds) and creationist Earth science (Flood geology). As I explain in <a href="https://3quarksdaily.com/3quarksdaily/2022/10/creationism-in-the-service-of-climate-change-denial.html">an article at3 Quarks Daily</a>, recent decades have seen the emergence of a creationist climate science, which is a direct attack on the “secular” climate science of climate change. Creationist climate science rejects, as it must, the palaeoclimatology that helped establish the existence of positive climate feedbacks, and from this draws the inference that our present concern about human effects on climate is unbiblical, unscientific, and exaggerated. This fits in directly with the agendas of the organisations opposing fossil fuel restraint, and even involves some of the same people. We need to pay attention.
 <p></p>
 
 <!--more-->
@@ -23,3 +23,6 @@ But it is this secular science that lies behind our models of the climatic effec
 <p></p>
 
 For all these reasons, I regard creationist climate science as a much more pressing threat than the usual annoying creationist nonsense. How should we respond? 
+<p></p>
+<figure><img src="/uploads/2022/milankovitch.png" alt="Milankovitch cycles and climate"/><figcaption>Milankovitch cycles and their effects on climate, showing positive feedback</figcaption></figure>
+ 
