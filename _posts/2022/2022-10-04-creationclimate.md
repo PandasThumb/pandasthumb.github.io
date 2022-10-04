@@ -1,6 +1,6 @@
 ---
 title: Creationism and climate - birth of a new pseudoscience
-date: 2022-10-05 12:00:00 -08:00
+date: 2022-10-04 11:00:00 -08:00
 author: Paul Braterman
 ---
 
