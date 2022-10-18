@@ -45,4 +45,4 @@ take on why this supported Intelligent Design:
 
 > Either jellyfish are smarter than we think or there is design in nature. 
 
-So there we have two fascinating takes on why an excellent adaptation strongly indicates Design Intervention: because natural selection could not do something that works better than what human engineers can so, or because jellyfish are too dumb to know how to design themselves.
+So there we have two fascinating takes on why an excellent adaptation strongly indicates Design Intervention: because natural selection could not do something that works better than what human engineers can design, or because jellyfish are too dumb to know how to design themselves.
