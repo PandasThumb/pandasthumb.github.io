@@ -5,7 +5,7 @@ author: Joe Felsenstein
 ---
 
 <figure><img src="/uploads/2022/Aurelia_aurita.jpeg" alt="Moon Jellyfish"/>
-<figcaption>The Moon Jellyfish, Aurelia aurita</em>.  From Wikimedia Commons.<figcaption>
+<figcaption><div align="center">The Moon Jellyfish, Aurelia aurita</em>.  From Wikimedia Commons.</div><figcaption>
 </figure>
 
 <p>&nbsp;<//p>
