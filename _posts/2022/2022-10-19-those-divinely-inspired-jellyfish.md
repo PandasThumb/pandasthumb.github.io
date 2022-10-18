@@ -37,7 +37,7 @@ more specific:
 
 Dr. Hedin does not add anything to this, but quotes Coppege's report extensively and approvingly.
 
-We'e seen an Argument From Jellyfish and [commented on it here before](https://pandasthumb.org/archives/2021/02/Are-jellyfish-so-dumb.html).  That one was from Uncommon Descent in 
+We'e seen an Argument From Jellyfish and [commented on it here before](https://pandasthumb.org/archives/2021/02/Are-jellyfish-so-dumb.html).  That post reported on one from Uncommon Descent in 
 2021, by Dr. Hedin's colleague Denyse O'Leary, the previous most frequent poster
 at that site.  She cited a more recent report of how jellyfish conserve energy while 
 swimming.  She had a somewhat different
@@ -45,4 +45,4 @@ take on why this supported Intelligent Design:
 
 > Either jellyfish are smarter than we think or there is design in nature. 
 
-So there we have two fascinating takes on why an excellent adaptation strongly indicates Design Intervention: because natural selection could not do somehing that works better than what human engineers can so, or because jellyfish are too dumb to know how to design themselves.
+So there we have two fascinating takes on why an excellent adaptation strongly indicates Design Intervention: because natural selection could not do something that works better than what human engineers can so, or because jellyfish are too dumb to know how to design themselves.
