@@ -4,7 +4,7 @@ date: 2022-10-19 12:00:00 -08:00
 author: Joe Felsenstein
 ---
 
-<figure><img src="/uploads/2022/Aurelia_aurita.jpg" alt="Moon Jellyfish"/>
+<figure><img src="/uploads/2022/Aurelia_aurita.jpeg" alt="Moon Jellyfish"/>
 <figcaption>The Moon Jellyfish, Aurelia aurita</em>.  From Wikimedia Commons.<figcaption>
 </figure>
 
