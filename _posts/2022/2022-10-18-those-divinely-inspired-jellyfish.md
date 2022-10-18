@@ -1,6 +1,6 @@
 ---
 title: "How jellyfish prove Intelligent Design (according to ID advocates)"
-date: 2022-10-19 12:00:00 -08:00
+date: 2022-10-18 12:00:00 -08:00
 author: Joe Felsenstein
 ---
 
