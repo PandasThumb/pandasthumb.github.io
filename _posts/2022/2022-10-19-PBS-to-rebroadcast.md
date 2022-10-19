@@ -18,7 +18,7 @@ This is wonderful news. The documentary deserved more local and national coverag
 
 Here is an edited version of the message:
 
-<--!more-->
+<!--more-->
 
 <blockquote><p>I am reaching out to you today to let you know that we are bringing back your film, <i>We Believe in Dinosaurs</i>, on the Public Television Broadcast & the PBS Video Application. The scheduled TV air date & the Streaming window are as follows.</p> 
   <p>·  TV Air Date: 10/9C, 12/19/2022</p>
