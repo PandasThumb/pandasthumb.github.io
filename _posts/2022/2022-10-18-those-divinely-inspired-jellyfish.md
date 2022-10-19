@@ -13,7 +13,7 @@ author: Joe Felsenstein
 On October 6, The Discovery Institute's ID site "Evolution News and Science Today:" reprised
 [(here)](https://evolutionnews.org/2022/10/secrets-that-give-sea-lions-and-jellyfish-their-edge-as-swimmers/)
 a 2015 post by David Coppege.  A few days later, at the site Uncommon Descent, their regular
-poster "caspian", who they identify as physicist Dr. Eric Hedin, noted that post and quoted
+poster "caspian", whom they identify as physicist Dr. Eric Hedin, noted that post and quoted
 much of its content.
 
 The 2015 post was based on two interesting reports in The Conversation.  One, by Megan Leftwich of George Washington University, 
