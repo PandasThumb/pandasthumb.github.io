@@ -5,10 +5,10 @@ author: Joe Felsenstein
 ---
 
 <figure><img src="/uploads/2022/Aurelia_aurita.jpeg" alt="Moon Jellyfish"/>
-<figcaption><div align="center">The Moon Jellyfish, Aurelia aurita</em>.<br> From Wikimedia Commons.</div><figcaption>
+<figcaption><div align="center">The Moon Jellyfish, Aurelia aurita</em>.<br> From Wikimedia Commons.</div></figcaption>
 </figure>
 
-<p>&nbsp;<//p>
+<p>&nbsp;</p>
 
 On October 6, The Discovery Institute's ID site "Evolution News and Science Today:" reprised
 [(here)](https://evolutionnews.org/2022/10/secrets-that-give-sea-lions-and-jellyfish-their-edge-as-swimmers/)
