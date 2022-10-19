@@ -37,7 +37,7 @@ more specific:
 
 Dr. Hedin does not add anything to this, but quotes Coppege's report extensively and approvingly.
 
-We'e seen an Argument From Jellyfish and [commented on it here before](https://pandasthumb.org/archives/2021/02/Are-jellyfish-so-dumb.html).  That post reported on one from Uncommon Descent in 
+We've seen an Argument From Jellyfish and [commented on it here before](https://pandasthumb.org/archives/2021/02/Are-jellyfish-so-dumb.html).  That post reported on one from Uncommon Descent in 
 2021, by Dr. Hedin's colleague Denyse O'Leary, the previous most frequent poster
 at that site.  She cited a more recent report of how jellyfish conserve energy while 
 swimming.  She had a somewhat different
