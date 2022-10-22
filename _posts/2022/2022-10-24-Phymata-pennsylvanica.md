@@ -4,9 +4,9 @@ date: '2022-10-24 12:00:00 -06:00'
 author: Matt Young
 ---
 
-Photograph by **Mark Sturtevant**
+Photograph by **Mark Sturtevant**.
 
-Photography contest, **Honorable Mention**
+Photography contest, **Honorable Mention**.
 
 <figure>
 <img src="/uploads/2022/Sturtevant.1.Ambush_Bugs.JPG" alt="Ambush bug"/>
