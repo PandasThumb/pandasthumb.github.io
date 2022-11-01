@@ -4,7 +4,7 @@ date: 2022-11-01 12:00:00 -08:00
 author: Joe Felsenstein
 ---
 
-<figure><img src="/uploads/2022/chickenspace.png" Alt="Stock science images"/><figcaption><div align="center">Left: "Talk to us, Dr. Chicken!" Right: Showing us where outer space is.</div></figcaption>
+<div align="center"><figure><img src="/uploads/2022/chickenspace.png" Alt="Stock science images"/><figcaption>Left: "Talk to us, Dr. Chicken!" &nbsp;&nbsp;Right: Showing us where outer space is.</figcaption></div>
   </figure>
   
 <p>&nbsp;</p>
