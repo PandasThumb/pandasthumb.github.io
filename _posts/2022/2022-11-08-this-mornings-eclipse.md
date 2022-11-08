@@ -6,6 +6,6 @@ author: Matt Young
 
 <figure>
 <img src="/uploads/2022/DSC05373_Lunar_Eclipse_600.jpg" alt="Eclipse photo"/>
-<a href="https://www.timeanddate.com/eclipse/map/2022-november-8">This morning's eclipse of the moon</a> as seen from Boulder, Colorado, at approximately 4 a.m., near maximum.
+<figcaption><a href="https://www.timeanddate.com/eclipse/map/2022-november-8">This morning's eclipse of the moon</a> as seen from Boulder, Colorado, at approximately 4 a.m., near maximum.
 </figcaption>
 </figure>
