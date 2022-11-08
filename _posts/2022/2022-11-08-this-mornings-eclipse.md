@@ -1,5 +1,5 @@
 ---
-title: 'This morning's eclipse of the moon'
+title: 'This morning&apos;s eclipse of the moon'
 date: '2022-11-08 10:25:00 -07:00'
 author: Matt Young
 ---
