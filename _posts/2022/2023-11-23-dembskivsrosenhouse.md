@@ -1,6 +1,6 @@
 ---
 title: "Dembski versus Rosenhouse on using specified complexity"
-date: 2023-11-15 12:00:00 -08:00
+date: 2023-11-23 12:00:00 -08:00
 author: Joe Felsenstein
 ---
 
