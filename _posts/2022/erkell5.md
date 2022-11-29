@@ -1,0 +1,17 @@
+---
+title: Breakthrough for Intelligent Design? (Part 5)
+date: 2022-12-07 12:00:00 -08:00
+author: Lars Johan Erkell (with comment by Ola Hössjer)
+---
+
+<div align="center"><figure><img src="/uploads/2022/Biologg_Banner_900.jpg" alt="Biolog(g) banner"/>
+<figcaption>The text is a pun in Swedish: "Logg" means something like a ship´s log or a logbook.<br> A blog is "blogg". 
+ So "Biolog(g)" is a biologist´s log or blog.</figcaption>
+</figure></div></figure>
+
+<p>&nbsp;</p>
+
+_This is part 4 of a series of 7 posts by Lars Johan Erkell, with comments on each by Ola Hössjer and a reply by Erkell.  Part 1 will be found [here](https://github.com/PandasThumb/pandasthumb.github.io/edit/source/_posts/2022/2022-11-09-erkell1.md).  They are translations of [2020 posts in Swedish](https://biologg.wordpress.com/2020/11/13/genombrott-for-intelligent-design-del-3/) from the Biolog(g) blog of the Department of Biology of Gothenburg University._
+
+<p>&nbsp;</p><p>&nbsp;</p>
+
