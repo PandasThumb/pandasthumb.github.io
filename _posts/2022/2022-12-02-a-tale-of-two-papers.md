@@ -8,7 +8,7 @@ author: Gerdien De Jong
 
 
 
-#A tale of two papers# 
+*A tale of two papers*
 
 
 In 2021, dr Matthew / Matyas Cserhati published two parallel articles on the affinities of the red panda *Ailurus fulgens*, one in BMC Genomics and one in Creation Research Society Quarterly. The two articles are mostly based on the same data and have similar and sometimes identical content. 
