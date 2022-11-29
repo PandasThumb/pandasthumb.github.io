@@ -8,7 +8,7 @@ author: Gerdien De Jong
 
 
 
-*A tale of two papers*
+# A tale of two papers #
 
 
 In 2021, dr Matthew / Matyas Cserhati published two parallel articles on the affinities of the red panda *Ailurus fulgens*, one in BMC Genomics and one in Creation Research Society Quarterly. The two articles are mostly based on the same data and have similar and sometimes identical content. 
@@ -50,6 +50,8 @@ As in all baraminological literature, statistical clustering to different cluste
 
 ## Strategy ## 
 
-A Dutch creationist website that recommends Cserhati’s work on the red panda wrote: “Cserhati’s work can stand as a model for how to do creation research. First, find funding for a detailed study within the creation paradigm (here, Creation Research Society Grant #62). Second, publish the results in a standard naturalistic science journal. Then, provide a more detailed study in a creation science journal.” That is, play the system, aiming for respectability for creationist writing. 
+A Dutch creationist website that recommends Cserhati’s work on the red panda wrote:
+>Cserhati’s work can stand as a model for how to do creation research. First, find funding for a detailed study within the creation paradigm (here, Creation Research Society Grant #62). Second, publish the results in a standard naturalistic science journal. Then, provide a more detailed study in a creation science journal.
+That is, play the system, aiming for respectability for creationist writing. 
 
 
