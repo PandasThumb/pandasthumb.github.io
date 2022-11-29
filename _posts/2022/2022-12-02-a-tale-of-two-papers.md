@@ -16,13 +16,13 @@ In 2021, dr Matthew / Matyas Cserhati published two parallel articles on the aff
 The BMC Genomics article has the title: “A tail of two pandas – whole genome k-mer signature analysis of the red panda (*Ailurus fulgens*) and the Giant panda (*Ailuropoda melanoleuca*)”. This paper concludes that on a whole genome level the red panda possibly belongs to the mustelid (marten) clade. The CRSQ article has the title: “Classification of the enigmatic red panda (*Ailurus fulgens*) based on molecular baraminology-based analysis”. This paper deems it likely that the red panda belongs to the mustelid holobaramin. 
 
 
-##The BMC Genomics paper## 
+## The BMC Genomics paper ## 
 
 Cserhati uses two types of data for the phylogenetic placement of the red panda: Whole Genome K-mer Signature (WGKS) and sequence analysis on mtDNA.  Cserhati establishes the frequency spectrum of all possible 8-mer base sequences over the whole genome of a species for 28 species. For each species pair a correlation coefficient over 8-mer frequencies can be computed, leading to a correlation matrix of genomic patterning over the species. 
 
 Cserhati uses the correlation matrix to find 4 clusters: the eleven cats, the five bears, the skunk, and a cluster containing the martens and the red panda. But then Cserhati writes: “Based on this evidence, (the red panda) would belong to (the marten family) as a monophyletic group.” 
 
-Here the article derails. The clustering can be regarded as evidence that the red panda and the marten family are monophyletic sister groups, but not that the red panda belongs to the marten family. The red panda has a lower mean correlation with the marten species than the mean correlation of the marten species amongst each other, showing a clear distance between panda and martens. This difference is significant (P<1.4E-6) but Cserhati writes “This difference is not too significant”, and he decides to ignore it. In his heat map of the correlation matrix the difference between red panda and marten species is clearly visible: left figure on top, lighter is higher correlation, and the red panda gives the top right ‘Finnish flag’ pattern. 
+Here the article derails. <!--more-->The clustering can be regarded as evidence that the red panda and the marten family are monophyletic sister groups, but not that the red panda belongs to the marten family. The red panda has a lower mean correlation with the marten species than the mean correlation of the marten species amongst each other, showing a clear distance between panda and martens. This difference is significant (P<1.4E-6) but Cserhati writes “This difference is not too significant”, and he decides to ignore it. In his heat map of the correlation matrix the difference between red panda and marten species is clearly visible: left figure on top, lighter is higher correlation, and the red panda gives the top right ‘Finnish flag’ pattern. 
 
 The mtDNA sequences of 52 species/subspecies of bears, skunks, raccoons, martens, and both subspecies of the red panda are aligned and clustered. Cserhati finds 5 clusters: the 15 bears, the 30 martens, the two panda sequences, the two skunks and the 3 raccoons, clearly finding the traditional families. The mtDNA sequences are subjected to phylogenetic analysis by UPGMA, Maximum Likelihood and Neighbour Joining. No outgroup is mentioned, and no outgroup seems to have been specified. 
 
@@ -33,7 +33,7 @@ Cserhati gives his preferred conclusion: “The main conclusion … is that on a
 One problem: how did a paper as bad as this ever get through review and published? 
 
 
-##Creation Research Society Quarterly paper## 
+## Creation Research Society Quarterly paper ## 
 
 Cserhati bases the search for the baraminological placement of the red panda on three types of data: Whole Genome K-mer Signature (WGKS), sequence analysis on mtDNA and sequence analysis on cytochrome-b. 
 
@@ -48,7 +48,7 @@ Again the data do not support including the red panda in the marten family. Yet,
 As in all baraminological literature, statistical clustering to different clusters is assumed to indicate unbridgeable biological discontinuity. The reasoning obscures the discontinuity between biology and statistics. 
 
 
-##Strategy## 
+## Strategy ## 
 
 A Dutch creationist website that recommends Cserhati’s work on the red panda wrote: “Cserhati’s work can stand as a model for how to do creation research. First, find funding for a detailed study within the creation paradigm (here, Creation Research Society Grant #62). Second, publish the results in a standard naturalistic science journal. Then, provide a more detailed study in a creation science journal.” That is, play the system, aiming for respectability for creationist writing. 
 
