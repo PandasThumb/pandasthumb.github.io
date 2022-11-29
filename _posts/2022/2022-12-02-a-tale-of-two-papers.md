@@ -52,6 +52,7 @@ As in all baraminological literature, statistical clustering to different cluste
 
 A Dutch creationist website that recommends Cserhati’s work on the red panda wrote:
 >Cserhati’s work can stand as a model for how to do creation research. First, find funding for a detailed study within the creation paradigm (here, Creation Research Society Grant #62). Second, publish the results in a standard naturalistic science journal. Then, provide a more detailed study in a creation science journal.
+
 That is, play the system, aiming for respectability for creationist writing. 
 
 
