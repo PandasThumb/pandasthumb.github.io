@@ -7,8 +7,8 @@ author: Gerdien De Jong
 _Gerdien de Jong was until her retirement Associate Professor in the Department of Biology at Utrecht University_ 
 
 
-<div align="center"><figure><img src="/uploads/2022/wgks_heat_maps_4.jpg" alt="wkgs heat map graphic"/>
-<figcaption>The whole genome k-mers heat map used in the two papers.</figcaption>
+<div align="center"><figure><img src="/uploads/2022/wgks_heat_maps_4.jpg" alt="wgks heat map graphic"/>
+<figcaption>The whole genome k-mers signature heat map used in the two papers.</figcaption>
 </figure></div>
 
 
