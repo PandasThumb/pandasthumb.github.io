@@ -7,8 +7,8 @@ author: Gerdien de Jong
 _Gerdien de Jong was until her retirement Associate Professor in the Department of Biology at Utrecht University_ 
 
 
-<div align="center"><figure><img src="/uploads/2022/wgks_heat_maps_4.jpg" alt="wgks heat map graphic"/>
-<figcaption>The whole genome k-mers signature heat map used in the two papers.</figcaption>
+<div align="center"><figure><img src="/uploads/2022/Red_Panda_600.jpg" alt="Puzzled Red Panda"/>
+<figcaption>A Red Panda, _Ailurus fulgens_, wondering what part of the tree it's on.</figcaption>
 </figure></div>
 
 
@@ -36,6 +36,9 @@ Cserhati gives his preferred conclusion: “The main conclusion … is that on a
 
 One problem: how did a paper as bad as this ever get through review and published? 
 
+<div align="center"><figure><img src="/uploads/2022/wgks_heat_maps_4.jpg" alt="wgks heat map graphic"/>
+<figcaption>The whole genome k-mers signature heat map used in the two papers.</figcaption>
+</figure></div>
 
 ## Creation Research Society Quarterly paper ## 
 
