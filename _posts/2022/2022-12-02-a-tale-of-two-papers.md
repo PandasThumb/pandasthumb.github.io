@@ -8,7 +8,7 @@ _Gerdien de Jong was until her retirement Associate Professor in the Department 
 
 
 <div align="center"><figure><img src="/uploads/2022/Red_Panda_600.jpg" alt="Puzzled Red Panda"/>
-<figcaption>A Red Panda, _Ailurus fulgens_, wondering what part of the tree it's on.</figcaption>
+  <figcaption>A Red Panda, <em>Ailurus fulgens</em>, wondering what part of the tree it's on.</figcaption>
 </figure></div>
 
 
