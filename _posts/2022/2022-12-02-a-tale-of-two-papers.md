@@ -17,7 +17,7 @@ _Gerdien de Jong was until her retirement Associate Professor in the Department 
 
 In 2021, dr Matthew / Matyas Cserhati published two parallel articles on the affinities of the red panda *Ailurus fulgens*, one in BMC Genomics and one in Creation Research Society Quarterly. The two articles are mostly based on the same data and have similar and sometimes identical content. 
 
-The BMC Genomics article has the title: “A tail of two pandas – whole genome k-mer signature analysis of the red panda (*Ailurus fulgens*) and the Giant panda (*Ailuropoda melanoleuca*)”. This paper concludes that on a whole genome level the red panda possibly belongs to the mustelid (marten) clade. The CRSQ article has the title: “Classification of the enigmatic red panda (*Ailurus fulgens*) based on molecular baraminology-based analysis”. This paper deems it likely that the red panda belongs to the mustelid holobaramin. 
+[The BMC Genomics article](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07531-3) has the title: “A tail of two pandas – whole genome k-mer signature analysis of the red panda (*Ailurus fulgens*) and the Giant panda (*Ailuropoda melanoleuca*)”. This paper concludes that on a whole genome level the red panda possibly belongs to the mustelid (marten) clade. [The CRSQ article](https://www.creationresearch.org/classification-of-the-enigmatic-red-panda-ailurus-fulgens-based-on-molecular-baraminology-based-analysis) has the title: “Classification of the enigmatic red panda (*Ailurus fulgens*) based on molecular baraminology-based analysis”. This paper deems it likely that the red panda belongs to the mustelid holobaramin. 
 
 
 ## The BMC Genomics paper ## 
@@ -56,7 +56,7 @@ As in all baraminological literature, statistical clustering to different cluste
 
 ## Strategy ## 
 
-A Dutch creationist website that recommends Cserhati’s work on the red panda wrote:
+[A Dutch creationist website](https://oorsprong.info/wetenschapper-lost-creationistisch-biosystematisch-raadsel-van-de-rode-panda-ailurus-fulgens-op/) that recommends Cserhati’s work on the red panda wrote:
 >Cserhati’s work can stand as a model for how to do creation research. First, find funding for a detailed study within the creation paradigm (here, Creation Research Society Grant #62). Second, publish the results in a standard naturalistic science journal. Then, provide a more detailed study in a creation science journal.
 
 That is, play the system, aiming for respectability for creationist writing. 
