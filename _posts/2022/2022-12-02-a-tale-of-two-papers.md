@@ -1,7 +1,7 @@
 ---
 title: A tale of two papers
 date: 2022-12-02 12:00 -08:00
-author: Gerdien De Jong
+author: Gerdien de Jong
 ---
 
 _Gerdien de Jong was until her retirement Associate Professor in the Department of Biology at Utrecht University_ 
