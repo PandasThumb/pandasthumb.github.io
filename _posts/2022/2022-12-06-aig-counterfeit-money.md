@@ -12,3 +12,5 @@ author: Dan Phelps
 Ken Ham and his fellow creationist grifters plan to disrupt King Charles’s Coronation by handing out <a href="https://youtu.be/eIUY2oi20Fc">religious tracts disguised as money</a>.
 
 This is hilarious. They are raising money to print and distribute 3 million counterfeit "1 Million Pound" notes that will display fundamentalist/creationist tracts on the reverse side. They are shamelessly raising money to do this. I wonder if the British Secret Service will also be amused.
+
+_To see this post together with comments on it, click on the title of the post._
