@@ -3,7 +3,7 @@ title: 'Martian meteorite'
 date: '2022-12-19 12:00:00 -07:00'
 author: Matt Young
 ---
-Photograph by **Dan Phelps**.
+Photograph supplied by **Dan Phelps**.
 
 <figure>
 <img src="/uploads/2022/Phelps_Meteorite_3.jpg" alt="Meteorite"/>
