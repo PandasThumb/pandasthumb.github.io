@@ -1,10 +1,10 @@
 ---
-title: 'Miracles: William Dembski gets it (mostly) right; Times does not'
-date: '2023-12-26 16:00:00 -06:00'
+title: 'Miracles: William Dembski gets it (mostly) right; NY Times does not'
+date: '2022-12-27 09:06:00 -07:00'
 author: Matt Young
 ---
 
-The New York Times yesterday ran what I consider a very credulous if not fatuous article, <a href="https://www.nytimes.com/2022/12/24/opinion/miracles-neuroscience-proof.html">How Would You Prove That God Performed a Miracle?</a> by <a href="https://www.nytimes.com/column/molly-worthen">Molly Worthen</a>, an historian who, I thought, had not the foggiest idea how you would do so. You may read Jerry Coyne's takedown of her article <a href="https://whyevolutionistrue.com/2022/12/26/nyt-touts-religious-miracles-as-proof-of-god/">here</a>.
+The New York Times on Sunday ran what I consider a very credulous article, <a href="https://www.nytimes.com/2022/12/24/opinion/miracles-neuroscience-proof.html">How Would You Prove That God Performed a Miracle?</a> by <a href="https://www.nytimes.com/column/molly-worthen">Molly Worthen</a>, an historian who, I thought, had not the foggiest idea how you would do so. You may read Jerry Coyne's takedown of her article <a href="https://whyevolutionistrue.com/2022/12/26/nyt-touts-religious-miracles-as-proof-of-god/">here</a>.
 
 Dr. Worthen lets William Dembski get the last word. We have criticized Dr. Dembski seemingly endlessly on this blog, but here I think he's got it essentially right:
 
@@ -14,4 +14,4 @@ Dr. Worthen lets William Dembski get the last word. We have criticized Dr. Dembs
 
 Dr. Dembski says he believes in miracles. Or perhaps gives lip service to a belief in miracles. What happened when it got down to brass tacks, as when he took his autistic child to the so-called faith healer? The supposed healer refused to see the child because he did not "look the part"; Dr. Dembski saw right through faith healing and indeed recognized it as "self-delusion."
 
-I consider a miracle to be a figure of speech for when, say, that teacher takes his son under her wing, does the very best she can with him, and succeeds. Dr. Dembski professes a belief in literal miracles, but seems more impressed with practical, figure-of-speech&ndash;type miracles. On that, we can agree.
+I consider a miracle to be a figure of speech for when, say, that teacher takes his son under her wing, does the very best she can with him, and, against the odds, succeeds. Dr. Dembski professes a belief in literal miracles, but seems more impressed with practical, figure-of-speech&ndash;type miracles. On that, we can agree.
