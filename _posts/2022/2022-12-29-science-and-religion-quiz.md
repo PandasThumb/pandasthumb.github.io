@@ -10,7 +10,7 @@ author: Matt Young
 </figcaption>
 </figure>
 
-Jerry Coyne on his blog today advises us to <a href="https://whyevolutionistrue.com/2022/12/29/take-the-faraday-institutes-science-vs-religion-quiz/">Take the Faraday Institute’s Science vs. Religion quiz!<a> So I did! <a href=https://www.sciencereligioncompass.org/>(Here.)</a>
+Jerry Coyne on his blog today advises us to <a href="https://whyevolutionistrue.com/2022/12/29/take-the-faraday-institutes-science-vs-religion-quiz/">Take the Faraday Institute’s Science vs. Religion quiz!</a> So I did! <a href=https://www.sciencereligioncompass.org/>(Here.)</a>
 
 You may see my result to the left. I ended up in the fourth quadrant, relatively close to the y-axis. The axis labels are to some extent jargon: Functional means that religion is best at social activities, what Dr. Coyne and I would call "tikkun olam," or "repairing the world." Substantive, by contrast, means that religion has meaning or content. The terms on the x-axis are reasonably clear, but I consider scientism to be pejorative and wish they had found a better term. (I have more than once been accused of scientism and am somewhat gratified that I did not land farther to the right.)
 
