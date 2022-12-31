@@ -62,7 +62,9 @@ And why should this matter? Because it reminds us, and we should not forget, tha
 
 I thank Maarten Boudry, Glenn Branch, Joe Felsenstein, John Harshman, Kim Johnson, Larry Moran, and Massimo Pigliucci for helpful comments and links to the literature.
 
-Footnotes and citations:
+<p>&nbsp;</p>
+
+## Footnotes and citations: ##
 
 (1) Dean Kenyon (co-author), Charles Thaxton (Academic Editor), and Stephen Meyer, Michael Behe, and Nancy Pearcey (contributors) all hold positions at the Discovery Institute, as do Raymond Bohlin, Walter Bradley, Robert Kaita, J.P. Moreland, and Paul Nelson, who are on the list of those thanked for being “critical reviewers”, as, also, are Meyer and Behe.
 
