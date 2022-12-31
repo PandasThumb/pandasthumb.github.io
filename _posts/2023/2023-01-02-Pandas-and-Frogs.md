@@ -14,7 +14,7 @@ Kitzmiller v. Dover Area School District to pass without complaining about the v
 they are hoping that we will forget about the incredible badness of the text that they were 
 trying to foist on the District’s students. _Of Pandas and People_ is carefully constructed to 
 be as misleading as possible, and we shouldn’t let them forget this, as long as contributors 
-and advisers responsible for it remain in position within the Discovery Institute<sup>1</sup>, while 
+and advisers responsible for it remain in position within the Discovery Institute<sup>3</sup>, while 
 the Institute continues to promote  works such as Denton’s [_Evolution – A Theory in Crisis_](https://www.discovery.org/v/legacy-of-evolution/?hilite=theory+crisis), 
 that perpetuate the same elementary errors of logic.  But first, an apparent digression.  When 
 students first come across the use of molecular or DNA sequencing in constructing phylogenetic 
@@ -56,7 +56,7 @@ And to make sure that the message sticks, we have this Figure, with the plain im
 
 [Insert Figure 9]
 
-The fallacy is not merely being stated; it is being repeated, rationalised, and reinforced. The kindest explanation is that the authors simply do not understand the science that they are presenting, seeing a hierarchical structure where none exists, and imposing on their biology a perspective in terms of “higher” and “lower” which do not belong in modern science, but have been carried over, such as the power of human vanity, from a worldview more akin to Aristotle and the mediaeval Great Chain of Being. The same fallacy also occurs in Michael Denton’s 1985 Evolution - A Theory in Crisis, and while he had by 1998<sup>3</sup> quietly walked away from this, his 2016 sequel, Evolution – Still a Theory in Crisis, retains his preference for Aristotelian over phylogenetic classification.
+The fallacy is not merely being stated; it is being repeated, rationalised, and reinforced. The kindest explanation is that the authors simply do not understand the science that they are presenting, seeing a hierarchical structure where none exists, and imposing on their biology a perspective in terms of “higher” and “lower” which do not belong in modern science, but have been carried over, such as the power of human vanity, from a worldview more akin to Aristotle and the mediaeval Great Chain of Being. The same fallacy also occurs in Michael Denton’s 1985 Evolution - A Theory in Crisis, and while he had by 1998 [3] quietly walked away from this, his 2016 sequel, Evolution – Still a Theory in Crisis, retains his preference for Aristotelian over phylogenetic classification.
 
 And why should this matter? Because it reminds us, and we should not forget, that the Discovery Institute does not only deal in dis-information, but in dis-education.
 
@@ -66,7 +66,7 @@ Footnotes:
 
 (1) Dean Kenyon (co-author), Charles Thaxton (Academic Editor), and Stephen Meyer, Michael Behe, and Nancy Pearcey (contributors) all hold positions at the Discovery Institute, as do Raymond Bohlin, Walter Bradley, Robert Kaita, J.P. Moreland, and Paul Nelson, who are on the list of those thanked for being “critical reviewers”, as, also, are Meyer and Behe.
 
-(2) Walter M Fitch and Emanuel Margoliash, Science 155(3760), 279, 1967; DOI: 10.1126/science.155.3760.279
+(2) Walter M Fitch and Emanuel Margoliash, _Science_ 155(3760), 279, 1967; DOI: 10.1126/science.155.3760.279
 
-(3) For a discussion of Denton’s revised position, see [this post in Larry Moran's _Sandwalk_ blog](https://sandwalk.blogspot.com/2006/12/michael-denton-and-molecular-clocks.html)
+(3) For a discussion of Denton’s revised position, see [this 2006 post at Larry Moran's _Sandwalk_ blog](https://sandwalk.blogspot.com/2006/12/michael-denton-and-molecular-clocks.html)
 
