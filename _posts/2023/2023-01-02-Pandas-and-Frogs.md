@@ -37,7 +37,7 @@ All the animals shown are, apart from small random fluctuations, at the same dis
 
 There are now numerous published studies of the phylogenetic relationships revealed by Cytochrome C, to say nothing of the vast recent literature using numerous molecular and morphological traits to develop detailed high-resolution phylogenies, and to explore the limitations of the concept of a unique phylogeny. What is interesting about the particular Table I have quoted is its origin, and the uses that its authors make of it.
 
-This brings us back to our original theme. The Table actually comes from Of Pandas and People, 2nd edition, 1993, which by the time of the trial had gone through five printings. The book does not give a reference to the source of the data, but much (not all) of the information can be found in a classic 1967 paper<sup>2</sup>, which also explains the reasoning behind the method, and critically examines the assumptions made. So there is no excuse for what the book does next, which is to repeatedly assert that the data refute claims of common ancestry:
+This brings us back to our original theme. The Table actually comes from Of Pandas and People, 2nd edition, 1993, which by the time of the trial had gone through five printings. The book does not give a reference to the source of the data, but much (not all) of the information can be found in a classic 1967 paper [2], which also explains the reasoning behind the method, and critically examines the assumptions made. So there is no excuse for what the book does next, which is to repeatedly assert that the data refute claims of common ancestry:
 
 >one might expect analysis to reveal that the cytochromes in fish are most similar to the cytochromes in amphibians. But this is not the case.
 
