@@ -1,6 +1,6 @@
 ---
 title: Pandas, Kitzmiller, and the frozen frog fallacy
-date: 2023-01-02 12:00:00 -08:00:00
+date: 2023-01-04 12:00:00 -08:00:00
 author: Paul Braterman
 ---
 
