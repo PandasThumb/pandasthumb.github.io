@@ -14,7 +14,7 @@ Kitzmiller v. Dover Area School District to pass without complaining about the v
 they are hoping that we will forget about the incredible badness of the text that they were 
 trying to foist on the District’s students. _Of Pandas and People_ is carefully constructed to 
 be as misleading as possible, and we shouldn’t let them forget this, as long as contributors 
-and advisers responsible for it remain in position within the Discovery Institute<sup>3</sup>, while 
+and advisers responsible for it remain in position within the Discovery Institute<sup>1</sup>, while 
 the Institute continues to promote  works such as Denton’s [_Evolution – A Theory in Crisis_](https://www.discovery.org/v/legacy-of-evolution/?hilite=theory+crisis), 
 that perpetuate the same elementary errors of logic.  But first, an apparent digression.  When 
 students first come across the use of molecular or DNA sequencing in constructing phylogenetic 
