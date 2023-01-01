@@ -12,7 +12,7 @@ Now that we are at the last day of 2022, the newspapers are full of accounts of 
 how much the cause of Intelligent Design advanced in the last year.  This account, by Brian Miller, was mocked by critics of ID (e.g. [here](https://freethoughtblogs.com/pharyngula/2022/12/30/the-enduring-futility-of-intelligent-design-creationism/)).
 
 It is hard to come up with lists of things that happened in 2022.  But much easier to make lists of things that didn't happen.  I wondered: what are the major things 
-that _didn't_ happen in 2022.  Particularly with regard to arguments for Intellident Design.
+that _didn't_ happen in 2022?  Particularly with regard to arguments for Intellident Design.
 
 I'll provide my suggested non-event.   It is the clarification of how the Algorithmic Complexity argument for Intelligent Design works.  It remains, as it has been 
 for some years, basically unexplained.  A reading of the whole course of argument using Specified Complexity, from William Dempski's book _The Design Inference_ on, 
