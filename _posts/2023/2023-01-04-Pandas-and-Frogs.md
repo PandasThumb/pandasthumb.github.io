@@ -7,7 +7,7 @@ author: Paul Braterman
 _Paul Braterman is Professor Emeritus at the University of North Texas and Honorary Senior Research Fellow in Chemistry at the University of Glasgow_
 
 
-<figure><img src="/uploads/2023/PandasCover001.jpg" alt=Cover of "Of Pandas and People".<figcaption><div align="center">Cover of "Of Pandas and People". Fair use claimed.</div>/figcaption></figure>
+<figure><img src="/uploads/2023/PandasCover001.jpg" alt=Cover of "Of Pandas and People".<figcaption><div align="center">Cover of "Of Pandas and People". Fair use claimed.</div></figcaption></figure>
 
 This Kitzmas was different. For the first time, the Discovery Institute allowed the anniversary of 
 Kitzmiller v. Dover Area School District to pass without complaining about the verdict. Perhaps 
