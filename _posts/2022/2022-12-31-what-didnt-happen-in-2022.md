@@ -15,7 +15,7 @@ It is hard to come up with lists of things that happened in 2022.  But much easi
 that _didn't_ happen in 2022?  Particularly with regard to arguments for Intellident Design.
 
 I'll provide my suggested non-event.   It is the clarification of how the Algorithmic Complexity argument for Intelligent Design works.  It remains, as it has been 
-for some years, basically unexplained.  A reading of the whole course of argument using Specified Complexity, from William Dempski's book _The Design Inference_ on, 
+for some years, basically unexplained.  A reading of the whole course of argument using Specified Complexity, from William Dembski's book _The Design Inference_ on, 
 shows that the algorithmic complexity calculation started out as a peripheral suggestion and gradually changed until it is now said to be central to that 
 argument.  But in the course of these changes, the logic of the criterion became no clearer.
 
