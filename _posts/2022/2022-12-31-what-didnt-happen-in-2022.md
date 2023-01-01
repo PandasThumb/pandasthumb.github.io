@@ -4,7 +4,7 @@ date: 2022-12-31 18:00:00 -08:00
 author: Joe Felsenstein
 ---
 
-<figure><img src="/uploads/2022/GlassHalfFull.jpg" alt=Image of glass-half-full/><figcaption?<div align="center">Did or didn't happen in 2022?</div></figcaption></figure>
+<figure><img src="/uploads/2022/GlassHalfFull.jpg" alt=Image of glass-half-full /><figcaption><div align="center">Did or didn't happen in 2022?</div></figcaption></figure>
 
 <p>&nbsp;</p>
 
