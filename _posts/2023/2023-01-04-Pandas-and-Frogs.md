@@ -6,8 +6,9 @@ author: Paul Braterman
 
 _Paul Braterman is Professor Emeritus at the University of North Texas and Honorary Senior Research Fellow in Chemistry at the University of Glasgow_
 
-
 <figure><img src="/uploads/2023/PandasCover001.jpg" alt=Cover of "Of Pandas and People".<figcaption><div align="center">Cover of "Of Pandas and People". Fair use claimed.</div></figcaption></figure>
+
+<p>&nbsp;</p>
 
 This Kitzmas was different. For the first time, the Discovery Institute allowed the anniversary of 
 Kitzmiller v. Dover Area School District to pass without complaining about the verdict. Perhaps 
@@ -29,7 +30,7 @@ suspended.  We might call this the "frozen frog fallacy."
 At this point, a Table like the one shown below might help:
 <!--more-->
 
-<figure><img src="/uploads/2023/PandasCover001.jpg" alt=Cover of "Of Pandas and People".<figcaption><div align="center">Cover of "Of Pandas and People". Fair use claimed.</div></figcaption></figure>
+<figure><img src="/uploads/2023/PandasTable.jpg" alt=Table of cytochrome c differences<figcaption><div align="center">Table of cytochrome c differences, from "Of Pandas and People". Fair use claimed.</div></figcaption></figure>
 
 All the multicellular organisms shown are, apart from small random fluctuations, at the same distance from the bacterium, as expected if they share a common ancestor distinct from bacteria, which have of course, independently, been accumulating their own set of changes.
 
