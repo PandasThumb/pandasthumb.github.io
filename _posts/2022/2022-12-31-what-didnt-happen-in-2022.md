@@ -22,7 +22,7 @@ argument.  But in the course of these changes, the logic of the criterion became
 Some time ago I puzzled over this [perhaps at too great a length](https://pandasthumb.org/archives/2019/12/Is-Algorithmic-Specified-Complexity-Useless-for-Analyzing-Evolution.html) in a post here at Panda's Thumb.  Was the algorithm supposed to compute the genotype?  the phenotype? 
 Why was observation that it was nonrandomly un-complex supposed to favor ID?  How did the probability distribution of algorithms that was used make biological sense? 
 
-Another year has passed, and none of these questions have been answered.  So I nominate this non-event as the greatest non-acheivement of Intelligent Design proponents 
+Another year has passed, and none of these questions have been answered.  So I nominate this non-event as the greatest non-achievement of Intelligent Design proponents 
 in 2022.  I congratulate them.  But our readers may have other non-achievements to suggest.  Let's hear from them.
 
 _To read the comments on this post in context, click on the title of this post._
