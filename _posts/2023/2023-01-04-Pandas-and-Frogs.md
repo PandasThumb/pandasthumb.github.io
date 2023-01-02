@@ -56,7 +56,7 @@ These are just two of five separate reiterations of the fallacy, leading up to t
 
 And to make sure that the message sticks, we have this Figure, with the plain implication that the data point, not to evolution, but to separate creation:
 
-<figure><img src="/uploads/2023/PandasFigure9.jpg" alt=Figure 9 from "Of Pandas and People" ><figcaption><div align="center">Figure 9 from "Of Pandas and People", Second Edition. Fair use claimed.</div></figcaption></figure>
+<figure><img src="/uploads/2023/PandasFig9.jpg" alt=Figure 9 from "Of Pandas and People" /><figcaption><div align="center">Figure 9 from "Of Pandas and People", Second Edition. Fair use claimed.</div></figcaption></figure>
 <p>&nbsp;</p>
 
 The fallacy is not merely being stated; it is being repeated, rationalised, and reinforced. The kindest explanation is that the authors simply do not understand the science that they are presenting, seeing a hierarchical structure where none exists, and imposing on their biology a perspective in terms of “higher” and “lower” which do not belong in modern science, but have been carried over, such as the power of human vanity, from a worldview more akin to Aristotle and the mediaeval Great Chain of Being. The same fallacy also occurs in Michael Denton’s 1985 Evolution - A Theory in Crisis, and while he had by 1998 [3] quietly walked away from this, his 2016 sequel, Evolution – Still a Theory in Crisis, retains his preference for Aristotelian over phylogenetic classification.
