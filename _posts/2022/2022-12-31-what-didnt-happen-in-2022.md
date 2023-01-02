@@ -9,7 +9,7 @@ author: Joe Felsenstein
 <p>&nbsp;</p>
 
 Now that we are at the last day of 2022, the newspapers are full of accounts of what happened in 2022.  Even the Discovery Institute has bragged, at its site [Evolution News &amp; Science Today](https://evolutionnews.org/2022/12/the-year-in-review-intelligent-design-grows-in-influence-and-depth/)
-how much the cause of Intelligent Design advanced in the last year.  This account, by Brian Miller, was mocked by critics of ID (e.g. [here](https://freethoughtblogs.com/pharyngula/2022/12/30/the-enduring-futility-of-intelligent-design-creationism/), [here](https://discourse.peacefulscience.org/t/id-achievements-of-the-year/15635)), and [here](https://freethoughtblogs.com/pharyngula/2023/01/01/follow-up-on-id-at-conferences/)).
+how much the cause of Intelligent Design advanced in the last year.  This account, by Brian Miller, was mocked by critics of ID (e.g. [here](https://freethoughtblogs.com/pharyngula/2022/12/30/the-enduring-futility-of-intelligent-design-creationism/), [here](https://discourse.peacefulscience.org/t/id-achievements-of-the-year/15635), and [here](https://freethoughtblogs.com/pharyngula/2023/01/01/follow-up-on-id-at-conferences/)).
 
 It is hard to come up with lists of things that happened in 2022.  But much easier to make lists of things that didn't happen.  I wondered: what are the major things 
 that _didn't_ happen in 2022?  Particularly with regard to arguments for Intelligent Design.
