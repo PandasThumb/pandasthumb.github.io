@@ -31,6 +31,7 @@ At this point, a Table like the one shown below might help:
 <!--more-->
 
 <figure><img src="/uploads/2023/PandasTable1.jpeg" alt=Table of cytochrome c differences<figcaption><div align="center">Table of cytochrome c differences, from "Of Pandas and People", Second edition. Fair use claimed.</div></figcaption></figure>
+<p>&nbsp;</p>
 
 All the multicellular organisms shown are, apart from small random fluctuations, at the same distance from the bacterium, as expected if they share a common ancestor distinct from bacteria, which have of course, independently, been accumulating their own set of changes.
 
