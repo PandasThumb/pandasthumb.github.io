@@ -6,7 +6,7 @@ author: Paul Braterman
 
 _Paul Braterman is Professor Emeritus at the University of North Texas and Honorary Senior Research Fellow in Chemistry at the University of Glasgow_
 
-<figure><img src="/uploads/2023/PandasCover001.jpg" alt=Cover of "Of Pandas and People".<figcaption><div align="center">Cover of "Of Pandas and People", Second edition. Fair use claimed.</div></figcaption></figure>
+<figure><img src="/uploads/2023/PandasCover001.jpg" alt=Cover of "Of Pandas and People".<figcaption><div align="center">Cover of <em>Of Pandas and People</em>, Second edition. Fair use claimed.</div></figcaption></figure>
 
 <p>&nbsp;</p>
 
