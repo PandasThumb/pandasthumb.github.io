@@ -3,6 +3,11 @@ title: 'Another Impressive Year for Creationist Journal <i>BIO-Complexity</i> [s
 date: '2023-01-05 12:00:00 -07:00'
 author: Nathan Lents
 ---
+<figure>
+<img src="/uploads/2023/Ankle-lateral.jpg" alt="Lateral view of ankle" />
+<figcaption><div align="center">
+Lateral view of an ankle. <small>Baedr-9439, Creative Commons CC0 1.0 Universal Public Domain Dedication.</small></div></figcaption>
+</figure>
 
 A new article has been published in the illustrious journal <i>BIO-Complexity</i> [sic]:
 
