@@ -9,6 +9,8 @@ author: Nathan Lents
 Lateral view of an ankle. <small>Baedr-9439, Creative Commons CC0 1.0 Universal Public Domain Dedication.</small></div></figcaption>
 </figure>
 
+<i>Nathan Lents is Professor of Biology at the John Jay College of Criminal Justice and author, most recently, of the book </i>Human Errors: A Panorama of Our Defects, from Broken Genes to Pointless Bones<i>, and many technical articles.  He blogs at The Human Evolution Blog and Psychology Today.</i>
+
 A new article has been published in the illustrious journal <i>BIO-Complexity</i> [sic]:
 
 <blockquote>Burgess, S. (2022). <a href="https://bio-complexity.org/ojs/index.php/main/article/view/BIO-C.2022.3">Why the Ankle-Foot Complex Is a Masterpiece of Engineering and a Rebuttal of “Bad Design” Arguments</a>. <i>BIO-Complexity</i>, 2022.</blockquote>
