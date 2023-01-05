@@ -1,6 +1,6 @@
 ---
 title: 'Another Impressive Year for Creationist Journal <i>BIO-Complexity</i> [sic]'
-date: '2023-01-05 12:00:00 -07:00'
+date: '2023-01-05 10:00:00 -07:00'
 author: Nathan Lents
 ---
 <figure>
