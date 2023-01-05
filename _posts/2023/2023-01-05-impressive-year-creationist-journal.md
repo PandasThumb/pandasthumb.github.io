@@ -8,8 +8,6 @@ author: Nathan Lents
 <figcaption><div align="center">The foot and ankle of the chimpanzee (A) and human (B). T: axis of transverse tarsal joint; U: axis of upper ankle joint; L: axis of lower ankle joint.  Note: All bones are conserved and homologous. <small>Credit: Elftman, H., & Manter, J. (1935). The evolution of the human foot, with especial reference to the joints. Journal of anatomy, 70(Pt 1), 56.</small></div></figcaption>
 </figure>
 
-<i>Nathan Lents is Professor of Biology at the John Jay College of Criminal Justice and author, most recently, of the book </i>Human Errors: A Panorama of Our Defects, from Broken Genes to Pointless Bones<i>, and many technical articles.  He blogs at The Human Evolution Blog and Psychology Today.</i>
-
 A new article has been published in the illustrious journal <i>BIO-Complexity</i> [sic]:
 
 <blockquote>Burgess, S. (2022). <a href="https://bio-complexity.org/ojs/index.php/main/article/view/BIO-C.2022.3">Why the Ankle-Foot Complex Is a Masterpiece of Engineering and a Rebuttal of “Bad Design” Arguments</a>. <i>BIO-Complexity</i>, 2022.</blockquote>
@@ -38,4 +36,7 @@ The new article on the human ankle by Stuart Burgess perfectly aligns with the g
 <p>Burgess does a fine job explaining the structure and function of the human ankle, but for some reason takes its functioning as evidence that it was intentionally designed and not evolved. The human body is truly impressive, a point I repeatedly made in <i>Human Errors</i>, but it also harbors abundant evidence of its long evolutionary past including, in my opinion, some examples of suboptimal functional design that are only comprehensible in the light of the limitations of evolutionary processes and our shared ancestry with other animals.</p></li>
 
 <li><p>Lastly, I have no idea why they chose to hyphenate (and weirdly capitalize) <i>BIO-Complexity</i> [sic] when the perfectly serviceable word <i>Biocomplexity</i> already exists, sans hyphen.</p></li></ol>
+
+-----
+<i>Nathan Lents is Professor of Biology at the John Jay College of Criminal Justice and author, most recently, of the book </i>Human Errors: A Panorama of Our Defects, from Broken Genes to Pointless Bones<i>, and many technical articles.  He blogs at The Human Evolution Blog and Psychology Today.</i>
 
