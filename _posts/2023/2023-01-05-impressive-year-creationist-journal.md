@@ -4,9 +4,8 @@ date: '2023-01-05 10:00:00 -07:00'
 author: Nathan Lents
 ---
 <figure>
-<img src="/uploads/2023/Ankle-lateral.jpg" alt="Lateral view of ankle" />
-<figcaption><div align="center">
-Lateral view of an ankle. <small>Baedr-9439, Creative Commons CC0 1.0 Universal Public Domain Dedication.</small></div></figcaption>
+<img src="/uploads/2023/Lents_Evolution_Foot.jpg" alt="Lateral view of ankle" />
+<figcaption><div align="center">The foot and ankle of the chimpanzee (A) and human (B). T: axis of transverse tarsal joint; U: axis of upper ankle joint; L: axis of lower ankle joint.  Note: All bones are conserved and homologous. <small>Credit: Elftman, H., & Manter, J. (1935). The evolution of the human foot, with especial reference to the joints. Journal of anatomy, 70(Pt 1), 56.</small></div></figcaption>
 </figure>
 
 <i>Nathan Lents is Professor of Biology at the John Jay College of Criminal Justice and author, most recently, of the book </i>Human Errors: A Panorama of Our Defects, from Broken Genes to Pointless Bones<i>, and many technical articles.  He blogs at The Human Evolution Blog and Psychology Today.</i>
