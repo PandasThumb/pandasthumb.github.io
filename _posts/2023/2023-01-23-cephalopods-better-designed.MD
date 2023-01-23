@@ -24,4 +24,4 @@ I cannot immediately find an answer to this question, so I will stick my neck ou
 
 -----
 
-<strong>Acknowledgements</strong>.  Thanks to Nathan Lents for discovering what I can only call a silly mistake and to Steven Fliesler of the school of medicine of the University of Buffalo for interesting comments.
+<strong>Acknowledgements</strong>. Thanks to Nathan Lents for discovering what I can only call a silly mistake and to Steven Fliesler of the school of medicine of the University of Buffalo for interesting comments.
