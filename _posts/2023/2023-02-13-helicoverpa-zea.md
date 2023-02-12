@@ -1,6 +1,6 @@
 ---
 title: 'Helicoverpa zea'
-date: 2023-02-13 12:00:00 -07:00
+date: '2023-02-13 12:00:00 -07:00'
 author: Matt Young
 ---
 
