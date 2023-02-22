@@ -64,9 +64,9 @@ Frank had a large following on Facebook, where he regularly posted on new scient
 
 -----
 
-<i>Thomas J. Wheeler was a biochemistry professor at the University of Louisville for 25 years, followed by a second career as a high school science teacher in Scranton, PA. He is now retired and living in the Chicago area.
+<i>Thomas J. Wheeler was a biochemistry professor at the University of Louisville for 25 years, followed by a second career as a high school science teacher in Scranton, PA. He is now retired and living in the Chicago area.</i>
 
-Matt Young will be the moderator of this thread.</i>
+<i>Matt Young will be the moderator of this thread.</i>
 
 -----
 
