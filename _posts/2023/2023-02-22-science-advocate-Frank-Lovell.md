@@ -52,13 +52,13 @@ Frank's activities were not restricted to critiquing bad science; he was an acti
 
 Another major interest of Frank's was philosophy and religion. I recall that he described himself as "an atheist of the agnostic variety," meaning he could not disprove the existence of God, but found no compelling reason to believe. He was an active member of the Louisville Freethought Society, participating in weekly meetups and staffing a booth at the Kentucky State Fair each year. As he did with creationists, he carried on extensive correspondence with preachers and lay individuals concerning religious topics, and gave public talks. One of these that I attended was a two-night debate with a local minister. He expressed his views on science and religion as follows: "Where ever objective knowledge is incomplete, there is a place for religious 'faith' (for any who feel need for religious 'faith,' at any rate); but where ever objective knowledge and religious 'faith' conflict, it is religious 'faith' (not objective knowledge) which should be modified or abandoned. That is the only rational way that there can be no conflict between science and religion."
 
-He was a regular participant on FreeThought Channel, including a major interview (6). His fellow panelists have posted a remembrance (7).
-
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
 <img src="/uploads/2023/Wheeler_Fig_4_FrankAstro_600.jpg" alt="Frank with Deborah Warren and Daniel Phelps"/>
 <figcaption>Frank with Deborah Warren of the Louisville Astronomical Society and guest speaker Daniel Phelps, January 2023.
 </figcaption>
 </figure>
+
+He was a regular participant on FreeThought Channel, including a major interview (6). His fellow panelists have posted a remembrance (7).
 
 Frank had a large following on Facebook, where he regularly posted on new scientific developments, philosophical questions, and videos of musical performances that he felt especially enjoyable. The announcement of his death on his Facebook page was met with an outpouring of condolences from around the world. Here is one typical comment: "I deeply appreciated his intelligence, integrity, humanity, warmth and tolerance."
 
