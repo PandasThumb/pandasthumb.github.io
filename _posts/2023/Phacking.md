@@ -4,7 +4,7 @@ date: 2024-03-17 12:00:00 -08:00
 author: Joe Felsenstein
 ---
 
-<figure><img src="/uploads/2023/kardis.jpg"<figcaption><div align="center">Pigeon Peas, often known by the Filipino Ilocano language word <em>kardis</em></div></figcaption>
+<figure><img src="/uploads/2023/Pigeon_Peas2.jpg"<figcaption><div align="center">Pigeon Peas, often known by the Filipino Ilocano language word <em>kardis</em></div></figcaption>
 </figure>
 
 <p>&nbsp;</p>
