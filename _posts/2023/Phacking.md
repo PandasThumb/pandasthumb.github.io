@@ -4,7 +4,7 @@ date: 2024-03-17 12:00:00 -08:00
 author: Joe Felsenstein
 ---
 
-<figure><img src="/uploads/2023/Pigeon_Peas2.jpg"<figcaption><div align="center">Pigeon Peas, often known by the Filipino Ilocano language word <em>kardis</em></div></figcaption>
+<figure><img src="/uploads/2023/Pigeon_peas2.jpg"<figcaption><div align="center">Pigeon Peas, often known by the Filipino Ilocano language word <em>kardis</em></div></figcaption>
 </figure>
 
 <p>&nbsp;</p>
@@ -31,7 +31,7 @@ and finally how natural selection's ``P hacking'' makes that difficult:
 
 <!--more-->
 
-## Monta&ntilde;nez's paper ##
+## Monta&ntilde;ez's paper ##
 
 Monta&ntilde;ez's paper in _BIO-Complexity_ is a detailed mathematical treatment of how one can make a unified 
 mathematical framework for computing a quantity, Specified Complexity, one which brings together Dembski's original 
@@ -85,7 +85,7 @@ If you were to take a random one of those sequences and mutate it randomly, you 
 fitness, it would have an implausibly high functional information.  Applying 
 Monta&ntilde;ez's formulas we would reject random sampling from all sequences as the source of the observed sequence.
 
-# Where P-hacking comes in #
+## Where P-hacking comes in ##
 
 Is there some other, biologically plausible, process that could have produced the 
 observed sequence?  There is, of course -- natural selection.  Instead of meandering mutationally generation after generation, P-hacking occurs.  Among the sequences available, the ones that have higher functionality (in this case, higher fitness) are more likely to be chosen.  If you did this, your teacher would be upset, because the result would be cheating on the exam.  But natural selection does this, not just in each generation, but repeatedly.  And the results accumulate.  Cumulative selection occurs, simply because each generation is the offspring of the previous one.No elaborate scheme is needed: organisms of higher fitness contribute more genes to the next generation, and future organisms are descended from those.
