@@ -1,0 +1,230 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>"P Hacking" and natural selection</title>
+  
+  <meta property="og:site_name" content="The Panda's Thumb" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content=""P Hacking" and natural selection" />
+  <meta property="og:url" content="https://pandasthumb.org/archives/2023/03/Phacking.html" />
+  <meta property="og:image" content="https://pandasthumb.org/media/roar.jpg" />
+  <meta property="article:author" content="Joe Felsenstein" />
+  <meta property="article:published_time" content="2023-03-17T17:00:00-07:00" />
+
+
+  <link rel="stylesheet" type='text/css' href="/css/normalize.css" />
+  <link rel="stylesheet" type='text/css' href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic,700italic|Source+Code+Pro:400,700" />
+  <link rel="stylesheet" type='text/css' href="/css/gridism.css" />
+  <link rel="stylesheet" type='text/css' href="/css/style.css" />
+  <link rel="stylesheet" type='text/css' href="/css/github.css" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <script type="text/javascript" src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="https://use.fontawesome.com/e6a24c6dde.js"></script>
+  <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>  
+  <script src="/js/local.js"></script>
+
+</head>
+
+
+<body class="wrap">
+  <div class="grid page-fill"><div></div></div>
+<header class="topbar">
+  <div class="grid no-gutters">
+    <div class="banner unit whole">
+		  <img src="/media/banner.jpg" alt="The Panda's Thumb" />
+    </div>
+    <nav class="main-nav unit whole align-center">
+      <ul>
+<li><a href="/" title="Main Page"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;Main</a></li>
+<li><a href="/archives/index.html" title="Archives"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Archives</a></li>
+<li><a href="/search.html" title="Searching Panda's Thumb"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Search</a></li>
+</ul>
+
+    </nav>
+  </div>
+</header>
+
+
+    <section class="blog">
+    <div class="grid">
+      <div class="unit whole">
+        <article class="blogpost">
+  <header>
+	  <h1><a href="/archives/2023/03/Phacking.html">"P Hacking" and natural selection</a></h1>
+	  <div class="byline"><i class="fa fa-user-circle" aria-hidden="true"></i> By Joe Felsenstein</div>
+	  <div class="attrline"><i class="fa fa-clock-o" aria-hidden="true"></i>
+	  <span><time pubdate="pubdate" datetime="2023-03-17T17:00:00-07:00">March 17, 2023 17:00 MST</time></span>
+	  </div>
+   </header>
+  <figure>&lt;img src="/uploads/2023/Pigeon_peas2.jpg"<figcaption><div align="center">Pigeon Peas, often known by the Filipino Ilocano language word <em>kardis</em></div></figcaption>
+</figure>
+
+<p>&nbsp;</p>
+
+<p>“P hacking” is a form of cheating, whether inadvertent or advertent.  You test a bunch of chemicals on rats to see whether they cause, say weight loss.  You do a statistical 
+test on each, to see whether there is significant evidence for weight loss.  The 
+results are judged by the probability <em>P</em> that evidence this strong would arise by 
+chance, if there were actually no effect.  You use a small probability, say 0.05, 
+as a sign that the effect is real.  But suppose that you have 100 different chemicals, and do 100 separate tests.  If none of these chemicals have any actual effect, what 
+is the chance that none of the tests will have <em>P</em> smaller than 0.05?</p>
+
+<p>That is easy to compute: it is 0.95<sup>100</sup>, which is 0.00592.  The chance that at least one of the 100 tests shows a value of <em>P</em> below 0.05 is actually 0.99408.  If what you do is pick that test (or tests) and write a scientific paper reporting the 
+effectiveness of that chemical, you will be committing P-hacking.  If none of the 
+chemicals actually works, over 99% of the time you will be able to announce that you have found a weight-loss drug.</p>
+
+<p>All that is relevant to evaluating the meaning of a mathematical paper in the ID journal <em>BIO-Complexity</em> in 2018.  It is by George Montañez, a computer scientist at Harvey Mudd College in Claremont, California.  It contains mathematical proofs that concepts of Specified Complexity can be considered in a unified way.  The unstated 
+implication is that with natural evolutionary processes, high levels of Specified Complexity cannot be expected.  Montañez’s paper can be found 
+<a href="https://bio-complexity.org/ojs/index.php/main/article/view/BIO-C.2018.4/BIO-C.2018.4">here</a>.</p>
+
+<p>Why am I bringing up P-hacking?  Not to accuse Montañez of it.  In fact, the 
+opposite.  It is to point out that natural selection acts like P-hacking.
+Let me explain, first what Montañez’s paper does, then what it says about demonstrating Design, 
+and finally how natural selection’s ``P hacking’’ makes that difficult:</p>
+
+<a class="anchor" id="more"></a>
+
+<h3 id="montañezs-paper">Montañez’s paper</h3>
+
+<p>Montañez’s paper in <em>BIO-Complexity</em> is a detailed mathematical treatment of how one can make a unified 
+mathematical framework for computing a quantity, Specified Complexity, one which brings together Dembski’s original 
+argument, algorithmic specified complexity, and irreducible complexity arguments.  I don’t find any mathematical 
+errors in it.  (For those interested: he uses a combination of the Neyman-Pearson Lemma with a distribution 
+constructed from a rescaling of the specification function to have unit area under it.  From this he finds a 
+rejection region for the null hypothesis.  He covers multiple cases. The likelihood ratio needed in the Neyman-Pearson 
+lemma is the ratio of this artificial distribution to the distribution under the null hypothesis.  He calls that 
+ratio the ``kardis’’, for which see the figure caption above.)</p>
+
+<h3 id="how-he-suggests-demonstrating-design">How he suggests demonstrating design</h3>
+
+<p>Montañez does discuss testing Design, which, like all ID advocates, he equates with rejecting the 
+hypothesis that the degree of adaptation, or, more mysteriously, the algorithmic simplicity of something-or-other, 
+can be accounted for by natural processes.  (For a lengthy rant by me on why the algorithmic simplicity argument 
+seems to make no sense, see <a href="https://pandasthumb.org/archives/2019/12/Is-Algorithmic-Specified-Complexity-Useless-for-Analyzing-Evolution.html">an earlier post by me</a>.  For Montañez, natural processes may be rejected if we do not 
+have probabilities of the observed adaptations when natural processes operate.  The burden of proof is on the biologists:</p>
+
+<blockquote>
+  <p>Simply put, <em>s</em> is the entry fee for a probabilistic mechanism to even enter the tournament of competing explanations. (Montañez, 2018, Section 6.1)</p>
+</blockquote>
+
+<p>No similar criterion is proposed for Design explanations to enter this tournament.  In effect, this is simply the 
+common taunt of Design advocates: if we do not have a probabilistic argument from a detailed model of natural 
+processes, we cannot reject Design Intervention.  When evolutionists ask for a similar calculation for the supposed 
+Design processes, this is waved away with the argument that we do not understand that Design is not that kind of 
+hypothesis.  In bills recently introduced in U.S. legislatures, they want to allow teaching of how Intelligent Design 
+explains biological adaptations.  It does not have <em>any</em> such explanation, whatever the legislators think.</p>
+
+<h3 id="why-we-do-not-have-a-detailed-probabilistic-model-of-evolution">Why we do not have a detailed probabilistic model of evolution</h3>
+
+<p>So Monta&amp;ntulde;ez only requires evolutionary biologists to have a “probabilistic mechanism” stated in sufficient 
+detail to actually compute a probability <em>p(x)</em> that the observed adaptations would occur.  And in addition, able to 
+compute the probabilities that adaptations that are as good or better will evolve.  What would we need to know?</p>
+
+<p>Well, we’d need to know all possible relevant features of the environment, including features of organisms that serve 
+as predators, prey, or competitors.  And we’d need to know the entire genetics of our organism, including the functions and interactions of all genes.  And we’d need to know the full developmental biology of all relevant phenotypes, the full physiology, and functional ecology.  That’s all.  Obviously we are nowhere near this.</p>
+
+<p>And what alternative do Montañez and his friends propose?  Nothing.  Not anything involving any of that biology. The classes in which they would teach their actual theory would be pleasantly short, involving just how to say “Poof!”.
+Once that is done, it is time for a relaxing recess.</p>
+
+<h3 id="functional-information">Functional Information</h3>
+
+<p>One of the distributions that Montañez points to is the one used by people who compute Functional Information.  This is not a creationist-and-or-ID computation, it is an attempt to quantitate how much biological information is 
+involved in an adaptation. We start with a uniform distribution over all possible genomes.  If the genome is, say, 
+1,000,000 bases long, there would be 4 possibilities at each of those million sites, for a total of 4<sup>1,000,000</sup> possible sequences.  That’s 10<sup>6020259</sup>, roughly.  We assume that all these are equally probable.  One needs to know what fraction of those achieve 
+higher specification, such as higher fitness, than the observed sequence.  Once we know that fraction <em>P</em>, we can 
+compute functional information as <em>-log<sub>2</sub>(P)</em> bits.</p>
+
+<p>If you were to take a random one of those sequences and mutate it randomly, you get another random sequence.  If mutation is the only relevant evolutionary process, the distribution of outcomes in the long run is the nearly the same as randomly choosing samples from all possibilities.  If we see in the real organism a reasonble 
+fitness, it would have an implausibly high functional information.  Applying 
+Montañez’s formulas we would reject random sampling from all sequences as the source of the observed sequence.</p>
+
+<h3 id="where-p-hacking-comes-in">Where P-hacking comes in</h3>
+
+<p>Is there some other, biologically plausible, process that could have produced the 
+observed sequence?  There is, of course – natural selection.  Instead of meandering mutationally generation after generation, P-hacking occurs.  Among the sequences available, the ones that have higher functionality (in this case, higher fitness) are more likely to be chosen.  If you did this, your teacher would be upset, because the result would be cheating on the exam.  But natural selection does this, not just in each generation, but repeatedly.  And the results accumulate.  Cumulative selection occurs, simply because each generation is the offspring of the previous one.No elaborate scheme is needed: organisms of higher fitness contribute more genes to the next generation, and future organisms are descended from those.</p>
+
+<p>In Montañez’s paper he says about the equiprobable distribution used in computing Functional Information that</p>
+
+<blockquote>
+  <p>Claiming that a probabilistic process boosts the 
+likelihood of observing some particular result 
+remains without force unless one can provide some 
+actual numbers for this claim, namely, what 
+<em>p(x)</em> is under the proposed distribution (or some 
+reasonable lower bound).  Thus the burden of 
+providing such estimates resides with those 
+proposing the probabilistic process as an 
+explanation in the first place.</p>
+</blockquote>
+
+<p>If the observed fitness of organisms is far higher than it would be for genomes typed on 
+four-key typewriters by monkeys, Montañez implies that we cannot simply invoke 
+cumulative natural selection.  We’ve got to supply a detailed probabilistic model. 
+Otherwise he will invoke Design Intervention.  Which always results in a probability 
+of 1 for whatever we see.  And that is the biggest P-hack of all.</p>
+
+
+</article>
+
+      </div>
+
+   
+<div id="disqus_thread" class="unit whole"></div>
+<script>
+var disqus_config = function () {
+this.page.url = 'https://pandasthumb.org/archives/2023/03/Phacking.html';
+this.page.identifier = '/archives/2023/03/Phacking';
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//the-pandas-thumb.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+
+    </div>
+  </section>
+
+
+  <footer>
+<div class="grid">
+<table bgcolor="204517">
+<tr><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
+  <div align="left">
+    <p>&nbsp;&nbsp;To see earlier posts, select the Archives at the top of this page</p>
+    <p></p>
+  </div>
+  <div id="RecentComments" class="dsq-widget">
+      <div align="center">
+       <h2>Recent Comments</h2>
+       <P>
+       To see the comment in context of the discussion click on the text that indicates how long ago the comment was posted, such as "2 hours ago".  Then wait for the post 
+     and then the comments to load (may take many seconds).  The comment should have a gray vertical bar to the left of the commenter's avatar.
+      <P>
+    </div>
+    <div>
+     <script type="text/javascript" src="https://the-pandas-thumb.disqus.com/recent_comments_widget.js?num_items=99&hide_mods=0&hide_avatars=0&avatar_size=32&excerpt_length=100"></script>
+    </div>
+  </div>
+</td></tr>
+  <tr><td></td><td><div class="unit whole">
+      <p>Copyright &copy; The Panda&#8217;s Thumb and original authors &mdash; Content provided under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons BY-NC-ND License 4.0</a>.</p>
+    <p></p>
+    </div>
+    </td></tr>
+  </table>
+  </div>
+  </footer>
+
+  
+
+</body>
+
+</html>
+
+
