@@ -9,8 +9,6 @@ Ken Ham is being quiet on who owns the new <a href="https://www.hilton.com/en/ho
 
 On March 5, Ken Ham bragged that <a href="https://answersingenesis.org/blogs/ken-ham/2023/03/05/new-hotel-opens-next-to-ark-encounter/">a new hotel was being built next to the Ark Park parking lot</a>. Ken was proud that he and select AIG staff were “offered” and given a tour of a new Hampton Inn hotel. It was not stated, but implied, that a new business, independent from AIG and Ark Encounter, was being brought to the region by the overwhelming success of the Ark. His tour is implied to have been given by an unnamed owner. 
 
-<!--more-->
-
 The address of this new Hampton Inn is 2 Skyway Drive, Williamstown, KY. According to the free portion of the Grant County PVA (Property Valuation Administrator) site, this property is owned by Great Tourism Hospitality, LLC (GTH) of Bellevue, Kentucky (Figure 1).
 
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
@@ -19,6 +17,8 @@ The address of this new Hampton Inn is 2 Skyway Drive, Williamstown, KY. Accordi
 </figcaption>
 </figure>
 
+<!--more-->
+
 A site called Open Corporates has information on Kentucky Corporations (Figure 2). The Kentucky company address for the “Great Tourism Hospitality, LLC” is PO Box 510, Hebron, KY. Hebron is near the Creation Museum, the headquarters of Answers in Genesis. Lo and behold, <a href="https://answersingenesis.org/about/contact/"> AIG’s mailing address</a> is <i>also</i> PO Box 510, Hebron,! I noticed a familiar name on the GTH list of Directors/Officers - a Mr. Scott Fetzer (Figure 3). Mr. Fetzer is the Treasurer for Answers in Genesis as well as the Director of Life Action Ministries. <a href="https://www.linkedin.com/in/scott-fetzer-58ab9938/"> Here</a> is Mr. Fetzer’s LinkedIn page where he lists himself as being the Chief Financial Officer at Answers in Genesis since 2017.  Thus, the CFO of AIG is also an agent for the hotel’s corporation, GTH. Great Tourism Hospitality, LLC, is incorporated in Ohio, and online information about their owners or Articles of Incorporation were not available. A search of the Kentucky Secretary of State’s general information database showed that <a href="https://web.sos.ky.gov/ftshow/(S(jc2yera1rbcvj0kiku1rt5dc))/default.aspx?path=ftsearch&id=1170595&ct=06&cs=99999&ce=RCeknMkeMwkfvXIkIqla3qquI9dzfchxO8C20a%2bWpNXWyzYyco6t7fKdE5LWYlHV">Great Tourism Hospitality is incorporated in Ohio and doing business in Kentucky</a>. 
 
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
@@ -26,7 +26,6 @@ A site called Open Corporates has information on Kentucky Corporations (Figure 2
 <figcaption>Figure 2. <a href="">Open Corporates listing for Great Tourism Hospitality, LLC</a>. Note that Scott Fetzer is the Kentucky Agent and a Director/Officer for Great Tourism Hospitality and that the company address is PO Box 510, Hebron, KY. For a higher resolution picture, click <a href="/uploads/2023/Phelps_Hotel_Fig_2.jpg">here</a>.
 </figcaption>
 </figure>
- 
 
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
 <img src="/uploads/2023/Phelps_Hotel_Fig_3_600.jpg" alt="Listing for Scott Fetzer"/>
