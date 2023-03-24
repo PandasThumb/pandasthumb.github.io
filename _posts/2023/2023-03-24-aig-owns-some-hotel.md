@@ -9,6 +9,8 @@ Ken Ham is being quiet on who owns the new <a href="https://www.hilton.com/en/ho
 
 On March 5, Ken Ham bragged that <a href="https://answersingenesis.org/blogs/ken-ham/2023/03/05/new-hotel-opens-next-to-ark-encounter/">a new hotel was being built next to the Ark Park parking lot</a>. Ken was proud that he and select AIG staff were “offered” and given a tour of a new Hampton Inn hotel. It was not stated, but implied, that a new business, independent from AIG and Ark Encounter, was being brought to the region by the overwhelming success of the Ark. His tour is implied to have been given by an unnamed owner. 
 
+<!--more-->
+
 The address of this new Hampton Inn is 2 Skyway Drive, Williamstown, KY. According to the free portion of the Grant County PVA (Property Valuation Administrator) site, this property is owned by Great Tourism Hospitality, LLC (GTH) of Bellevue, Kentucky (Figure 1).
 
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
