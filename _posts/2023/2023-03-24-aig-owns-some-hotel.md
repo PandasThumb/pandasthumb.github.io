@@ -11,7 +11,7 @@ On March 5, Ken Ham bragged that <a href="https://answersingenesis.org/blogs/ken
 
 The address of this new Hampton Inn is 2 Skyway Drive, Williamstown, KY. According to the free portion of the Grant County PVA (Property Valuation Administrator) site, this property is owned by Great Tourism Hospitality, LLC (GTH) of Bellevue, Kentucky (Figure 1).
 
-<figure class="center" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
+<figure>
 <img src="/uploads/2023/Phelps_Hotel_Fig_1_600.jpg" alt="Grant County PVA listing"/>
   <figcaption>Figure 1. Screenshot of Grant County PVA description of 2 Skyway Drive. For a higher resolution picture, click <a href="/uploads/2023/Phelps_Hotel_Fig_1.jpg">here</a>.
 </figcaption>
@@ -25,7 +25,7 @@ A site called Open Corporates has information on Kentucky Corporations (Figure 2
 
 &nbsp;
 
-<figure class="center" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
+<figure>
 <img src="/uploads/2023/Phelps_Hotel_Fig_2_600.jpg" alt="Listing for GTH"/>
 <figcaption>Figure 2. Open Corporates listing for Great Tourism Hospitality, LLC. Note that Scott Fetzer is the Kentucky Agent and a Director/Officer for Great Tourism Hospitality and that the company address is PO Box 510, Hebron, KY. For a higher resolution picture, click <a href="/uploads/2023/Phelps_Hotel_Fig_2.jpg">here</a>.
 </figcaption>
@@ -33,7 +33,7 @@ A site called Open Corporates has information on Kentucky Corporations (Figure 2
 
 &nbsp;
 
-<figure class="center" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
+<figure>
 <img src="/uploads/2023/Phelps_Hotel_Fig_3_600.jpg" alt="Listing for Scott Fetzer"/>
 <figcaption>Figure 3. Open Corporates listing for Mr. Scott Fetzer. For a higher resolution picture, click <a href="/uploads/2023/Phelps_Hotel_Fig_3.jpg">here</a>.
 </figcaption>
