@@ -27,7 +27,7 @@ A site called Open Corporates has information on Kentucky Corporations (Figure 2
 
 <figure class="center" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
 <img src="/uploads/2023/Phelps_Hotel_Fig_2_600.jpg" alt="Listing for GTH"/>
-<figcaption>Figure 2. Open Corporates listing for Great Tourism Hospitality, LLC</a>. Note that Scott Fetzer is the Kentucky Agent and a Director/Officer for Great Tourism Hospitality and that the company address is PO Box 510, Hebron, KY. For a higher resolution picture, click <a href="/uploads/2023/Phelps_Hotel_Fig_2.jpg">here</a>.
+<figcaption>Figure 2. Open Corporates listing for Great Tourism Hospitality, LLC. Note that Scott Fetzer is the Kentucky Agent and a Director/Officer for Great Tourism Hospitality and that the company address is PO Box 510, Hebron, KY. For a higher resolution picture, click <a href="/uploads/2023/Phelps_Hotel_Fig_2.jpg">here</a>.
 </figcaption>
 </figure>
 
