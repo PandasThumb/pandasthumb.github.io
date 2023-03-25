@@ -11,11 +11,12 @@ On March 5, Ken Ham bragged that <a href="https://answersingenesis.org/blogs/ken
 
 The address of this new Hampton Inn is 2 Skyway Drive, Williamstown, KY. According to the free portion of the Grant County PVA (Property Valuation Administrator) site, this property is owned by Great Tourism Hospitality, LLC (GTH) of Bellevue, Kentucky (Figure 1).
 
+<div align="center">
 <figure class="center" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
 <img src="/uploads/2023/Phelps_Hotel_Fig_1_600.jpg" alt="Grant County PVA listing"/>
   <figcaption>Figure 1. Screenshot of Grant County PVA description of 2 Skyway Drive. For a higher resolution picture, click <a href="/uploads/2023/Phelps_Hotel_Fig_1.jpg">here</a>.
 </figcaption>
-</figure>
+</figure></div>
 
 &nbsp;
 
@@ -23,12 +24,14 @@ The address of this new Hampton Inn is 2 Skyway Drive, Williamstown, KY. Accordi
 
 A site called Open Corporates has information on Kentucky Corporations (Figure 2). The Kentucky company address for the “Great Tourism Hospitality, LLC” is PO Box 510, Hebron, KY. Hebron is near the Creation Museum, the headquarters of Answers in Genesis. Lo and behold, <a href="https://answersingenesis.org/about/contact/"> AIG’s mailing address</a> is <i>also</i> PO Box 510, Hebron,! I noticed a familiar name on the GTH list of Directors/Officers - a Mr. Scott Fetzer (Figure 3). Mr. Fetzer is the Treasurer for Answers in Genesis as well as the Director of Life Action Ministries. <a href="https://www.linkedin.com/in/scott-fetzer-58ab9938/"> Here</a> is Mr. Fetzer’s LinkedIn page where he lists himself as being the Chief Financial Officer at Answers in Genesis since 2017.  Thus, the CFO of AIG is also an agent for the hotel’s corporation, GTH. Great Tourism Hospitality, LLC, is incorporated in Ohio, and online information about their owners or Articles of Incorporation were not available. A search of the Kentucky Secretary of State’s general information database showed that <a href="https://web.sos.ky.gov/ftshow/(S(jc2yera1rbcvj0kiku1rt5dc))/default.aspx?path=ftsearch&id=1170595&ct=06&cs=99999&ce=RCeknMkeMwkfvXIkIqla3qquI9dzfchxO8C20a%2bWpNXWyzYyco6t7fKdE5LWYlHV">Great Tourism Hospitality is incorporated in Ohio and doing business in Kentucky</a>. 
 
+&nbsp;
 
+<div align="center">
 <figure class="center" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
 <img src="/uploads/2023/Phelps_Hotel_Fig_2_600.jpg" alt="Listing for GTH"/>
 <figcaption>Figure 2. Open Corporates listing for Great Tourism Hospitality, LLC</a>. Note that Scott Fetzer is the Kentucky Agent and a Director/Officer for Great Tourism Hospitality and that the company address is PO Box 510, Hebron, KY. For a higher resolution picture, click <a href="/uploads/2023/Phelps_Hotel_Fig_2.jpg">here</a>.
 </figcaption>
-</figure>00
+</figure></div>
 
 &nbsp;
 
@@ -37,6 +40,8 @@ A site called Open Corporates has information on Kentucky Corporations (Figure 2
 <figcaption>Figure 3. Open Corporates listing for Mr. Scott Fetzer. For a higher resolution picture, click <a href="/uploads/2023/Phelps_Hotel_Fig_3.jpg">here</a>.
 </figcaption>
 </figure>
+
+&nbsp;
 
 It turns out that a different representative of Great Tourism Hospitality, LLC, appeared before a Williamstown City Council special meeting on September 23, 2021. The City Council unanimously gave permission to Great Tourism Hospitality, LLC, to begin clearing the property for hotel construction. According to the meeting minutes, the Ark <a href="https://cms5.revize.com/revize/williamstown/Document_Center/Agendas%20&%20Minutes/2021/Minutes/09-23-21_CMS.pdf"> sold part of its parking lot</a> for the Hampton Inn. This is interesting. Did the for-profit Ark Encounter sell the land to its owner, the non-profit Answers in Genesis? Answers in Genesis, a non-profit, now seems to be a part owner of the Hampton Inn.  What were the complexities of a non-profit selling this small parcel of property to a presumably for-profit hotel business that is at least partly owned by the non-profit? Was the hotel built on part of the nearly 100 acres of land Williamstown originally sold the Ark for $2?
 
