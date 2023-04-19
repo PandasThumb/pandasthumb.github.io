@@ -27,7 +27,7 @@ Or was it?
 
 <!--comment-->
 
-##Afterglow##
+## Afterglow ##
 
 For a few days after, one could access a version of UD that was in its original form, and 
 did not include Dembski's farewell post.  Commenters continued to argue in the threads 
@@ -43,7 +43,7 @@ comments with it.
 There are many fond memories I have of UD.  I'll just mention two (you are encouraged to 
 tell us yours, in the comments below).
 
-###Indefensible###
+### Indefensible ###
 
 The first was a post by the late, lamented Gil Dodgen [(here)](http://www.uncommondescent.com/intelligent-design/at-some-point-the-obvious-becomes-transparently-obvious-or-recognizing-the-forrest-with-alls-its-barbs-through-the-trees/) in 2011.  Forgetting the main meaning of the word "indefensible", he declared that
 
@@ -51,7 +51,7 @@ The first was a post by the late, lamented Gil Dodgen [(here)](http://www.uncomm
 
 (I think he meant by "indefensible" that no one could mount a defense against the "assaults").  Anyway, I [rushed to agree](http://pandasthumb.org/archives/2011/06/total-agreement.html) here at PT.
 
-###The Great Purge of 2012###
+### The Great Purge of 2012 ###
 
 My second favorite UD moment was Barry Arrington carrying out the Great Purge of 2012.  Obviously 
 irritated by having so many cogent opponents of ID in the comment section, he declared that 
@@ -81,7 +81,7 @@ die of lack of interest, because he allowed some to remain after that, without
 getting too insistent on the existence of the moon.
 
 
-##Failures to stay on-topic##
+## Failures to stay on-topic ##
 
 I wish I could say that most of the discussion at UD was about evolution 
 and ID.  But the pro-ID and/or creationist participants seemed to feel 
@@ -97,7 +97,7 @@ origin of the Universe or of morality has basically nothing to do
 with whether evolution occurred or whether Design Intervention must 
 have occurred.
 
-##The Big Tent##
+## The Big Tent ##
 
 The Intelligent Design movement tries to maintain a "big tent", 
 and make its arguments attractive to people who reject 
@@ -114,7 +114,7 @@ rejected evolution.  These folks never seemed to notice one
 another, let alone debate each other.  So much for deep thinking 
 about evolutionary theory.
 
-##What were your favorite moments?##
+## What were your favorite moments? ##
 
 But enough from me.  For those who paid attention to UD, what were 
 your favorite moments?
