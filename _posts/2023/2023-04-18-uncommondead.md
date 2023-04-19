@@ -4,11 +4,10 @@ date: 2023-04-18 17:00:00 -08:00
 author: Joe Felsenstein
 ---
 
-&nbsp;
 
 <figure><img src="/uploads/2023/undead.png" alt="part of UD logo"/><figcaption><div align="center">Uncommon Descent sinks slowly in the west (Fair Use claimed)</div></figcaption></figure>
 
-&nbsp;
+<p></p>
 
 The ID-advocacy blog Uncommon Descent is dead (or maybe undead).  The blog was founded by 
 William Dembski in April, 2005, the year of the Dover School Board case.  It became a central 
@@ -78,7 +77,7 @@ en masse.  Even some creationist commenters reacted that way ... and they were b
 <p></p>
 One of the most patient, temperate, polite, incisive, and logical pro-evolution commenters at UD was 
 Elizabeth Liddle, a neuroscientist at the University of Nottingham in England.  She 
-immediately made available her own blog [The Skeptical Zone](https://thesketicalzone.org) as 
+immediately made available her own blog [The Skeptical Zone](https://theskepticalzone.org) as 
 a home for discussion by the banned and the unbanned.
 <p></p>
 I later made a post about this hilarious purge (in 2015 [at The Skeptical Zone](http://theskepticalzone.com/wp/was-denial-of-the-laws-of-thought-a-myth/)) asking whether 
