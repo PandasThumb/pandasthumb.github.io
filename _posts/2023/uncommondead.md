@@ -53,7 +53,7 @@ The first was a post by the late, lamented Gil Dodgen [(here)](http://www.uncomm
 
 ### The Great Purge of 2012 ###
 
-My second favorite UD moment was Barry Arrington carrying out the Great Purge of 2012.  Obviously 
+My second favorite UD moment was Barry Arrington carrying out [the Great Purge of 2012](https://uncommondescent.com/intelligent-design/why-is-barry-arringtonstifling-dissent-at-ud/).  Obviously 
 irritated by having so many cogent opponents of ID in the comment section, he declared that 
 
 > The issue, then, is not whether persons who disagree with us on the facts and logic will be allowed to debate on this site. Anyone who disagrees about the facts and logic is free to come here at any time. But if you come on here and say, essentially, that facts and logic do not matter, then we have no use for you.
