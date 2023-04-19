@@ -27,7 +27,7 @@ The blog had died, and was only available in that form.
 <p></p>
 Or was it?
 
-<!--comment-->
+<!---comment--->
 
 ## Afterglow
   
@@ -44,7 +44,7 @@ comments with it.
 
 ## My favorite moments
 
-  <p></p>
+<p></p>
 There are many fond memories I have of UD.  I'll just mention two (you are encouraged to 
 tell us yours, in the comments below).
 <p></p>
@@ -127,9 +127,9 @@ another, let alone debate each other.  So much for deep thinking
 about evolutionary theory.
 <p></p>
 
-  ## What were your favorite moments?
+## What were your favorite moments?
 
-  <p></p>
+<p></p>
 But enough from me.  For those who paid attention to UD, what were 
 your favorite moments?
 
