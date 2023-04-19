@@ -4,6 +4,8 @@ date: 2023-04-19 12:00:00 -08:00
 author: Joe Felsenstein
 ---
 
+&nbsp;
+
 <figure><img src="/uploads/2023/undead.png" alt="part of UD logo"/><figcaption><div align="center">Uncommon Descent sinks slowly in the west (Fair Use claimed)</div></figcaption>
 
 &nbsp;
