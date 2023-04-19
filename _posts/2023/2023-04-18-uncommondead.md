@@ -27,7 +27,7 @@ The blog had died, and was only available in that form.
 <p></p>
 Or was it?
 
-<!--comment-->
+<!--more-->
 
 ## Afterglow
   
