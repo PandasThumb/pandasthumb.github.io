@@ -40,7 +40,7 @@ for UD, corresponding to different forms of the URL.
 But the undead version had not long to go.  It seems now to have vanished, and its recent 
 comments with it.
 
-##My favorite moments##
+## My favorite moments ##
 
 There are many fond memories I have of UD.  I'll just mention two (you are encouraged to 
 tell us yours, in the comments below).
