@@ -77,7 +77,7 @@ en masse.  Even some creationist commenters reacted that way ... and they were b
 <p></p>
 One of the most patient, temperate, polite, incisive, and logical pro-evolution commenters at UD was 
 Elizabeth Liddle, a neuroscientist at the University of Nottingham in England.  She 
-immediately made available her own blog [The Skeptical Zone](https://theskepticalzone.org) as 
+immediately made available her own blog [The Skeptical Zone](https://theskepticalzone.com) as 
 a home for discussion by the banned and the unbanned.
 <p></p>
 I later made a post about this hilarious purge (in 2015 [at The Skeptical Zone](http://theskepticalzone.com/wp/was-denial-of-the-laws-of-thought-a-myth/)) asking whether 
