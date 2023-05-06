@@ -1,6 +1,6 @@
 ---
 title: 'Existential Physics: Book review'
-date: '2024-05-06 10:27:00 -06:00'
+date: '2023-05-06 10:27:00 -06:00'
 author: Matt Young
 ---
 
