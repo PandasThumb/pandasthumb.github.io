@@ -1,5 +1,5 @@
 ---
-title: 'Creationist paper on Heat Problems Associated with Genesis Flood'
+title: 'Creationist Paper on Heat Problems Associated with Genesis Flood'
 date: '2023-05-18 09:02:00 -06:00'
 author: Dan Phelps
 ---
