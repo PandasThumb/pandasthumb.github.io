@@ -177,6 +177,6 @@ subtracted.
 Iacoboni is a teleologist, who sees the whole universe as 
 designed.  To him it is that "telos" that brings about 
 the change, and natural selection is just a fancy and 
-misleading name for the processes doing the 
+misleading name for the grubby processes doing the 
 dirty work.
 
