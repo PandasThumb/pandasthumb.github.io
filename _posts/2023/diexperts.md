@@ -6,7 +6,7 @@ author: Joe Felsenstein
 
 <div align="center">
 <figure><img src="/uploads/2023/Polar_bear.jpeg" alt="Roaring polar bear"/>
-<figaption>Polar bear on sea ice north of Svalbard. Photo by Andreas Weith. [From Wikimedia](https://commons.wikimedia.org/wiki/File:Polar_bear_after_unlucky_hunt_for_a_seal.jpg), under the [Creative Commons Attribution-Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en).</figcaption></figure></div>
+<figcaption>Polar bear on sea ice north of Svalbard. Photo by Andreas Weith. [From Wikimedia](https://commons.wikimedia.org/wiki/File:Polar_bear_after_unlucky_hunt_for_a_seal.jpg), under the [Creative Commons Attribution-Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en).</figcaption></figure></div>
 
 Every so often, the Evolution News site run by the Discovery Institute 
 brings in an expert to explain why the adaptations in organisms 
