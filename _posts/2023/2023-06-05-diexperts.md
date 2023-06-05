@@ -26,6 +26,7 @@ researcher".  But somehow these impressive
 credentials do not carry over into a discussion of natural 
 selection.
 
+<p></p>
 Dr. Iacoboni has written two articles at Evolution News, 
 the first [_A New Look at Natural Selection_](https://evolutionnews.org/2023/04/a-new-look-at-natural-selection/) on 
 April 18, and
