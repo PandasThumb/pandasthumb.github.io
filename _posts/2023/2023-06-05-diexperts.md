@@ -20,6 +20,7 @@ the particle physicist Dr. Eric Hedin, who
 is also Professor and Chair of the Department of Chemistry, Physics 
 and Engineering at Biola University.
 
+<p></p>
 I do not doubt that Dr. Iacoboni is an "award-winning cancer 
 researcher".  But somehow these impressive 
 credentials do not carry over into a discussion of natural 
