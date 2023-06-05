@@ -6,7 +6,7 @@ author: Joe Felsenstein
 
 <figure><img src="/uploads/2023/Polar_bear.jpeg" alt="Roaring polar bear"/>
 <figcaption><div align="center">Polar bear on sea ice north of Svalbard. Photo by Andreas Weith. <a href="https://commons.wikimedia.org/wiki/File:Polar_bear_after_unlucky_hunt_for_a_seal.jpg">From Wikimedia</a>,
-under the <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">Creative Commons Attribution-Share Alike 4.0 International license</a>.</div></figcaption></figure>
+under<br/>the <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">Creative Commons Attribution-Share Alike 4.0 International license</a>.</div></figcaption></figure>
  
   
 Every so often, the Evolution News site run by the Discovery Institute 
