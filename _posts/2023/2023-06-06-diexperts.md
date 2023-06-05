@@ -1,6 +1,6 @@
 ---
 title: Discovery Institute experts misunderstand natural selection, Part 1
-date: 2023-06-05 18:00:00 -08:00
+date: 2023-06-06 12:00:00 -08:00
 author: Joe Felsenstein
 ---
 
