@@ -65,7 +65,7 @@ the point that evolution "only subtracts".
 
 Natural selection typically changes the gene frequencies in a 
 population.  Can this "create"?  It can change the genotype 
-of typical members of a population.  If 1&percnt; of the copies 
+of typical members of a population.  If 1% of the copies 
 at a locus are allele _A_, and the rest allele _a_, then we 
 expect 0.0001 (that is, 1/100 of 1%) of the individuals 
 in the population to have genotype _AA_, and 0.0198 of the 
