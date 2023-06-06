@@ -67,9 +67,9 @@ Natural selection typically changes the gene frequencies in a
 population.  Can this "create"?  It can change the genotype 
 of typical members of a population.  If 1&percnt; of the copies 
 at a locus are allele _A_, and the rest allele _a_, then we 
-expect 0.0001 (that is, 1/100 of 1&percnt;) of the individuals 
+expect 0.0001 (that is, 1/100 of 1%) of the individuals 
 in the population to have genotype _AA_, and 0.0198 of the 
-individuals to have genotype _Aa_.  The rest (98.01&percnt;) 
+individuals to have genotype _Aa_.  The rest (98.01%) 
 are _aa_.  Once natural selection 
 has changed the frequency of the _A_ alele to bring it from 
 1&percnt; up to 
@@ -85,8 +85,8 @@ No actual specialist in information theory would take that
 seriously. Information theory calculates information using probabilities, not 
 just the fact that both 0s and 1s can occur.  A gambler would 
 not take the theory seriously either, if you told them that 
-it doesn't matter whether you win 99&percnt; of the time or 
-1&percnt; of the time, all that matters is that sometimes 
+it doesn't matter whether you win 99% of the time or 
+1% of the time, all that matters is that sometimes 
 you win.  Though they would suddenly get 
 _very_ interested in making a few private bets with you.
 
