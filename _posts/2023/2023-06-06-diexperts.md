@@ -72,9 +72,9 @@ in the population to have genotype _AA_, and 0.0198 of the
 individuals to have genotype _Aa_.  The rest (98.01%) 
 are _aa_.  Once natural selection 
 has changed the frequency of the _A_ alele to bring it from 
-1&percnt; up to 
-99&percnt;, it is now the _AA_ homozygote that makes up most of
-the population, with _Aa_ having risen to near 50&percnt; and 
+1% up to 
+99%, it is now the _AA_ homozygote that makes up most of
+the population, with _Aa_ having risen to near 50% and 
 then fallen back to 0.0198. _aa_ will now be the genotype 
 that has a frequency of 0.0001.
 
