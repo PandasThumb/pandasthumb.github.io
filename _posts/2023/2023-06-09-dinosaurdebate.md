@@ -1,6 +1,6 @@
 ---
 title: 'Ken Ham to be Interviewed by Dinosaur Denier and Moon Landing “Skeptic” '
-date: 2023-06-09 12:00:00 -08:00
+date: 2023-06-09 09:00:00 -08:00
 author: Dan Phelps
 ---
 
