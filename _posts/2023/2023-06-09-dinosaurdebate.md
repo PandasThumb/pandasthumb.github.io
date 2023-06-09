@@ -5,7 +5,7 @@ author: Dan Phelps
 ---
 
 <figure><img src="/uploads/2023/StuckeyDinosaur.jpg" alt="StuckeyDinosaurs video"/>
-<figcaption><div align="center">Can Ken Ham persuade her that dinosaurs are real?  Screenshot from YouTube.  Fair use claimed.</div>
+<figcaption><div align="center">Can Ken Ham persuade her that dinosaurs are real?<br/>  Screenshot from YouTube.  Fair use claimed.</div>
 </figure>
 
 <p>&nbsp;</p>
