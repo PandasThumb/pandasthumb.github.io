@@ -4,7 +4,7 @@ date: 2023-06-09 12:00:00 -08:00
 author: Dan Phelps
 ---
 
-<figure><img src="/uploads/2023/stuckey.jpg" alt="StuckeyDinosaurs video"/>
+<figure><img src="/uploads/2023/StuckeyDinosaur.jpg" alt="StuckeyDinosaurs video"/>
 <figcaption><div align="center">Can Ken Ham persuade her that dinosaurs are real?  Screenshot from YouTube.  Fair use claimed.</div>
 </figure>
 
