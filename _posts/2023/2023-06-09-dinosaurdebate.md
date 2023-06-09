@@ -6,7 +6,7 @@ author: Dan Phelps
 
 <figure><img src="/uploads/2023/StuckeyDinosaur.jpg" alt="StuckeyDinosaurs video"/>
 <figcaption><div align="center">Can Ken Ham persuade her that dinosaurs are real?<br/>  Screenshot from YouTube.  Fair use claimed.</div>
-</figure>
+  </figcaption></figure>
 
 <p>&nbsp;</p>
 On June 7, 2023, Ken Ham tweeted that he was soon going to appear on Allie Beth Stuckey’s podcast “Relatable.” Ms. Stuckey has appeared  at at least one Answers in Genesis‘s “Answers for Women” conference and will be at one scheduled in 2024. Her description at AiG can be found [here](https://answersingenesis.org/bios/allie-beth-stuckey/). I was previously unfamiliar with Ms. Stuckey, or her popular podcast, so I decided to look closer and await Ken’s future appearance. I glanced at the titles of the more than 800 YouTube videos of the podcast that were available and watched short bits of several. Whew! What a vapid and reactionary show “Relatable” turned out to be! Almost every Christian Nationalist obsession and talking point of the last few years is covered by the podcast; everything from opposition to vaccination mandates to bizarre claims about Antifa being a major part of the January 6 insurrection, to an obsession with gay and transgender people. She could easily be a Tucker Carlson replacement on Fox News.
