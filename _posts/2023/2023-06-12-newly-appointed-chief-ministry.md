@@ -5,8 +5,8 @@ author: Paul Braterman
 ---
 
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
-<img src="/uploads/2023/Braterman_Martyn_Iles_600.jpg" alt="Martyn Iles"/><small>Source: AiG.</small>
-<figcaption><a href=""></a>
+<img src="/uploads/2023/Braterman_Martyn_Iles_600.jpg" alt="Martyn Iles"/>
+<figcaption><small>Source: AiG.</small>
 </figcaption></figure>
 <p><i>This is a synopsis of a <a href="https://3quarksdaily.com/3quarksdaily/2023/06/leading-creationist-organisation-appoints-conspiracy-theorist-to-key-position.html">fuller version</a> that has appeared in </i>3 Quarks Daily.</p>
 <p>Panda's Thumb readers will be familiar with Answers in Genesis, its position as the most vocal and best funded of Young Earth Creationist organisations (assets in excess of $82 million; owner of the Kentucky Creation Museum and Ark Encounter), its links with the Cornwall Alliance <a href="https://rightingamerica.net/the-nature-of-the-beast-fossil-fuel-corporations-the-cornwall-alliance-and-climate-change-denial/">and hence with the fossil fuel industry</a>, and its use of biblical arguments to dismiss concerns about the current environmental crisis. In my own reading of AiG materials, I have detected a progressive repetitiveness and loss of vigour. I have also noticed worrying signs of openness to the suggestion that we are living in the Last Days, with all that that implies for the abdication of long-term responsibilities. </p>
