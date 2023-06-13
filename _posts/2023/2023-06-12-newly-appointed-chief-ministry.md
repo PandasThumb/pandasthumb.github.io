@@ -5,7 +5,7 @@ author: Paul Braterman
 ---
 
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
-<img src="/uploads/2023/Braterman_Martyn_Iles_600.jpg" alt="Martyn Iles"/>
+<img src="/uploads/2023/Braterman_Martyn_Iles.jpg" alt="Martyn Iles"/>
 <figcaption><small>Source: AiG.</small>
 </figcaption></figure>
 <p><i>This is a synopsis of a <a href="https://3quarksdaily.com/3quarksdaily/2023/06/leading-creationist-organisation-appoints-conspiracy-theorist-to-key-position.html">fuller version</a> that has appeared in </i>3 Quarks Daily.</p>
