@@ -33,7 +33,7 @@ The rules of the contest are simple:
 
 <li>Photographs may be enhanced but may not be montages. High dynamic range photographs and focus-stacked photographs are, however, accepted. </li>
 
-<li>Submit a maximum of 3 photographs (or 5 photographs per family) to thousandwords@pandasthumb.org. </li>
+<li>Submit a maximum of 3 photographs (or 5 photographs per family) to <strike>thousandwords@pandasthumb.org</strike> ProfessorSteveSteve@gmail.com. </li>
 
 <li>Submit the photographs as attachments to an e-mail (not embedded in the body of the e-mail). The subject line to the e-mail must have the form YourLastName_PhotographyContest. The filenames for the photographs must have the form YourLastName_Descriptor as, for example, Young_Oxytropis_sericea or Young_Table_Mountain, as appropriate. </li>
 
