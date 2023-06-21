@@ -28,25 +28,25 @@ I’ve done so [in 18 posts](https://creationismeweersproken.blogspot.com/2023/0
 One file ‘The red panda and Cserhati collection’ presents the total of my posts; the individual posts are as follows (number is page number in the ‘collection’ post):
 
 | post | title | page number which is also a link |
-| ---- | ----- | -------------------------------- |
-| 1 | The scientific situation | :[2](/uploads/2023/redpandacserhati.pdf#page=2): |
-| 2 | Literature survey | :[10](/uploads/2023/redpandacserhati.pdf#page=10): |
-| 3 | A phylogeny is a mobile | :[14](/uploads/2023/redpandacserhati.pdf#page=14): |
-| 4 | Two papers | :[17](/uploads/2023/redpandacserhati.pdf#page=17): |
-| 5 | The introduction of the BMC GENOMICS article | :[19](/uploads/2023/redpandacserhati.pdf#page=19): |
-| 6 | WHOLE GENOME K-MER SIGNATURE | :[30](/uploads/2023/redpandacserhati.pdf#page=30): |
-| 7 | WGKS IS not suitable for phylogeny | :[40](/uploads/2023/redpandacserhati.pdf#page=40): |
-| 8 | Clustering | :[46](/uploads/2023/redpandacserhati.pdf#page=46): |
-| 9 | Clusters on WGKS data | :[49](/uploads/2023/redpandacserhati.pdf#page=49): |
-| 10 | Procyonidae WGKS? | :[55](/uploads/2023/redpandacserhati.pdf#page=55): |
-| 11 | Clustering mtDNA | :[58](/uploads/2023/redpandacserhati.pdf#page=58): |
-| 12 | Phylogenetic trees based on mtDNA | :[64](/uploads/2023/redpandacserhati.pdf#page=64): |
-| 13 | The BMC GENOMICS article | :[73](/uploads/2023/redpandacserhati.pdf#page=73): |
-| 14 | The introduction of the CRSQ artcle | :[76](/uploads/2023/redpandacserhati.pdf#page=76): |
-| 15 | Data and results in the CRSQ article | :[80](/uploads/2023/redpandacserhati.pdf#page=80): |
-| 16 | Conclusions and discussion in the CRSQ article | :[97](/uploads/2023/redpandacserhati.pdf#page=97): |
-| 17 | Baramin | :[105](/uploads/2023/redpandacserhati.pdf#page=105): |
-| 18 | Cserhati tries to answer | :[112](/uploads/2023/redpandacserhati.pdf#page=112): |
+| ---- | ----- | :---: |
+| 1 | The scientific situation | [2](/uploads/2023/redpandacserhati.pdf#page=2) |
+| 2 | Literature survey | [10](/uploads/2023/redpandacserhati.pdf#page=10) |
+| 3 | A phylogeny is a mobile | [14](/uploads/2023/redpandacserhati.pdf#page=14) |
+| 4 | Two papers | [17](/uploads/2023/redpandacserhati.pdf#page=17) |
+| 5 | The introduction of the BMC GENOMICS article | [19](/uploads/2023/redpandacserhati.pdf#page=19) |
+| 6 | WHOLE GENOME K-MER SIGNATURE | [30](/uploads/2023/redpandacserhati.pdf#page=30) |
+| 7 | WGKS IS not suitable for phylogeny | [40](/uploads/2023/redpandacserhati.pdf#page=40) |
+| 8 | Clustering | [46](/uploads/2023/redpandacserhati.pdf#page=46) |
+| 9 | Clusters on WGKS data | [49](/uploads/2023/redpandacserhati.pdf#page=49) |
+| 10 | Procyonidae WGKS? | [55](/uploads/2023/redpandacserhati.pdf#page=55) |
+| 11 | Clustering mtDNA | [58](/uploads/2023/redpandacserhati.pdf#page=58) |
+| 12 | Phylogenetic trees based on mtDNA | [64](/uploads/2023/redpandacserhati.pdf#page=64) |
+| 13 | The BMC GENOMICS article | [73](/uploads/2023/redpandacserhati.pdf#page=73) |
+| 14 | The introduction of the CRSQ artcle | [76](/uploads/2023/redpandacserhati.pdf#page=76) |
+| 15 | Data and results in the CRSQ article | [80](/uploads/2023/redpandacserhati.pdf#page=80) |
+| 16 | Conclusions and discussion in the CRSQ article | [97](/uploads/2023/redpandacserhati.pdf#page=97) |
+| 17 | Baramin | [105](/uploads/2023/redpandacserhati.pdf#page=105) |
+| 18 | Cserhati tries to answer | [112](/uploads/2023/redpandacserhati.pdf#page=112) |
 
 Creationism is considered in posts 14, 17 and in parts of post 18. Posts 15 and 16 are about clustering, and therefore technical and not about creationism, although the article discussed is in CRSQ.
 
