@@ -1,6 +1,6 @@
 ---
 title: The red panda and Cserhati
-date: 2023-06-22 12:00:00 -08:00
+date: 2023-06-23 12:00:00 -08:00
 author: Gerdien de Jong
 ---
 
