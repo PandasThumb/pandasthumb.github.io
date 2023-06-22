@@ -4,7 +4,7 @@ date: 2023-06-22 12:00:00 -08:00
 author: Gerdien de Jong
 ---
 
-<figure><img src="/uploads/2023/blah.jpeg" alt="red panda image"/><figcaption>Red Panda</figcaption></figure>
+<figure><img src="/uploads/2022/Red_Panda_600.jpg" alt="red panda image"/><figcaption><div align="center">Red Panda, puzzled as to what a baramin is</div></figcaption></figure>
 
 
 In december 2022, I wrote [a blogpost on Panda’s Thumb](https://pandasthumb.org/archives/2022/12/a-tale-of-two-papers.html) about two articles on the classification of the red panda <em>Ailurus fulgens</em> by Matthew/Matyas Cserhati.
