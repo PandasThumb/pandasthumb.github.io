@@ -27,26 +27,26 @@ I’ve done so [in 18 posts](https://creationismeweersproken.blogspot.com/2023/0
 
 One file ‘The red panda and Cserhati collection’ presents the total of my posts; the individual posts are as follows (number is page number in the ‘collection’ post):
 
-| post | title (which is also a link) |
-| ----: |:---|
-| 1 | [The scientific situation](/uploads/2023/RedPanda1.pdf) |
-| 2 | [Literature survey](/uploads/2023/RedPanda2.pdf) |
-| 3 | [A phylogeny is a mobile](/uploads/2023/RedPanda3.pdf) |
-| 4 | [Two papers](/uploads/2023/RedPanda4.pdf) |
-| 5 | [The introduction of the BMC GENOMICS article](/uploads/2023/RedPanda5.pdf) |
-| 6 | [WHOLE GENOME K-MER SIGNATURE](/uploads/2023/RedPanda6.pdf) |
-| 7 | [WGKS IS not suitable for phylogeny](/uploads/2023/RedPanda7.pdf) |
-| 8 | [Clustering](/uploads/2023/RedPanda8.pdf) |
-| 9 | [Clusters on WGKS data](/uploads/2023/RedPanda9.pdf) |
-| 10 | [Procyonidae WGKS?](/uploads/2023/RedPanda10.pdf) |
-| 11 | [Clustering mtDNA](/uploads/2023/RedPanda11.pdf) |
-| 12 | [Phylogenetic trees based on mtDNA](/uploads/2023/RedPanda12.pdf) |
-| 13 | [The BMC GENOMICS article](/uploads/2023/RedPanda13.pdf) |
-| 14 | [The introduction of the CRSQ artcle](/uploads/2023/RedPanda14.pdf) |
-| 15 | [Data and results in the CRSQ article](/uploads/2023/RedPanda15.pdf) |
-| 16 | [Conclusions and discussion in the CRSQ article](/uploads/2023/RedPanda16.pdf) |
-| 17 | [Baramin](/uploads/2023/RedPanda17.pdf) |
-| 18 | [Cserhati tries to answer](/uploads/2023/RedPanda18.pdf) |
+| post | |title (which is also a link) |
+| ----: | --- |:---|
+| 1 | \ \ \ | [The scientific situation](/uploads/2023/RedPanda1.pdf) |
+| 2 | | [Literature survey](/uploads/2023/RedPanda2.pdf) |
+| 3 | | [A phylogeny is a mobile](/uploads/2023/RedPanda3.pdf) |
+| 4 | | [Two papers](/uploads/2023/RedPanda4.pdf) |
+| 5 | | [The introduction of the BMC GENOMICS article](/uploads/2023/RedPanda5.pdf) |
+| 6 | | [WHOLE GENOME K-MER SIGNATURE](/uploads/2023/RedPanda6.pdf) |
+| 7 | | [WGKS IS not suitable for phylogeny](/uploads/2023/RedPanda7.pdf) |
+| 8 | | [Clustering](/uploads/2023/RedPanda8.pdf) |
+| 9 | | [Clusters on WGKS data](/uploads/2023/RedPanda9.pdf) |
+| 10 | | [Procyonidae WGKS?](/uploads/2023/RedPanda10.pdf) |
+| 11 | | [Clustering mtDNA](/uploads/2023/RedPanda11.pdf) |
+| 12 | | [Phylogenetic trees based on mtDNA](/uploads/2023/RedPanda12.pdf) |
+| 13 | | [The BMC GENOMICS article](/uploads/2023/RedPanda13.pdf) |
+| 14 | | [The introduction of the CRSQ artcle](/uploads/2023/RedPanda14.pdf) |
+| 15 | | [Data and results in the CRSQ article](/uploads/2023/RedPanda15.pdf) |
+| 16 | | [Conclusions and discussion in the CRSQ article](/uploads/2023/RedPanda16.pdf) |
+| 17 | |[Baramin](/uploads/2023/RedPanda17.pdf) |
+| 18 | | [Cserhati tries to answer](/uploads/2023/RedPanda18.pdf) |
 
 Creationism is considered in posts 14, 17 and in parts of post 18. Posts 15 and 16 are about clustering, and therefore technical and not about creationism, although the article discussed is in CRSQ.
 
