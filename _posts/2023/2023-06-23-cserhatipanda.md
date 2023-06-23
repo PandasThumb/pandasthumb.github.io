@@ -29,7 +29,7 @@ One file ‘The red panda and Cserhati collection’ presents the total of my po
 
 | post | |title (which is also a link) |
 | ----: | --- |:---|
-| 1 | &nbsp;    | [The scientific situation](/uploads/2023/RedPanda1.pdf) |
+| 1 | &nbsp;&nbsp;&nbsp; | [The scientific situation](/uploads/2023/RedPanda1.pdf) |
 | 2 | | [Literature survey](/uploads/2023/RedPanda2.pdf) |
 | 3 | | [A phylogeny is a mobile](/uploads/2023/RedPanda3.pdf) |
 | 4 | | [Two papers](/uploads/2023/RedPanda4.pdf) |
