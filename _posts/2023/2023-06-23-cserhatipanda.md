@@ -28,7 +28,7 @@ I’ve done so [in 18 posts](https://creationismeweersproken.blogspot.com/2023/0
 One file ‘The red panda and Cserhati collection’ presents the total of my posts; the individual posts are as follows (number is page number in the ‘collection’ post):
 
 | post | title (which is also a link) |
-| ---- |:---|
+| ----: |:---|
 | 1 | [The scientific situation](/uploads/2023/RedPanda1.pdf) |
 | 2 | [Literature survey](/uploads/2023/RedPanda2.pdf) |
 | 3 | [A phylogeny is a mobile](/uploads/2023/RedPanda3.pdf) |
