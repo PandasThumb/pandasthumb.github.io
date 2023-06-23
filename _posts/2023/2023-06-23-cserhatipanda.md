@@ -25,7 +25,7 @@ As a consequence, I felt it might be opportune to specify the trouble with Cserh
 
 I’ve done so [in 18 posts](https://creationismeweersproken.blogspot.com/2023/01/de-rode-panda-en-cserhati-1-de.html) on my Dutch website ‘Creationisme Weersproken’. The translation of these posts is now available [at my Github site](https://github.com/Gerdien898/pandas) and here [at the Panda's Thumb site](/uploads/2023/redpandacserhati.pdf). At my Github site a file with all the web adresses concerning “the red panda and Cserhati” can be found too.
 
-One file ‘The red panda and Cserhati collection’ presents the total of my posts; the individual posts are as follows (number is page number in the ‘collection’ post):
+One file ‘The red panda and Cserhati collection’ presents the total of my posts; the individual posts are as follows:
 
 | post | |title (which is also a link) |
 | ----: | --- |:---|
