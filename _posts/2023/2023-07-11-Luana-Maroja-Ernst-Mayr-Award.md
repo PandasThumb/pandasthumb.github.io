@@ -51,7 +51,7 @@ Luana
 
 <i>(Nick Matzke adds: For background on the 2022 attempt to de-name the Ernst Mayr Award, please see <a href="https://pandasthumb.org/archives/2022/06/Hillis-on-Mayr-Award.html">David Hills on the SSB vote on the Ernst Mayr Award</a>, June 13, 2022, and the links therein. As the Ernst Mayr Award is specified in the SSB constitution, changing it required a 2/3 vote of the membership. The vote was 63.4% (according to an SSB email) or 63.2% (91/(91+53); the numbers presented in O'Meara's presentation; there were also 14 abstentions. In other words, it was a very near thing, with most of the membership not voting; and I gather SSB membership has been as high as 3000 but has declined to about 650. Hopefully this is mostly a pandemic effect, but I'm not sure it helps when there are attempts to cancel famous personalities in the field without a serious scholarly debate informed by thorough and balanced consideration of people and issues within their historical context.)</i>
 
-(Also Nick Matzke: For previous comments on the SSB Ernst Mayr Award, please see:
+(Also Nick Matzke: For previous comments on the SSB Ernst Mayr Award, please see the below.)
 
 <blockquote><div style="background-color: rgb(255, 255, 255); padding: 30px;">
   <ul>
@@ -64,5 +64,5 @@ Luana
 
 For more on related issues, please see my old 2012 post: <a href="https://pandasthumb.org/archives/2012/02/continuous-geog.html">Continuous geographic structure is real, "discrete races" aren't</a>
 
-And my 2021 posts about attempts to can <a href="http://pandasthumb.org/archives/2021/11/updated-creationists-social-justice-advocates-unite-take-down-huxley.html">Thomas Henry "Darwin's Bulldog" Huxley</a> (<a href="http://pandasthumb.org/archives/2021/12/Matzke-Huxley-comments.html">also this post</a>; Huxley was denamed at Western Washington University, but saved at Imperial College London) and <a href="https://pandasthumb.org/archives/2021/11/haldane-1938-biology-of-inequality.html">J.B.S. Haldane</a> (also saved at Imperical College London).
+And my 2021 posts about attempts to can <a href="http://pandasthumb.org/archives/2021/11/updated-creationists-social-justice-advocates-unite-take-down-huxley.html">Thomas Henry "Darwin's Bulldog" Huxley</a> (<a href="http://pandasthumb.org/archives/2021/12/Matzke-Huxley-comments.html">also this post</a>; Huxley was denamed at Western Washington University, but saved at Imperial College London) and <a href="https://pandasthumb.org/archives/2021/11/haldane-1938-biology-of-inequality.html">J.B.S. Haldane</a> (also saved at Imperial College London).
  </ul></div></blockquote>
