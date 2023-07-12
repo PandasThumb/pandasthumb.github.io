@@ -60,9 +60,9 @@ Luana
 <li><a href="https://pandasthumb.org/archives/2022/01/David-Hillis-on-Ernst-Mayr.html#comment-5681790757">"As a graduate student myself, I must say that this proposal is outrageous, it deeply offends me."</a> -- Comment from Ph.D. student Mario Cupello</li>
 <li><a href="https://pandasthumb.org/archives/2022/01/David-Hillis-on-Ernst-Mayr.html#comment-5681656191">"[G]iven that the move to remove Ernst Mayr's name from the award is ostensibly being done in service for individuals for which I share many demographic qualities, I thought it worth providing my voice."</a></li> -- Comment from Ph.D. student Jackie Childers
 <li><a href="https://pandasthumb.org/archives/2022/01/Ernst-Mayr-versus-racism.html">Ernst Mayr versus racism</a> -- by Nick Matzke</li>
-<li><a href="https://pandasthumb.org/archives/2022/06/Hillis-on-Mayr-Award.html">David Hills on the SSB vote on the Ernst Mayr Award</a> -- by David Hillis</li>
+<li><a href="https://pandasthumb.org/archives/2022/06/Hillis-on-Mayr-Award.html">David Hills on the SSB vote on the Ernst Mayr Award</a> -- by David Hillis</li></ul>
 
-For more on related issues, please see my old 2012 post: <a href="https://pandasthumb.org/archives/2012/02/continuous-geog.html">Continuous geographic structure is real, "discrete races" aren't</a>
-
+For more on related issues, please see my old 2012 post: <a href="https://pandasthumb.org/archives/2012/02/continuous-geog.html">Continuous geographic structure is real, "discrete races" aren't</a><br />
+<br />
 And my 2021 posts about attempts to can <a href="http://pandasthumb.org/archives/2021/11/updated-creationists-social-justice-advocates-unite-take-down-huxley.html">Thomas Henry "Darwin's Bulldog" Huxley</a> (<a href="http://pandasthumb.org/archives/2021/12/Matzke-Huxley-comments.html">also this post</a>; Huxley was denamed at Western Washington University, but saved at Imperial College London) and <a href="https://pandasthumb.org/archives/2021/11/haldane-1938-biology-of-inequality.html">J.B.S. Haldane</a> (also saved at Imperial College London).
- </ul></div></blockquote>
+ </div></blockquote>
