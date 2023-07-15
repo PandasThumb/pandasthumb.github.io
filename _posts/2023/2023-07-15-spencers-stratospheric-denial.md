@@ -10,7 +10,7 @@ author: Paul Braterman
 </figcaption>
 </figure>
 
-<p><i>Paul Braterman is Professor Emeritus in Chemistry, University of North Texas, and Honorary Research Fellow (formerly Reader) at the University of Glasgow. His research has involved topics related to the early Earth and the origins of life, and received support from NSF, NASA, Sandia National Labs, and Scripps Institution of Oceanography. He is now interested in sharing scientific ideas with the widest possible audience, blogs at <a href="paulbraterman.wordpress.com">Primate’s Progress</a>, and is a regular contributor to <a href="https://3quarksdaily.com">3 Quarks Daily</a>, and occasionally to <a href="https://theconversation.com/">The Conversation</a>, where his articles have received more than a million reads.</i></p>
+<p><i>Paul Braterman is Professor Emeritus in Chemistry, University of North Texas, and Honorary Research Fellow (formerly Reader) at the University of Glasgow. His research has involved topics related to the early Earth and the origins of life, and received support from NSF, NASA, Sandia National Labs, and Scripps Institution of Oceanography. He is now interested in sharing scientific ideas with the widest possible audience, blogs at <a href="https://paulbraterman.wordpress.com/">Primate’s Progress</a>, and is a regular contributor to <a href="https://3quarksdaily.com">3 Quarks Daily</a>, and occasionally to <a href="https://theconversation.com/">The Conversation</a>, where his articles have received more than a million reads.</i></p>
 
 <p>When a scientist who has won awards for his work in the field disagrees with his colleagues, we must ask how much attention we should give to his opinion.</p>
 
