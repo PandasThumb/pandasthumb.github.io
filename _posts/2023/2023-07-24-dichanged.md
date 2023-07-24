@@ -65,9 +65,10 @@ the Right thing.
 We are in for a long period of war in the trenches, including 
 struggles to provide good and accessible resources for studying 
 and teaching evolutionary biology, not just for biology 
-students but for interested folks in general.
+students but for interested folks in general.  And yes, the DI 
+will be there, brewing their usual noxious stew.
 
-# Optimism #
+## Optimism ##
 
 In the longer run I'm hopeful, because I think that many 
 students will understand that this struggle is going on, and 
