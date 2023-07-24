@@ -1,6 +1,6 @@
 ---
 title: 'The Discovery Institute: a change or just a pause? '
-date: 2023-07-25-2023 11:00:00 -08:00
+date: 2023-07-24-2023 15:00:00 -08:00
 author: Joe Felsenstein
 ---
 
