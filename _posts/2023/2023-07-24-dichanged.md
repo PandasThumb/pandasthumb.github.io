@@ -54,7 +54,7 @@ one will be able to foresee success at the Supreme Court.
 It's true that right now (or perhaps I should say "Right now") wars over 
 evolution are not very visible.  The Right in general, and the Religious 
 Right in particular, are concentrating on demonizing transgender 
-people and LGTBQ+ rights more generally.
+people and LGBTQ+ rights more generally.
 
 But alongside desperate struggles to defend democracy and human rights more 
 generally, we will see gradually increasing efforts to attack 
