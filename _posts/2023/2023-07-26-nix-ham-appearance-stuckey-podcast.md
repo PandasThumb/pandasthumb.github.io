@@ -16,6 +16,8 @@ Back on June 7, 2023, Ken Ham <a href="https://twitter.com/aigkenham/status/1666
 
 However, Ms. Stuckey has once again mentioned her dinosaur denying conspiracy “theory” on a YouTube video (<a href="https://youtu.be/EPGl7dtBxac">Episode 826, Why Teens Today Can’t Cope</a>, dated June 21, 2023). During a bizarre discussion of the implosion of the Titan submersible and space/Mars exploration at 11 minutes 40 seconds into the podcast she states (occasionally speaking for God):
 
+<!--more-->
+
 <blockquote>I don’t know why people want to go to space or go into the ocean. There’s a reason like, okay, there’s a reason why God made us have to stay on Earth – ‘I literally created a force to keep your feet on the ground – Why are you trying? – I didn’t give you gills – I didn’t give you the ability to go to Mars - I put you on Earth – Why do people do this?’ This is gonna be like someone’s gonna clip this and they’re gonna do the same thing they did with the Dinosaur Episode, yeah, which some people are still mad about. Oh well, be mad.</blockquote>
 
 We can only speculate as to why the episode of Relatable with Ken Ham as a guest has never aired. Perhaps Ken Ham reads the Panda’s Thumb? Perhaps he actually had the integrity not to be associated with a dinosaur denier? Perhaps Ms. Stuckey was referring to Ken when she stated “be mad”? Could there be a rift between them? NAAAH! Her biography is still on the AiG webpage, <a href="https://answersingenesis.org/bios/allie-beth-stuckey/">here</a>.
