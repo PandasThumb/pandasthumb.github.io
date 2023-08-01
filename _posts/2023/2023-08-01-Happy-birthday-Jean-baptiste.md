@@ -4,7 +4,7 @@ date: 2023-08-01 12:00:00 -08:00
 author: Joe Felsenstein
 ---
 
-<figure><img src="/uploads/2023/Lamarckat35.png" alt-"[Lamarck at age 35]"/><figcaption><div align="center">Lamarck at age 35.  From Wikimedia Commons.  Public domain.</div></figcaption>
+<figure><img src="/uploads/2023/uploads/Lamarckat35.png" alt-"[Lamarck at age 35]"/><figcaption><div align="center">Lamarck at age 35.  From Wikimedia Commons.  Public domain.</div></figcaption>
 </figure>
 
 <p>&nbsp;</p>
@@ -29,7 +29,7 @@ Something he didn't do:
 * Invent inheritance of acquired characters (everyone already believed it).
 
 He always gets credit for things he didn't do, such as that.  And his name gets invoked for things like epigenetic molecular modifications, 
-ehich don't work likehis use-and-disuse mechanisms.  And his "complexifying force" has been conveniently forgotten for at least the 
+ehich don't work like his use-and-disuse mechanisms.  And his "complexifying force" has been conveniently forgotten for at least the 
 last 125 years.  You can pretty much guarantee that if a biological process is called "Lamarckian", it really isn't.
 
 His mechanism for adaptation does not work, but he really was the first to propose one.  Not a crank, but a great biologist.
