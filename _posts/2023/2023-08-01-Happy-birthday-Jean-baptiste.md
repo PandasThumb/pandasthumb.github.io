@@ -4,7 +4,7 @@ date: 2023-08-01 12:00:00 -08:00
 author: Joe Felsenstein
 ---
 
-<figure><img src="/uploads/2023/uploads/Lamarckat35.png" alt-"[Lamarck at age 35]"/><figcaption><div align="center">Lamarck at age 35.  From Wikimedia Commons.  Public domain.</div></figcaption>
+<figure><img src="/uploads/2023/Lamarckat35.png" alt-"[Lamarck at age 35]"/><figcaption><div align="center">Lamarck at age 35.  From Wikimedia Commons.  Public domain.</div></figcaption>
 </figure>
 
 <p>&nbsp;</p>
