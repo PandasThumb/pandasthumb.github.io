@@ -13,7 +13,7 @@ Once again, our yearly birthday tribute to Jean-Baptiste Pierre Antoine de Monet
 wonderful impressionist painter?"  No, that's Claude Monet.  "You mean the father of the European Union?" No, that's Jean Monnet.)  I mean the Chevalier 
 de Lamarck, for my money the first real evolutionary biologist.  Some of his accomplishments:
 
-* Clarified systematics of inbvertebrates greatly (he coined the term "invertebrate")
+* Clarified systematics of invertebrates greatly (he also coined the term "invertebrate")
 * Drew the first evolutionary tree, of animals
 * Proposed two mechanisms for evolutionary change:
 1. A generalized complexifying force, and 
@@ -29,7 +29,7 @@ Something he didn't do:
 * Invent inheritance of acquired characters (everyone already believed it).
 
 He always gets credit for things he didn't do, such as that.  And his name gets invoked for things like epigenetic molecular modifications, 
-ehich don't work like his use-and-disuse mechanisms.  And his "complexifying force" has been conveniently forgotten for at least the 
+which don't work like his use-and-disuse mechanisms.  And his "complexifying force" has been conveniently forgotten for at least the 
 last 125 years.  You can pretty much guarantee that if a biological process is called "Lamarckian", it really isn't.
 
 His mechanism for adaptation does not work, but he really was the first to propose one.  Not a crank, but a great biologist.
