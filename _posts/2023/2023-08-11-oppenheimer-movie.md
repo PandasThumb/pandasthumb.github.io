@@ -14,7 +14,7 @@ To a physicist who is (barely) old enough to remember the controversy over Oppen
 
 The movie follows the physicist <a href="https://en.wikipedia.org/wiki/J._Robert_Oppenheimer"> J. Robert Oppenheimer</a> from his beginning as a graduate student in Europe through his bringing quantum mechanics from Europe to the US to his shepherding of the Manhattan Project until his disgrace at the hands of the Atomic Energy Commission. Considering how they treated him, at least in the movie, I was surprised that they did not take his sword, break it over their knee, and send him off to Devil's Island.
 
-<--more-->
+<!--more-->
 
 The movie seemed somewhat disjointed, and I frankly thought, for example, that they did not need to show us an imploding black hole every time the subject came up. They could have saved a lot of money on special effects and made a better movie. At any rate, Oppenheimer and colleagues discovered theoretically that a dying star would collapse forever into what we now call a black hole. The movie clearly thought that the black hole was Oppenheimer's most important contribution. I am not convinced and suggest that possibly the <a href="https://en.wikipedia.org/wiki/Born%E2%80%93Oppenheimer_approximation">Born-Oppenheimer approximation</a> was substantially more important. Black holes are, as a physicist might say, very amusing, but the Born-Oppenheimer approximation allows chemists to calculate molecular wave functions and other properties of molecules. Oppenheimer's Wikipedia entry, cited above, says that the original paper with Max Born remains Oppenheimer's most cited work.
 
