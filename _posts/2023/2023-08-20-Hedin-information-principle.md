@@ -1,6 +1,6 @@
 ---
 title: 'Eric Hedin misses natural selection again'
-date: 2023-08-20 23:00:00 -08:00
+date: 2023-08-20 20:00:00 -08:00
 author: Joe Felsenstein
 ---
 
