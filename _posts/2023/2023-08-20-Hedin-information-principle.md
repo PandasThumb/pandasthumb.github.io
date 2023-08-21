@@ -76,10 +76,7 @@ post:
 
 ## Does Hedin think natural selection _can_ increase information? ##
 
-Now, this is puzzling.  In the preceding paragraph it was clearly stated that natural processes could not add meaningful biological information to the organism, unless the process  
-already contains the information.  That seems to say that natural processes, 
-including natural selection, cannot possibly increase the specified (adaptive) information. 
-The natural processes can at best transfer information that they already have.
+Now, this is puzzling.  In the preceding paragraph it was clearly stated that natural processes could not add meaningful biological information to the organism, unless the process already contains the information.  That seems to say that natural processes, including natural selection, cannot possibly increase the specified (adaptive) information.  The natural processes can at best transfer information that they already have.
 
 But he _does_ acknowledge that natural selection in a population _can_ "steadily lock in natural variations that increase survivability".  That would involve increasing the specified information in the population.  This would seem to completely contradict his own earlier statements. He says that "selection based on the ratchet mechanism of 
 increased fitness cannot of itself produce novel complex functionality if each successive small change does not give some increased advantage towards survival and reproduction". The later statements say, in effect, that actually natural selection <em>can</em> increase the content of 
@@ -97,7 +94,7 @@ ordinary evolutionary processes) cannot produce "unnatural" results, really big 
 
 ## Hedin's actual conclusions ##
 
-So Professor Hedin has argued, in effect that:
+So Professor Hedin has argued, in effect, that:
 
 1. Natural evolutionary processes cannot increase the adaptive 
 information of a population of organisms, because there is a 
