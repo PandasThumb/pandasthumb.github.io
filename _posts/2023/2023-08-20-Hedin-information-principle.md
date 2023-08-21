@@ -14,7 +14,7 @@ Hedin is a well-trained physicist.  He is currently the Professor of Physics and
 and the Chair of the Department of Chemistry, Physics, and Engineering at Biola University, 
 and he trained in plasma physics at my own university.
 
-With that strong background in physics, we should be able to reply on his statements about 
+With that strong background in physics, we should be able to rely on his statements about 
 the increase of the amount of biological information which is possible 
 owing to ordinary physical and biological processes.  Here's what his says 
 at one point in [this recent post at Evolution News](https://evolutionnews.org/2023/05/is-life-an-information-ratchet/)):
@@ -32,7 +32,7 @@ Can it be that Professor Hedin has got his basic science wrong?  Say it ain't so
 
 
 Well, it ain't so in one case.   If we have a population that consists of 
-only one  individual, and that individual reproduces exclusively clonally, by budding off 
+only one individual, and that individual reproduces exclusively clonally, by budding off 
 a single offspring identical to itself, then Hedin is right.  There is never
 any other individual in the population than that offspring, and no opportunity 
 for natural selection to act.  If a mutation occurs, the altered genotype is 
@@ -78,17 +78,15 @@ post:
 
 Now, this is puzzling.  In the preceding paragraph it was clearly stated that natural processes could not add meaningful biological information to the organism, unless the process  
 already contains the information.  That seems to say that natural processes, 
-including natural selection, cannot possibly increase the specifed (adaptive) information. 
+including natural selection, cannot possibly increase the specified (adaptive) information. 
 The natural processes can at best transfer information that they already have.
 
-But he _does_ acknowledge that natural selection in a population _can_ "steadily lock in natural variations that increase survivability".  That 
-which would involve increasing the specified information in the population.  This would seem to completely contradict 
-is own earlier statements. He says that "selection based on the ratchet mechanism of 
-increased fitness cannot of itself produce novel complex functionality if each successive small change does not give some increased advantage towards survival and reproduction. The later statements say, in effect, that actually natural selection can increase the content of 
-adaptive (specified) information".  The implication is that selection _can_ produce increased 
+But he _does_ acknowledge that natural selection in a population _can_ "steadily lock in natural variations that increase survivability".  That would involve increasing the specified information in the population.  This would seem to completely contradict his own earlier statements. He says that "selection based on the ratchet mechanism of 
+increased fitness cannot of itself produce novel complex functionality if each successive small change does not give some increased advantage towards survival and reproduction". The later statements say, in effect, that actually natural selection <em>can</em> increase the content of 
+adaptive (specified) information.  The implication is that selection _can_ produce increased 
 information content in the genome if each small change on the way _does_ give some 
 increase in fitness.  The previous impossibility has turned into a possibility.  It is just that natural selection and mutation (and other 
-ordinary evolutionary processes cannot produce "unnatural" results, really big increases in "complexity":
+ordinary evolutionary processes) cannot produce "unnatural" results, really big increases in "complexity":
 
 
 > Another Process at Work
