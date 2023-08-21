@@ -4,6 +4,9 @@ date: 2023-08-20 23:00:00 -08:00
 author: Joe Felsenstein
 ---
 
+<div align="center"><figure><img src="/uploads/2023/480px_Ratchet_Gear_and_Pawl.gif" alt="[Ratchet Gif]"><figcaption>By . From Wikimedia, CCA 4.0.  Is this the first GIF we have used?</figcaption>figcaption></figcaption></figure></div>div>
+
+<p>&nbsp;</p>
 The ID advocacy site <em>Evolution News</em> has had a series of posts by the physicist 
 Eric Hedin.  The theme has been that adaptive information in biological organisms info
 cannot have been produced by natural processes, because these always degrade information. 
