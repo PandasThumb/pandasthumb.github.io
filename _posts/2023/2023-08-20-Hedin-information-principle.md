@@ -1,5 +1,5 @@
 ---
-title: 'Eric Hedin isn't sure what natural selection does'
+title: "Eric Hedin isn't sure what natural selection does"
 date: 2023-08-20 20:00:00 -08:00
 author: Joe Felsenstein
 ---
