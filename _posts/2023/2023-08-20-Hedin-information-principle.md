@@ -4,7 +4,7 @@ date: 2023-08-20 23:00:00 -08:00
 author: Joe Felsenstein
 ---
 
-<div align="center"><figure><img src="/uploads/2023/480px-Ratchet_Gear_and_Pawl.gif" alt="[Ratchet Gif]"><figcaption>By Arglin Kampling. From Wikimedia, CCA 4.0.<br/>  Is this the first GIF we have used?</figcaption></figure></div>
+<div align="center"><figure><img src="/uploads/2023/480px-Ratchet_Gear_and_Pawl.gif" alt="[Ratchet Gif]"><br/><figcaption>By Arglin Kampling. From Wikimedia, CCA 4.0.<br/>  Is this the first GIF we have used?</figcaption></figure></div>
 
 <p>&nbsp;</p>
 The ID advocacy site <em>Evolution News</em> has had a series of posts by the physicist 
