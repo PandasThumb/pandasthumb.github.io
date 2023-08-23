@@ -83,7 +83,7 @@ increased fitness cannot of itself produce novel complex functionality if each s
 adaptive (specified) information.  The implication is that selection _can_ produce increased 
 information content in the genome if each small change on the way _does_ give some 
 increase in fitness.  The previous impossibility has turned into a possibility.  It is just that natural selection and mutation (and other 
-ordinary evolutionary processes) cannot produce "unnatural" results, really big increases in "complexity":
+ordinary evolutionary processes) cannot produce "unnatural" results, really big increases in "complexity".  Hedin continues:
 
 
 > Another Process at Work
