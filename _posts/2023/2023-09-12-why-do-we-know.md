@@ -1,5 +1,5 @@
 ---
-title: Why do we know that birds are living dinosaurs: Evaluation of reasoning in anti-evolutionist treatise
+title: Why do we know that birds are living dinosaurs? Evaluation of reasoning in anti-evolutionist treatise
 date: '2023-09-12 15:25:00 -06:00'
 author: Martin Neukamm and Andreas Beyer
 ---
