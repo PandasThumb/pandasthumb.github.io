@@ -1,6 +1,6 @@
 ---
 title: 'Dan Phelps interviewed on the "Oh No! Ross and Carrie" podcast'
-date: '2023-09-12 20:45:00 -06:00'
+date: '2023-09-11 20:45:00 -06:00'
 author: Matt Young
 ---
 
