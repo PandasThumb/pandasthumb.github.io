@@ -8,6 +8,7 @@ author: Matt Young
 <figcaption> Downtown Williamstown, its parking area bursting with a single parked car, 13:50, 25 February 2023. <small>w_lemay on <a href="https://flickr.com/photos/59081381@N03/53035558718">Flickr</a>, Creative Commons Attribution-Share Alike 2.0 Generic license.</small>
 </figcaption>
 </figure>
+
 No, he did not really, but William Trollinger on his blog, Righting America, has ghost-written a <a href="https://rightingamerica.net/dear-williamstown-sorry-for-misleading-you-about-ark-encounter-my-bad/">letter</a> (which we doubt Mr. Ham will send) on this 10th anniversary of the time that Williamstown, Kentucky, not only underwrote $62.5 million worth of junk bonds but also diverted property tax toward paying off those junk bonds. No good deed goes unpunished, and Williamstown was severely punished, as attendance at Mr. Ham's Ark Park never reached the projections in the original proposal and Williamstown, alas, found itself on the wrong side of the highway. For more, we suggest you read Prof. Trollinger's letter.
 
 <i>To see comments on this post click here:</i> <!--more-->
