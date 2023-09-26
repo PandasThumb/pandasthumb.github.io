@@ -1,5 +1,5 @@
 ---
-title:'Breaking news: Ken Ham apologizes to Williamstown!'
+title:'Breaking news&colon; Ken Ham apologizes to Williamstown&excl;'
 date:'2024-09-26 14:20:00 -06:00'
 author: Matt Young
 ---
