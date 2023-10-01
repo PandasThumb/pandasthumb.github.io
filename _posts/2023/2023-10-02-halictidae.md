@@ -6,7 +6,7 @@ author: Matt Young
 
 Photograph by <strong>Mark Sturtevant</strong>.
 
-Photography contest <strong>Honorable Mention</strong>.
+Photography contest, <strong>Honorable Mention</strong>.
 
 <figure>
 <img src="/uploads/2023/Sturtevant.2.Halictid_Bee.jpg" alt="Halictid bee"/>
