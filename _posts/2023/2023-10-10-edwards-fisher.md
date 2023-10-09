@@ -1,6 +1,6 @@
 ---
 title: 'Interview with Anthony Edwards on RA Fisher'
-date: '2024-10-03 00:00:00 00:00'
+date: '2023-10-10 00:00:00 00:00'
 author: Robert Asher
 ---
 Image by <strong>Axel Zeitler</strong>.
