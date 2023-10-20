@@ -1,6 +1,6 @@
 ---
 title: 'The Deadly Rise of Anti-Science: book by Peter Hotez'
-date: '2024-10-19 12:00:00 -06:00'
+date: '2023-10-20 08:00:00 -06:00'
 author: Matt Young
 ---
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
@@ -13,7 +13,7 @@ Peter Hotez and his team have developed inexpensive vaccines and distributed the
 
 Anti-vaxxers have had enough influence that we now see occasional outbreaks of measles, a disease that once had been virtually eliminated. I remember the polio epidemic of the 1940’s and -50’s, and I am very much afraid that mandatory vaccinations for students in public schools may be on the way out. Indeed, Dr. Hotez notes that preliminary data show declines in childhood immunization in conservative states.
 
-Dr. Hotez sees the anti-vaxxers as part of a right-wing conspiracy to undermine not just vaccination but science in general. You may consider it overstatement, but he compares the anti-vaccination, anti-science movement to similar movements in Stalinist Russia and Nazi Germany. He is sufficiently concerned that he has suggested courses in science communication to graduate students. Additionally, he suggests something like a Southern Poverty Law Center to protect scientists and academics, but the proposal is too vague to merit much discussion here.
+Dr. Hotez sees the anti-vaxxers as part of a right-wing conspiracy to undermine not just vaccination but science in general. You may consider it overstatement, but he compares the anti-vaccination, anti-science movement to similar movements in Stalinist Russia and Nazi Germany. He is sufficiently concerned that he suggests courses in science communication for graduate students. Additionally, he suggests something like a Southern Poverty Law Center to protect scientists and academics, but the proposal is too vague to merit much discussion here.
 
 <!--more-->
 
