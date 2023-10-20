@@ -9,7 +9,7 @@ author: Matt Young
 </figcaption>
 </figure>
 
-Peter Hotez and his team have developed inexpensive vaccines and distributed them to the Third World through a nonprofit organization. No good deed goes unpunished, and as he describes in the book <a href=”https://www.amazon.com/Deadly-Rise-Anti-science-Scientists-Warning-ebook/dp/B0BWSLNSVY”>The Deadly Rise of Anti-Science</a>, he was therefore vilified by the anti-vaccination faction. Anti-vaxxers, as they are often called, have gained so much influence that so far 200,000 Americans have died of Covid because they refused the vaccine. 
+Peter Hotez and his team have developed inexpensive vaccines and distributed them to the Third World through a nonprofit organization. No good deed goes unpunished, and as he describes in the book <a href="https://www.amazon.com/Deadly-Rise-Anti-science-Scientists-Warning-ebook/dp/B0BWSLNSVY">The Deadly Rise of Anti-Science</a>, he was therefore vilified by the anti-vaccination faction. Anti-vaxxers, as they are often called, have gained so much influence that so far 200,000 Americans have died of Covid because they refused the vaccine. 
 
 Anti-vaxxers have had enough influence that we now see occasional outbreaks of measles, a disease that once had been virtually eliminated. I remember the polio epidemic of the 1940’s and -50’s, and I am very much afraid that mandatory vaccinations for students in public schools may be on the way out. Indeed, Dr. Hotez notes that preliminary data show declines in childhood immunization in conservative states.
 
@@ -17,7 +17,7 @@ Dr. Hotez sees the anti-vaxxers as part of a right-wing conspiracy to undermine 
 
 <!--more-->
 
-At any rate, the problem has become political, not scientific. Virtually no reputable scientists doubt the value of vaccines (nor accept the efficacy of <a href=”https://scdhec.gov/covid19/dangers-using-hydroxychloroquine-ivermectin-preventing-or-treating-covid-19”>hydrochloroquine or ivermectin</a>). Nevertheless, a significant amount of money from right-wing sources is spreading disinformation about vaccination, just as they have about climate change and evolution. Russia has also apparently developed a program of vaccine disinformation aimed at the United States. Vaccine denialism is also spreading worldwide. Dr. Hotez claims that far-right and extremist groups “play hardball.” I think he is mistaken: they play snowball with rocks concealed inside their snowballs. No one, he says, is coming to our rescue; we have to take care of ourselves.
+At any rate, the problem has become political, not scientific. Virtually no reputable scientists doubt the value of vaccines (nor accept the efficacy of <a href="https://scdhec.gov/covid19/dangers-using-hydroxychloroquine-ivermectin-preventing-or-treating-covid-19">hydrochloroquine or ivermectin</a>). Nevertheless, a significant amount of money from right-wing sources is spreading disinformation about vaccination, just as they have about climate change and evolution. Russia has also apparently developed a program of vaccine disinformation aimed at the United States. Vaccine denialism is also spreading worldwide. Dr. Hotez claims that far-right and extremist groups “play hardball.” I think he is mistaken: they play snowball with rocks concealed inside their snowballs. No one, he says, is coming to our rescue; we have to take care of ourselves.
 
 At one time, Dr. Hotez went public and appeared in television interviews, including on Fox News, in an attempt, as he put it, to reach across the aisle. When he was subsequently attacked by the right wing, most ominously white supremacists and anti-Semites, he checked in with the climate-change expert Michael Mann and found that the attack by climate-change deniers paralleled the attack by anti-vaxxers. Climate scientists now have a system for responding to the attacks.
 
@@ -41,7 +41,7 @@ Dr. Hotez is a professor of Tropical Medicine at Baylor College of Medicine in H
 </figcaption>
 </figure>
 
-In case you were wondering, the book gets a sizeable number of one-star reviews on Amazon (see the figure). Some of the reviewers have read the book; some have not. I imagine it is a quasi-orchestrated attempt to denigrate the work, as happened previously with respect to the film, <a href=”https://en.wikipedia.org/wiki/We_Believe_in_Dinosaurs”>We Believe in Dinosaurs</a>.
+In case you were wondering, the book gets a sizeable number of one-star reviews on Amazon (see the figure). Some of the reviewers have read the book; some have not. I imagine it is a quasi-orchestrated attempt to denigrate the work, as happened previously with respect to the film, <a href="https://en.wikipedia.org/wiki/We_Believe_in_Dinosaurs">We Believe in Dinosaurs</a>.
 
 I told myself I would not exactly review the book, but I cannot help noticing mistakes like these: pedal for peddle, diffuse for defuse. Additionally, I was somewhat put off by the use of first names – Tony instead of Fauci or Dr. Fauci – which had the effect, probably unintentional, of showing how the author is on first-name terms with several VIP’s.
 
