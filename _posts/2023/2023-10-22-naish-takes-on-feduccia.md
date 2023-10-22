@@ -11,7 +11,7 @@ Dr. Naish, an author and consultant, describes himself as "associated" with the 
 
 <blockquote>... But try as I might to think of the author as a wise sage and friend of the reader, the fact is that <i>RTBAD</i> is cartoonishly overloaded with bias and dirty tricks. Whataboutism, intellectual dishonesty, erroneous repetition, strawmanning and naïve falsification appear throughout as the author aims to diminish positions he dislikes, the most vehement of his arguments representing nothing more than personal incredulity.</blockquote>
 
-Dr. Neukamm and his colleague Andreas Beyer were allowed to translate the review into German, and you may find it <a href="https://www.ag-evolutionsbiologie.net/html/2023/feduccia-romancing-birds-and-dinosaurs.html">here</a>. Our thanks to Dr. Neukamm for the tip.
+Mr. Neukamm and his colleague Andreas Beyer were allowed to translate the review into German, and you may find it <a href="https://www.ag-evolutionsbiologie.net/html/2023/feduccia-romancing-birds-and-dinosaurs.html">here</a>. Our thanks to Dr. Neukamm for the tip.
 
 <i>To see comments on this post click here:</i> <!--more-->
 
