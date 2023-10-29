@@ -1,6 +1,6 @@
 ---
 title: 'Harmonia axyridis'
-date: '2024-10-30 12:00:00 -06:00'
+date: '2023-10-30 12:00:00 -06:00'
 author: Matt Young
 ---
 
