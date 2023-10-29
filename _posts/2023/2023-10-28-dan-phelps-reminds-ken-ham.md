@@ -1,6 +1,6 @@
 ---
 title: 'Dan Phelps reminds Ken Ham of some important tax benefits'
-date: '2024-10-28 12:00:00 -06:00'
+date: '2023-10-28 10:45:00 -06:00'
 author: Matt Young
 ---
 
