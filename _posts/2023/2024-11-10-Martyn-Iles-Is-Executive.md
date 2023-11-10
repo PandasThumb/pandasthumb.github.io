@@ -35,6 +35,7 @@ Postmodernism was a bit of a surprise, but Mike Johnson has also attacked postmo
 
 We have yet to see how Answers in Genesis will evolve under its new management, and how it will affect long-standing members of the AIG team, such as Ham’s son-in-law Bodie Hodge, who has been with Answers in Genesis for 20 years.
 
+-----
 
 Following is the text of the announcement:
 It’s a great honour to announce I have been elevated to the position of Executive CEO by the board of Answers in Genesis.
