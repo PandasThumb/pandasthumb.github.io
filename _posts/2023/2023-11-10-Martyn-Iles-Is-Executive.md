@@ -1,6 +1,6 @@
 ---
 title:'Martyn Iles Is Executive CEO of Answers in Genesis'
-date:'2024-11-10 12:00:00 -07:00'
+date: 2023-11-10 12:00:00 -07:00
 author: Paul Braterman
 ---
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
