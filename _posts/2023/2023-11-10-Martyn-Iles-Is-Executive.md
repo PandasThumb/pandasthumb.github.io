@@ -38,6 +38,7 @@ We have yet to see how Answers in Genesis will evolve under its new management, 
 -----
 
 Following is the text of the announcement:
+
 It’s a great honour to announce I have been elevated to the position of Executive CEO by the board of Answers in Genesis.
 
 Fear not &ndash; Ken Ham is still the Founding CEO. We are leading together for the next season.
