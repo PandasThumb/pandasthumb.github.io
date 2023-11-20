@@ -1,5 +1,5 @@
 ---
-title: 'New edition of Dembski&apos;s <i>Design Inference</i>'
+title: 'New Edition of Dembski&apos;s <i>Design Inference</i>'
 date: '2023-11-19 09:15:00 -07:00'
 author: Jason Rosenhouse
 ---
