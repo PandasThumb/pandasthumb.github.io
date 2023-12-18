@@ -4,7 +4,7 @@ date: 2023-12-19 12:00:01 -08:00
 author: Joe Felsenstein
 ---
 
-<figure><img width="600px" src="/uploads/2023/Six_grandfathers.jpg" alt="[Six grandfathers image]">
+<figure><img width="600px" src="/uploads/2023/Six_Grandfathers.jpg" alt="[Six grandfathers image]">
 <figcaption><div align="center">The mountain called <em>Six Grandfathers</em> by the 
 Lakota people before it was renamed Mount Rushmore.</div></figcaption>
 
