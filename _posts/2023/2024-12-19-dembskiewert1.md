@@ -6,7 +6,7 @@ author: Joe Felsenstein
 
 <div align="center"><figure><img width="600px" src="/uploads/2023/Six_Grandfathers.jpg" alt="[Six grandfathers image]">
 <figcaption><div align="center">The mountain called <em>Six Grandfathers</em> by the 
-Lakota people <br/>before it was renamed Mount Rushmore.</div></figcaption></figure></div>div>
+Lakota people <br/>before it was renamed Mount Rushmore.</div></figcaption></figure></div>
 
 <p>&nbsp;</p>
 
