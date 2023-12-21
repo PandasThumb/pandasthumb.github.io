@@ -11,26 +11,29 @@ a design inference?</div></figcaption></figure></div>
 
 <p>&nbsp;</p>
 
-I have been reading the 2nd edition of <em>The Design Inference: Eliminating Chance 
+I have been reading the new 2nd edition of <em>The Design Inference: Eliminating Chance 
 Through Small Probabilities</em> and wanted 
 to give some reactions to it, having reached the end of the chapter on "Specified 
 Complexity".  This new edition adds Winston Ewert as the second author.  Unlike the 
 1998 first edition, which was published by Cambridge University Press, this "Revised 
-and Expanded" edition is published by Discovery Institute Press.  It is available 
-rather inexpensively, for a book of 582 pages, in a paperback edition and in a 
+and Expanded" 25th anniversary 2nd edition is published by Discovery Institute Press.  For 
+a book of 582 pages, it is available 
+rather inexpensively, in a paperback edition and in a 
 Kindle edition.  (Its cover illustration shows the faces on Mount Rushmore, as an 
 example of a design inference).
 
 William Dembski's original Design Inference argument involved our seeing a 
 pattern in nature, in an organism, that embodied what he called Specified 
-complexity.  Its argument became better known as a result of Dembski's 2002 
+Complexity.  Its argument became better known as a result of Dembski's 2002 
 book <em>No Free Lunch: Why Specified Complexity Cannot be Purchased Without Intelligence".</em> 
-This was much invoked at the time of the Kitzmiller vs. Dover School Board trial in 
-2005.
+This was much invoked as a major argument for Intelligent Design at the time of the 2005 Kitzmiller vs. Dover School Board trial.
+
+The Specified Complexity argument involves genotypes arrayed 
+on a scale.  A scale of what, we will be discussing.
 
 
 Improbable on a scale (what?)
-Improbable that one that good would occur even once in the history of the universea
+Improbable that one that good would occur even once in the history of the universe.
 What is scale of "goodness"?  Adaptation? Fitness?
 Something that evolution achieves?
 
