@@ -29,7 +29,24 @@ book <em>No Free Lunch: Why Specified Complexity Cannot be Purchased Without Int
 This was much invoked as a major argument for Intelligent Design at the time of the 2005 Kitzmiller vs. Dover School Board trial.
 
 The Specified Complexity argument involves genotypes arrayed 
-on a scale.  A scale of what, we will be discussing.
+on a scale.  A scale of what, we will be discussing.  The general strategy of the design inference 
+is to find a region of the scale that is so improbable under "chance" that natural processes would be extremely unlikely to result in genotypes that good or better.  The probabilities that natural processes would produce anything that good have to be so small that such an event would be 
+expected less than once in the whole history of the Universe.
+
+Over the years since 1998, there seem to have been several definitions of the scale:
+
+1. A quantity which is fitness or a component of fitness, with the probability being simply
+   the fraction of all genotypes having that high a value in the initial population.  Or,
+2. That quantity, but with the probability being instead the chance that natural evolutionary processes
+   would produce that good a value, or
+3. Something  more mysterious involving that probability that the genotype (or phenotype) would be produced by a small set of instructions.
+
+The first one is related to a concept called Functional Information.  As I will show, the second is not useful.  The interesting new development is that Dembski and Ewert have moved to definition 3, resulting in a specification that no longer has any connection to Functional Information.
+
+We'll discuss these one at a time ...
+<!--more-->
+
+
 
 
 Improbable on a scale (what?)
