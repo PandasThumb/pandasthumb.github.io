@@ -1,5 +1,5 @@
 ---
-title: 'Meditation on &ldquo;The Snowflake: Winter&quot;s Frozen Artistry&rdquo;'
+title: 'Meditation on &ldquo;The Snowflake: Winter&apos;s Frozen Artistry&rdquo;'
 date: '2023-12-27 13:56:00 -07:00'
 author: Matt Young
 ---
