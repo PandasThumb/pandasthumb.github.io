@@ -36,12 +36,12 @@ expected less than once in the whole history of the Universe.
 Over the years since 1998, there seem to have been several definitions of the scale:
 
 1. A quantity which is fitness or a component of fitness, with the probability being simply
-   the fraction of all genotypes having that high a value in the initial population.  Or,
-2. That quantity, but with the probability being instead the chance that natural evolutionary processes
-   would produce that good a value, or
-3. Something  more mysterious involving that probability that the genotype (or phenotype) would be produced by a small set of instructions.
+   the fraction of all genotypes having that high, or higher a value in the initial population.  Or,
+2. The same scale, but with the probability being instead the chance that natural evolutionary processes
+   would produce that good a value, or higher, or
+3. A more mysterious scale involving whether the genotype (or phenotype) could be produced by a small set of instructions.
 
-The first one is related to a concept called Functional Information.  As I will show, the second is not useful.  The interesting new development is that Dembski and Ewert have moved to definition 3, resulting in a specification that no longer has any connection to Functional Information.
+The first one is related to a concept called Functional Information.  As I will show, the second is not at all useful.  The interesting new development is that Dembski and Ewert have moved to definition 3, resulting in a specification that no longer has any connection to Functional Information.
 
 We'll discuss these one at a time ...
 <!--more-->
@@ -65,7 +65,7 @@ Functional Information
    Orgel "specified information"
    Szostak 2003 Nature
    Hazen, Carothers, Griffin, and Szostak 2007 PNAS
-   ID guy too 2008 or so
+   Kirk Durston too 2008 or so
   Argued that CSI is like FI (who?)
     Kirk Durston in his blog, 2019:
       also cited May 3, 2019 by Denyse O'Crazy at UD
@@ -78,7 +78,7 @@ Functional Information
 Also Quoted by Denyse O'Leary at Uncommon Descent  August 22, 2019 (?)
 (Need Durston paper ref too)
 
-
+KIRK DURSTON QUOTE:
 A unique signature of intelligence
 
 Design detection is firmly entrenched in science, including forensic science, defence research, SETI, archeology, and biology. In each area, a variety of methods are used, but the core aspect of all of them can be quantified in terms of functional information (defined in the literature by Szostak (1), Hazen et al., (2), and Durston et al. (3)). In layperson’s terms, functional information is the information required to produce a desired effect. A testable, verifiable, and falsifiable hypothesis that is highly useful to design detection can be stated as follows:
@@ -142,6 +142,8 @@ References:
 
 5.    PDB: 1GM1.
 "  
+END OF DURSTON MATERIAL
+
 
 Sketch of the 2002 argument
    What were given as examples in the 1996 book, in the 2002 book
