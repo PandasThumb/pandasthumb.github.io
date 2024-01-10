@@ -23,6 +23,8 @@ One challenge that has always been a barrier to using phylogenetics to understan
 
 This zone below 30% AA sequence identity has long been known as the Twilight Zone of protein phylogenetics (this phrase goes back at least as far as Russell Doolittle in the 1980s, probably further).  The main solution when homology/alignment/phylogenetics gets difficult due to loss of signal in the characters is: find more characters, ideally characters that are more slowly evolving. We already do this in many areas: if DNA sequence similarity is saturated, we can move to AA sequence, or morphological characters, both of which tend to be more slowly evolving, and thus preserve evidence of shared ancestry (shared derived characters) for longer.
 
+<b>Protein structure phylogenetics in the Twilight Zone</b>
+
 We do have another source of data in the Twilight Zone, which <i>ought</i> to be helpful: protein structure. It has long been known that protein structure is even more conserved than amino acid sequence. However, use of protein structure in phylogenetics has been limited by two things: 
 
 (1) Protein structures are very hard to experimentally characterize. Techniques like protein crystallography only work on certain proteins, and require a great deal of time, effort, and expensive equipment. Therefore, protein structures have historically only been available for a small fraction of the gene/protein sequences available after the DNA sequencing revolution.
@@ -43,7 +45,9 @@ Puente-Lelievre, Caroline; Malik, Ashar J.; Douglas, Jordan; Ascher, David; Bake
 
 The rest of this story has been told in a <a href="https://twitter.com/NickJMatzke/status/1735089150494470339">thread on Twitter</a> (now "X", ugh), also <a href="https://bsky.app/profile/nickjmatzke.bsky.social/post/3kghoyoeqta23">posted to Bluesky</a>, but honestly, microblogging platforms are kind of lame now, they mostly require logins to read much. So I am re-posting the thread and graphics below.
 
+-----
 
+<b>Twitter thread on Puente-Lelievre et al. (2023), "Tertiary-interaction characters enable fast, model-based structural phylogenetics beyond the twilight zone." <i>bioRxiv</i>.</b>
 
 A tweetorial explainer on Puente-Lelievre et al (2023). We are very excited about this paper & its implications for phylogenetics. Here's why! (Work stems from @HFSP grant "How life got moving: reconstructing and re-evolving the bacterial flagellar motor" <a href="https://twitter.com/SBSatEd/status/1380517373107666945">https://twitter.com/SBSatEd/status/1380517373107666945</a> )
 
@@ -118,7 +122,7 @@ Here's what we got when we just ran a standard analysis - amino-acids only, and 
 
 <b>Addendum #2:</b> We don't have a tutorial up yet, but all of the code, commands, example data files etc. are in the Supporting Information zipfile, also available on @github at: <a href="https://github.com/nmatzke/3diphy">https://github.com/nmatzke/3diphy</a> /20
 
-
+-----
 
 
 
