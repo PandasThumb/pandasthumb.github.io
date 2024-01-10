@@ -34,7 +34,7 @@ author: Glenn Branch
 
 <p>It is inevitable that the creationist materials that Lionel plied Jeffrey with, before and after his imprisonment, contained a hefty dose of the claim that acceptance of evolution causes moral bankruptcy. Indeed, the idea that accepting evolution is connected to religious apostasy, moral turpitude, and social decay is among the so-called <a href="https://shuddhashar.com/learning-from-the-american-evolution-wars/">pillars of creationism</a>, the main rhetorical themes used by creationists hoping to influence the public. Subsisting on such a doctrinaire diet, it is hardly surprising that Jeffrey was primed to repeat the claim during his <i>Dateline NBC</i> interview.</p>
 
-<p>But why was Lionel sending creationist materials to Jeffrey? In the initial edition of <i>A Father's Story</i>, Lionel was circumspect about his own attitude toward evolution. He wrote that while in prison in 1992, his son used $130, anonymously donated, to purchase thirteen creationist books, neutrally adding, </p>
+<p>But why was Lionel sending creationist materials to Jeffrey? In the initial edition of <i>A Father's Story</i>, Lionel was circumspect about his attitude toward evolution. He wrote that while in prison in 1992, his son used $130, anonymously donated, to purchase thirteen creationist books, neutrally adding, </p>
 
 <blockquote><p>It amazed him that a scientific theory that had been received as an unarguable scientific fact during all the years of his education might rest on questionable assumptions. It seemed to delight him that so thoroughly accepted an idea could be questioned, that nothing stood on truly solid ground.</p></blockquote>
 
