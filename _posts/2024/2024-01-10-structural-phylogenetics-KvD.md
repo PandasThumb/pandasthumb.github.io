@@ -4,7 +4,7 @@ date: 2024-01-10 00:00:00 0:00
 author: Nick Matzke
 ---
 
-<figure class="on-the-left-side"><img src="/uploads/2023/CPL_etal_2023_Fig6_PDB_trees.png" alt="[Figure 1 of Puente-Lelievre, Matzke et al. 2023, Tertiary-interaction characters enable fast, model-based structural phylogenetics beyond the twilight zone, bioRxiv]"/>
+<figure class="on-the-left-side"><img src="/uploads/2024/CPL_etal_2023_Fig6_PDB_trees.png" alt="[Figure 1 of Puente-Lelievre, Matzke et al. 2023, Tertiary-interaction characters enable fast, model-based structural phylogenetics beyond the twilight zone, bioRxiv]"/>
 <figcaption><small>Figure 1 of <a href="https://www.biorxiv.org/content/10.1101/2023.12.12.571181v1">Puente-Lelievre et al. 2023, bioRxiv</a>.</small></figcaption>
 </figure>
 
