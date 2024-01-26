@@ -50,7 +50,9 @@ We'll discuss these one at a time ...
 
 > The specification of organisms can be cashed out in any number of ways. Arno Wouters cashes it out globally in terms of the <em>viability</em> of whole orgamisms. Michael Behe cashes it out in terms of the <em>minimal function</em> of  biochemical systems. Darwinist Richard Dawkins cashes out biological specification in terms of the <em>reproduction</em> of genes.  Thus, in <em>The Blind Watchmaker Dawkins writes "Complicated things have some quality, specifiable in advance, that is highly unlikely to have been acquired by random chance alone.  In the case of living systems, the quality that is specified in advance is ... the ability to propagate genes in reproduction." (Dembski, <em>No Free Lunch</em>, 2002 and 2007, p. 148).
 
+## Functional Information ##
 
+This was originally defined by Leslie Orgel in 1973.  He was trying to define a kind of informaation that expressed information that was useful to the organism. ruling out aspects of its phenotype that required lots of elaborate description, but the details of which did not particularly help the organism.
 
 2. 
 Improbable on a scale (what?)
