@@ -55,6 +55,7 @@ We'll discuss these one at a time ...
 This was originally defined by Leslie Orgel in 1973.  He was trying to definea measure of information that was useful to the organism. ruling out aspects of its phenotype that might require lots of elaborate description, but the details of which did not particularly help the organism.  The concept was made more precise by Jack Szostak in a papper in _Nature_ in 2003, with a small modification by Haxen, Carothers, Griffin, and Szostak in 2007.
 
 -------------------------------------- got to here --------------------------------------
+
 2. 
 Improbable on a scale (what?)
 Improbable that one that good would occur even once in the history of the universe.
