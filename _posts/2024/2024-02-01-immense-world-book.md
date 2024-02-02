@@ -11,7 +11,7 @@ author: Matt Young
 </figure>
 
 
-I have been reading, intermittently, I afraid, <a href="https://www.amazon.com/gp/product/B09JBJS1MF/"> An Immense World</a>, subtitled "How Animal Senses Reveal the Hidden Realms Around Us," by Ed Yong. The book is about senses: vision, touch, pain, hearing, but also heat, vibration, electric and magnetic fields, and echoes and echolocation. I am about up to the part where he tries to tell you, with a sort of apology to Thomas Nagel, what it is like to be a bat.
+I have been reading, intermittently, I afraid, <a href="https://www.amazon.com/gp/product/B09JBJS1MF/"> An Immense World</a>, subtitled "How Animal Senses Reveal the Hidden Realms Around Us," by Ed Yong. The book is about senses: vision, touch, pain, hearing, taste, smell, but also heat, vibration, electric and magnetic fields, and echoes and echolocation. I am about up to the part where he tries to tell you, with a sort of apology to Thomas Nagel, what it is like to be a bat.
 
 In the meantime, I heard Mr. Yong interviewed by Arielle Duhaime-Ross last week on Science Friday, under the title, <a href="https://www.sciencefriday.com/segments/an-immense-world-umwelt-animals/">Expanding our Umwelt: Understanding animal experiences</a>. <i>Umwelt</i> is a German word that Mr. Yong borrows to mean "the part of [its] surroundings that an animal can sense and experience—its perceptual world."
 
