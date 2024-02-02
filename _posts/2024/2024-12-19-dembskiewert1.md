@@ -52,7 +52,7 @@ We'll discuss these one at a time ...
 
 ## Functional Information ##
 
-Functional Information, a form of Specified Information, was defined by Leslie Orgel in 1973.  He was trying to define a measure of information that was useful to the organism, ruling out aspects of its phenotype that might require lots of elaborate description, but the details of which did not particularly help the organism.  The concept was made more precise by Jack Szostak in a papper in _Nature_ in 2003, with a small correction by Hazen, Carothers, Griffin, and Szostak in 2007.
+Functional Information, a form of Specified Information, was defined by Leslie Orgel in 1973.  He was trying to define a measure of information that was useful to the organism, ruling out aspects of its phenotype that might require lots of elaborate description, but the details of which did not particularly help the organism.  The concept was made more precise by Jack Szostak in a paper in _Nature_ in 2003, with a small correction by Hazen, Carothers, Griffin, and Szostak in 2007.
 
 In all of those papers, the null distribution assigns equal probability to all possible sequences.  Thus if we have 
 a region of 1000 nucleotides, it assumes that all 4^1000 possible sequences are equiprobable.  If we see a sequence which has 4^10 sequences with equal or higher fitness, then the functional information in that sequence is computed from the probability 4^10 / 4^1000 = 4^{-990}.  It is, in bits, minus the log to the base 2 of this probability, or -log2 (4^(-990)), which is 1980 bits.
