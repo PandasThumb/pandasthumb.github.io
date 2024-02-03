@@ -63,7 +63,13 @@ As sensible as Functional Information seems to be, it has one deficiency from th
 
 Can a sequence with 1980 bits of FI arise in a population by fixing favorable alleles at 990 sitees?  Unless a design advocate can present a sound argument that it is impossible (or extremely improbable) for this to happen, then observing 1980 bits of FI is not evidence for Design Intervention.
 
+In Dembski's 2002 book <em>No Free Lunch</em>, the probability of a sequence this good or better is described as the probability that it will arise by "chance".  It was unclear whether that included  processes such as natural selection.
+When I tried to refute his argument, I showed that natural selection could increase Functional Information (the article is in <em>Reports of the National Center for Science Education</em> in 2007, see <a href="">here</a>).
 
+Functional Information, as used by Szostak and Hazen, was never intended to be evidence for Design.  But it has been used that way
+by ID advocates such as Kirk Durston and Denyse O'Leary.
+
+by Kirk 
 -------------------------------------- got to here --------------------------------------
 
 2. 
