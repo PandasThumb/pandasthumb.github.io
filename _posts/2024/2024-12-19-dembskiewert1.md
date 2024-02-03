@@ -7,7 +7,7 @@ author: Joe Felsenstein
 <div align="center"><figure><img width="600px" src="/uploads/2023/Six_Grandfathers.jpg" alt="[Six grandfathers image]">
 <figcaption><div align="center">The mountain called <em>Six Grandfathers</em> by the 
 Lakota people before it was <br/>renamed Mount Rushmore.  Does the Lakota name reflect 
-a design inference?</div></figcaption></figure></div>
+a design inference?</div></figcaption><em>Wikimedia, public domain</em></figure></div>
 
 <p>&nbsp;</p>
 
@@ -60,6 +60,9 @@ a region of 1000 nucleotides, it assumes that all 4^1000 possible sequences are 
 ## The problem with Functional Information ##
 
 As sensible as Functional Information seems to be, it has one deficiency from the point of view of Dembski and Ewert.  Even when there is a very small probability that a randomly chosen sequence will be this good or better, there is no argument that natural evolutionary forces cannot find a sequence this good or better.
+
+Can a sequence with 1980 bits of FI arise in a population by fixing favorable alleles at 990 sitees?  Unless a design advocate can present a sound argument that it is impossible (or extremely improbable) for this to happen, then observing 1980 bits of FI is not evidence for Design Intervention.
+
 
 -------------------------------------- got to here --------------------------------------
 
