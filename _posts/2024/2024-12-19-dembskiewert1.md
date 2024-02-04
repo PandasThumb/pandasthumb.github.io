@@ -50,6 +50,10 @@ We'll discuss these one at a time ...
 
 > The specification of organisms can be cashed out in any number of ways. Arno Wouters cashes it out globally in terms of the <em>viability</em> of whole orgamisms. Michael Behe cashes it out in terms of the <em>minimal function</em> of  biochemical systems. Darwinist Richard Dawkins cashes out biological specification in terms of the <em>reproduction</em> of genes.  Thus, in <em>The Blind Watchmaker</em> Dawkins writes "Complicated things have some quality, specifiable in advance, that is highly unlikely to have been acquired by random chance alone.  In the case of living systems, the quality that is specified in advance is ... the ability to propagate genes in reproduction." (Dembski, <em>No Free Lunch</em>, 2002 and 2007, p. 148).
 
+Dembski's criterion for detecting Design was finding complex specified information (CSI), where "complex" did not refer to the compliatedness of the organism, but just to having a sufficiently low probability of happening under "chance".  
+Having a scale of level of specification makes these criteria forms of Functional Information. 
+
+
 ## Functional Information ##
 
 Functional Information, a form of Specified Information, was defined by Leslie Orgel in 1973.  He was trying to define a measure of information that was useful to the organism, ruling out aspects of its phenotype that might require lots of elaborate description, but the details of which did not particularly help the organism.  The concept was made more precise by Jack Szostak in a paper in _Nature_ in 2003, with a small correction by Hazen, Carothers, Griffin, and Szostak in 2007.
@@ -61,13 +65,12 @@ a region of 1000 nucleotides, it assumes that all 4^1000 possible sequences are 
 
 As sensible as Functional Information seems to be, it has one deficiency from the point of view of Dembski and Ewert.  Even when there is a very small probability that a randomly chosen sequence will be this good or better, there is no argument that natural evolutionary forces cannot find a sequence this good or better.
 
-Can a sequence with 1980 bits of FI arise in a population by fixing favorable alleles at 990 sitees?  Unless a design advocate can present a sound argument that it is impossible (or extremely improbable) for this to happen, then observing 1980 bits of FI is not evidence for Design Intervention.
+Can a sequence with 1980 bits of FI arise in a population by gradually fixing favorable alleles at 990 sitees?  Unless a design advocate can present a sound argument that it is impossible (or extremely improbable) for this to happen, then observing 1980 bits of FI is not evidence for Design Intervention.
 
 In Dembski's 2002 book <em>No Free Lunch</em>, the probability of a sequence this good or better is described as the probability that it will arise by "chance".  It was unclear whether that included  processes such as natural selection.
 When I tried to refute his argument, I showed that natural selection could increase Functional Information (the article is in <em>Reports of the National Center for Science Education</em> in 2007, see <a href="">here</a>).
 
-Functional Information, as used by Szostak and Hazen, was never intended to be evidence for Design.  But it has been used that way
-by ID advocates such as Kirk Durston and Denyse O'Leary.
+Functional Information, as used by Szostak and Hazen, was never intended to be evidence for Design.  It was never assumed that high levels of FI could not be achieved by natural evolutionary processes.  But it has been used in that way ID advocates such as Kirk Durston and Denyse O'Leary.
 
 by Kirk 
 -------------------------------------- got to here --------------------------------------
