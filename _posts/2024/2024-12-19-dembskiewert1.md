@@ -65,12 +65,39 @@ a region of 1000 nucleotides, it assumes that all 4^1000 possible sequences are 
 
 As sensible as Functional Information seems to be, it has one deficiency from the point of view of Dembski and Ewert.  Even when there is a very small probability that a randomly chosen sequence will be this good or better, there is no argument that natural evolutionary forces cannot find a sequence this good or better.
 
-Can a sequence with 1980 bits of FI arise in a population by gradually fixing favorable alleles at 990 sitees?  Unless a design advocate can present a sound argument that it is impossible (or extremely improbable) for this to happen, then observing 1980 bits of FI is not evidence for Design Intervention.
+Can a sequence with 1980 bits of FI arise in a population by gradually fixing favorable alleles at 990 sites?  Unless a design advocate can present a sound argument that it is impossible (or extremely improbable) for this to happen, then observing 1980 bits of FI is not evidence for Design Intervention.
 
 In Dembski's 2002 book <em>No Free Lunch</em>, the probability of a sequence this good or better is described as the probability that it will arise by "chance".  It was unclear whether that included  processes such as natural selection.
 When I tried to refute his argument, I showed that natural selection could increase Functional Information (the article is in <em>Reports of the National Center for Science Education</em> in 2007, see <a href="">here</a>).
 
 Functional Information, as used by Szostak and Hazen, was never intended to be evidence for Design.  It was never assumed that high levels of FI could not be achieved by natural evolutionary processes.  But it has been used in that way ID advocates such as Kirk Durston and Denyse O'Leary.
+
+
+## Durston's argument ##
+
+In a post on his blog "Quest: Thoughts about God, Truth, and Beauty" in 2018, Durston, a clergyman who is a former engineer, argued in [a post on July 22, 2018](https://www.kirkdurston.com/blog/idscience) on "Why this scientist believes intelligent design was required for biological life" that:
+
+> Hypothesis: A unique property of intelligent minds is the ability to produce statistically significant levels of functional information as defined in the literature.
+
+and
+
+
+
+MORE HERE
+
+An hour-long video presentation of his argument will be found [here](https://foclonline.org/talk/how-confident-can-we-be-genetic-information-required-intelligent-programmer).
+
+
+Durston's calculation involves doing an alignment of all protein sequences that carry out a particular function, showing that the smallest length of the members of this protein family is about 140 amino acids.  His (somewhat implicit) argument is that no functional protein smaller than that could have arisen by accident, and then
+could then have evolved into proteins of that length.   His argument is implicity that natural selection could not have been been responsible.  He does not mention natural selection when he is searching for natural processes that could have 
+
+
+
+
+## Denyse O'Leary's argument ##
+
+
+
 
 by Kirk 
 -------------------------------------- got to here --------------------------------------
