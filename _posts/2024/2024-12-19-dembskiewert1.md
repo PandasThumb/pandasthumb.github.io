@@ -33,25 +33,25 @@ on a scale.  A scale of what, we will be discussing.  The general strategy of th
 is to find a region of the scale that is so improbable under "chance" that natural processes would be extremely unlikely to result in genotypes that good or better.  The probabilities that natural processes would produce anything that good have to be so small that such an event would be 
 expected less than once in the whole history of the Universe.
 
-Over the years since 1998, there seem to have been several definitions of the scale:
+Over the years since 1998, there seem to have been several definitions of the scale and the probability:
 
 1. A quantity which is fitness or a component of fitness, with the probability being simply
-   the fraction of all genotypes having that high, or higher a value in the initial population.  Or,
+   the fraction of all genotypes in the initial population having that high, or higher, a value.  Or,
 2. The same scale, but with the probability being instead the chance that natural evolutionary processes
    would produce that good a value, or higher, or
 3. A more mysterious scale involving whether the genotype (or phenotype) could be produced by a small set of instructions.
 
-The first one is related to a concept called Functional Information.  As I will show, the second is not at all useful.  The interesting new development is that Dembski and Ewert have moved to definition 3, resulting in a specification that no longer has any connection to Functional Information.
+The first one is related to a concept called Functional Information.  As I will show, the second is not at all useful.  The interesting new development is that Dembski and Ewert have moved to definition 3, resulting in a specification that no longer has any connection to Functional Information.  Functional Information has been thrown under the bus.
 
 We'll discuss these one at a time ...
 <!--more-->
 
-1. In the original 1998 edition of <em>The Design Inference</em> William Dembski did not discuss using the design inference on genotypes that were argued to have arisen by natural selection and other ordinary evolutionary propcesses (in section 2.3 he gives a "case study" of the "Creation-evolution controversy" but focuses that entirely on the origin of Life, not on evolution thereafter).  Four years later, he applied his inference to biological evolution in his work <em>No Free Lunch: Why Specified Complexity Cannot be Purchased without Intelligence</em>. There he gave examples of the specification scales of interest in discussions of evolution:
+1. In the original 1998 edition of <em>The Design Inference</em> William Dembski did not discuss using the design inference on genotypes that were argued to have arisen by natural selection and other ordinary evolutionary propcesses (in section 2.3 he gives a "case study" of the "Creation-evolution controversy" but focuses that entirely on the origin of Life, not on evolution thereafter).  Four years later, he applied his inference to biological evolution in his work <em>No Free Lunch: Why Specified Complexity Cannot be Purchased without Intelligence</em>. There he gave these examples of the specification scales of interest in discussions of evolution:
 
 > The specification of organisms can be cashed out in any number of ways. Arno Wouters cashes it out globally in terms of the <em>viability</em> of whole orgamisms. Michael Behe cashes it out in terms of the <em>minimal function</em> of  biochemical systems. Darwinist Richard Dawkins cashes out biological specification in terms of the <em>reproduction</em> of genes.  Thus, in <em>The Blind Watchmaker</em> Dawkins writes "Complicated things have some quality, specifiable in advance, that is highly unlikely to have been acquired by random chance alone.  In the case of living systems, the quality that is specified in advance is ... the ability to propagate genes in reproduction." (Dembski, <em>No Free Lunch</em>, 2002 and 2007, p. 148).
 
-Dembski's criterion for detecting Design was finding complex specified information (CSI), where "complex" did not refer to the compliatedness of the organism, but just to having a sufficiently low probability of happening under "chance".  
-Having a scale of level of specification makes these criteria forms of Functional Information. 
+Dembski's criterion for detecting Design was finding complex specified information (CSI), where "complex" did not refer to the complicatedness of the organism, but just to having a sufficiently low probability of happening under "chance".  
+Having a scale which is the level of specification makes these criteria forms of Functional Information. 
 
 
 ## Functional Information ##
@@ -94,7 +94,7 @@ could then have evolved into proteins of that length.   His argument is implicit
 
 
 
-## Denyse O'Leary's argument ##
+
 
 
 
