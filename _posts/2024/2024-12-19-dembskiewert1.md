@@ -59,57 +59,38 @@ Having a scale which is the level of specification makes these criteria forms of
 Functional Information, a form of Specified Information, was defined by Leslie Orgel in 1973.  He was trying to define a measure of information that was useful to the organism, ruling out aspects of its phenotype that might require lots of elaborate description, but the details of which did not particularly help the organism.  The concept was made more precise by Jack Szostak in a paper in _Nature_ in 2003, with a small correction by Hazen, Carothers, Griffin, and Szostak in 2007.
 
 In all of those papers, the null distribution assigns equal probability to all possible sequences.  Thus if we have 
-a region of 1000 nucleotides, it assumes that all 4^1000 possible sequences are equiprobable.  If we see a sequence which has 4^10 sequences with equal or higher fitness, then the functional information in that sequence is computed from the probability 4^10 / 4^1000 = 4^{-990}.  It is, in bits, minus the log to the base 2 of this probability, or -log2 (4^(-990)), which is 1980 bits.
+a region of 1000 nucleotides, it assumes that all 4^1000 possible sequences are equiprobable.  If we see a sequence which has 4^600 sequences with equal or higher fitness, then the functional information in that sequence is computed from the probability 4^600 / 4^1000 = 4^{-400}.  It is, in bits of information, minus the log to the base 2 of this probability, or -log2 (4^(-400)), which is 800 bits.
 
 ## The problem with Functional Information ##
 
 As sensible as Functional Information seems to be, it has one deficiency from the point of view of Dembski and Ewert.  Even when there is a very small probability that a randomly chosen sequence will be this good or better, there is no argument that natural evolutionary forces cannot find a sequence this good or better.
 
-Can a sequence with 1980 bits of FI arise in a population by gradually fixing favorable alleles at 990 sites?  Unless a design advocate can present a sound argument that it is impossible (or extremely improbable) for this to happen, then observing 1980 bits of FI is not evidence for Design Intervention.
+Can a sequence with 800 bits of FI arise in a population by gradually fixing favorable alleles at 400 sites?  Unless a design advocate can present a sound argument that it is impossible (or extremely improbable) for this to happen, then observing 880 bits of FI is not evidence for Design Intervention.
 
-In Dembski's 2002 book <em>No Free Lunch</em>, the probability of a sequence this good or better is described as the probability that it will arise by "chance".  From that it was unclear whether "chance" included  processes such as natural selection.
-When I tried to refute Dembski's 2002 argument, I showed that natural selection could increase Functional Information (the article is in <em>Reports of the National Center for Science Education</em> in 2007, see [here](https://ncse.ngo/has-natural-selection-been-refuted-arguments-william-dembski).
+In Dembski's 2002 book <em>No Free Lunch</em>, the probability of a sequence this good or better is described as the probability that it will arise by "chance" as opposed to "necessity".  From that it was unclear whether "chance" included  processes such as natural selection.  Or was that included in "necessity"?
+When I wrote a  refutation of Dembski's 2002 argument, I showed that natural selection could increase Functional Information (the article is in <em>Reports of the National Center for Science Education</em> in 2007, [here](https://ncse.ngo/has-natural-selection-been-refuted-arguments-william-dembski).
 
-Functional Information, as used by Szostak and Hazen, was never intended to be evidence for Design.  They never assumed that high levels of FI could not be achieved by natural evolutionary processes.  But FI has been used in that way by ID advocates such as Kirk Durston.
+Functional Information, as used by Szostak and Hazen, was never intended to measure the evidence for Design.  They never assumed that high levels of FI could not be achieved by natural evolutionary processes.  But FI has been used in that way by ID advocates such as Kirk Durston.
 
 
 ## Durston's argument ##
 
 In a post on his blog "Quest: Thoughts about God, Truth, and Beauty" in 2018, Durston, a clergyman who is a former engineer, argued in [a post on July 22, 2018](https://www.kirkdurston.com/blog/idscience) on "Why this scientist believes intelligent design was required for biological life" that:
 
+> Design detection is firmly entrenched in science, including forensic science, defence research, SETI, archeology, and biology. In each area, a variety of methods are used, but the core aspect of all of them can be quantified in terms of functional information (defined in the literature by Szostak (1), Hazen et al., (2), and Durston et al. (3)). In layperson’s terms, functional information is the information required to produce a desired effect. A testable, verifiable, and falsifiable hypothesis that is highly useful to design detection can be stated as follows:
+>
 > Hypothesis: A unique property of intelligent minds is the ability to produce statistically significant levels of functional information as defined in the literature.
-
-and
-
-
-
-MORE HERE
+>
+> A key word here is “unique”; intelligence is the only thing with enough intellectual horsepower to produce significant levels of functional information. The above hypothesis is certainly testable and falsifiable. To falsify it, all we need is to verify a natural, mindless process that will produce statistically significant levels of functional information. 
+> ... the only option science has on the table that is observable, testable, and verified is intelligence. Almost anything, including dumping alphabet characters out of a box on to the floor, can produce functional information at trivial or non-significant levels. However, if one wishes to produce significant levels of functional information one needs something else in addition. Right now, the only option science has on the table that is observable, testable, and verified is intelligence. Although there are other creative scenarios as to how large quantities of functional information can be formed naturally, our failure to verify them suggests that they should be more properly classified as science fiction. (4)
+>
 
 An hour-long video presentation of his argument will be found [here](https://foclonline.org/talk/how-confident-can-we-be-genetic-information-required-intelligent-programmer).
 
-
 Durston's calculation involves doing an alignment of all protein sequences that carry out a particular function, showing that the smallest length of the members of this protein family is about 140 amino acids.  His (somewhat implicit) argument is that no functional protein smaller than that could have arisen by accident, and then
-could then have evolved into proteins of that length.   His argument is implicity that natural selection could not have been been responsible.  He does not mention natural selection when he is searching for natural processes that could have 
+could then have evolved into proteins of that length.   His argument is implicity that natural selection could not have been been responsible.  He does not mention natural selection when he is searching for natural processes that could have accumulated a "significant" amount of Functional Information.
 
-
-
-
-
-
-
-
-
-by Kirk 
--------------------------------------- got to here --------------------------------------
-
-2. 
-Improbable on a scale (what?)
-Improbable that one that good would occur even once in the history of the universe.
-What is scale of "goodness"?  Adaptation? Fitness?
-Something that evolution achieves?
-
-
-
+Durston's argument seems to be assuming that we are at the origin of life, before there can be any process of natural selection.  Seeing that present-day protein sequences that carry out the particular function all have 140 amino acid positions conserved, he assumes that the origin of this protein family must have started with this sequence, that it could not have arisen by natural selection from a much shorter sequence.
 
 
 
@@ -120,20 +101,9 @@ Functional Information
    Szostak 2003 Nature
    Hazen, Carothers, Griffin, and Szostak 2007 PNAS
    Kirk Durston too 2008 or so
-  Argued that CSI is like FI (who?)
-    Kirk Durston in his blog, 2019:
-      also cited May 3, 2019 by Denyse O'Crazy at UD
-
-
-
+   Kirk Durston in his blog, 2019:
 (quote from Kirk Durston, in his blog "Quest. Thoughts about God, Truth, and Beauty"  at
 (https://www.kirkdurston.com/blog/idscience)
-
-Also Quoted by Denyse O'Leary at Uncommon Descent  August 22, 2019 (?)
-(Need Durston paper ref too)
-
-KIRK DURSTON QUOTE:
-A unique signature of intelligence
 
 Design detection is firmly entrenched in science, including forensic science, defence research, SETI, archeology, and biology. In each area, a variety of methods are used, but the core aspect of all of them can be quantified in terms of functional information (defined in the literature by Szostak (1), Hazen et al., (2), and Durston et al. (3)). In layperson’s terms, functional information is the information required to produce a desired effect. A testable, verifiable, and falsifiable hypothesis that is highly useful to design detection can be stated as follows:
 
