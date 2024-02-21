@@ -87,12 +87,18 @@ In a post on his blog "Quest: Thoughts about God, Truth, and Beauty" in 2018, Du
 
 An hour-long video presentation of his argument will be found [here](https://foclonline.org/talk/how-confident-can-we-be-genetic-information-required-intelligent-programmer).
 
-Durston's calculation involves doing an alignment of all protein sequences that carry out a particular function, showing that the smallest length of the members of this protein family is about 140 amino acids.  His (somewhat implicit) argument is that no functional protein smaller than that could have arisen by accident, and then
-could then have evolved into proteins of that length.   His argument is implicity that natural selection could not have been been responsible.  He does not mention natural selection when he is searching for natural processes that could have accumulated a "significant" amount of Functional Information.
+Durston's calculation involves doing an alignment of all protein sequences that carry out a particular function, showing that
 
-Durston's argument seems to be assuming that we are at the origin of life, before there can be any process of natural selection.  Seeing that present-day protein sequences that carry out the particular function all have 140 amino acid positions conserved, he assumes that the origin of this protein family must have started with this sequence, that it could not have arisen by natural selection from a much shorter sequence.
+> Applying that method to a multiple sequence alignment consisting of 30,176 sequences for the second PDZ domain (5) reveals that this protein domain requires at least 140 bits of functional information. To understand how significant that is, the probability that natural processes could generate that level of functional information is 1 chance in 10 with 41 zeros after it.
 
+If the ancestors of this protein domain in the common ancestors of these species could carry out the function of this protein without containing this much Functional Information, we cannot rule out that natural selection could have gradually improved the efficiency of function until, in the latest common ancestor, the PDZ domain contained 140 bits of functional information. (For more on 
+the PDZ domain see [its Wikipedia page]((https://en.wikipedia.org/wiki/PDZ_domain).
 
+Durston's argument seems to be that a "significant" amount of Functional Information is one which cannot have accumulated step-by-step by natural selection.  In William Dembski's 2002 book, he sketchess a "Law of Conservation of Complex Specified Information" which is supposed to somehow show that one must already have previously achieved CSI in previous generayions in order to have it now. Exactly how this LCCSI is to be applied is unclear in the 2002 argument.
+
+## Dembski's CSI argument clarified, or perhaps changed ##
+
+In a 2005-2006 
 
 
 
