@@ -100,7 +100,7 @@ Durston's argument seems to be that a "significant" amount of Functional Informa
 
 In a 2005-2006 
 
-It follows that –log2[10^120·ϕS(T)·#P#(T|#H#)] > 1  if and only if #P#(T|#H#) < (1/2) 10^(-140), where #H#, as we noted in section 6, is an evolutionary chance hypothesis that takes into account Darwinian and other material mechanisms and T, conceived not as a pattern but as an event, is the evolutionary pathway that brings about the flagellar structure (for definiteness, let’s say the flagellar structure in E. coli). Is P(T|#H#) in fact less than  10^(-140), thus making T a specification? 
+It follows that –log2[10^120·ϕS(T)·__P__(T|__H__)] > 1  if and only if #P#(T|#H#) < (1/2) 10^(-140), where #H#, as we noted in section 6, is an evolutionary chance hypothesis that takes into account Darwinian and other material mechanisms and T, conceived not as a pattern but as an event, is the evolutionary pathway that brings about the flagellar structure (for definiteness, let’s say the flagellar structure in E. coli). Is P(T|#H#) in fact less than  10^(-140), thus making T a specification? 
 
 ----------------------------------------------------------------------------------------
 
