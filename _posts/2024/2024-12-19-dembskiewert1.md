@@ -70,7 +70,7 @@ Can a sequence with 800 bits of FI arise in a population by gradually fixing fav
 In Dembski's 2002 book <em>No Free Lunch</em>, the probability of a sequence this good or better is described as the probability that it will arise by "chance" as opposed to "necessity".  From that it was unclear whether "chance" included  processes such as natural selection.  Or was that included in "necessity"?
 When I wrote a  refutation of Dembski's 2002 argument, I showed that natural selection could increase Functional Information (the article is in <em>Reports of the National Center for Science Education</em> in 2007, [here](https://ncse.ngo/has-natural-selection-been-refuted-arguments-william-dembski)).
 
-Functional Information, as used by Szostak and Hazen, was never intended to measure the evidence for Design.  They never assumed that high levels of FI could not be achieved by natural evolutionary processes.  But FI has been used in that way by ID advocates such as Kirk Durston.
+Functional Information, as used by Szostak and Hazen, was never intended to measure the evidence for Design.  They never assumed that high levels of FI could not be achieved by natural evolutionary processes.  But FI has been used in that way by ID advocates such as, for example, Kirk Durston.
 
 
 ## Durston's argument ##
@@ -92,15 +92,19 @@ Durston's calculation involves doing an alignment of all protein sequences that 
 > Applying that method to a multiple sequence alignment consisting of 30,176 sequences for the second PDZ domain (5) reveals that this protein domain requires at least 140 bits of functional information. To understand how significant that is, the probability that natural processes could generate that level of functional information is 1 chance in 10 with 41 zeros after it.
 
 If the ancestors of this protein domain in the common ancestors of these species could carry out the function of this protein without containing this much Functional Information, we cannot rule out that natural selection could have gradually improved the efficiency of function until, in the latest common ancestor, the PDZ domain contained 140 bits of functional information. (For more on 
-the PDZ domain see [its Wikipedia page](https://en.wikipedia.org/wiki/PDZ_domain).
+the PDZ domain see [its Wikipedia page](https://en.wikipedia.org/wiki/PDZ_domain)).
 
 Durston's argument seems to be that a "significant" amount of Functional Information is one which cannot have accumulated step-by-step by natural selection.  In William Dembski's 2002 book, he sketchess a "Law of Conservation of Complex Specified Information" which is supposed to somehow show that one must already have previously achieved CSI in previous generayions in order to have it now. Exactly how this LCCSI is to be applied is unclear in the 2002 argument.
 
 ## Dembski's CSI argument clarified, or perhaps changed ##
 
-In a 2005-2006 
+In a 2005-2006 manuscript, which was published in 2005 in volume 7, number 2 of _Philosophia Christi_, William Dembski either clarified or changed the CSI argument.  The manuscript version may be found [here](https://billdembski.com/documents/2005.06.Specification.pdf). In Section 7 he makes it clear that "chance" includes processes such as natural selection:
 
-It follows that –log<sub>2</sub>[10^120·ϕS(T)·__P__(T|__H__)] > 1  if and only if __P__(T|__H__) < (1/2) 10<sup>(-140)</sup>, where __H__, as we noted in section 6, is an evolutionary chance hypothesis that takes into account Darwinian and other material mechanisms and T, conceived not as a pattern but as an event, is the evolutionary pathway that brings about the flagellar structure (for definiteness, let’s say the flagellar structure in E. coli). Is P(T|#H#) in fact less than  10^(-140), thus making T a specification? 
+> It follows that –log<sub>2</sub>[10<sup>120</sup>·ϕ<sub>S</sub>(T)·__P__(T|__H__)] > 1  if and only if __P__(T|__H__) < <sup>1</sup>/<sub>2</sub>)= 10<sup>-140</sup>, where __H__, as we noted in section 6, is an evolutionary chance hypothesis that takes into account Darwinian and other material mechanisms and T, conceived not as a pattern but as an event, is the evolutionary pathway that brings about the flagellar structure (for definiteness, let’s say the flagellar structure in E. coli). Is __P__(T|__H__) in fact less than  10<sup>-140</sup>, thus making T a specification?
+
+
+
+
 
 ----------------------------------------------------------------------------------------
 
