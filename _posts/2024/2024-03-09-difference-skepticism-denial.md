@@ -1,11 +1,11 @@
 ---
 title: 'The difference between skepticism and denial; Darwin, Wilberforce, and the Discovery Institute'
-date: '2025-03-09 12:00:00 -07:00'
+date: '2024-03-09 16:30:00 -07:00'
 author: Paul Braterman
 ---
 
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
-<img src="/uploads/2023/" alt=""/>
+<img src="/uploads/2024/Shedinger_Cover_600.jpg" alt="Book cover"/>
 <figcaption><a href=""></a>
 </figcaption>
 </figure>
