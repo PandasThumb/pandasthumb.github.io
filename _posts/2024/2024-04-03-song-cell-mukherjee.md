@@ -10,7 +10,7 @@ author: Joel Eissenberg
 </figcaption>
 </figure>
 
-<i>Joel Eissenberg is Professor of Biochemistry and Molecular Biology at Saint Louis University School of Medicine. He is the author of the recent article, <a href="https://pandasthumb.org/archives/2024/04/how-humans-lost-tails.html">How humans lost their tails</a></i>. 
+<i>Joel Eissenberg is Professor of Biochemistry and Molecular Biology at Saint Louis University School of Medicine. He is the author of the recent PT article, <a href="https://pandasthumb.org/archives/2024/04/how-humans-lost-tails.html">How humans lost their tails</a></i>. 
 
 As a college junior, I took a course in microbial genetics. The text was Gunter Stent’s <i><a href="https://www.amazon.com/Molecular-Genetics-Introductory-Gunther-Stent/dp/0716710285">Molecular Genetics</a></i>. I map the beginning of my career as a geneticist to that course. Stent’s book is a history of the origins of molecular biology, and in retrospect, I believe it was the combination of the history and the science that beguiled me. This potent combination is on offer in Siddhartha Mukherjee’s <i><a href="https://www.amazon.com/Song-Cell-Exploration-Medicine-Human/dp/1982117354/">The Song of the Cell</a>: An Exploration of Medicine and the New Human</i>. I generally avoid popular science books in my field, but this book was a gift from my daughter. I had read and enjoyed Mukherjee's <i>The Emperor of all Maladies</i>, so I was hoping for something special. I was not disappointed.
 
