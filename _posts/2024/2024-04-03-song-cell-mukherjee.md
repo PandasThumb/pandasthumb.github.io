@@ -18,6 +18,8 @@ The factual information about cells and their roles in tissues and organs, and i
 
 Mukherjee is a marvelous storyteller. For example, he tells the story that when lipids were extracted from a carefully measured number of red blood cells and spread out on a surface, the area was twice that necessary to contain that number of cells, pointing to a lipid bilayer, rather than monolayer. He is very effective at explaining how discoveries emerge at the confluence of scientific disciplines; e.g., the marriage of microscopy and biochemistry to define the functions of various organelles. 
 
+<!--more-->
+
 For the evolutionary biologist, Mukherjee discusses the evolution of multicellularity from free-living single cells. As a model, he describes experiments that selected for multicellular clusters of budding yeast. As the clusters grew larger and larger, a subset of cells appeared across the center of the cluster and underwent apoptosis (cellular suicide) to divide the single cluster into two smaller clusters. While certainly artificial, these experiments demonstrate how selection can result in the acquisition of a new property resembling multicellular cooperation.
 
 This is a set-up for a discussion of the community of cells we call embryos. There is a lovingly detailed description of the Spemann-Mangold discovery of the early embryonic “organizer.” The narrative then pivots to describe the infamous case of the anti-anxiety drug thalomide and its teratogenic side effects. The hero of that story was Frances Kelsey, Chief of the Division of New Drugs when Merrell sought to market thalidomide in the US as a sedative. She stood as the lone bulwark against the approval of thalidomide, thus preventing unnumbered birth defects, miscarriages, and stillbirths. 
