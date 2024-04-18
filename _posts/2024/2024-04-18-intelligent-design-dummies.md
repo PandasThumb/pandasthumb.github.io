@@ -44,7 +44,7 @@ Newman and Wiester then write, “According to Stephen Jay Gould, the panda’s 
 
 Questor quotes a passage from the ancient Greek philosopher Diogenes (whose surprising presence here is discussed below) to the effect that the regularity of the seasons is evidence for intelligent design; schematically, Diogenes is arguing:
 
-The seasons are arranged in the best possible way. If something is arranged in the best possible way, then it was designed. Therefore, the seasons were designed.
+<blockquote>The seasons are arranged in the best possible way. If something is arranged in the best possible way, then it was designed. Therefore, the seasons were designed.</blockquote>
 
 The argument elicits the following protest from Teller: “You can’t call it design just because it happens to fit your idea of the way it ought to be” (page 75). Questor then pounces: “My point exactly! Just because the thumb doesn’t fit Gould’s idea of what a thumb should be, how can he conclude that it isn’t designed?” Her point presumably is that if Teller objects to Diogenes’ argument, then he is committed to object to Gould’s argument — crudely,
 
