@@ -10,6 +10,8 @@ author: Zach B. Hancock
 </figcaption>
 </figure>
 
+<i>Zachary Hancock is a postdoctoral researcher at the University of Michigan and specializes in evolutionary genetics.</i>
+
 Evolution by natural selection requires that there exists variation in fitness between individuals. This simple truism goes back to Darwin’s Origin of Species, but where Darwin relied on verbal arguments, the statistician and population geneticist R.A. Fisher sought to codify this basic fact mathematically. 
 
 In 1930, Fisher published The Genetical Theory of Natural Selection, and within introduced the fundamental theorem of natural selection (FTNS). The FTNS is, in effect, a restatement of Darwin’s idea on the reliance of natural selection on variation. In words, the FTNS states that the rate of change in a population’s average fitness is equal to the additive genetic variance in fitness at that time. An implication of this is that when there’s a ton of variation in fitness, the population’s average fitness can increase rapidly by natural selection. But if there is very little differences in fitness among individuals, any subsequent fitness increase must be slow or absent entirely. 
