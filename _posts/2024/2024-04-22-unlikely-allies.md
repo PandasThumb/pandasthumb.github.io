@@ -64,13 +64,13 @@ The authors give another example of why they regard common ancestry as a higher-
 
 On the contrary. Common ancestry continued to be accepted, even though (in W&M’s version of history) Darwin’s causal mechanism had been rejected, because of the way in which it was supported by the many lines of evidence that they themselves had listed. Bottom-up, not top-down. John Paul II <a href="https://humanorigins.si.edu/sites/default/files/MESSAGE%20TO%20THE%20PONTIFICAL%20ACADEMY%20OF%20SCIENCES%20(Pope%20John%20Paul%20II).pdf">got it right</a>:
 
-<blockquote>It is indeed remarkable that this theory [evolution] has been progressively accepted by researchers, following a series of discoveries in various fields of knowledge. The convergence, neither sought nor fabricated, of the results of work that was conducted independently is in itself a significant argument in favor of this theory.<sup>3 </sup> </blockquote>
+<blockquote>It is indeed remarkable that this theory [evolution] has been progressively accepted by researchers, following a series of discoveries in various fields of knowledge. The convergence, neither sought nor fabricated, of the results of work that was conducted independently is in itself a significant argument in favor of this theory.<sup>3</sup> </blockquote>
 
 If W&M do not see things this way, it is because they are committed to top-down reasoning. As they say, in a section titled "Evolution without theological presuppositions is impossible,"
 
 <blockquote>Dogmatic commitments inevitably shape our overall judgments of the epistemic status of evolution. Theology is the epistemic linchpin.</blockquote>
 
-They impose such dogmatic commitments even when they are absent.4 Thus they cite Richard Dawkins’s famous remark, “Darwin made it possible to be an intellectually fulfilled atheist,” as evidence that our theology shapes our views on evolution, when Dawkin himself tells us that it was the other way round; learning about evolution led him to reject his former faith. This inverted perspective makes it possible for them to say in all seriousness,
+They impose such dogmatic commitments even when they are absent.<sup>4</sup> Thus they cite Richard Dawkins’s famous remark, “Darwin made it possible to be an intellectually fulfilled atheist,” as evidence that our theology shapes our views on evolution, when Dawkin himself tells us that it was the other way round; learning about evolution led him to reject his former faith. This inverted perspective makes it possible for them to say in all seriousness,
 
 <blockquote>Some epistemic judgments depend on how one evaluates the clarity of nature against the clarity of Scripture. Young-earth creationists tend to foreground the perspicuity of Scripture and the fallibility of science, while theistic evolutionists tend to emphasize the clarity of science and the ambiguity of exegesis.</blockquote>
 
