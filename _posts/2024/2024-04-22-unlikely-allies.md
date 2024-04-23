@@ -108,7 +108,7 @@ Indeed. And we do not need more riots on the steps of the Capitol, or more pasto
 
 3. Of course, evolutionary science does not consist of a single theory, but of numerous theories interacting. The Pope was aware of this, and spelled it out later in his message.
 
-4. As also illustrated by their treatment of Dennis Lamoureux’s position in the same Section.
+4. As also illustrated by their treatment of Denis Lamoureux’s position in the same Section.
 
 5. Allchin, Douglas. 2013. “Sacred Bovines.” <i>The American Biology Teacher</i> 75(2) : 144-147. https://doi.org/10.1525/abt.2013.75.2.16 
 
