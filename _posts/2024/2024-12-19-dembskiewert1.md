@@ -25,7 +25,7 @@ example of a design inference).
 William Dembski's original Design Inference argument involved our seeing a 
 pattern in nature, in an organism, that embodied what he called Specified 
 Complexity.  Its argument became better known as a result of Dembski's 2002 
-book <em>No Free Lunch: Why Specified Complexity Cannot be Purchased Without Intelligence".</em> 
+book <em>No Free Lunch: Why Specified Complexity Cannot be Purchased Without Intelligence.</em> 
 This was much invoked as a major argument for Intelligent Design at the time of the 2005 Kitzmiller vs. Dover School Board trial.
 
 The Specified Complexity argument involves genotypes arrayed 
