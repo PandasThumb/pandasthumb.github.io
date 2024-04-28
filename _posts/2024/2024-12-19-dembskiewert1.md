@@ -46,17 +46,17 @@ The first one is related to a concept called Functional Information.  As I will 
 We'll discuss these one at a time ...
 <!--more-->
 
-1. In the original 1998 edition of <em>The Design Inference</em> William Dembski did not discuss using the design inference on genotypes that were argued to have arisen by natural selection and other ordinary evolutionary propcesses (in section 2.3 he gives a "case study" of the "Creation-evolution controversy" but focuses that entirely on the origin of Life, not on evolution thereafter).  Four years later, he applied his inference to biological evolution in his work <em>No Free Lunch: Why Specified Complexity Cannot be Purchased without Intelligence</em>. There he gave these examples of the specification scales of interest in discussions of evolution:
+1. In the original 1998 edition of <em>The Design Inference</em> William Dembski did not discuss using the design inference on genotypes that were argued to have arisen by natural selection and other ordinary evolutionary processes. (In section 2.3 he gives a "case study" of the "Creation-evolution controversy" but focuses that entirely on the origin of Life, not on evolution thereafter).  Four years later, he applied his inference to biological evolution in his work <em>No Free Lunch: Why Specified Complexity Cannot be Purchased without Intelligence</em>. There he gave these examples of the specification scales that are of interest in discussions of evolution:
 
 > The specification of organisms can be cashed out in any number of ways. Arno Wouters cashes it out globally in terms of the <em>viability</em> of whole orgamisms. Michael Behe cashes it out in terms of the <em>minimal function</em> of  biochemical systems. Darwinist Richard Dawkins cashes out biological specification in terms of the <em>reproduction</em> of genes.  Thus, in <em>The Blind Watchmaker</em> Dawkins writes "Complicated things have some quality, specifiable in advance, that is highly unlikely to have been acquired by random chance alone.  In the case of living systems, the quality that is specified in advance is ... the ability to propagate genes in reproduction." (Dembski, <em>No Free Lunch</em>, 2002 and 2007, p. 148).
 
-Dembski's criterion for detecting Design was finding complex specified information (CSI), where "complex" did not refer to the complicatedness of the organism, but just to having a sufficiently low probability of happening under "chance".  
+Dembski's criterion for detecting Design was finding complex specified information (CSI), where "complex" did not refer to the complicatedness of the organism, but just to having a sufficiently low probability of of the specified information happening under "chance".  
 Having a scale which is the level of specification makes these criteria forms of Functional Information. 
 
 
 ## Functional Information ##
 
-Functional Information, a form of Specified Information, was defined by Leslie Orgel in 1973.  He was trying to define a measure of information that was useful to the organism, ruling out aspects of its phenotype that might require lots of elaborate description, but the details of which did not particularly help the organism.  The concept was made more precise by Jack Szostak in a paper in _Nature_ in 2003, with a small correction by Hazen, Carothers, Griffin, and Szostak in 2007.
+Functional Information, a form of Specified Information, was defined by Leslie Orgel in 1973.  He was trying to define a measure of information that was useful to the organism, ruling out aspects of its phenotype that might require lots of elaborate description, but where the details did not particularly help the organism.  The concept was made more precise by Jack Szostak in a paper in _Nature_ in 2003, with a small correction by Hazen, Carothers, Griffin, and Szostak in 2007.
 
 In all of those papers, the null distribution assigns equal probability to all possible sequences.  Thus if we have 
 a region of 1000 nucleotides, it assumes that all 4^1000 possible sequences are equiprobable.  If we see a sequence which has 4^600 sequences with equal or higher fitness, then the functional information in that sequence is computed from the probability 4^600 / 4^1000 = 4^{-400}.  It is, in bits of information, minus the log to the base 2 of this probability, or -log2 (4^(-400)), which is 800 bits.
@@ -68,7 +68,7 @@ As sensible as Functional Information seems to be, it has one deficiency from th
 Can a sequence with 800 bits of FI arise in a population by gradually fixing favorable alleles at 400 sites?  Unless a design advocate can present a sound argument that it is impossible (or extremely improbable) for this to happen, then observing 880 bits of FI is not evidence for Design Intervention.
 
 In Dembski's 2002 book <em>No Free Lunch</em>, the probability of a sequence this good or better is described as the probability that it will arise by "chance" as opposed to "necessity".  From that it was unclear whether "chance" included  processes such as natural selection.  Or was that included in "necessity"?
-When I wrote a  refutation of Dembski's 2002 argument, I showed that natural selection could increase Functional Information (the article is in <em>Reports of the National Center for Science Education</em> in 2007, [here](https://ncse.ngo/has-natural-selection-been-refuted-arguments-william-dembski)).
+When I wrote a  refutation of Dembski's 2002 argument, I showed an example where natural selection could increase Functional Information (the article is in <em>Reports of the National Center for Science Education</em> in 2007, [here](https://ncse.ngo/has-natural-selection-been-refuted-arguments-william-dembski)).
 
 Functional Information, as used by Szostak and Hazen, was never intended to measure the evidence for Design.  They never assumed that high levels of FI could not be achieved by natural evolutionary processes.  But FI has been used in that way by ID advocates such as, for example, Kirk Durston.
 
@@ -102,9 +102,22 @@ In a 2005-2006 manuscript, which was published in 2005 in volume 7, number 2 of 
 
 > It follows that –log<sub>2</sub>[10<sup>120</sup>·ϕ<sub>S</sub>(T)·__P__(T|__H__)] > 1  if and only if __P__(T|__H__) < <sup>1</sup>/<sub>2</sub> 10<sup>-140</sup>, where __H__, as we noted in section 6, is an evolutionary chance hypothesis that takes into account Darwinian and other material mechanisms and T, conceived not as a pattern but as an event, is the evolutionary pathway that brings about the flagellar structure (for definiteness, let’s say the flagellar structure in E. coli). Is __P__(T|__H__) in fact less than  10<sup>-140</sup>, thus making T a specification?
 
-The logic is now impeccable: once an adaptation is a "specification" in this sense, by definition the probability of its occurrence by natural evolutionary processes is so low that such an event will occur fewer than one time in the entire history of the universe. Finding that the adaptation is a "specification" now guarantees us that its is so improbable that ordinary evolutionary mechanisms are in effect ruled out.
+The logic is now impeccable: once an adaptation is a "specification" in this sense, then by definition the probability of its occurrence by natural evolutionary processes is so low that such an event will occur fewer than one time in the entire history of the universe. Finding that the adaptation is a "specification" now guarantees us that its is so improbable that ordinary evolutionary mechanisms are in effect ruled out.
 
 ## ... to become useless ##
+
+The problem is, neither Dembski nor Durston shows how to calculate the probability that natural evolutionary forces would achieve a result this improbable.  As far as I can see, the objective of the whole inference is:
+
+1. to find an actual event 
+that is so improbably good that we would expect one that good less than once in the history of the universe.
+2. If we can find an event that has Complex Specified Information, by definition it will be one that has this low a probability.
+3. So how do we find an event that has Complex Specified Information?
+4. Why, by finding one that is this improbable!   (Then we can show that it has CSI, and that guarantees that it is this improbable).
+
+But we have already shown that.  The CSI part is then completely unnecessary.  Steps 2 and 3 are unnecessary.   In the 2005 argument, no particular method was outlined to calculate the probability of the event.
+
+## The new criterion ##
+
 
 
 
