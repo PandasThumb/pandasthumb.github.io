@@ -63,7 +63,7 @@ a region of 1000 nucleotides, it assumes that all 4^1000 possible sequences are 
 
 ## The problem with Functional Information ##
 
-As sensible as Functional Information seems to be, it has one deficiency from the point of view of Dembski and Ewert.  Even when there is a very small probability that a randomly chosen sequence will be this good or better, there is no argument that natural evolutionary forces cannot find a sequence this good or better.
+As sensible as Functional Information seems to be, it has one deficiency from the point of view of Dembski and Ewert.  Even when there is a very small probability that a randomly chosen sequence will be this good or better, there is no argument that natural evolutionary processes cannot find a sequence this good or better.  These processes are not limited to making a single random choice.  They include natural selection, which can build up adaptations gradually.
 
 Can a sequence with 800 bits of FI arise in a population by gradually fixing favorable alleles at 400 sites?  Unless a design advocate can present a sound argument that it is impossible (or extremely improbable) for this to happen, then observing 880 bits of FI is not evidence for Design Intervention.
 
