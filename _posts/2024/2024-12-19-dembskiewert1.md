@@ -102,19 +102,19 @@ In a 2005-2006 manuscript, which was published in 2005 in volume 7, number 2 of 
 
 > It follows that –log<sub>2</sub>[10<sup>120</sup>·ϕ<sub>S</sub>(T)·__P__(T|__H__)] > 1  if and only if __P__(T|__H__) < <sup>1</sup>/<sub>2</sub> 10<sup>-140</sup>, where __H__, as we noted in section 6, is an evolutionary chance hypothesis that takes into account Darwinian and other material mechanisms and T, conceived not as a pattern but as an event, is the evolutionary pathway that brings about the flagellar structure (for definiteness, let’s say the flagellar structure in E. coli). Is __P__(T|__H__) in fact less than  10<sup>-140</sup>, thus making T a specification?
 
-The logic is now impeccable: once an adaptation is a "specification" in this sense, then by definition the probability of its occurrence by natural evolutionary processes is so low that such an event will occur fewer than one time in the entire history of the universe. Finding that the adaptation is a "specification" now guarantees us that its is so improbable that ordinary evolutionary mechanisms are in effect ruled out.
+The logic is now impeccable: once an adaptation is a "specification" in this sense, then by definition the probability of its occurrence by natural evolutionary processes is so low that such an event will occur fewer than one time in the entire history of the universe. Finding that the adaptation is a "specification" now guarantees us that it is so improbable that ordinary evolutionary mechanisms are in effect ruled out.
 
 ## ... to become useless ##
 
 The problem is, neither Dembski nor Durston shows how to calculate the probability that natural evolutionary forces would achieve a result this improbable.  As far as I can see, the objective of the whole inference is:
 
 1. to find an actual event 
-that is so improbably good that we would expect one that good less than once in the history of the universe.
-2. If we can find an event that has Complex Specified Information, by definition it will be one that has this low a probability.
+that is so improbably good that from natural evolutionary processes we would expect one that good less than once in the history of the universe.
+2. If we can find an event that has Complex Specified Information, by definition it will be one that has this low a probability with natural evolutionary processes.
 3. So how do we find an event that has Complex Specified Information?
-4. Why, by finding one that is this improbable!   (Then we can show that it has CSI, and that guarantees that it is this improbable).
+4. Why, by finding one that, with natural evolutionary processes, is this improbable!   (Then we can show that it has CSI, and that guarantees that it is this improbable).
 
-But we have already shown that.  The CSI part is then completely unnecessary.  Steps 2 and 3 are unnecessary.   In the 2005 argument, no particular method was outlined to calculate the probability of the event.
+But we have already shown that.  The CSI part is then completely unnecessary.  Steps 2 and 3 are unnecessary.   In the 2005 argument, no particular method was outlined to calculate the probability of the event with natural evolutionary processes.
 
 ## The new criterion ##
 
