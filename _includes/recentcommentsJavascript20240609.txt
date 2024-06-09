@@ -1,0 +1,77 @@
+document.write(' \
+<style type="text/css" media="screen">\
+	 .dsq-widget ul.dsq-widget-list {\
+	 padding: 0;\
+	 margin: 0;\
+	 text-align: left;\
+	 }\
+	 img.dsq-widget-avatar {\
+	 width: 32px;\
+	 height: 32px;\
+	 border: 0px;\
+	 margin: 0px;\
+	 padding: 0px 3px 3px 0px;\
+	 float: left;\
+	 }\
+	 a.dsq-widget-user {\
+	 font-weight: bold;\
+	 }\
+	 a.dsq-widget-thread {\
+	 font-weight: bold;\
+	 }\
+	 p.dsq-widget-meta {\
+	 clear: both;\
+	 font-size: 80%;\
+	 padding: 0;\
+	 margin: 0;\
+	 }\
+	 li.dsq-widget-item {\
+	 margin: 15px 0;\
+	 list-style-type: none;\
+	 clear: both;\
+	 }\
+	 span.dsq-widget-clout {\
+	 padding: 0 2px;\
+	 background-color: #ff7300;\
+	 color: #fff;\
+	 }\
+	 table.dsq-widget-horiz td {\
+	 padding-right: 15px;\
+	 }\
+	 .dsq-widget-comment p {\
+	 display: inline;\
+	 }\
+	 </style>\
+	 <ul class="dsq-widget-list">\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/michaelbelzinga/"><img class="dsq-widget-avatar" src="//a.disquscdn.com/1717446219/images/noavatar92.png"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/michaelbelzinga/">Mike Elzinga</a>\
+	 <span class="dsq-widget-comment"><blockquote>Unless you know they are different you cannot answer that question. Not such a small point, I think.</blockquote><p>Indeed; and I think your point about the term radiation is an important...</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://pandasthumb.org/archives/2024/06/how-to-teach-grown-ups.html">How to Teach Grown-Ups about Climate Change: A Review</a>&nbsp;&middot;&nbsp;<a href="https://pandasthumb.org/archives/2024/06/how-to-teach-grown-ups.html#comment-6476178952">1 day ago</a></p>\
+	 </li>\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/disqus_oevqxOSTRR/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/7161/8926/avatar92.jpg?1600395838"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/disqus_oevqxOSTRR/">Matt Young</a>\
+	 <span class="dsq-widget-comment"><p>Yes, sorry, I certainly should have mentioned that. There is a full 2-page spread of references, a half-dozen or so labeled For Kids, and another bunch labeled For Everyone. The For Kids list...</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://pandasthumb.org/archives/2024/06/how-to-teach-grown-ups.html">How to Teach Grown-Ups about Climate Change: A Review</a>&nbsp;&middot;&nbsp;<a href="https://pandasthumb.org/archives/2024/06/how-to-teach-grown-ups.html#comment-6476136582">1 day ago</a></p>\
+	 </li>\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/Smelfungus/"><img class="dsq-widget-avatar" src="//a.disquscdn.com/1717446219/images/noavatar92.png"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/Smelfungus/">mark</a>\
+	 <span class="dsq-widget-comment"><p>Does the book include a good list of references so an interested kid might learn more details, if interested, or use for a school project?</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://pandasthumb.org/archives/2024/06/how-to-teach-grown-ups.html">How to Teach Grown-Ups about Climate Change: A Review</a>&nbsp;&middot;&nbsp;<a href="https://pandasthumb.org/archives/2024/06/how-to-teach-grown-ups.html#comment-6476085423">1 day ago</a></p>\
+	 </li>\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/disqus_oevqxOSTRR/"><img class="dsq-widget-avatar" src="https://c.disquscdn.com/uploads/users/7161/8926/avatar92.jpg?1600395838"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/disqus_oevqxOSTRR/">Matt Young</a>\
+	 <span class="dsq-widget-comment"><p>Heat is tricky, almost as bad as energy or entropy. I did not mean to suggest introducing heat as a concept. I would have written something like: "Radiation from the sun warms the earth. The...</p></span>\
+	 <p class="dsq-widget-meta"><a href="https://pandasthumb.org/archives/2024/06/how-to-teach-grown-ups.html">How to Teach Grown-Ups about Climate Change: A Review</a>&nbsp;&middot;&nbsp;<a href="https://pandasthumb.org/archives/2024/06/how-to-teach-grown-ups.html#comment-6475853590">1 day ago</a></p>\
+	 </li>\
+	 <li class="dsq-widget-item">\
+	 <a href="https://disqus.com/by/michaelbelzinga/"><img class="dsq-widget-avatar" src="//a.disquscdn.com/1717446219/images/noavatar92.png"></a>\
+	 <a class="dsq-widget-user" href="https://disqus.com/by/michaelbelzinga/">Mike Elzinga</a>\
+	 <span class="dsq-widget-comment"><blockquote>Second, the term heat is used imprecisely in the discussion of “how the atmosphere works.” Again, a bright seventh grader might notice. Specifically, the “heat” that falls on the earth...</blockquote></span>\
+	 <p class="dsq-widget-meta"><a href="https://pandasthumb.org/archives/2024/06/how-to-teach-grown-ups.html">How to Teach Grown-Ups about Climate Change: A Review</a>&nbsp;&middot;&nbsp;<a href="https://pandasthumb.org/archives/2024/06/how-to-teach-grown-ups.html#comment-6475645357">1 day ago</a></p>\
+	 </li>\
+	 </ul>\
+');
