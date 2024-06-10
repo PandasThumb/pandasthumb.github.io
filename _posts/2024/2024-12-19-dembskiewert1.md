@@ -101,7 +101,7 @@ PROTEST THAT "could generate" IS UNJUSTIFIED: ASSUMES NO PARTIAL FUNCTION, FOR E
 If the ancestors of this protein domain in the common ancestors of these species could carry out the function of this protein without containing this much Functional Information, we cannot rule out that natural selection could have gradually improved the efficiency of function until, in the latest common ancestor, the PDZ domain contained 140 bits of functional information. (For more on 
 the PDZ domain see [its Wikipedia page](https://en.wikipedia.org/wiki/PDZ_domain)).
 
-Durston's argument seems to be that a "significant" amount of Functional Information is one which cannot have accumulated step-by-step by natural selection.  In William Dembski's 2002 book, he sketchess a "Law of Conservation of Complex Specified Information" which is supposed to somehow show that one must already have achieved CSI in previous generations in order to have it now. Exactly how this LCCSI is to be applied is unclear in the 2002 argument.
+Durston's argument seems to be that a "significant" amount of Functional Information is one which cannot have accumulated step-by-step by natural selection.  In William Dembski's 2002 book, he sketchess a "Law of Conservation of Complex Specified Information" which is supposed to somehow show that one must already have achieved CSI in previous generations in order to have it now. Exactly how this LCCSI is to be applied is unclear in Dembski's 2002 argument, and is not discussed in Durston's papers or his blog post, either.
 
 SOMETHING HERE ABOUT OTHER COMMENTERS
 
