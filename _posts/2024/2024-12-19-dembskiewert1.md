@@ -95,7 +95,7 @@ Durston's calculation involves doing an alignment of all protein sequences that 
 > Applying that method to a multiple sequence alignment consisting of 30,176 sequences for the second PDZ domain (5) reveals that this protein domain requires at least 140 bits of functional information. To understand how significant that is, the probability that natural processes could generate that level of functional information is 1 chance in 10 with 41 zeros after it.
 
 
-PROTEST THAT "could generate" IS UNJUSTIFIED: ASSUMES NO PARTIAL FUNCTION, FOR EXAMPLE
+PROTEST THAT "could generate" IS UNJUSTIFIED: ASSUMES NO PARTIAL FUNCTION, FOR EXAMPLE OR ASSUMES LCCSI
 
 
 If the ancestors of this protein domain in the common ancestors of these species could carry out the function of this protein without containing this much Functional Information, we cannot rule out that natural selection could have gradually improved the efficiency of function until, in the latest common ancestor, the PDZ domain contained 140 bits of functional information. (For more on 
