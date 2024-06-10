@@ -90,7 +90,7 @@ In a post on his blog "Quest: Thoughts about God, Truth, and Beauty" in 2018, Du
 
 An hour-long video presentation of his argument will be found [here](https://foclonline.org/talk/how-confident-can-we-be-genetic-information-required-intelligent-programmer).
 
-Durston's calculation involves doing an alignment of all protein sequences that carry out a particular function, showing that
+Durston's calculation for Ubiquitin  alignments is described in his paper, which will be found <a href="https://tbiomed.biomedcentral.com/articles/10.1186/1742-4682-4-47">here</a>. It involves doing an alignment of all protein sequences that carry out a particular function, showing that
 
 > Applying that method to a multiple sequence alignment consisting of 30,176 sequences for the second PDZ domain (5) reveals that this protein domain requires at least 140 bits of functional information. To understand how significant that is, the probability that natural processes could generate that level of functional information is 1 chance in 10 with 41 zeros after it.
 
@@ -123,7 +123,7 @@ that is so improbably good that from natural evolutionary processes we would exp
 3. So how do we find an event that has Complex Specified Information?
 4. Why, by finding one that, with natural evolutionary processes, is this improbable!   (Then we can show that it has CSI, and that guarantees that it is this improbable).
 
-But we have already shown that.  The CSI part is then completely unnecessary.  Steps 2 and 3 are unnecessary.   In the 2005 argument, no particular method was outlined to calculate the probability of the event with natural evolutionary processes.
+But we have already shown that, when we did step 1.  Steps 2, 3 and 4, the CSI part are then completely unnecessary!  Steps 2 and 3 are unnecessary.   In the 2005 argument, no particular method was outlined to calculate the probability of the event with natural evolutionary processes.
 
 ## The new criterion ##
 
