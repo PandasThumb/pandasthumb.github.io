@@ -36,7 +36,7 @@ expected less than once in the whole history of the Universe.
 Over the years since 1998, there seem to have been several definitions of the scale and the probability:
 
 1. A quantity which is fitness or a component of fitness, with the probability being simply
-   the fraction of all genotypes in the initial population having that high, or higher, a value.  Or,
+   the fraction of all genotypes in the initial population having that high, or higher, a value, or,
 2. The same scale, but with the probability being instead the chance that natural evolutionary processes
    would produce that good a value, or higher, or
 3. A more mysterious scale involving whether the genotype (or phenotype) could be produced by a small set of instructions.
@@ -51,7 +51,7 @@ We'll discuss these one at a time ...
 > The specification of organisms can be cashed out in any number of ways. Arno Wouters cashes it out globally in terms of the <em>viability</em> of whole orgamisms. Michael Behe cashes it out in terms of the <em>minimal function</em> of  biochemical systems. Darwinist Richard Dawkins cashes out biological specification in terms of the <em>reproduction</em> of genes.  Thus, in <em>The Blind Watchmaker</em> Dawkins writes "Complicated things have some quality, specifiable in advance, that is highly unlikely to have been acquired by random chance alone.  In the case of living systems, the quality that is specified in advance is ... the ability to propagate genes in reproduction." (Dembski, <em>No Free Lunch</em>, 2002 and 2007, p. 148).
 
 Dembski's criterion for detecting Design was finding complex specified information (CSI), where "complex" did not refer to the complicatedness of the organism, but just to having a sufficiently low probability of of the specified information happening under "chance".  
-Having a scale which is the level of specification makes these criteria forms of Functional Information. 
+So the scale is the level of specification, and the probability is the fraction of the initial population that is at or beyond that level, makes the scale be Functional  Information. 
 
 
 ## Functional Information ##
@@ -61,9 +61,12 @@ Functional Information, a form of Specified Information, was defined by Leslie O
 In all of those papers, the null distribution assigns equal probability to all possible sequences.  Thus if we have 
 a region of 1000 nucleotides, it assumes that all 4<sup>1000</sup> possible sequences are equiprobable.  If we see a sequence which has 4^600 sequences with equal or higher fitness, then the functional information in that sequence is computed from the probability 4^600 / 4^1000 = 4^{-400}.  It is, in bits of information, minus the log to the base 2 of this probability, or -log2 (4^(-400)), which is 800 bits.
 
+Functional Information is computed for any sequence, by setting the level to its position on the scale.  The amount of FI that we get by choosing that sequence is -log2(P), where P is the fraction of the initial population that is at or above that level on the scale.  So if we have chosen a sequence that is up at the 90th percentile, then P = 0.10 and Functional Information is  -log2(0.10) which is 3.322 bits.   A sequence that is only at the 10th percentile has -log2(0.90) = 0.152 bits.  There is no requirement that the calculation be done at some special point on the scale, such as where a function is detectable.  Each possible sequence has some amount of Functional Information.
+
+
 ## The problem with Functional Information ##
 
-As sensible as Functional Information seems to be, it has one deficiency from the point of view of Dembski and Ewert.  Even when there is a very small probability that a randomly chosen sequence will be this good or better, there is no argument that natural evolutionary processes cannot find a sequence this good or better.  These processes are not limited to making a single random choice.  They include natural selection, which can build up adaptations gradually.
+As sensible as Functional Information seems to be, it has one deficiency from the point of view of Dembski and Ewert.  Even when there is a very small probability that a randomly chosen sequence will be this good or better, there is no argument that natural evolutionary processes cannot find a sequence this good or better.  These evolutionary processes are not limited to making a single random choice.  They include natural selection, which can build up adaptations gradually.
 
 Can a sequence with 800 bits of FI arise in a population by gradually fixing favorable alleles at 400 sites?  Unless a design advocate can present a sound argument that it is impossible (or extremely improbable) for this to happen, then observing 880 bits of FI is not evidence for Design Intervention.
 
