@@ -99,7 +99,8 @@ This assumes that the lowest level of efficiency that we see now is the lowest t
 If the ancestors of this protein domain in the common ancestors of these species could carry out the function of this protein without containing this much Functional Information, we cannot rule out that natural selection could have gradually improved the efficiency of function until, in the latest common ancestor, the PDZ domain contained 140 bits of functional information. (For more on 
 the PDZ domain see [its Wikipedia page](https://en.wikipedia.org/wiki/PDZ_domain)).
 
-Durston's argument seems to be that a "significant" amount of Functional Information is one which cannot have accumulated step-by-step by natural selection.  In William Dembski's 2002 book, he sketchess a "Law of Conservation of Complex Specified Information" which is supposed to somehow show that one must already have achieved CSI in previous generations in order to have it now. Exactly how this LCCSI is to be applied is unclear in Dembski's 2002 argument, and is not discussed in Durston's papers or his blog post, either.
+Durston's argument seems to be that a "significant" amount of Functional Information is one which cannot have accumulated step-by-step by natural selection.  In William Dembski's 2002 book, he sketches a "Law of Conservation of Complex Specified Information" which is supposed to somehow show that one must already have achieved CSI in previous generations in order to have it now. This would seem to be an argument that one cannot achieve a high degree of adaptation if you start from less adaptation. 
+Exactly how this LCCSI is to be applied is unclear in Dembski's 2002 argument, and is not discussed in Durston's papers or his blog post, either.
 
 During the years after Dembski's 2002 argument, many advocates of Intelligent Design frequently 
 assumed that Dembski had somehow proven that a level of Functional Information great 
@@ -135,11 +136,21 @@ that it is very improbable that the adaptation could arise by
 natural evolutionary processes.  But we can only establish that 
 Specification is present by somehow already knowing that.
 
+Thus the part about calculating whether we have CSI is irrelevant to the Design Inference.  After you have (somehow) established improbability, it is just a bit of relabeling.
 This has been pointed out since about 2007 by many critics of 
-Dembski's design inference.  For links, see my
+Dembski's design inference.  For links, see [my 2013 article at The Skeptical Zone](http://theskepticalzone.com/wp/circularity-of-using-csi-to-conclude-design/), 
+which cites arguments by "Keith S.", Elizabeth Liddle, and me at The Skeptical Zone, at PT, and at Uncommon Descent.
+
+William Dembski's colleague and frequent co-author Winston Ewert 
+conceded the point [in a post at Uncommon Descent](https://uncommondescent.com/intelligent-design/the-circularity-of-the-design-inference/) in 2014:
+
+> CSI and Specified complexity do not help in any way to establish that the evolution of the bacterial flagellum is improbable. Rather, the only way to establish that the bacterial flagellum exhibits CSI is to first show that it was improbable. Any attempt to use CSI to establish the improbability of evolution is deeply fallacious.
+
 ## The new criterion ##
 
+In Dembski and Ewert's new edition of _The Design Inference_, neither "functional information" nor "information, functional" appear in the Index. The works by Szostak and by Hazen, Carothers, Griffin and Szostak do not appear in the Bibliography.  Nor, even, does Kirk Durston.  All the previous ways in which Specified Complexity could be "cashed out" are gone too.  They have been thrown under the bus, gone because it turned out that they could not accomplish a Design Inference.
 
+Only one remains, the calculation in terms of Algorithmic Specified Complexity (ASC), which is now the foundation of their criticism of evolutionary biology. 
 
 
 
