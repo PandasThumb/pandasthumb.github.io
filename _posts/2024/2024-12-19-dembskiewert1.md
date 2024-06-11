@@ -94,19 +94,17 @@ Durston's calculation for Ubiquitin  alignments is described in his paper, which
 
 > Applying that method to a multiple sequence alignment consisting of 30,176 sequences for the second PDZ domain (5) reveals that this protein domain requires at least 140 bits of functional information. To understand how significant that is, the probability that natural processes could generate that level of functional information is 1 chance in 10 with 41 zeros after it.
 
-
-PROTEST THAT "could generate" IS UNJUSTIFIED: ASSUMES NO PARTIAL FUNCTION, FOR EXAMPLE OR ASSUMES LCCSI
-
+This assumes that the lowest level of efficiency that we see now is the lowest that could be functional.  That does not follow: lower levels of function might help the organism, particular in early biochemistry where everything is goping more slowly.  In studies of random sequences of amino acids, and of random single-stranded RNA molecules, low but noticeable levels of catalytic activity are commonly found.
 
 If the ancestors of this protein domain in the common ancestors of these species could carry out the function of this protein without containing this much Functional Information, we cannot rule out that natural selection could have gradually improved the efficiency of function until, in the latest common ancestor, the PDZ domain contained 140 bits of functional information. (For more on 
 the PDZ domain see [its Wikipedia page](https://en.wikipedia.org/wiki/PDZ_domain)).
 
 Durston's argument seems to be that a "significant" amount of Functional Information is one which cannot have accumulated step-by-step by natural selection.  In William Dembski's 2002 book, he sketchess a "Law of Conservation of Complex Specified Information" which is supposed to somehow show that one must already have achieved CSI in previous generations in order to have it now. Exactly how this LCCSI is to be applied is unclear in Dembski's 2002 argument, and is not discussed in Durston's papers or his blog post, either.
 
-During the years after Dembski's 2002 argument, advocates of Intelligent Design frequently 
+During the years after Dembski's 2002 argument, many advocates of Intelligent Design frequently 
 assumed that Dembski had somehow proven that a level of Functional Information great 
-enough to constitute CSI could not be achieved by incremental natural selection. But 
-then the argument chanred, or perhaps was clarified.
+enough to constitute CSI could not be achieved by incremental natural selection. He hadn't.  But 
+then the argument changed, or perhaps was clarified.
 
 
 ## Dembski's CSI argument clarified, or perhaps changed ##
