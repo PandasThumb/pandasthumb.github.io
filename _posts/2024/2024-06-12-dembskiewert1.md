@@ -112,7 +112,10 @@ then the argument changed, or perhaps was clarified.
 
 In a 2005-2006 manuscript, which was published in 2005 in volume 7, number 2 of _Philosophia Christi_, William Dembski either clarified or changed the CSI argument.  The manuscript version may be found [here](https://billdembski.com/documents/2005.06.Specification.pdf). In Section 7 he makes it clear that "chance" includes processes such as natural selection:
 
-> It follows that –log<sub>2</sub>[10<sup>120</sup>·ϕ<sub>S</sub>(T)·__P__(T|__H__)] > 1  if and only if __P__(T|__H__) < <sup>1</sup>/<sub>2</sub> 10<sup>-140</sup>, where __H__, as we noted in section 6, is an evolutionary chance hypothesis that takes into account Darwinian and other material mechanisms and T, conceived not as a pattern but as an event, is the evolutionary pathway that brings about the flagellar structure (for definiteness, let’s say the flagellar structure in E. coli). Is __P__(T|__H__) in fact less than  10<sup>-140</sup>, thus making T a specification?
+> It follows that –log<sub>2</sub>[10<sup>120</sup>·ϕ<sub>S</sub>(T)·__P__(T|__H__)] > 1
+> if and only if __P__(T|__H__) < <sup>1</sup>/<sub>2</sub> 10<sup>-140</sup>,
+> where __H__, as we noted in section 6, is an evolutionary chance hypothesis
+> that takes into account Darwinian and other material mechanisms and T, conceived not as a pattern but as an event, is the evolutionary pathway that brings about the flagellar structure (for definiteness, let’s say the flagellar structure in E. coli). Is __P__(T|__H__) in fact less than  10<sup>-140</sup>, thus making T a specification?
 
 The logic is now impeccable: once an adaptation is a "specification" in this sense, then by definition the probability of its occurrence by natural evolutionary processes is so low that such an event will occur fewer than one time in the entire history of the universe. Finding that the adaptation is a "specification" now guarantees us that it is so improbable that ordinary evolutionary mechanisms are in effect ruled out.
 
