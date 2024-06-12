@@ -1,6 +1,6 @@
 ---
 title: Dembski and Ewert dump functional information
-date: 2024-12-19 12:00:01 -08:00
+date: 2024-06-12 12:00:01 -08:00
 author: Joe Felsenstein
 ---
 
@@ -154,8 +154,6 @@ Only one remains, the calculation in terms of Algorithmic Specified Complexity (
 
 The ASC criterion has previously been discussed by Eric Hollowway, in discussions at Uncommon Descent and at The Skeptical Zone.  I have expressed my failure to follow those arguments at some length in [a 2019 post at Panda's Thumb](https://pandasthumb.org/archives/2019/12/Is-Algorithmic-Specified-Complexity-Useless-for-Analyzing-Evolution.html).  But now, with Dembski and Ewert's new book, presumably all these misunderstandings will be cleared up.
 
-This post is the first part of my examination of Dembski and Ewert's book and its argument.  In the second part of this review, I will see whether my doubts have been cleared up.  So let me resume reading.
+This post is the first part of my examination of Dembski and Ewert's book and its argument.  In the second part of this review, I will see whether my doubts have been cleared up.  So time for me to resume reading ...
 
-
-Thanks to Shallit, English, Matzke, Young (all their fault!)
 
