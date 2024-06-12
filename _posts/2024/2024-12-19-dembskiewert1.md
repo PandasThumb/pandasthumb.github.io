@@ -150,108 +150,12 @@ conceded the point [in a post at Uncommon Descent](https://uncommondescent.com/i
 
 In Dembski and Ewert's new edition of _The Design Inference_, neither "functional information" nor "information, functional" appear in the Index. The works by Szostak and by Hazen, Carothers, Griffin and Szostak do not appear in the Bibliography.  Nor, even, does Kirk Durston.  All the previous ways in which Specified Complexity could be "cashed out" are gone too.  They have been thrown under the bus, gone because it turned out that they could not accomplish a Design Inference.
 
-Only one remains, the calculation in terms of Algorithmic Specified Complexity (ASC), which is now the foundation of their criticism of evolutionary biology. 
+Only one remains, the calculation in terms of Algorithmic Specified Complexity (ASC), which is now the foundation of their criticism of evolutionary biology. This criterion involves Algorithmic Specified Complexity (ASC).  It measures the difference between the length of the algorithm that describes the adaptation and the algorithm that produces it.  If a short algorithm can produce a complex result, this indicates design.  There is apparently a conservation theorem that helps with this logic.
 
+The ASC criterion has previously been discussed by Eric Hollowway, in discussions at Uncommon Descent and at The Skeptical Zone.  I have expressed my failure to follow those arguments at some length in [a 2019 post at Panda's Thumb](https://pandasthumb.org/archives/2019/12/Is-Algorithmic-Specified-Complexity-Useless-for-Analyzing-Evolution.html).  But now, with Dembski and Ewert's new book, presumably all these misunderstandings will be cleared up.
 
+This post is the first part of my examination of Dembski and Ewert's book and its argument.  In the second part of this review, I will see whether my doubts have been cleared up.  So let me resume reading.
 
-
-----------------------------------------------------------------------------------------
-
-----------------------------------------------------------------------------------------
-
-
-
-Functional Information
-   Orgel "specified information"
-   Szostak 2003 Nature
-   Hazen, Carothers, Griffin, and Szostak 2007 PNAS
-   Kirk Durston too 2008 or so
-   Kirk Durston in his blog, 2019:
-(quote from Kirk Durston, in his blog "Quest. Thoughts about God, Truth, and Beauty"  at
-(https://www.kirkdurston.com/blog/idscience)
-
-Design detection is firmly entrenched in science, including forensic science, defence research, SETI, archeology, and biology. In each area, a variety of methods are used, but the core aspect of all of them can be quantified in terms of functional information (defined in the literature by Szostak (1), Hazen et al., (2), and Durston et al. (3)). In layperson’s terms, functional information is the information required to produce a desired effect. A testable, verifiable, and falsifiable hypothesis that is highly useful to design detection can be stated as follows:
-
-Hypothesis: A unique property of intelligent minds is the ability to produce statistically significant levels of functional information as defined in the literature.
-
-A key word here is “unique”; intelligence is the only thing with enough intellectual horsepower to produce significant levels of functional information. The above hypothesis is certainly testable and falsifiable. To falsify it, all we need is to verify a natural, mindless process that will produce statistically significant levels of functional information. 
-... the only option science has on the table that is observable, testable, and verified is intelligence
-Almost anything, including dumping alphabet characters out of a box on to the floor, can produce functional information at trivial or non-significant levels. However, if one wishes to produce significant levels of functional information one needs something else in addition. Right now, the only option science has on the table that is observable, testable, and verified is intelligence. Although there are other creative scenarios as to how large quantities of functional information can be formed naturally, our failure to verify them suggests that they should be more properly classified as science fiction. (4)
-
-A scientific method for Design Detection
-
-The hypothesis stated above provides the basis for a scientific method to test any effect to see if it required intelligence to produce.
-
-Step One: Evaluate the level of functional information required to produce the effect
-
-Step Two: Determine if the level of functional information is statistically significant
-
-Step Three: If it is statistically significant, then we can infer that intelligence was required to produce the effect
-
-Is this a “god-of-the-gaps” argument?
-
-Oddly, I have people confidently assert that I have presented a “god-of-the-gaps” argument, which clearly it is not. A “god-of-the-gaps” argument always contains the following premise, either explicit or assumed …
-
-“god-of-the-gaps” premise: If we don’t know what produced “X”, then God did it.
-
-The scientific method I presented above is obviously devoid of such a premise. We actually know what can produce functional information—intelligence. It is an observable fact. We do it all the time whenever we send a text, write an essay, or build something. It is the only empirically verified option that science has today; other scenarios still remain in the category of unverified science fiction. Functional information is a positive indicator or ‘fingerprint’ of an intelligent mind.
-
-What happens when we test biological life?
-View fullsize
-2nd PDZ Domain by Kirk Durston using MacPyMol
-2nd PDZ Domain by Kirk Durston using MacPyMol
-
-My first step was to develop and publish a method to estimate the level of functional information required to code for protein families—an essential requirement for life. (3) Applying that method to a multiple sequence alignment consisting of 30,176 sequences for the second PDZ domain (5) reveals that this protein domain requires at least 140 bits of functional information. To understand how significant that is, the probability that natural processes could generate that level of functional information is 1 chance in 10 with 41 zeros after it. Recent work by other scientists on the PDZ domain indicates that my method is quite conservative, but a conservative estimate is more preferable than an overestimate, since I wish to avoid false positives (having the digital information for a protein test positive for intelligent design when it might not be the case).  
-
-Implications
-
-The above example was for a protein domain only one third the length of an average protein. Using that result as a ballpark estimate, an average protein-coding gene will require very roughly 420 bits of functional information and even the simplest bacteria require hundreds of different genes.
-
-Conclusion: 
-
-The positive markers (fingerprints) of an intelligent mind are all over the genomes of life. Life tests positive for intelligent design utilizing the scientific method outlined above. We can conclude, therefore, that the fingerprints of intelligence are all over the DNA of life.
-
-Additional Reading:
-
-For a fascinating summary of how well science is doing in attempting to answer the origin of life question, I recommend this brief article by James Tour, internationally distinguished synthetic organic chemist, ‘Time Out’.
-
-For an excellent book relating to this subject, read Stephen C. Meyer’s, Darwin’s Doubt.
-
-Darwin Devolves, by Michael J. Behe.
-
-References:
-
-1.   Jack W. Szostak, ‘Molecular messages’, Nature, 423, (2003).
-
-2.    Hazen et al., ‘Functional information and the emergence of biocomplexity’, PNAS, 104, Suppl 1, (2007).
-
-3.    Durston et al., ‘Measuring the functional sequence complexity of proteins’, Theor Biol Med Model, 4:47, (2007).
-
-4.    Durston, ‘Faith and Science: Part III—Fantasy in modern science’, 2019.
-
-5.    PDB: 1GM1.
-"  
-END OF DURSTON MATERIAL
-
-
-Sketch of the 2002 argument
-   What were given as examples in the 1996 book, in the 2002 book
-   Clarificiation (or change) of the argument in 2005-2006
-
-   (Answers: Elsberry and Shallit 2003ff.  Elsberry and Wilkins 2002
-    Me in 2007)
-
-
-
-
-The new argument (ASC)
-   ASC = CSI =  length - program length
-   "chance" defined as everything else beside design
-   no notion of "goodness = degree of adaptation"
-   An example of CSI by natural causes: phyllotaxis (auxins)
-
-How is Dembski going to use this to refute the improvement of 
-adaptation by natural evolutionary processes?
 
 Thanks to Shallit, English, Matzke, Young (all their fault!)
 
