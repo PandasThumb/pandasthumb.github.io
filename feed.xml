@@ -1,4 +1,175 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://pandasthumb.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pandasthumb.org/" rel="alternate" type="text/html" /><updated>2024-06-12T12:46:33-07:00</updated><id>https://pandasthumb.org/feed.xml</id><title type="html">The Panda’s Thumb</title><entry><title type="html">Pituophis catenifer sayi</title><link href="https://pandasthumb.org/archives/2024/06/pituophis-catenifer.html" rel="alternate" type="text/html" title="Pituophis catenifer sayi" /><published>2024-06-10T11:00:00-07:00</published><updated>2024-06-10T11:00:00-07:00</updated><id>https://pandasthumb.org/archives/2024/06/pituophis-catenifer</id><content type="html" xml:base="https://pandasthumb.org/archives/2024/06/pituophis-catenifer.html">&lt;p&gt;Photograph by &lt;strong&gt;Mark Lee&lt;/strong&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://pandasthumb.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pandasthumb.org/" rel="alternate" type="text/html" /><updated>2024-06-12T13:07:37-07:00</updated><id>https://pandasthumb.org/feed.xml</id><title type="html">The Panda’s Thumb</title><entry><title type="html">Dembski and Ewert dump functional information</title><link href="https://pandasthumb.org/archives/2024/06/dembskiewert1.html" rel="alternate" type="text/html" title="Dembski and Ewert dump functional information" /><published>2024-06-12T13:00:01-07:00</published><updated>2024-06-12T13:00:01-07:00</updated><id>https://pandasthumb.org/archives/2024/06/dembskiewert1</id><content type="html" xml:base="https://pandasthumb.org/archives/2024/06/dembskiewert1.html">&lt;div align=&quot;center&quot;&gt;&lt;figure&gt;&lt;img width=&quot;600px&quot; src=&quot;/uploads/2023/Six_Grandfathers.jpg&quot; alt=&quot;[Six grandfathers image]&quot; /&gt;
+&lt;figcaption&gt;&lt;div align=&quot;center&quot;&gt;The mountain called &lt;em&gt;Six Grandfathers&lt;/em&gt; by the 
+Lakota people before it was &lt;br /&gt;renamed Mount Rushmore.  Does the Lakota name reflect 
+a design inference?&lt;/div&gt;&lt;/figcaption&gt;&lt;em&gt;Wikimedia, public domain&lt;/em&gt;&lt;/figure&gt;&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;I have been reading the new 2nd edition of &lt;em&gt;The Design Inference: Eliminating Chance 
+Through Small Probabilities&lt;/em&gt; and wanted 
+to give some reactions to it, having reached the end of the chapter on “Specified 
+Complexity”.  This new edition adds Winston Ewert as the second author.  Unlike the 
+1998 first edition, which was published by Cambridge University Press, this “Revised 
+and Expanded” 25th anniversary 2nd edition is published by Discovery Institute Press.  For 
+a book of 582 pages, it is available 
+rather inexpensively, in a paperback edition and in a 
+Kindle edition.  (Its cover illustration shows the faces on Mount Rushmore, as an 
+example of a design inference).&lt;/p&gt;
+
+&lt;p&gt;William Dembski’s original Design Inference argument involved our seeing a 
+pattern in nature, in an organism, that embodied what he called Specified 
+Complexity.  Its argument became better known as a result of Dembski’s 2002 
+book &lt;em&gt;No Free Lunch: Why Specified Complexity Cannot be Purchased Without Intelligence.&lt;/em&gt; 
+This was much invoked as a major argument for Intelligent Design at the time of the 2005 Kitzmiller vs. Dover School Board trial.&lt;/p&gt;
+
+&lt;p&gt;The Specified Complexity argument involves genotypes arrayed 
+on a scale.  A scale of what, we will be discussing.  The general strategy of the design inference 
+is to find a region of the scale that is so improbable under “chance” that natural evolutionary processes would be extremely unlikely to result in genotypes that good or better.  The probabilities that natural processes would produce anything that good have to be so small that such an event would be 
+expected less than once in the whole history of the Universe.&lt;/p&gt;
+
+&lt;p&gt;Over the years since 1998, there seem to have been several definitions of the scale and the probability:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;A quantity which is fitness or a component of fitness, with the probability being simply
+the fraction of all genotypes in the initial population having that high, or higher, a value, or,&lt;/li&gt;
+  &lt;li&gt;The same scale, but with the probability being instead the chance that natural evolutionary processes
+would produce that good a value, or higher, or&lt;/li&gt;
+  &lt;li&gt;A more mysterious scale involving whether the genotype (or phenotype) could be produced by a small set of instructions.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The first one is related to a concept called Functional Information.  As I will show, the second is not at all useful.  The interesting new development is that Dembski and Ewert have moved to definition 3, resulting in a specification that no longer has any connection to Functional Information.  Functional Information has been thrown under the bus.&lt;/p&gt;
+
+&lt;p&gt;We’ll discuss the first two one at a time; the third will be considered in another post …
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;In the original 1998 edition of &lt;em&gt;The Design Inference&lt;/em&gt; William Dembski did not discuss using the design inference on genotypes that were argued to have arisen by natural selection and other ordinary evolutionary processes. (In section 2.3 he gives a “case study” of the “Creation-evolution controversy” but focuses that entirely on the origin of Life, not on evolution thereafter).  Four years later, he applied his inference to biological evolution in his work &lt;em&gt;No Free Lunch: Why Specified Complexity Cannot be Purchased without Intelligence&lt;/em&gt;. There he gave these examples of the specification scales that are of interest in discussions of evolution:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The specification of organisms can be cashed out in any number of ways. Arno Wouters cashes it out globally in terms of the &lt;em&gt;viability&lt;/em&gt; of whole organisms. Michael Behe cashes it out in terms of the &lt;em&gt;minimal function&lt;/em&gt; of  biochemical systems. Darwinist Richard Dawkins cashes out biological specification in terms of the &lt;em&gt;reproduction&lt;/em&gt; of genes.  Thus, in &lt;em&gt;The Blind Watchmaker&lt;/em&gt; Dawkins writes “Complicated things have some quality, specifiable in advance, that is highly unlikely to have been acquired by random chance alone.  In the case of living systems, the quality that is specified in advance is … the ability to propagate genes in reproduction.” (Dembski, &lt;em&gt;No Free Lunch&lt;/em&gt;, 2002 and 2007, p. 148).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Dembski’s criterion for detecting Design was finding complex specified information (CSI), where “complex” did not refer to the complicatedness of the organism, but just to having a sufficiently low probability of of the specified information happening under “chance”.&lt;br /&gt;
+So the scale is the level of specification, and the probability is the fraction of the initial population that is at or beyond that level, makes the scale be Functional  Information.&lt;/p&gt;
+
+&lt;h3 id=&quot;functional-information&quot;&gt;Functional Information&lt;/h3&gt;
+
+&lt;p&gt;Functional Information, a form of Specified Information, was discussed by Leslie Orgel in 1973.  He was trying to define a measure of the information that was useful to the organism, ruling out aspects of its phenotype that might require lots of elaborate description, but where the details did not particularly help the organism.  The concept was made more precise by Jack Szostak in a paper in &lt;em&gt;Nature&lt;/em&gt; in 2003 (&lt;a href=&quot;https://www.nature.com/articles/423689a&quot;&gt;here&lt;/a&gt;), with a small correction by Hazen, Carothers, Griffin, and Szostak in &lt;em&gt;Proceedings of the National Academy of Sciences, USA&lt;/em&gt; in 2007 (&lt;a href=&quot;https://www.pnas.org/doi/full/10.1073/pnas.0701744104&quot;&gt;here&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;In all of those papers, the null distribution assigns equal probability to all possible sequences.  Thus if we have 
+a region of 1000 nucleotides, it assumes that all 4&lt;sup&gt;1000&lt;/sup&gt; possible sequences are equiprobable.  If we see a sequence which has 4^600 sequences with equal or higher fitness, then the functional information in that sequence is computed from the probability 4^600 / 4^1000 = 4^{-400}.  It is, in bits of information, minus the log to the base 2 of this probability, or -log2 (4^(-400)), which is 800 bits.&lt;/p&gt;
+
+&lt;p&gt;Functional Information is computed for any sequence, by setting the level to its position on the scale.  The amount of FI that we get by choosing that sequence is -log2(P), where P is the fraction of the initial population that is at or above that level on the scale.  So if we have chosen a sequence that is up at the 90th percentile, then P = 0.10 and Functional Information is  -log2(0.10) which is 3.322 bits.   A sequence that is only at the 10th percentile has -log2(0.90) = 0.152 bits.  There is no requirement that the calculation be done at some special point on the scale, such as where a function is detectable.  Each possible sequence has some amount of Functional Information.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-problem-with-functional-information&quot;&gt;The problem with Functional Information&lt;/h3&gt;
+
+&lt;p&gt;As sensible as Functional Information seems to be, it has one deficiency from the point of view of Dembski and Ewert.  Even when there is a very small probability that a randomly chosen sequence will be this good or better, there is no argument that natural evolutionary processes cannot find a sequence this good or better.  These evolutionary processes are not limited to making a single random choice.  They include natural selection, which can build up adaptations gradually.&lt;/p&gt;
+
+&lt;p&gt;Can a sequence with 800 bits of FI arise in a population by gradually fixing favorable alleles at 400 sites?  Unless a design advocate can present a sound argument that it is impossible (or extremely improbable) for this to happen, then observing 880 bits of FI is not evidence for Design Intervention.&lt;/p&gt;
+
+&lt;p&gt;In Dembski’s 2002 book &lt;em&gt;No Free Lunch&lt;/em&gt;, the probability of a sequence this good or better is described as the probability that it will arise by “chance” as opposed to “necessity”.  From that it was unclear whether “chance” included  processes such as natural selection.  Or was that included in “necessity”?
+When I wrote a  refutation of Dembski’s 2002 argument, I showed an example where natural selection could increase Functional Information (the article is in &lt;em&gt;Reports of the National Center for Science Education&lt;/em&gt; in 2007, &lt;a href=&quot;https://ncse.ngo/has-natural-selection-been-refuted-arguments-william-dembski&quot;&gt;here&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Functional Information, as used by Szostak and Hazen, was never intended to measure the evidence for Design.  They never assumed that high levels of FI could not be achieved by natural evolutionary processes.  But FI has been used in that way by ID advocates such as, for example, Kirk Durston.&lt;/p&gt;
+
+&lt;h3 id=&quot;durstons-argument&quot;&gt;Durston’s argument&lt;/h3&gt;
+
+&lt;p&gt;In a post on his blog “Quest: Thoughts about God, Truth, and Beauty” in 2018, Durston, a clergyman who is a former engineer, argued in &lt;a href=&quot;https://www.kirkdurston.com/blog/idscience&quot;&gt;a post on July 22, 2018&lt;/a&gt; on “Why this scientist believes intelligent design was required for biological life” that:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Design detection is firmly entrenched in science, including forensic science, defence research, SETI, archeology, and biology. In each area, a variety of methods are used, but the core aspect of all of them can be quantified in terms of functional information (defined in the literature by Szostak (1), Hazen et al., (2), and Durston et al. (3)). In layperson’s terms, functional information is the information required to produce a desired effect. A testable, verifiable, and falsifiable hypothesis that is highly useful to design detection can be stated as follows:&lt;/p&gt;
+
+  &lt;p&gt;Hypothesis: A unique property of intelligent minds is the ability to produce statistically significant levels of functional information as defined in the literature.&lt;/p&gt;
+
+  &lt;p&gt;A key word here is “unique”; intelligence is the only thing with enough intellectual horsepower to produce significant levels of functional information. The above hypothesis is certainly testable and falsifiable. To falsify it, all we need is to verify a natural, mindless process that will produce statistically significant levels of functional information. 
+… the only option science has on the table that is observable, testable, and verified is intelligence. Almost anything, including dumping alphabet characters out of a box on to the floor, can produce functional information at trivial or non-significant levels. However, if one wishes to produce significant levels of functional information one needs something else in addition. Right now, the only option science has on the table that is observable, testable, and verified is intelligence. Although there are other creative scenarios as to how large quantities of functional information can be formed naturally, our failure to verify them suggests that they should be more properly classified as science fiction. (4)&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;An hour-long video presentation of his argument will be found &lt;a href=&quot;https://foclonline.org/talk/how-confident-can-we-be-genetic-information-required-intelligent-programmer&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Durston’s calculation for Ubiquitin  alignments is described in his paper, which will be found &lt;a href=&quot;https://tbiomed.biomedcentral.com/articles/10.1186/1742-4682-4-47&quot;&gt;here&lt;/a&gt;. It involves doing an alignment of all protein sequences that carry out a particular function, showing that&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Applying that method to a multiple sequence alignment consisting of 30,176 sequences for the second PDZ domain (5) reveals that this protein domain requires at least 140 bits of functional information. To understand how significant that is, the probability that natural processes could generate that level of functional information is 1 chance in 10 with 41 zeros after it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This assumes that the lowest level of efficiency that we see now is the lowest that could be functional.  That does not follow: lower levels of function might help the organism, particular in early biochemistry where everything is goping more slowly.  In studies of random sequences of amino acids, and of random single-stranded RNA molecules, low but noticeable levels of catalytic activity are commonly found.&lt;/p&gt;
+
+&lt;p&gt;If the ancestors of this protein domain in the common ancestors of these species could carry out the function of this protein without containing this much Functional Information, we cannot rule out that natural selection could have gradually improved the efficiency of function until, in the latest common ancestor, the PDZ domain contained 140 bits of functional information. (For more on 
+the PDZ domain see &lt;a href=&quot;https://en.wikipedia.org/wiki/PDZ_domain&quot;&gt;its Wikipedia page&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Durston’s argument seems to be that a “significant” amount of Functional Information is one which cannot have accumulated step-by-step by natural selection.  In William Dembski’s 2002 book, he sketches a “Law of Conservation of Complex Specified Information” which is supposed to somehow show that one must already have achieved CSI in previous generations in order to have it now. This would seem to be an argument that one cannot achieve a high degree of adaptation if you start from less adaptation. 
+Exactly how this LCCSI is to be applied is unclear in Dembski’s 2002 argument, and is not discussed in Durston’s papers or his blog post, either.&lt;/p&gt;
+
+&lt;p&gt;During the years after Dembski’s 2002 argument, many advocates of Intelligent Design frequently 
+assumed that Dembski had somehow proven that a level of Functional Information great 
+enough to constitute CSI could not be achieved by incremental natural selection. He hadn’t.  But 
+then the argument changed, or perhaps was clarified.&lt;/p&gt;
+
+&lt;h3 id=&quot;dembskis-csi-argument-clarified-or-perhaps-changed&quot;&gt;Dembski’s CSI argument clarified, or perhaps changed&lt;/h3&gt;
+
+&lt;p&gt;In a 2005-2006 manuscript, which was published in 2005 in volume 7, number 2 of &lt;em&gt;Philosophia Christi&lt;/em&gt;, William Dembski either clarified or changed the CSI argument.  The manuscript version may be found &lt;a href=&quot;https://billdembski.com/documents/2005.06.Specification.pdf&quot;&gt;here&lt;/a&gt;. In Section 7 he makes it clear that “chance” includes processes such as natural selection:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;table&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;It follows that –log&lt;sub&gt;2&lt;/sub&gt;[10&lt;sup&gt;120&lt;/sup&gt;·ϕ&lt;sub&gt;S&lt;/sub&gt;(T)·&lt;strong&gt;P&lt;/strong&gt;(T&lt;/td&gt;
+        &lt;td&gt;&lt;strong&gt;H&lt;/strong&gt;)] &amp;gt; 1  if and only if &lt;strong&gt;P&lt;/strong&gt;(T&lt;/td&gt;
+        &lt;td&gt;&lt;strong&gt;H&lt;/strong&gt;) &amp;lt; &lt;sup&gt;1&lt;/sup&gt;/&lt;sub&gt;2&lt;/sub&gt; 10&lt;sup&gt;-140&lt;/sup&gt;, where &lt;strong&gt;H&lt;/strong&gt;, as we noted in section 6, is an evolutionary chance hypothesis that takes into account Darwinian and other material mechanisms and T, conceived not as a pattern but as an event, is the evolutionary pathway that brings about the flagellar structure (for definiteness, let’s say the flagellar structure in E. coli). Is &lt;strong&gt;P&lt;/strong&gt;(T&lt;/td&gt;
+        &lt;td&gt;&lt;strong&gt;H&lt;/strong&gt;) in fact less than  10&lt;sup&gt;-140&lt;/sup&gt;, thus making T a specification?&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The logic is now impeccable: once an adaptation is a “specification” in this sense, then by definition the probability of its occurrence by natural evolutionary processes is so low that such an event will occur fewer than one time in the entire history of the universe. Finding that the adaptation is a “specification” now guarantees us that it is so improbable that ordinary evolutionary mechanisms are in effect ruled out.&lt;/p&gt;
+
+&lt;h3 id=&quot;-to-become-useless&quot;&gt;… to become useless&lt;/h3&gt;
+
+&lt;p&gt;The problem is, neither Dembski nor Durston shows how to calculate the probability that natural evolutionary forces would achieve a result this improbable.  As far as I can see, the objective of the whole inference is:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;to find an actual event 
+that is so improbably good that from natural evolutionary processes we would expect one that good less than once in the history of the universe.&lt;/li&gt;
+  &lt;li&gt;If we can find an event that has Complex Specified Information, by definition it will be one that has this low a probability with natural evolutionary processes.&lt;/li&gt;
+  &lt;li&gt;So how do we find an event that has Complex Specified Information?&lt;/li&gt;
+  &lt;li&gt;Why, by finding one that, with natural evolutionary processes, is this improbable!   (Then we can show that it has CSI, and that guarantees that it is this improbable).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;But we have already shown that, when we did step 1.  Steps 2, 3 and 4, the CSI part are then completely unnecessary!  In the 2005 argument, no particular method was outlined to calculate the probability of the event with natural evolutionary processes.&lt;/p&gt;
+
+&lt;p&gt;So Functional Information has been discarded because it could possibly 
+evolve.  It has been replaced by Specification 
+which is defined as only present when it cannot be increased by natural 
+evolutionary processes.  Specification can be used to establish 
+that it is very improbable that the adaptation could arise by 
+natural evolutionary processes.  But we can only establish that 
+Specification is present by somehow already knowing that.&lt;/p&gt;
+
+&lt;p&gt;Thus the part about calculating whether we have CSI is irrelevant to the Design Inference.  After you have (somehow) established improbability, it is just a bit of relabeling.
+This has been pointed out since about 2007 by many critics of 
+Dembski’s design inference.  For links, see &lt;a href=&quot;http://theskepticalzone.com/wp/circularity-of-using-csi-to-conclude-design/&quot;&gt;my 2013 article at The Skeptical Zone&lt;/a&gt;, 
+which cites arguments by “Keith S.”, Elizabeth Liddle, and me at The Skeptical Zone, at PT, and at Uncommon Descent.&lt;/p&gt;
+
+&lt;p&gt;William Dembski’s colleague and frequent co-author Winston Ewert 
+conceded the point &lt;a href=&quot;https://uncommondescent.com/intelligent-design/the-circularity-of-the-design-inference/&quot;&gt;in a post at Uncommon Descent&lt;/a&gt; in 2014:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;CSI and Specified complexity do not help in any way to establish that the evolution of the bacterial flagellum is improbable. Rather, the only way to establish that the bacterial flagellum exhibits CSI is to first show that it was improbable. Any attempt to use CSI to establish the improbability of evolution is deeply fallacious.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;the-new-criterion&quot;&gt;The new criterion&lt;/h3&gt;
+
+&lt;p&gt;In Dembski and Ewert’s new edition of &lt;em&gt;The Design Inference&lt;/em&gt;, neither “functional information” nor “information, functional” appear in the Index. The works by Szostak and by Hazen, Carothers, Griffin and Szostak do not appear in the Bibliography.  Nor, even, does Kirk Durston.  All the previous ways in which Specified Complexity could be “cashed out” are gone too.  They have been thrown under the bus, gone because it turned out that they could not accomplish a Design Inference.&lt;/p&gt;
+
+&lt;p&gt;Only one remains, the calculation in terms of Algorithmic Specified Complexity (ASC), which is now the foundation of their criticism of evolutionary biology. This criterion involves Algorithmic Specified Complexity (ASC).  It measures the difference between the length of the algorithm that describes the adaptation and the algorithm that produces it.  If a short algorithm can produce a complex result, this indicates design.  There is apparently a conservation theorem that helps with this logic.&lt;/p&gt;
+
+&lt;p&gt;The ASC criterion has previously been discussed by Eric Hollowway, in discussions at Uncommon Descent and at The Skeptical Zone.  I have expressed my failure to follow those arguments at some length in &lt;a href=&quot;https://pandasthumb.org/archives/2019/12/Is-Algorithmic-Specified-Complexity-Useless-for-Analyzing-Evolution.html&quot;&gt;a 2019 post at Panda’s Thumb&lt;/a&gt;.  But now, with Dembski and Ewert’s new book, presumably all these misunderstandings will be cleared up.&lt;/p&gt;
+
+&lt;p&gt;This post is the first part of my examination of Dembski and Ewert’s book and its argument.  In the second part of this review, I will see whether my doubts have been cleared up.  So time for me to resume reading …&lt;/p&gt;</content><author><name>Joe Felsenstein</name></author><summary type="html">The mountain called Six Grandfathers by the Lakota people before it was renamed Mount Rushmore. Does the Lakota name reflect a design inference?Wikimedia, public domain &amp;nbsp; I have been reading the new 2nd edition of The Design Inference: Eliminating Chance Through Small Probabilities and wanted to give some reactions to it, having reached the end of the chapter on “Specified Complexity”. This new edition adds Winston Ewert as the second author. Unlike the 1998 first edition, which was published by Cambridge University Press, this “Revised and Expanded” 25th anniversary 2nd edition is published by Discovery Institute Press. For a book of 582 pages, it is available rather inexpensively, in a paperback edition and in a Kindle edition. (Its cover illustration shows the faces on Mount Rushmore, as an example of a design inference). William Dembski’s original Design Inference argument involved our seeing a pattern in nature, in an organism, that embodied what he called Specified Complexity. Its argument became better known as a result of Dembski’s 2002 book No Free Lunch: Why Specified Complexity Cannot be Purchased Without Intelligence. This was much invoked as a major argument for Intelligent Design at the time of the 2005 Kitzmiller vs. Dover School Board trial. The Specified Complexity argument involves genotypes arrayed on a scale. A scale of what, we will be discussing. The general strategy of the design inference is to find a region of the scale that is so improbable under “chance” that natural evolutionary processes would be extremely unlikely to result in genotypes that good or better. The probabilities that natural processes would produce anything that good have to be so small that such an event would be expected less than once in the whole history of the Universe. Over the years since 1998, there seem to have been several definitions of the scale and the probability: A quantity which is fitness or a component of fitness, with the probability being simply the fraction of all genotypes in the initial population having that high, or higher, a value, or, The same scale, but with the probability being instead the chance that natural evolutionary processes would produce that good a value, or higher, or A more mysterious scale involving whether the genotype (or phenotype) could be produced by a small set of instructions. The first one is related to a concept called Functional Information. As I will show, the second is not at all useful. The interesting new development is that Dembski and Ewert have moved to definition 3, resulting in a specification that no longer has any connection to Functional Information. Functional Information has been thrown under the bus. We’ll discuss the first two one at a time; the third will be considered in another post …</summary></entry><entry><title type="html">Pituophis catenifer sayi</title><link href="https://pandasthumb.org/archives/2024/06/pituophis-catenifer.html" rel="alternate" type="text/html" title="Pituophis catenifer sayi" /><published>2024-06-10T11:00:00-07:00</published><updated>2024-06-10T11:00:00-07:00</updated><id>https://pandasthumb.org/archives/2024/06/pituophis-catenifer</id><content type="html" xml:base="https://pandasthumb.org/archives/2024/06/pituophis-catenifer.html">&lt;p&gt;Photograph by &lt;strong&gt;Mark Lee&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Photography Contest, &lt;strong&gt;Honorable Mention&lt;/strong&gt;.&lt;/p&gt;
 
@@ -291,127 +462,4 @@
 
 &lt;p&gt;Wiester J. L. &lt;i&gt;The Genesis Connection&lt;/i&gt;. Hatfield PA: Interdisciplinary Biblical Research Institute, 1992.&lt;/p&gt;
 
-&lt;p&gt;Wiester J. L. Wiester interviewed by BBC. &lt;i&gt;Newsletter of the American Scientific Affiliation &amp;amp; Canadian Scientific &amp;amp; Christian Affiliation&lt;/i&gt; 2000 Jan/Feb; 42 (1): 6–7.&lt;/p&gt;</content><author><name>Glenn Branch</name></author><summary type="html">Pandas at National Zoo in Washington. Photograph by Asiir. Creative Commons Attribution-Share Alike 2.5 Generic license. This is Part 2 of 2. You may find Part 1 here . The Third Problem “Finally, your story has a practical problem,” Questor says: “Is the panda’s thumb a poor design?” — whereupon a panda peeks its head through the panel and confides, “I rather like it, you know” (page 78). In essence, she is attacking premise (4) of Teller’s argument, by a clever appeal to the literature. Questor is presumably a college biology professor, and Wiester, who provided “the science input” for WDGDWI, is a college biology professor. Where do they go to get the information on the panda’s thumb? The Encyclopedia Americana, which Questor quotes as saying that the panda’s thumb “enables the panda to eat bamboo efficiently” and to “handle stems with great dexterity” (page 78, charmingly illustrated with a panda twirling stalks of bamboo in drum-major fashion). Gould, in contrast, consulted D. Dwight Davis’s monograph The Giant Panda (1964), which he characterized as “the greatest work of modern evolutionary comparative anatomy” (Gould 1980: 22). Regardless of the far-from-authoritative nature of their source, Newman and Wiester’s emphasis on the efficiency of the panda’s thumb reveals that they have again misrepresented Gould’s argument, apparently due to their conflation of two senses in which it is possible for design (or, if you prefer, “design”) to be suboptimal. In the first sense, a biological feature is suboptimally designed if it accomplishes its function not as efficiently as it (or a plausible substitute) might. Thus in the first sense, to say that the panda’s thumb is suboptimally designed is to say that it is not as useful for stripping leaves from bamboo as it (or a plausible substitute) might be. In the second sense, however, a biological feature is suboptimally designed if it is not designed as well as it might have been, that is, if the process whereby it acquired the ability to accomplish its function was not as efficient as it (or a plausible substitute) might have been. That there is such a sense of what it is for design to be suboptimal is testified to by the computer engineer’s word “kludge,” which refers to a clumsy and inelegant, but not necessarily ineffective, solution to a problem. In the second sense, to say that the panda’s thumb is suboptimally designed is to say that the process whereby it acquired the ability to strip leaves from bamboo was a kludge.</summary></entry><entry><title type="html">Unlikely Allies: Biology Teachers and Creationists</title><link href="https://pandasthumb.org/archives/2024/04/unlikely-allies.html" rel="alternate" type="text/html" title="Unlikely Allies: Biology Teachers and Creationists" /><published>2024-04-22T07:00:00-07:00</published><updated>2024-04-22T07:00:00-07:00</updated><id>https://pandasthumb.org/archives/2024/04/unlikely-allies</id><content type="html" xml:base="https://pandasthumb.org/archives/2024/04/unlikely-allies.html">&lt;figure class=&quot;on-the-left-side&quot; style=&quot;margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;&quot;&gt;
-&lt;img src=&quot;/uploads/2024/Braterman_Unlikely_Allies_600.jpg&quot; alt=&quot;Journal cover&quot; /&gt;
-&lt;figcaption&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;I am writing in response to the article &lt;a href=&quot;http://doi.org/10.12775/SetF.2024.010&quot;&gt;Bridging ideological divides: Why Christians still disagree about evolution and what we whould do about it&lt;/a&gt;, by Hans Madueme and Todd Charles Wood, &lt;i&gt;Scientia et Fides&lt;/i&gt; 12(1), 2024, 189–213; open access &lt;a href=&quot;https://apcz.umk.pl/SetF/article/view/45459/38251&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;This article is written by two young earth creationists, who take 25 closely argued pages including 93 references to show complete misunderstanding of the relationship between observation and interpretation in evolution science, in order to claim a false epistemic symmetry between this science and the theological perspective which forces them to reject it; a more sophisticated version of the “two pairs of spectacles” thesis that has been with us since George McCready Price. So why am I bothering to review this article? And why, to my own surprise, do I find myself welcoming its appearance?&lt;/p&gt;
-
-&lt;p&gt;For three reasons. Firstly, because the authors, unlike “creation science” young earth creationists, accept the validity of the science in its own terms, rather than claiming that it is inferior to their own fantastical offerings. Secondly, because they lay out extremely clearly (and self-revealingly) their own epistemic position. And finally, because their recommendations, made regarding conversations within the evangelical community, are applicable (and indeed to some extent already applied) to the very practical problem of how to teach evolution science in places with a faith-based culture.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Todd Wood is a name that will be familiar to many readers here. He has a PhD from University of Virginia, conducted postdoctoral work for two years at Clemson, and has published five papers in leading journals on different aspects of molecular phylogeny. He is now applying his skills to baraminology, the attempt to explain the multiplicity of present species in terms of descent from the limited number that could have fitted onto Noah’s Ark.&lt;/p&gt;
-
-&lt;p&gt;This is not a joke. He describes his book &lt;a href=&quot;https://www.amazon.com/Understanding-Pattern-Life-Origins-Organization/dp/0805427147&quot;&gt;Understanding the Pattern of Life: Origins and Organization of the Species&lt;/a&gt;, in the preface, as&lt;/p&gt;
-
-&lt;blockquote&gt;an expression of my attempt, however feeble, to allow the truth of God to transform my view of biology. Rather than trying to prove the truth of Scripture, I use it as a starting point. From there, I build what I believe to be a reasonable model of biology that fits both the facts of Scripture and the data of creation.&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://henrycenter.tiu.edu/contributor/hans-madueme/&quot;&gt;Hans Madueme&lt;/a&gt;, Associate Professor at Covenant College Georgia, appears to be highly regarded in his field, and has edited a volume, &lt;a href=&quot;https://www.bloomsbury.com/us/reading-christian-theology-in-the-protestant-tradition-9780567266149/&quot;&gt;Reading Christian Theology in the Protestant Tradition&lt;/a&gt;, published by Bloomsbury. Despite (or perhaps because of) his own convictions, he has &lt;a href=&quot;https://henrycenter.tiu.edu/2019/06/creationism-embattled-yet-resilient-a-redirect/&quot;&gt;been highly critical&lt;/a&gt; of claims made on behalf of creation science..&lt;/p&gt;
-
-&lt;p&gt;While the authors are adamant in their own beliefs, they are opposed to polemics, and for this reason, as we shall see, single out for praise Jason Rosenhouse’s Among the Creationists (reviewed in PT &lt;a href=&quot;https://pandasthumb.org/archives/2012/07/among-the-creat.html&quot;&gt; here&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;The core of their argument lies in the introduction:&lt;/p&gt;
-
-&lt;blockquote&gt;The scientific theory of evolution involves higher-level models that are associated with a range of non-scientific factors, including exegetical and theological judgments.&lt;/blockquote&gt;
-
-&lt;p&gt;Something seems (and indeed is) back to front here. Some scientists work for the greater glory of God, and some to put God out of business, while I expect that most have never given a thought to theological issues. Their conclusions may have implications in “exegetical and theological judgments,” but these are consequences, not components, of the scientific framework. Why do Wood and Madueme (W&amp;amp;M) think otherwise?&lt;/p&gt;
-
-&lt;p&gt;The authors spell out their position, early on:&lt;/p&gt;
-
-&lt;blockquote&gt;[W]e argue that the scientific theory of evolution involves higher-level models that are shaped by non-scientific factors. We then show that theological commitments—held not only by Christians but by non-theists as well—affect those higher-level models that influence our epistemic assessment of evolution.&lt;/blockquote&gt;
-
-&lt;p&gt;So non-theists ln their attitude to evolution science are influenced in ways that presumably they do not realize by theological commitments. As a non-theist and former theist who has always accepted mainstream evolution science on its merits, I consider this claim both unwarranted and presumptuous, and disconcertingly close to the claim made by many creationists that evolution is itself a form of religion.&lt;/p&gt;
-
-&lt;p&gt;Later, gradually, we find out what is behind the claim, and why it is crucial to the authors’ entire outlook. They admit the range and strength of the scientific evidence for common ancestry, which is the aspect of evolution science most directly relevant to their own theological concerns, and quote the appraisal by the philosophers McCain and Weslake:&lt;/p&gt;
-
-&lt;blockquote&gt;The evidence for common ancestry includes the fossil record, comparative anatomy, embryology, genetics, and geographic species distribution, while natural selection gains support from natural and laboratory work, including computer simulations and mathematical models.&lt;sup&gt;1 &lt;/sup&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;And later:&lt;/p&gt;
-
-&lt;blockquote&gt;Gijsbert van den Brink and his colleagues distinguish three different layers of evolutionary theory, namely, 1) historical evolution, 2) common descent, and 3) natural selection.2 They conclude that multiple, mutually reinforcing lines of evidence for historical evolution render it strongly beyond reasonable doubt. The evidence for common descent, they argue, is also strong though less than the evidence for historical evolution (“weaky beyond reasonable doubt”). They give the lowest evidential score to natural selection, given notable scientific disagreements about its importance in evolution (van den Brink et al. 2017, 466–68).&lt;sup&gt;2 &lt;/sup&gt; Most scientists would agree with these conclusions.&lt;/blockquote&gt;
-
-&lt;p&gt;So I think would most readers here.&lt;/p&gt;
-
-&lt;p&gt;How, then, could W&amp;amp;M maintain their own rejection of evolution? Easily! They have prepared the ground by saying (p. 198), in response to this classification,&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;i&gt;Common ancestry acts as a higher-level model that coordinates and supports more directly empirical models (like natural selection) within or beneath it.&lt;/i&gt; [Emphasis in original]&lt;/blockquote&gt;
-
-&lt;p&gt;The keyword here is “supports.”&lt;/p&gt;
-
-&lt;p&gt;No. Common ancestry does not support the data. It is an outcome, not an input, much as process uniformitarianism is an outcome from looking at ancient rocks. Or, to take an example with which I do not think W&amp;amp;M could possibly disagree, atomic theory is the higher-level model used by chemists since long before they could observe the effects of individual atoms. However, this status is not an overarching presupposition, but the outcome of diverse observations, ranging from the combining ratios of elements to the properties of gases.&lt;/p&gt;
-
-&lt;p&gt;The authors give another example of why they regard common ancestry as a higher-level model:&lt;/p&gt;
-
-&lt;blockquote&gt;The fact that common ancestry was accepted during the eclipse of Darwinism indicates that scientists could accept this higher-level model independently of any details of how common ancestry came to be.&lt;/blockquote&gt;
-
-&lt;p&gt;On the contrary. Common ancestry continued to be accepted, even though (in W&amp;amp;M’s version of history) Darwin’s causal mechanism had been rejected, because of the way in which it was supported by the many lines of evidence that they themselves had listed. Bottom-up, not top-down. John Paul II &lt;a href=&quot;https://humanorigins.si.edu/sites/default/files/MESSAGE%20TO%20THE%20PONTIFICAL%20ACADEMY%20OF%20SCIENCES%20(Pope%20John%20Paul%20II).pdf&quot;&gt;got it right&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;It is indeed remarkable that this theory [evolution] has been progressively accepted by researchers, following a series of discoveries in various fields of knowledge. The convergence, neither sought nor fabricated, of the results of work that was conducted independently is in itself a significant argument in favor of this theory.&lt;sup&gt;3&lt;/sup&gt; &lt;/blockquote&gt;
-
-&lt;p&gt;If W&amp;amp;M do not see things this way, it is because they are committed to top-down reasoning. As they say, in a section titled “Evolution without theological presuppositions is impossible,”&lt;/p&gt;
-
-&lt;blockquote&gt;Dogmatic commitments inevitably shape our overall judgments of the epistemic status of evolution. Theology is the epistemic linchpin.&lt;/blockquote&gt;
-
-&lt;p&gt;They impose such dogmatic commitments even when they are absent.&lt;sup&gt;4&lt;/sup&gt; Thus they cite Richard Dawkins’s famous remark, “Darwin made it possible to be an intellectually fulfilled atheist,” as evidence that our theology shapes our views on evolution, when Dawkin himself tells us that it was the other way round; learning about evolution led him to reject his former faith. This inverted perspective makes it possible for them to say in all seriousness,&lt;/p&gt;
-
-&lt;blockquote&gt;Some epistemic judgments depend on how one evaluates the clarity of nature against the clarity of Scripture. Young-earth creationists tend to foreground the perspicuity of Scripture and the fallibility of science, while theistic evolutionists tend to emphasize the clarity of science and the ambiguity of exegesis.&lt;/blockquote&gt;
-
-&lt;p&gt;My translation: Young earth creationists think that their own exegesis of Scripture and commitment to its truth gives them the right to overlook both the scientific evidence and the possibility that their exegesis itself may be in error. This on the basis of a false equivalence between the two epistemic evaluations: on the one side, a priori commitment to a doctrinal position, and on the other, willingness to pay attention to facts.&lt;/p&gt;
-
-&lt;p&gt;Later they elaborate on this very point:&lt;/p&gt;
-
-&lt;blockquote&gt;We agree with scientific realists that the objective data in creation should inform any assessment of evolution, but the process of interpreting the data should also entail theological oh judgments.&lt;/blockquote&gt;
-
-&lt;p&gt;Here the authors are claiming the right to interpret facts to fit their theological preconceptions. If they do not like the outcome of a scientific enquiry, they will demand that the evidence be tortured until it says what they want to hear.&lt;/p&gt;
-
-&lt;p&gt;And then, something interesting happens, that changes the reader’s perspective on everything that has gone before. Having established that for Christians like them, the epistemic status of evolution will depend on theological considerations, they then admit that Christians can reasonably disagree about this theology. Understandably, they deplore the way in which unbelievers and evolution-accepting believers alike regard young earth creationism as absurd. More surprisingly, they deplore the mirror-image attitude of young earth creationists such as Henry Morris and John MacArthur, who describe those who accept evolution as atheistic, irrational, and amoral. They invoke the great commandment to love one another, too often neglected as “we evangelicals find group identity and security in our confessions, doctrinal statements, and ideological consortiums,” and for this reason urge dialogue even when such dialogue seems impossible.&lt;/p&gt;
-
-&lt;p&gt;The authors, I now belatedly realize, are not really talking to me but to those who share their own fundamental outlook. If they have been at great pains to affirm their own epistemic position, that is partly to establish their own credentials, and partly to suggest to their fellows that respectful treatment of a different epistemic position may be possible.&lt;/p&gt;
-
-&lt;p&gt;There are practical reasons for the dialogue that they are commending. Evolution-accepting Christians should not be made to feel unwelcome in churches where they are in the minority. Conversely, creationism-accepting students should not be ignored or silenced in the science classroom. Here they cite the philosopher and former biology teacher Douglas Allchin, who discusses how to engage such students, and advocates examining epistemology, building trust, and considering evolution in the context of the moral order.&lt;sup&gt;5&lt;/sup&gt; As practical examples of the mutually respectful attitude that they recommend, they quote at some length from Jason Rosenhouse’s &lt;a href=&quot;http://www.amazon.com/Among-Creationists-Dispatches-Anti-Evolutionist-Front/dp/0199744637&quot;&gt;Among the Creationists&lt;/a&gt; (reviewed on PT &lt;a href=&quot;https://pandasthumb.org/archives/2012/07/among-the-creat.html&quot;&gt; here&lt;/a&gt;), with his emphasis on the enriching experience of seeing those we disagree with as real people, not merely defined by stereotypes and the oddity of their beliefs.&lt;/p&gt;
-
-&lt;p&gt;All this also reminded me of James Krupa, award-winning biology professor at the University of Kentucky, who concludes his lectures with explicit discussion of social resistance to evolution.&lt;sup&gt;6&lt;/sup&gt; Even more relevant is the approach being developed by Constance Bertka and colleagues.&lt;sup&gt;7&lt;/sup&gt; Here, as a prelude to the discussion of evolution, students consider the range of possible views on the relationship between religion and science, from conflict to integration. Comparing hermeneutics, just as W&amp;amp;M are advocating. A strange alliance, between those dedicated to the effective teaching of evolution science, and those who fundamentally oppose its conclusions.&lt;/p&gt;
-
-&lt;p&gt;This is as different as possible from the attitude that runs through the mainstream creationist literature, from George McCready Price onwards, and that is expressed in the blurb&lt;sup&gt;8&lt;/sup&gt; to Wood’s own book, &lt;i&gt; Understanding the Pattern of Life&lt;/i&gt;, I mentioned earlier:&lt;/p&gt;
-
-&lt;blockquote&gt;Darwinian evolutionary theory has been largely recognized over the last century to be the most pervasive and damaging influence on modern society. As a frontal assault on the Kingdom, evolution has been Christianity's most notorious detractor and its greatest foe.&lt;/blockquote&gt;
-
-&lt;p&gt;What has changed? The times have changed. As W&amp;amp;M put it:&lt;/p&gt;
-
-&lt;blockquote&gt;In the North American context, the polarized and fractured political climate illustrates how sinful division can fester in the absence of ideological interaction. Sober reflection on the consequences of ideological segregation should motivate us to cultivate the true discipline of dialogue.&lt;/blockquote&gt;
-
-&lt;p&gt;Indeed. And we do not need more riots on the steps of the Capitol, or more pastors forced out of their congregations for showing independence of thought, or more memoirs like Tim Alberta’s &lt;a href=&quot;https://www.amazon.com/Kingdom-Power-Glory-Evangelicals-Extremism/dp/006322688X &quot;&gt;The Kingdom, the Power, and the Glory&lt;/a&gt;, to show us what they mean.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt; Notes and References.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;McCain, Kevin and Brad Weslake 2013, “Evolutionary Theory and the Epistemology of Science.” In &lt;i&gt;The Philosophy of Biology: A Companion for Educators&lt;/i&gt;, edited by Kostas Kampourakis, 101–19. Dordrecht: Springer, p 106&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Van den Brink, Gijsbert, Jeroen de Ridder, and René van Woudenberg. 2017. “The Epistemic Status of Evolutionary Theory.” &lt;i&gt;Theology and Science&lt;/i&gt; 15(4): 454–72.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Of course, evolutionary science does not consist of a single theory, but of numerous theories interacting. The Pope was aware of this, and spelled it out later in his message.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;As also illustrated by their treatment of Denis Lamoureux’s position in the same Section.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Allchin, Douglas. 2013. “Sacred Bovines.” &lt;i&gt;The American Biology Teacher&lt;/i&gt; 75(2) : 144-147. https://doi.org/10.1525/abt.2013.75.2.16&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Krupa, James. “Defending Darwin.” &lt;i&gt;Orion&lt;/i&gt; March/April 2015:  https://orionmagazine.org/article/defending-darwin/&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Constance M. Bertka, Briana Pobiner, Paul Beardsley and William A. Watson, 2019. “Acknowledging students’ concerns about evolution: a proactive teaching strategy.” &lt;i&gt;Evo Edu Outreach&lt;/i&gt; (2019) 12:3. https://doi.org/10.1186/s12052-019-0095-0&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;As shown on the &lt;i&gt;Alibris &lt;/i&gt;website. We do not know if Wood himself wrote this blurb, but it could hardly have been adopted without his approval.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Paul Braterman</name></author><summary type="html">I am writing in response to the article Bridging ideological divides: Why Christians still disagree about evolution and what we whould do about it, by Hans Madueme and Todd Charles Wood, Scientia et Fides 12(1), 2024, 189–213; open access here. This article is written by two young earth creationists, who take 25 closely argued pages including 93 references to show complete misunderstanding of the relationship between observation and interpretation in evolution science, in order to claim a false epistemic symmetry between this science and the theological perspective which forces them to reject it; a more sophisticated version of the “two pairs of spectacles” thesis that has been with us since George McCready Price. So why am I bothering to review this article? And why, to my own surprise, do I find myself welcoming its appearance? For three reasons. Firstly, because the authors, unlike “creation science” young earth creationists, accept the validity of the science in its own terms, rather than claiming that it is inferior to their own fantastical offerings. Secondly, because they lay out extremely clearly (and self-revealingly) their own epistemic position. And finally, because their recommendations, made regarding conversations within the evangelical community, are applicable (and indeed to some extent already applied) to the very practical problem of how to teach evolution science in places with a faith-based culture.</summary></entry></feed>
+&lt;p&gt;Wiester J. L. Wiester interviewed by BBC. &lt;i&gt;Newsletter of the American Scientific Affiliation &amp;amp; Canadian Scientific &amp;amp; Christian Affiliation&lt;/i&gt; 2000 Jan/Feb; 42 (1): 6–7.&lt;/p&gt;</content><author><name>Glenn Branch</name></author><summary type="html">Pandas at National Zoo in Washington. Photograph by Asiir. Creative Commons Attribution-Share Alike 2.5 Generic license. This is Part 2 of 2. You may find Part 1 here . The Third Problem “Finally, your story has a practical problem,” Questor says: “Is the panda’s thumb a poor design?” — whereupon a panda peeks its head through the panel and confides, “I rather like it, you know” (page 78). In essence, she is attacking premise (4) of Teller’s argument, by a clever appeal to the literature. Questor is presumably a college biology professor, and Wiester, who provided “the science input” for WDGDWI, is a college biology professor. Where do they go to get the information on the panda’s thumb? The Encyclopedia Americana, which Questor quotes as saying that the panda’s thumb “enables the panda to eat bamboo efficiently” and to “handle stems with great dexterity” (page 78, charmingly illustrated with a panda twirling stalks of bamboo in drum-major fashion). Gould, in contrast, consulted D. Dwight Davis’s monograph The Giant Panda (1964), which he characterized as “the greatest work of modern evolutionary comparative anatomy” (Gould 1980: 22). Regardless of the far-from-authoritative nature of their source, Newman and Wiester’s emphasis on the efficiency of the panda’s thumb reveals that they have again misrepresented Gould’s argument, apparently due to their conflation of two senses in which it is possible for design (or, if you prefer, “design”) to be suboptimal. In the first sense, a biological feature is suboptimally designed if it accomplishes its function not as efficiently as it (or a plausible substitute) might. Thus in the first sense, to say that the panda’s thumb is suboptimally designed is to say that it is not as useful for stripping leaves from bamboo as it (or a plausible substitute) might be. In the second sense, however, a biological feature is suboptimally designed if it is not designed as well as it might have been, that is, if the process whereby it acquired the ability to accomplish its function was not as efficient as it (or a plausible substitute) might have been. That there is such a sense of what it is for design to be suboptimal is testified to by the computer engineer’s word “kludge,” which refers to a clumsy and inelegant, but not necessarily ineffective, solution to a problem. In the second sense, to say that the panda’s thumb is suboptimally designed is to say that the process whereby it acquired the ability to strip leaves from bamboo was a kludge.</summary></entry></feed>
