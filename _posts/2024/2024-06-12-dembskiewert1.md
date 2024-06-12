@@ -30,7 +30,7 @@ This was much invoked as a major argument for Intelligent Design at the time of 
 
 The Specified Complexity argument involves genotypes arrayed 
 on a scale.  A scale of what, we will be discussing.  The general strategy of the design inference 
-is to find a region of the scale that is so improbable under "chance" that natural processes would be extremely unlikely to result in genotypes that good or better.  The probabilities that natural processes would produce anything that good have to be so small that such an event would be 
+is to find a region of the scale that is so improbable under "chance" that natural evolutionary processes would be extremely unlikely to result in genotypes that good or better.  The probabilities that natural processes would produce anything that good have to be so small that such an event would be 
 expected less than once in the whole history of the Universe.
 
 Over the years since 1998, there seem to have been several definitions of the scale and the probability:
