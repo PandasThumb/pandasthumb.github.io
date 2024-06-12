@@ -126,7 +126,8 @@ that is so improbably good that from natural evolutionary processes we would exp
 3. So how do we find an event that has Complex Specified Information?
 4. Why, by finding one that, with natural evolutionary processes, is this improbable!   (Then we can show that it has CSI, and that guarantees that it is this improbable).
 
-But we have already shown that, when we did step 1.  Steps 2, 3 and 4, the CSI part are then completely unnecessary!  In the 2005 argument, no particular method was outlined to calculate the probability of the event with natural evolutionary processes.
+But we have already shown that, once we have proven that the event, or one this good 
+or better, is this improbable, then the CSI part is completely unnecessary!  In the 2005 argument, no particular method was outlined to calculate the probability of the event with natural evolutionary processes.
 
 So Functional Information has been discarded because it could possibly 
 evolve.  It has been replaced by Specification 
