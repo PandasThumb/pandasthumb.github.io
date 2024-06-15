@@ -7,7 +7,7 @@ author: Matt Young
 <figure>
 <img src="/uploads/2024/DSC05740_Argus_75_600.jpg/" alt="Argus 75"/>
 <figcaption> Argus 75 twin-lens reflex camera, 1958-1964. It is a fixed-focus camera with a single shutter speed of 1/60&nbsp;s or bulb, and a relative aperture of approximately F/11 or less. It used 620 film and produced a 6&times;6&nbsp;cm negative. It looks like it was a considerable improvement over many box cameras in that it gave a substantially larger image in the viewfinder. Additionally, all the optics is glass. Judging by the little red opening in the back, it was designed for orthochromatic film. I infer from the description of the camera on the <a href="https://www.filmstillphotography.com/argus-75.html">Film Still Photography website</a> that 620 film is no longer available, and you have to buy 120 film and transfer it to a 620 spool. The camera in the photograph, which belonged to my sister-in-law around 1960, no longer works, so we do not have to worry about the film.</figcaption>
-</figure> 
+</figure>
 
 The 15th annual Panda's Thumb Photography Contest begins now, Monday, June 17, at 12:00 p.m., MDT (MDT = UTC(GMT) – 6 h). Entries will be accepted between now and Friday, July 5, at 12:00 p.m., MDT. The rules are precisely the same as previous years', except, obviously, that the dates have been updated.
 
