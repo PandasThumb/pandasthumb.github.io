@@ -43,8 +43,8 @@ The rules of the contest are simple:
 
 <li>Regular contributors to The Panda’s Thumb are not eligible to enter the contest. </li>
 
-<li>The decision of the judges is irrevocable. The judges remain irrepressibly and irreducibly irascible, irreverent, and irredeemable, irregardless and irrespective, but not, we hope, irrational or irritable. We hope for a veritable irruption of entries this year. </li>
+<li>The decision of the judges is irrevocable. The judges remain irrepressibly and irreducibly irascible, irreverent, and irredeemable, irregardless and irrespective, but not, we hope, irrational or irritable. So do not be irresolute; we hope for a veritable irruption of entries this year. </li>
 
 <li>Even though we are getting fairly good at running contests, we reserve the right to change any of the rules, or add or subtract rules at any time at our discretion. </li></ol>
 
-We will choose a number of finalists and open voting for the winner at 12:00 p.m. MDT, Monday, July 8. Voting will end Friday, July 19, at 12:00 noon, and the winner will be announced on Monday, July 22, at 12:00.
+We will choose a number of finalists and open voting for the winner at 12:00 p.m. MDT, Monday, July 8. Voting will end Friday, July 19, at 12:00 noon, and the winner will be announced on Monday, July 22, at 12:00 noon.
