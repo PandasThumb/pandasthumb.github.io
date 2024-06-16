@@ -15,7 +15,7 @@ We encourage entries in a single, general category, which includes pictures of j
 
 Since rumor has it that the pandemic encouraged macro photography, we may, if we receive enough entries, establish a "macro" category.
 
-The winner and the runner-up will receive a copy of one of <a href="https://www.amazon.com/stores/Matt-Young/author/B001HPILDU/">my own books</a> on evolution, intelligent-design creationism, or science and religion. 
+The winner will receive a copy of <a href="https://www.amazon.com/stores/Matt-Young/author/B001HPILDU/">Why Intelligent Design Fails, A Scientific Critique of the New Creationism</a>, edited by Taner Edis and me. We may also secure an award for the runner-up; TBA.
 
 <!--more-->
 
