@@ -1,6 +1,6 @@
 ---
 title: 'Steatoda sp.'
-date: '2024-06-23 12:00:00 -06:00'
+date: '2024-06-24 12:00:00 -06:00'
 author: Matt Young
 ---
 
