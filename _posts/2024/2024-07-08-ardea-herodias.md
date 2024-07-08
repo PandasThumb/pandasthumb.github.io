@@ -15,7 +15,7 @@ Photography Contest, <strong>Winner</strong>.
 
 We received only around a dozen submissions this year, and all were very good indeed. In the past, we have polled our readers, but participation in the polls has dropped off. We therefore decided, consistently with Rules 8 and 12, to choose the winners ourselves rather than poll our readers. In this endeavor, we enlisted the assistance of our Wife and Harshest Critic, Deanna, and also our Son the Geek, David. Deanna grew up making dye transfers, and David is a formidable photographer himself. The one thing we three agreed upon was to place Al Denelsbeck's photograph of what David called "sad snake, happy bird" first. We will announce the runner-up and the bronze medalist, so to speak, in subsequent weeks.
 
-Mr. Denelsbeck will be offered his choice between Why Intelligent Design Fails, A Scientific Critique of the New Creationism, edited by Taner Edis and me (and autographed by me); and What’s Gotten Into You by Dan Levitt, generously contributed by NCSE. The runner-up will be offered the remaining book.
+Mr. Denelsbeck, who blogs <a href="https://wading-in.net/">here</a>, will be offered his choice between Why Intelligent Design Fails, A Scientific Critique of the New Creationism, edited by Taner Edis and me (and autographed by me); and What’s Gotten Into You by Dan Levitt, generously contributed by NCSE. The runner-up will be offered the remaining book.
 
 
  
