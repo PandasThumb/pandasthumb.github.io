@@ -85,17 +85,17 @@ Black, Amanda; Tylianakis, Jason M. (2024). Vitalism in New Zealand science educ
 <b>Typo issue</b>
 
 Published version:
-=====================
+<blockquote><div style="background-color: rgb(235, 235, 235); padding: 15px;">
 Problems remain in 2024. Despite its removal from exam objectives, mauri remains in the chemistry curriculum, in which students are told, "Revisit the concept of mauri" (4). This learning can sit beside learnings in atomic theory" (5), and the Gulf Innovation Fund Together website (4) says that mauri is "the force that interpenetrates all things to bind and knit them together."
-=====================
+</div></blockquote>
 
 Nick Matzke says: This sentence somehow got garbled in a final copyedit, after my last look at the proof.  Presumably this was due to there being a link in the original verbatim quote.
 
 The original read (using the published citation numbers):
 
-=====================
+<blockquote><div style="background-color: rgb(235, 235, 235); padding: 15px;">
 Despite its removal from exam objectives, mauri remains in the chemistry curriculum, in which students are told, "Revisit the concept of mauri (<a href="giftofthegulf.org.nz">giftofthegulf.org.nz</a>). This learning can sit beside learnings in atomic theory," (5) and the link (4) says that mauri is "the force that interpenetrates all things to bind and knit them together."
-=====================
+</div></blockquote>
 
 
 <b>Brief further comments</b>
