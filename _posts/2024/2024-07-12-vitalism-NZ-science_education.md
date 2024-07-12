@@ -1,5 +1,5 @@
 ---
-title: Science magazine - Vitalism in New Zealand science education
+title: Vitalism in New Zealand science education, in Science Magazine
 date: 2024-07-12 08:00:00 -1:00
 author: Nick Matzke
 ---
