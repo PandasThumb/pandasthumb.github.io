@@ -93,7 +93,7 @@ Nick Matzke says: This sentence somehow got garbled in a final copyedit, after m
 The original read (using the published citation numbers):
 
 <blockquote><div style="background-color: rgb(235, 235, 235); padding: 15px;">
-Despite its removal from exam objectives, mauri remains in the chemistry curriculum, in which students are told, "Revisit the concept of mauri (<a href="giftofthegulf.org.nz">giftofthegulf.org.nz</a>). This learning can sit beside learnings in atomic theory," (5) and the link (4) says that mauri is "the force that interpenetrates all things to bind and knit them together."
+Despite its removal from exam objectives, mauri remains in the chemistry curriculum, in which students are told, "Revisit the concept of mauri (<a href="http://giftofthegulf.org.nz">giftofthegulf.org.nz</a>). This learning can sit beside learnings in atomic theory," (5) and the link (4) says that mauri is "the force that interpenetrates all things to bind and knit them together."
 </div></blockquote>
 
 
