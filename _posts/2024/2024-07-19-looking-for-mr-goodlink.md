@@ -10,7 +10,7 @@ author: Andrew J Petto
 </figcaption>
 </figure>
 
-<i>Andrew J Petto is Distinguished Lecturer Emeritus in the Department of Biological Sciences at the University of Wisconsin–Milwaukee, where he taught anatomy and physiology, human gross anatomy, and kinesiology courses. He is a bioanthropologist with a concentration on primate functional morphology. His latest book, as a co-author with Alice Beck Kehoe, is <a href="https://www.taylorfrancis.com/books/mono/10.4324/9781003226819/humans-alice-beck-kehoe-andrew-petto"></i>Humans: An Introduction to Four-Field Anthropology<i></a>, 2nd ed. New York: Routledge. 2022 (Dec).</i>
+<i>Andrew J Petto is Distinguished Lecturer Emeritus in the Department of Biological Sciences at the University of Wisconsin–Milwaukee, where he taught anatomy and physiology, human gross anatomy, and kinesiology courses. He is a bioanthropologist with a concentration on primate functional morphology. His latest book, as a co-author with Alice Beck Kehoe, is <a href="https://www.taylorfrancis.com/books/mono/10.4324/9781003226819/humans-alice-beck-kehoe-andrew-petto">Humans: An Introduction to Four-Field Anthropology</a>, 2nd ed. New York: Routledge. 2022 (Dec).</i>
 
 The story of <i>Sahelanthropus tchadensis</i> is the story of the emergence of the human evolutionary branch from the last common ancestor of the African ape clades (evolutionary branches): humans, chimpanzees, and gorillas. It is a story of transitions. To understand the importance of <i>Sahelanthropus</i> in reconstructing human evolutionary history, we could paraphrase Dobzhansky's famous quotation: “Nothing in <i>Sahelanthropus</i> biology makes sense except in the light of evolutionary transition” (Dobzhansky 1973).
 
