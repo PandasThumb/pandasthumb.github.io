@@ -54,7 +54,7 @@ The diastema in the upper jaw and the honing surfaces in the lower jaw are both 
 <figure>
 <img src="/uploads/2024/Petto_2_Dentition_600.jpg" alt="Dentition"/>
 <figcaption><a href=""></a> Figure 2: Comparison of jaws and teeth of a great ape (chimpanzee), an Australopith, and a modern human. Note the sizes of the diastemata, the sizes and shapes of the canine and premolar teeth, and the change in the shape of the jaw from parallel to arched. Labels translated and rewritten by the author.
-</figcaption>
+</figcaption></figure>
 
 One of the key issues in recent exchanges on Toumai relates to changes in human anatomy and behavior related to the way that we walk: standing upright and striding on two legs—technically known as obligate bipedal orthogrady. This means that we walk on two feet and carry our spines perpendicular to the ground, and that no other way of walking is a practical option. 
 
@@ -68,7 +68,7 @@ There are several other changes in the base of the skull that go along with bipe
 <figure>
 <img src="/uploads/2024/Petto_3_Undersides_of_Homo_Pan_Toumai_600.jpg" alt="Skulls"/>
 <figcaption><a href=""></a> Figure 3: Skulls with relative location of the foramen magnum in modern humans, <i>Sahelanthropus</i>, and Pan (chimpanzee). Skulls are drawn to same scale for easier comparison.
-</figcaption>
+</figcaption></figure>
 
 The position of the foramen magnum in <i>Sahelanthropus</i> is moved forward compared to its location in the African great apes, but not as far forward as we see in later hominins (Guy et al 2005). Although it is common to say that the more forward position of the foramen magnum is indicative of upright <i>walking</i> (for example, <i>Sahelanthropus</i> SI 2024), the evidence from comparative anatomy of the primates indicates that it is rather more indicative of an upright <i>posture</i>, as we see in several prosimian primate species. 
 
