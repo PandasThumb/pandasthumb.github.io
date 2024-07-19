@@ -1,6 +1,6 @@
 ---
 title: 'Looking for Mr. Goodlink? Re-examining the “Standing” of <i>Sahelanthropus</i>'
-date: '2024-07-1912:00:00 -06:00'
+date: '2024-07-19 14:05 -06:00'
 author: Andrew J Petto
 ---
 
