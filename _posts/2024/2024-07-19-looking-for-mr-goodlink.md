@@ -23,6 +23,8 @@ Since its discovery in 2001, <i>Sahelanthropus tchadensis</i>  has intrigued sci
 
 <i>Sahelanthropus</i> is located at the bottom right of the chart in Figure 1, living between 7 and 6 million years before present. (A quick overview of the major findings about this species is available <a href="https://humanorigins.si.edu/evidence/human-fossils/species/Sahelanthropus-tchadensis">here</a>.) 
 
+<!--more-->
+
 A lot of the fossil remains reflect what we might expect for a human ancestor at this very early stage of human emergence: a mixture of features that are common to all the African apes, some that are modified from the ancestral form that appear differently from their appearances both in the human and great-ape branches, and several specific modifications of ancestral features that we have never found outside of the human branch. 
 
 But there is still very little fossil material from this species, and we have a lot of questions that we cannot answer based on the material we have. Answers to some of these questions—when they finally come—will tell us important things about how early humans made the transition to the peculiar ape descendant that we are today. Others will tell us more about evolution as a process. 
