@@ -123,7 +123,9 @@ As with any evolutionary branch in transition, membership in the human branch of
 
 -----
 <strong>Acknowledgment.</strong> Thanks to Prof Benjamin Campbell in the Department of Anthropology at the University of Wisconsin–Milwaukee for comments, questions, and suggestions.
+
 <strong>References.</strong>
+
 Almécija S, Tallman M, Alba DM, Pina M, Moyà-Solà S, Jungers WL. The femur of Orrorin tugenensis exhibits morphometric affinities with both Miocene apes and later hominins. Nature Communications. 2013:4(1):2888. https://doi.org/10.1038/ncomms3888
 
 Böhme M, Spassov N, Fuss J, Tröscher A, Deane AS, Prieto J, Kirscher U, Lechner T, Begun DR. A new Miocene ape and locomotion in the ancestor of great apes and humans. Nature (London). 2019;575(7783):489–493. https://doi.org/10.1038/s41586-019-1731-0 
