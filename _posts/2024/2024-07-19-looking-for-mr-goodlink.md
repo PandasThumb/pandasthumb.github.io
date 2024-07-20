@@ -21,7 +21,7 @@ Since its discovery in 2001, <i>Sahelanthropus tchadensis</i>  has intrigued sci
 <figcaption><a href=""></a>Figure 1: Timeline of Human Evolution. Arrangement of hominin species by their time span in the fossil record.
 </figcaption></figure>
 
-<i>Sahelanthropus</i> is located at the bottom right of the chart in Figure 1, living between 7 and 6 million years before present. (A quick overview of the major findings about this species is available <a href="https://humanorigins.si.edu/evidence/human-fossils/species/Sahelanthropus-tchadensis">here</a>.) 
+<i>Sahelanthropus</i> is located at the bottom left of the chart in Figure 1, living between 7 and 6 million years before present. (A quick overview of the major findings about this species is available <a href="https://humanorigins.si.edu/evidence/human-fossils/species/Sahelanthropus-tchadensis">here</a>.) 
 
 <!--more-->
 
