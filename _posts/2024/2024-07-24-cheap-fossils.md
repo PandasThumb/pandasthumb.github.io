@@ -12,7 +12,7 @@ author: Matt Young
 
 Our colleague Dan Phelps, vigilant as usual, has just sent us
 
-<blockquote><p>[a] nice video by Dr. <a href="https://joelduff.org/">Joel Duff</a> about collecting fossils at outcrops adjacent to the Ark Park. I was at these outcrops several years ago and found mostly <a href="https://en.wikipedia.org/wiki/Bryozoa">bryozoa</a> from the Upper Ordovician Kope Formation. The creationist “scientists” at the Ark seem oblivious to the existence of these fossils that don’t jibe with creationist Flood geology.<p>
+<blockquote><p>[a] nice video by Dr. <a href="https://joelduff.org/">Joel Duff</a> about collecting fossils at outcrops adjacent to the Ark Park. I was at these outcrops several years ago and found mostly <a href="https://en.wikipedia.org/wiki/Bryozoa">bryozoa</a> from the Upper Ordovician Kope Formation. The creationist “scientists” at the Ark seem oblivious to the existence of these fossils that don’t jibe with creationist Flood geology.</p>
 
 <p>Dr. Duff also discusses the grift AiG does of selling bags of fossils in dirt for exorbitant prices (up to $55 a bag for kids to wash out in a fake mining sluice!). This method is obviously not how fossils are typically unearthed, but the kids and parents buying this product wouldn’t be likely to know better. The Ark apparently purchases their fossils from other parts of the world, while not taking advantage of their local abundant fossils.</p></blockquote>
 
