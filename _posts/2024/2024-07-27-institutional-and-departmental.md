@@ -18,7 +18,7 @@ Thorpe is less of an absolutist regarding Kalven than is Coyne, though he agrees
 
 <blockquote> But what about matters of science, especially when a finding has powerful political implications such as studies on climate or vaccines? Where should universities draw the line?</blockquote>
 
-Several people told Thorpe that universities must keep strictly away from commenting on any research whatsoever, except to support the right of the researcher to publish that research. Another, Eric Topol, told him that such a stance is "spineless" and appears to dissociate the university from its faculty and their published science.
+Or evolution. Several people told Thorpe that universities must keep strictly away from commenting on any research whatsoever, except to support the right of the researcher to publish that research. Another, Eric Topol, told him that such a stance is "spineless" and appears to dissociate the university from its faculty and their published science.
 
 Thorpe himself seems somewhat conflicted, and I can understand why, but he expresses concern that
 
