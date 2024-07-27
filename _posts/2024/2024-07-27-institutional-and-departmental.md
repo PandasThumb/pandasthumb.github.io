@@ -6,7 +6,7 @@ author: Matt Young
 
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
 <img src="/uploads/2024/Science_Cover_7_27_600.jpg" alt="Science magazine cover"/>
-<figcaption><a href=""></a>Cover of this week's issue of <i> Science </i> magazine.
+<figcaption><a href=""></a>Cover of this week's issue of <i> Science </i> magazine. <small>The photo is by David Dee Delgado/Getty Images.</small> </figcaption>
 </figcaption>
 </figure> 
 
