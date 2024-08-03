@@ -30,7 +30,7 @@ two stairways.
 
 Happy 280th, Jean-Baptiste!
 
-# To read or post comments, first click on the title of this post. #
+### To read or post comments, first click on the title of this post. ###
 
 
 
