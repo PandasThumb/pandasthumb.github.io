@@ -1,6 +1,6 @@
 ---
 title: Happy 280th birthday to Jean-Baptiste Lamarck
-date: 2024-08-03 11:00:00 -08
+date: 2024-08-02 11:00:00 -08
 author: Joe Felsenstein
 ---
 
