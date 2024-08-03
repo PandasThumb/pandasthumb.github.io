@@ -6,8 +6,7 @@ author: Joe Felsenstein
 
 <figure><img src="/uploads/2024/2022-04-12-Metro_Lamarck_-_Caulaincourt-8402.jpg" width="640px"> alt="[Lamarck-Coulaincourt metro station]"/><figcaption>Entrance to the Lamarck-Coulaincourt metro station, Paris.© Superbass / CC-BY-SA-4.0 (via Wikimedia Commons)</figcaption></figure>
 
-  
-</figcaption>
+<p>&nbsp;</p>
 
 Yesterday, the 1st of August, is the 280th anniversary of the birth of Jean-Baptiste Pierre Antoine 
 de Monet, who was the Chevalier de Lamarck.  As I have noted each year here, he was, 
@@ -19,7 +18,7 @@ as most folks already believed that).
 
 This time I want to note the way Lamarck is comemmorated in the name of a street 
 in Paris, the Rue de Lamarck.  His name is also on streets in some other French cities. 
-The explanation that I have heard of why that perticular street was named after him 
+The explanation that I have heard of why that particular street was named after him 
 is that it was being built about the time that Darwin was becoming famous, and the 
 French found a then-almost-forgotten French biologist to commemmorate, to compete with 
 Darwin.  So they named a street for him in an area where new streets were being built and named.  I don't know whether this is really an accurate explanation.
