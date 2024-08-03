@@ -4,7 +4,10 @@ date: 2024-08-02 11:00:00 -08
 author: Joe Felsenstein
 ---
 
-<img src="["](https://github.com/PandasThumb/uploads/2024/2022-04-12-Metro_Lamarck_-_Caulaincourt-8402.jpg) width="640px">
+<figure><img src="[Lamarck-Coulaincourt metro station](https://github.com/PandasThumb/uploads/2024/2022-04-12-Metro_Lamarck_-_Caulaincourt-8402.jpg) width="640px"><figcaption>Entrance to the Lamarck-Coulaincourt metro station, Paris.© Superbass / CC-BY-SA-4.0 (via Wikimedia Commons)</figcaption></figure>
+
+  
+</figcaption>
 
 Yesterday, the 1st of August, is the 280th anniversary of the birth of Jean-Baptiste Pierre Antoine 
 de Monet, who was the Chevalier de Lamarck.  As I have noted each year here, he was, 
