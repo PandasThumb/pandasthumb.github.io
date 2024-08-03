@@ -24,7 +24,7 @@ Darwin.  I don't know whether this is an accurate explanation.
 The Rue de Lamarck is famous in Paris today as it gives its name to a major Metro 
 stop, Lamarck-Coulaincourt.  Above you will see the very dramatic entrance to 
 that Metro station, photographed from the Rue de Lamarck.  The entrance is between 
-two stairways
+two stairways.
 
 
 
