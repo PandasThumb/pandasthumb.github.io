@@ -4,7 +4,7 @@ date: 2024-08-02 11:00:00 -08
 author: Joe Felsenstein
 ---
 
-<figure><img src="[Lamarck-Coulaincourt metro station](https://github.com/PandasThumb/uploads/2024/2022-04-12-Metro_Lamarck_-_Caulaincourt-8402.jpg) width="640px"><figcaption>Entrance to the Lamarck-Coulaincourt metro station, Paris.© Superbass / CC-BY-SA-4.0 (via Wikimedia Commons)</figcaption></figure>
+<figure><img src="(2022-04-12-Metro_Lamarck_-_Caulaincourt-8402.jpg) width=640px>" alt="[Lamarck-Coulaincourt metro station]"/><figcaption>Entrance to the Lamarck-Coulaincourt metro station, Paris.© Superbass / CC-BY-SA-4.0 (via Wikimedia Commons)</figcaption></figure>
 
   
 </figcaption>
