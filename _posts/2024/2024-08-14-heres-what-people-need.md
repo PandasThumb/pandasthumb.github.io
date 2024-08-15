@@ -4,7 +4,7 @@ date: '2024-08-14 19:07:00 -06:00'
 author: Matt Young
 ---
 
-<figure>
+<figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
 <img src="/uploads/2024/Ham_Video_600.jpg" alt="Ken Ham on his video"/>
 <figcaption><a href=""></a>Ken Ham on YouTube assuring us that a fertilized egg is a human being.
 </figcaption>
