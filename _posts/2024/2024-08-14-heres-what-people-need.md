@@ -10,7 +10,7 @@ author: Matt Young
 </figcaption>
 </figure>
 
-<i>The original title of this article, borrowed (as you may infer) from Ken Ham, was "Here's What People NEED To Know about Ken Ham." That title now seems too cute and did not seem to give the article much traction, so we have taken the unusual step of changing it to the present, more descriptive title. The URL remains the same. </i>
+<p><i>The original title of this article, borrowed (as you may infer) from Ken Ham, was "Here's What People NEED To Know about Ken Ham." That title now seems too cute and did not seem to give the article much traction, so we have taken the unusual step of changing it to the present, more descriptive title. The URL remains the same. </i></p>
 <br/>
 Ken Ham, on a YouTube video entitled "<a href="https://youtu.be/1aGZoJCdCpo?si=8iLpBwawPiOYOYbE">Here's What People NEED to Realize about Kamala Harris</a>" and specifically credited to Answers in Genesis, explicitly attacks Vice President and presidential candidate Kamala Harris for her views on abortion and other matters. The video received around 150,000 views in a day or so. AIG writes,
 
