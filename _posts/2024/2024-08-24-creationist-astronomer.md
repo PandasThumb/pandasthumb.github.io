@@ -14,6 +14,8 @@ This article, <a href="https://answersingenesis.org/geology/how-long-have-arches
 
 In this piece, Dr. Faulkner* extrapolates backward to “show” that arches in Arches National Park, Utah, have formed since Noah’s Flood, about 4,500 years ago. He claims this timeframe because of 
 
+<!--more-->
+
 <ul><li>Biblical literalism. Employees of Answers in Genesis must sign a <a href="https://answersingenesis.org/about/faith/">Statement of Faith</a> that posits that the earth and universe are 6,000 years old, and that most geology is a result of Noah’s Flood, approximately 4,500 years ago. </li>
 
 <li>An exponential rate of arch collapse.  Faulkner states he doesn’t use a linear decline in numbers of arches because no arches would remain after 4,500 years. No consideration is given to the possibility of much longer time scales, or changes in climate and erosion rates. Change in regional climates over time is ignored, possibly because the young earth creationists at AIG cram the nearly 2 million years of Pleistocene glacial maxima into a single ice age of only 200 years after the Flood. </li></ul>
