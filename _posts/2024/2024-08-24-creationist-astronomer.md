@@ -38,6 +38,6 @@ The nonscientific method used by Answers in Genesis “researchers” results in
 
  ------
 
-*Faulkner’s Ph.D. is in astronomy; he works as a researcher for Answers in Genesis. He has some family ties to the region and occasionally has led paid AiG creationist hiking tours of Red River Gorge and its arches.
+*Faulkner’s Ph.D. is in astronomy; he works as a researcher for Answers in Genesis. He has some family ties to the region and occasionally has led paid AIG creationist hiking tours of Red River Gorge and its arches.
 
 <strong>Appendix</strong>. If you are interested in Kentucky geology, <a href="https://www.uky.edu/KGS/geoky/fieldtrip/2005%20NaturalBridge%20red%20river%20gorge%20guide.pdf">here</a> and <a href="https://www.uky.edu/KGS/geoky/fieldtrip/2010%20Guidebook%20natural%20bridge%20guidebook.pdf">here</a> are field guides to the Red River Gorge area written by geologists (and you can use these guidebooks to visit the public sites for free!). The Kentucky Geological Survey has a <a href="https://kgs.uky.edu/arches/">project and map service</a> dedicated to Kentucky arches for the hiking public. (Arches on private land are generally excluded from this database.)
