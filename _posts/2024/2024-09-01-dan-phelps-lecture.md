@@ -10,8 +10,10 @@ author: Matt Young
 </figcaption>
 </figure> 
 
-Fans of Dan Phelps may be interested in his lecture on Kentucky Fossils as part of the Frankfort (Kentucky) Heritage Lecture Series. You may see the lecture, which was delivered on August 27 and is about 90&nbsp;min long, <a href=https://www.youtube.com/watch?v=x2sfqhPodQQ>here</a>.
+<br/><br/>
+Fans of Dan Phelps may be interested in his lecture on Kentucky Fossils as part of the Frankfort (Kentucky) Heritage Lecture Series. You may see the lecture, which was delivered on August 27 and is about 90&nbsp;min long, <a href="https://www.youtube.com/watch?v=x2sfqhPodQQ">here</a>.
 
+<br/>
 According to the Lecture Series notes,
 
 <blockquote><p>This presentation [was] an overview of the various types of fossils found in Kentucky, discussing specimens from the Late Ordovician (450 million years ago) to the Pleistocene (ending about 12,000 years ago). There will be numerous fossil specimens on display before and after the talk. The public is encouraged to bring in local fossils for identification.</p>
