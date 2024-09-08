@@ -16,6 +16,8 @@ Mr. Ham is already hawking “as seen in space” merchandise promoting the Ark 
 
 <blockquote><strong>These “as seen in space” items are available on our online store or at the attractions.</strong> It’s a fun way to promote the Ark and talk about a man who is bold in his witness for Jesus Christ and the truth of God’s Word from the very first verse, even while working as an astronaut with NASA.</blockquote>
 
+<!--more-->
+
 The cost to send a payload to the ISS is about $10,000/lb, <a href=”https://www.nasa.gov/humans-in-space/commercial-and-marketing-pricing-policy/”>according to NASA</a>. Moreover, it was probably much more expensive to send anything on the ill-fated Boeing Starliner. If the T-shirt weighs about 5 or 6 oz and the two caps combined weigh a similar amount, then the cost of getting them into orbit was around $8,000. Although NASA allows astronauts to have personal items, both NASA and the International Space Station have explicit guidelines for advertising.  <a href="https://www.nasa.gov/nasa-brand-center/advertising-guidelines/">NASA’s guidelines</a> appear to explicitly forbid Wilmore’s advertising for Answers in Genesis: 
 
 <blockquote><p><strong> Advertising and Marketing on the International Space Station </strong> </p>
