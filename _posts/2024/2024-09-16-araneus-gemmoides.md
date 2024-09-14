@@ -9,7 +9,7 @@ Spider courtesy of <strong>Alex Young</strong>.
 
 <figure>
 <img src="/uploads/2024/Cat_Faced_Orb_Weaver_MG_1184_600.JPG" alt="Spider"/>
-<figcaption><a href="https://en.wikipedia.org/wiki/Araneus_gemmoides"><i>Araneus gemmoides</i></a> &ndash; cat-faced orb weaver. The photograph is upside down to emphasize the "ears" and the "eyes."
+<figcaption><a href="https://en.wikipedia.org/wiki/Araneus_gemmoides"><i>Araneus gemmoides</i></a> &ndash; female cat-faced orb weaver. The photograph is upside down to emphasize the "ears" and the "eyes."
 </figcaption>
 
 The underside of the spider is displayed below the fold.
