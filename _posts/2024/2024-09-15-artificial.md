@@ -3,8 +3,8 @@ title: Artificial selection is not Intelligent Design
 date: 2024-09-15 12:00:00 -08:00
 author: Joe Felsenstein
 ---
-
-<figure><img src="/uploads/2024/636px-Wm19342a.jpg" alt="[a nice image of fancy pigeons]"><figcaption>by Karl Wagner, from a major German encyclopedia, Meyers Großes Konversations-Lexikon, Volume 19, published in 1909 in Leipzig.  From Wikimedia, figure in public domain.</figcaption></figure>
+<div align="center">
+<figure><img src="/uploads/2024/636px-Wm19342a.jpg" alt="[a nice image of fancy pigeons]"><figcaption>by Karl Wagner, from a major German encyclopedia, Meyers Großes Konversations-Lexikon, Volume 19, published in 1909 in Leipzig.  From Wikimedia, figure in public domain.</figcaption></figure></div>
 
 <p>&nbsp;</p>
 
