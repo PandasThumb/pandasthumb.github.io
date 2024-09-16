@@ -5,7 +5,7 @@ author: Joe Felsenstein
 ---
 
 <figure><img src="uploads/pigeons.jpg" alt="[a nice image of fancy pigeons, coming soon]">
-<figcaption></figcaption></figure>
+<figcaption>by Karl Wagner, from a German encyclopedia of 1905, Meyers Großes Konversations-Lexikon, Volume 19, published in Leipzig.  From Wikimedia, public domain./figcaption></figure>
 
 When evolutionary biologists argue with creationists or 
 advocates of Intelligent Design about the effectiveness 
@@ -26,7 +26,8 @@ away, or they successfully escaped.  With the start of
 agriculture, farmers often bred from their best animals 
 (or plants).   Charles Darwin paid close attention to 
 the ways animals had been changed by breeding, both for 
-food production or as pets.  "Natural selection" was named 
+food production or as pets.  He was particularly attentive 
+to the reesults of pigeon breeding. "Natural selection" was named 
 in analogy to artificial selection.
 
 <!--more-->
