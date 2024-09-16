@@ -4,8 +4,7 @@ date: 2024-09-15 12:00:00 -08:00
 author: Joe Felsenstein
 ---
 
-<figure><img src="uploads/pigeons.jpg" alt="[a nice image of fancy pigeons, coming soon]">
-<figcaption>by Karl Wagner, from a German encyclopedia of 1905, Meyers Großes Konversations-Lexikon, Volume 19, published in Leipzig.  From Wikimedia, public domain./figcaption></figure>
+<figure><img src="uploads/pigeons.jpg" alt="[a nice image of fancy pigeons, coming soon]"><figcaption>by Karl Wagner, from a German encyclopedia of 1905, Meyers Großes Konversations-Lexikon, Volume 19, published in Leipzig.  From Wikimedia, public domain.</figcaption></figure>
 
 When evolutionary biologists argue with creationists or 
 advocates of Intelligent Design about the effectiveness 
