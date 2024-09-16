@@ -6,6 +6,8 @@ author: Joe Felsenstein
 
 <figure><img src="uploads/pigeons.jpg" alt="[a nice image of fancy pigeons, coming soon]"><figcaption>by Karl Wagner, from a German encyclopedia of 1905, Meyers Großes Konversations-Lexikon, Volume 19, published in Leipzig.  From Wikimedia, public domain.</figcaption></figure>
 
+<p>&nbsp;</p>
+
 When evolutionary biologists argue with creationists or 
 advocates of Intelligent Design about the effectiveness 
 of natural selection, the biologists often use the example of 
