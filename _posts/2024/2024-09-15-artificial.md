@@ -29,7 +29,7 @@ the ways animals had been changed by breeding, both for
 food production or as pets.  "Natural selection" was named 
 in analogy to artificial selection.
 
-<!--More-->
+<!--more-->
 
 ## How much design is in Design? ##
 
