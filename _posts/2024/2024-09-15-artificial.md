@@ -4,7 +4,7 @@ date: 2024-09-15 12:00:00 -08:00
 author: Joe Felsenstein
 ---
 <div align="center">
-<figure><img src="/uploads/2024/636px-Wm19342a.jpg" alt="[a nice image of fancy pigeons]"><figcaption>by Karl Wagner, from a major German encyclopedia, Meyers Großes Konversations-Lexikon, Volume 19, published in 1909 in Leipzig.  From Wikimedia, figure in public domain.</figcaption></figure></div>
+<figure><img src="/uploads/2024/636px-Wm19342a.jpg" alt="[a nice image of fancy pigeons]"><figcaption>by Karl Wagner, from a major German encyclopedia, <em>Meyers Großes Konversations-Lexikon, Volume 19</em>em>, published in 1909 in Leipzig.  From Wikimedia, figure in public domain.</figcaption></figure></div>
 
 <p>&nbsp;</p>
 
@@ -21,14 +21,14 @@ We're going to go into why this is not a "gotcha"
 but is a mistaken analogy on their part.
 
 Artificial selection is a very old practice, dating 
-back to inadvertent selection when wild animals wwere 
+back to inadvertent selection when wild animals were 
 domesticated, with the wildest ones being eaten or chased 
 away, or they successfully escaped.  With the start of 
 agriculture, farmers often bred from their best animals 
 (or plants).   Charles Darwin paid close attention to 
 the ways animals had been changed by breeding, both for 
 food production or as pets.  He was particularly attentive 
-to the reesults of pigeon breeding. "Natural selection" was named 
+to the results of pigeon breeding. "Natural selection" was named 
 in analogy to artificial selection.
 
 <!--more-->
