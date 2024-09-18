@@ -1,6 +1,6 @@
 ---
 title: 'Partial lunar eclipse'
-date: '09-18-2024 10:26:00 -06:00'
+date: '2024-09-18 10:26:00 -06:00'
 author: Matt Young
 ---
 
