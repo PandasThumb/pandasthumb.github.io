@@ -9,6 +9,6 @@ author: Matt Young
 <figcaption>
 </figcaption>
 </figure><br/><br/><br/>
-<a href="https://www.timeanddate.com/eclipse/in/usa/boulder?iso=20240918">Partial lunar eclipse</a> as seen from Boulder, Colorado, approximately 8:40 local time. Also a <a href="https://www.space.com/harvest-moon-supermoon-lunar-eclipse-september-photos">supermoon</a>, but it was hard to tell with the naked eye. Not the best display ever, yet for some reason eclipses fascinate.<br/><br/>
+<a href="https://www.timeanddate.com/eclipse/in/usa/boulder?iso=20240918">Partial lunar eclipse</a> as seen from Boulder, Colorado, approximately 8:40 local time, yesterday. Also a <a href="https://www.space.com/harvest-moon-supermoon-lunar-eclipse-september-photos">supermoon</a>, but it was hard to tell with the naked eye. Not the best display ever, yet for some reason eclipses fascinate.<br/><br/>
 <i>To see comments on this post, click below.</i>
 <!--more-->
