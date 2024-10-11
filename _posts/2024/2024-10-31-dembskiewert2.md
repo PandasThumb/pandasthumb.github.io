@@ -67,3 +67,11 @@ Mill argued that if two situations differ in only one circumstance and a phenome
 
 This is basically a discussion of Michael Behe's argument that major innovations require multiple mutations, each of which is individually disadvantageous, with an advantage only when they get together.  It is extremely improbable that these can be brought together by natural selection.
 
+### What to Make of Bad Design (pages 353 to 368)  ###
+
+Bad design arguments are not plausible for a number of reasons.  Quotes from "some naturalistic thinkers" who do not think there is actual design but are impressed with the design of the  cell.  These include James Shapiro.  Discussion of whether there is junk DNA, giving great credit to the 2012 (supposed) refutation of junk DNA by the ENCODE Consortium.  An embarrassing quote by Richard Dawkins in 2012 accepting the ENCODE result and arguing that it is compatible with his views.
+
+### Doing the Calculation (pages 368-378) ###
+
+(At last, are we to be shown how?  Well, partly.)  Calculates the probability of a "biological system", using protein folds as one example, invoking Douglas Axe's experiments which find that
+
