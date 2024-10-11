@@ -73,5 +73,18 @@ Bad design arguments are not plausible for a number of reasons.  Quotes from "so
 
 ### Doing the Calculation (pages 368-378) ###
 
-(At last, are we to be shown how?  Well, partly.)  Calculates the probability of a "biological system", using protein folds as one example, invoking Douglas Axe's experiments which find that
+(At last, are we to be shown how?  Well, partly.)  Calculates the probability of a "biological system", using protein folds as one example, invoking Douglas Axe's experiments which find that NEED MORE HERE
+
+### The Breakdown of Evolvability (pages 378-381) ###
+
+"whence the confidence that Darwinian evolution should allow untrammeled interconnectivity from any one living form to any other, whether by direct evolution or by indirect evolution from a common evolutionary precursor?"  Talks about protein alphabets, then uses a word game of changing a letter in a word, or deleting it, or adding a letter to change to another English word.  Argues that one cannot go from any word to any other this way.  Therefore although we have not proven that such interconnectedness in biological organisms cannot exist, we have shown it may not exist.  Therefore "there are indeed good reasons to think that a gradualist Darwinian form of evolution is very limited in what it can accomplish in biology, and that some features of biological systems not only resist Darwinian explanations but also invite design inferences".  (This last part, the "some features" part, does not follow).
+
+### Where to Look for Small Probabilities in Biology? (pages 382-394)
+
+This, the last section in Chapter 7, talks about Michael Behe's arguments about Irreducible Complexity.  Lots of discussion of how the bacterial flagellum could or could not have arisen.  Evolutionary biologists never seem to come up with a detailed series of steps.
+
+### What have Dembski and Ewert accomplished ###
+
+Of the questions I asked above, they have not answered most of them
+
 
