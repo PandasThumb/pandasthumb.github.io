@@ -38,7 +38,7 @@ asked before in posts and comments about their ASC criterion for design inferenc
 4. Is the probability somehow able to take into account the possibility of natural selection building up such
 large difference step by step?
 
-Chapter 7 has a number of sections.  Let me describe briefly what each covers, and what it accomplishes:
+Chapter 7 has a number of sections.  Let me describe briefly what each covers, and what it accomplishes.  I will summarize their arguments.  I will add comments of my own, in parentheses:
 
 ### Insulating Evolution against Small Probabilities (pages 321-326) ##
 
@@ -48,11 +48,11 @@ probabilities that small.  They have done so by invoking mechanisms of cumulativ
 ### Variations on the WEASEL (pages 326-330) ###
 
 Evolutionary biologists are obsessed by the Weasel example (I would say it is creationists and advocates of Design that 
-are actually the ones obsessed with it). "Perhaps design theorists should shift focus to the origin of life".  (The infamous OTOOL tactic -- Off To the Origin Of Life).  There cumulative selection cannot play a role, they argue.  Simulations like the Weasel are declared to be "suggestive but misleading, so removed from biological reality that they cannot decide the matter".
+are actually the ones obsessed with it). "Perhaps design theorists should shift focus to the origin of life".  (The infamous OTOOL diversion -- Off To the Origin Of Life).  There cumulative selection cannot play a role, they argue.  Simulations like the Weasel are declared to be "suggestive but misleading, so removed from biological reality that they cannot decide the matter".
 
 ### Resetting Darwinian Evolution's Bayesian Prior (pages 331-336) ###
 
-Considering the choice between design and natural selection as a Bayesian Inference, it is important what prior probabilities one assigns these two hypotheses.  If one gives design a low enough prior probability, it cannot have any reasonably high posterior probability.  A design inference can be used to "sweep the field clear of all relevant chance hypotheses". (Actually they could only do that if they could show that the probability of the data, given natural selection, was zero, but Demsbki and Ewert don't quite mean that, they mean showing that the data is astronomically improbable).  Biologists argue that there may be many other "chance hypotheses", but this is an argument but mere possibility as they do not produce these.
+Considering the choice between design and natural selection as a Bayesian Inference, it is important what prior probabilities one assigns these two hypotheses.  If one gives design a low enough prior probability, it cannot have any reasonably high posterior probability.  A design inference can be used to "sweep the field clear of all relevant chance hypotheses". (Actually they could only do that if they could show that the probability of the data, given natural selection, was zero, but Demsbki and Ewert don't quite mean that, they mean showing that the data is astronomically improbable).  Biologists argue that there may be many other "chance hypotheses", but this is an argument but mere possibility as they they do not produce these.
 
 ### Who Is Arguing from Ignorance? (pages 337-339) ###
 
@@ -64,4 +64,6 @@ The biologists are, since they essentially never produce the exact sequence of e
 Mill argued that if two situations differ in only one circumstance and a phenomenon occurs in one and not in the other, this circumstance is the effect, or cause.   Biologists such as Kenneth Miller say that all that is needed for natural selection to work is the presence of selection, replication, and mutation.  But these do not automatically lead to "complexity" or something "interesting".  The evolution experiments of Sol Spiegelman and of Richard Lenski do not show those, but have genomes that rapidly decay.
 
 ### The Challenge of Multiple Simultaneous Mutations (pages 345-352) ###
+
+This is basically a discussion of Michael Behe's argument that major innovations require multiple mutations, each of which is individually disadvantageous, with an advantage only when they get together.  It is extremely improbable that these can be brought together by natural selection.
 
