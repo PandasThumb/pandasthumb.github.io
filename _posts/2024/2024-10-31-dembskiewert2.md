@@ -73,7 +73,7 @@ Bad design arguments are not plausible for a number of reasons.  Quotes from "so
 
 ### Doing the Calculation (pages 368-378) ###
 
-(At last, are we to be shown how?  Well, partly.)  Calculates the probability of a "biological system", using protein folds as one example, invoking Douglas Axe's experiments which find that NEED MORE HERE
+(At last, are we to be shown how?  Well, partly.)  Calculates the probability of a "biological system", using protein folds as one example, invoking Douglas Axe's experiments which find that only one in 10<sup>-77</sup> randomly constructued proteins were
 
 ### The Breakdown of Evolvability (pages 378-381) ###
 
