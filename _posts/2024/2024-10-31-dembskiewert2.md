@@ -38,7 +38,7 @@ asked before in posts and comments about their ASC criterion for design inferenc
 4. Is the probability somehow able to take into account the possibility of natural selection building up such
 large difference step by step?
 
-Chapter 7 has a number of sections.  Let me describe briefly what each covers, and what it accomplishes.  I will summarize their arguments.  I will add comments of my own, in parentheses:
+Chapter 7 has a number of sections.  Let me describe briefly what each covers, and what it accomplishes.  I will summarize their arguments.  I will add comments of my own, in parentheses, or explicitly identified:
 
 ### Insulating Evolution against Small Probabilities (pages 321-326) ##
 
@@ -73,7 +73,11 @@ Bad design arguments are not plausible for a number of reasons.  Quotes from "so
 
 ### Doing the Calculation (pages 368-378) ###
 
-(At last, are we to be shown how?  Well, partly.)  Calculates the probability of a "biological system", using protein folds as one example, invoking Douglas Axe's experiments which find that only one in 10<sup>-77</sup> randomly constructued proteins were
+(At last, are we to be shown how?  Well, partly.)  Calculates the probability of a "biological system", using protein folds as one example, invoking Douglas Axe's experiments which that only one in 10<sup>-77</sup> randomly constructed proteins would have enough of the proper structure and sequence 
+to make a minimally functional &beta;-lactamase enzyme.  Axe's paper was in <em>Journal of Molecular Biology</em>, volume 341, issue 5, page 1295 in 2004. The argument is based on the view that to get started evolving a &beta;-lactamase enzyme one must have random assembly of such a protein, before natural selection can act. The example uses the protein sequence, with a 20-letter alphabet, as the string, equivalent to about a 648-bit string.  Dembski and 
+Ewert do not try to quantitate the length of the "description" needed.  They acknowledge that evolutionary biologistss would argue that there might be other paths to the same functionality, without using these specific structures.
+
+What 
 
 ### The Breakdown of Evolvability (pages 378-381) ###
 
