@@ -38,7 +38,7 @@ asked before in posts and comments about their ASC criterion for design inferenc
 4. Is the probability somehow able to take into account the possibility of natural selection building up such
 large difference step by step?
 
-Chapter 7 has a number of sections.  Let me describe briefly what each covers, and what it accomplishes.  I will summarize their arguments.  I will add comments of my own, in parentheses, or explicitly identified:
+Chapter 7 has a number of sections.  Let me describe briefly what each covers, and what it accomplishes.  I will summarize their arguments.  I will add comments of my own, in parentheses, or otherwise explicitly identified:
 
 ### Insulating Evolution against Small Probabilities (pages 321-326) ##
 
