@@ -43,7 +43,7 @@ Chapter 7 has a number of sections.  Let me describe briefly what each covers, a
 ### Insulating Evolution against Small Probabilities (pages 321-326) ##
 
 Dembski and Ewert describe the success and wide acceptance of their design inference in evolutionary biology.  They then say "And now back to the real world".  The success and acceptance, they accept, has not happened in reality.  This is because evolutionary biologists have been resistant to accepting that evolution of biological systems involves 
-probabilities that small.  They have done so by invoking mechanisms of cumulative selection.  As an example Dembski and Ewert describe Richard Dawkins's teaching example of a simple form of simulated natural selection starting with a random 28-letter sequence of letters and spaces, and reaching the target phrase "METHINKS IT IS LIKE A WEASEL" in hundreds or thousands of steps, instead of the 10<sup>40</sup> steps it would take if one simply drew new 28-letter sequences at random.
+probabilities that small.  The evolutionary biologists have done so by invoking mechanisms of cumulative selection.  As an example Dembski and Ewert describe Richard Dawkins's teaching example of a simple form of simulated natural selection starting with a random 28-letter sequence of letters and spaces, and reaching the target phrase "METHINKS IT IS LIKE A WEASEL" in hundreds or thousands of steps, instead of the 10<sup>40</sup> steps it would take if one simply drew new 28-letter sequences at random.
 
 ### Variations on the WEASEL (pages 326-330) ###
 
@@ -56,7 +56,7 @@ Considering the choice between design and natural selection as a Bayesian Infere
 
 ### Who Is Arguing from Ignorance? (pages 337-339) ###
 
-The biologists are, since they essentially never produce the exact sequence of events needed to evolve these biological systems.  However, they accuse the design theorists of arguing from ignorance.
+The biologists are, since they essentially never produce the exact sequence of events needed to evolve these biological systems.  However, the biologists accuse the design theorists of arguing from ignorance.
 
 
 ### John Stuart Mill's Method of Difference (pages 340-345) ###
@@ -88,6 +88,10 @@ This, the last section in Chapter 7, talks about Michael Behe's arguments about 
 
 ### What have Dembski and Ewert accomplished? ###
 
-Of the questions I asked above, they have not answered most of them
+Of the questions I asked above, they have not answered most of them.   The one example that they give that involves a sequence of digital symbol 
+asks about the probability of a protein sequence arising from random sequences of amino acids.  Wahat they give is really not an Algorithmically 
+Specified Complexity agument, but a much older argument.  It was made by Murray Eden and by Marcel-Paul Schuetzenberger in 1966 in the Wistar 
+Instititue Symposium, published in 
+1967 as <em>Mathematical Challenges to the Nei-Darwinian Interpretation of Evolution</em>
 
 
