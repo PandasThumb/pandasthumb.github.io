@@ -13,7 +13,7 @@ a design inference? <em>Wikimedia, public domain</em></figcaption></figure></div
 
 <p>&nbsp;</p>
 
-In my <a href="https://pandasthumb.github.io/posts/2024/2024-06-12-dembskiewert1.html">post of 12 June</a>, I commented on the first part of William 
+In my <a href="https://pandasthumb.github.io/_posts/2024/2024-06-12-dembskiewert1.html">post of 12 June</a>, I commented on the first part of William 
 Dembski and Winston Ewert's new book, the second edition of Dembski's 
 1998 book <em>The Design Inference: Eliminating Chance 
 Through Small Probabilities</em>.   I noted that to make the argument 
