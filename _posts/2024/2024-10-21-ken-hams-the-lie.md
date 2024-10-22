@@ -4,11 +4,9 @@ date: '2024-10-21 12:00:00 -06:00'
 author: Paul Braterman
 ---
 
-<figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
+<div align="center"><figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
 <img src="/uploads/2024/Braterman_Lie_Cover_600.jpg" alt="Book cover"/>
-<figcaption><a href=""></a>
-</figcaption>
-</figure>
+</figure></div>
 
 <i>The following is a review of <a href="https://www.amazon.com/Lie-Unraveling-Evolution-Millions-Years-ebook/dp/B0DD4YLQRQ/">The Lie</a>, by Ken Ham (Master Book, 2024), and a comparison of the 1987, 2012, and 2024 editions. A longer article appeared <a href="https://3quarksdaily.com/3quarksdaily/2024/10/reviewed-ken-hams-the-lie-unravelling-the-myth-of-evolution-millions-of-years-and-why-we-need-to-pay-attention.html">here</a> in 3 Quarks Daily.</i>
 
@@ -21,16 +19,21 @@ author: Paul Braterman
 <figcaption><a href=""></a>Cover of an earlier book, <i>The Bible and Modern Science</i>, by Henry Morris.
 </figcaption>
 </figure> 
+
+<!--more-->
+
 <p>A decade before <i>The Genesis Flood</i>, Henry Morris had written a much shorter book, <i>The Bible and Modern Science</i>, whose final chapter is devoted to claims that biblical prophecies are being fulfilled in our own times, and are signs of Christ’s imminent return. Prominent among these is the return of Jews to their ancestral homeland. Similar thinking explains why US fundamentalist evangelicals are now among Israel’s most unquestioning supporters. 
 <p>I have recently reviewed at length the 1987 (1st ed.) and 2024 (3rd ed.) versions of <i>The Lie</i>, and the differences between them. Here I will use material from that review to comment on some of the most extraordinary aspects of the work, draw attention to the narrowness of Ham’s portrayal of Christianity, and discuss the changes between the two editions. 
 <p>Ham himself  tells us that it was <i>The Lie</i> that positioned Answers in Genesis as a biblical authority ministry. That’s not true. When it was published in 1987, Ham was still an employee of Morris’ Institute for Creation Research, while his own organization was not incorporated until 1993, amid much unseemly and litigious infighting, and its title, Answers in Genesis, only dates from 1994.</p>
 <p>Ham’s approach is unsubtle, uncompromising, and unburdened with excess erudition. It is also completely devoid of originality, since all the ideas he expresses are already there in the writings of Henry Morris and his precursors. The book describes itself as concerned with “the foundational nature of the book of Genesis to all Christian doctrine.” By “the book of Genesis,” Ham means a plain literal meaning, with a 6-day 24-hour creation, ignoring two millennia of exegesis and two centuries of literary and archaeological scholarship, and reducing the beautiful, complex, many-layered text to a cardboard cutout.</p>
 <p>The title of the first chapter tells us that “Christianity is Under Attack,” or, in the third edition, “Under Massive Attack.” Modern society has moved away from Christ, but the book promises to outline “a Biblical (and therefore successful)” approach.</p>
+
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
 <img src="/uploads/2024/Braterman_Lie_Hostile flags_600.jpg" alt="Hostile flags figure"/>
-<figcaption><a href=""></a> Hostile Flags. <small>3rd ed., p. 23, fair use. </small>
+<figcaption>Hostile Flags. <small>3rd ed., p. 23, fair use. </small>
 </figcaption>
 </figure> 
+
 <p>The third edition takes the opportunity to claim victimhood for Christianity, and to attack an unspecified secular wokeness, signaling the book’s political tendency. It then shows the attached figure listing what it regards as our contemporary ills, all caused by a falling away from Ham’s version of Christianity.</p>
 <p>This is an extraordinary list. Something very strange is happening when those who call themselves followers of Christ object to the idea of social justice. Of the 16 items on this list, seven (CRT, Inclusion, Identity Politics, Social Justice, Mandates, Intersectionality, and Woke) express political views, with some of which one might have expected a follower of Jesus to sympathise, and none bear any relationship to the book’s ostensive agenda.</p>
 <p>It gets worse. The third edition at this point questions the concept of separation of church and state, asserts that the public education system is not neutral, since it teaches naturalistic explanations, quotes Matthew 12:30 that one is either for Christ or against him, and says that</p>
@@ -41,11 +44,12 @@ author: Paul Braterman
 <p>Ham uses the familiar creationist argument that the study of the past, as in evolution science, is not science at all. For science involves repeatable observations, and the past is unrepeatable. He boasts of how he used this argument, in his school-teaching days, to undermine his colleagues’ teaching. It is also very attractive argument, since those who accept it believe that they have been granted a superior insight.</p>
 <p>At this point, The third edition tells us that
 <blockquote><p>At the Creation Museum, we summarize biblical history as the Seven C’s of History — Creation, Corruption, Catastrophe, Confusion, Christ, Cross, and Consummation.</p></blockquote>
+
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
 <img src="/uploads/2024/Braterman_Lie_Seven Cs_600.jpg" alt="Seven C's of Ken Ham"/>
-<figcaption><a href=""></a> The Seven C's of Ken Ham. <small>3rd ed., p. 58, fair use.</small>
-</figcaption>
+<figcaption>The Seven C's of Ken Ham. <small>3rd ed., p. 58, fair use.</small></figcaption>
 </figure> 
+
 <p>As Susan and William Trollinger point out in their book about the Museum, these 7 C’s are strongly reminiscent of the 7 D’s of dispensationalism, a <a href="https://en.wikipedia.org/wiki/Premillennialism">premillennialist</a> interpretation of history.</p>
 <p>Ham appears completely oblivious of the fact that his own interpretation of Genesis is heavily laden with assumptions. Or if he is, he no doubt attributes them to the operation within him of the Holy Spirit.</p>
 <p>Ham argues that Christians who accept the findings of secular science are being inconsistent. If they choose to accept millions of years, they have succumbed to the disease of naturalism, of which evolutionism is merely a symptom. And naturalism is itself a religion, since by denying God’s role it is a form of atheism.</p>
@@ -73,12 +77,12 @@ author: Paul Braterman
 <p>He then summarizes his arguments to date by a cartoon showing two opposing castles. The castle of Christianity is wasting its ammunition by firing at specific targets, while evolution, guided by Satan, attacks the Christian doctrine of creation. Such at least is what we see in the 1987 version of the cartoon, which has been discussed here before. It is one of many such drawings scattered throughout the book, which do have a certain faux naïve charm. The 2024 version, by contrast, looks so bad that I wonder whether it is AI-generated. But notice the reference in the later version to Revelation.</p>
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
 <img src="/uploads/2024/Braterman_Lie_Castles old_600.jpg" alt="Old castles figure"/>
-<figcaption><a href=""></a>Warring Castles. <small>1st ed., p.92, fair use.</small>
+<figcaption>Warring Castles. <small>1st ed., p.92, fair use.</small>
 </figcaption>
 </figure> <br/>
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
 <img src="/uploads/2024/Braterman_Lie_Castle new_600.jpg" alt="New castles figure, in color"/>
-<figcaption><a href=""></a> Warring Castles, new figure, in color. <small>3rd ed. p. 178, fair use.</small>
+<figcaption>Warring Castles, new figure, in color. <small>3rd ed. p. 178, fair use.</small>
 </figcaption>
 </figure> 
 <p>Chapter 10, Wake Up, Shepherds! repeats the message that the only sound preaching is based on one particular interpretation of Genesis. Both editions go out of their way to attack and belittle Darwin, as is usual, but the third edition adds a remark so outrageous, that I cannot forbear from comment:
