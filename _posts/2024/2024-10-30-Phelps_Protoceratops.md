@@ -39,7 +39,7 @@ The _Protoceratops_ specimens from Mongolia are found in the Late Cretaceous Dja
 
 The new display at the Creation Museum is rather short on describing the Djadochta Formation. It literally cartoonishly contrasts the &ldquo;Naturalistic Evolutionist&rdquo; versus &ldquo;Biblical Creationist&rdquo; interpretation with actual cartoons depicting the burial of _Protoceratops_. The display simplistically claims &ldquo;Naturalistic Evolutionists&rdquo; think that _Protoceratops_ was buried by eolian (wind-driven) dunes during sandstorms, while they claim the dinosaurs were drowned and buried by underwater sandslides, driven by currents, during Noah&rsquo;s Flood. The Creation Museum display only presents a tiny amount of selective evidence for their view, then declares victory over the &ldquo;Naturalistic Evolutionists.&rdquo; A September 29, 2024 &ldquo;X&rdquo; (formerly Twitter) post by Ken Ham includes a photo of part of the display. The main portion of the signage reads:
 
-> &ldquo;<strong>DUNES OF DEATH</strong>
+> <strong>DUNES OF DEATH</strong>
 >
 > WATER OR WIND?
 >
@@ -76,7 +76,7 @@ There is also an enormous literature on the taphonomy (the study of the death an
 
 Perhaps the most famous Djadochta Formation fossil is a specimen found by the Polish-Mongolian expedition of 1971. This amazing fossil is of a _Velociraptor_ associated, perhaps during interspecific combat, with a _Protoceratops_. This is illustrated in Jerzykiewicz _et al_. (1993, Figure 11). Barsbold (2016) defends the idea that these dinosaurs were rapidly buried in the act of the _Velociraptor_ attacking the _Protoceratops_. While scenarios where the fighting dinosaurs were buried during a dune collapse or sandstorm seem plausible, sudden burial of both animals together underwater does not.
 
-## >Other Vertebrate Fossils ##
+## Other Vertebrate Fossils ##
 
 Besides _Protoceratops, _there are numerous other dinosaurs and terrestrial vertebrates to be found in the Djadochta Formation (see <a href="https://en.wikipedia.org/wiki/Djadochta_Formation">https://en.wikipedia.org/wiki/Djadochta_Formation</a> for a list). Especially important non-dinosaur fossils are the Mesozoic mammals discussed in Kieran-Jaworowska (2013) and elsewhere.
 
