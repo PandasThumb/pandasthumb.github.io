@@ -106,11 +106,11 @@ Moreover, AiG literature usually insist that theirs is **THE** Biblical worldvie
 
 In a YouTube video, Snelling (2022), in an interview with AiG&rsquo;s Simon Turpin, gives his game away by stating their work is really about religious conversion rather than science:
 
-> ##Dr. Andrew Snelling##: &ldquo;&hellip;as I said to make sure that this is all freely is available to skeptics and you know arming all our people with the evidence. And of course there&rsquo;ll be further articles in Answers Magazine, on our website, [and] live articles, because <strong>_we want to be able to explain all this in more lay terms so that the average person can be armed with this information to go out and use it as a witnessing tool_</strong> because, after all, Simon, <strong>_you know it&rsquo;s not about winning a scientific argument, you know, it&rsquo;s about removing stumbling blocks that people raise to listening to the Gospel that people need to respond to. And you know we can argue about the scientific evidence until the cows come home, but the bottom line is you can convince people that there is a Flood, but unless you&rsquo;re convinced that they need to respond to Jesus Christ as their Savior, they&rsquo;ll go to Hell._</strong>&rdquo;
+> **Dr. Andrew Snelling**: &ldquo;&hellip;as I said to make sure that this is all freely is available to skeptics and you know arming all our people with the evidence. And of course there&rsquo;ll be further articles in Answers Magazine, on our website, [and] live articles, because <strong>_we want to be able to explain all this in more lay terms so that the average person can be armed with this information to go out and use it as a witnessing tool_</strong> because, after all, Simon, <strong>_you know it&rsquo;s not about winning a scientific argument, you know, it&rsquo;s about removing stumbling blocks that people raise to listening to the Gospel that people need to respond to. And you know we can argue about the scientific evidence until the cows come home, but the bottom line is you can convince people that there is a Flood, but unless you&rsquo;re convinced that they need to respond to Jesus Christ as their Savior, they&rsquo;ll go to Hell._</strong>&rdquo;
 >
-> ##Simon Turpin##: &ldquo;Amen Andrew, we&rsquo;re going to end in a minute.&rdquo;
+> **Simon Turpin**: &ldquo;Amen Andrew, we&rsquo;re going to end in a minute.&rdquo;
 >
-> \[##_Emphasis added by DP_##\]
+> \[**_Emphasis added by DP_**\]
 
 Snelling comes clean by admitting that creationist &ldquo;science&rdquo; is all about religious conversion. Creationists reach their conclusions by ignoring large swaths of evidence that is contradictory to their dogma and sticking to predetermined conclusions, the evidence be damned. Actual science, in stark contrast, draws its interpretations from looking at multiple lines of evidence.
 
