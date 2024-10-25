@@ -44,11 +44,6 @@ author: Paul Braterman
 <p>At this point, The third edition tells us that
 <blockquote><p>At the Creation Museum, we summarize biblical history as the Seven C’s of History — Creation, Corruption, Catastrophe, Confusion, Christ, Cross, and Consummation.</p></blockquote>
 
-<figure>
-<img src="/uploads/2024/Braterman_Lie_Seven Cs_600.jpg" alt="Seven C's of Ken Ham"/>
-<figcaption>The Seven C's of Ken Ham. <small>3rd ed., p. 58, fair use.</small></figcaption>
-</figure> 
-
 <p>As Susan and William Trollinger point out in their book about the Museum, these 7 C’s are strongly reminiscent of the 7 D’s of dispensationalism, a <a href="https://en.wikipedia.org/wiki/Premillennialism">premillennialist</a> interpretation of history.</p>
 <p>Ham appears completely oblivious of the fact that his own interpretation of Genesis is heavily laden with assumptions. Or if he is, he no doubt attributes them to the operation within him of the Holy Spirit.</p>
 <p>Ham argues that Christians who accept the findings of secular science are being inconsistent. If they choose to accept millions of years, they have succumbed to the disease of naturalism, of which evolutionism is merely a symptom. And naturalism is itself a religion, since by denying God’s role it is a form of atheism.</p>
