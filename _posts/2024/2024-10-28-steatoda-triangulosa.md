@@ -5,7 +5,7 @@ author: Matt Young
 ---
 
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
-<img src="/uploads/2024/DSC05741_Spider_Beetle_600.jpg" alt=" Triangular cobweb spider with assassin bug"/>
+<img src="/uploads/2024/DSC05741_Spider_Beetle_600.jpg" alt="Triangular cobweb spider with assassin bug"/>
 <figcaption><a href=""></a><i></i>
 </figcaption>
 </figure> 
