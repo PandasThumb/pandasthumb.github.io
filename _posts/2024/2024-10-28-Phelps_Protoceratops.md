@@ -48,7 +48,7 @@ The _Protoceratops_ specimens from Mongolia are found in the Late Cretaceous Dja
 <br/>
 <figcaption>Fig. 2. 
 <em>Protoceratops</em> display, comparing "evolutionist" versus
-creationist explanations of fossilization. <From Ken
+creationist explanations of fossilization. From Ken
 Ham’s blog. Fair use.
 </figcaption></figure>
 </div><p>&nbsp;</p>
