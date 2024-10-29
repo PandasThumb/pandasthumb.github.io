@@ -7,7 +7,7 @@ author: Daniel Phelps
 <div align="center">
 <img src="/uploads/2024/Phelps_Protoceratops_Fossil_600.jpg" width=300px alt="[Protoceratops image]"/><br/>
 <figcaption>
-Figure 1. Photo of Protoceratops in the Field Museum, Chicago.
+Figure 1. Photo of <em></em>Protoceratops</em> in the Field Museum, Chicago.
 Photograph by Dan Phelps.
 </figcaption>
 </div><p>&nbsp;</p>
@@ -47,7 +47,7 @@ The _Protoceratops_ specimens from Mongolia are found in the Late Cretaceous Dja
 <img src="/uploads/2024/Phelps_Protoceratops_Museum_Exhibit_600.jpg" width=300px alt="[AiG Protoceratops display image]"/>
 <br/>
 <figcaption>Fig. 2. 
-Protoceratops display, comparing "evolutionist" versus
+<em>Protoceratops</em> display, comparing "evolutionist" versus
 creationist explanations of fossilization. <From Ken
 Ham’s blog. Fair use.
 </figcaption></figure>
