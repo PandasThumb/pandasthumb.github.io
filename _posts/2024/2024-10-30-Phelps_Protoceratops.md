@@ -5,10 +5,10 @@ author: Daniel Phelps
 ---
 
 <div align="center">
-<img src="https://github.com/PandasThumb/pandasthumb.github.io/blob/source/uploads/2024/Phelps_Protoceratops_Museum_Exhibit_600.jpg" alt="[Protoceratops image]"/>
+<img src="https://github.com/PandasThumb/pandasthumb.github.io/blob/source/uploads/2024/Phelps_Protoceratops_Fossil_600.jpg" width=300px alt="[Protoceratops image]"/>
 <figcaption>
 Figure 1. Photo of Protoceratops in the Field Museum, Chicago.
-<small></small>Photograph by Dan Phelps.</small>
+<small>Photograph by Dan Phelps.</small>
 </figcaption>
 </div>
 Since at least May, 2024, the Creation Museum and Ken Ham have been discussing a new display, meant to describe the dinosaur _Protoceratops_ being drowned in the Biblical Flood of Noah (see for example [https://creationmuseum.org/blog/2024/05/24/new-dinosaur-exhibit-coming-to-creation-museum/](https://creationmuseum.org/blog/2024/05/24/new-dinosaur-exhibit-coming-to-creation-museum/) and <a href="https://answersingenesis.org/blogs/ken-ham/2024/07/14/most-detailed-protoceratops-world/">https://answersingenesis.org/blogs/ken-ham/2024/07/14/most-detailed-protoceratops-world/</a>). This display finally opened in late October, 2024. Figure 1 is the original mock-up of this ridiculous display from Ken Ham&rsquo;s blog. Pictures of the display are available on several Answers in Genesis&rsquo; and Ken Ham&rsquo;s social media pages. Long (2024) describes the artwork going into this new display. Although the artwork depicting the dinosaur itself is excellent, the display has absurd, inaccurate, misleading, and dishonest information on the depositional environment of the surrounding sediment and the taphonomy of _Protoceratops_ and other Cretaceous vertebrate fossils of Mongolia.
@@ -44,7 +44,7 @@ _Protoceratops_ was discovered in 1923 by scientists working for the American Mu
 The _Protoceratops_ specimens from Mongolia are found in the Late Cretaceous Djadochta (sometimes spelled Djadokata or Djadokhta) Formation. The Djadochta is primarily a reddish colored fine- to medium-grained well-sorted quartz sandstone. There are minor amounts of conglomerates, siltstones, and calcareous nodule layers to be found in the unit. Regionally, the Djadochta is approximately 90 m (~300 feet) thick. Many of the beds are cross-bedded, but some are massive and do not show apparent sedimentary structures. Good descriptions, including stratigraphic columns, of the unit, can be found in Dingus and Loope (2000); Dingus _et al_. (2008); Fastovsky _et a_l. (1997); Jerzykiewicz (1997 and 2000); Jerzykiewicz and Russell (1991); Jerzykiewicz _et al_. (1993); Loope _et al. _(1998); Loope _et al_. (1999); and Shuvalov (2000). Wikipedia also has a very general description of the unit and cites some of the primary literature.
 
 <div align="center"><figure>
-<img src="https://github.com/PandasThumb/pandasthumb.github.io/blob/source/uploads/2024/Phelps_Protoceratops_Fossil_600.jpg" alt="[AiG Protoceratops display image]"/>
+<img src="https://github.com/PandasThumb/pandasthumb.github.io/blob/source/uploads/2024/Phelps_Protoceratops_Museum_Exhibit_600.jpg" width="300px" alt="[AiG Protoceratops display image]"/>
 <figcaption>Fig. 2. 
 Protoceratops display, comparing "evolutionist" versus
 creationist explanations of fossilization. <small>From Ken
@@ -79,7 +79,7 @@ A number of features characterize eolian deposits in the rock record, but no sin
 
 <div align="center">
 <figure>
-<img src="https://github.com/PandasThumb/pandasthumb.github.io/blob/source/uploads/2024/Phelps_Protoceratops_Humans_Vs_Dinosaur_600.jpg" alt="[Giants-dinosaur-human death match image]"/>
+<img src="https://github.com/PandasThumb/pandasthumb.github.io/blob/source/uploads/2024/Phelps_Protoceratops_Humans_Vs_Dinosaur_600.jpg" width=300px alt="[Giants-dinosaur-human death match image]"/>
 <figcaption>Fig. 3. 
 AiG dinosaur-related display at the Ark Encounter: Giants and
 humans in a three-way death match with the dinosaur
