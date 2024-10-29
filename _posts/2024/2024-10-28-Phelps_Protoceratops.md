@@ -88,7 +88,7 @@ use.
 </figcaption>
 </figure></div><p>&nbsp;</p>
 So, what is the source for the creationist misinformation on the Djadochta Formation? I have only been able to find two discussions in the creationist literature, both by AiG geologist, Dr. Andrew Snelling (1998 and 2009).
-
+<p>&nbsp;</p>
 In Snelling (1998), he discusses unnamed creationists considering the possibility of the Djadochta Formation being post-Flood; as silly as this is, it would be a convenient way to accept the overwhelming evidence for eolian deposition. Snelling (2008) also represents Loope _et al_. (1998) as somehow denying eolian deposits because of their proposal that the structureless sands were the result of sandslides that occurred suddenly during more humid (mesic) conditions. Snelling tries very hard to imply to his readers that since rainfall/water is involved, the rocks and fossils are somehow consistent with Flood geology. Putting the short review paper by Snelling side by side with the research by Loope _et al_. (1998) just doesn&rsquo;t jive. To be charitable, perhaps Dr. Snelling didn&rsquo;t understand the conclusions of Loope _et al_. (1998).
 
 Snelling (2009, pp. 547 - 549) appears to be the source of a lot of the misinformation on the Creation Museum&rsquo;s signage associated with the _Protoceratops_ display. The signage and Snelling use almost identical language when discussing the cross-bedding slope angles. Lang (2024) discusses the artwork and signage of the new exhibit; one can conclude that the exhibit designer&rsquo;s used Snelling (2009) as their major inspiration.
