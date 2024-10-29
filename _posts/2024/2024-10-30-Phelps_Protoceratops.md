@@ -4,7 +4,13 @@ date: 2024-10-30 12:00:00 -08:00
 author: Daniel Phelps
 ---
 
-
+<div align="center">
+<img src="" alt="[Protoceratops image]"/>
+<figcaption>
+Photo of Protoceratops in the Field Museum, Chicago.
+<small></small>Photograph by Dan Phelps.</small>
+</figcaption>
+</div>
 Since at least May, 2024, the Creation Museum and Ken Ham have been discussing a new display, meant to describe the dinosaur _Protoceratops_ being drowned in the Biblical Flood of Noah (see for example [https://creationmuseum.org/blog/2024/05/24/new-dinosaur-exhibit-coming-to-creation-museum/](https://creationmuseum.org/blog/2024/05/24/new-dinosaur-exhibit-coming-to-creation-museum/) and <a href="https://answersingenesis.org/blogs/ken-ham/2024/07/14/most-detailed-protoceratops-world/">https://answersingenesis.org/blogs/ken-ham/2024/07/14/most-detailed-protoceratops-world/</a>). This display finally opened in late October, 2024. Figure 1 is the original mock-up of this ridiculous display from Ken Ham&rsquo;s blog. Pictures of the display are available on several Answers in Genesis&rsquo; and Ken Ham&rsquo;s social media pages. Long (2024) describes the artwork going into this new display. Although the artwork depicting the dinosaur itself is excellent, the display has absurd, inaccurate, misleading, and dishonest information on the depositional environment of the surrounding sediment and the taphonomy of _Protoceratops_ and other Cretaceous vertebrate fossils of Mongolia.
 
 The Creation Museum and Ark Encounter, both owned by the Young Earth Creationistministry Answers in Genesis (AiG), espouse that the fossil record is a result of Noah&rsquo;s Flood which occurred in 2348 BC. All employees of AiG must sign off on a &ldquo;Statement of Faith&rdquo; (<a href="https://answersingenesis.org/about/faith/">https://answersingenesis.org/about/faith/</a>), that states in part:
@@ -24,6 +30,16 @@ Because of their weird dogma, AiG has an unusual take on dinosaurs and other pre
 Answers in Genesis original dinosaur modeler and country singer, the recently deceased Buddy Davis, even has a children&rsquo;s song that cultishly is meant to repeat Ken Ham&rsquo;s catchphrase dogma that the fossil record is &ldquo;Billions of dead things, buried in rock layers, laid down by water, all over the earth.&rdquo; Davis gets children to repeat this again and again to music, a very effective indoctrination technique. The song can be heard in part here <a href="https://answersingenesis.org/media/audio/audio-archives/billions-dead-things-sample/">https://answersingenesis.org/media/audio/audio-archives/billions-dead-things-sample/</a> (Davis, ND).
 
 The new _Protoceratops_ display continues this stream of indoctrination and misinformation.
+
+
+<div align="center">
+<img src="" alt="[Protoceratops image]"/>
+<figcaption>
+Protoceratops display, comparing "evolutionist" versus
+creationist explanations of fossilization. <small>From Ken
+Ham’s blog. Fair use.</small>
+</figcaption>
+</div>
 
 ## _Protoceratops_ ##
 
