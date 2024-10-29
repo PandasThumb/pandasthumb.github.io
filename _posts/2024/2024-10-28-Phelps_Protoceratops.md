@@ -5,7 +5,7 @@ author: Daniel Phelps
 ---
 
 <div align="center">
-<img src="/uploads/2024/Phelps_Protoceratops_Fossil_600.jpg" width=300px alt="[Protoceratops image]"/><br/>
+<img src="/uploads/2024/Phelps_Protoceratops_Fossil_600.jpg" width="300px" alt="[Protoceratops image]"/><br/>
 <figcaption>
 Figure 1. Photo of <em></em>Protoceratops</em> in the Field Museum, Chicago.
 Photograph by Dan Phelps.
