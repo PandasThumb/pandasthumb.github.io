@@ -1,6 +1,6 @@
 ---
 title: Protoceratops at the Creaton Museum
-date: 2024-10-30 12:00:00 -08:00
+date: 2024-10-28 12:00:00 -08:00
 author: Daniel Phelps
 ---
 
@@ -8,9 +8,12 @@ author: Daniel Phelps
 <img src="https://github.com/PandasThumb/pandasthumb.github.io/blob/source/uploads/2024/Phelps_Protoceratops_Fossil_600.jpg" width=300px alt="[Protoceratops image]"/><br/>
 <figcaption>
 Figure 1. Photo of Protoceratops in the Field Museum, Chicago.
-<small>Photograph by Dan Phelps.</small>
+Photograph by Dan Phelps.
 </figcaption>
 </div>
+
+<p>&nbsp;</p>
+
 Since at least May, 2024, the Creation Museum and Ken Ham have been discussing a new display, meant to describe the dinosaur _Protoceratops_ being drowned in the Biblical Flood of Noah (see for example [https://creationmuseum.org/blog/2024/05/24/new-dinosaur-exhibit-coming-to-creation-museum/](https://creationmuseum.org/blog/2024/05/24/new-dinosaur-exhibit-coming-to-creation-museum/) and <a href="https://answersingenesis.org/blogs/ken-ham/2024/07/14/most-detailed-protoceratops-world/">https://answersingenesis.org/blogs/ken-ham/2024/07/14/most-detailed-protoceratops-world/</a>). This display finally opened in late October, 2024. Figure 1 is the original mock-up of this ridiculous display from Ken Ham&rsquo;s blog. Pictures of the display are available on several Answers in Genesis&rsquo; and Ken Ham&rsquo;s social media pages. Long (2024) describes the artwork going into this new display. Although the artwork depicting the dinosaur itself is excellent, the display has absurd, inaccurate, misleading, and dishonest information on the depositional environment of the surrounding sediment and the taphonomy of _Protoceratops_ and other Cretaceous vertebrate fossils of Mongolia.
 
 The Creation Museum and Ark Encounter, both owned by the Young Earth Creationistministry Answers in Genesis (AiG), espouse that the fossil record is a result of Noah&rsquo;s Flood which occurred in 2348 BC. All employees of AiG must sign off on a &ldquo;Statement of Faith&rdquo; (<a href="https://answersingenesis.org/about/faith/">https://answersingenesis.org/about/faith/</a>), that states in part:
@@ -48,10 +51,12 @@ The _Protoceratops_ specimens from Mongolia are found in the Late Cretaceous Dja
 <br/>
 figcaption>Fig. 2. 
 Protoceratops display, comparing "evolutionist" versus
-creationist explanations of fossilization. <small>From Ken
-Ham’s blog. Fair use.</small>
+creationist explanations of fossilization. <From Ken
+Ham’s blog. Fair use.
 </figcaption></figure>
 </div>
+
+<p>&nbsp;</p>
 
 The new display at the Creation Museum is rather short on describing the Djadochta Formation. It literally cartoonishly contrasts the &ldquo;Naturalistic Evolutionist&rdquo; versus &ldquo;Biblical Creationist&rdquo; interpretation with actual cartoons depicting the burial of _Protoceratops_. The display simplistically claims &ldquo;Naturalistic Evolutionists&rdquo; think that _Protoceratops_ was buried by eolian (wind-driven) dunes during sandstorms, while they claim the dinosaurs were drowned and buried by underwater sandslides, driven by currents, during Noah&rsquo;s Flood. The Creation Museum display only presents a tiny amount of selective evidence for their view, then declares victory over the &ldquo;Naturalistic Evolutionists.&rdquo; A September 29, 2024 &ldquo;X&rdquo; (formerly Twitter) post by Ken Ham includes a photo of part of the display. The main portion of the signage reads:
 
@@ -84,10 +89,12 @@ A number of features characterize eolian deposits in the rock record, but no sin
 <figcaption>Fig. 3. 
 AiG dinosaur-related display at the Ark Encounter: Giants and
 humans in a three-way death match with the dinosaur
-&lt;i&gt;Carnotaurus&lt;/i&gt; in a pre-Flood arena. &lt;small&gt;Fair
-use.&lt;/small&gt;
+<em>Carnotaurus</em> in a pre-Flood arena. Fair
+use.
 </figcaption>
 </figure></div>
+
+<p>&nbsp;</p>
 
 So, what is the source for the creationist misinformation on the Djadochta Formation? I have only been able to find two discussions in the creationist literature, both by AiG geologist, Dr. Andrew Snelling (1998 and 2009).
 
