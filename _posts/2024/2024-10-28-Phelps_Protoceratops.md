@@ -1,10 +1,10 @@
 ---
-title: Protoceratops at the Creaton Museum
+title: Protoceratops at the Creation Museum
 date: 2024-10-28 10:00:00 -08:00
 author: Daniel Phelps
 ---
 
-<div align="center">
+<div align="center" width=300px>
 <img src="/uploads/2024/Phelps_Protoceratops_Fossil_600.jpg" width="300px" alt="[Protoceratops image]"/><br/>
 <figcaption>
 Figure 1. Photo of <em>Protoceratops</em> in the Field Museum, Chicago.
