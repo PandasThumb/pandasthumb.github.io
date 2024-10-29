@@ -7,7 +7,7 @@ author: Daniel Phelps
 <div align="center">
 <img src="" alt="[Protoceratops image]"/>
 <figcaption>
-Photo of Protoceratops in the Field Museum, Chicago.
+Figure 1. Photo of Protoceratops in the Field Museum, Chicago.
 <small></small>Photograph by Dan Phelps.</small>
 </figcaption>
 </div>
@@ -23,23 +23,13 @@ And further:
 
 Of course this ends any attempt at science by AiG employees and replaces geology, paleontology, and all other science and history with unchanging religious dogma.
 
-Because of their weird dogma, AiG has an unusual take on dinosaurs and other prehistoric life forms. Both the Ark and Creation Museum have problematic displays on dinosaurs. In dioramas, dinosaurs are depicted as living with people, among ancient buildings, in stalls on Noah&rsquo;s Ark, and most amazingly, fighting with humans and giants in a pre-Flood arena of death (see Figure 2). The Creation Museum has a actual skeleton of the dinosaur _Allosaurus_ on display that was donated by white nationalist and neo-Confederate Michael Peroutka (see: <a href="https://rightingamerica.net/dinosaur-bones-mark-meadows-neo-confederates-and-the-tawdry-world-of-young-earth-creationism/">https://rightingamerica.net/dinosaur-bones-mark-meadows-neo-confederates-and-the-tawdry-world-of-young-earth-creationism/</a>). This _Allosaurus_ skeleton is depicted as drowning in Noah&rsquo;s Flood in 2348 BC.
+Because of their weird dogma, AiG has an unusual take on dinosaurs and other prehistoric life forms. Both the Ark and Creation Museum have problematic displays on dinosaurs. In dioramas, dinosaurs are depicted as living with people, among ancient buildings, in stalls on Noah&rsquo;s Ark, and most amazingly, fighting with humans and giants in a pre-Flood arena of death (see Figure 3 below). The Creation Museum has a actual skeleton of the dinosaur _Allosaurus_ on display that was donated by white nationalist and neo-Confederate Michael Peroutka (see: <a href="https://rightingamerica.net/dinosaur-bones-mark-meadows-neo-confederates-and-the-tawdry-world-of-young-earth-creationism/">https://rightingamerica.net/dinosaur-bones-mark-meadows-neo-confederates-and-the-tawdry-world-of-young-earth-creationism/</a>). This _Allosaurus_ skeleton is depicted as drowning in Noah&rsquo;s Flood in 2348 BC.
 
 <!--more-->
 
 Answers in Genesis original dinosaur modeler and country singer, the recently deceased Buddy Davis, even has a children&rsquo;s song that cultishly is meant to repeat Ken Ham&rsquo;s catchphrase dogma that the fossil record is &ldquo;Billions of dead things, buried in rock layers, laid down by water, all over the earth.&rdquo; Davis gets children to repeat this again and again to music, a very effective indoctrination technique. The song can be heard in part here <a href="https://answersingenesis.org/media/audio/audio-archives/billions-dead-things-sample/">https://answersingenesis.org/media/audio/audio-archives/billions-dead-things-sample/</a> (Davis, ND).
 
 The new _Protoceratops_ display continues this stream of indoctrination and misinformation.
-
-
-<div align="center">
-<img src="" alt="[Protoceratops image]"/>
-<figcaption>
-Protoceratops display, comparing "evolutionist" versus
-creationist explanations of fossilization. <small>From Ken
-Ham’s blog. Fair use.</small>
-</figcaption>
-</div>
 
 ## _Protoceratops_ ##
 
@@ -52,6 +42,15 @@ _Protoceratops_ was discovered in 1923 by scientists working for the American Mu
 ## Cretaceous of Mongolia ##
 
 The _Protoceratops_ specimens from Mongolia are found in the Late Cretaceous Djadochta (sometimes spelled Djadokata or Djadokhta) Formation. The Djadochta is primarily a reddish colored fine- to medium-grained well-sorted quartz sandstone. There are minor amounts of conglomerates, siltstones, and calcareous nodule layers to be found in the unit. Regionally, the Djadochta is approximately 90 m (~300 feet) thick. Many of the beds are cross-bedded, but some are massive and do not show apparent sedimentary structures. Good descriptions, including stratigraphic columns, of the unit, can be found in Dingus and Loope (2000); Dingus _et al_. (2008); Fastovsky _et a_l. (1997); Jerzykiewicz (1997 and 2000); Jerzykiewicz and Russell (1991); Jerzykiewicz _et al_. (1993); Loope _et al. _(1998); Loope _et al_. (1999); and Shuvalov (2000). Wikipedia also has a very general description of the unit and cites some of the primary literature.
+
+<div align="center"><figure>
+<img src="" alt="[AiG Protoceratops display image]"/>
+<figcaption>Fig. 2. 
+Protoceratops display, comparing "evolutionist" versus
+creationist explanations of fossilization. <small>From Ken
+Ham’s blog. Fair use.</small>
+</figcaption></figure>
+</div>
 
 The new display at the Creation Museum is rather short on describing the Djadochta Formation. It literally cartoonishly contrasts the &ldquo;Naturalistic Evolutionist&rdquo; versus &ldquo;Biblical Creationist&rdquo; interpretation with actual cartoons depicting the burial of _Protoceratops_. The display simplistically claims &ldquo;Naturalistic Evolutionists&rdquo; think that _Protoceratops_ was buried by eolian (wind-driven) dunes during sandstorms, while they claim the dinosaurs were drowned and buried by underwater sandslides, driven by currents, during Noah&rsquo;s Flood. The Creation Museum display only presents a tiny amount of selective evidence for their view, then declares victory over the &ldquo;Naturalistic Evolutionists.&rdquo; A September 29, 2024 &ldquo;X&rdquo; (formerly Twitter) post by Ken Ham includes a photo of part of the display. The main portion of the signage reads:
 
@@ -77,6 +76,17 @@ The actual depositional environments of the Djadochta Formation are much more co
 Many of the vertebrate fossil bearing layers lack any discernible sedimentary structures other than caliche layers that contain rhizoliths. These units are have been described as &ldquo;structureless sands.&rdquo; Dingus and Loope (2000) and Dingus _et al_. (2008) interpret these &ldquo;structureless sands&rdquo; as dune-derived sand-slides from times of lessened aridity/increased humidity (mesic conditions). Some of the evidence for times of increased humidity is described by Dingus and Loope (2008), who document crayfish-like burrows that represent unknown arthropods that dug down through the dry sands to reach groundwater. During these relatively-humid &ldquo;mesic&rdquo; times, dunes were held in place by caliche paleosols and vegetation, only to become oversteepened and eventually suddenly collapse, burying _Protoceratops, _other dinosaurs_, _and other vertebrates of the Djadochta.
 
 A number of features characterize eolian deposits in the rock record, but no single criterion characterizes _all_ eolian rocks. Eolian depositional environments can be incredibly complex and not easily characterized be cartoonish diagrams. The Creation Museum signage claiming the cross-bedding has the exact slope angle of 25&deg; in the Djadokata Formation at Ukhaa Tolgod as being significant is simply not correct. In reality, ancient dune deposits can display very shallow to extremely steep cross-bedding angles. In many cases the angle is due to the moisture content and composition of the sand. For example, dry, well-sorted sand tends to pile up at maximum angles of 30 to 34&deg; (Hill and Moshier, 2016), while slightly more moisture from various causes can result in angles above 40&deg; (Bigarella, 1974). However, when sands become saturated with water, they can not maintain a steep slope and collapse. Hill and Moshier remind their readers that have built sandcastles at a beach of this property of moisture-rich sand. Moreover, very shallow slopes are also possible near the base of the downwind side of dunes (Bigarella, 1974). Thus, although eolian dunes tend to have steeper maximum cross-bedding compared to sand deposits formed under water, the exact angle alone doesn&rsquo;t differentiate them from underwater sandbars. Ahlbrandt and Fryberger (1982) beautifully illustrate a number of eolian deposits and discuss additional criteria for the recognition of eolianites. These include the mineralogy, sorting, and tabular nature of the deposits themselves, combined with numerous sedimentary structures besides cross-bedding. In their detailed study of the Djadochta Formation, Dingus _et al_. (2008) also note many of the features discussed above, including calcareous paleosols, trace fossils in the form of dinosaur tracks, invertebrate burrows, and rhizoliths (fossil plant roots). Niedzwiedzki, _et al._, (2012) note a track beneath a _Protoceratops_ skeleton. Dingus _et al_. (2008) also note that the Djadochta is a mosaic of several facies, including dune deposits, siltstone interdune deposits, conglomerates that had their source in outwash from alluvial fans, and sandslide deposits from dunes that occasionally collapsed after a period of stability. Interspersed with this were small lakes or ponds that accumulated silty muds and sands. Interestingly, the Creation Museum signage mentions the presence of the mineral calcite (CaCO₃) as if it were indicative of a marine deposit, whereas the mineral is also often associated with the caliches and paleosols that form in arid desert environments.
+
+<div align="center">
+<figure>
+<img src="" alt="[Giants-dinosaur-human death match image]"/>
+<figcaption>Fig. 3. 
+AiG dinosaur-related display at the Ark Encounter: Giants and
+humans in a three-way death match with the dinosaur
+&lt;i&gt;Carnotaurus&lt;/i&gt; in a pre-Flood arena. &lt;small&gt;Fair
+use.&lt;/small&gt;
+</figcaption>
+</figure></div>
 
 So, what is the source for the creationist misinformation on the Djadochta Formation? I have only been able to find two discussions in the creationist literature, both by AiG geologist, Dr. Andrew Snelling (1998 and 2009).
 
