@@ -4,14 +4,19 @@ date: 2024-10-28 10:00:00 -08:00
 author: Daniel Phelps
 ---
 
-<div align="center">
-<img src="/uploads/2024/Phelps_Protoceratops_Fossil_600.jpg" width="300px" alt="[Protoceratops image]"/><br/>
-<figcaption>
-Figure 1. Photo of <em>Protoceratops</em> in the Field Museum, Chicago.
-Photograph by Dan Phelps.
-</figcaption>
+<div align="center"><figure>
+<img src="/uploads/2024/Phelps_Protoceratops_Museum_Exhibit_600.jpg" width="300px" alt="[AiG Protoceratops display image]"/>
+<br/>
+<figcaption>Figure 1. 
+<em>Protoceratops</em> display, comparing "evolutionist" versus
+creationist explanations of fossilization. From Ken
+Ham’s blog. Fair use.
+</figcaption></figure>
 </div><p>&nbsp;</p>
-Since at least May, 2024, the Creation Museum and Ken Ham have been discussing a new display, meant to describe the dinosaur _Protoceratops_ being drowned in the Biblical Flood of Noah (see for example [https://creationmuseum.org/blog/2024/05/24/new-dinosaur-exhibit-coming-to-creation-museum/](https://creationmuseum.org/blog/2024/05/24/new-dinosaur-exhibit-coming-to-creation-museum/) and <a href="https://answersingenesis.org/blogs/ken-ham/2024/07/14/most-detailed-protoceratops-world/">https://answersingenesis.org/blogs/ken-ham/2024/07/14/most-detailed-protoceratops-world/</a>). This display finally opened in late October, 2024. Figure 1 is the original mock-up of this ridiculous display from Ken Ham&rsquo;s blog. Pictures of the display are available on several Answers in Genesis&rsquo; and Ken Ham&rsquo;s social media pages. Long (2024) describes the artwork going into this new display. Although the artwork depicting the dinosaur itself is excellent, the display has absurd, inaccurate, misleading, and dishonest information on the depositional environment of the surrounding sediment and the taphonomy of _Protoceratops_ and other Cretaceous vertebrate fossils of Mongolia.
+
+Since at least May, 2024, the Creation Museum and Ken Ham have been discussing a new display, meant to describe the dinosaur _Protoceratops_ being drowned in the Biblical Flood of Noah (see for example [https://creationmuseum.org/blog/2024/05/24/new-dinosaur-exhibit-coming-to-creation-museum/](https://creationmuseum.org/blog/2024/05/24/new-dinosaur-exhibit-coming-to-creation-museum/) and <a href="https://answersingenesis.org/blogs/ken-ham/2024/07/14/most-detailed-protoceratops-world/">https://answersingenesis.org/blogs/ken-ham/2024/07/14/most-detailed-protoceratops-world/</a>). This display finally opened in late October, 2024. Figure 1 is 
+<! the original mock-up of >
+this ridiculous display from Ken Ham&rsquo;s blog. Pictures of the display are available on several Answers in Genesis&rsquo; and Ken Ham&rsquo;s social media pages. Long (2024) describes the artwork going into this new display. Although the artwork depicting the dinosaur itself is excellent, the display has absurd, inaccurate, misleading, and dishonest information on the depositional environment of the surrounding sediment and the taphonomy of _Protoceratops_ and other Cretaceous vertebrate fossils of Mongolia.
 
 The Creation Museum and Ark Encounter, both owned by the Young Earth Creationistministry Answers in Genesis (AiG), espouse that the fossil record is a result of Noah&rsquo;s Flood which occurred in 2348 BC. All employees of AiG must sign off on a &ldquo;Statement of Faith&rdquo; (<a href="https://answersingenesis.org/about/faith/">https://answersingenesis.org/about/faith/</a>), that states in part:
 
@@ -35,7 +40,16 @@ The new _Protoceratops_ display continues this stream of indoctrination and misi
 
 _Protoceratops_ is one of the most studied dinosaurs in the history of vertebrate paleontology. The peer-reviewed scientific literature on this dinosaur, the depositional environment of the surrounding sediments, and aspects of the dinosaur&rsquo;s taphonomy (the study of how organisms decay and are fossilized) is simply enormous and only a fraction can be cited in this simple blog post. Surprisingly, Wikipedia has an excellent page describing _Protoceratops_&lsquo;s physical characteristics, discovery, paleoecology, and various aspects of the dinosaur&rsquo;s biology, as well as citations of the primary sources. Good accounts of basic information about the dinosaur can also be found in Dodson (1996); Prothero (2019); and Fastovsky and Weishampel (2016).
 
-The ceratopsian _Protoceratops_ was a fairly small ornithischian dinosaur with complete growth sequences from very small juvenile specimens to adults about 2.5 meters long being known. Maximum body weight was slightly above 100 kg. Adults were quadrupeds, but juveniles may have been capable of walking as bipeds. The skull has a fairly large frill, and the nose of _Protoceratops_ has a horn-like structure that doesn&rsquo;t stand out as much as in other Ceratopsid dinosaurs. The teeth indicate the animal was a vegetarian, shearing off vegetation with the aid of a very sharp beak (a characteristic of many ornithischians). _Protoceratops_ had relatively large eyes (even the sclerotic ring is known) and strong limbs, suggesting it was well-adapted to dim light, and capable of burrowing, although burrowing is not certain. The _Protoceratops_ from Mongolia are a single species _P. andrewsi_, while another, slightly larger species _P. hellenikorhinus_ is known from similar deposits in China. There are likely to be other species of _Protoceratops_, and the dinosaur _Bainoceratops_ may be a synonym or a very close relative. All members of the Family Protoceratopsidae are Late Cretaceous (Campanian) in age, which is approximately 75 to 71 million years old (Dingus _et al_., 2008).
+<div align="center">
+<img src="/uploads/2024/Phelps_Protoceratops_Fossil_600.jpg" width="300px" alt="[Protoceratops image]"/><br/>
+<figcaption>
+Figure 2. Photo of <em>Protoceratops</em> in the Field Museum, Chicago.
+Photograph by Dan Phelps.
+</figcaption>
+</div><p>&nbsp;</p>
+
+
+The ceratopsian _Protoceratops_ was a fairly small ornithischian dinosaur with complete growth sequences from very small juvenile specimens to adults about 2.5 meters long being known. Maximum body weight was slightly above 100 kg. Adults were quadrupeds, but juveniles may have been capable of walking as bipeds. The skull 🪓has a fairly large frill, and the nose of _Protoceratops_ has a horn-like structure that doesn&rsquo;t stand out as much as in other Ceratopsid dinosaurs. The teeth indicate the animal was a vegetarian, shearing off vegetation with the aid of a very sharp beak (a characteristic of many ornithischians). _Protoceratops_ had relatively large eyes (even the sclerotic ring is known) and strong limbs, suggesting it was well-adapted to dim light, and capable of burrowing, although burrowing is not certain. The _Protoceratops_ from Mongolia are a single species _P. andrewsi_, while another, slightly larger species _P. hellenikorhinus_ is known from similar deposits in China. There are likely to be other species of _Protoceratops_, and the dinosaur _Bainoceratops_ may be a synonym or a very close relative. All members of the Family Protoceratopsidae are Late Cretaceous (Campanian) in age, which is approximately 75 to 71 million years old (Dingus _et al_., 2008).
 
 _Protoceratops_ was discovered in 1923 by scientists working for the American Museum of Natural History&rsquo;s Third Central Asiatic Expedition to the Gobi Desert of Mongolia (for historical accounts see: Andrews, 1926; Andrews _et al_., 1932; Colbert, 1968 and 2000; Gallenkamp, 2001; and Sullivan, _et al._, 2012) and formally described by Granger and Gregory (1923). After WWII, the Soviets, and still later Polish researchers did geological and paleontological research in this part of the Gobi. As the Soviet Union disintegrated, Japanese, Canadian, American (once again mostly from the American Museum of Natural History), and scientists from many other nations studied the Late Cretaceous dinosaurs of the Gobi (Colbert, 1968, 2000; and Sullivan _et al_. 2012). Note that for all their posing as scientists, creationists haven&rsquo;t actually contributed <strong>_anything_</strong> to this scientific exploration and original research.
 
@@ -43,15 +57,7 @@ _Protoceratops_ was discovered in 1923 by scientists working for the American Mu
 
 The _Protoceratops_ specimens from Mongolia are found in the Late Cretaceous Djadochta (sometimes spelled Djadokata or Djadokhta) Formation. The Djadochta is primarily a reddish colored fine- to medium-grained well-sorted quartz sandstone. There are minor amounts of conglomerates, siltstones, and calcareous nodule layers to be found in the unit. Regionally, the Djadochta is approximately 90 m (~300 feet) thick. Many of the beds are cross-bedded, but some are massive and do not show apparent sedimentary structures. Good descriptions, including stratigraphic columns, of the unit, can be found in Dingus and Loope (2000); Dingus _et al_. (2008); Fastovsky _et a_l. (1997); Jerzykiewicz (1997 and 2000); Jerzykiewicz and Russell (1991); Jerzykiewicz _et al_. (1993); Loope _et al. _(1998); Loope _et al_. (1999); and Shuvalov (2000). Wikipedia also has a very general description of the unit and cites some of the primary literature.
 
-<div align="center"><figure>
-<img src="/uploads/2024/Phelps_Protoceratops_Museum_Exhibit_600.jpg" width="300px" alt="[AiG Protoceratops display image]"/>
-<br/>
-<figcaption>Fig. 2. 
-<em>Protoceratops</em> display, comparing "evolutionist" versus
-creationist explanations of fossilization. From Ken
-Ham’s blog. Fair use.
-</figcaption></figure>
-</div><p>&nbsp;</p>
+
 The new display at the Creation Museum is rather short on describing the Djadochta Formation. It literally cartoonishly contrasts the &ldquo;Naturalistic Evolutionist&rdquo; versus &ldquo;Biblical Creationist&rdquo; interpretation with actual cartoons depicting the burial of _Protoceratops_. The display simplistically claims &ldquo;Naturalistic Evolutionists&rdquo; think that _Protoceratops_ was buried by eolian (wind-driven) dunes during sandstorms, while they claim the dinosaurs were drowned and buried by underwater sandslides, driven by currents, during Noah&rsquo;s Flood. The Creation Museum display only presents a tiny amount of selective evidence for their view, then declares victory over the &ldquo;Naturalistic Evolutionists.&rdquo; A September 29, 2024 &ldquo;X&rdquo; (formerly Twitter) post by Ken Ham includes a photo of part of the display. The main portion of the signage reads:
 
 > <strong>DUNES OF DEATH</strong>
