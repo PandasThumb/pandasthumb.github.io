@@ -1,5 +1,5 @@
 ---
-title: _Protoceratops_ at the Creation Museum
+title: Protoceratops at the Creation Museum
 date: 2024-10-28 10:00:00 -08:00
 author: Daniel Phelps
 ---
