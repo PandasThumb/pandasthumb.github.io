@@ -39,12 +39,12 @@ The new _Protoceratops_ display continues this stream of indoctrination and misi
 
 _Protoceratops_ is one of the most studied dinosaurs in the history of vertebrate paleontology. The peer-reviewed scientific literature on this dinosaur, the depositional environment of the surrounding sediments, and aspects of the dinosaur&rsquo;s taphonomy (the study of how organisms decay and are fossilized) is simply enormous and only a fraction can be cited in this simple blog post. Surprisingly, Wikipedia has an excellent page describing _Protoceratops_&lsquo;s physical characteristics, discovery, paleoecology, and various aspects of the dinosaur&rsquo;s biology, as well as citations of the primary sources. Good accounts of basic information about the dinosaur can also be found in Dodson (1996); Prothero (2019); and Fastovsky and Weishampel (2016).
 
-<div align="center">
+<div align="center"><figure>
 <img src="/uploads/2024/Phelps_Protoceratops_Fossil_600.jpg" width="300px" alt="[Protoceratops image]"/><br/>
 <figcaption>
 Figure 2. Photo of <em>Protoceratops</em> in the Field Museum, Chicago.
 Photograph by Dan Phelps.
-</figcaption>
+</figcaption></figure>
 </div><p>&nbsp;</p>
 
 
