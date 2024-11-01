@@ -85,7 +85,7 @@ The discussion of sexual behavior, especially homosexuality, is a fine example o
 </td><td>&nbsp;</td><td>
 0<figure><img src="/uploads/2024/Braterman_Lie_Castle new_600.jpg" width="180px" alt="[New castles figure, in color]"/>
 <br/><figcaption>Warring Castles, new figure, in color. <small><br/>3rd ed. p. 178, fair use.</small></figcaption></figure>
-</td></tr></div>
+</td></tr></table>table></div>
 
 <p>&nbsp;</p>
 
