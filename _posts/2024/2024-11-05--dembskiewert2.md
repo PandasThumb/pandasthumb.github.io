@@ -89,9 +89,18 @@ This, the last section in Chapter 7, talks about Michael Behe's arguments about 
 ### What have Dembski and Ewert accomplished? ###
 
 Of the questions I asked above, they have not answered most of them.   The one example that they give that involves a sequence of digital symbol 
-asks about the probability of a protein sequence arising from random sequences of amino acids.  Wahat they give is really not an Algorithmically 
-Specified Complexity agument, but a much older argument.  It was made by Murray Eden and by Marcel-Paul Schuetzenberger in 1966 in the Wistar 
-Instititue Symposium, published in 
-1967 as <em>Mathematical Challenges to the Nei-Darwinian Interpretation of Evolution</em>
+asks about the probability of a protein sequence arising from random sequences of amino acids.  What they give is really not an Algorithmically 
+Specified Complexity agument, but a much older argument.  It was made by Marcel-Paul Sch&uuml;tzenberger and by Murray Eden in 1966 in the Wistar 
+Instititue Symposium, published in 1967 as <em>Mathematical Challenges to the Neo-Darwinian Interpretation of Evolution</em>.  They too were concerned with 
+the improbability of coming up with a system able to further evolve.  The rebuttal to this argument was given by the evolutionary biologists (including Conrad Waddington, Sewall Wright, Richard Lewontin, Ernst Mayr, Nils-Aall Barricalli, George Wald, and the physicist Stanislaw Ulam, all of whom made comments or wrote papers in that interesting volume.  They pointed to the frequency with which random proteins show some weak enzymatic activity, and the evidence that small changes of their sequence are often partially viable or even more fit.  Evolution could therefore often follow steps uphill on a fitness surface. 
 
+
+
+Not ruling out step-by-step evolution
+
+Rosenhouse made same points
+1. No specific argument
+2. Reliance on improbability-from-random-guess
+
+No explanation of how the small algorithm relates to fitness
 
