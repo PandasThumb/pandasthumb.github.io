@@ -71,13 +71,14 @@ author: Paul Braterman
 <p>He then summarizes his arguments to date by a cartoon showing two opposing castles. The castle of Christianity is wasting its ammunition by firing at specific targets, while evolution, guided by Satan, attacks the Christian doctrine of creation. Such at least is what we see in the 1987 version of the cartoon, which has been discussed here before. It is one of many such drawings scattered throughout the book, which do have a certain faux naïve charm. The 2024 version, by contrast, looks so bad that I wonder whether it is AI-generated. But notice the reference in the later version to Revelation.</p>
 
 <div align="center">
-<table><tr><td>  
-<img src="/uploads/2024/Braterman_Lie_Castles old_600.jpg", alt="[Old castles figure]"/>
+<img src="/uploads/2024/Braterman_Lie_Castles old_600.jpg", width="300px", alt="[Old castles figure]"/>
 <br/>Warring Castles. <small>1st ed., p.92, fair use.</small>000
-</td><td>&nbsp;</td>
-<td><img src="/uploads/2024/Braterman_Lie_Castle new_600.jpg", alt="[New castles figure, in color]"/>
+</div>
+
+<div align="center">
+<img src="/uploads/2024/Braterman_Lie_Castle new_600.jpg", width="300px", alt="[New castles figure, in color]"/>
 <br/>Warring Castles, new figure, in color. <small>3rd ed. p. 178, fair use.</small>
-</td></tr></table></div>
+</div>
 
 <p>&nbsp;</p>
 
