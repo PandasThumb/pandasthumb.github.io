@@ -72,17 +72,12 @@ author: Paul Braterman
 
 <div align="center">
 <table><tr><td>  
-  <figure>
 <img src="/uploads/2024/Braterman_Lie_Castles old_600.jpg", alt="[Old castles figure]"/>
-<br/><figcaption>Warring Castles. <small>1st ed., p.92, fair use.</small>
-</figcaption>
-</figure>
+<br/>Warring Castles. <small>1st ed., p.92, fair use.</small>000
 </td><td>&nbsp;</td>
-<td><figure>
-<img src="/uploads/2024/Braterman_Lie_Castle new_600.jpg", alt="[New castles figure, in color]"/>
-<br/><figcaption>Warring Castles, new figure, in color. <small>3rd ed. p. 178, fair use.</small>
-</figcaption>
-</figure></td></tr></table></div>
+<td><img src="/uploads/2024/Braterman_Lie_Castle new_600.jpg", alt="[New castles figure, in color]"/>
+<br/>Warring Castles, new figure, in color. <small>3rd ed. p. 178, fair use.</small>
+</td></tr></table></div>
 
 <p>&nbsp;</p>
 
