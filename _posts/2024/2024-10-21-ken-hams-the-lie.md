@@ -4,9 +4,9 @@ date: '2024-10-21 12:00:00 -06:00'
 author: Paul Braterman
 ---
 
-<div align="center"><figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
+<figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
 <img src="/uploads/2024/Braterman_Lie_Cover_600.jpg" alt="Book cover"/>
-</figure></div>
+</figure>
 
 <i>The following is a review of <a href="https://www.amazon.com/Lie-Unraveling-Evolution-Millions-Years-ebook/dp/B0DD4YLQRQ/">The Lie</a>, by Ken Ham (Master Book, 2024), and a comparison of the 1987, 2012, and 2024 editions. A longer article appeared <a href="https://3quarksdaily.com/3quarksdaily/2024/10/reviewed-ken-hams-the-lie-unravelling-the-myth-of-evolution-millions-of-years-and-why-we-need-to-pay-attention.html">here</a> in 3 Quarks Daily.</i>
 
@@ -77,7 +77,7 @@ author: Paul Braterman
 
 <div align="center">
 <figure><img src="/uploads/2024/Braterman_Lie_Castle new_600.jpg", width="300px", alt="[New castles figure, in color]"/>
-<br/><figcaption>>Warring Castles, new figure, in color. <small>3rd ed. p. 178, fair use.</small></figcaption></figure>
+<br/><figcaption>Warring Castles, new figure, in color. <small>3rd ed. p. 178, fair use.</small></figcaption></figure>
 </div>
 
 <p>&nbsp;</p>
