@@ -70,15 +70,13 @@ author: Paul Braterman
 <p>Next, with no sense of irony, Ham tells us in successive paragraphs that evolutionary thinking has been used to defend male chauvinism, and that Christian women should not be deceived by the feminist movement, which is anti-God, since God has given men and women different roles. The third edition even warns us of the danger that “women will abuse their role and want to usurp the authority of the man in regard to headship.”</p>
 <p>He then summarizes his arguments to date by a cartoon showing two opposing castles. The castle of Christianity is wasting its ammunition by firing at specific targets, while evolution, guided by Satan, attacks the Christian doctrine of creation. Such at least is what we see in the 1987 version of the cartoon, which has been discussed here before. It is one of many such drawings scattered throughout the book, which do have a certain faux naïve charm. The 2024 version, by contrast, looks so bad that I wonder whether it is AI-generated. But notice the reference in the later version to Revelation.</p>
 
-<div align="center">
-<figure><img src="/uploads/2024/Braterman_Lie_Castles old_600.jpg" width="300px" alt="[Old castles figure]"/>
+<div align="center"><table><tr><td>
+<figure><img src="/uploads/2024/Braterman_Lie_Castles old_600.jpg" width="150px" alt="[Old castles figure]"/>
 <br/><figcaption>Warring Castles. <small>1st ed., p.92, fair use.</small></figcaption></figure>
-</div>
-<p>&nbsp;</p>
-<div align="center">
-<figure><img src="/uploads/2024/Braterman_Lie_Castle new_600.jpg" width="300px" alt="[New castles figure, in color]"/>
+</td><td>&nbsp;</td><td>
+<figure><img src="/uploads/2024/Braterman_Lie_Castle new_600.jpg" width="150px" alt="[New castles figure, in color]"/>
 <br/><figcaption>Warring Castles, new figure, in color. <small>3rd ed. p. 178, fair use.</small></figcaption></figure>
-</div>
+</td></tr></div>
 
 <p>&nbsp;</p>
 
