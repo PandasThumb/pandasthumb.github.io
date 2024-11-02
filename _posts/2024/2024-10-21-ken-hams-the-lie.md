@@ -108,7 +108,7 @@ The sun, moon, and stars are evidence of God’s creation. The sediments are evi
 
 <blockquote><i>Since everything will be destroyed in this way, what kind of people ought you to be? You ought to live holy and godly lives as you look forward to the day of God and speed its coming </i>[emphasis in original].</blockquote>
 
-How we are supposed to speed its coming, it may be wiser not to inquire. 
+How we are supposed to speed its coming, it may be wiser not to inquire.</blockquote>
 
 <i>A longer version of this post has appeared on 3 Quarks Daily.</i>
 
@@ -125,7 +125,7 @@ Footnote:
 
 The set up of the sacrificial system and a picture of what was to come in Jesus’ sacrifice on the Cross is found in Genesis 3:21:
 
-<blockquote><i>Also for Adam and his wife the Lord God made tunics of skin, and clothed them </i>[emphasis in original]. </p></blockquote>
+<blockquote><i>Also for Adam and his wife the Lord God made tunics of skin, and clothed them </i>[emphasis in original].</blockquote>
 
 Ham is imposing, and is expecting his readers to impose, meanings imported from commentaries. In verse 3:15, the serpent has been equated with Satan, the woman’s seed with Jesus, the bruising of the heel refers to Jesus’s suffering in His human aspect, and the bruising of the head is Jesus’ triumph over Satan. The capital H’s correspond to nothing in the Hebrew text, but are inserted because Ham thinks the pronouns refer to Christ. In 3:21, tunics of skin imply that an animal has been killed for the purpose, and for reasons I do not quite understand this is a foreshadowing of the Crucifixion.
 
