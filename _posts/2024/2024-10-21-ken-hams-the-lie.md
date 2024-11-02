@@ -100,13 +100,17 @@ Chapter 11, Creation, Flood, and Coming Fire, concludes the book’s central arg
   
 II Peter 3:3-7 (NIV) states: “First of all, you must understand that in the last days scoffers welcome, scoffing and following their own evil desires. They will say, ‘Where is this coming He promised? Ever since our fathers died, everything goes on as it has since the beginning of creation.’ But they deliberately forget that long ago by God’s Word the heavens existed and the earth was formed out of water with water. By water also the world of that time was deluged and destroyed. By the same word the present heavens and earth are reserved for fire, being kept for the day of judgment and destruction of ungodly men.”
 
+
 We see this prophecy being fulfilled in front of our own eyes. The people who tell us that “everything goes on as it has since the beginning of creation” are the evolutionists and deep time geologists. They use the principle that “the present is key to the past,” and invoke the observed present-day processes of sedimentation and mutation in their discussions of geology and evolution.
 
+
 In this, they are “willingly ignorant.” They have deliberately chosen not to believe in the Genesis account of creation, God’s judgement of the world at the time of Noah’s Flood, and coming judgment by fire. If they do not think that the geological record is convincing evidence of the Flood, that is because they do not want to be convinced. And the reason why they do not want to be convinced is that they do not wish to acknowledge God’s authority, obey His rules, and stand in awe of the coming judgment by fire. The very fact that the Biblical account is being questioned is itself a fulfilment of Biblical prophecy, confirming (as if confirmation were required) that the Bible account is true.
+
 
 The sun, moon, and stars are evidence of God’s creation. The sediments are evidence of God’s judgment in the Flood, and Last Day’s prophecies are being fulfilled before our eyes. And, just in case we haven’t got the point, a final quotation in bold from II Peter 3:11-12a:
 
 <blockquote><i>Since everything will be destroyed in this way, what kind of people ought you to be? You ought to live holy and godly lives as you look forward to the day of God and speed its coming </i>[emphasis in original].</blockquote>
+
 
 How we are supposed to speed its coming, it may be wiser not to inquire.</blockquote>
 
