@@ -89,18 +89,17 @@ This, the last section in Chapter 7, talks about Michael Behe's arguments about 
 ### What have Dembski and Ewert accomplished? ###
 
 Of the questions I asked above, they have not answered most of them.   The one example that they give that involves a sequence of digital symbol 
-asks about the probability of a protein sequence arising from random sequences of amino acids.  What they give is really not an Algorithmically 
-Specified Complexity agument, but a much older argument.  It was made by Marcel-Paul Sch&uuml;tzenberger and by Murray Eden in 1966 in the Wistar 
-Instititue Symposium, published in 1967 as <em>Mathematical Challenges to the Neo-Darwinian Interpretation of Evolution</em>.  They too were concerned with 
-the improbability of coming up with a system able to further evolve.  The rebuttal to this argument was given by the evolutionary biologists (including Conrad Waddington, Sewall Wright, Richard Lewontin, Ernst Mayr, Nils-Aall Barricalli, George Wald, and the physicist Stanislaw Ulam, all of whom made comments or wrote papers in that interesting volume.  They pointed to the frequency with which random proteins show some weak enzymatic activity, and the evidence that small changes of their sequence are often partially viable or even more fit.  Evolution could therefore often follow steps uphill on a fitness surface. 
+asks about the probability of a particular protein sequence arising from random sequences of amino acids.  What they give is really not an Algorithmically 
+Specified Complexity agument, but a much older argument.   Usually that argument takes the lengths of modern proteins as a necessary requirement for protein function, and does not take into account that many random protein sequences (and random RNA sequences) show a variety of weak enzymatic function.  And small changes in those sequences often lead to similar amounts of function.  It is therefore not impossible for evolu,tion to follow steps uphill on a fitness surface. 
 
+The difficulty with Dembski and Ewert's definition of Algorithmically Specified Complexity is that when the quantity is large, it means that there is a long sequence (of something) which is "described" by a short sequence.  And there is simply no point in their argument that explains why (a) natural selection cannot achieve that, step by step, or (b) why achieving that is needed to result in any adaptation.  The matter is left without discussion.
 
-
-Not ruling out step-by-step evolution
+In his recent critique of mathematical arguments made by creationists and ID advocates, Jason Rosenhouse already made these points.
 
 Rosenhouse made same points
 1. No specific argument
 2. Reliance on improbability-from-random-guess
 
-No explanation of how the small algorithm relates to fitness
+Dembski and Ewert (leave it to the biologists)
+
 
