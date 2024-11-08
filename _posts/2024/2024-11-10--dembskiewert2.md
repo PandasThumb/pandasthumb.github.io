@@ -30,7 +30,7 @@ genotype), while the shorter number "describes" it.  In my previous review, I ha
 <!--more-->
 
 I was full of expectations when I started reading Chapter 7.  I had a number of questions in mind, ones I have 
-asked before in posts and comments about their ASC criterion for design inference (for example, here, here, and here).
+asked before in posts and comments about their ASC criterion for design inference (for example, [here](https://pandasthumb.org/archives/2019/12/Is-Algorithmic-Specified-Complexity-Useless-for-Analyzing-Evolution.html), [here](https://pandasthumb.org/archives/2020/12/Any-new-arguments.html), and [here](https://pandasthumb.org/archives/2021/12/worst-of-2021.html)).
 
 1. What did the bitstring represent? A genotype?  A phenotype?
 2. Was the "description" string a program for computing the larger string?  Was it perhaps some genetic encoding of developmental instructions?
