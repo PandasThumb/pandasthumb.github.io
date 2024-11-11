@@ -1,6 +1,6 @@
 ---
 title: Dembski and Ewert wish upon a star
-date: 2024-11-10 12:00:00 -08:00
+date: 2024-11-15 12:00:00 -08:00
 author: Joe Felsenstein
 ---
 
