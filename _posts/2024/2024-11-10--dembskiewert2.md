@@ -7,8 +7,8 @@ author: Joe Felsenstein
 
 <div align="center"><figure><img width="600px" src="/uploads/2023/Six_Grandfathers.jpg" alt="[Six grandfathers image]">
 <figcaption><div align="center">The mountain called <em>Six Grandfathers</em> by the 
-Lakota people before it was renamed Mount Rushmore.<br> An image of Mount Rushmore adorns the cover of Dembski and 
-  Ewert's book, as an example of a<br/> design inference we make. Does the Lakota name reflect 
+Lakota people before it was renamed Mount<br/> Rushmore. An image of Mount Rushmore adorns the cover of Dembski and 
+  Ewert's book,<br/> as an example of a design inference we make. Does the Lakota name reflect 
 a design inference? <em>Wikimedia, public domain</em></div></figcaption></figure></div>
 
 <p>&nbsp;</p>
