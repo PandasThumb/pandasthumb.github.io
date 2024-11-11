@@ -1,6 +1,6 @@
 ---
 title: Dembski and Ewert wish upon a star
-date: 2024-11-15 12:00:00 -08:00
+date: 2024-11-10 12:00:00 -08:00
 author: Joe Felsenstein
 ---
 
@@ -96,7 +96,15 @@ The difficulty with Dembski and Ewert's definition of Algorithmically Specified 
 
 There is also a large difference between the new argument and the previous specified complexity arguments.  As I noted in the first section of this review (12 June), the new concept is not a Functional Information argument.  The "probaability" is not the probability that a random sequence has this much <em>or more</em> of the desired trait.  It is just the probability of this sequence.  There is simply no discussion of how to compute a tail probability in some relevant distribution.  Or even in some nonrelevant distribution.
 
-So we are left with the questions I asked, and re-asked, above.  How does this argument work?  What are the relevant distributions?  What is the "sequence"?  How does the "description" relate to some relevant probability?  Is it a tail probability under some relevant null distribution?
+So we are left with the questions I asked, and re-asked, above.  How does this argument work?  What are the relevant distributions?  What is the "sequence"?  How does the "description" relate to some relevant probability?  Is it a tail probability under some relevant null distribution?  Is it a probability that ordinary evolutionary processes could achieve something?
+
+### A burden of proof ###
+
+By not explaing how their arguments work, in spite of 400+ pages of explanation, Dembski and Ewert are engaged in wish-fulfillment.  They have "wished upon a star".  But it is not true that, as the song claims, that if you do, "your dreams come true".  Dembski and Ewert do not fill in the blanks, not even close.  They do go off sideways into irreducible complexity arguments, and they do repeatedly claim that evolutionary biologists argue that natural selection will always succeed in meeting challenges.  As the passenger pigeon about that, or the Great Auk, or the Dodo, or the Carolina Paroquet, or the mammoth.  Or the trilobites, or the seed ferns. or the ammonites.
+
+It is still possible for them to answer my objections by filling in the blanks.  Saying that this is unfair, because biologists have not outlined every last step of the evolution of a complicated biological adaptation is no ex cuse.   I'll be happy to hear from them how their arguments actually work.  We're waiting ...
+
+
 
 
 
