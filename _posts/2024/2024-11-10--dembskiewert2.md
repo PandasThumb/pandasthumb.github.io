@@ -90,7 +90,7 @@ This, the last section in Chapter 7, talks about Michael Behe's arguments about 
 
 Of the questions I asked above, they have not answered most of them.   The one example that they give that involves a sequence of digital symbol 
 asks about the probability of a particular protein sequence arising from random sequences of amino acids.  What they give is really not an Algorithmically 
-Specified Complexity agument, but a much older argument.   Usually that argument takes the lengths of modern proteins as a necessary requirement for protein function, and does not take into account that many random protein sequences (and random RNA sequences) show a variety of weak enzymatic function.  And small changes in those sequences often lead to similar amounts of function.  It is therefore not impossible for evolu,tion to follow steps uphill on a fitness surface. 
+Specified Complexity agument, but a much older argument.   Usually that argument takes the lengths of modern proteins as a necessary requirement for protein function, and does not take into account that many random protein sequences (and random RNA sequences) show a variety of weak enzymatic function.  And small changes in those sequences often lead to similar amounts of function.  It is therefore not impossible for evolution to follow steps uphill on a fitness surface. 
 
 The difficulty with Dembski and Ewert's definition of Algorithmically Specified Complexity is that when the quantity is large, it means that there is a long sequence (of something) which is "described" by a short sequence.  And there is simply no point in their argument that explains why (a) natural selection cannot achieve that, step by step, or (b) why achieving that is needed to result in any adaptation.  The matter is left without discussion.
 
@@ -100,9 +100,9 @@ So we are left with the questions I asked, and re-asked, above.  How does this a
 
 ### A burden of proof ###
 
-By not explaing how their arguments work, in spite of 400+ pages of explanation, Dembski and Ewert are engaged in wish-fulfillment.  They have "wished upon a star".  But it is not true that, as the song claims, that if you do, "your dreams come true".  Dembski and Ewert do not fill in the blanks, not even close.  They do go off sideways into irreducible complexity arguments, and they do repeatedly claim that evolutionary biologists argue that natural selection will always succeed in meeting challenges.  As the passenger pigeon about that, or the Great Auk, or the Dodo, or the Carolina Paroquet, or the mammoth.  Or the trilobites, or the seed ferns. or the ammonites.
+By not explaining how their arguments work, in spite of 400+ pages of explanation, Dembski and Ewert are engaged in wish-fulfillment.  They have "wished upon a star".  But it is not true that, as the song claims, that if you do, "your dreams come true".  Dembski and Ewert do not fill in the blanks, not even close.  They do go off sideways into irreducible complexity arguments, and they do repeatedly claim that evolutionary biologists argue that natural selection will always succeed in meeting challenges.  As the passenger pigeon about that, or the Great Auk, or the Dodo, or the Carolina Paroquet, or the mammoth.  Or the trilobites, or the seed ferns. or the ammonites.
 
-It is still possible for them to answer my objections by filling in the blanks.  Saying that this is unfair, because biologists have not outlined every last step of the evolution of a complicated biological adaptation is no ex cuse.   I'll be happy to hear from them how their arguments actually work.  We're waiting ...
+It is still possible for them to answer my objections by filling in the blanks.  Saying that this is unfair, because biologists have not outlined every last step of the evolution of a complicated biological adaptation is no excuse.   I'll be happy to hear from them how their arguments actually work.  We're waiting ...
 
 
 
