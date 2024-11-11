@@ -88,7 +88,7 @@ This, the last section in Chapter 7, talks about Michael Behe's arguments about 
 
 ### What have Dembski and Ewert accomplished? ###
 
-Of the questions I asked above, they have not answered most of them.   The one example that they give that involves a sequence of digital symbol 
+Of the questions I asked above, they have not answered most of them.   The one example that they give that involves a sequence of digital symbols 
 asks about the probability of a particular protein sequence arising from random sequences of amino acids.  What they give is really not an Algorithmically 
 Specified Complexity agument, but a much older argument.   Usually that argument takes the lengths of modern proteins as a necessary requirement for protein function, and does not take into account that many random protein sequences (and random RNA sequences) show a variety of weak enzymatic function.  And small changes in those sequences often lead to similar amounts of function.  It is therefore not impossible for evolution to follow steps uphill on a fitness surface. 
 
