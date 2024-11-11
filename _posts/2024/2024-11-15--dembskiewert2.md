@@ -9,7 +9,7 @@ author: Joe Felsenstein
 <figcaption><div align="center">The mountain called <em>Six Grandfathers</em> by the 
 Lakota people before it was renamed Mount Rushmore.<br> An image of Mount Rushmore adorns the cover of Dembski and 
   Ewert's book, as an example of a<br/> design inference we make. Does the Lakota name reflect 
-a design inference? <em>Wikimedia, public domain</em></figcaption></figure></div>
+a design inference? <em>Wikimedia, public domain</em></div></figcaption></figure></div>
 
 <p>&nbsp;</p>
 
@@ -94,12 +94,9 @@ Specified Complexity agument, but a much older argument.   Usually that argument
 
 The difficulty with Dembski and Ewert's definition of Algorithmically Specified Complexity is that when the quantity is large, it means that there is a long sequence (of something) which is "described" by a short sequence.  And there is simply no point in their argument that explains why (a) natural selection cannot achieve that, step by step, or (b) why achieving that is needed to result in any adaptation.  The matter is left without discussion.
 
-In his recent critique of mathematical arguments made by creationists and ID advocates, Jason Rosenhouse already made these points.
+There is also a large difference between the new argument and the previous specified complexity arguments.  As I noted in the first section of this review (12 June), the new concept is not a Functional Information argument.  The "probaability" is not the probability that a random sequence has this much <em>or more</em> of the desired trait.  It is just the probability of this sequence.  There is simply no discussion of how to compute a tail probability in some relevant distribution.  Or even in some nonrelevant distribution.
 
-Rosenhouse made same points
-1. No specific argument
-2. Reliance on improbability-from-random-guess
+So we are left with the questions I asked, and re-asked, above.  How does this argument work?  What are the relevant distributions?  What is the "sequence"?  How does the "description" relate to some relevant probability?  Is it a tail probability under some relevant null distribution?
 
-Dembski and Ewert (leave it to the biologists)
 
 
