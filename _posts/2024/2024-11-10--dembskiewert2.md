@@ -52,7 +52,7 @@ are actually the ones obsessed with it). "Perhaps design theorists should shift 
 
 ### Resetting Darwinian Evolution's Bayesian Prior (pages 331-336) ###
 
-Considering the choice between design and natural selection as a Bayesian Inference, it is important what prior probabilities one assigns these two hypotheses.  If one gives design a low enough prior probability, it cannot have any reasonably high posterior probability.  A design inference can be used to "sweep the field clear of all relevant chance hypotheses". (Actually they could only do that if they could show that the probability of the data, given natural selection, was zero, but Demsbki and Ewert don't quite mean that, they mean showing that the data is astronomically improbable).  Biologists argue that there may be many other "chance hypotheses", but this is an argument but mere possibility as they they do not produce these.
+Considering the choice between design and natural selection as a Bayesian Inference, it is important what prior probabilities one assigns these two hypotheses.  If one gives design a low enough prior probability, it cannot have any reasonably high posterior probability.  A design inference can be used to "sweep the field clear of all relevant chance hypotheses". (Actually they could only do that if they could show that the probability of the data, given natural selection, was zero, but Demsbki and Ewert don't quite mean that, they mean showing that the data is astronomically improbable).  Biologists argue that there may be many other "chance hypotheses", but this is an argument by mere possibility as the biologists do not produce these.
 
 ### Who Is Arguing from Ignorance? (pages 337-339) ###
 
