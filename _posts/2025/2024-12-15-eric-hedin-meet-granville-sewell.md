@@ -1,6 +1,8 @@
+---
 title: Eric Hedin, meet Granville Sewell
 date: 2024-12-15 12:00:01 -08
 author: Joe Felsenstein
+---
 
 <figure><img src="/uploads/2024/Nuucichthys.jpg" alt="[An intermediate step]" /><figcaption>
 One of the intermediate steps that Granville Sewell does not 
