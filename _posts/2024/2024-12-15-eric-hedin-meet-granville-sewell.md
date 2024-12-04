@@ -4,11 +4,13 @@ date: 2024-12-15 12:00:01 -08
 author: Joe Felsenstein
 ---
 
+<div align="center">
 <figure><img src="/uploads/2024/Nuucichthys.png" alt="[An intermediate step]" /><figcaption>
 One of the intermediate steps that Granville Sewell does not 
-mention, and which Eric Hedin<br/> sort-of-knows occur.  Reconstruction 
+mention, and which Eric Hedin<br/> sort-of-knows occur.  (a), Reconstruction 
 of a very early vertebrate, the fossil <em>Nuucichthys</em>,<br/> which lived 
-518 million years ago, with its inferred position shown on the vertebrate phylogeny.<br/>  From <a rel="nofollow" class="external free" href="https://doi.org/10.1098/rsos.240350">a paper by Rudy Lerosey-Aubril &amp; Javier Ortega-Hernández</a>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a> From Wikimedia.</figcaption></figure>
+518 million years ago, with (b) its inferred position shown on the vertebrate phylogeny.<br/>  From <a rel="nofollow" class="external free" href="https://doi.org/10.1098/rsos.240350">a paper by Rudy Lerosey-Aubril &amp; Javier Ortega-Hernández</a>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a> From Wikimedia.</figcaption></figure>
+</div>div>
 
 <p>&nbsp;</p>
 Physicist Eric Hedin has posted to the Discovery Institute site 
