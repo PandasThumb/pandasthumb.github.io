@@ -8,7 +8,7 @@ author: Joe Felsenstein
 One of the intermediate steps that Granville Sewell does not 
 mention, and which Eric Hedin sort-of-knows occur.  Reconstruction 
 of a very early vertebrate, the fossil <em>Nuucichthys</em>, which lived 
-518 million years ago.  From [a paper](https://doi.org/10.1098/rsos.240350) 
+518 million years ago, with its inferred position shown on the vertebrate phylogeny.  From [a paper](https://doi.org/10.1098/rsos.240350) 
 By Rudy Lerosey-Aubril &amp; Javier Ortega-Hernández - <a rel="nofollow" class="external free" href="https://doi.org/10.1098/rsos.240350">https://doi.org/10.1098/rsos.240350</a>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a> From Wikimedia.</figcaption></figure>
 
 <p>&nbsp;</p>
