@@ -15,7 +15,7 @@ of a very early vertebrate, the fossil <em>Nuucichthys</em>,<br/> which lived
 <p>&nbsp;</p>
 Physicist Eric Hedin has posted to the Discovery Institute site 
 [Evolution News on 27 November 2024](https://evolutionnews.org/2024/11/theres-a-limit-to-what-nature-can-do/) an argument that the processes of physics cannot 
-account for intelligent life.  As he is a well-trained physicist whose Ph.D. 
+account for intelligent life.  As he is a well-trained physicist (whose Ph.D. 
 degree was from my university), and who has done experimental 
 work on plasma physics, we can expect a mathematically sophisticated 
 argument which would give us all pause.
