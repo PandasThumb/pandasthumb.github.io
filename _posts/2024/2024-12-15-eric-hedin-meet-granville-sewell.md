@@ -4,7 +4,7 @@ date: 2024-12-15 12:00:01 -08
 author: Joe Felsenstein
 ---
 
-<figure><img src="/uploads/2024/Nuucichthys.jpg" alt="[An intermediate step]" /><figcaption>
+<figure><img src="/uploads/2024/Nuucichthys.png" alt="[An intermediate step]" /><figcaption>
 One of the intermediate steps that Granville Sewell does not 
 mention, and which Eric Hedin sort-of-knows occur.  Reconstruction 
 of a very early vertebrate, the fossil <em>Nuucichthys</em>, which lived 
