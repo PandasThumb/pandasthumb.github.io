@@ -35,4 +35,9 @@ intelligent minds".   I wonder how he knows that.
 
 <!--mofre-->
 
-Hedin's argument is quite similar to Granville Sewell's. Sewell asks (rhetircally) whether it is not implausible that advanced technology such as iPhones could have resulted from natural forces, which involve only random collisions of particles.   An example of his argument will be found [here](https://
+## Meet Granville Sewall ##
+
+Hedin's argument is quite similar to Granville Sewell's. Sewell asks (rhetorically) whether it is not implausible that advanced technology such as iPhones could have resulted from natural forces, which involve only random collisions of particles.   An example of his argument will be found [here](https://evolutionnews.org/2021/04/some-problems-can-be-proved-unsolvable/), where he asks it is possible to 
+>Explain how life could have originated and evolved into intelligent humans, through entirely natural (unintelligent) processes.
+
+Granville Sewall is a mathematician, who is Emeritus Professor at the University of Texas at El Paso.  He is a specialist in differential equations. 
