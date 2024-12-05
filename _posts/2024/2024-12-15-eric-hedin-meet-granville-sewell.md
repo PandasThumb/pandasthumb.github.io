@@ -32,3 +32,7 @@ and
 
 And basically, that's the argument.  Evolutionary biology does not pretend to address the origin of the universe, or the issue of fine-tuning in physics, and even the origin of life is outside its scope, though adjacent.  But somehow Hedin knows that physical forces cannot explain "the origin of conscious, 
 intelligent minds".   I wonder how he knows that.  
+
+<!--mofre-->
+
+Hedin's argument is quite similar to Granville Sewell's. Sewell asks (rhetircally) whether it is not implausible that advanced technology such as iPhones could have resulted from natural forces, which involve only random collisions of particles.   An example of his argument will be found [here](https://
