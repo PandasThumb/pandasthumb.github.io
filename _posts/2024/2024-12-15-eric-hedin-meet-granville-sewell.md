@@ -41,3 +41,6 @@ Hedin's argument is quite similar to Granville Sewell's. Sewell asks (rhetorical
 >Explain how life could have originated and evolved into intelligent humans, through entirely natural (unintelligent) processes.
 
 Granville Sewall is a mathematician, who is Emeritus Professor at the University of Texas at El Paso.  He is a specialist in differential equations. 
+
+> Well, I have a very simple proof that the biological problem #3  \[the one mentioned above\] posed above is also impossible to solve, that does fit in the margin of this document. All one needs to do is realize that if a solution were found, we would have proved something obviously false, that a few (four, apparently) fundamental, unintelligent forces of physics alone could have rearranged the fundamental particles of physics into libraries full of science texts and encyclopedias, computers connected to monitors, keyboards, laser printers and the Internet, cars, trucks, airplanes, nuclear power plants and Apple iPhones. 
+
