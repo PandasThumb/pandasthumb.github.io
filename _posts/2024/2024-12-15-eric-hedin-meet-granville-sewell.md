@@ -48,7 +48,29 @@ These are from a 2021 post at Evolution News (which I linked is above). It shoul
 
 ## What's left out ##
 
-Granville Sewell's argument has been commented on many times here.  I have posted a number of times (
+Granville Sewell's argument was repeatedly promoted by him, in various versions.  Examples of his advocacy will be found
+
+[here](http://dx.doi.org/10.1142/9789814508728_0007), 
+[here](https://www.math.utep.edu/faculty/sewell/articles/pe_sewell.html), 
+
+[here](https://evolutionnews.org/2018/05/i-believe-in-the-evolution-of-life-and-the-evolution-of-automobiles/), 
+[here](https://evolutionnews.org/2018/08/who-is-doing-pseudoscience/), 
+[here](https://evolutionnews.org/2018/11/why-evolution-and-reproduction-are-unnatural/), 
+[here](https://evolutionnews.org/2019/05/two-schemes-to-defeat-the-second-law/), 
+[here](https://evolutionnews.org/2020/01/how-science-lost-its-mind/),
+[here](https://evolutionnews.org/2020/06/new-video-why-evolution-is-different/),
+[here](https://evolutionnews.org/2020/10/my-failed-computer-simulation/),
+[here](https://evolutionnews.org/2021/04/some-problems-can-be-proved-unsolvable/),   *** ALREADY? ***
+[here](https://evolutionnews.org/2022/01/the-underlying-principle-behind-the-second-law/),
+[here](https://evolutionnews.org/2022/06/three-realities-chance-cant-explain-that-intelligent-design-can/).
+[here](https://evolutionnews.org/2023/03/yes-extraordinary-claims-require-extraordinary-evidence-lets-hear-some-for-darwinian-evolution/),
+[here](https://evolutionnews.org/2023/07/in-summary-presenting-the-evidence-for-intelligent-design/),
+[here](https://evolutionnews.org/2023/08/how-the-supernatural-entered-science/),
+[here](https://evolutionnews.org/2024/03/life-and-the-underlying-principle-behind-the-second-law-of-thermodynamics/),
+[here](https://evolutionnews.org/2024/07/introduction-to-the-scientific-theory-of-intelligent-design/)
+
+
+has been commented on many times here.  I have posted a number of times ([here](http://pandasthumb.org/archives/2010/02/evidence-that-t.html), [here](http://pandasthumb.org/archives/2011/02/granville-sewel.html), [here](https://pandasthumb.org/archives/2011/11/granville-sewel-1.html), [here](http://pandasthumb.org/archives/2021/05/Granville-Sewell-thinks-its-obvious.html), 
 ## What's sort-of included ##
 
 ## Intelligent brains?  Or "minds"? ##
