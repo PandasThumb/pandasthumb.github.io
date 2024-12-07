@@ -44,7 +44,17 @@ Granville Sewell is a mathematician, who is Professor Emeritus in the Departrmen
 
 > Well, I have a very simple proof that the biological problem #3  \[the one mentioned above\] posed above is also impossible to solve, that does fit in the margin of this document. All one needs to do is realize that if a solution were found, we would have proved something obviously false, that a few (four, apparently) fundamental, unintelligent forces of physics alone could have rearranged the fundamental particles of physics into libraries full of science texts and encyclopedias, computers connected to monitors, keyboards, laser printers and the Internet, cars, trucks, airplanes, nuclear power plants and Apple iPhones.
 
-These are from a 2021 post at Evolution News (which I linked is above). It should be obvious that these two arguments are similar, since they invoke physics.  They also lack mathematical details.
+These are from a 2021 post at Evolution News (which I linked is above). It should be obvious that these two arguments are similar, since they invoke physics.  They are also similar in lacking mathematical details.
 
+## What's left out ##
+
+Granville Sewell's argument has been commented on many times here.  I have posted a number of times (
+## What's sort-of included ##
+
+## Intelligent brains?  Or "minds"? ##
+
+## Can brains evolve to get smarter? ##
+
+## The Extended Evolutionary Synthesis, misunderstood ##
 
 
