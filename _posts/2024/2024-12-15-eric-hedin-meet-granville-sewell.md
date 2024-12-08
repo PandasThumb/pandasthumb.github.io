@@ -53,6 +53,7 @@ Granville Sewell's argument was repeatedly promoted by him, in various versions.
 [here](https://spectator.org/47666_evolutions-thermodynamic-failure/), 
 [here](http://dx.doi.org/10.1142/9789814508728_0007), 
 [here](https://www.math.utep.edu/faculty/sewell/articles/pe_sewell.html), 
+[here](https://uncommondescent.com/intelligent-design/new-video-evolution-is-a-natural-process-running-backward-2/), 
 [here](https://www.amazon.com/Beginning-Other-Essays-Intelligent-Design/dp/1936599279/), 
 [here](https://evolutionnews.org/2018/05/i-believe-in-the-evolution-of-life-and-the-evolution-of-automobiles/), 
 [here](https://evolutionnews.org/2018/08/who-is-doing-pseudoscience/), 
