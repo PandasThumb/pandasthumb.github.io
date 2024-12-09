@@ -77,14 +77,16 @@ Granville Sewell's argument has been repeatedly promoted by him, in various vers
 
 I may have missed a few, but you get the idea.
 
-Granville Sewell's argument has been commented on many times over the years. Two physicists, the late Mark Perakh [(here)](http://www.talkreason.org/articles/sewell.cfm), and Dan Styer 
-([here](),and [here](https://www2.oberlin.edu/physics/dstyer/SandE/ObviousImplausibility.pdf))
-and a mathematician, Jason Rosenhouse [(here)](https://skepticalinquirer.org/exclusive/does-evolution-have-a-thermodynamics-problem/),  
+Granville Sewell's argument has been commented on many times over the years. The late physicist Mark Perakh 
+[(here)](http://www.talkreason.org/articles/sewell.cfm), 
+a mathematician, Jason Rosenhouse [(here)](https://skepticalinquirer.org/exclusive/does-evolution-have-a-thermodynamics-problem/), and physicist Dan Styer 
+([here](https://www2.oberlin.edu/physics/dstyer/SandE/StyerRemarksOnSewellPE.pdf),and [here](https://www2.oberlin.edu/physics/dstyer/SandE/ObviousImplausibility.pdf))
 sternly criticized his assertions that evolution contradicts the Second Law of Thermodynamics.
 
 
 has been commented on many times here.  I have posted a number of times at Panda's Thumb and at The Skeptical Zone 
-([here](http://pandasthumb.org/archives/2010/02/evidence-that-t.html), [here](http://pandasthumb.org/archives/2011/02/granville-sewel.html), 
+([here](http://pandasthumb.org/archives/2010/02/evidence-that-t.html), 
+[here](http://pandasthumb.org/archives/2011/02/granville-sewel.html), 
 [here](https://pandasthumb.org/archives/2011/11/granville-sewel-1.html), 
 [here](http://pandasthumb.org/archives/2021/05/Granville-Sewell-thinks-its-obvious.html), 
 and [here](http://theskepticalzone.com/wp/what-is-obvious-to-granville-sewell/)).
