@@ -70,15 +70,13 @@ Granville Sewell's argument was repeatedly promoted by him, in various versions.
 [here](https://evolutionnews.org/2023/07/in-summary-presenting-the-evidence-for-intelligent-design/), 
 [here](https://evolutionnews.org/2023/08/how-the-supernatural-entered-science/), 
 [here](https://evolutionnews.org/2024/03/life-and-the-underlying-principle-behind-the-second-law-of-thermodynamics/), and 
-[here](https://evolutionnews.org/2024/07/introduction-to-the-scientific-theory-of-intelligent-design/)
+[here](https://evolutionnews.org/2024/07/introduction-to-the-scientific-theory-of-intelligent-design/).
 
 I may have missed a few, but you get the idea.
 
 Granville Sewell's argument has been commented on many times over the years.   
 
-
-
-has been commented on many times here.  I have posted a number of times ([here](http://pandasthumb.org/archives/2010/02/evidence-that-t.html), [here](http://pandasthumb.org/archives/2011/02/granville-sewel.html), [here](https://pandasthumb.org/archives/2011/11/granville-sewel-1.html), [here](http://pandasthumb.org/archives/2021/05/Granville-Sewell-thinks-its-obvious.html), 
+has been commented on many times here.  I have posted a number of times at Panda's Thumb and at The Skeptical Zone ([here](http://pandasthumb.org/archives/2010/02/evidence-that-t.html), [here](http://pandasthumb.org/archives/2011/02/granville-sewel.html), [here](https://pandasthumb.org/archives/2011/11/granville-sewel-1.html), [here](http://pandasthumb.org/archives/2021/05/Granville-Sewell-thinks-its-obvious.html), 
 
 ## What's sort-of included ##
 
