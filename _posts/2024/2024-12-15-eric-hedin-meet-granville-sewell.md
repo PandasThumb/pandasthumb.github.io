@@ -98,8 +98,8 @@ that Sewell thinks that the "rearrangement" of fundamental particles includes qu
 a few steps that we generally don't attribute to Design Intervention, including:
 
 > <ul>
-  <li> Elementary particles aggregating to form larger particles</li>
-  <li> Those particles forming atoms</li>
+> <li> Elementary particles aggregating to form larger particles</li>
+> <li> Those particles forming atoms</li>
   <li> Atoms becoming connected by bonds to form chemicals</li>
   <li> Chemicals interacting to form cosmic dust</li>
   <li> Cosmic dust forming clouds by the attraction of gravity</li>
