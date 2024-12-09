@@ -79,17 +79,28 @@ I may have missed a few, but you get the idea.
 
 Granville Sewell's argument has been commented on many times over the years. The late physicist Mark Perakh 
 [(here)](http://www.talkreason.org/articles/sewell.cfm), 
-a mathematician, Jason Rosenhouse [(here)](https://skepticalinquirer.org/exclusive/does-evolution-have-a-thermodynamics-problem/), and physicist Dan Styer 
+the mathematician Jason Rosenhouse [(here)](https://skepticalinquirer.org/exclusive/does-evolution-have-a-thermodynamics-problem/), and physicist Dan Styer 
 ([here](https://www2.oberlin.edu/physics/dstyer/SandE/StyerRemarksOnSewellPE.pdf), and [here](https://www2.oberlin.edu/physics/dstyer/SandE/ObviousImplausibility.pdf))
-sternly criticized his assertions that evolution contradicts the Second Law of Thermodynamics.
+sternly criticized his assertions that evolution contradicts the Second Law of Thermodynamics.  Sewell has since 
+quietly backed away from his original assertions about the Second Law of Thermodynamics, instead coming up 
+with an ill-defined concept of "X-entropy".
 
-
-has been commented on many times here.  I have posted a number of times at Panda's Thumb and at The Skeptical Zone 
+His arguments have been 
+commented on many times here.  I have posted a number of times at Panda's Thumb and at The Skeptical Zone 
 ([here](http://pandasthumb.org/archives/2010/02/evidence-that-t.html), 
 [here](http://pandasthumb.org/archives/2011/02/granville-sewel.html), 
 [here](https://pandasthumb.org/archives/2011/11/granville-sewel-1.html), 
 [here](http://pandasthumb.org/archives/2021/05/Granville-Sewell-thinks-its-obvious.html), 
 and [here](http://theskepticalzone.com/wp/what-is-obvious-to-granville-sewell/)).
+
+In my 2021 post (the fourth one above), I noted that the physical processes 
+that Sewell thinks that the "rearrangement" of fundamental particles includes quite 
+a few steps that we generally don't attribute to Design Intervention, including:
+
+
+
+
+
 
 ## What's sort-of included ##
 
