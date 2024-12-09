@@ -97,6 +97,25 @@ In my 2021 post (the fourth one above), I noted that the physical processes
 that Sewell thinks that the "rearrangement" of fundamental particles includes quite 
 a few steps that we generally don't attribute to Design Intervention, including:
 
+> <ul>
+  <li> Elementary particles aggregating to form larger particles</li>
+  <li> Those particles forming atoms</li>
+  <li> Atoms becoming connected by bonds to form chemicals</li>
+  <li> Chemicals interacting to form cosmic dust</li>
+  <li> Cosmic dust forming clouds by the attraction of gravity</li>
+  <li> Gravity in dust clouds leading to clumps that become a solar system</li>
+  <li> ... including the formation of a star and planets</li>
+  <li> Lots of geology (steps omitted)</li>
+  <li> An early Earth with interesting organic chemicals</li>
+  <li> Origin of life</li>
+  <li> Evolution of protists and single-celled eukaryotes</li>
+  <li> Evolution of multicellular life</li>
+  <li> Evolution of people</li>
+  <li> People producing tools</li>
+  <li> People producing agriculture</li>
+  <li> and civilization,</li>
+  <li> and technology</li>
+</ul>
 
 
 
