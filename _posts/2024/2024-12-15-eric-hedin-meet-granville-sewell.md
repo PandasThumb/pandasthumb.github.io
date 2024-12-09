@@ -78,7 +78,7 @@ Granville Sewell's argument has been repeatedly promoted by him, in various vers
 I may have missed a few, but you get the idea.
 
 Granville Sewell's argument has been commented on many times over the years. Two physicists, the late Mark Perakh [(here)](http://www.talkreason.org/articles/sewell.cfm), and Dan Styer 
-[(here)](),
+([here](),and [here](https://www2.oberlin.edu/physics/dstyer/SandE/ObviousImplausibility.pdf))
 and a mathematician, Jason Rosenhouse [(here)](https://skepticalinquirer.org/exclusive/does-evolution-have-a-thermodynamics-problem/),  
 sternly criticized his assertions that evolution contradicts the Second Law of Thermodynamics.
 
