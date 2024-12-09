@@ -49,28 +49,28 @@ These are from a 2021 post at Evolution News (which I linked is above). It shoul
 ## What Sewell has left out ##
 
 Granville Sewell's argument was repeatedly promoted by him, in various versions.  In addition to the link in the previous section, examples of his advocacy will be found in blogs such as Evolution News and Uncommon Descent and in papers, book chapters and videos (here I take a deep breath)
-[here](https://www.math.utep.edu/faculty/sewell/articles/mathint.pdf),
+[here](https://www.math.utep.edu/faculty/sewell/articles/mathint.pdf), 
 [here](https://www.math.utep.edu/faculty/sewell/articles/open.pdf), 
 [here](https://spectator.org/47666_evolutions-thermodynamic-failure/), 
 [here](http://dx.doi.org/10.1142/9789814508728_0007), 
 [here](https://www.math.utep.edu/faculty/sewell/articles/pe_sewell.html), 
 [here](https://uncommondescent.com/intelligent-design/new-video-evolution-is-a-natural-process-running-backward-2/), 
-[here](https://www.math.utep.edu/faculty/sewell/AML_3497.pdf), 
-[here](https://evolutionnews.org/2012/02/looking_for_the/),  
+[here](https://www.math.utep.edu/faculty/sewell/AML_3497.pdf),  
+[here](https://evolutionnews.org/2012/02/looking_for_the/), 
 [here](https://www.amazon.com/Beginning-Other-Essays-Intelligent-Design/dp/1936599279/), 
 [here](https://evolutionnews.org/2018/05/i-believe-in-the-evolution-of-life-and-the-evolution-of-automobiles/), 
 [here](https://evolutionnews.org/2018/08/who-is-doing-pseudoscience/), 
-[here](https://evolutionnews.org/2018/11/why-evolution-and-reproduction-are-unnatural/), 
-[here](https://evolutionnews.org/2019/05/two-schemes-to-defeat-the-second-law/), 
-[here](https://evolutionnews.org/2020/01/how-science-lost-its-mind/),
-[here](https://evolutionnews.org/2020/06/new-video-why-evolution-is-different/),
+[here](https://evolutionnews.org/2018/11/why-evolution-and-reproduction-are-unnatural/),  
+[here](https://evolutionnews.org/2019/05/two-schemes-to-defeat-the-second-law/),  
+[here](https://evolutionnews.org/2020/01/how-science-lost-its-mind/), 
+[here](https://evolutionnews.org/2020/06/new-video-why-evolution-is-different/), 
 [here](https://evolutionnews.org/2020/10/my-failed-computer-simulation/), 
-[here](https://evolutionnews.org/2022/01/the-underlying-principle-behind-the-second-law/),
-[here](https://evolutionnews.org/2022/06/three-realities-chance-cant-explain-that-intelligent-design-can/).
-[here](https://evolutionnews.org/2023/03/yes-extraordinary-claims-require-extraordinary-evidence-lets-hear-some-for-darwinian-evolution/),
-[here](https://evolutionnews.org/2023/07/in-summary-presenting-the-evidence-for-intelligent-design/),
-[here](https://evolutionnews.org/2023/08/how-the-supernatural-entered-science/),
-[here](https://evolutionnews.org/2024/03/life-and-the-underlying-principle-behind-the-second-law-of-thermodynamics/),
+[here](https://evolutionnews.org/2022/01/the-underlying-principle-behind-the-second-law/), 
+[here](https://evolutionnews.org/2022/06/three-realities-chance-cant-explain-that-intelligent-design-can/), 
+[here](https://evolutionnews.org/2023/03/yes-extraordinary-claims-require-extraordinary-evidence-lets-hear-some-for-darwinian-evolution/), 
+[here](https://evolutionnews.org/2023/07/in-summary-presenting-the-evidence-for-intelligent-design/), 
+[here](https://evolutionnews.org/2023/08/how-the-supernatural-entered-science/), 
+[here](https://evolutionnews.org/2024/03/life-and-the-underlying-principle-behind-the-second-law-of-thermodynamics/), and
 [here](https://evolutionnews.org/2024/07/introduction-to-the-scientific-theory-of-intelligent-design/)
 
 I may have missed a few, but you get the idea.
