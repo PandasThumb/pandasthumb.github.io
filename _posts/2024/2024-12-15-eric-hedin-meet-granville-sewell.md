@@ -83,8 +83,11 @@ and a mathematician, Jason Rosenhouse [(here)](https://skepticalinquirer.org/exc
 sternly criticized his assertions that evolution contradicts the Second Law of Thermodynamics.
 
 
-has been commented on many times here.  I have posted a number of times at Panda's Thumb and at The Skeptical Zone ([here](http://pandasthumb.org/archives/2010/02/evidence-that-t.html), [here](http://pandasthumb.org/archives/2011/02/granville-sewel.html), [here](https://pandasthumb.org/archives/2011/11/granville-sewel-1.html), [here](http://pandasthumb.org/archives/2021/05/Granville-Sewell-thinks-its-obvious.html), 
-and [here]()
+has been commented on many times here.  I have posted a number of times at Panda's Thumb and at The Skeptical Zone 
+([here](http://pandasthumb.org/archives/2010/02/evidence-that-t.html), [here](http://pandasthumb.org/archives/2011/02/granville-sewel.html), 
+[here](https://pandasthumb.org/archives/2011/11/granville-sewel-1.html), 
+[here](http://pandasthumb.org/archives/2021/05/Granville-Sewell-thinks-its-obvious.html), 
+and [here](http://theskepticalzone.com/wp/what-is-obvious-to-granville-sewell/)).
 
 ## What's sort-of included ##
 
