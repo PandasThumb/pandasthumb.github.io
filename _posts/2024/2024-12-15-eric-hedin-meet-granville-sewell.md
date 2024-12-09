@@ -14,7 +14,8 @@ of a very early vertebrate, the fossil <em>Nuucichthys</em>,<br/> which lived
 
 <p>&nbsp;</p>
 Physicist Eric Hedin has posted to the Discovery Institute site 
-[Evolution News on 27 November 2024](https://evolutionnews.org/2024/11/theres-a-limit-to-what-nature-can-do/) an argument that the processes of physics cannot 
+[Evolution News on 27 November 2024](https://evolutionnews.org/2024/11/theres-a-limit-to-what-nature-can-do/)
+an argument that the processes of physics cannot 
 account for intelligent life.  As he is a well-trained physicist (whose Ph.D. 
 degree was from my university), and who has done experimental 
 work on plasma physics, we can expect a mathematically sophisticated 
@@ -48,15 +49,17 @@ These are from a 2021 post at Evolution News (which I linked is above). It shoul
 
 ## What Sewell has left out ##
 
-Granville Sewell's argument was repeatedly promoted by him, in various versions.  In addition to the link in the previous section, examples of his advocacy will be found in blogs such as Evolution News and Uncommon Descent and in papers, book chapters and videos (here I take a deep breath)
+Granville Sewell's argument has been repeatedly promoted by him, in various versions.  In addition to the link in the previous section, examples of his advocacy will be found in blogs such as Evolution News and Uncommon Descent and in papers, book chapters and videos (here I take a deep breath)
 [here](https://www.math.utep.edu/faculty/sewell/articles/mathint.pdf), 
 [here](https://www.math.utep.edu/faculty/sewell/articles/open.pdf), 
 [here](https://spectator.org/47666_evolutions-thermodynamic-failure/), 
 [here](https://dx.doi.org/10.1142/9789814508728_0007), [here](https://www.math.utep.edu/faculty/sewell/articles/pe_sewell.html), 
+[here]()
 [here](https://uncommondescent.com/intelligent-design/new-video-evolution-is-a-natural-process-running-backward-2/), 
 [here](https://www.math.utep.edu/faculty/sewell/AML_3497.pdf), 
 [here](https://evolutionnews.org/2012/02/looking_for_the/), 
 [here](https://www.amazon.com/Beginning-Other-Essays-Intelligent-Design/dp/1936599279/), 
+[here](https://bio-complexity.org/ojs/index.php/main/article/view/BIO-C.2013.2/BIO-C.2013.2), 
 [here](https://evolutionnews.org/2018/05/i-believe-in-the-evolution-of-life-and-the-evolution-of-automobiles/), 
 [here](https://evolutionnews.org/2018/08/who-is-doing-pseudoscience/), 
 [here](https://evolutionnews.org/2018/11/why-evolution-and-reproduction-are-unnatural/), 
@@ -74,8 +77,10 @@ Granville Sewell's argument was repeatedly promoted by him, in various versions.
 
 I may have missed a few, but you get the idea.
 
-Granville Sewell's argument has been commented on many times over the years. Two physicists, the late Mark Perakh [(here)]( ), and Dan Styer 
-[(here)](), have sternly criticized his assertions that evolution contradicts the Second Law of Thermodynamics.
+Granville Sewell's argument has been commented on many times over the years. Two physicists, the late Mark Perakh [(here)](http://www.talkreason.org/articles/sewell.cfm), and Dan Styer 
+[(here)](),
+and a mathematician, Jason Rosenhouse [(here)](https://skepticalinquirer.org/exclusive/does-evolution-have-a-thermodynamics-problem/),  
+sternly criticized his assertions that evolution contradicts the Second Law of Thermodynamics.
 
 
 has been commented on many times here.  I have posted a number of times at Panda's Thumb and at The Skeptical Zone ([here](http://pandasthumb.org/archives/2010/02/evidence-that-t.html), [here](http://pandasthumb.org/archives/2011/02/granville-sewel.html), [here](https://pandasthumb.org/archives/2011/11/granville-sewel-1.html), [here](http://pandasthumb.org/archives/2021/05/Granville-Sewell-thinks-its-obvious.html), 
