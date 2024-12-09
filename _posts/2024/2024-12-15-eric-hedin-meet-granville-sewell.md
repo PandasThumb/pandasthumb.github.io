@@ -93,33 +93,36 @@ commented on many times here.  I have posted a number of times at Panda's Thumb 
 [here](http://pandasthumb.org/archives/2021/05/Granville-Sewell-thinks-its-obvious.html), 
 and [here](http://theskepticalzone.com/wp/what-is-obvious-to-granville-sewell/)).
 
-In my 2021 post (the fourth one above), I noted that the physical processes 
+In my 2021 post (the fourth one above), I noted that the processes 
 that Sewell thinks that the "rearrangement" of fundamental particles includes quite 
 a few steps that we generally don't attribute to Design Intervention, including:
 
 > <ul>
 > <li> Elementary particles aggregating to form larger particles</li>
 > <li> Those particles forming atoms</li>
-  <li> Atoms becoming connected by bonds to form chemicals</li>
-  <li> Chemicals interacting to form cosmic dust</li>
-  <li> Cosmic dust forming clouds by the attraction of gravity</li>
-  <li> Gravity in dust clouds leading to clumps that become a solar system</li>
-  <li> ... including the formation of a star and planets</li>
-  <li> Lots of geology (steps omitted)</li>
-  <li> An early Earth with interesting organic chemicals</li>
-  <li> Origin of life</li>
-  <li> Evolution of protists and single-celled eukaryotes</li>
-  <li> Evolution of multicellular life</li>
-  <li> Evolution of people</li>
-  <li> People producing tools</li>
-  <li> People producing agriculture</li>
-  <li> and civilization,</li>
-  <li> and technology</li>
-</ul>
+> <li> Atoms becoming connected by bonds to form chemicals</li>
+> <li> Chemicals interacting to form cosmic dust</li>
+> <li> Cosmic dust forming clouds by the attraction of gravity</li>
+> <li> Gravity in dust clouds leading to clumps that become a solar system</li>
+> <li> ... including the formation of a star and planets</li>
+> <li> Lots of geology (steps omitted)</li>
+> <li> An early Earth with interesting organic chemicals</li>
+> <li> Origin of life</li>
+> <li> Evolution of protists and single-celled eukaryotes</li>
+> <li> Evolution of multicellular life</li>
+> <li> Evolution of people</li>
+> <li> People producing tools</li>
+> <li> People producing agriculture</li>
+> <li> and civilization,</li>
+> <li> and technology</li>
+> </ul>
 
-
-
-
+These include processes of physics, astronomy, geology, and chemistry.  Those are fields that get 
+along fine without any Design Intervention.  Likewise we know people can produce agriculture, 
+civilization, and technology.  That's already an awful lot of Granville Sewell's process of "particles 
+rearranging themselves".  There are parts of the evolution of life (and the origin of life) 
+that ID advocates dispute, but much of their concentration is on two of the list items, the 
+origin of life and the evolution of humans.
 
 ## What's sort-of included ##
 
