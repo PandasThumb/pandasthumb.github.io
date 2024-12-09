@@ -33,7 +33,7 @@ and
 And basically, that's the argument.  Evolutionary biology does not pretend to address the origin of the universe, or the issue of fine-tuning in physics, and even the origin of life is outside its scope, though adjacent.  But somehow Hedin knows that physical forces cannot explain "the origin of conscious, 
 intelligent minds".   I wonder how he knows that.  
 
-<!--mofre-->
+<!--more-->
 
 ## Meet Granville Sewell ##
 
@@ -44,11 +44,11 @@ Granville Sewell is a mathematician, who is Professor Emeritus in the Departrmen
 
 > Well, I have a very simple proof that the biological problem #3  \[the one mentioned above\] posed above is also impossible to solve, that does fit in the margin of this document. All one needs to do is realize that if a solution were found, we would have proved something obviously false, that a few (four, apparently) fundamental, unintelligent forces of physics alone could have rearranged the fundamental particles of physics into libraries full of science texts and encyclopedias, computers connected to monitors, keyboards, laser printers and the Internet, cars, trucks, airplanes, nuclear power plants and Apple iPhones.
 
-These are from a 2021 post at Evolution News (which I linked is above). It should be obvious that these two arguments are similar, since they invoke physics.  They are also similar in lacking mathematical details, although Sewell does present a partial differential equation for the simple diffusion of a chemical element outwards from an area of concentration.
+These are from a 2021 post at Evolution News (which I linked is above). It should be obvious that these two arguments are similar, since they invoke physics.  They are also similar in lacking mathematical details, although elsewhere Sewell does present a partial differential equation for the simple diffusion of a chemical element outwards from an area of concentration.
 
 ## What Sewell has left out ##
 
-Granville Sewell's argument was repeatedly promoted by him, in various versions.  In addition to the link in the previous section, examples of his advocacy will be found in blogs such as Evolution News and Uncommon Descent and in papers, book chapters and videos (taking a deep breath)
+Granville Sewell's argument was repeatedly promoted by him, in various versions.  In addition to the link in the previous section, examples of his advocacy will be found in blogs such as Evolution News and Uncommon Descent and in papers, book chapters and videos (here I take a deep breath)
 [here](https://www.math.utep.edu/faculty/sewell/articles/mathint.pdf),
 [here](https://www.math.utep.edu/faculty/sewell/articles/open.pdf), 
 [here](https://spectator.org/47666_evolutions-thermodynamic-failure/), 
@@ -72,6 +72,11 @@ Granville Sewell's argument was repeatedly promoted by him, in various versions.
 [here](https://evolutionnews.org/2023/08/how-the-supernatural-entered-science/),
 [here](https://evolutionnews.org/2024/03/life-and-the-underlying-principle-behind-the-second-law-of-thermodynamics/),
 [here](https://evolutionnews.org/2024/07/introduction-to-the-scientific-theory-of-intelligent-design/)
+
+I may have missed a few, but you get the idea.
+
+Granville Sewell's argument has been commented on many times over the years.   
+
 
 
 has been commented on many times here.  I have posted a number of times ([here](http://pandasthumb.org/archives/2010/02/evidence-that-t.html), [here](http://pandasthumb.org/archives/2011/02/granville-sewel.html), [here](https://pandasthumb.org/archives/2011/11/granville-sewel-1.html), [here](http://pandasthumb.org/archives/2021/05/Granville-Sewell-thinks-its-obvious.html), 
