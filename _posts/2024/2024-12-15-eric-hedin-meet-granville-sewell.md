@@ -120,9 +120,12 @@ a few steps that we generally don't attribute to Design Intervention, including:
 These include processes of physics, astronomy, geology, and chemistry.  Those are fields that get 
 along fine without any Design Intervention.  Likewise we know people can produce agriculture, 
 civilization, and technology.  That's already an awful lot of Granville Sewell's process of "particles 
-rearranging themselves".  There are parts of the evolution of life (and the origin of life) 
+rearranging themselves".  There are numerous parts of the evolution of life (and the origin of life) 
 that ID advocates dispute, but much of their concentration is on two of the list items, the 
 origin of life and the evolution of humans.
+
+Eric Hedin faces similar issues, but is more cautious in his assertions.    He focuses on fine-tuning arguments, which are outside of the domain of evolutionary biology, but also on the origin of life and on the origin of conscious, 
+intelligent minds.   
 
 ## What's sort-of included ##
 
