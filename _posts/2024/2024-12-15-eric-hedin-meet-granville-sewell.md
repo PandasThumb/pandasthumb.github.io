@@ -127,11 +127,20 @@ origin of life and the evolution of humans.
 ## Hedin compared to Sewell ##
 
 Eric Hedin faces similar issues, but is more cautious in his assertions.    He focuses on fine-tuning arguments, which are outside of the domain of evolutionary biology, but also on the origin of life and on the origin of conscious, 
-intelligent minds.   
+intelligent minds.   Hedin has written many posts on Evolution News (for a list of them see [here](https://evolutionnews.org/author/ehedin/)).  In [one of the earlier ones](https://evolutionnews.org/2023/05/is-life-an-information-ratchet/) last year, he argued that a conservation-of-information argument showed that an evolving species could not gain specified information.  I disputed this 
+in [a post here at Panda's Thumb](https://pandasthumb.org/archives/2023/08/Hedin-information-principle.html).  Reading Hedin's post closely, it could be seen that while he didn't think it was possible for evolving organisms to 
+produce "novel complex functionality", he did acknowledge that natural selection can accumulate information:
 
-## What's sort-of included ##
+> But what can this “ratchet” do? No more than it was designed to do — namely to reproduce daughter organisms according to its inherent mechanism of reproduction. Variations in the organism’s genome, by any unguided process, may lead to an increase in fitness and therefore survivability. But natural processes cannot produce unnatural results. Selection based on the ratchet mechanism of increased fitness cannot of itself produce novel complex functionality if each successive small change does not give some increased advantage towards survival and reproduction.
+
+So while Granville Sewell implies, without proof, that accumulation of favorable mutants by natural selection is a thermodynamic impossibility, Eric Hedin acknowledges that it is a possibility.  He confines his objections to "novel, complex functionality".  The chief example he gives of this is the origin of a conscious, intelligent "mind".
 
 ## Intelligent brains?  Or "minds"? ##
+
+We have to be careful here.  It is tempting to think that Hedin is describing conscious, intelligent *brains*.  After all, our mind is just stuff that happens in our brains, isn't it?
+
+
+
 
 ## Can brains evolve to get smarter? ##
 
