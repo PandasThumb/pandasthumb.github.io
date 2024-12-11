@@ -124,6 +124,8 @@ rearranging themselves".  There are numerous parts of the evolution of life (and
 that ID advocates dispute, but much of their concentration is on two of the list items, the 
 origin of life and the evolution of humans.
 
+## Hedin compared to Sewell ##
+
 Eric Hedin faces similar issues, but is more cautious in his assertions.    He focuses on fine-tuning arguments, which are outside of the domain of evolutionary biology, but also on the origin of life and on the origin of conscious, 
 intelligent minds.   
 
