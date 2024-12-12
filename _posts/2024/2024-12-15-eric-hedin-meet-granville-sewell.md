@@ -151,7 +151,7 @@ choose a route for itself to its burrow, that seems to me to be an early form of
 if I am *there* and the bush is *there* and the log is *there*, and my burrow is behind the tree, then I should go 
 to the left of the bush, over log, and to the right of the tree, and there will be the burrow."  The mouse is making a representation of its environment with a representation of itself, viewed from outside.  From there, more elaborate forms of consciousness could, I think, evolve.
 
-And there is, in fact, evidence of such a map of the surroundings in the brains of rats.   See, for example, [this report](https://www.hhmi.org/news/uncovering-the-neural-basis-for-hypothetical-thinking-in-rats))
+And there is, in fact, evidence of such a map of the surroundings in the brains of rats.   See, for example, [this report](https://www.hhmi.org/news/uncovering-the-neural-basis-for-hypothetical-thinking-in-rats)).
 
 If any of this makes sense then there is no reason to suppose that there is some barrier to the evolution of conscious, intelligent brains.  In which case Eric Hedin's argument boils down to simple incredulity, without any logical proof of a barrier to evolution by ordinary evolutionary processes.
 
