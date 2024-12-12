@@ -1,6 +1,6 @@
 ---
 title: Eric Hedin, meet Granville Sewell
-date: 2024-12-15 12:00:01 -08
+date: 2024-12-11 21:00:01 -08:00
 author: Joe Felsenstein
 ---
 
