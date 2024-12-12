@@ -137,7 +137,7 @@ So while Granville Sewell implies, without proof, that accumulation of favorable
 
 ## Intelligent brains?  Or "minds"? ##
 
-We have to be careful here.  It is tempting to think that Hedin is describing conscious, intelligent *brains*.  After all, our mind is just stuff that happens in our brains, isn't it?
+We have to be careful here.  It is tempting to think that Hedin is describing conscious, intelligent *brains*.  After all, our mind is just stuff that happens in our brains, isn't it?  In Hedin's terminology, "mind" is quite distinct from the mere activity of the brain.
 
 
 
