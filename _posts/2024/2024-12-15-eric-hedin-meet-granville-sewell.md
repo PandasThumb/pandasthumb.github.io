@@ -146,16 +146,17 @@ I have no understanding of how minds might evolve in a spiritual world, so I am 
 Can brains get better at thinking?  They certainly vary from species to species in the ability to think.  In their simplest forms they can't do very much thinking.   That's where the image at the start of this article becomes relevant.  It shows *Nuucichthys*, a recently-discovered early vertebrate, from the early Cambrian.  It has eyes near its front, and it is quite a good assumption that they connect to a primitive brain.  Given that bigger brains are needed to have more intelligent behavior, there is really no reason to imagine a barrier to the evolution of more intelligence by ordinary evolutionary processes.
 
 And what about consciousness?  We usually think about consciousness in terms of conscious behavior of humans, contemplating beauty, morality, and mortality.  All very lofty and difficult.  But if we take an evolutionary view of it, 
-we can ask whether much earlier spcies could show the basics of consciousness.  If a mouse is looking at its surroundings and is able to have some representation of them, a representation that includes itself, then if it can 
+we can ask whether much earlier species could show the basics of consciousness.  If a mouse is looking at its surroundings and is able to have some representation of them, a representation that includes itself, then if it can 
 choose a route for itself to its burrow, that seems to me to be an early form of consciousness.  "Let's see, 
 if I am *there* and the bush is *there* and the log is *there*, and my burrow is behind the tree, then I should go 
 to the left of the bush, over log, and to the right of the tree, and there will be the burrow."  The mouse is making a representation of its environment which includes a representation of itself, viewed from outside.  From there, more elaborate forms of consciousness could, I think, evolve.
 
 And there is, in fact, evidence of such a map of the surroundings in the brains of rats.   See, for example, [this report](https://www.hhmi.org/news/uncovering-the-neural-basis-for-hypothetical-thinking-in-rats)).
 
-If any of this makes sense then there is no reason to suppose that there is some barrier to the evolution of conscious, intelligent brains.  In which case Eric Hedin's argument boils down to simple incredulity, without any logical proof of a barrier to evolution by ordinary evolutionary processes.
+If any of this makes sense then there is no reason to suppose that there is some barrier to the evolution of conscious, intelligent brains.  In which case Eric Hedin's argument boils down to simple incredulity, without any logical proof of a barrier to evolution by ordinary evolutionary processes.  
 
-## The Extended Evolutionary Synthesis, misunderstood ##
 
-Hedin seems to be looking for outside intervention to solve a non-problem.   What is more surprising is that his 
-effort is a response to a simple misunderstanding.  In his 2021 post, Hedin is reacting to advocates of the Extended Evolutionary Synthesis.
+Which is where Granville Sewell's argument ended up, too.
+
+
+
