@@ -137,12 +137,19 @@ So while Granville Sewell implies, without proof, that accumulation of favorable
 
 ## Intelligent brains?  Or "minds"? ##
 
-We have to be careful here.  It is tempting to think that Hedin is describing conscious, intelligent *brains*.  After all, our mind is just stuff that happens in our brains, isn't it?  In Hedin's terminology, "mind" is quite distinct from the mere activity of the brain.
+We have to be careful here.  It is tempting to think that Hedin is describing conscious, intelligent *brains*.  After all, our mind is just stuff that happens in our brains, isn't it?  In Hedin's terminology, "mind" is quite distinct from the mere activity of the brain.  Hedin is a dualist, in that he thinks that our brain exists in the real world, while our "mind" exists in a spiritual world (see an article of his [here](https://evolutionnews.org/2024/04/mind-matter-and-intelligent-design/)).
 
-
-
+I have no understanding of how minds might evolve in a spiritual world, so I am going to discuss only brains, under the assumption -- or perhaps the delusion -- that we should think about the evolution of brains, and leave the issue of "mind" to those who understand things spiritual.
 
 ## Can brains evolve to get smarter? ##
+
+Can brains get better at thinking?  They certainly vary from species to species in the ability to think.  In their simplest forms they can't do very much thinking.   That's where the image at the start of this article becomes relevant.  It shows *Nuucichthys*, a recently-discovered early vertebrate, from the early Cambrian.  It has eyes, and it is quite a good assumption that they connect to a primitive brain.
+
+
+
+
+
+
 
 ## The Extended Evolutionary Synthesis, misunderstood ##
 
