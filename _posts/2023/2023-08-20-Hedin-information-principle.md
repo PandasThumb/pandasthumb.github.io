@@ -102,7 +102,7 @@ conservation law preventing that.
 2. ... except that they _can_ increase the adaptive 
 information in the population, they just cannot increase 
 it to an "unnatural" extent.
-3. And it is his (unsupported) opionion that the increases 
+3. And it is his (unsupported) opinion that the increases 
 of "complexity" in living things involve those kinds of 
 "unnatural" increases.
 4. ... and therefore those require Design Intervention.
