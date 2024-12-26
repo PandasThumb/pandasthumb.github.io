@@ -149,7 +149,7 @@ And what about consciousness?  We usually think about consciousness in terms of 
 we can ask whether much earlier species could show the basics of consciousness.  If a mouse is looking at its surroundings and is able to have some representation of them, a representation that includes itself, then if it can 
 choose a route for itself to its burrow, that seems to me to be an early form of consciousness.  "Let's see, 
 if I am *there* and the bush is *there* and the log is *there*, and my burrow is behind the tree, then I should go 
-to the left of the bush, over log, and to the right of the tree, and there will be the burrow."  The mouse is making a representation of its environment which includes a representation of itself, viewed from outside.  From there, more elaborate forms of consciousness could, I think, evolve.
+to the left of the bush, over the log, and to the right of the tree, and there will be the burrow."  The mouse is making a representation of its environment which includes a representation of itself, viewed from outside.  From there, more elaborate forms of consciousness could, I think, evolve.
 
 And there is, in fact, evidence of such a map of the surroundings in the brains of rats.   See, for example, [this report](https://www.hhmi.org/news/uncovering-the-neural-basis-for-hypothetical-thinking-in-rats).
 
