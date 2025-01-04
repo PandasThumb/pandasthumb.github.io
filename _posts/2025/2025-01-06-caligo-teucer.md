@@ -1,6 +1,6 @@
 ---
 title: 'Caligo teucer'
-date: '2026-01-06 12:00:00 -07:00'
+date: '2025-01-06 12:00:00 -07:00'
 author: Matt Young
 ---
 Photograph by <strong>James Kocher</strong>.
