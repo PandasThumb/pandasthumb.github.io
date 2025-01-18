@@ -17,7 +17,7 @@ author: Matt Young
 
 <p>A little bird, who chirped anonymity, led us to an article by the National Institutes of Health, <a href="https://newsinhealth.nih.gov/2021/10/covid-19-vaccines-prevented-nearly-140000-us-deaths">COVID-19 Vaccines Prevented Nearly 140,000 U.S. Deaths</a> through May, 2021, the very date when Mr. Kennedy submitted his petition. NIH claims, </p>
 
-<--!more-->
+<!--more-->
 
 <blockquote>About 570,000 people died of COVID-19 in the U.S. through that time. The [statistical] model [used in the study] estimated that there would have been about 709,000 deaths without the vaccines.</blockquote>
 <p>A later study, titled <a href="https://www.commonwealthfund.org/blog/2022/two-years-covid-vaccines-prevented-millions-deaths-hospitalizations">Two Years of U.S. COVID-19 Vaccines Have Prevented Millions of Hospitalizations and Deaths</a>, found, </p>
