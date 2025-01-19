@@ -7,5 +7,5 @@ Photograph by <strong>Rusty Mattinson</strong>.
 
 <figure>
 <img src="/uploads/2025/IMG_6612_Rusty_Hoarfrost_600_2.jpg" alt="Hoarfrost"/>
-<figcaption><a href="https://en.wikipedia.org/wiki/Frost#Hoar_frost">Hoarfrost</a>, Boulder, Colorado, December, 2024.
+<figcaption><a href="https://en.wikipedia.org/wiki/Frost#Hoar_frost">Hoarfrost</a>, Platteville, Colorado, January, 2025.
 </figcaption>
