@@ -8,7 +8,7 @@ author: Matt Young
 <img src="/uploads/2025/Duffy_Flat_Earth.jpg" alt=" Depiction of flat earth"/>
 <figcaption><a href="https://commons.wikimedia.org/wiki/File:Ruch_S%C5%82o%C5%84ca_i_Ksi%C4%99%C5%BCyca.jpg">Depiction of flat earth</a>, showing sun and moon. <small> Credit: "Towarzysz Przewodniczący," CC BY-SA 4.0.</small>
 </figcaption>
-</figure> 
+</figure>
 According to an article by Noelle Phillips in today's Boulder Daily Camera, "<a href="https://www.dailycamera.com/2025/01/17/flat-earth-final-experiment-antarctica-will-duffy/"><strong>A Colorado pastor thought he could make flat-Earthers see the light in Antarctica. It didn’t work.</strong></a> Will Duffy traveled to bottom of the world last month to stage 'The Final Experiment' under 24 hours of sunlight[.]"
 
 That about says it all: The flat-earthers could not believe the result and spent their time developing conspiracy theories to maintain their belief in the flat earth.
