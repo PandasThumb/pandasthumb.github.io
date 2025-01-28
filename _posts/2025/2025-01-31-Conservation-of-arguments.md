@@ -34,5 +34,5 @@ the essential questions unanswered.  And the recent EN posts do not discuss ASC 
 
 Yes.  Applied to evolution, the conservation of information argument is 
 the Active Information argument of Dembski and Marks, which has been 
-discussed [here](https://web.cecs.pdx.edu/~mperkows/CLASS_479/SearchComplexityPage/05204206-SW-DEMBSKI.pdf) and [here]().
+discussed [here](https://www.evoinfo.org/papers/2009_ConservationOfInformationInSearch.pdf) and [here]().
 
