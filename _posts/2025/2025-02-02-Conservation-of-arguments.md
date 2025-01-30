@@ -20,19 +20,24 @@ As Dembski declares in the preface to the first of these posts, their argument i
 
 The two posts leave Dembski's argument no further than it was 
 some years ago.  We can deal with it without going into great detail, 
-because we have seen these arguments before.  Let's ask, and answer some brief questions as to what 
+because we have seen these arguments before.  Let's ask, and answer, some brief questions as to what 
 was accomplished:
 
 <!--more-->
 
 ## Does his argument clarify how his Algorithmically Specified Complexity deals with natural selection? ##
 
-No, not at all.  That argument, which I dicussed [here]() recently, was left hanging, with 
+No, not at all.  That argument, which I dicussed [here](https://pandasthumb.org/archives/2024/11/dembskiewert2.html) recently, was left hanging, with 
 the essential questions unanswered.  And the recent EN posts do not discuss ASC at all.
 
 ## Have we seen the arguments of the EN posts before? ##
 
 Yes.  Applied to evolution, the conservation of information argument is 
 the Active Information argument of Dembski and Marks, which has been 
-discussed [here](https://www.evoinfo.org/papers/2009_ConservationOfInformationInSearch.pdf) and [here]().
+discussed [here](https://www.evoinfo.org/papers/2009_ConservationOfInformationInSearch.pdf) and [here](https://bio-complexity.org/ojs/index.php/main/article/download/BIO-C.2013.4/BIO-C.2013.4).
+
+## Does the Active Information argument rule out any role for natural selection ##
+
+Not at all. 
+
 
