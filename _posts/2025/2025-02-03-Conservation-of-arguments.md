@@ -40,4 +40,23 @@ discussed [here](https://www.evoinfo.org/papers/2009_ConservationOfInformationIn
 
 Not at all. 
 
+## So Dembski (and Ewert and Marks) accept that natural selection explains adaptations? ##
+
+Dembski quote about fitness surfaces, maybe Dawkins too
+
+Connection to No Free Lunch
+
+NFL and smoothness of fitness surface
+
+Empirical evidence on mutational effects
+
+(No requirement for finding best peak
+
+Refutations of NFL
+
+Physics and smoothness of fitness surfaces
+
+Anthropo(genetic) Principle
+   ID advocates will regard it as a circular argument
+   
 
