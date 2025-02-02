@@ -28,20 +28,30 @@ was accomplished:
 ## Does his argument clarify how his Algorithmically Specified Complexity deals with natural selection? ##
 
 No, not at all.  That argument, which I dicussed [here](https://pandasthumb.org/archives/2024/11/dembskiewert2.html) recently, was left hanging, with 
-the essential questions unanswered.  And the recent EN posts do not discuss ASC at all.
+the essential questions unanswered.  And embski' recent EN posts do not discuss ASC at all.
 
 ## Have we seen the arguments of the EN posts before? ##
 
 Yes.  Applied to evolution, the conservation of information argument is 
 the Active Information argument of Dembski and Marks, which has been 
-discussed [here](https://www.evoinfo.org/papers/2009_ConservationOfInformationInSearch.pdf) and [here](https://bio-complexity.org/ojs/index.php/main/article/download/BIO-C.2013.4/BIO-C.2013.4).
+discussed [here](https://www.evoinfo.org/papers/2009_ConservationOfInformationInSearch.pdf) and [here](https://bio-complexity.org/ojs/index.php/main/article/download/BIO-C.2013.4/BIO-C.2013.4).  It basicaly says that 
+if natural selction can find find genotypes of better fitness by climbing 
+uphill on a fitness surface, that this _is_ an increase of 
+information in the genome.  But it is not creating new information, 
+beause the information was already there in the structure of 
+the fitness surface.
 
 ## Does the Active Information argument rule out any role for natural selection ##
 
-Not at all. 
+Not at all, as you can see. 
 
 ## So Dembski (and Ewert and Marks) accept that natural selection explains adaptations? ##
 
+No, they are arguing that _if_ natural selection can increase 
+specfied information in the genome, this is not new 
+information.  But they have always been very resistant to 
+acknowledging that natural selection does much in 
+evolution.
 Dembski quote about fitness surfaces, maybe Dawkins too
 
 Connection to No Free Lunch
