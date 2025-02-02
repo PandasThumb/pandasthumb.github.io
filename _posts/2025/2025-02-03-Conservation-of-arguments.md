@@ -41,7 +41,7 @@ information in the genome.  But it is not creating new information,
 beause the information was already there in the structure of 
 the fitness surface.
 
-## Does the Active Information argument rule out any role for natural selection ##
+## Does the Active Information argument rule out any role for natural selection? ##
 
 Not at all, as you can see. 
 
@@ -51,8 +51,16 @@ No, they are arguing that _if_ natural selection can increase
 specfied information in the genome, this is not new 
 information.  But they have always been very resistant to 
 acknowledging that natural selection does much in 
-evolution.
-Dembski quote about fitness surfaces, maybe Dawkins too
+evolution. In the first of the two EN posts that we 
+are discussing, Dembski grapples with Richard Dawkins's 
+book _Climbing Mount Improbable_.  Dawkins gives examples of 
+natural selection achieving major adaptations by gradual 
+small changes.  Dembski calls Dawkins's argument "displacemen", 
+arguing this way:
+
+> It could be that Mount Improbable is sheer on all sides and getting to the top via baby-steps is effectively impossible. Consequently, it is not enough to presuppose that a fitness-increasing sequence of baby steps always connects biological systems.
+
+## Connection to Dembski's 2002 _No Reee Lunch_ argument ##
 
 Connection to No Free Lunch
 
