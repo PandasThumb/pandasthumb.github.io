@@ -50,13 +50,13 @@ NFL and smoothness of fitness surface
 
 Empirical evidence on mutational effects
 
-(No requirement for finding best peak
+(No requirement for finding best peak)
 
 Refutations of NFL
 
 Physics and smoothness of fitness surfaces
 
-Anthropo(genetic) Principle
+Anthrop(ogenet)ic Principle
    ID advocates will regard it as a circular argument
    
 
