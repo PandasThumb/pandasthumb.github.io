@@ -62,9 +62,16 @@ arguing this way:
 
 ## Connection to Dembski's 2002 _No Free Lunch_ argument ##
 
+Dembski argues that fitness surfaces that allow natural selection to work are unlikely, and their existence needs explanation:
 
+> Mountains, after all, do not magically materialize — they have to be formed by some process of mountain formation. Of all the different ways Mount Improbable might have emerged, how many are sheer so that no gradual path to the summit exists? And how many do allow a gradual path to the summit? A Mount Improbable with gradual paths to the top may itself be improbable.
 
-Connection to No Free Lunch
+Improbable in what sense?  We'll see that only a tiny fraction of all possible fitness surfaces 
+will be smooth -- but this is true only if all possible fitness surfaces are equally probable.  Which they ddefinitely are not.  Smooth ones are vastly more peobable.
+
+## Connection to the No Free Lunch argument ##
+
+The issue has come up before, in Dembski's 2002 book "No Free Lunch. Why
 
 NFL and smoothness of fitness surface
 
