@@ -71,7 +71,11 @@ will be smooth -- but this is true only if all possible fitness surfaces are equ
 
 ## Connection to the No Free Lunch argument ##
 
-The issue has come up before, in Dembski's 2001 book "No Free Lunch: Why Specified Complexity Cannot Be Purchased without Intelligence".  There he invokes a mathematical theorem about the success of search algorithms on all possible problems.  This is the No Free Lunch theorem of Wolpert and Macready, which shows that _averaged over all possible problems_ all search algorithms do equally well, and are no more successful than examining a random set of points and choosing the best.   They do not prove that  
+The issue has come up before, in Dembski's 2001 book "No Free Lunch: Why Specified Complexity Cannot Be Purchased without Intelligence".  There he invokes a mathematical theorem about the success of search algorithms on all possible problems.  This is the No Free Lunch theorem of Wolpert and Macready, which shows that _averaged over all possible problems_ all search algorithms do equally well, and are no more successful than examining a random set of points and choosing the best.   Wolpert and Macready did not prove that all search algorithms will do that badly in finding large values of, say, fitness on all fitness surfaces.  As Dembski's title says, he cites Wolpert and Macready's theorem as showing that we need to invoke intelligence to explain how evolution on fitness surfaces could find genomes of better fitness.
+
+## Dembski's 2001 No Free Lunch argument was refuted ##
+
+... almost immediately, by many authors, including Richard Wein 
 
 NFL and smoothness of fitness surface
 
