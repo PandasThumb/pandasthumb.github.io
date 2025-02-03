@@ -55,12 +55,14 @@ evolution. In the first of the two EN posts that we
 are discussing, Dembski grapples with Richard Dawkins's 
 book _Climbing Mount Improbable_.  Dawkins gives examples of 
 natural selection achieving major adaptations by gradual 
-small changes.  Dembski calls Dawkins's argument "displacemen", 
+small changes.  Dembski calls Dawkins's argument "displacement", 
 arguing this way:
 
 > It could be that Mount Improbable is sheer on all sides and getting to the top via baby-steps is effectively impossible. Consequently, it is not enough to presuppose that a fitness-increasing sequence of baby steps always connects biological systems.
 
 ## Connection to Dembski's 2002 _No Free Lunch_ argument ##
+
+
 
 Connection to No Free Lunch
 
