@@ -71,7 +71,7 @@ will be smooth -- but this is true only if all possible fitness surfaces are equ
 
 ## Connection to the No Free Lunch argument ##
 
-The issue has come up before, in Dembski's 2002 book "No Free Lunch. Why
+The issue has come up before, in Dembski's 2001 book "No Free Lunch: Why Specified Complexity Cannot Be Purchased without Intelligence".  There he invokes a mathematical theorem about the success of search algorithms on all possible problems.  This is the No Free Lunch theorem of Wolpert and Macready, which shows that _averaged over all possible problems_ all search algorithms do equally well, and are no more successful than examining a random set of points and choosing the best.   They do not prove that  
 
 NFL and smoothness of fitness surface
 
