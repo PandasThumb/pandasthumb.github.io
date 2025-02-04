@@ -1,6 +1,6 @@
 ---
 title: Conservation of arguments
-date: 2025-02-04 12:00:01 -08
+date: 2025-02-05 12:00:01 -08
 author: Joe Felsenstein
 ---
 
