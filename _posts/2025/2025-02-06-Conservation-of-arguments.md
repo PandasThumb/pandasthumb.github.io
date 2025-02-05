@@ -4,7 +4,7 @@ date: 2025-02-06 12:00:01 -08
 author: Joe Felsenstein
 ---
 
-<figure><img src="" alt="[Shell game]" /><figcaption>A shell game in which 
+<figure><img src="/uploads/2025/Peas.png" alt="[not-too-hard Shell game]" /><figcaption>A shell game in which 
 the odds are not too bad.  Modified from Wikimedia Commons.</figcaption></figure>
 
 William Dembski has recently made two posts ([on January 10](https://evolutionnews.org/2025/01/the-displacement-fallacy-evolutions-shell-game/) and [on January 20](https://evolutionnews.org/2025/01/conservation-of-information-the-history-of-an-idea/)) at
