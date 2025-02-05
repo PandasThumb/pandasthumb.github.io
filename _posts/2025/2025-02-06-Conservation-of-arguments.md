@@ -5,7 +5,7 @@ author: Joe Felsenstein
 ---
 
 <div align="center">
-<figure><img src="/uploads/2025/Peas.png" alt="[not-too-hard Shell game]" /><figcaption>A shell game in which 
+<figure><img src="/uploads/2025/Peas.png" alt="[not-too-hard Shell game]"/><figcaption>A shell game in which 
 the odds are not too bad.</figcaption></figure>
 </div>
 
