@@ -5,7 +5,7 @@ author: Joe Felsenstein
 ---
 
 <div align="center">
-<figure><img src="/uploads/2025/Peas.png" alt="[not-too-hard Shell game]"/><figcaption>A shell game in which 
+<figure><img src="/uploads/2025/Peas.png" alt="[not-too-hard Shell game]"/><figcaption><br>A shell game in which 
 the odds are not too bad.</figcaption></figure>
 </div>
 
@@ -22,7 +22,11 @@ As Dembski declares in the preface to the first of these posts, their argument i
 
 > Conservation of information is a big result of the intelligent design literature, even if to date it hasn’t gotten the attention it deserves. It quantifies the amount of information needed to increase the probability of finding a needle in a haystack so that the needle can actually be found. The upshot of conservation of information is that the information needed to find a needle in a haystack in turn requires finding another needle in a haystack, implying there is no free lunch in search.
 
-The two posts leave Dembski's argument no further than it was 
+In Dembski's account, when evolutionary biologists argue that processes such as natural selection can put 
+adaptive information into the genome, they are failing to explain where the information comes from.  They are 
+building it into their evolutionary algorithms as a detailed goal, and not informing the reader that they have done that.  The biologists' argument has thus simply displaced the question, not answered it.  Dembski's first post is illustrated by an illustration of the Shell Game, to label the argument of evolutionary biologists as a dishonest trick.
+
+Actually, the two posts leave Dembski's argument no further than it was 
 some years ago.  We can deal with it without going into great detail, 
 because we have seen these arguments before.  Let's ask, and answer, some brief questions as to what 
 was accomplished:
@@ -31,17 +35,17 @@ was accomplished:
 
 ## Does his argument clarify how his Algorithmically Specified Complexity deals with natural selection? ##
 
-No, not at all.  That argument, which I dicussed [here](https://pandasthumb.org/archives/2024/11/dembskiewert2.html) recently, was left hanging, with 
-the essential questions unanswered.  And embski' recent EN posts do not discuss ASC at all.
+No, not at all.  That argument, which was the centerpiece of Dembski and Ewert's recent book: _The Design Inference: Eliminating Chance through Small Probabilities, 2nd edition_, which I discussed [here](https://pandasthumb.org/archives/2024/11/dembskiewert2.html) recently, was left hanging, with 
+the essential questions unanswered.  And Dembski' recent two EN posts do not discuss ASC at all.
 
-## Have we seen the arguments of the EN posts before? ##
+## Have we seen the arguments of these EN posts before? ##
 
 Yes.  Applied to evolution, the conservation of information argument is 
 the Active Information argument of Dembski and Marks, which has been 
 discussed [here](https://www.evoinfo.org/papers/2009_ConservationOfInformationInSearch.pdf) and [here](https://bio-complexity.org/ojs/index.php/main/article/download/BIO-C.2013.4/BIO-C.2013.4).  It basicaly says that 
-if natural selction can find find genotypes of better fitness by climbing 
+if natural selection can find genotypes of better fitness by climbing 
 uphill on a fitness surface, that this _is_ an increase of 
-information in the genome.  But it is not creating new information, 
+information in the genome.  But, they argued, it is not creating new information, 
 beause the information was already there in the structure of 
 the fitness surface.
 
