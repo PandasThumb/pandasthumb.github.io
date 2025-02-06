@@ -94,11 +94,11 @@ Empirical evidence on mutational effects
 
 (No requirement for finding best peak)
 
-Refutations of NFL
-
 Physics and smoothness of fitness surfaces
 
 Anthrop(ogenet)ic Principle
    ID advocates will regard it as a circular argument
+   see who said we coevolved with the fitness surface
+   
    
 
