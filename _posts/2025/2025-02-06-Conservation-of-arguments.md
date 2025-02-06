@@ -33,7 +33,7 @@ was accomplished:
 
 <!--more-->
 
-## Does his argument clarify how his Algorithmically Specified Complexity deals with natural selection? ##
+## Does these posts clarify how his Algorithmically Specified Complexity argument deals with natural selection? ##
 
 No, not at all.  That argument, which was the centerpiece of Dembski and Ewert's recent book: _The Design Inference: Eliminating Chance through Small Probabilities, 2nd edition_, which I discussed [here](https://pandasthumb.org/archives/2024/11/dembskiewert2.html) recently, was left hanging, with 
 the essential questions unanswered.  And Dembski' recent two EN posts do not discuss ASC at all.
@@ -81,9 +81,9 @@ will be smooth -- but this is true only if all possible fitness surfaces are equ
 
 The issue has come up before, in Dembski's 2001 book "No Free Lunch: Why Specified Complexity Cannot Be Purchased without Intelligence".  There he invokes a mathematical theorem about the success of search algorithms on all possible problems.  This is the No Free Lunch theorem of Wolpert and Macready, which shows that _averaged over all possible problems_ all search algorithms do equally well, and are no more successful than examining a random set of points and choosing the best.   Wolpert and Macready did not prove that all search algorithms will do that badly in finding large values of, say, fitness on all fitness surfaces.  As Dembski's title says, he cites Wolpert and Macready's theorem as showing that we need to invoke intelligence to explain how evolution on fitness surfaces could find genomes of better fitness.
 
-## Dembski's 2001 No Free Lunch argument was refuted ##
+## Was Dembski's 2001 No Free Lunch argument refuted? ##
 
-... almost immediately, by many authors, including Richard Wein 
+Yes, almost immediately, by many authors, including [Richard Wein](http://www.talkorigins.org/design/faqs/nfl/), [Jason Rosenhouse](http://educ.jmu.edu/~rosenhjd/dembski.pdf), [the late Mark Perakh](https://pdfs.semanticscholar.org/7429/ef6c62a9cd544df79f0b21985c42dddf138f.pdf?_ga=2.130757519.169921541.1540934691-51823296.1540934691), by Wesley Elsberry and Jeffrey Shallit ([here](http://www.talkreason.org/articles/eandsdembski.pdf) and [here](https://link.springer.com/content/pdf/10.1007%2Fs11229-009-9542-8.pdf)), by [Erik Tellgren](http://www.talkreason.org/articles/nfl_gavrilets6.pdf) and by [Ole H&auml;ggstr&ouml;m;](https://link.springer.com/content/pdf/10.1007%2Fs10539-006-9040-z.pdf).
 
 NFL and smoothness of fitness surface
 
