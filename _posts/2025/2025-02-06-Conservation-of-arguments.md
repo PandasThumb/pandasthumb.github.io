@@ -68,7 +68,7 @@ arguing this way:
 
 > It could be that Mount Improbable is sheer on all sides and getting to the top via baby-steps is effectively impossible. Consequently, it is not enough to presuppose that a fitness-increasing sequence of baby steps always connects biological systems.
 
-## Connection to Dembski's 2002 _No Free Lunch_ argument ##
+## Connection to possible, and likely, fitness surfaces ##
 
 Dembski argues that fitness surfaces that allow natural selection to work are unlikely, and their existence needs explanation:
 
