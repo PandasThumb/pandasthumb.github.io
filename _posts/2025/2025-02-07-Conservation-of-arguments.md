@@ -36,7 +36,7 @@ was accomplished:
 ## Does these posts clarify how his Algorithmically Specified Complexity argument deals with natural selection? ##
 
 No, not at all.  That argument, which was the centerpiece of Dembski and Ewert's recent book: _The Design Inference: Eliminating Chance through Small Probabilities, 2nd edition_, which I discussed [here](https://pandasthumb.org/archives/2024/11/dembskiewert2.html) recently, was left hanging, with 
-the essential questions unanswered.  And Dembski' recent two EN posts do not discuss ASC at all.
+the essential questions unanswered.  And Dembski's recent two EN posts do not discuss ASC at all.
 
 ## Have we seen the arguments of these EN posts before? ##
 
