@@ -6,7 +6,7 @@ author: Joe Felsenstein
 
 <div align="center">
 <figure><img src="/uploads/2025/Peas.png" alt="[not-too-hard Shell game]"/><figcaption><br>A shell game in which 
-the odds are not too bad.</figcaption></figure>
+the odds are not too bad,<br/> especially as we can see what's going on.</figcaption>.</figcaption></figure>
 </div>
 
 <p>&nbsp;</p>
