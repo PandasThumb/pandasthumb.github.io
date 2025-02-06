@@ -35,10 +35,10 @@ was accomplished:
 
 ## Does these posts clarify how his Algorithmically Specified Complexity argument deals with natural selection? ##
 
-No, not at all.  That argument, which was the centerpiece of Dembski and Ewert's recent book: _The Design Inference: Eliminating Chance through Small Probabilities, 2nd edition_, which I discussed [here](https://pandasthumb.org/archives/2024/11/dembskiewert2.html) recently, was left hanging, with 
+No, not at all.  That argument, which was the centerpiece of Dembski and Ewert's recent book: _The Design Inference: Eliminating Chance through Small Probabilities, 2nd edition_, which I discussed [here](https://pandasthumb.org/archives/2024/11/dembskiewert2.html) recently, was left hanging by them, with 
 the essential questions unanswered.  And Dembski's recent two EN posts do not discuss ASC at all.
 
-## Have we seen the arguments of these EN posts before? ##
+## Have we seen the arguments of the recent EN posts before? ##
 
 Yes.  Applied to evolution, the conservation of information argument is 
 the Active Information argument of Dembski and Marks, which has been 
@@ -82,17 +82,45 @@ will be smooth -- but this is true only if all possible fitness surfaces are equ
 
 ## Connection to the No Free Lunch argument ##
 
-The issue has come up before, in Dembski's 2001 book "No Free Lunch: Why Specified Complexity Cannot Be Purchased without Intelligence".  There he invokes a mathematical theorem about the success of search algorithms on all possible problems.  This is the No Free Lunch theorem of Wolpert and Macready, which shows that _averaged over all possible problems_ all search algorithms do equally well, and are no more successful than examining a random set of points and choosing the best.   Wolpert and Macready did not prove that all search algorithms will do that badly in finding large values of, say, fitness on all fitness surfaces.  As Dembski's title says, he cites Wolpert and Macready's theorem as showing that we need to invoke intelligence, as we cannot expect that natural selection on fitness surfaces could find genomes of better fitness.
+The issue has come up before, in Dembski's 2001 book "No Free Lunch: Why Specified Complexity Cannot Be Purchased without Intelligence".  There he invokes a mathematical theorem about the success of search algorithms on all possible problems.  This is the No Free Lunch theorem of Wolpert and Macready, which shows that _averaged over all possible problems_ all search algorithms do equally well, and are no more successful than examining a random set of points and choosing the best.   Wolpert and Macready did not prove that all search algorithms will do that badly in finding large values of, say, fitness on all fitness surfaces.  As Dembski's title says, he cites Wolpert and Macready's theorem as showing that we need to invoke intelligence, as we cannot expect that natural selection on fitness surfaces to find genomes of better fitness.
 
 ## Was Dembski's 2001 No Free Lunch argument refuted? ##
 
-Yes, almost immediately, by many authors, including [Richard Wein](http://www.talkorigins.org/design/faqs/nfl/), [Jason Rosenhouse](http://educ.jmu.edu/~rosenhjd/dembski.pdf), [the late Mark Perakh](https://pdfs.semanticscholar.org/7429/ef6c62a9cd544df79f0b21985c42dddf138f.pdf?_ga=2.130757519.169921541.1540934691-51823296.1540934691), by Wesley Elsberry and Jeffrey Shallit ([here](http://www.talkreason.org/articles/eandsdembski.pdf) and [here](https://link.springer.com/content/pdf/10.1007%2Fs11229-009-9542-8.pdf)), by [Erik Tellgren](http://www.talkreason.org/articles/nfl_gavrilets6.pdf) and by [Ole H&auml;ggstr&ouml;m;](https://link.springer.com/content/pdf/10.1007%2Fs10539-006-9040-z.pdf).
+Yes, almost immediately, by many authors, including [Richard Wein](http://www.talkorigins.org/design/faqs/nfl/), [Jason Rosenhouse](http://educ.jmu.edu/~rosenhjd/dembski.pdf), [the late Mark Perakh](https://pdfs.semanticscholar.org/7429/ef6c62a9cd544df79f0b21985c42dddf138f.pdf?_ga=2.130757519.169921541.1540934691-51823296.1540934691), by Wesley Elsberry and Jeffrey Shallit ([here](http://www.talkreason.org/articles/eandsdembski.pdf) and [here](https://link.springer.com/content/pdf/10.1007%2Fs11229-009-9542-8.pdf)), by [Erik Tellgren](https://web.archive.org/web/20071011030112mp_/http://www.talkreason.org/articles/nfl_gavrilets6.pdf) and by [Ole H&auml;ggstr&ouml;m;](https://link.springer.com/content/pdf/10.1007%2Fs10539-006-9040-z.pdf).
 
-NFL and smoothness of fitness surface
+## NFL and smoothness of fitness surface ##
 
-Empirical evidence on mutational effects
+When the original Wolpert-MacReady No Free Lunch theorem considers all possible 
+problems, it has a space, such as all possible genomes.  Each is assigned a 
+value (such as a fitness), and _all possible assignments are considered_.  In effect, 
+the fitnesses are scrambled among the genotypes in all possible ways, all equally 
+probable.  So when we see a fitness of a genotype, what can we say about the 
+fitness of a nearby genotype, say one which differs by a single change of a 
+single base?  _Nothing_.  Every possible DNA sequence has its fitness assigned 
+at random, including the nearest neighbors.
 
-(No requirement for finding best peak)
+This leads to vast numbers of infinitely rough fitness surfaces, of "white noise" 
+fitness surfaces. They have no 
+smoothness whatsoever.  Dembski's argument is that these do not allow for 
+much evolution.
+
+Such fitness surfaces are very, very atypical in real biology.  Look at it 
+this way: the effect of a single base mutation on such a surface is 
+to carry us to a genotype whose fitness is just like that of a 
+totally random sequence, one which differs by being mutated at 75 percent 
+of the sites!   If this were a human genome, it would be mutated at 
+2,250,000,000 sites simultaneously.
+
+# Empirical evidence on mutational effects #
+
+So when Dembski considers "all the different ways" that a fitness 
+surface could have emerged, overwhelmingly those are unreal 
+fitness surfaces that would never emerge in real biological cases.
+Real ones are much smoother.
+
+Tight Interaction.
+
+(and No requirement for finding best peak)
 
 Physics and smoothness of fitness surfaces
 
