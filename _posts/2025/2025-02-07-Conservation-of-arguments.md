@@ -75,7 +75,7 @@ Dembski argues that fitness surfaces that allow natural selection to work are un
 > Mountains, after all, do not magically materialize — they have to be formed by some process of mountain formation. Of all the different ways Mount Improbable might have emerged, how many are sheer so that no gradual path to the summit exists? And how many do allow a gradual path to the summit? A Mount Improbable with gradual paths to the top may itself be improbable.
 
 Improbable in what sense?  We'll see that only a tiny fraction of all possible fitness surfaces 
-will be smooth -- but this is true only if all possible fitness surfaces are equally probable.  Which they definitely are not.  Smooth ones are vastly more peobable.
+will be smooth -- but this is true only if all possible fitness surfaces are equally probable.  Which they definitely are not.  Smooth ones are vastly more probable.
 
 ## Connection to the No Free Lunch argument ##
 
