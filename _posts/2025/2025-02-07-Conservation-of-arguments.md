@@ -68,6 +68,9 @@ arguing this way:
 
 > It could be that Mount Improbable is sheer on all sides and getting to the top via baby-steps is effectively impossible. Consequently, it is not enough to presuppose that a fitness-increasing sequence of baby steps always connects biological systems.
 
+So Dembski argues that Dawkins's examples are a misleading reflection of how 
+well (or badly) natural selection will typically be able to do.
+
 ## Connection to possible, and likely, fitness surfaces ##
 
 Dembski argues that fitness surfaces that allow natural selection to work are unlikely, and their existence needs explanation:
