@@ -101,15 +101,16 @@ at random, including the nearest neighbors.
 
 This leads to vast numbers of infinitely rough fitness surfaces, of "white noise" 
 fitness surfaces. They have no 
-smoothness whatsoever.  Dembski's argument is that these do not allow for 
+smoothness whatsoever.  Dembski's original NFL argument is that these do not allow for 
 much evolution.
 
 Such fitness surfaces are very, very atypical in real biology.  Look at it 
 this way: the effect of a single base mutation on such a surface is 
 to carry us to a genotype whose fitness is just like that of a 
 totally random sequence, one which differs by being mutated at 75 percent 
-of the sites!   If this were a human genome, it would be mutated at 
-2,250,000,000 sites simultaneously.
+of the sites!   If this were a human genome, it would be mutated at about 
+2,250,000,000 sites simultaneously.  The idea that the effect of one mutation 
+is the same as the effect of billions of mutations is bizarre and unreal.
 
 # Empirical evidence on mutational effects #
 
@@ -118,7 +119,38 @@ surface could have emerged, overwhelmingly those are unreal
 fitness surfaces that would never emerge in real biological cases.
 Real ones are much smoother.
 
-Tight Interaction.
+## Tight Interaction ##
+
+Not only does the equidistribution of all possible fitness 
+surfaces imply unreal effects of mutations, it also implies 
+incredibly tight interactions between all mutations.  Consider 
+the effect of a mutation at one site, and the effect of a 
+mutation at another site, millions of sites away.  We've 
+seen that in the NFL distribution of fitnesses, these two 
+mutations are each probably disastrous.  But what about the 
+interaction between them?  What if we make both of these 
+changes?  Even if each of the two mutations happened to have 
+a mild effect on fitness, what would be the effect if both 
+mutations occurred?   We cannot predict that the effect would 
+also be mild.  Because the fitness would, once again, be drawn 
+totally at random, with no predictability from the effects of 
+single mutations.  The result is an incredibly strong, and 
+unpredictable, interaction between mutations at these two 
+sites.
+
+But not just these two site -- at all pairs of sites, and at 
+all combinations of sites.
+
+No biological system works like this.  Mutational changes 
+in the genes affecting the production of earwax generally 
+have little effect on the development of our kidneys.  And 
+for a very simple reason -- these are processes separated 
+in time and space, and in the real world it is hard for them 
+to interact strongly.  In the NFL world, everything, by default, 
+interacts incredibly strongly with everything else.
+
+## The Anthrop(ogenet)ic Principle ##
+
 
 (and No requirement for finding best peak)
 
