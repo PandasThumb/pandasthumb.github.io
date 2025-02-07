@@ -146,19 +146,52 @@ in the genes affecting the production of earwax generally
 have little effect on the development of our kidneys.  And 
 for a very simple reason -- these are processes separated 
 in time and space, and in the real world it is hard for them 
-to interact strongly.  In the NFL world, everything, by default, 
+to interact strongly.  In the NFL world, every gene, by default, 
 interacts incredibly strongly with everything else.
 
 ## The Anthrop(ogenet)ic Principle ##
 
+Natural selection could achieve very little if fitness 
+surfaces were rough, white-noise surfaces.  We can 
+conclude that they aren't those, because we have in 
+fact evolved.  This is, in a sense, like the 
+Anthropic Principle in cosmology.  We're here, so 
+we must have been able to evolve.  Perhaps it should 
+be called the Anthrop(ogenet)ic Principle.  Of course 
+this argument would not convince an "ID theorist" who 
+does not believe that natural selection played a 
+major role in our evolution.
 
-(and No requirement for finding best peak)
+## Choice of region of the fitness surface ##
 
-Physics and smoothness of fitness surfaces
+When different parts of a fitnes surface have different 
+properties, the Anthropogenetic Principle argues that 
+life evolved into a region that had sufficient smoothness. 
+That is, it sought out evolvability.  Computer simulations 
+by Lee Altenberg and Kenneth Kinnear and G&uuml;nter Wagner 
+have shown evolution doing this,
 
-Anthrop(ogenet)ic Principle
-   ID advocates will regard it as a circular argument
-   see who said we coevolved with the fitness surface
-   
-   
+## And what about physics itself? ##
+
+Even if the properties of the fitness surface have 
+not evolved, it seems reasonable that physics itself 
+predisposes fitness surfaces to be smooth.  After all, 
+the forces of physics tend to be local in time and space 
+and to lose influence with greater distance.  If I 
+gesture with my fingers, there is hardly any effect 
+on objects at a distance.  The floor of our room 
+does not collapse, nor does the ceiling cave in. Different 
+objects are scarcely affected by each other.
+
+## Conclusion ##
+
+We may summarize briefly that William Dembski's conservation- 
+of-information argument is not new, and has been convioncingly 
+dismissed in the past.
+
+## References ##
+
+* Altenberg L 1994. Kinnear, Kenneth (ed.). "The evolution of evolvability in genetic programming". _Advances in Genetic Programming_, pp. 47–74.
+* Altenberg L. 1995. "Genome growth and the evolution of the genotype–phenotype map". _Evolution and Biocomputation._ Lecture Notes in Computer Science. Vol. 899. pp. 205–259.  doi:10.1007/3-540-59046-3_11.
+* Wagner G.P., and Altenberg L. 1996. "Perspective: Complex adaptations and the evolution of evolvability". _Evolution_ 50 (3): 967–976.
 
