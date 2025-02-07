@@ -86,7 +86,7 @@ The issue has come up before, in Dembski's 2001 book "No Free Lunch: Why Specifi
 
 ## Was Dembski's 2001 No Free Lunch argument refuted? ##
 
-Yes, almost immediately, by many authors, including [Richard Wein](http://www.talkorigins.org/design/faqs/nfl/), [Jason Rosenhouse](http://educ.jmu.edu/~rosenhjd/dembski.pdf), [the late Mark Perakh](https://pdfs.semanticscholar.org/7429/ef6c62a9cd544df79f0b21985c42dddf138f.pdf?_ga=2.130757519.169921541.1540934691-51823296.1540934691), by Wesley Elsberry and Jeffrey Shallit ([here](http://www.talkreason.org/articles/eandsdembski.pdf) and [here](https://link.springer.com/content/pdf/10.1007%2Fs11229-009-9542-8.pdf)), by [Erik Tellgren](https://web.archive.org/web/20071011030112mp_/http://www.talkreason.org/articles/nfl_gavrilets6.pdf) and by [Ole H&auml;ggstr&ouml;m;](https://link.springer.com/content/pdf/10.1007%2Fs10539-006-9040-z.pdf).
+Yes, almost immediately, by many authors, including [Richard Wein](http://www.talkorigins.org/design/faqs/nfl/), [Jason Rosenhouse](http://educ.jmu.edu/~rosenhjd/dembski.pdf), [the late Mark Perakh](https://pdfs.semanticscholar.org/7429/ef6c62a9cd544df79f0b21985c42dddf138f.pdf?_ga=2.130757519.169921541.1540934691-51823296.1540934691), by Wesley Elsberry and Jeffrey Shallit ([here](http://www.talkreason.org/articles/eandsdembski.pdf) and [here](https://link.springer.com/content/pdf/10.1007%2Fs11229-009-9542-8.pdf)), by [Erik Tellgren](https://web.archive.org/web/20071011030112mp_/http://www.talkreason.org/articles/nfl_gavrilets6.pdf) and by [Ole H&auml;ggstr&ouml;m](https://link.springer.com/content/pdf/10.1007%2Fs10539-006-9040-z.pdf).
 
 ## NFL and smoothness of fitness surface ##
 
