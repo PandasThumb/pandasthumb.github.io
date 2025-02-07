@@ -104,6 +104,8 @@ fitness surfaces. They have no
 smoothness whatsoever.  Dembski's original NFL argument is that these do not allow for 
 much evolution.
 
+## Empirical evidence on mutational effects ##
+
 Such fitness surfaces are very, very atypical in real biology.  Look at it 
 this way: the effect of a single base mutation on such a surface is 
 to carry us to a genotype whose fitness is just like that of a 
@@ -111,8 +113,6 @@ totally random sequence, one which differs by being mutated at 75 percent
 of the sites!   If this were a human genome, it would be mutated at about 
 2,250,000,000 sites simultaneously.  The idea that the effect of one mutation 
 is the same as the effect of billions of mutations is bizarre and unreal.
-
-## Empirical evidence on mutational effects ##
 
 So when Dembski considers "all the different ways" that a fitness 
 surface could have emerged, overwhelmingly those are unreal 
