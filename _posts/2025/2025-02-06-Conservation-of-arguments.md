@@ -112,7 +112,7 @@ of the sites!   If this were a human genome, it would be mutated at about
 2,250,000,000 sites simultaneously.  The idea that the effect of one mutation 
 is the same as the effect of billions of mutations is bizarre and unreal.
 
-# Empirical evidence on mutational effects #
+## Empirical evidence on mutational effects ##
 
 So when Dembski considers "all the different ways" that a fitness 
 surface could have emerged, overwhelmingly those are unreal 
