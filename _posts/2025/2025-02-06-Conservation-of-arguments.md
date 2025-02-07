@@ -186,7 +186,7 @@ objects are scarcely affected by each other.
 ## Conclusion ##
 
 We may summarize briefly that William Dembski's conservation- 
-of-information argument is not new, and has been convioncingly 
+of-information argument is not new, and has been convincingly 
 dismissed in the past.
 
 ## References ##
