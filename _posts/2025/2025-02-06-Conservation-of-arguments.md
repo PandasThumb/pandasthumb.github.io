@@ -42,7 +42,7 @@ the essential questions unanswered.  And Dembski's recent two EN posts do not di
 
 Yes.  Applied to evolution, the conservation of information argument is 
 the Active Information argument of Dembski and Marks, which has been 
-discussed [here](https://www.evoinfo.org/papers/2009_ConservationOfInformationInSearch.pdf) and [here](https://bio-complexity.org/ojs/index.php/main/article/download/BIO-C.2013.4/BIO-C.2013.4).  It basicaly says that 
+discussed [here](https://www.evoinfo.org/papers/2009_ConservationOfInformationInSearch.pdf) and [here](https://bio-complexity.org/ojs/index.php/main/article/download/BIO-C.2013.4/BIO-C.2013.4).  It basically says that 
 if natural selection can find genotypes of better fitness by climbing 
 uphill on a fitness surface, that this _is_ an increase of 
 information in the genome.  But, they argued, it is not creating new information, 
