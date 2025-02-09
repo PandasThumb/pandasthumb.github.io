@@ -46,7 +46,7 @@ discussed [here](https://www.evoinfo.org/papers/2009_ConservationOfInformationIn
 if natural selection can find genotypes of better fitness by climbing 
 uphill on a fitness surface, that this _is_ an increase of 
 information in the genome.  But, they argued, it is not creating new information, 
-beause the information was already there in the structure of 
+because the information was already there in the structure of 
 the fitness surface.
 
 ## Does the Active Information argument rule out any role for natural selection? ##
