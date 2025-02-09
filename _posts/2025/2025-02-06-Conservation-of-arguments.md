@@ -104,7 +104,7 @@ at random, including the nearest neighbors.
 This leads to vast numbers of infinitely rough fitness surfaces, of "white noise" 
 fitness surfaces. They have no 
 smoothness whatsoever.  Dembski's original NFL argument is that these do not allow for 
-much evolution.  If there were typical of fitness surfaces in nature, this would be 
+much evolution.  If they were typical of fitness surfaces in nature, this would be 
 a big obstacle to the effectiveness of natural selection.
 
 ## Empirical evidence on mutational effects ##
