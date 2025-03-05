@@ -1,6 +1,6 @@
 ---
 title: 'The President and the Paleontologist: Jimmy Carter’s Dalliance with Creationism and Stephen Jay Gould’s Stumble in Rebutting It'
-date: '2025-03-05 12:00:00 -07:00'
+date: '2025-03-05 10:30:00 -07:00'
 author: Glenn Branch
 ---
 
