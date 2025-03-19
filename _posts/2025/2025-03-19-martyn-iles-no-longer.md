@@ -13,7 +13,7 @@ If anyone has any further information, please feel free to comment, but please a
  
 <!--more-->
 
-Here is Mr. Iles's Facebook post dated March 18 or 19:
+Here is a screenshot taken by Mr. Phelps on March 19:
 
 <figure>
 <img src="/uploads/2025/Iles_No_Longer_1000.jpg" alt="Iles Facebook post"/>
