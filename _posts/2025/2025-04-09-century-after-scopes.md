@@ -14,7 +14,7 @@ According to a recent blog post by Susan Trollinger and William Trollinger, <a h
 
 Today, thanks primarily to Henry Morris, creationists do not accept an old earth and consequently are forced to deny, for example, geological science. Ultimately, they undermine virtually all of science and, according to Trollinger and Trollinger, promote an alternative education system which is
 
-<blockquote>not just about getting creationism, the Bible, and white Christian nationalism into the public schools. It is also about funding private schools, including fundamentalist schools. It is about expanding the right-wing subculture. It is about taking dominion over the culture.</blockquote>
+<blockquote><p style="margin-left: 15px;">not just about getting creationism, the Bible, and white Christian nationalism into the public schools. It is also about funding private schools, including fundamentalist schools. It is about expanding the right-wing subculture. It is about taking dominion over the culture.</p></blockquote>
 
 This, they say, is where we are 100 years after the Scopes trial.
 
