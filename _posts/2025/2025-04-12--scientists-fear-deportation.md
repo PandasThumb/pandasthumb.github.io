@@ -4,7 +4,7 @@ date: '2025-04-12 14:15:00 -06:00'
 author: Matt Young
 ---
 
-A colleague just alerted us to an article, <a href="https://www.washingtonpost.com/science/2025/04/10/evolution-research-deportation-fears"/>Fearing paper on evolution might get them deported, scientists withdrew it</a>, in the April 10 edition of the Washington Post. According to Mark Johnson, the author of the Post article, the paper “described ways in which evolution unfolds in both living and nonliving systems, a subject relevant to the search for life elsewhere in the universe.”
+A colleague just alerted us to an article, <a href="https://www.washingtonpost.com/science/2025/04/10/evolution-research-deportation-fears/">Fearing paper on evolution might get them deported, scientists withdrew it</a>, in the April 10 edition of the Washington Post. According to Mark Johnson, the author of the Post article, the paper “described ways in which evolution unfolds in both living and nonliving systems, a subject relevant to the search for life elsewhere in the universe.”
 
 Michael L. Wong, an astrobiologist and the editor of the paper, confirmed that the paper had been withdrawn because two of the authors who are based in the United States feared retaliation, including possibly deportation. Dr. Wong told the Post,
 
