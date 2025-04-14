@@ -17,6 +17,8 @@ Over the last few years in my evolution class, I bring up some of the claims mad
 One of the students made an amazing point that I had missed – if Noah had taken animals from deserts, prairies, tropical rain forests, polar ice caps, etc., when the flood waters receded, were their environments just like before and full of food?  It’s hard to imagine flood waters disappearing and the tropical rain forest reappearing intact.
 
 The notion of two-by-two immediately hits anyone who has had a genetics course because they’re aware of the devastating effects of inbreeding.  Even though Noah didn’t bring only his wife, but also three sons and their wives, the <a href="https://www.nature.com/articles/hdy201325"> level of inbreeding would have rivaled that of the Habsburgs</a> and been a crushing genetic blow to the rekindling of humanity.
+
+<!--more-->
  
 It doesn’t escape notice that the loving deity killed all remaining people including fetuses, infants and children, old people, and handicapped people.  Pretty serious retribution.
  
