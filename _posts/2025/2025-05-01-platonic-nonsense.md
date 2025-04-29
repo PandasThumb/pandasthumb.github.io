@@ -5,8 +5,8 @@ author: Joe Felsenstein
 ---
 
 <figure><img src="uploads/2025/platoandaristotle.jpg" alt="[Sculptue of Plato and Aristotle arguing" />
-<figcaption>Sculpture of Plato and Aristotle arguing.  Is Plato the one on the left?  "The Art of Philosophy"  by  Luca della Robbia (1400-1480), in 
-the Museo dell'Opera del Duomo (Museum of Works of the Cathedral), Florence, Italy.  Image: Wikimedia Commons.  Original sculpture's copyright on the work expired in 1550.</figure>
+<figcaption>Sculpture of Plato and Aristotle arguing.  Is Plato the one on the right?  "The Art of Philosophy"  by  Luca della Robbia (1400-1480), in 
+the Museo dell'Opera del Duomo (Museum of Works of the Cathedral), Florence, Italy.  Image: Wikimedia Commons.  Original sculptor's copyright on the work itself expired in 1550.</figure>
 
 
 
