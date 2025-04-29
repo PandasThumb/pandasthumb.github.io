@@ -20,9 +20,11 @@ biology.  Lately they have been touting a book by EN journalist David Klinghoffe
 
 4/22 Steven Iacoboni:   Describes Levin preprint:    https://evolutionnews.org/2025/04/life-itself-in-michael-levins-platonism-teleology-advances/
 
-Sternberg:   Plato's Revenge: The New Science of the Immaterial Genome    https://discovery.press/b/platos-revenge/
+Klinghoffer:   Plato's Revenge: The New Science of the Immaterial Genome    https://discovery.press/b/platos-revenge/
 
 2/28  Daniel Witt:    Michael Levin: A farewell to physicalism   https://evolutionnews.org/2025/02/biologist-michael-levin-a-farewell-to-physicalism/
+
+January 2008:   Sternberg    "How my views evolved"  https://www.discovery.org/m/2008/01/sternintellbio08.pdf
 
 
 
