@@ -1,7 +1,7 @@
 ---
 title: Intelligent Design advocates buy into Platonic nonsense
 date: 2025-05-01 12:00:01 08:00 MST
-author: Joe Felsensteon
+author: Joe Felsenstein
 ---
 
 <figure><img src="uploads/2025/platoandaristotle.jpg" alt="[Sculptue of Plato and Aristotle arguing" />
