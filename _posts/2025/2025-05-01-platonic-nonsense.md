@@ -25,11 +25,13 @@ Klinghoffer:   Plato's Revenge: The New Science of the Immaterial Genome    http
 
 2/28  Daniel Witt:    Michael Levin: A farewell to physicalism   https://evolutionnews.org/2025/02/biologist-michael-levin-a-farewell-to-physicalism/
 
+
+
 2/7/2025: Michael Levin   "Ingressing minds: causal patterns beyond genetics and environment in natural, synthetic and hybrid embodiments"   Open Science Foundation preprints  https://osf.io/preprints/psyarxiv/5g2xj_v2
 
+Massimo Pigliucci 10/29/2016:   https://nautil.us/the-neo_platonic-argument-for-evolution-couldnt-be-more-wrong-236176/
 
-
-
+answering Andreas Wagner's suggested requirement for a "library of forms"
 
 January 2008:   Sternberg    "How my views evolved"  https://www.discovery.org/m/2008/01/sternintellbio08.pdf
 
