@@ -4,7 +4,7 @@ date: 2025-05-02 12:00:01 08:00 MST
 author: Joe Felsenstein
 ---
 
-<figure width=><img src="/uploads/2025/Plato_and_Aristotle_by_Luca_della_Robbia.jpg" alt="[Sculpture of Plato and Aristotle arguing]" />
+<figure width="360px"><img src="/uploads/2025/Plato_and_Aristotle_by_Luca_della_Robbia.jpg" alt="[Sculpture of Plato and Aristotle arguing]" />
 <figcaption>Sculpture of Plato and Aristotle arguing.  Is Plato the one on the right?  "The Art of Philosophy"  by  Luca della Robbia (1400-1480), in 
 the Museo dell'Opera del Duomo (Museum of Works of the Cathedral), Florence, Italy.  Image: Wikimedia Commons.  The original sculptor's copyright on the work itself expired in about 1550.</figure>
 
@@ -27,7 +27,13 @@ To Klinghoffer, as quoted by Sandico's post
 
 > When Dr. Sternberg thinks of ID, he’s thinking of the here and now. With echoes in the ancient philosophy of Plato, which pointed to immaterial “forms” shaping life, he finds scientific evidence of agency at work in the formation of every embryo, the development of every organism in the womb, and in the ongoing operation of every cell. The genome is not a material entity alone — DNA — but one that transcends space and time, employing DNA as an instrument, right now. 
 
-which he calls "intelligent design in real time".  Andrew Macdiarmid, another EN poster, has interviewed Klinghoffer ([here](https://evolutionnews.org/2025/05/platos-revenge-the-next-scientific-revolution/)) about his book on Sternberg's views.
+which he calls "intelligent design in real time".  Andrew McDiarmid, EN's head of podcasts, has interviewed Klinghoffer ([here](https://evolutionnews.org/2025/05/platos-revenge-the-next-scientific-revolution/)) about his book on Sternberg's views.
+
+To me this all sopunds a bit strange.  Plato argued that real organisms were but imperfect reflections of ideal forms, which existed in some other realm. 
+What evidence do Sternberg, Klinghoffer, Sandico, and McDiarmid have that this is so?  Let's look at an example ...
+
+<!--read more-->
+
 
 
 
