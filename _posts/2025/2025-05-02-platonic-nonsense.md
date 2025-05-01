@@ -8,7 +8,7 @@ author: Joe Felsenstein
 <figcaption>Sculpture of Plato and Aristotle arguing.  Is Plato the one on the right?  "The Art of Philosophy"  by  Luca della Robbia (1400-1480), in 
 the Museo dell'Opera del Duomo (Museum of Works of the Cathedral), Florence, Italy.  Image: Wikimedia Commons.  The original sculptor's copyright on the work itself expired in about 1550.</figure>
 
-<p>&nbsp;</p>p></p>
+<p>&nbsp;</p>
 
 
 The Discovery Institute's "Evolution News" is always a great place to look for tenuous and dubious arguments against evolutionary 
