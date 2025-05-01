@@ -17,7 +17,7 @@ the DI's house publisher.  The book is "[Plato’s Revenge: The New Science of t
 
 The book by Klinghoffer describes the views of Richard Sternberg.  Sternberg has two 
 Ph.D. degrees, one in molecular evolution and another in systems science.  His
-own web page ([here]0(https://richardsternberg.com/))
+own web page ([here](https://richardsternberg.com/))
 
 
 
