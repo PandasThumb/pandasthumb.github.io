@@ -40,14 +40,7 @@ What evidence do Sternberg, Klinghoffer, Sandico, and McDiarmid have that this i
 
 
 
-
-5/1  post announcing a podcast interview of David Klinghhoffer
-
-4/28  Emily Sandico:  Describes K's book    https://evolutionnews.org/2025/04/platos-revenge-intelligent-design-in-real-time/
-
 4/22 Steven Iacoboni:   Describes Levin preprint:    https://evolutionnews.org/2025/04/life-itself-in-michael-levins-platonism-teleology-advances/
-
-Klinghoffer:   Plato's Revenge: The New Science of the Immaterial Genome    https://discovery.press/b/platos-revenge/
 
 2/28  Daniel Witt:    Michael Levin: A farewell to physicalism   https://evolutionnews.org/2025/02/biologist-michael-levin-a-farewell-to-physicalism/
 
@@ -59,7 +52,6 @@ Massimo Pigliucci 10/29/2016:   https://nautil.us/the-neo_platonic-argument-for-
 
 answering Andreas Wagner's suggested requirement for a "library of forms"
 
-January 2008:   Sternberg    "How my views evolved"  https://www.discovery.org/m/2008/01/sternintellbio08.pdf
 
 
 
