@@ -23,11 +23,11 @@ own web page ([here](https://richardsternberg.com/)) explains that, in his view
 
 Sternberg's site also links to [a PDF](https://www.discovery.org/f/54005/) explaining in more detail how he came to his views.
 
-To Klinghoffer, 
+To Klinghoffer, as quoted by Sandico's post
 
 > When Dr. Sternberg thinks of ID, he’s thinking of the here and now. With echoes in the ancient philosophy of Plato, which pointed to immaterial “forms” shaping life, he finds scientific evidence of agency at work in the formation of every embryo, the development of every organism in the womb, and in the ongoing operation of every cell. The genome is not a material entity alone — DNA — but one that transcends space and time, employing DNA as an instrument, right now. 
 
-which he calls "intelligent design in real time".
+which he calls "intelligent design in real time".  Andrew Macdiarmid, another EN poster, has interviewed Klinghoffer ([here](https://evolutionnews.org/2025/05/platos-revenge-the-next-scientific-revolution/)) about his book on Sternberg's views.
 
 
 
