@@ -29,12 +29,18 @@ To Klinghoffer, as quoted by Sandico's post
 
 which he calls "intelligent design in real time".  Andrew McDiarmid, EN's head of podcasts, has interviewed Klinghoffer ([here](https://evolutionnews.org/2025/05/platos-revenge-the-next-scientific-revolution/)) about his book on Sternberg's views.
 
-To me this all sopunds a bit strange.  Plato argued that real organisms were but imperfect reflections of ideal forms, which existed in some other realm. 
+To me this all sounds a bit strange.  Plato argued that real organisms were but imperfect reflections of ideal forms, which existed in some other realm. 
 What evidence do Sternberg, Klinghoffer, Sandico, and McDiarmid have that this is so?  Let's look at an example ...
 
 <!--read more-->
 
+The example is explained by Daniel Witt, in an EN post ([here](https://evolutionnews.org/2025/02/biologist-michael-levin-a-farewell-to-physicalism/)), where he explains and interprets the views of Michael Levin, a 
 
+
+
+
+
+> There is important information in the DNA, of course. But organisms seem to develop with a goal in mind, so to speak, and are able reach that goal in spite of shifting and inherently unpredictable circumstances. This is significant, because if the circumstances and the developmental pathways necessary to adapt to them are unpredictable, then those pathways cannot have been programmed into the organism in advance. They have to be invented on-the-fly.
 
 
 
@@ -42,7 +48,9 @@ What evidence do Sternberg, Klinghoffer, Sandico, and McDiarmid have that this i
 
 4/22 Steven Iacoboni:   Describes Levin preprint:    https://evolutionnews.org/2025/04/life-itself-in-michael-levins-platonism-teleology-advances/
 
-2/28  Daniel Witt:    Michael Levin: A farewell to physicalism   https://evolutionnews.org/2025/02/biologist-michael-levin-a-farewell-to-physicalism/
+2/28  Daniel Witt:    Michael Levin: A farewell to physicalism https://evolutionnews.org/2025/02/28
+
+
 
 
 
