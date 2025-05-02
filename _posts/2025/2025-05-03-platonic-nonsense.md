@@ -34,11 +34,7 @@ What evidence do Sternberg, Klinghoffer, Sandico, and McDiarmid have that this i
 
 <!--read more-->
 
-The example is explained by Daniel Witt, in an EN post ([here](https://evolutionnews.org/2025/02/biologist-michael-levin-a-farewell-to-physicalism/)), where he explains and interprets the views of Michael Levin, a 
-
-
-
-
+The example is explained by Daniel Witt, in an EN post ([here](https://evolutionnews.org/2025/02/biologist-michael-levin-a-farewell-to-physicalism/)), where he explains and interprets the views of Michael Levin, a biologist at Tufts University who works on developmental algorithms.  According to Witt's explanation,
 
 > There is important information in the DNA, of course. But organisms seem to develop with a goal in mind, so to speak, and are able reach that goal in spite of shifting and inherently unpredictable circumstances. This is significant, because if the circumstances and the developmental pathways necessary to adapt to them are unpredictable, then those pathways cannot have been programmed into the organism in advance. They have to be invented on-the-fly.
 
