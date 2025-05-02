@@ -38,13 +38,11 @@ The example is explained by Daniel Witt, in an EN post ([here](https://evolution
 
 > There is important information in the DNA, of course. But organisms seem to develop with a goal in mind, so to speak, and are able reach that goal in spite of shifting and inherently unpredictable circumstances. This is significant, because if the circumstances and the developmental pathways necessary to adapt to them are unpredictable, then those pathways cannot have been programmed into the organism in advance. They have to be invented on-the-fly.
 
+Another, more recent EN post about Levin's views is by medical researcher Steven Iacoboni ([here](https://evolutionnews.org/2025/04/life-itself-in-michael-levins-platonism-teleology-advances/)).
 
+Levin gives his own summary of his views in a preprint available [from the Open Science Foundation site](https://osf.io/preprints/psyarxiv/5g2xj_v2).  
 
-
-
-4/22 Steven Iacoboni:   Describes Levin preprint:    https://evolutionnews.org/2025/04/life-itself-in-michael-levins-platonism-teleology-advances/
-
-2/28  Daniel Witt:    Michael Levin: A farewell to physicalism https://evolutionnews.org/2025/02/28
+Levin does invoke Platonism, and proposes that "mind" rather than physical entities are fundamental in nature.
 
 
 
