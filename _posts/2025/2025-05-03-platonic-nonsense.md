@@ -1,10 +1,10 @@
 ---
 title: Intelligent Design advocates buy into Platonic nonsense
-date: 2025-05-02 12:00:01 08:00 MST
+date: 2025-05-03 12:00:01 -08:00 MST
 author: Joe Felsenstein
 ---
 
-<figure width="360px"><img src="/uploads/2025/Plato_and_Aristotle_by_Luca_della_Robbia.jpg" alt="[Sculpture of Plato and Aristotle arguing]" />
+<figure><img src="/uploads/2025/Plato_and_Aristotle_by_Luca_della_Robbia.jpg" alt="[Sculpture of Plato and Aristotle arguing]" width="360px" />
 <figcaption>Sculpture of Plato and Aristotle arguing.  Is Plato the one on the right?  "The Art of Philosophy"  by  Luca della Robbia (1400-1480), in 
 the Museo dell'Opera del Duomo (Museum of Works of the Cathedral), Florence, Italy.  Image: Wikimedia Commons.  The original sculptor's copyright on the work itself expired in about 1550.</figure>
 
