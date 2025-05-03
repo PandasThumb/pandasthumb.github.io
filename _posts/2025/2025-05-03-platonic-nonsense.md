@@ -39,16 +39,20 @@ The example is explained by Daniel Witt, in an EN post ([here](https://evolution
 > There is important information in the DNA, of course. But organisms seem to develop with a goal in mind, so to speak, and are able reach that goal in spite of shifting and inherently unpredictable circumstances. This is significant, because if the circumstances and the developmental pathways necessary to adapt to them are unpredictable, then those pathways cannot have been programmed into the organism in advance. They have to be invented on-the-fly.
 
 Another, more recent EN post about Levin's views is by medical researcher Steven Iacoboni ([here](https://evolutionnews.org/2025/04/life-itself-in-michael-levins-platonism-teleology-advances/)).
-
 Levin gives his own summary of his views in a preprint available [from the Open Science Foundation site](https://osf.io/preprints/psyarxiv/5g2xj_v2).  
 
-Levin does invoke Platonism, and proposes that "mind" rather than physical entities are fundamental in nature.
+Levin does invoke Platonism, and proposes that "mind" rather than physical entities are fundamental in nature.  Andreas Wagner, in his book "The Arrival of the Fittest" also invokes Platonism and proposes that there may be "a library of forms" in nature.
+
+## Telos? ##
+
+The Evolution News posters view Levin's and Wagner's views as evidence for "telos" (purposeness) in nature, and argue that this is evidence for supernatural processes.  Levin and Wagner do not go that far.
+A central argument seems to be that if an organism can compensate for developmental accidents, and end up changing so as to achieve a desirable form, then thisis only possible if there is telos, teleological change.
+In particular, if organisms can 
 
 
 
 
 
-2/7/2025: Michael Levin   "Ingressing minds: causal patterns beyond genetics and environment in natural, synthetic and hybrid embodiments"   Open Science Foundation preprints  https://osf.io/preprints/psyarxiv/5g2xj_v2
 
 Massimo Pigliucci 10/29/2016:   https://nautil.us/the-neo_platonic-argument-for-evolution-couldnt-be-more-wrong-236176/
 
