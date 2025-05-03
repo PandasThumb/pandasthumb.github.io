@@ -1,6 +1,6 @@
 ---
 title: Intelligent Design advocates buy into Platonic nonsense
-date: 2025-05-03 12:00:01 -08:00 MST
+date: 2025-05-04 12:00:01 -08:00 MST
 author: Joe Felsenstein
 ---
 
