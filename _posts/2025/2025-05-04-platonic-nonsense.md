@@ -41,22 +41,35 @@ The example is explained by Daniel Witt, in an EN post ([here](https://evolution
 Another, more recent EN post about Levin's views is by medical researcher Steven Iacoboni ([here](https://evolutionnews.org/2025/04/life-itself-in-michael-levins-platonism-teleology-advances/)).
 Levin gives his own summary of his views in a preprint available [from the Open Science Foundation site](https://osf.io/preprints/psyarxiv/5g2xj_v2).  
 
-Levin does invoke Platonism, and proposes that "mind" rather than physical entities are fundamental in nature.  Andreas Wagner, in his book "The Arrival of the Fittest" also invokes Platonism and proposes that there may be "a library of forms" in nature.
+Levin does invoke Platonism, and proposes that "mind" rather than physical entities are fundamental in nature.  Andreas Wagner, in his book "The Arrival of the Fittest" also ends up invoking Platonism and proposes that there may be "a library of forms" in nature.
 
 ## Telos? ##
 
-The Evolution News posters view Levin's and Wagner's views as evidence for "telos" (purposeness) in nature, and argue that this is evidence for supernatural processes.  Levin and Wagner do not go that far.
-A central argument seems to be that if an organism can compensate for developmental accidents, and end up changing so as to achieve a desirable form, then thisis only possible if there is telos, teleological change.
-In particular, if organisms can 
+The Evolution News posters view Levin's and Wagner's views as evidence for "telos" (goal-directedness) in nature, and argue that this is evidence for supernatural processes.  Levin and Wagner do not go that far.
+A central argument seems to be that if an organism can compensate for developmental accidents, and end up changing so as to achieve a desirable form, then this is only possible if there is telos, teleological change.
+In particular, if organisms can anticipate the future and correct accidents of development, to them this cannot be the result of mere physical changes in DNA sequences.
 
+## No nous ##
 
+Explain prepaing for the future.  Embryos.  Growth, flowering of plants
+
+No need for realms of platonic forms
+
+Not sure that is what Levin / Wagner mean (Kauffman to)
+
+## Platonism? ##
+
+Pigliucci
+
+Library of forms -- in genotyope-phenotype map
+
+There is more to say about this, so I will look forward to what our commenters have to say, below.
 
 
 
 
 Massimo Pigliucci 10/29/2016:   https://nautil.us/the-neo_platonic-argument-for-evolution-couldnt-be-more-wrong-236176/
 
-answering Andreas Wagner's suggested requirement for a "library of forms"
 
 
 
