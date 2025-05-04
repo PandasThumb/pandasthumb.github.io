@@ -57,23 +57,34 @@ natural selection, the members of the population vary genetically. Consider a wo
 suffers damage around its mouth.  Different genotypes will differ in what happens after that.  Some of them 
 will change in a direction thst brings the worm closer to having a functional mouth. many others will lead to 
 an increasingly less functional mouth.  So different genotypes will vary in how fit the organism will be 
-whne affected by that damage.   Natural selection will of coursse favor the genotypes that are more fit when 
+when affected by that damage.   Natural selection will of coursse favor the genotypes that are more fit when 
 damage like that occurs.  No need to look up the ideal form in the Platonic encyclopedia in a supernatural 
 realm.
 
 Whenever organisms develop to anticipate future environments, ID advocates tend to regard this as 
-evidence for supernatural intervention, or plans inserted into the species by Design.  Because a maaterial 
-organism can only react to present conditions, and thus could not in principle develop so as 
-to predict future environments, and how well various forms could cope with them.  But this is 
-not necessary.  Consider a plant that sprouts from a seed in the spring, and grows for some 
-months before flowering at an appropriate time in the summer.  Does doing that require 
-supernaturally inserted algorithms, which push the plant towards its Platonic ideal life cycle. 
-No. All that is necessary is some feedback from fitness to the genotypes.  And that of course 
-is what mnatural selection does.
+evidence for supernatural intervention, or plans inserted into the species by Design. 
+
+[Quote from someone in the Discoverosphere here]
+
+Because, they 
+argue, a material organism can only react to present conditions, and thus could not in principle 
+develop so as to predict future environments, and how well various forms could cope with 
+them.  But this is not necessary.  Consider a plant that sprouts from a seed in the spring, 
+and grows for some months before flowering at an appropriate time in the summer.  Does doing 
+that require supernaturally inserted algorithms, which push the plant towards its Platonic 
+ideal life cycle. No. All that is necessary is some feedback from fitness to the 
+genotypes.  And that of course is what natural selection does.
 
 So no Nous is good news.
 
 [Coho salmon?]
+
+## A library of forms in the real world? ##
+
+The biologists that the DI platonists refer to are less clearly referring to any 
+supernatural processes.  Michael Levin comes closest
+
+
 
 Not sure that is what Levin / Wagner mean (Kauffman to)
 
