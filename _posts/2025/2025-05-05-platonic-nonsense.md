@@ -46,14 +46,30 @@ Levin does invoke Platonism, and proposes that "mind" rather than physical entit
 ## Telos? ##
 
 The Evolution News posters view Levin's and Wagner's views as evidence for "telos" (goal-directedness) in nature, and argue that this is evidence for supernatural processes.  Levin and Wagner do not go that far.
-A central argument seems to be that if an organism can compensate for developmental accidents, and end up changing so as to achieve a desirable form, then this is only possible if there is telos, teleological change.
-In particular, if organisms can anticipate the future and correct accidents of development, to them this cannot be the result of mere physical changes in DNA sequences.
+A central argument at EN seems to be that if an organism can compensate for developmental accidents, and end up changing so as to achieve a desirable form, then this is only possible if there is telos, teleological change.
+In particular, if organisms can anticipate the future and correct accidents of development, to these platonists this cannot be the result of mere physical changes in DNA sequences.
 
 ## No nous ##
 
-Explain prepaing for the future.  Embryos.  Growth, flowering of plants
+But it could, and it's not hard see how such a capability could evolve, without any overall plans that refer to platonic 
+ideals.  Organisms exist in populations,  Owing to processes such as mutation, recombination, and some types of 
+natural selection, the members of the population vary genetically. Consider a worm developing, and an individual 
+suffers damage around its mouth.  Different genotypes will differ in what happens after that.  Some of them 
+will change in a direction thst brings the worm closer to having a functional mouth. many others will lead to 
+an increasingly less functional mouth.  So different genotypes will vary in how fit the organism will be 
+whne affected by that damage.   Natural selection will of coursse favor the genotypes that are more fit when 
+damage like that occurs.  No need to look up the ideal form in the Platonic encyclopedia in a supernatural 
+realm.
 
-No need for realms of platonic forms
+Whenever organisms develop to anticipate future environments, ID advocates tend to regard this as 
+evidence for supernatural intervention, or plans inserted into the species by Design.  But this is 
+not necessary.  Consider a plant that sprouts from a seed in the spring, and grows for some 
+months before flowering at an appropriate time in the summer.  Does doing that require 
+supernaturally inserted algorithms, which push the plant towards its Platonic ideal life cycle. 
+All that is necessary is some feedback from fitness to the genotypes.  And that of course 
+is what mnatural selection does.
+
+[Coho salmon?]
 
 Not sure that is what Levin / Wagner mean (Kauffman to)
 
