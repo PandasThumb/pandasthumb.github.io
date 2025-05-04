@@ -38,7 +38,7 @@ The example is explained by Daniel Witt, in an EN post ([here](https://evolution
 
 > There is important information in the DNA, of course. But organisms seem to develop with a goal in mind, so to speak, and are able reach that goal in spite of shifting and inherently unpredictable circumstances. This is significant, because if the circumstances and the developmental pathways necessary to adapt to them are unpredictable, then those pathways cannot have been programmed into the organism in advance. They have to be invented on-the-fly.
 
-Another, more recent EN post about Levin's views is by medical researcher Steven Iacoboni ([here](https://evolutionnews.org/2025/04/life-itself-in-michael-levins-platonism-teleology-advances/)).
+Another, more recent EN post about Levin's views is by cancer researcher Steven Iacoboni ([here](https://evolutionnews.org/2025/04/life-itself-in-michael-levins-platonism-teleology-advances/)).
 Levin gives his own summary of his views in a preprint available [from the Open Science Foundation site](https://osf.io/preprints/psyarxiv/5g2xj_v2).  
 
 Levin does invoke Platonism, and proposes that "mind" rather than physical entities are fundamental in nature.  Andreas Wagner, in his book "The Arrival of the Fittest" also ends up invoking Platonism and proposes that there may be "a library of forms" in nature.
@@ -87,6 +87,10 @@ supernatural processes.  Michael Levin comes closest
 
 
 Not sure that is what Levin / Wagner mean (Kauffman to)
+
+Andreas Wagner on the library of forms (https://aeon.co/essays/without-a-library-of-platonic-forms-evolution-couldn-t-work)
+
+
 
 ## Platonism? ##
 
