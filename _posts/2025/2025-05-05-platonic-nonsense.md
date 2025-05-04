@@ -62,11 +62,13 @@ damage like that occurs.  No need to look up the ideal form in the Platonic ency
 realm.
 
 Whenever organisms develop to anticipate future environments, ID advocates tend to regard this as 
-evidence for supernatural intervention, or plans inserted into the species by Design.  But this is 
+evidence for supernatural intervention, or plans inserted into the species by Design.  Because a maaterial 
+organism can only react to present conditions, and thus could not in principle develop so as 
+to predict future environments, and how well various forms could cope with them.  But this is 
 not necessary.  Consider a plant that sprouts from a seed in the spring, and grows for some 
 months before flowering at an appropriate time in the summer.  Does doing that require 
 supernaturally inserted algorithms, which push the plant towards its Platonic ideal life cycle. 
-All that is necessary is some feedback from fitness to the genotypes.  And that of course 
+No. All that is necessary is some feedback from fitness to the genotypes.  And that of course 
 is what mnatural selection does.
 
 [Coho salmon?]
