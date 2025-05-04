@@ -71,6 +71,8 @@ supernaturally inserted algorithms, which push the plant towards its Platonic id
 No. All that is necessary is some feedback from fitness to the genotypes.  And that of course 
 is what mnatural selection does.
 
+So no Nous is good news.
+
 [Coho salmon?]
 
 Not sure that is what Levin / Wagner mean (Kauffman to)
