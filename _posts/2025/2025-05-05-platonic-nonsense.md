@@ -85,6 +85,10 @@ The biologists that the DI platonists refer to are less clearly referring to any
 supernatural processes.  Michael Levin comes closest
 
 
+Andreas Wagner proposes that a conceptual collection of all possible genome 
+sequencees, with the forms each sequence+9*-
+
+
 
 Not sure that is what Levin / Wagner mean (Kauffman to)
 
