@@ -6,7 +6,7 @@ author: Joe Felsenstein
 
 <figure><img src="/uploads/2025/PlatoAristotle.jpg" alt="[Sculpture of Plato and Aristotle arguing]" />
 <figcaption>Sculpture of Plato and Aristotle arguing.  Is Plato the one on the right?  "The Art of Philosophy"  by  Luca della Robbia (1400-1480), in 
-the Museo dell'Opera del Duomo (Museum of Works of the Cathedral), Florence, Italy.  Image: Wikimedia Commons.  The original sculptor's copyright on the work itself expired in about 1550.</figure>
+the Museo dell'Opera del Duomo (Museum of Works of the Cathedral), Florence, Italy.  Image: Wikimedia Commons.  The original sculptor's copyright on the work itself expired in about 1550.</figcaption></figure>
 
 <p>&nbsp;</p>
 
@@ -15,13 +15,17 @@ The Discovery Institute's "Evolution News" is always a great place to look for t
 biology.  Lately they have been touting a book by EN journalist David Klinghoffer, published by Discovery Press, 
 the DI's house publisher.  The book is "[Plato’s Revenge: The New Science of the Immaterial Genome](https://discovery.press/b/platos-revenge/)".   Emily Sandico, a DI staff writer, has [a piece calling attention to the book]( https://evolutionnews.org/2025/04/platos-revenge-intelligent-design-in-real-time/).
 
+
 The book by Klinghoffer describes the views of Richard Sternberg.  Sternberg has two 
 Ph.D. degrees, one in molecular evolution and another in systems science.  His
 own web page ([here](https://richardsternberg.com/)) explains that, in his view
 
+
 > Evolutionary genetics leaves open the central issue of how the one dimensional genotype can specify the four dimensional phenotype. The approach I am taking to this problem is a variant of structural realism, by which I mean that biological phenomena are manifestations of logico-mathematical structures. This perspective is orthogonal to the origins debate, if you will, because all historical actualities are understood to be space-time instances of pre-existing non-temporal possibilities. Within this context one can accept all that is empirically valid in evolutionary biology, while not axiomatically dismissing the position that structures as well as their “real” instantiations have an intelligent cause. My position asserts that the cosmos is fundamentally intelligible in such a way that it can be logically, mathematically, and scientifically recognized to be such; and moreover–following Proclus–that the universe emanates from Nous (mind). In this sense my thinking is compatible with intelligent design broadly defined.
 
+
 Sternberg's site also links to [a PDF](https://www.discovery.org/f/54005/) explaining in more detail how he came to his views.
+
 
 To Klinghoffer, as quoted by Sandico's post
 
@@ -61,10 +65,10 @@ when affected by that damage.   Natural selection will of coursse favor the geno
 damage like that occurs.  No need to look up the ideal form in the Platonic encyclopedia in a supernatural 
 realm.
 
+
 Whenever organisms develop to anticipate future environments, ID advocates tend to regard this as 
 evidence for supernatural intervention, or plans inserted into the species by Design. 
 
-[Quote from someone in the Discoverosphere here]
 
 Because, they 
 argue, a material organism can only react to present conditions, and thus could not in principle 
@@ -77,7 +81,6 @@ genotypes.  And that of course is what natural selection does.
 
 So no Nous is good news.
 
-[Coho salmon?]
 
 ## A library of forms in the real world? ##
 
