@@ -98,18 +98,10 @@ evolution:
 
 
 
-
-
-
-
-
-
-Andreas Wagner proposes -
-
-
-
-
-
+Stewart Kauffman has also insisted that evolutionary theory should inccorporate 
+descriptions of the connectedness of graphs describing organisms, in order 
+to understand which complex structures might come, not from natural 
+selection, but instead from random happenstance.
 
 ## Platonism? ##
 
