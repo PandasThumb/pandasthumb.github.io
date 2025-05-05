@@ -96,6 +96,13 @@ a conceptual collection of all possible genome
 sequences, with the forms each sequence produces, is fundamental to understanding
 evolution:
 
+> So nature’s libraries and their sprawling networks go a long way towards explaining life’s capacity to evolve. But where do they come from? You cannot see them in the glass lizard or its anatomy. They are nowhere near life’s visible surface, nor are they underneath this surface, in the structure of its tissues and cells. They are not even in the submicroscopic structure of its DNA. They exist in a world of concepts, the kind of abstract concepts that mathematicians explore.
+> 
+> Does that make them any less real?
+
+and
+
+> Nature’s libraries are the fountains of biological innovation that Darwin was looking for. And unlike the realm of abstract forms that Plato envisioned, they are richer, more diverse, and more complex than the visible world. They harbour enough innovations for all the species Darwinian evolution has created – and could create. No planet would be large enough to explore all of them. The legless lizard and the rest of the living world, in all their glory, are just faint shadows of this Platonic realm of the possible.
 
 
 Stewart Kauffman has also insisted that evolutionary theory should inccorporate 
@@ -105,16 +112,22 @@ selection, but instead from random happenstance.
 
 ## Platonism? ##
 
-Pigliucci
+Levin and Wagner make the connection to Plato, but they do not seem to be 
+describing a supernatural realm, rather a reconceived or extended reality.
 
-Library of forms -- in genotyope-phenotype map
+The Discoverosphere at Evolution News taakes their views as 
+endorsing a dualism which has a supernatural world directing 
+the natural world.  It is less than clear whether Levin or 
+Wagner would agree.
 
-There is more to say about this, so I will look forward to what our commenters have to say, below.
+For a blistering rejection of neo-platonic ideas as 
+relevant to biological evolution, see also [Massimo 
+Pgliucci's 2016 essay](https://nautil.us/the-neo_platonic-argument-for-evolution-couldnt-be-more-wrong-236176/).
 
 
-
-
-Massimo Pigliucci 10/29/2016:   https://nautil.us/the-neo_platonic-argument-for-evolution-couldnt-be-more-wrong-236176/
+There is more to say about this, but others are better at the 
+philosophy of biology, so I will look forward to what our commenters have to say, below.  The 
+authors from Evolution News are of course welcome to participate.
 
 
 
