@@ -122,7 +122,7 @@ Wagner would agree.
 
 For a blistering rejection of neo-platonic ideas as 
 relevant to biological evolution, see also [Massimo 
-Pgliucci's 2016 essay](https://nautil.us/the-neo_platonic-argument-for-evolution-couldnt-be-more-wrong-236176/).
+Pigliucci's 2016 essay](https://nautil.us/the-neo_platonic-argument-for-evolution-couldnt-be-more-wrong-236176/).
 
 
 There is more to say about this, but others are better at the 
