@@ -10,7 +10,7 @@ author: Matt Young
 </figcaption>
 </figure>
 
-This picture is 180 degrees out of phase with our usual biweekly posts, but you do not see a giant sunspot every day. (You may see a more or less ordinary sunspot at about 4:30, provided that the hour hand is short.) EarthSky at the link above discusses the sunspot in the picture:
+This picture is 180 degrees out of phase with our usual biweekly posts, but you do not see a giant sunspot every day. (You may see a more or less ordinary sunspot at about 4:30 on an imaginary clock, provided that the hour hand is short.) EarthSky at the link above discusses the sunspot in the picture:
 
 <blockquote>NOAA just released its April 2025 solar data. The monthly sunspot number climbed to 140.6, up from 134.2 in March, a clear signal that we remain firmly in solar maximum for Solar Cycle 25. This peak phase could continue for several more months before experts call the downturn. Leading the charge is AR4079, a behemoth sunspot region now dominating the sun’s northeast quadrant. Stretching six to seven Earths wide, it’s easily visible with eclipse glasses (always use proper eye protection!)....</blockquote>
 
