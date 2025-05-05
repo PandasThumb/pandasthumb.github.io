@@ -61,7 +61,7 @@ natural selection, the members of the population vary genetically. Consider a wo
 suffers damage around its mouth.  Different genotypes will differ in what happens after that.  Some of them 
 will change in a direction thst brings the worm closer to having a functional mouth. many others will lead to 
 an increasingly less functional mouth.  So different genotypes will vary in how fit the organism will be 
-when affected by that damage.   Natural selection will of coursse favor the genotypes that are more fit when 
+when affected by that damage.   Natural selection will of course favor the genotypes that are more fit when 
 damage like that occurs.  No need to look up the ideal form in the Platonic encyclopedia in a supernatural 
 realm.
 
