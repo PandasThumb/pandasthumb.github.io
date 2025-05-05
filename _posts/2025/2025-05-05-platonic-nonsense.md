@@ -118,7 +118,7 @@ selection, but instead from random happenstance.
 Levin and Wagner make the connection to Plato, but they do not seem to be 
 describing a supernatural realm, rather a reconceived or extended reality.
 
-The Discoverosphere at Evolution News taakes their views as 
+The Discoverosphere at Evolution News takes their views as 
 endorsing a dualism which has a supernatural world directing 
 the natural world.  It is less than clear whether Levin or 
 Wagner would agree.
