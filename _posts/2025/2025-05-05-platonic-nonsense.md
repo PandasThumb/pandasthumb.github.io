@@ -91,6 +91,10 @@ and
 > To	recap,	the	first	pillar	of	the	proposed	framework	is	that	Platonic	forms	inject	information	and	influence	into	physical	events,	such	as	the	growth	and	form	of	biological	bodies.	The	second	is	that	this	latent	space	contains	not	only	boring,	low-agency	forms	such	as	facts	about	integers	and	geometric	shapes,	but	also	a	wide	range	of	increasingly	high-agency	patterns,	some	of	which	we	call	“kinds	of	minds”.	Thus,	I	propose	that	minds,	as	patterns	that	ensoul	somatic	embodiments,	are	of	exactly	the	kind	(but	not	in	degree)	of	non-physical	nature	as	the	patterns	that	inhabit	and	guide	the	behavior	of	biological	tissue.
 
 
+Andreas Wagner instead [proposes](https://aeon.co/essays/without-a-library-of-platonic-forms-evolution-couldn-t-work) that to understand evolution, 
+a conceptual collection of all possible genome 
+sequences, with the forms each sequence produces, is fundamental to understanding
+evolution:
 
 
 
@@ -99,14 +103,10 @@ and
 
 
 
-Andreas Wagner proposes that a conceptual collection of all possible genome 
-sequencees, with the forms each sequence+9*-
+
+Andreas Wagner proposes -
 
 
-
-Not sure that is what Levin / Wagner mean (Kauffman to)
-
-Andreas Wagner on the library of forms (https://aeon.co/essays/without-a-library-of-platonic-forms-evolution-couldn-t-work)
 
 
 
