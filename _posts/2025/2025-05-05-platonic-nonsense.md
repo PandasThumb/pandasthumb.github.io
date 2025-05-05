@@ -36,7 +36,7 @@ which he calls "intelligent design in real time".  Andrew McDiarmid, EN's head o
 To me this all sounds a bit strange.  Plato argued that real organisms were but imperfect reflections of ideal forms, which existed in some other realm. 
 What evidence do Sternberg, Klinghoffer, Sandico, and McDiarmid have that this is so?  Let's look at an example ...
 
-<!--read more-->
+<!--more-->
 
 The example is explained by Daniel Witt, in an EN post ([here](https://evolutionnews.org/2025/02/biologist-michael-levin-a-farewell-to-physicalism/)), where he explains and interprets the views of Michael Levin, a biologist at Tufts University who works on developmental algorithms.  According to Witt's explanation,
 
