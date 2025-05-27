@@ -10,7 +10,6 @@ author: Matt Young
 </figcaption>
 </figure>
 <br/><br/>
-
 **** <STRONG>PHOTOGRAPHY CONTEST BEGINS NEXT MONDAY, JUNE 2</STRONG> ****
 
-It will be the XVIth &ndash; who'da thunk it?
+It will be the XVIth &ndash; who'da thunk it?<br/>
