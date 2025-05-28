@@ -1,6 +1,6 @@
 ---
 title: 'Photography Contest XVI'
-date: '2024-06-02 12:00:00 -06:00'
+date: '2025-06-02 12:00:00 -06:00'
 author: Matt Young
 ---
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
