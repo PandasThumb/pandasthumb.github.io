@@ -15,8 +15,7 @@ We encourage entries in a single, general category, which includes pictures of j
 
 Since rumor has it that the pandemic encouraged macro photography, we may, if we receive enough entries, establish a "macro" category.
 
-The winner will receive a choice between <a href="https://www.amazon.com/stores/Matt-Young/author/B001HPILDU/">Why Intelligent Design Fails, A Scientific Critique of the New Creationism</a>, edited by Taner Edis and me; and <a href=""></a> a second book, title TBA, generously contributed by <a href="https://ncse.ngo/">NCSE</a>. The runner-up will receive the remaining book.
-
+The winner will receive a choice between <a href="https://www.amazon.com/stores/Matt-Young/author/B001HPILDU/">Why Intelligent Design Fails, A Scientific Critique of the New Creationism</a>, edited by Taner Edis and me; and Mark Isaak's 2007 classic <a href="https://www.ucpress.edu/books/the-counter-creationism-handbook/paper">The Counter-Creationism Handbook</a>, generously contributed once again by <a href="https://ncse.ngo/">NCSE</a>. The runner-up will receive the remaining book.
 
 <!--more-->
 
