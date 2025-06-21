@@ -17,7 +17,7 @@ Please remember that this is a photography contest, not a popularity contest, an
 Photograph by <strong>Philip Abrams</strong>.
 
 <figure>
-<img src="/uploads/2025/Abrams_Eurasian_Jay_600.jpg/" alt="Eurasian jay"/>
+<img src="/uploads/2025/Abrams_Eurasian_Jay_600.jpg" alt="Eurasian jay"/>
 <figcaption><i><a href="https://www.wildlondon.org.uk/wildlife-explorer/birds/crows-and-shrikes/jay">Garrulus glandarius</a></i> &ndash; Eurasian jay, Chelsea, London, iPhone 15.
 </figcaption>
   
