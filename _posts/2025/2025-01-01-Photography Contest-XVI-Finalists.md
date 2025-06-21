@@ -4,7 +4,7 @@ date: '2025-01-01 12:00:00 -06:00'
 author: Matt Young
 ---
 
-Here are the finalists of the 2025 photography contest. It was nice to see some old friends, though new namnes would have been welcome. With assistance from Our Wife and Harshest Critic, we chose 7, which we display below the Figurative Fold. We chose the photographs more on the basis of their pictorial quality than on their scientific interest. Any text submitted by the photographers has been omitted. 
+Here are the finalists of the 2025 photography contest. It was nice to see some old friends, though new names would have been welcome. With assistance from Our Wife and Harshest Critic, we chose 7, which we display below the Figurative Fold. We chose the photographs more on the basis of their pictorial quality than on their scientific interest. Any text submitted by the photographers has been omitted. 
 
 The finalists are presented in alphabetical order of last name. Please look through their photographs before voting for your favorite. Polling will close Sunday, July 6 (the 4th being a holiday in the US), at approximately noon MDT, and we will display the winner at noon Monday, July 7. 
 
