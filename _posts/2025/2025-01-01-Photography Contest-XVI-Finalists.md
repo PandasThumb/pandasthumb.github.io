@@ -12,7 +12,7 @@ Please remember that this is a photography contest, not a popularity contest, an
 
 <!--more-->
 
------
+
 
 Photograph by <strong>Philip Abrams</strong>.
 
@@ -21,7 +21,7 @@ Photograph by <strong>Philip Abrams</strong>.
 <figcaption><i><a href="https://www.wildlondon.org.uk/wildlife-explorer/birds/crows-and-shrikes/jay">Garrulus glandarius</a></i> &ndash; Eurasian jay, Chelsea, London, iPhone 15.
 </figcaption>
   
------
+<br/><br/>
 
 Photograph by <strong>Al Denelsbeck</strong>.
 
@@ -30,7 +30,7 @@ Photograph by <strong>Al Denelsbeck</strong>.
 <figcaption><i><a href="https://en.wikipedia.org/wiki/Ginkgo_biloba">Ginkgo biloba</a></i> &ndash; ginkgo leaf after a heavy rain, Canon 7D.
 </figcaption>
   
------
+<br/><br/>
 
 Photograph by <strong>Joel Eissenberg</strong>.
 
@@ -39,7 +39,7 @@ Photograph by <strong>Joel Eissenberg</strong>.
 <figcaption><i><a href="https://en.wikipedia.org/wiki/Great_spreadwing">Archilestes grandis</a></i> &ndash; damselfly spotted at the Denver zoo.
 </figcaption>
   
------
+<br/><br/>
 
 Photograph by <strong>John Harshman</strong>.
   
@@ -48,7 +48,7 @@ Photograph by <strong>John Harshman</strong>.
 <figcaption><i><a href="https://en.wikipedia.org/wiki/Oriental_darter">Anhinga melanogaster</a></i> &ndash; Oriental darter, Keoladeo National Park, Rajasthan, India.
 </figcaption>
   
------
+<br/><br/>
 
 Photograph by <strong>C. Joseph Long</strong>.
 
@@ -57,7 +57,7 @@ Photograph by <strong>C. Joseph Long</strong>.
 <figcaption><i><a href="https://en.wikipedia.org/wiki/Sandhill_crane">Antigone (formerly Grus) canadensis</a></i> &ndash; sandhill crane, Bernardo State Wildlife Refuge, Rio Grande Valley, New Mexico.
 </figcaption>
   
------
+<br/><br/>
 
 Photograph by <strong>Malcolm Schongalla</strong>.
 
@@ -66,7 +66,7 @@ Photograph by <strong>Malcolm Schongalla</strong>.
 <figcaption><i><a href="https://en.wikipedia.org/wiki/Barren-ground_caribou">Rangifer tarandus groenlandicus</a></i> &ndash; barren-ground caribou, Russell Glacier on the West Coast of Greenland, June, 2022.
 </figcaption>
   
------
+<br/><br/>
 
 Photograph by <strong>John Trawick</strong>.
 
@@ -75,6 +75,6 @@ Photograph by <strong>John Trawick</strong>.
 <figcaption><i><a href="https://www.smgrowers.com/products/plants/plantdisplay.asp?plant_id=543">Echium candicans</a></i> &ndash; "Pride of Madeira," with <i>Apis mellifera</i> &ndash; European honeybee.
 </figcaption>
 
------
+<br/><br/>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScYL25zz4LVzQz7di3g-UIJI1vtyLfr93nZFXbC36fO59v_HA/viewform?embedded=true" width="640" height="650" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
