@@ -1,6 +1,6 @@
 ---
 title: 'Photography Contest XVI: Finalists'
-date: '2021-06-23 12:00:00 -06:00'
+date: '2025-06-23 12:00:00 -06:00'
 author: Matt Young
 ---
 
