@@ -1,5 +1,5 @@
 ---
-title: 'Nature Selecting. A children&#39;s book explaining evolution'
+title: '_Nature Selecting_: A children&#39;s book explaining evolution'
 date: '2025-07-05 13:29:00 -06:00'
 author: Matt Young
 ---
