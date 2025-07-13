@@ -1,5 +1,5 @@
 ---
-title: 'Ken Ham&#39;s <i>The Lie</i>: What&#39;s new (plenty) in the 2024 version'
+title: 'Ken Ham&#39;s _The Lie_: What&#39;s new (plenty) in the 2024 version'
 date: '2024-10-21 12:00:00 -06:00'
 author: Paul Braterman
 ---
