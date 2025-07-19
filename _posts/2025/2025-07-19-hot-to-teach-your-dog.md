@@ -4,7 +4,7 @@ date: '2025-07-19 13:45:00 -06:00'
 author: Matt Young
 ---
 
-<figure>
+<figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
 <img src="/uploads/2025/Orzel_Physics_Dog_600.jpg" alt="Book cover"/>
 <figcaption>
 </figcaption>
