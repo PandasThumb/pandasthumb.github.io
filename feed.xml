@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://pandasthumb.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pandasthumb.org/" rel="alternate" type="text/html" /><updated>2025-07-19T12:48:37-07:00</updated><id>https://pandasthumb.org/feed.xml</id><title type="html">The Panda’s Thumb</title><entry><title type="html">Echium candicans</title><link href="https://pandasthumb.org/archives/2025/07/echium-candicans.html" rel="alternate" type="text/html" title="Echium candicans" /><published>2025-07-14T11:00:00-07:00</published><updated>2025-07-14T11:00:00-07:00</updated><id>https://pandasthumb.org/archives/2025/07/echium-candicans</id><content type="html" xml:base="https://pandasthumb.org/archives/2025/07/echium-candicans.html">&lt;p&gt;Photograph by &lt;strong&gt;John Trawick&lt;/strong&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://pandasthumb.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pandasthumb.org/" rel="alternate" type="text/html" /><updated>2025-07-19T12:50:50-07:00</updated><id>https://pandasthumb.org/feed.xml</id><title type="html">The Panda’s Thumb</title><entry><title type="html">How to Teach Your Dog Quantum Mechanics: book report</title><link href="https://pandasthumb.org/archives/2025/07/hot-to-teach-your-dog.html" rel="alternate" type="text/html" title="How to Teach Your Dog Quantum Mechanics: book report" /><published>2025-07-19T12:45:00-07:00</published><updated>2025-07-19T12:45:00-07:00</updated><id>https://pandasthumb.org/archives/2025/07/hot-to-teach-your-dog</id><content type="html" xml:base="https://pandasthumb.org/archives/2025/07/hot-to-teach-your-dog.html">&lt;figure&gt;
+&lt;img src=&quot;/uploads/2025/Orzel_Physics_Dog_600.jpg&quot; alt=&quot;Book cover&quot; /&gt;
+&lt;figcaption&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I accidentally came across &lt;a href=&quot;https://www.amazon.com/How-Teach-Quantum-Physics-Your-ebook/dp/B002ZJCQT2/&quot;&gt;this little book&lt;/a&gt;, originally published in 2009 a short while ago and thought it deserved a review in Amazon. It is a little bit off-task here, but it is a solid science book and still deserves some publicity. This report, which you will find below the fold, is necessarily a little technical. If you cannot understand it, read the book!&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;The dog was a little cutesy at times, but on the whole I thought this was a splendid book. Not that it exactly explained why quantum will mechanics is the way it is – I have a feeling we will never know the answer to that question – but rather it was breezy yet got into surprising depth. The dog and the bunnies she always chased turned out to be a good device for explaining why we do not see quantum effects in the macroscopic world.&lt;/p&gt;
+
+&lt;p&gt;For the realists among us, Orzel explains that the wave-particle duality is real, and the particle truly does not have a definite state until it is “observed.” Likewise, Heisenberg’s uncertainty principle is a purely quantum effect and has no classical analog. It is good for an experimental physicist like me to be reminded of that every now and then.&lt;/p&gt;
+
+&lt;p&gt;Orzel spends considerable time with the Copenhagen and the many-worlds interpretations. He does not like the Copenhagen interpretation, but if he embraces the many-worlds interpretation, he did not convince me. That we cannot understand quantum mechanics does not mitigate our desire for an explanation.&lt;/p&gt;
+
+&lt;p&gt;The quantum Zeno effect was vaguely familiar to me, and Orzel explains it well. Oversimplified slightly, if you repeatedly make measurements immediately after you start a transition, you repeatedly put the system back into the initial condition, and the system never completes the transition. In classical mechanics, the system would keep going, perhaps with small perturbations.&lt;/p&gt;
+
+&lt;p&gt;Quantum tunneling is nothing to someone who is used to electromagnetic waves, but entanglement can drive a naïve realist crazy. The book was published in 2009, and I think entangled photons have since been discovered over much greater distances than described in the book. Unless I completely misunderstand, one of two entangled photons could travel to Alpha Centauri, while the other one went back and forth to Jupiter a zillion times.* As soon as we measure the second photon, the state of the Alpha Centauri photon will be determined instantly (in our reference frame), but we will have to wait several years to receive a telephone call at the speed of light.†&lt;/p&gt;
+
+&lt;p&gt;The chapter on quantum teleportation might be a little too “hairy” for the casual reader, but I had not realized that a particle is not literally teleported; rather, another particle down the road somewhere is prepared, with some difficulty, in the same state as the initial particle (sort of, but not precisely, the way a fax machine sends a copy of an original).&lt;/p&gt;
+
+&lt;p&gt;The attraction between, say, an electron and a proton is caused by an exchange of virtual particles. These particles are exceedingly short-lived and are never observed. They may sound like woo, but in fact they are the basis for the most precise calculations in physics (or anywhere else).&lt;/p&gt;
+
+&lt;p&gt;The last chapter of the book discusses misuses of quantum physics by quacks who promise free energy from something known as zero-point energy; quantum healing, which is so convoluted that you will have to read it to believe it was written by someone with an advanced degree; healing at a distance, supposedly based on a unified field theory, which does not exist, or entanglement, or something; and homeopathy, which evidently has taken up entanglement since I last studied it. Such a lot of nonsense! As Orzel notes, quantum mechanics is not magic.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;I had a relatively few quibbles, most of which I will not detail here. I thought that the Dirac bracket, &amp;lt;a&lt;/td&gt;
+      &lt;td&gt;b&amp;gt;, should have been defined more clearly. Physicists may not be “widely admired for their ability to think up clever names,” but Dirac very cleverly divided his brackets into two segments, &amp;lt;a&lt;/td&gt;
+      &lt;td&gt;and&lt;/td&gt;
+      &lt;td&gt;b&amp;gt;, and called them bras and kets. (I had a professor in the 1960’s who said that it took him several years before he could say “bra” without blushing, but in fact the Dirac bra was invented before the brassiere.)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;I do not know why Orzel used gamma, rather than the usual lambda, for the wavelength of light. A mirror that is “not quite perfect” would have better been described as a partially reflecting or transmitting mirror. You do not send a laser through a crystal; you send a &lt;i&gt;laser beam&lt;/i&gt;. And finally, never, as I once did, let a philosopher hear you say that virtual particles annihilate each other &lt;i&gt;in order to satisfy the uncertainty principle&lt;/i&gt;.&lt;/p&gt;
+
+&lt;p&gt;* I will take this opportunity to point out (a) that the book uses far, far too many footnotes in order to include material that mostly should have been written into the text, and (b) that entanglement is very, very fussy, and it would be very difficult in reality for a photon to travel all the way to Alpha Centauri without having an interaction that destroys the entanglement. Such an interaction brings about decoherence, which is covered in some detail in the book. Decoherence is arguably one reason we do not see quantum effects with macroscopic objects.&lt;/p&gt;
+
+&lt;p&gt;† Unfortunately, we cannot use entanglement to send messages instantaneously to Alpha Centauri, because if we knew the state of “our” photon before sending it off, it would be a different experiment, with no entanglement.&lt;/p&gt;
+
+&lt;p&gt;Thanks to Judah Levine for providing helpful comments.&lt;/p&gt;</content><author><name>Matt Young</name></author><summary type="html">I accidentally came across this little book, originally published in 2009 a short while ago and thought it deserved a review in Amazon. It is a little bit off-task here, but it is a solid science book and still deserves some publicity. This report, which you will find below the fold, is necessarily a little technical. If you cannot understand it, read the book!</summary></entry><entry><title type="html">Echium candicans</title><link href="https://pandasthumb.org/archives/2025/07/echium-candicans.html" rel="alternate" type="text/html" title="Echium candicans" /><published>2025-07-14T11:00:00-07:00</published><updated>2025-07-14T11:00:00-07:00</updated><id>https://pandasthumb.org/archives/2025/07/echium-candicans</id><content type="html" xml:base="https://pandasthumb.org/archives/2025/07/echium-candicans.html">&lt;p&gt;Photograph by &lt;strong&gt;John Trawick&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Photography Contest, &lt;strong&gt;Runner-up&lt;/strong&gt;.&lt;/p&gt;
 
@@ -415,76 +458,4 @@ Please do not forget to vote:&lt;br /&gt;&lt;/p&gt;
 &lt;header&gt;&lt;h4&gt;&lt;a href=&quot;https://pandasthumb.org/archives/2025/06/Photography-Contest-XVI-Finalists.html&quot;&gt;Photography Contest XVI: Finalists&lt;/a&gt;&lt;/h4&gt;&lt;/header&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Voting continues through Sunday, July 6, at noon, MDT (UTC - 7).&lt;/p&gt;</content><author><name>Matt Young</name></author><summary type="html">Ichneumonidae &amp;ndash; ichneumon wasp, fairly frisky, wandering around the house, Boulder, Colorado, June, 2025. Please do not forget to vote: Photography Contest XVI: Finalists Voting continues through Sunday, July 6, at noon, MDT (UTC - 7).</summary></entry><entry><title type="html">Photography Contest XVI: Finalists</title><link href="https://pandasthumb.org/archives/2025/06/Photography-Contest-XVI-Finalists.html" rel="alternate" type="text/html" title="Photography Contest XVI: Finalists" /><published>2025-06-23T11:00:00-07:00</published><updated>2025-06-23T11:00:00-07:00</updated><id>https://pandasthumb.org/archives/2025/06/Photography%20Contest-XVI-Finalists</id><content type="html" xml:base="https://pandasthumb.org/archives/2025/06/Photography-Contest-XVI-Finalists.html">&lt;p&gt;Here are the finalists of the 2025 photography contest. It was nice to see some old friends, though new names would have been welcome. With assistance from Our Wife and Harshest Critic, we chose 7, which we display below the Figurative Fold. We chose the photographs more on the basis of their pictorial quality than on their scientific interest. Any text submitted by the photographers has been omitted.&lt;/p&gt;
-
-&lt;p&gt;The finalists are presented in alphabetical order of last name. Please look through their photographs before voting for your favorite. Polling will close Sunday, July 6 (the 4th being a holiday in the US), at approximately noon MDT, and we will display the winner at noon Monday, July 7.&lt;/p&gt;
-
-&lt;p&gt;Please remember that this is a photography contest, not a popularity contest, and discourage your friends from enlisting others specifically to vote for you.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Photograph by &lt;strong&gt;Philip Abrams&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;img src=&quot;/uploads/2025/Abrams_Eurasian_Jay_600.jpg&quot; alt=&quot;Eurasian jay&quot; /&gt;
-&lt;figcaption&gt;&lt;i&gt;&lt;a href=&quot;https://www.wildlondon.org.uk/wildlife-explorer/birds/crows-and-shrikes/jay&quot;&gt;Garrulus glandarius&lt;/a&gt;&lt;/i&gt; &amp;ndash; Eurasian jay, Chelsea, London, iPhone 15.
-&lt;/figcaption&gt;
-  
-&lt;br /&gt;&lt;br /&gt;
-
-Photograph by &lt;strong&gt;Al Denelsbeck&lt;/strong&gt;.
-
-&lt;figure&gt;
-&lt;img src=&quot;/uploads/2025/Denelsbeck_Ginkgo_biloba.jpg&quot; alt=&quot;Ginkgo leaf&quot; /&gt;
-&lt;figcaption&gt;&lt;i&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Ginkgo_biloba&quot;&gt;Ginkgo biloba&lt;/a&gt;&lt;/i&gt; &amp;ndash; ginkgo leaf after a heavy rain, Canon 7D.
-&lt;/figcaption&gt;
-  
-&lt;br /&gt;&lt;br /&gt;
-
-Photograph by &lt;strong&gt;Joel Eissenberg&lt;/strong&gt;.
-
-&lt;figure&gt;
-&lt;img src=&quot;/uploads/2025/Eissenberg_Archilestes grandis.jpg&quot; alt=&quot;Damselfly&quot; /&gt;
-&lt;figcaption&gt;&lt;i&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Great_spreadwing&quot;&gt;Archilestes grandis&lt;/a&gt;&lt;/i&gt; &amp;ndash; damselfly spotted at the Denver zoo.
-&lt;/figcaption&gt;
-  
-&lt;br /&gt;&lt;br /&gt;
-
-Photograph by &lt;strong&gt;John Harshman&lt;/strong&gt;.
-  
-&lt;figure&gt;
-&lt;img src=&quot;/uploads/2025/Harshman_Anhinga.jpg&quot; alt=&quot;Anhinga (bird)&quot; /&gt;
-&lt;figcaption&gt;&lt;i&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Oriental_darter&quot;&gt;Anhinga melanogaster&lt;/a&gt;&lt;/i&gt; &amp;ndash; Oriental darter, Keoladeo National Park, Rajasthan, India.
-&lt;/figcaption&gt;
-  
-&lt;br /&gt;&lt;br /&gt;
-
-Photograph by &lt;strong&gt;C. Joseph Long&lt;/strong&gt;.
-
-&lt;figure&gt;
-&lt;img src=&quot;/uploads/2025/Long_Antigone_canadensis.jpg&quot; alt=&quot;Sandhill crane&quot; /&gt;
-&lt;figcaption&gt;&lt;i&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Sandhill_crane&quot;&gt;Antigone (formerly Grus) canadensis&lt;/a&gt;&lt;/i&gt; &amp;ndash; sandhill crane, Bernardo State Wildlife Refuge, Rio Grande Valley, New Mexico.
-&lt;/figcaption&gt;
-  
-&lt;br /&gt;&lt;br /&gt;
-
-Photograph by &lt;strong&gt;Malcolm Schongalla&lt;/strong&gt;.
-
-&lt;figure&gt;
-&lt;img src=&quot;/uploads/2025/Schongalla_Rangifer_tarandus_skull.jpg&quot; alt=&quot;Caribou skull&quot; /&gt;
-&lt;figcaption&gt;&lt;i&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Barren-ground_caribou&quot;&gt;Rangifer tarandus groenlandicus&lt;/a&gt;&lt;/i&gt; &amp;ndash; barren-ground caribou, Russell Glacier on the West Coast of Greenland, June, 2022.
-&lt;/figcaption&gt;
-  
-&lt;br /&gt;&lt;br /&gt;
-
-Photograph by &lt;strong&gt;John Trawick&lt;/strong&gt;.
-
-&lt;figure&gt;
-&lt;img src=&quot;/uploads/2025/Trawick_Apis_mellifera_Echium_candicans.jpg&quot; alt=&quot;&amp;ldquo;Pride of Madeira&amp;rdquo; (flower)&quot; /&gt;
-&lt;figcaption&gt;&lt;i&gt;&lt;a href=&quot;https://www.smgrowers.com/products/plants/plantdisplay.asp?plant_id=543&quot;&gt;Echium candicans&lt;/a&gt;&lt;/i&gt; &amp;ndash; &quot;Pride of Madeira,&quot; with &lt;i&gt;Apis mellifera&lt;/i&gt; &amp;ndash; European honeybee.
-&lt;/figcaption&gt;
-
-&lt;br /&gt;&lt;br /&gt;
-
-&lt;iframe src=&quot;https://docs.google.com/forms/d/e/1FAIpQLScYL25zz4LVzQz7di3g-UIJI1vtyLfr93nZFXbC36fO59v_HA/viewform?embedded=true&quot; width=&quot;640&quot; height=&quot;650&quot; frameborder=&quot;0&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;Loading…&lt;/iframe&gt;
-&lt;/figure&gt;&lt;/figure&gt;&lt;/figure&gt;&lt;/figure&gt;&lt;/figure&gt;&lt;/figure&gt;&lt;/figure&gt;</content><author><name>Matt Young</name></author><summary type="html">Here are the finalists of the 2025 photography contest. It was nice to see some old friends, though new names would have been welcome. With assistance from Our Wife and Harshest Critic, we chose 7, which we display below the Figurative Fold. We chose the photographs more on the basis of their pictorial quality than on their scientific interest. Any text submitted by the photographers has been omitted. The finalists are presented in alphabetical order of last name. Please look through their photographs before voting for your favorite. Polling will close Sunday, July 6 (the 4th being a holiday in the US), at approximately noon MDT, and we will display the winner at noon Monday, July 7. Please remember that this is a photography contest, not a popularity contest, and discourage your friends from enlisting others specifically to vote for you.</summary></entry></feed>
+&lt;p&gt;Voting continues through Sunday, July 6, at noon, MDT (UTC - 7).&lt;/p&gt;</content><author><name>Matt Young</name></author><summary type="html">Ichneumonidae &amp;ndash; ichneumon wasp, fairly frisky, wandering around the house, Boulder, Colorado, June, 2025. Please do not forget to vote: Photography Contest XVI: Finalists Voting continues through Sunday, July 6, at noon, MDT (UTC - 7).</summary></entry></feed>
