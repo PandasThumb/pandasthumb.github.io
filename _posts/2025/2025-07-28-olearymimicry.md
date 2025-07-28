@@ -9,7 +9,7 @@ author: Joe Felsenstein
 <figure><img src="/uploads/2025/Butterflyfish.jpg" alt="[The Four-eyed Butterflyfish]"/><br/>
 <figcaption>The Four-eyed Butterflyfish, <em>Chaetodon capistratus</em>, 
 with the real pair of eyes obscured by stripes, allowing the large spots 
-to be mistaken for eyes.</figcaption></figure>
+to be mistaken for eyes. From Wikimedia.</figcaption></figure>
 
 <p>&nbsp;&nbsp;</p>
 
@@ -17,8 +17,8 @@ The Discovery Institute's _Evolution News_ website is the foremost site for
 advocacy of Intelligent Design.  We should therefore expect its arguments to 
 be technically sound and convincing.  An extraordinary example of their 
 standards appeared recently there.  On the 23rd of July, Denyse O'Leary,
-who posts there often, explained why: [For Darwinism, Here Is the Problem with Butterfly Mimicry]
-(https://evolutionnews.org/2025/07/for-darwinism-here-is-the-problem-with-butterfly-mimicry/).
+who posts there often, explained why: 
+[For Darwinism, Here Is the Problem with Butterfly Mimicry](https://evolutionnews.org/2025/07/for-darwinism-here-is-the-problem-with-butterfly-mimicry/).
 
 She starts by noting a scientific paper which examined the evolution of 
 a type of mimicry in which what look like large eyespots occur near the 
