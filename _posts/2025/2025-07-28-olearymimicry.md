@@ -42,7 +42,7 @@ no such argument can be made for the false eyespots:
 
 > I call this the “five percent solution” because of a question asked in the article at PBS above, “What good is five percent of an eye?” And a reasonable answer is: Some good. Even a light-sensitive spot is better than no vision at all.
 >
-> #But Now What about the Five Percent Problem?#
+> **But Now What about the Five Percent Problem?**
 >
 > The dead leaf butterfly’s challenge — to take one example — is quite different from the one a blind worm faces. The blind worm is better off with five percent of visual information, as opposed to none at all.
 >
