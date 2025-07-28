@@ -6,10 +6,10 @@ author: Joe Felsenstein
 
 
 
-\figure{<a img="uploads/2025/Butterflyfish.jpg" alt="[The Four-eyed Butterflyfish]"><br>
+<figure>{<a img src="uploads/2025/Butterflyfish.jpg" alt="[The Four-eyed Butterflyfish]"/><br>
 <figcaption{The Four-eyed Butterflyfish, <em>Chaetodon capistratus</em>, 
 with one pair of eyes obscured by stripes, allowing the large spots 
-to be mistaken for eyes}
+to be mistaken for eyes}}
 
 The Discovery Institute's _Evolution News_ website is the foremost site for 
 advocacy of Intelligent Design.  We should therefore expect its arguments to 
