@@ -49,9 +49,7 @@ no such argument can be made for the false eyespots:
 > But a method of deception that is only five percent persuasive is not a first step on a road to a solution. Looking only five per cent like a dead leaf would likely prove fatal to the insect that relied on it. The false head butterfly would face the same problem: If the wing spots looked only a bit like a head for aeons, the gradually evolving insect would need a different method of self-protection for quite a long time. And, under the circumstances, why would either the dead leaf or false head mimicry continue to evolve?
 > There really isn’t an adequate answer to this problem because Darwinian evolution is not thought to show foresight. The usual response has been to Cancel the question instead. That submerges the question but doesn’t make it go away."
 
-<!--more-->
-
-I'm not convinced.  O'Leary assumes an all-or-nothing view of adaptation.  Either a 
+I'm not convinced. <!--more--> O'Leary assumes an all-or-nothing view of adaptation.  Either a 
 species is fully adapted, so that the mimicry is fully effective, or it has 
 no adaptation at all.  But encounters between predators and prey occur in many 
 different circumstances, sometimes with predators having a good view of the 
