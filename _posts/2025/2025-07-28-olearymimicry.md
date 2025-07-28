@@ -6,8 +6,8 @@ author: Joe Felsenstein
 
 
 
-<figure><a img src="/uploads/2025/Butterflyfish.jpg" alt="[The Four-eyed Butterflyfish]"/><br>
-<figcaption{The Four-eyed Butterflyfish, <em>Chaetodon capistratus</em>, 
+<figure><a img src="/uploads/2025/Butterflyfish.jpg" alt="[The Four-eyed Butterflyfish]"/><br/>
+<figcaption>The Four-eyed Butterflyfish, <em>Chaetodon capistratus</em>, 
 with the real pair of eyes obscured by stripes, allowing the large spots 
 to be mistaken for eyes.</figcaption></figure>
 
