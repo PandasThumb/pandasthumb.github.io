@@ -11,6 +11,7 @@ author: Joe Felsenstein
 with the real pair of eyes obscured by stripes, allowing the large spots 
 to be mistaken for eyes.</figcaption></figure>
 
+<p>&nbsp;&nbsp;</p>
 
 The Discovery Institute's _Evolution News_ website is the foremost site for 
 advocacy of Intelligent Design.  We should therefore expect its arguments to 
