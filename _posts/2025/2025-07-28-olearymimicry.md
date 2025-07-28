@@ -47,8 +47,7 @@ no such argument can be made for the false eyespots:
 > The dead leaf butterfly’s challenge — to take one example — is quite different from the one a blind worm faces. The blind worm is better off with five percent of visual information, as opposed to none at all.
 >
 > But a method of deception that is only five percent persuasive is not a first step on a road to a solution. Looking only five per cent like a dead leaf would likely prove fatal to the insect that relied on it. The false head butterfly would face the same problem: If the wing spots looked only a bit like a head for aeons, the gradually evolving insect would need a different method of self-protection for quite a long time. And, under the circumstances, why would either the dead leaf or false head mimicry continue to evolve?
-> 
-e There really isn’t an adequate answer to this problem because Darwinian evolution is not thought to show foresight. The usual response has been to Cancel the question instead. That submerges the question but doesn’t make it go away."
+> There really isn’t an adequate answer to this problem because Darwinian evolution is not thought to show foresight. The usual response has been to Cancel the question instead. That submerges the question but doesn’t make it go away."
 
 <!--more-->
 
