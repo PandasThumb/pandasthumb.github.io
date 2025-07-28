@@ -16,7 +16,6 @@ to be mistaken for eyes.</figcaption></figure>
 The Discovery Institute's _Evolution News_ website is the foremost site for 
 advocacy of Intelligent Design.  We should therefore expect its arguments to 
 be technically sound and convincing.  An extraordinary example of their 
-For Darwinism, Here Is the Problem with Butterfly Mimicry
 standards appeared recently there.  On the 23rd of July, Denyse O'Leary,
 who posts there often, explained why: [For Darwinism, Here Is the Problem with Butterfly Mimicry]
 (https://evolutionnews.org/2025/07/for-darwinism-here-is-the-problem-with-butterfly-mimicry/).
