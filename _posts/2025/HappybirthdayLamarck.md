@@ -1,6 +1,6 @@
 ---
 title: Happy Lamarck day
-date: 2025-08-02 12:00:01 -08:00:00
+date: 2025-08-01 12:00:01 -08:00:00
 author: Joe Felsenstein
 ---
 
