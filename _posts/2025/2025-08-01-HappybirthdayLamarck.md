@@ -4,11 +4,11 @@ date: 2025-08-01 12:00:01 -08:00:00
 author: Joe Felsenstein
 ---
 
-<figure><img src="/uploads/2025/Buffon2.jpeg" alt="[Not Lamarck but instead Buffon]"/><figcaption>Not actually Lamarck, but instead 
+<figure><img src="/uploads/2025/Buffon2.jpg" alt="[Not Lamarck but instead Buffon]"/><figcaption>Not actually Lamarck, but instead 
 his superior, Buffon. Painting by François-Hubert Drouais. From Wikimedia.</figcaption></figure>
 
 <p>&nbsp;</p>
-</p>
+
 Once again, it is the birthday (August 1st) of Jean Baptiste Pierre Antoine de Monet, the Chevalier de 
 Lamarck.  He was the first evolutionary major biologist (as far as I am concerned).  He drew some of 
 the first evolutionary trees, and suggested mechanisms for evolution, including adaptation. (His mechanisms 
