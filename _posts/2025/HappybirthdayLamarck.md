@@ -4,8 +4,8 @@ date: 2025-08-02 12:00:01 -08:00:00
 author: Joe Felsenstein
 ---
 
-<figure><img src="" alt="[Not Lamarck but instead Buffon]"/><figcaption>Not actually Lamarck, but instead 
-his superior, Buffon.  From Wikimedia.</figcaption></figure>
+<figure><img src="/uploads/2025/Buffon2.jpg" alt="[Not Lamarck but instead Buffon]"/><figcaption>Not actually Lamarck, but instead 
+his superior, Buffon. Painting by Georges-Francois Hubert. From Wikimedia.</figcaption></figure>
 
 Once again, it is the birthday (August 1st) of Jean Baptiste Pierre Antoine de Monet, the Chevalier de 
 Lamarck.  He was the first evolutionary major biologist (as far as I am concerned).  He drew some of 
@@ -18,7 +18,7 @@ his patron Buffon, who also has a claim to be an early evolutionist.
 
 <!--more-->
 
-George-Louis Leclerc, Comte de Buffon (1707-1788) was a sometime-aristocrat who was 
+Georges-Louis Leclerc, Comte de Buffon (1707-1788) was a sometime-aristocrat who was 
 interested in many scientific and mathematical questions.  Among other investigations, he had 
 his employees measure the rate of cooling of a metal sphere after it was taken out of a 
 furnace, and from this estimated the age of the Earth as almost 75,000 years.  This is much 
