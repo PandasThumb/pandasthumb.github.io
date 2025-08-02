@@ -4,8 +4,8 @@ date: 2025-08-01 12:00:01 -08:00:00
 author: Joe Felsenstein
 ---
 
-<figure><img src="/uploads/2025/Buffon2.jpg" alt="[Not Lamarck but instead Buffon]"/><figcaption>Not actually Lamarck, but instead 
-his superior, Buffon.<br/> Painting by François-Hubert Drouais. From Wikimedia.</figcaption></figure>
+<figure><img src="/uploads/2025/Buffon2.jpg" alt="[Not Lamarck but instead Buffon]"/><div align="center"><figcaption>Not actually Lamarck, but instead 
+his superior, Buffon.<br/> Painting by François-Hubert Drouais. From Wikimedia.</figcaption></div></figure>
 
 <p>&nbsp;</p>
 
