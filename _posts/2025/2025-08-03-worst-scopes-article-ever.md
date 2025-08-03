@@ -8,7 +8,7 @@ author: Paul Braterman
 
 <img src="/uploads/2025/Braterman_Darrow_Interrogating_Bryan.jpg" alt="Darrow interrogating Bryan out-of-doors"/>
 
-<figcaption><small><a href="https://upload.wikimedia.org/wikipedia/commons/0/0d/Tennessee_v._John_T._Scopes_Trial-_Outdoor_proceedings_on_July_20%2C_1925%2C_showing_William_Jennings_Bryan_and_Clarence_Darrow._%282_of_4_photos%29_%282898243103%29_crop.jpg">William Jennings Bryan (seated, left) being cross-examined by Clarence Darrow, the trial having been moved outside because of the heat<a>. Photograph by Watson Davis. Public domain.</a></small></figcaption>
+<figcaption><small><a href="https://upload.wikimedia.org/wikipedia/commons/0/0d/Tennessee_v._John_T._Scopes_Trial-_Outdoor_proceedings_on_July_20%2C_1925%2C_showing_William_Jennings_Bryan_and_Clarence_Darrow._%282_of_4_photos%29_%282898243103%29_crop.jpg">William Jennings Bryan (seated, left) being cross-examined by Clarence Darrow, the trial having been moved outside because of the heat. Photograph by Watson Davis. Public domain.</a></small></figcaption>
 
 </figure>
 
