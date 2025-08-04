@@ -9,5 +9,5 @@ Photography Contest, <strong>Honorable Mention</strong>.
 
 <figure>
 <img src="/uploads/2025/Eissenberg_Archilestes grandis.jpg" alt="Damselfly"/>
-<figcaption><i><a href="https://en.wikipedia.org/wiki/Great_spreadwing">Archilestes grandis</a></i> &ndash; great spreadwing damselfly spotted at the Denver zoo.
+<figcaption><i><a href="https://en.wikipedia.org/wiki/Great_spreadwing">Archilestes grandis</a></i> &ndash; great spreadwing damselfly spotted at the Denver zoo. Prof. Eissenberg notes that "the resemblance between the damselfly and the twig to which it is clinging shows mimicry."
 </figcaption>
