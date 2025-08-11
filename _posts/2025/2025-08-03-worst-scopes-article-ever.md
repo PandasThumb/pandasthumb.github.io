@@ -12,7 +12,7 @@ author: Paul Braterman
 
 </figure>
 
-It's a close run thing. I would narrowly give second place to Answers in Genesis, which blames Bryan’s humiliation on <a href="https://answersingenesis.org/blogs/ken-ham/2025/06/13/partnering-with-faithful-fathers/">his willingness to contemplate an ancient Earth</a>. But first place, to Mike Mueller, writing for <a href="https://www.icr.org/article/scopes-monkey-trial-battle-worldviews/">Creation Research International</a> (CRI), which takes on the interesting task of seeing how well the scientific evidence has held up, gets every single detail wrong, and tells more than the usual number of lies in the process. 
+It's a close run thing. I would narrowly give second place to Answers in Genesis, which blames Bryan’s humiliation on <a href="https://answersingenesis.org/blogs/ken-ham/2025/06/13/partnering-with-faithful-fathers/">his willingness to contemplate an ancient Earth</a>. But first place, to Mike Mueller, writing for <strike>Creation Research International (CRI)</strike> <a href="https://www.icr.org/article/scopes-monkey-trial-battle-worldviews/">Institute for Creation Research (ICR)</a> , which takes on the interesting task of seeing how well the scientific evidence has held up, gets every single detail wrong, and tells more than the usual number of lies in the process. 
 
 Early on: “Eventually the Butler Act was overturned.”
 
@@ -22,7 +22,7 @@ Early on: “Eventually the Butler Act was overturned.”
 
 <blockquote>[S]upposed experts presented some of the following topics as proof. Many are still used, but the scientific evidence actually supports creation, not evolution. Consider the claims and our brief responses.</blockquote>
 
-The “supposed” experts included half a dozen professors of geology, zoology, agriculture, and education from the Universities of Chicago, New Jersey, and Missouri, Johns Hopkins, and Harvard, as well as the State Geologist of Tennessee (the location of the trial), and, for good measure, a rabbi. Their combined testimony, available <a href="https://profjoecain.net/scopes-monkey-trial-1925-complete-trial-transcripts/">here</a>, runs to 35 closely argued pages. It is an admirable document, including among other things the use of molecular biology (in the form of serology) to show that whales are related to hoofed animals. And of course none of it was “presented” at the trial, but merely deposited without being presented to jury, since the judge (in a sense, correctly) regarded it as irrelevant to whether Scopes had broken the law. But consider now the individual claims as summarized and allegedly refuted by CRI:
+The “supposed” experts included half a dozen professors of geology, zoology, agriculture, and education from the Universities of Chicago, New Jersey, and Missouri, Johns Hopkins, and Harvard, as well as the State Geologist of Tennessee (the location of the trial), and, for good measure, a rabbi. Their combined testimony, available <a href="https://profjoecain.net/scopes-monkey-trial-1925-complete-trial-transcripts/">here</a>, runs to 35 closely argued pages. It is an admirable document, including among other things the use of molecular biology (in the form of serology) to show that whales are related to hoofed animals. And of course none of it was “presented” at the trial, but merely deposited without being presented to jury, since the judge (in a sense, correctly) regarded it as irrelevant to whether Scopes had broken the law. But consider now the individual claims as summarized and allegedly refuted by <strike>CRI</strike> ICR:
 
 <blockquote><strong>Claim</strong>: Evolution from simple cells to complex life, bacteria to man, is a fact.
 
@@ -70,7 +70,7 @@ Of all dishonest creationist arguments, this is the one that I find most annoyin
 
 <blockquote>On a fundamental level, Haeckel was correct: All vertebrates develop a similar body plan (consisting of notochord, body segments, pharyngeal pouches, and so forth). This shared developmental program reflects shared evolutionary history. It also fits with overwhelming recent evidence that development in different animals is controlled by common genetic mechanisms.</blockquote>
 
-On a fundamental level, I have questions of my own. Are the CRI scientists, some with reputable training, knowingly telling lies? Or do they think that they are legitimately simplifying complex matters to make them clearer to a lay audience? Or are their cognitive filters and biases so well developed that they can see only what confirms their case, even when looking directly at information that refutes it?
+On a fundamental level, I have questions of my own. Are the <strike>CRI</strike> ICR scientists, some with reputable training, knowingly telling lies? Or do they think that they are legitimately simplifying complex matters to make them clearer to a lay audience? Or are their cognitive filters and biases so well developed that they can see only what confirms their case, even when looking directly at information that refutes it?
 
 Difficult questions, but relevant to the choice of counter-tactics, and on which I would much appreciate readers’ opinions.
 
