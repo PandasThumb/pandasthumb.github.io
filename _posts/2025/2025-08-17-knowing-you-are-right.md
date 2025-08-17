@@ -3,7 +3,7 @@ title: 'Knowing you are right, even when you are not'
 date: '2025-08-17 11:58:00 -06:00'
 author: Matt Young
 ---
-<figure>
+<figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
 <img src="/uploads/2025/On_Being_Certain_Cover.jpg" alt="Book cover"/>
 <figcaption><i><a href=""></a></i> 
 </figcaption>
@@ -52,7 +52,7 @@ I will conclude, as does Barton, with a speculation as to whether
 
 <blockquote>some of the toughest age-old philosophical issues arise out of attempts to resolve perceptual tricks created by our brains.</blockquote>
 
-<figure>
+<figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
 <img src="/uploads/2025/Dos_caras_una_copa.jpg" alt="Vase-faces illusion"/>
 <figcaption><a href="https://en.wikipedia.org/wiki/Rubin_vase">Rubin's vase.</a> <small><a href="https://commons.wikimedia.org/wiki/File:Dos_caras_una_copa.jpg">Photograph</a> by Sebasgiu.  Own work. Creative Commons Attribution-Share Alike 4.0 international license. </small>
 </figcaption>
