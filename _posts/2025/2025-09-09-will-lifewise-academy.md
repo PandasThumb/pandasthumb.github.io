@@ -6,7 +6,7 @@ author: Dan Phelps
 
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
 <img src="/uploads/2025/Phelps_LifeWise_Academy_Frontispiece.jpg" alt="LifeWise Academy van."/>
-<figcaption>LifeWise Academy is a religious instruction program that started in 2019 and now enrolls 50,000 students across 29 states. <small>Photo by Megan Henry, <a href="https://ohiocapitaljournal.com/2025/09/04/lifewise-academy-will-be-in-nearly-half-of-ohios-school-districts-this-school-year/">Ohio Capital Journal</a>. Creative Commons license CC BY-NC-ND 4.0.</figcaption>
+<figcaption>LifeWise Academy is a religious instruction program that started in 2019 and now enrolls 50,000 students across 29 states. <small>Photo by Megan Henry, <a href="https://ohiocapitaljournal.com/2025/09/04/lifewise-academy-will-be-in-nearly-half-of-ohios-school-districts-this-school-year/">Ohio Capital Journal</a>. Creative Commons license CC BY-NC-ND 4.0.</small></figcaption>
 </figure>
 
 Certain Christian Nationalists, part of an organization known as LifeWise Academy, have found a way to get their religion into public schools in Ohio and are attempting to do the same here in Kentucky (and many other states). In Kentucky this could result in public school students visiting the Ark Encounter and Creation Museum in lieu of public school instruction. Below, I document Ohio students being taken to these fundamentalist Christian attractions with the cooperation of public schools. Kentucky students may also end up learning creationist nonsense during public school instruction time. 
