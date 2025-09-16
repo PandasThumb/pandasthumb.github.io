@@ -4,7 +4,7 @@ date: '2025-10-29 12:00:00 -06:00'
 author: Mitch Cruzan
 ---
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
-<img src="/uploads/2025/" alt="Book cover."/>
+<img src="/uploads/2025/Cruzan_Cover_600.jpg" alt="Book cover."/>
   
 <figcaption><a href="https://www.amazon.com/Looking-Down-Tree-Evolutionary-Biology/dp/0197805167/"><i>Looking down the Tree – The Evolutionary Biology of Human Origins</i></a>, by Mitch Cruzan, Oxford University Press, October, 2025.</figcaption>
 </figure>
