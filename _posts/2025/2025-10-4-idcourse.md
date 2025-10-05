@@ -40,7 +40,7 @@ website he is quoted as saying that
 > If you have a biological system which requires foresight [such as metamorphosis], you can be sure evolution did not do it!
 
 There was a similar argument at in May at Evolution News (the previous name of Science &amp; Culture) 
-by David Klinghoffer (see my counterargument here)[https://pandasthumb.org/archives/2025/05/platonic-nonsense.html], who has written book publicizing the arguments of Richard Sternberg 
+by David Klinghoffer (see my counterargument (here)[https://pandasthumb.org/archives/2025/05/platonic-nonsense.html]), who has written book publicizing the arguments of Richard Sternberg 
 that when developmental processes seem to aim at an idealized form, that is impossible by 
 normal evolutionary processes and implies that the development refers to a Platonic ideal 
 form in an supernatural realm.  It completely ignores the possibility that there is 
