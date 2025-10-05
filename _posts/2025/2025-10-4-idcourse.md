@@ -13,7 +13,9 @@ with nearly 500 students attending.
 
 
 
-For the past few years, we’ve held our most popular student event, ID Education Day, in Spokane, WA, and the excitement keeps growing! This past March, nearly 500 students from Central and Eastern Washington and North Idaho joined us, including one school that traveled nearly three hours to attend. To keep the momentum going and to serve the students of Western Washington, we’re excited to host our second “Creepy Crawly Complexity” ID Education Day in Tacoma on Thursday, November 6, from 9:30 am to 2:00 pm.  Their description:
+> For the past few years, we’ve held our most popular student event, ID Education Day, in Spokane, WA, and the excitement keeps growing! This past March, nearly 500 students from Central and Eastern Washington and North Idaho joined us, including one school that traveled nearly three hours to attend. To keep the momentum going and to serve the students of Western Washington, we’re excited to host our second “Creepy Crawly Complexity” ID Education Day in Tacoma on Thursday, November 6, from 9:30 am to 2:00 pm.
+
+Their description:
 
 > This is a fantastic field trip opportunity for middle and high school students in homeschool and private school settings to interact directly with scientists and learn about the complexity and diversity of insects, spiders, and worms. Students will get to hear special presentations from philosopher of biology Paul Nelson on the miracle of butterfly metamorphosis and the complexity of the roundworm, biologist Pedro Moura on the phyla Arthropoda, Annelida, and Nematoda, and megadrilologist George Damoff on the elaborate design of the earthworm and its role in ecosystems.
 
