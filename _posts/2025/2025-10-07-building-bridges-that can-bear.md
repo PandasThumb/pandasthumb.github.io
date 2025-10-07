@@ -3,7 +3,7 @@ title: 'Building Bridges That Can Bear Scientific Scrutiny'
 date: '2025-10-07 14:30:00 -06:00'
 author: Jamie Jensen
 ---
-<figure>
+<figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
 <img src="/uploads/2025/Jensen_Ark_IMG_2686_600.jpg" alt="Some of Jensen's team at the Ark."/>
 <figcaption>Some of the team visiting the "Ark." <small>Photograph by author.</small> 
 </figcaption>
