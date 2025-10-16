@@ -4,8 +4,14 @@ date: 2025-10-15 21:00:01 -08
 author: Jason Rosenhouse
 ---
 
+<div width="640px" align="center">
 {% include youtube.html id="iJe_y4yXM7s" %}
+</div>
+
+&nbsp;
+
 
 Jason Rosenhouse is interviewed by Phil Halper on Halper's Youtube channel.  A demolition
 of creationist information theory.
 
+<!--more-->
