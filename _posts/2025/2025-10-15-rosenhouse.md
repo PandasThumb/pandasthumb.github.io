@@ -1,6 +1,6 @@
 ---
-title: 'Jason Rosenhouse and Phil Halper vs. creationist information theory'
-date: 2025-10-16 10:00:01 -08
+title: 'Jason Rosenhouse and Phil Halper: creationist information theory'
+date: 2025-10-15 21:00:01 -08
 author: Jason Rosenhouse
 ---
 
