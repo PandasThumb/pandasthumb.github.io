@@ -9,6 +9,6 @@ author: Jason Rosenhouse
 </div>
 
 Jason Rosenhouse is interviewed by Phil Halper on Halper's Youtube channel.  A demolition
-of creationist information theory.
+of ID information theory.
 
 <!--more-->
