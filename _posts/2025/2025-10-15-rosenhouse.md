@@ -8,9 +8,6 @@ author: Jason Rosenhouse
 {% include youtube.html id="iJe_y4yXM7s" %}
 </div>
 
-&nbsp;
-
-
 Jason Rosenhouse is interviewed by Phil Halper on Halper's Youtube channel.  A demolition
 of creationist information theory.
 
