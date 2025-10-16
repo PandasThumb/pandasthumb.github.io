@@ -8,7 +8,8 @@ author: Jason Rosenhouse
 {% include youtube.html id="iJe_y4yXM7s" %}
 </div>
 
-<br/><div align="center">Jason Rosenhouse is interviewed by Phil Halper on Halper's Youtube channel.  A demolition
+
+<div align="center">Jason Rosenhouse is interviewed by Phil Halper on Halper's Youtube channel.  A demolition
 of ID information theory.</div>
 
 <!--more-->
