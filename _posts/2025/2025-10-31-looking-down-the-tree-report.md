@@ -1,7 +1,7 @@
 ---
 title: 'Looking Down the Tree – Exploring the Origins of Our Species: out today'
 date: '2025-10-31 12:00:00 -06:00'
-author: Mitch Cruzan
+author: Matt Young
 ---
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
 <img src="/uploads/2025/Cruzan_Cover_600.jpg" alt="Book cover."/>
