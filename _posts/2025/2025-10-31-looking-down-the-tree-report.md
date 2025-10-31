@@ -33,5 +33,4 @@ I suspect that the file I got was something along the lines of a galley proof, b
 
 Want to know more? Get the book, read it – and, of course, comment below.
 
-<strong>Acknowledgement</strong>. Andrew Petto lavished many words on this report (though he did not read the book) and explained several topics that had been unclear to me. Any errors are my own or may be blamed on my speech-recognition program.
-
+<strong>Acknowledgement</strong>. Andrew Petto, Senior Lecturer Emeritus at the University of Wisconsin&ndash;Milwaukee, lavished many words commenting on this essay (though he did not read the book) and explained several topics that had been unclear to me. Any errors are my own or may be blamed on my speech-recognition program.
