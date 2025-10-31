@@ -1,5 +1,5 @@
 ---
-title: 'Looking Down the Tree – Exploring the Origins of Our Species: out today'
+title: 'Looking Down the Tree – Exploring the Origins of Our Species: book report'
 date: '2025-10-31 12:00:00 -06:00'
 author: Matt Young
 ---
@@ -32,4 +32,6 @@ The final chapter is somewhat depressing, in a way. Cruzan observes that "many m
 I suspect that the file I got was something along the lines of a galley proof, but still I did not find a lot of errors. The figures did not all stand on their own, and I thought that nearly every one would have profited from a detailed caption, as well as more-specific discussions in the text. Phrases such as "You may remember from a previous chapter" would have been more useful had they cited the actual chapter. "Gene genealogy" seems very awkward to me and probably should have been "genetic genealogy"; Google's search engine agreed by a score of 430,000 to 29,000. The text alternated between "descendent" and the more common "descendant"; I hope that problem was fixed before the book went to press.
 
 Want to know more? Get the book, read it – and, of course, comment below.
+
+<strong>Acknowledgement</strong>. Andrew Petto lavished many words on this report (though he did not read the book) and explained several topics that had been unclear to me. Any errors are my own or may be blamed on my speech-recognition program.
 
