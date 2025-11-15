@@ -4,8 +4,7 @@ date: 2025-11-15 17:00:01 -08:00
 author: Joe Felsenstein
 ---
 
-<figure><img="uploads/2025/foobar.jpg" alt="[Puzzling uncertainty]"/>
-<figcaption>John Leech - A Visit to the Antediluvian Reptiles at Sydenham; Master Tom Strongly Objects to Having his Mind Improved (1855)</figcaption></figure>
+<figure><img="uploads/2025/Master_Tom.png" alt="[Master Tom in Sydenham]"/></figure>
 
 &nbsp;
 
