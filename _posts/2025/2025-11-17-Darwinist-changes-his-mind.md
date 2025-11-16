@@ -1,6 +1,6 @@
 ---
 title: The DI's Science and Culture News announces that a "Darwinist" changed his mind
-date: 2025-11-16 17:00:01 -08:00
+date: 2025-11-17 17:00:01 -08:00
 author: Joe Felsenstein
 ---
 
