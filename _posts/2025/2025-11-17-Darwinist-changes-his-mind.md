@@ -33,15 +33,16 @@ Well ...
 <!--more-->
 
 I hasten to say that I have not read these two books, though I have listened to the 
-two podcast interviews.  In the podcasts, Thomas expresses his sceptyicism about 
+two podcast interviews.  In the podcasts, Thomas expresses his scepticism about 
 the origin of Life, and about whether natural selection can account for the 
-complexity of humans/  But he does not explain why natural selection cannot account 
+complexity of humans.  But he does not explain why natural selection cannot account 
 for adaptations of biological organisms once life has arisen.
 
 
 
 Let's look at a couple of the arguments Thomas uses against "Darwinism".  First, McDiarmid 
-summarizes quotes Thomas as saying "This Darwinism business, it's rubbish isn't it?"
+quotes Thomas as saying "This Darwinism business, it's rubbish isn't it?"  And he summarizes 
+Thomas's argument, saying
 
 > 
 
