@@ -20,7 +20,7 @@ The result is that Neil Thomas has written two books, published by
 the DI's publishing outfit, Discovery Institute Press:  [Taking Leave of Darwin: A longtime Agnostic Discovers the Case for Design](https://www.amazon.com/dp/1637120036)
 and [False Messiah: Darwinism as The God That Failed](https://www.amazon.com/False-Messiah-Darwinism-That-Failed/dp/163712080X).  He has also 
 made numbers of posts at Science and Culture since 2021, see them [here](https://scienceandculture.com/author/nthomas/).  He was intervewed in a 
-two-part ([part 11](https://idthefuture.com/2127/) and [part 2](https://idthefuture.com/2128/)) series by Jonathan Witt in 2021 and by Andrew McDiarmid in 2025.
+two-part ([part 1](https://idthefuture.com/2127/) and [part 2](https://idthefuture.com/2128/)) series by Jonathan Witt in 2021 and by Andrew McDiarmid in 2025.
 in the DI's series "ID The Future".
 
 Thomas cannot understand how biologists ever believed Darwin's mechanism of natural 
