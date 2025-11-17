@@ -1,6 +1,6 @@
 ---
 title: The DI's Science and Culture News announces that a "Darwinist" changed his mind
-date: 2025-11-17 17:00:01 -08:00
+date: 2025-11-16 17:00:01 -08:00
 author: Joe Felsenstein
 ---
 
@@ -74,7 +74,7 @@ for many years, as a biologist.
 ## Not a biologist! ##
 
 In fact, Neil Thomas is not a biologist.  Not even close.  This is no 
-secret, in his biographical material at S&amp;C News, which appears 
+secret: in his biographical material at S&amp;C News, which appears 
 at the end of each of his posts there, he is described thusly:
 
 > Neil Thomas is a Reader Emeritus in the University of Durham, England and a longtime member of the British Rationalist Association. He studied Classical Studies and European Languages at the universities of Oxford, Munich and Cardiff before taking up his post in the German section of the School of European Languages and Literatures at Durham University in 1976. There his teaching involved a broad spectrum of specialisms including Germanic philology, medieval literature, the literature and philosophy of the Enlightenment and modern German history and literature. He also taught modules on the propagandist use of the German language used both by the Nazis and by the functionaries of the old German Democratic Republic.
