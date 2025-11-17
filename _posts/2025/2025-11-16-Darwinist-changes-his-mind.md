@@ -4,7 +4,7 @@ date: 2025-11-16 17:00:01 -08:00
 author: Joe Felsenstein
 ---
 
-<figure><img  src="uploads/2025/Master_Tom.png" alt="[Master Tom in Sydenham]"/></figure>
+<figure><img  src="/uploads/2025/Master_Tom.png" alt="[Master Tom in Sydenham]"/></figure>
 
 &nbsp;
 
