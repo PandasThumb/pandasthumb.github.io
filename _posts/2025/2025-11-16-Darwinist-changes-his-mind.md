@@ -99,7 +99,8 @@ is a good summary.  We have also posted yearly celebrations of
 Lamarck, Darwin's most important predeccessor [here at Panda's 
 Thumb](https://pandasthumb.org/archives/2025/08/HappybirthdayLamarck.html), 
 the most recent also discussing Lamarck's predecessor and 
-patron Georges Buffon.
+patron Georges Buffon.  These posts will be found on or near August 1 of 
+each year.
 
 A particular favorite of mine is an older popularization 
 by John Greene, provocatively titled [The Death of Adam: Evolution and Its Impact on Western Thought](https://www.amazon.com/Death-Adam-Evolution-Western-Thought/).
