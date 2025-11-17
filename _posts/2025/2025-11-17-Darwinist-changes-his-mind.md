@@ -62,7 +62,7 @@ explanation [see my 2020 post on this here at PT](https://pandasthumb.org/archiv
 As for "preservation", if there are more than one genotype in the population, 
 and one is preserved more than the others, then it will increase in 
 frequency.  So the composition of the population can change, particularly 
-if the genotype(s"preserved" are not the most frequent ones.  Again, the 
+if the genotype(s) "preserved" are not the most frequent ones.  Again, the 
 idea that natural selection cannot change the population is a PRATT, and 
 again, I have heard it enough times that I joined the many people who 
 have refuted that argument.  See [my 2023 post here](https://pandasthumb.org/archives/2023/06/diexperts.html).
