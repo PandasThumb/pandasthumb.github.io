@@ -9,8 +9,7 @@ author: Joe Felsenstein
 &nbsp;
 
 The Discovery Institute's website "Science and Culture" (formerly Evolution 
-News and Views) had a dramatic story of conversion recently.  A [post](https://scienceandculture.com/2025/10/he-taught-darwinism-for-decades-then-changed-his-mind/)  
-entitled "He Taught Darwinism for Decades (Then Changed His Mind)" by
+News and Views) had a dramatic story of conversion recently.  A [post](https://scienceandculture.com/2025/10/he-taught-darwinism-for-decades-then-changed-his-mind/) entitled "He Taught Darwinism for Decades (Then Changed His Mind)" by
 Andrew McDiarmid on 30 October 2025.  It announced that 
 
 
