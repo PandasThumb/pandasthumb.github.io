@@ -91,7 +91,7 @@ He is right about that, but his point is hardly new.  There is
 some implication in Thomas's posts that "Darwinists" have 
 insisted that Darwin was the first evolutionary thinker.  That 
 is totally wrong: there have been numerous books, for decades 
-exploring Darwin's predecessaors.  Stephen Jay Gould had many 
+exploring Darwin's predecessors.  Stephen Jay Gould had many 
 columns on the subject.  There is an extensive Wikipedia page 
 on [History of Evolutionary Thought](https://en.wikipedia.org/wiki/History_of_evolutionary_thought).
 Peter Bowler's book [Evolution, the History of an Idea](https://www.amazon.com/Evolution-History-Idea-Anniversary-Preface/dp/0520261283),
