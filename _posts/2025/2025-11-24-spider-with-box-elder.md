@@ -9,6 +9,7 @@ author: Matt Young
 <figcaption>Spider about to lunch on a box elder bug, <i><a href="https://en.wikipedia.org/wiki/Boisea_trivittata">Boisea trivittata</a></i>. If the bug is approximately 1&nbsp;cm long, the spider must be a few millimeters. The spider repeatedly dashed in, perhaps to sting the bug, and then dashed out nervously, before settling in to dine. If anyone can identify the spider I will edit the post (the image is too small for BugGuide). 
 </figcaption>
 </figure>
+Another shot of a box elder bug below the fold:
 
 <!--more-->
 
