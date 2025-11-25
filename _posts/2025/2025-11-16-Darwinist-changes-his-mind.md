@@ -51,7 +51,7 @@ and then he continues with Thomas's conclusion that
 
 ## PRATTs ##
 
-These are two PRATTs (Points Refuted A thousand Times).  They are truly "moldy 
+These are two PRATTs (Points Refuted A Thousand Times).  They are truly "moldy 
 oldies".  The first seems to be the assertion that "survival of the fittest" is meaningless 
 because fitness is defined as having survived.  In reality, the moment we compare 
 phenotypes or genotypes to see which have the higher fitness, fitness is meaningful 
