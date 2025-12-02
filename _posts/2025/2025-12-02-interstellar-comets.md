@@ -7,7 +7,7 @@ On November 29, Answers In Genesis apologist and astronomer Danny Faulkner poste
 
 For an organization that claims to be able to give "Answers" about what they call "origin science", Answers In Genesis is suspiciously quiet about the origins of interstellar comets.
 
-** The Third Interstellar Comet **
+##The Third Interstellar Comet##
 
 Ever since the rise of wide-field astronomical surveys, astronomers have kept a vigilant watch on the skies for near-Earth objects (NEOs): asteroids and comets whose orbits may bring them close to the Earth, with potential risk of impact. But beyond planetary defense, surveys also catalog a broad variety of small bodies because these minor objects carry clues about the formation and evolution of planetary systems: their orbits, compositions, and dynamics help scientists trace back when and how they formed, and how stable their source systems remain.
 
@@ -15,7 +15,7 @@ Comets in our solar system come in different flavors. Short-period comets have o
 
 In 2025, the world encountered only the third such confirmed interstellar visitor. The first was 1I/ʻOumuamua, discovered in October 2017, followed by 2I/Borisov, announced in August 2019. The newest, 3I/ATLAS, officially designated C/2025 N1 (ATLAS), was discovered this July by the Asteroid Terrestrial-impact Last Alert System (ATLAS) telescope in Chile. Follow-up observations soon confirmed its extremely hyperbolic orbit. Because 3I/ATLAS is active (i.e., showing a fuzzy coma and dust tail, like a “normal” comet) astronomers treat it as a genuine cometary body, not a rocky asteroid.
 
-** Faulkner's Cosmological Commitments **
+##Faulkner's Cosmological Commitments##
 
 Dr. Danny Faulkner has become the predominant AIG author and speaker on issues of astronomy since the departure of Dr. Jason Lisle some years ago, writing on topics ranging from light-travel-time and starlight problems to extrasolar planets, dark matter and dark energy, planetary system formation, and the operation of modern astronomical instruments like the James Webb Space Telescope. Over the years, he has articulated a reasonably consistent set of commitments in his elucidation of a "Biblical" cosmology. In defense of a recent special creation, he has argued that divine creation is characterized by stability and order, even using this perceived order as evidence for divine design.
 
@@ -39,13 +39,13 @@ Together, these commitments form a coherent cosmological picture. Comets origina
 
 <!--more-->
 
-** What Creationist Cosmology Predicts **
+##What Creationist Cosmology Predicts##
 
 If Faulkner takes his own worldview seriously, he has to acknowledge that interstellar comets carry direct and testable implications. Any such object must originate from a previously existing stellar or planetary system that formed part of God’s stable created order. Once ejected, its motion through space becomes a straightforward problem of classical kinematics. Velocity multiplied by time yields a maximum travel distance. Trajectories point backward to source regions. Each interstellar comet should therefore act as a natural tracer pointing toward the location of its parent system.
 
 Under a genuine 6,000-year cosmology, the implications are clear. Because Faulkner's universe is so young, any object traveling at tens of kilometers per second could only have come from a very small local neighborhood around the Sun. Unlike scientific cosmology—which recognizes that the galaxy and universe are billions of years old—young-earth models compress physical possibility into an extremely confined volume of space. Interstellar comets, rather than being awkward anomalies, should therefore become some of the most powerful discovery tools available to creationist astronomers.
 
-** The Physics of 3I/ATLAS **
+##The Physics of 3I/ATLAS##
 
 The physics of 3I/ATLAS are simple and uncontroversial. Its perihelion velocity was measured at approximately 68.3 kilometers per second. Combining that value with the object’s hyperbolic eccentricity allows computation of its hyperbolic excess velocity, the speed it had when effectively outside the Sun’s gravitational influence. This velocity is about 58 kilometers per second.
 
@@ -57,7 +57,7 @@ If creationists adhered seriously to their own cosmology, this conclusion would 
 
 Success would be a spectacular triumph: direct empirical confirmation of a major young-earth prediction. That is the essence of scientific testing.
 
-** An Expanding Pattern **
+##An Expanding Pattern##
 
 The predictive pressure strengthens when the earlier interstellar visitors are included. 1I/'Oumuamua and 2I/Borisov entered the solar system with even lower excess velocities than 3I/ATLAS, meaning that under young-earth time limits they must have originated from even closer parent systems than 3I/ATLAS requires.
 
@@ -69,7 +69,7 @@ Yet nothing of the sort exists. No sky-cone analyses have been published. No tar
 
 There is only silence.
 
-** Theological Retreat **
+##Theological Retreat##
 
 Of course, this sort of silence is not all that surprising. Pursuing these predictions would almost certainly lead to failure, and that failure would constitute a direct and visible refutation of young-earth cosmology. Instead, the problem of origin is quietly avoided altogether. If pressed, Faulkner would likely be forced to argue a nonsensical origin: the comet did not come from anywhere; it was simply created already traveling through space, with a trajectory tracing back toward a nonexistent point of origin, like a real bullet fired from an imaginary gun.
 
