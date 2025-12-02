@@ -4,7 +4,7 @@ date: 2025-12-01 23:00:00 -08:00
 author: David MacMillan
 ---
 
-<div halign="center">
+<div align="center">
 <figure><img src="/uploads/2025/3I-ATLASa.png" alt="[Image of 3I/Atlas]" ><br><br><figcaption><div align="center">A deep image of interstellar Comet 3I/ATLAS captured by the Gemini <br>Multi-Object Spectrograph (GMOS) on Gemini South at Cerro Pachón<br> in Chile.  From Wikimedia CC 4.0</div></figcaption></figure>
   </div>
 
