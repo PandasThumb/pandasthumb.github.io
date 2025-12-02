@@ -90,10 +90,10 @@ The problem with young-earth astronomy is not that it makes incorrect prediction
 
 *Special thanks to Dan Phelps for calling attention to Faulkner's silence on the origins of interstellar comets and to the University of Kentucky's Dr. Thomas Troland for discussions on the kinematics of comet ejection.*
 
-# FIGURE
+## FIGURE
 
 <div align="center">
-For clearly-visible image <a href="/uploads/2025/interstellar.png"><b>click here</b>b></a>
+For clearly-visible image <a href="/uploads/2025/interstellar.png"><strong>click here</strong></a>
 </div>
 
 
