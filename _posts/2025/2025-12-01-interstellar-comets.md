@@ -2,7 +2,7 @@ title: "Interstellar Comets: Creationism\'s Missed Opportunity? "
 date: 2025-12-01 23:00:00 -08:00
 author: 'David MacMillan'
 
-<figure><img src="/uploads/2025/3I-Atlasa.png" alt="[Image of 3I/Atlas]" >
+<figure><img src="/uploads/2025/3I-ATLASa.png" alt="[Image of 3I/Atlas]" >
   <figcaption>A deep image of interstellar Comet 3I/ATLAS captured by the Gemini Multi-Object Spectrograph (GMOS) on Gemini South at Cerro Pachón in Chile.  From Wikimedia CC 4.0</figcaption></figure>
 
 On November 29, Answers In Genesis apologist and astronomer Danny Faulkner posted an article on the interstellar comet 3I/ATLAS. Dr. Faulkner's article sensibly dismissed popular speculation (including persistent claims by Harvard professor Avi Loeb) that 3I/ATLAS and similar objects might be artificial probes or alien artifacts. But in doing so, Faulkner never addressed the only question that is cosmologically relevant for a young-earth framework: Where did this object come from? Interstellar comets are not curiosities or distractions; they are kinematic probes: natural test cases for any model purporting that the universe is only a few thousand years old.
