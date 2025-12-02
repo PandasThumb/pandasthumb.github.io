@@ -4,6 +4,7 @@ author: 'David MacMillan'
 
 <div halign="center"?
 <figure><img src="/uploads/2025/3I-ATLASa.png" alt="[Image of 3I/Atlas]" >
+  
   <figcaption>A deep image of interstellar Comet 3I/ATLAS captured by the Gemini <br>Multi-Object Spectrograph (GMOS) on Gemini South at Cerro Pachón<br> in Chile.  From Wikimedia CC 4.0<</figcaption></figure>
   </div>
 
