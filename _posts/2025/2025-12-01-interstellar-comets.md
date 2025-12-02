@@ -89,3 +89,12 @@ Interstellar comets offer perhaps the most direct empirical test yet available f
 The problem with young-earth astronomy is not that it makes incorrect predictions. It is that it refuses to make predictions at all.
 
 *Special thanks to Dan Phelps for calling attention to Faulkner's silence on the origins of interstellar comets and to the University of Kentucky's Dr. Thomas Troland for discussions on the kinematics of comet ejection.*
+
+# FIGURE
+
+<div align="center">
+For clearly-visible image <a href="/uploads/2025/interstellar.png"><b>click here</b>b></a>
+</div>
+
+
+*This infographic visualizes the kinematic challenge posed by interstellar comets to a recently-created cosmos. The main panel (5 ly scale) shows the nearest eight known stellar neighbors (yellow) and the trajectories of 1I/ʻOumuamua, 2I/Borisov, and 3I/ATLAS (grey lines). The white segments highlight the maximum distance each comet could have traveled in 6,029 years. Critically, these segments terminate far short of every known star, forcing the young-earth model to predict three undiscovered source bodies located precisely at the end of the white lines. The inset panel (0.5 ly scale) contains an additional inset zoomed in to 400X the main panel to show these source termination points relative to the outer solar system, where the trajectories of the planets and outgoing space probes are visible.*
