@@ -39,11 +39,11 @@ Faulkner treats this concept of a stable, orderly universe as a foundational the
 
 At the same time, comets have long been held up by creationists as part of their broadly-debunked suite of "evidences" for a young earth. Faulkner has frequently argued that because active comets lose material with each solar passage, a population persisting over millions or billions of years would require continuous replenishment, something he claims has never been convincingly demonstrated. Instead, he maintains that the observed numbers of comets are best explained by recent creation, with gradual depletion through sublimation and gravitational scattering accounting for their observed fading. Similar arguments appear across AiG publications, where both short-period and long-period comets are presented as transient populations inconsistent with deep time and therefore evidence for a young solar system — arguments that explicitly rely on the physical loss and ejection of comets as natural dynamical processes:
 
-Comets have little mass, so each close pass to the sun greatly reduces a comet’s size, and eventually comets fade away. They can’t survive billions of years.
-
-Two other mechanisms can destroy comets—ejections from the solar system and collisions with planets. Ejections happen as comets pass too close to the large planets, particularly Jupiter, and the planets’ gravity kicks them out of the solar system. While ejections have been observed many times, the first observed collision was in 1994, when Comet Shoemaker-Levi IX slammed into Jupiter.
-
-Given the loss rates, it’s easy to compute a maximum age of comets. That maximum age is only a few million years. Obviously, their prevalence makes sense if the entire solar system was created just a few thousand years ago, but not if it arose billions of years ago.
+> Comets have little mass, so each close pass to the sun greatly reduces a comet’s size, and eventually comets fade away. They can’t survive billions of years.
+>
+> Two other mechanisms can destroy comets—ejections from the solar system and collisions with planets. Ejections happen as comets pass too close to the large planets, particularly Jupiter, and the planets’ gravity kicks them out of the solar system. While ejections have been observed many times, the first observed collision was in 1994, when Comet Shoemaker-Levi IX slammed into Jupiter.
+>
+> Given the loss rates, it’s easy to compute a maximum age of comets. That maximum age is only a few million years. Obviously, their prevalence makes sense if the entire solar system was created just a few thousand years ago, but not if it arose billions of years ago.
 
 Together, these commitments form a coherent cosmological picture. Comets originate as real members of real star systems. Gravitational processes can eject them from those systems. After ejection, these bodies travel under ordinary Newtonian mechanics. Their motions are real and physically meaningful, not illusory or metaphorical. Crucially, nothing in Faulkner’s published framework permits comets to materialize mid-flight or exist without physical origin. Their histories, at least in principle, should be observationally tractable.
 
