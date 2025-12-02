@@ -1,4 +1,4 @@
-title: 'Interstellar Comets: Creationism\'s Missed Opportunity?'
+title: "Interstellar Comets: Creationism's Missed Opportunity?"
 date: 2025-12-02 12:00:00 -08:00
 author: David MacMillan
 
