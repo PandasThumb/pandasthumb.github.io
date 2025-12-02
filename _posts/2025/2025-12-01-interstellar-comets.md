@@ -1,11 +1,11 @@
 ---
-title: Interstellar Comets&#58; Creationism's Missed Opportunity
+title: Interstellar Comets&#58; Creationism's Missed Opportunity?
 date: 2025-12-01 23:00:00 -08:00
 author: David MacMillan
 ---
 
 <div halign="center">
-<figure><img src="/uploads/2025/3I-ATLASa.png" alt="[Image of 3I/Atlas]" ><br><br><figcaption>A deep image of interstellar Comet 3I/ATLAS captured by the Gemini <br>Multi-Object Spectrograph (GMOS) on Gemini South at Cerro Pachón<br> in Chile.  From Wikimedia CC 4.0<</figcaption></figure>
+<figure><img src="/uploads/2025/3I-ATLASa.png" alt="[Image of 3I/Atlas]" ><br><br><figcaption><div halign="center">A deep image of interstellar Comet 3I/ATLAS captured by the Gemini <br>Multi-Object Spectrograph (GMOS) on Gemini South at Cerro Pachón<br> in Chile.  From Wikimedia CC 4.0</div></figcaption></figure>
   </div>
 
 &nbsp;
@@ -27,6 +27,8 @@ In 2025, the world encountered only the third such confirmed interstellar visito
 
 Dr. Danny Faulkner has become the predominant AIG author and speaker on issues of astronomy since the departure of Dr. Jason Lisle some years ago, writing on topics ranging from light-travel-time and starlight problems to extrasolar planets, dark matter and dark energy, planetary system formation, and the operation of modern astronomical instruments like the James Webb Space Telescope. Over the years, he has articulated a reasonably consistent set of commitments in his elucidation of a "Biblical" cosmology. In defense of a recent special creation, he has argued that divine creation is characterized by stability and order, even using this perceived order as evidence for divine design.
 
+<!--more-->
+
 Just two years ago, while explaining the evidence for dark matter, Faulkner wrote:
 
 > Creationists have long advanced the idea that there is design and stability in the world. For instance, some creationists speak about the stability of both planetary orbits and the orbits of the planets’ natural satellites, and even the stability of systems beyond the solar system. Which is it? Did God create a stable world, or did He create an unstable world? Are creationists willing to sacrifice the stability argument in favor of a lesser argument for relatively recent origin?
@@ -45,7 +47,6 @@ Given the loss rates, it’s easy to compute a maximum age of comets. That maxim
 
 Together, these commitments form a coherent cosmological picture. Comets originate as real members of real star systems. Gravitational processes can eject them from those systems. After ejection, these bodies travel under ordinary Newtonian mechanics. Their motions are real and physically meaningful, not illusory or metaphorical. Crucially, nothing in Faulkner’s published framework permits comets to materialize mid-flight or exist without physical origin. Their histories, at least in principle, should be observationally tractable.
 
-<!--more-->
 
 ## What Creationist Cosmology Predicts
 
