@@ -5,7 +5,7 @@ author: Joe Felsenstein
 ---
 
 <figure>
-  <img src="uploads/2025/evilmadscientist.png" alt="[Evil Mad Scientist]">
+  <img src="uploads/2025/evilmadscientist.jpg" alt="[Evil Mad Scientist]">
   <figcaption>
     (Actually, Evil Mad Scientist Laboratories is a business selling open-source<br>
     electronic equipment, describing themselves as "Making the world a better<br> 
