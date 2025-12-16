@@ -1,6 +1,6 @@
 ---
 title: 
-date: 2026-12-16 12:00:00 -08:00
+date: 2026-12-16 17:00:00 -08:00
 author: Joe Felsenstein
 ---
 
@@ -8,7 +8,7 @@ author: Joe Felsenstein
   <img src="uploads/2025/evilmadscientist.png" alt="[Evil Mad Scientist]">
   <figcaption>
     (Actually, Evil Mad Scientist Laboratories is a business selling open-source 
-    electronic equipment, describing them selves as "Making the world a better 
+    electronic equipment, describing themselves as "Making the world a better 
     place, one evil mad scientist at a time.")  Credit: Wikimedia Creative Commons.
   </figcaption></figure>
     
@@ -36,7 +36,7 @@ author: Joe Felsenstein
     >  **Why evolution selected chromosomes** as a platform to integrate different signals is easily explained by the need to concentrate mitotic regulators (and their control) which would otherwise dilute in a vast cytoplasmic ocean.
 
 
-and their comment is 
+and S&amp;C's comment is 
 
 > Many years ago, William Dembski said that one of the most objectionable aspects of modern evolutionary theory was the undeserved, unearned credit it steals from the exquisite, transcendentally elegant work of the Designer. Put more bluntly, evolution is a credit thief, a lowdown sleazy embezzler. If we could personify evolution, we’d have ChatGPT make a drawing of the word as a convict with a prison serial number across its chest.
 > But if you just put your thumb over the word “evolution” in the phrase we highlighted, all the evidence for design is still there, and it’s just too cool for words.
@@ -46,3 +46,8 @@ it's so obvious that they figure anyone can see this.  If a biologist lapses int
 teleological language that personifies evolution, this must mean they acknowledge 
 that Design Intervention happened, but are too scared to admit it, and give credit to 
 a personified Evolution instead.
+
+Well, the matter can be looked at another way ...
+
+<!--more-->
+
