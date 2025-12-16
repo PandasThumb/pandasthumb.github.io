@@ -1,5 +1,5 @@
 ---
-title: Evil Mad Scientists steal credit
+title: Evil mad scientists steal credit
 date: 2025-12-16 17:00:00 -08:00
 author: Joe Felsenstein
 ---
