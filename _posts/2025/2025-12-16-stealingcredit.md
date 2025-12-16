@@ -53,3 +53,14 @@ Well, the matter can be looked at another way ...
 
 <!--more-->
 
+Evolutionary biologists would mostly not bother to pay attention, 
+but those that did would notice that S&amp;C is impressed by 
+lots of phenotypes and behaviors that are the result of natural 
+selection.  They would notice that the BioEssays article yields 
+to an unfortunate temptation to personify natural selection, in 
+a burst of enthusiasm at the end of the article.
+
+As to who is stealing credit, it is clear that S&amp;C is.  But this 
+is mostly silly, rather than distressing.
+
+
