@@ -5,38 +5,38 @@ author: Joe Felsenstein
 ---
 
 <figure>
-  <img src="uploads/2025/evilmadscientist.jpg" alt="[Evil Mad Scientist]">
-  <figcaption><div align="center">
-    (Actually, Evil Mad Scientist Laboratories is a business selling open-source<br>
-    electronic equipment, describing themselves as "Making the world a better<br> 
-    place, one evil mad scientist at a time.")  Credit: Wikimedia Creative Commons.
-  </div>
-  </figcaption></figure>
+<img src="uploads/2025/evilmadscientist.jpg" alt="[Evil Mad Scientist]">
+<figcaption><div align="center">
+(Actually, Evil Mad Scientist Laboratories is a business selling open-source<br>
+electronic equipment, describing themselves as "Making the world a better<br> 
+place, one evil mad scientist at a time.")  Credit: Wikimedia Creative Commons.
+</div>
+</figcaption></figure>
     
-   <p>&nbsp;</p> 
+<p>&nbsp;</p> 
     
-    Lately, the Discovery Institute's ID site Science and Culture has had almost 
-    no arguments that would convince any scientist that Intelligent Design 
-    contributed to the diversity of life.  Michael Behe's arguments are the 
-    same as before, and William Dembski's latest versions of his specified 
-    complexity argument leaves out any discussion of why having a large 
-    value (of his Algorithmic Specified Complexity) cannot be achieved by 
-    ordinary evolutionary processes.
+Lately, the Discovery Institute's ID site Science and Culture has had almost 
+no arguments that would convince any scientist that Intelligent Design 
+contributed to the diversity of life.  Michael Behe's arguments are the 
+same as before, and William Dembski's latest versions of his specified 
+complexity argument leaves out any discussion of why having a large 
+value (of his Algorithmic Specified Complexity) cannot be achieved by 
+ordinary evolutionary processes.
 
-    But at S&amp;C they *are* getting a bit angry at evolutionary biologists. For 
-    stealing credit that belongs to ID advocates.  A post on December 12, 
-    is titled "All the Evidence Points to Design, but the Credit Goes to ... You Know What". 
-    Even more remarkably, its author is "Science and Culture".  This makes it 
-    an official statement by the site.  Or else none of their people want to 
-    take credit or blame for it.
+But at S&amp;C they *are* getting a bit angry at evolutionary biologists. For 
+stealing credit that belongs to ID advocates.  A post on December 12, 
+is titled "All the Evidence Points to Design, but the Credit Goes to ... You Know What". 
+Even more remarkably, its author is "Science and Culture".  This makes it 
+an official statement by the site.  Or else none of their people want to 
+take credit or blame for it.
 
-    They simply point to an article at BioEssays on "spatiotemporal cues in 
-    cell division", in particular to its last paragraph, which contains the 
-    sentence (boldface text is S&amp;C's emphasis):
+They simply point to an article at BioEssays on "spatiotemporal cues in 
+cell division", in particular to its last paragraph, which contains the 
+sentence (boldface text is S&amp;C's emphasis):
     
-    >  **Why evolution selected chromosomes** as a platform to integrate different signals 
-    > is easily explained by the need to concentrate mitotic regulators (and their control) 
-    > which would otherwise dilute in a vast cytoplasmic ocean.
+>  **Why evolution selected chromosomes** as a platform to integrate different signals 
+> is easily explained by the need to concentrate mitotic regulators (and their control) 
+> which would otherwise dilute in a vast cytoplasmic ocean.
 
 
 and S&amp;C's comment is 
