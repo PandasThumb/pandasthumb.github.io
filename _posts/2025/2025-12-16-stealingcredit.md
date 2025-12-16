@@ -33,7 +33,9 @@ author: Joe Felsenstein
     cell division", in particular to its last paragraph, which contains the 
     sentence (boldface text is S&amp;C's emphasis):
     
-    >  **Why evolution selected chromosomes** as a platform to integrate different signals is easily explained by the need to concentrate mitotic regulators (and their control) which would otherwise dilute in a vast cytoplasmic ocean.
+    >  **Why evolution selected chromosomes** as a platform to integrate different signals 
+    > is easily explained by the need to concentrate mitotic regulators (and their control) 
+    > which would otherwise dilute in a vast cytoplasmic ocean.
 
 
 and S&amp;C's comment is 
