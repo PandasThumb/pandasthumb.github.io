@@ -44,7 +44,7 @@ and S&amp;C's comment is
 > But if you just put your thumb over the word “evolution” in the phrase we highlighted, all the evidence for design is still there, and it’s just too cool for words.
 
 See, all the wonderful details of biological systems must be evidence for Intelligent Design, 
-it's so obvious that they figure anyone can see this.  If a biologist lapses into  
+it's so obvious that they figure anyone can see this.  If a biologist lapses into 
 teleological language that personifies evolution, this must mean they acknowledge 
 that Design Intervention happened, but are too scared to admit it, and give credit to 
 a personified Evolution instead.
