@@ -4,7 +4,7 @@ date: '2026-01-01 21:26:00 -07:00'
 author: Dan Phelps
 ---
 <figure>
-<img src="/uploads/2025/Measles_Public_Exposure_Phelps.jpg" alt="Data"/>
+<img src="/uploads/2026/Measles_Public_Exposure_Phelps.jpg" alt="Data"/>
 <figcaption><i><a href=""></a></i> 
 </figcaption>
 </figure>
