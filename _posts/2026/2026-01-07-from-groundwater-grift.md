@@ -6,7 +6,7 @@ author: Mark Boslough
 ---
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
 <img src="/uploads/2026/Boslough_Sodom_Frontispiece.jpg" alt="Windmill and wind-shaped tree located 5.5 miles (8.8 km) north of the small community of Bellview, Curry County, Eastern New Mexico."/>
-<figcaption> <a href="https://commons.wikimedia.org/wiki/File:Curry_County_Eastern_New_Mexico_2010.jpg">Curry County Eastern New Mexico 2010</a>. <small>Photograph by <a href="https://commons.wikimedia.org/wiki/User:Leaflet">Leaflet</a>. <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">Creative Commons Attribution-Share Alike 3.0 Unported. Will </a></small></figcaption>
+<figcaption> <a href="https://commons.wikimedia.org/wiki/File:Curry_County_Eastern_New_Mexico_2010.jpg">Curry County Eastern New Mexico 2010</a>. <small>Photograph by <a href="https://commons.wikimedia.org/wiki/User:Leaflet">Leaflet</a>. <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">Creative Commons Attribution-Share Alike 3.0 Unported.</a></small></figcaption>
 </figure>
 
 <i>Mark Boslough is a Research Associate Professor at the University of New Mexico. For a short biography, see the first link below.</i>
