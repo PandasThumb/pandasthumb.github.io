@@ -1,7 +1,7 @@
 ---
 title: 'From Groundwater Grift to Comet Claptrap:
 Allen Whitt and 20 Years of Cosmic Confusion'
-date: '2025-01-07 19:30:00 -07:00'
+date: '2026-01-07 20:07:00 -07:00'
 author: Mark Boslough
 ---
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
