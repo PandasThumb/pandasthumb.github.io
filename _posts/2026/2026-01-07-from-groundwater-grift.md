@@ -21,4 +21,6 @@ I’ve also found public records with Allen Whitt’s name associated with earli
 
 I have started a blog series in which I will describe the trail of documents he has published, including the groundwater reports, his new age book, and his peer-reviewed papers. The first installment is <a href="https://www.boslough.us/blog/the-younger-dryas-impact-hypothesis-at-20-years">here</a>.
 
+<p>&nbsp;</p>
+
 *Comments can be made at that blog, and also here. To make them here, click on the title of this post, and the area for comments will appear on that page.*
