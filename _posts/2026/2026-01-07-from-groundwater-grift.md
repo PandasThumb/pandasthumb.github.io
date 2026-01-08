@@ -20,3 +20,5 @@ I had already learned that West had changed his name from Allen Whitt in 2006 af
 I’ve also found public records with Allen Whitt’s name associated with earlier lawsuits involving new age businesses, which might shed some light on how he made the transition from purveyor of Sedona woo, to groundwater grifter, to the most prominent and visible member of a group of scientists that claims to have overturned paradigms in multiple established fields, including geology, archaeology, planetary science, impact physics, and paleontology. 
 
 I have started a blog series in which I will describe the trail of documents he has published, including the groundwater reports, his new age book, and his peer-reviewed papers. The first installment is <a href="https://www.boslough.us/blog/the-younger-dryas-impact-hypothesis-at-20-years">here</a>.
+
+*Comments can be made at that blog, and also here. To make them here, click on the title of this post, and the area for comments will appear on that page.*
