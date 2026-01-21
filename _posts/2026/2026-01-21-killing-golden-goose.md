@@ -1,6 +1,6 @@
 ---
 title: 'Killing the Golden Goose: article in Righting America'
-date: '2026-01-21 14:50:00 -07:00'
+date: '2026-01-21 15:18:00 -07:00'
 author: Matt Young
 ---
 
