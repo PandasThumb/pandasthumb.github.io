@@ -5,7 +5,7 @@ author: Matt Young
 ---
 
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
-<img src="/uploads/2026/Goose_Golden_Eggs_Aesop.jpg" alt="Book cover/>
+<img src="/uploads/2026/Goose_Golden_Eggs_Aesop.jpg" alt="Book cover"/>
 <figcaption>From The Æsop for Children, by Æsop, illustrated by Milo Winter, <a href="https://www.gutenberg.org/etext/19994">Project Gutenberg etext 19994</a>, public domain.
 </figcaption>
 </figure>
