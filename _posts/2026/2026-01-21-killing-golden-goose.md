@@ -15,3 +15,7 @@ This is just a short note, with no comment, to alert our readers to a splendid a
 In brief, Kennedy argues that science is the goose that laid the golden eggs and made America prosperous. Evangelicals, he says, have targeted science for over a century. But now something has changed, and conservative evangelicals allied with Donald Trump have taken direct aim at the entire scientific enterprise.
 
 Kennedy outlines "only a few of [Robert F.] Kennedy's devastating moves," "Trump's disastrous handling of the pandemic," and how "[s]cience before MAGA [made America] the greatest scientific nation in the world." As a result, he says, scientists are desperate to find jobs in Europe, Canada, and elsewhere.
+
+<p>&nbsp;</p>
+
+*To comment on this article, click on its title, which will bring up the article on its own page, with its Disqus comments section after the post.*
