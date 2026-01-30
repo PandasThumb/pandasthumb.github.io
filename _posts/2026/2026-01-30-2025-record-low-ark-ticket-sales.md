@@ -1,6 +1,6 @@
 ---
 title: '2025 – Record Low Ark Ticket Sales (and Martyn Iles&rsquo;s Salary at AIG and Other Goodies)'
-date: '2025-01-30 10:04:00 -07:00'
+date: '2026-01-30 10:04:00 -07:00'
 author: Dan Phelps
 ---
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
