@@ -31,7 +31,7 @@ feature of evolutionary change.  In her post [Merry Christmas! No. 8 Story for 2
 she reported on studies on evolutionary tradeoffs in Darwin's Finches, using the 
 studies of Peter and Rosemary Grant and others.  She finds the fatal flaw!
 
-> We see that, in the most classic example of “evolution happening before our eyes,” genetic variation was present *before* the adaptive radiation. Whether this is truly “evolution” is, then, a question worth discussing.
+>> We see that, in the most classic example of “evolution happening before our eyes,” genetic variation was present *before* the adaptive radiation. Whether this is truly “evolution” is, then, a question worth discussing.
 
 3. And just to round off a trifecta, Granville Sewell shows up, for the n-th time, 
 summarizing his surpassingly silly old argument that there is something-like-a-Second-Law 
