@@ -24,7 +24,7 @@ said:
 
 >> My hope in this endeavor is to throw additional light on the subject of Victorians’ reception of Darwin’s Origin of Species, asking specifically what factors might explain our ancestors’ acquiescence in accepting a theory bereft of empirical documentation."
 
-Yes, he really means that.  See my earlier discussion of his views [**here**](https://pandasthumb.org/archives/2025/11/Darwinist-changes-his-mind.html)
+>Yes, he really means that.  See my earlier discussion of his views [**here**](https://pandasthumb.org/archives/2025/11/Darwinist-changes-his-mind.html)
 
 2. Emily Reeves, trained in nutritional biochemistry, discovered a remarkable 
 feature of evolutionary change.  In her post [Merry Christmas! No. 8 Story for 2025: Optimization and “Evolution Before Our Eyes”](https://scienceandculture.com/2025/12/merry-christmas-no-8-story-for-2025-optimization-and-evolution-before-our-eyes/) 
