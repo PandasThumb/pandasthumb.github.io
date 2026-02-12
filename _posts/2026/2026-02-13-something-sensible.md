@@ -5,7 +5,7 @@ author: Joe Felsenstein
 ---
 
 <figure><img src="/uploads/2026/Minipig.jpg" alt=[a miniature pig]">
-<figcaption>A miniature pig developed<br> for medical research.  Source: Wikimedia Commons
+<figcaption><div align="center">A miniature pig developed for medical<br> research.  Source: Wikimedia Commons</div>
 </figcaption></figure>
 
 <p>&nbsp;</p>
