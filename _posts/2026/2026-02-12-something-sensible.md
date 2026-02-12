@@ -1,6 +1,6 @@
 ---
 title: The DI site S&amp;C says something sensible
-date: 2026-02-13 12:00:01 -08:00:00
+date: 2026-02-12 12:00:01 -08:00:00
 author: Joe Felsenstein
 ---
 
