@@ -47,7 +47,7 @@ made this agonized plea:
 
 <!--more-->
 
-In a post on Jnuary 7, Wesley Smith wrote an impassioned plea for 
+In a post on January 7, Wesley Smith wrote an impassioned plea for 
 Robert F. Kennedy Jr. not to defund animal research, as he has announced he 
 will do.  It will be found 
 [**here**](https://scienceandculture.com/2026/01/for-mahas-sake-dont-eliminate-animal-experimentation/)
