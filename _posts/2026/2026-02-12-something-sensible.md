@@ -4,7 +4,7 @@ date: 2026-02-12 12:00:01 -08:00:00
 author: Joe Felsenstein
 ---
 
-<figure><img src="/uploads/2026/Minipig.jpg" alt=[a miniature pig]">
+<figure><img src="/uploads/2026/Minipig.jpg" alt="[a miniature pig]">
 <figcaption><div align="center">A miniature pig developed for medical<br> research.  Source: Wikimedia Commons</div>
 </figcaption></figure>
 
