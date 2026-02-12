@@ -47,13 +47,12 @@ made this agonized plea:
 
 <!--more-->
 
-In a post Wesley Smith, wrote an impassioned plea for 
+In a post on Jnuary 7, Wesley Smith wrote an impassioned plea for 
 Robert F. Kennedy Jr. not to defund animal research, as he has announced he 
 will do.  It will be found 
 [**here**](https://scienceandculture.com/2026/01/for-mahas-sake-dont-eliminate-animal-experimentation/)
 
-The article makes a plea for common sense:
-
+The article makes a plea for common sense.
 I am in agreement, and you should be too. Here is 
 a major statement of his argument:
 
@@ -65,7 +64,7 @@ prevail.
 ## And why does animal research work? ##
 
 Wesley Smith does not go further into why animal 
-research is useful.  Why should we expect that 
+research turns out to be useful.  Why should we expect that 
 advances in understanding of human hearts might come from studying 
 mammals, rather than, say, carrots?  *Because we're 
 much more closely related to mammals than to carrots*.
@@ -87,7 +86,7 @@ vote for.  Wesley Smith's colleagues
 at S&amp;C have repeatedly described evolutionary 
 biologists as deliberate liars whose basic motive is 
 not to understand evolution, but to destroy 
-religion.  That is a conspiracy theory.
+religion.  That too is a conspiracy theory.
 
 The broader right-wing movement is saturated 
 with conspiracy theories, from the delusion that 
