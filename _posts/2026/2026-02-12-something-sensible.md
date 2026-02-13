@@ -18,7 +18,7 @@ the implied conclusion that this could only have come from Design Intervention.
 Recent posts there have continued their tradition of being even more 
 astonishing than that.  Here are three examples:
 
-1.  An expert on German literature, Neil Thomas, wrote on [“The Monster in the Sky”: Revisiting Atheism’s Creation Myth](
+*  An expert on German literature, Neil Thomas, wrote on [“The Monster in the Sky”: Revisiting Atheism’s Creation Myth](
 https://scienceandculture.com/2026/01/the-monster-in-the-sky-revisiting-atheisms-creation-myth/), in which he 
 said:
 
@@ -26,14 +26,14 @@ said:
 
 >Yes, he really means that.  See my earlier discussion of his views [**here**](https://pandasthumb.org/archives/2025/11/Darwinist-changes-his-mind.html)
 
-2. Emily Reeves, trained in nutritional biochemistry, discovered a remarkable 
+* Emily Reeves, trained in nutritional biochemistry, discovered a remarkable 
 feature of evolutionary change.  In her post [Merry Christmas! No. 8 Story for 2025: Optimization and “Evolution Before Our Eyes”](https://scienceandculture.com/2025/12/merry-christmas-no-8-story-for-2025-optimization-and-evolution-before-our-eyes/) 
 she reported on studies on evolutionary tradeoffs in Darwin's Finches, using the 
 studies of Peter and Rosemary Grant and others.  She finds the fatal flaw!
 
 >> We see that, in the most classic example of “evolution happening before our eyes,” genetic variation was present *before* the adaptive radiation. Whether this is truly “evolution” is, then, a question worth discussing.
 
-3. And just to round off a trifecta, Granville Sewell shows up, for the n-th time, summarizing his surpassingly silly old argument that there is something-like-a-Second-Law preventing chaotic physical processes from leading to adaptations, human achievements, and technology.  This latest effusion will be found [**here**](https://scienceandculture.com/2026/02/a-friend-asks-for-darwin-skeptics-what-does-the-second-law-argument-accomplish/).
+* And just to round off a trifecta, Granville Sewell shows up, for the n-th time, summarizing his surpassingly silly old argument that there is something-like-a-Second-Law preventing chaotic physical processes from leading to adaptations, human achievements, and technology.  This latest effusion will be found [**here**](https://scienceandculture.com/2026/02/a-friend-asks-for-darwin-skeptics-what-does-the-second-law-argument-accomplish/).
 
 <p>&nbsp;</p>
 
