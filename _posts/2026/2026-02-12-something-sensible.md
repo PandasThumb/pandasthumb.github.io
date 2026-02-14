@@ -88,7 +88,7 @@ religion.  That too is a conspiracy theory.
 The broader right-wing movement is saturated 
 with conspiracy theories, from the delusion that 
 there is a Great Replacement conspiracy to the fantasy 
-that the 2020 election was stolen.  JFKJr is a 
+that the 2020 election was stolen.  RFKJr is a 
 crackpot's crackpot who is busy appointing his 
 crackpot friends to HHS, to NIH, and to CDC.
 
