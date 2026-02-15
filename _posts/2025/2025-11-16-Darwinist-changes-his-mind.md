@@ -103,7 +103,7 @@ patron Georges Buffon.  These posts will be found on or near August 1 of
 each year.
 
 A particular favorite of mine is an older popularization 
-by John Greene, provocatively titled [The Death of Adam: Evolution and Its Impact on Western Thought](https://www.amazon.com/Death-Adam-Evolution-Western-Thought/).
+by John Greene, provocatively titled [The Death of Adam: Evolution and Its Impact on Western Thought](https://www.amazon.com/Death-Adam-Evolution-Western-Thought/dp/081380390X/ref=sr_1_3). 
 It points out the connection between the major advances in other 
 fields, such as astronomy, which led to a search for 
 unifying mechanisms, even in biology.
