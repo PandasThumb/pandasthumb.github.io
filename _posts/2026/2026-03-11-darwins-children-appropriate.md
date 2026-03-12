@@ -1,6 +1,6 @@
 ---
 title: 'Darwin&apos;s children appropriate his manuscripts'
-date: '2026-03-11 19:05:00 -07:00'
+date: '2026-03-11 19:05:00 -06:00'
 author: Matt Young
 ---
 <figure>
