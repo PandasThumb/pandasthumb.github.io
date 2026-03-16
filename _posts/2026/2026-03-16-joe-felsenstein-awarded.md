@@ -1,5 +1,5 @@
 ---
-title: 'Joe Felsenstein awarded Mendel medal'
+title: 'Joe Felsenstein awarded Mendel Medal'
 date: '2026-03-16 14:35:00 -06:00'
 author: Matt Young
 ---
