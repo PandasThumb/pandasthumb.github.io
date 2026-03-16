@@ -7,7 +7,7 @@ author: Matt Young
 
 <img src="/uploads/2026/Felsenstein.jpg" alt="Photograph of Joe Felsenstein"/>
 
-<figcaption><small></small></figcaption>
+<figcaption><small>Photo credit: Joan Rudd.</small></figcaption>
 
 </figure>
 
