@@ -1,6 +1,6 @@
 ---
 title: 'Joe Felsenstein awarded Mendel medal'
-date: '2026-03-16 12:55:00 -06:00'
+date: '2026-03-16 14:35:00 -06:00'
 author: Matt Young
 ---
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
