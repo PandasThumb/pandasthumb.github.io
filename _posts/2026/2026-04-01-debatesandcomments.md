@@ -13,7 +13,7 @@ views differ from each other, and whether they can all
 be right.
 </figcaption>
 </figure>
-
+</div>
 
 Today, April 1, the Discovery Institute's "Science and 
 Culture Today" site will host a number of debates 
