@@ -4,19 +4,23 @@ date: 2026-04-01 06:00:01 -08
 author: Joe Felsenstein
 ---
 
+<p>&nbsp;</p>
+
 <div align="center">
 <figure>
 <img src="/uploads/2026/Dembski2006.jpg"/><img src="/uploads/2026/MichaelBehe2008.jpg"/><img src="/uploads/2026/RobertMarks2016.jpg"/><img src="/uploads/2026/CaseyLuskin2020.jpg"/><br/>
-<figcaption>
-Finally, we will get to hear how and why these folks'
+<figcaption>Finally, we will get to hear how and why these folks'
 views differ from each other, and whether they can all 
 be right.
 </figcaption>
 </figure>
 </div>
 
-Today, April 1, the Discovery Institute's "Science and 
-Culture Today" site will host a number of debates 
+<p>&nbsp;</p>
+
+
+Today, April 1, the Discovery Institute's <a href="https://scienceandculture.com/">"Science and 
+Culture Today"</a> site will host a number of debates 
 between leading figures in the Intelligent Design 
 movement, highlighting their diverse perspectives, 
 filling in the missing steps in their previous 
@@ -51,7 +55,7 @@ organisms behave immorally must therefore be scientifically invalid.
 
 These discussions will be accompanied, as usual, by 
 comments supplied by the enthusiastic and knowledgable 
-S&amp;CT readers who appreciate the lively and 
+S&amp;CT readers who appreciate the lively. honest and 
 informative back-and-forth that signals 
 the intellectual vitality of the "cdesign proponensist"  
 movement.
