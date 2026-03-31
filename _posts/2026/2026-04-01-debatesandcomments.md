@@ -4,23 +4,22 @@ date: 2026-04-01 06:00:01 -08
 author: Joe Felsenstein
 ---
 
+<div align="center">
 <figure>
-
+<img src="/uploads/2026/Dembski2006.jpg"/><img src="/uploads/2026/MichaelBehe2008.jpg"/><img src="/uploads/2026/RobertMarks2016.jpg"/><img src="/uploads/2026/CaseyLuskin2020.jpg"/>
 <figcaption>
-</figcaption>
 Finally, we will get to hear how and why these folks'
 views differ from each other, and whether they can all 
 be right.
-<figcaption>
-  
+</figcaption>
 </figure>
 
 
 Today, April 1, the Discovery Institute's "Science and 
 Culture Today" site will host a number of debates 
 between leading figures in the Intelligent Design 
-movement. highlighting their diverse perspectives, 
-and filling in the missing steps in their previous 
+movement, highlighting their diverse perspectives, 
+filling in the missing steps in their previous 
 arguments, 
 and giving an opportunity for readers of that site to 
 leave comments on those posts, comments that will be 
@@ -48,8 +47,7 @@ ancestry of apes (including humans).
 
 * John West and David Klinghoffer will explain why
 any scientific result that seems to them to make
-organisms behave 
-immorally must therefore be scientifically invalid.
+organisms behave immorally must therefore be scientifically invalid.
 
 These discussions will be accompanied, as usual, by 
 comments supplied by the enthusiastic and knowledgable 
