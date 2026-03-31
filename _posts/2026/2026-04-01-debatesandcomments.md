@@ -1,6 +1,6 @@
 ---
 title: Debates between different perspectives at DI site
-date: 2026-04-01 06:00:01 -08
+date: 2026-04-01 06:00:01 -08:00
 author: Joe Felsenstein
 ---
 
