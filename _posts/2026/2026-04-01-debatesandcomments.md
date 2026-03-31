@@ -9,8 +9,8 @@ author: Joe Felsenstein
 <div align="center">
 <figure>
 <img src="/uploads/2026/Dembski2006.jpg"/><img src="/uploads/2026/MichaelBehe2008.jpg"/><img src="/uploads/2026/RobertMarks2016.jpg"/><img src="/uploads/2026/CaseyLuskin2020.jpg"/><br/>
-<figcaption>Finally, we will get to hear how and why these folks'<br/>
-views differ from each other, and whether they can all 
+<figcaption>Finally, we will get to hear how and why these folks' views <br/>
+differ from each other, and whether they can all 
 be right.
 </figcaption>
 </figure>
