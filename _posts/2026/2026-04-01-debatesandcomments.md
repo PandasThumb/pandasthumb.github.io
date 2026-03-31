@@ -57,8 +57,7 @@ These discussions will be accompanied, as usual, by
 comments supplied by the enthusiastic and knowledgable 
 S&amp;CT readers who appreciate the lively. honest and 
 informative back-and-forth that signals 
-the intellectual vitality of the "cdesign proponensist"  
-movement.
+the intellectual vitality of the "cdesign proponensist" movement.
 
 Explanation here:
 <!--read more-->
