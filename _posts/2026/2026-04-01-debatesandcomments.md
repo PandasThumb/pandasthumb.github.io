@@ -34,7 +34,7 @@ there usually are:
 * William Dembski, Winston Ewert, Robert Marks, and
 George Montañez will explain how having a large
 value of their Algorithmically Specified Complexity
-measure shows that this cannot have happened by
+measure cannot have happened by
 natural selection making the value gradually larger.
 And why high functional information requires that
 the "description" of the phenotype (or is it genotype?)
