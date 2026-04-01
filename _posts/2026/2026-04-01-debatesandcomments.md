@@ -61,6 +61,6 @@ informative back-and-forth that signals
 the intellectual vitality of the "cdesign proponensist" movement.
 
 Explanation here:
-<!--read more-->
+<!--more-->
 
 April Fools!
