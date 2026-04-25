@@ -1,6 +1,6 @@
 ---
 title: 'Worldwide Pinhole Camera Day'
-date: '2026-04-26 08:00:00 -06:00'
+date: '2026-04-26 04:00:00 -06:00'
 author: Matt Young
 ---
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
