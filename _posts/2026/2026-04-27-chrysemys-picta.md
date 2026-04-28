@@ -3,6 +3,7 @@ title: 'Chrysemys picta'
 date: '2026-04-27 12:00:00 -06:00'
 author: Matt Young
 ---
+<figure>
 
 <img src="/uploads/2026/DSC06178_Painted_Turtle_600.jpg" alt="Headshot of painted turtle"/>
 
