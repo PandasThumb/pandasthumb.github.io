@@ -16,7 +16,7 @@ We received an e-mail just now from Joel Eissenberg, Emeritus Professor of Bioch
 <blockquote>As you may have seen, <a href="https://www.nytimes.com/2026/04/30/science/j-craig-venter-dead.html">Craig Venter died</a> yesterday. He played an important catalytic role in accelerating genome sequencing, both for humans and for my favorite model organism, <i>D. melanogaster</i>. His work obviously impacted comparative genomics.</blockquote>
 
 
-Prof Eissenberg's post at <a href=https://angrybearblog.com/2026/04/craig-venter-rip>The Angry Bear</a> is reproduced, with permission, below the fold.
+Prof Eissenberg's post at <a href="https://angrybearblog.com/2026/04/craig-venter-rip">The Angry Bear</a> is reproduced, with permission, below the fold.
 
 <!--more-->
 
