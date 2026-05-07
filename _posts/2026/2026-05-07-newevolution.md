@@ -3,13 +3,15 @@ title: Evolution revised, by A.I.
 date: 2026-05-07 14:00:01 -08:00
 author: Joe Felsenstein
 ---
+
 <div align="center">
 <figure>
-<img src="/uploads/2026/ToyotaRobot.jpg" alt="[image of Toyota robot]"/>
+<img src="/uploads/2026/ToyotaRobot.jpg" alt="[image of Toyota robot]"/><br/>
 <figcaption>A robot made by Toyota blows its own horn.<br/>Image from Wikimedia.</figcaption>
 </figure>
 </div>
 
+<p>&nbsp;</p>>
 
 I happened to type "evolution revised" into my Safari browser, and A.I. kicked in.  I try to turn off A.I. as much as I can, 
 but this slipped past me.  Here's what it said:
