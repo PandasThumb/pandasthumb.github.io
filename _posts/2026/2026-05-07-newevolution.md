@@ -11,7 +11,7 @@ author: Joe Felsenstein
 </figure>
 </div>
 
-<p>&nbsp;</p>>
+<p>&nbsp;</p>
 
 I happened to type "evolution revised" into my Safari browser, and A.I. kicked in.  I try to turn off A.I. as much as I can, 
 but this slipped past me.  Here's what it said:
