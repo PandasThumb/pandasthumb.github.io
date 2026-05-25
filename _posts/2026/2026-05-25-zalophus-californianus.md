@@ -1,6 +1,6 @@
 ---
 title: 'Zalophus californianus'
-date: '2026-05-26 12:00:00 -06:00'
+date: '2026-05-25 12:00:00 -06:00'
 author: Matt Young
 ---
 
