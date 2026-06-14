@@ -5,7 +5,7 @@ author: Joe Felsenstein
 ---
 
 <div align="center">
-<figure><img src="https://pandasthumb.org/uploads/2023/Six_Grandfathers.jpg" />
+<figure><img width="600" src="https://pandasthumb.org/uploads/2023/Six_Grandfathers.jpg" />
 <figcaption></figcaption>
 </figure>
 </div>
