@@ -32,10 +32,12 @@ that a string is described by a much shorter program
 does not inherently show that the string exhibits 
 specified complexity.
 
+## Two complexities ##
+
 His argument starts where Dembski and Ewert started, with 
-Kolmogorov complexoty.  We're going to see that the words 
+Kolmogorov complexity.  (We're going to see that the words 
 "complexity" and "complex" are going to have multiple meanings 
-in this discussion.  In Kolmogorov's Algorithmic Information 
+in this discussion).  In Kolmogorov's Algorithmic Information 
 Theory, there is a number expressed in binary bits, and it 
 can be computed by a shorter program, itself expressed in 
 binary bits.  The computation is done on a universal computer, 
