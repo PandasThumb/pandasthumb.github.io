@@ -33,7 +33,23 @@ does not inherently show that the string exhibits
 specified complexity.
 
 His argument starts where Dembski and Ewert started, with 
-Kolmogorov's algorithmic information theory.  In it, 
+Kolmogorov complexoty.  We're going to see that the words 
+"complexity" and "complex" are going to have multiple meanings 
+in this discussion.  In Kolmogorov's Algorithmic Information 
+Theory, there is a number expressed in binary bits, and it 
+can be computed by a shorter program, itself expressed in 
+binary bits.  The computation is done on a universal computer, 
+such as a Turing Machine. (That is distinct from a Touring 
+Car -- we do not sing "Come, Geraldine, in my Turing Machine").
+
+The Kolmogorov Complexity of the number is the length of 
+the program that computes it.  If a number has Kolmogorov 
+Complexity much less than its length, that indicates that it 
+is not a random number, in the Algorithmic Information 
+Theory sense of randomness.
+
+Dembski and Ewert's Algorithmic Specified Complexity (ASC) 
+is not the Kolmogorov Complexity but the difference in
 
 
 ## My disagreement with Dembski and Ewert's argument ##
