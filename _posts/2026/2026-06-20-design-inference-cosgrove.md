@@ -49,7 +49,15 @@ is not a random number, in the Algorithmic Information
 Theory sense of randomness.
 
 Dembski and Ewert's Algorithmic Specified Complexity (ASC) 
-is not the Kolmogorov Complexity but the difference in
+is not the Kolmogorov Complexity but the difference between the 
+length of the number and its Kolmogorov complexity.  Thus a 
+number that is much longer than its program has high ASC.  In 
+such a case the ASC is large abd the Kolmogorov Complexity 
+is small.
+
+## Dembski and Ewert's argument ##
+
+Dembski and Ewert
 
 
 ## My disagreement with Dembski and Ewert's argument ##
