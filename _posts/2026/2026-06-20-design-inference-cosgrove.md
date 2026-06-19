@@ -61,6 +61,10 @@ is small.
 
 Dembski and Ewert
 
+## Cosgrove's disagreement with Dembski and Ewert ##
+
+
+
 
 ## My disagreement with Dembski and Ewert's argument ##
 
