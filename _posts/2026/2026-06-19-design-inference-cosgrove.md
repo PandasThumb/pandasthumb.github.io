@@ -6,7 +6,8 @@ author: Joe Felsenstein
 
 <div align="center">
 <figure><img width="500" src="https://pandasthumb.org/uploads/2023/Six_Grandfathers.jpg" />
-<figcaption></figcaption>
+<figcaption>The cliff known to the Lakota people as Six Grandfathers,<br/>
+now known as Mount Rushmore.  From Wikimedia, public domain.</figcaption>
 </figure>
 </div>
 
