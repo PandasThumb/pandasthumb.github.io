@@ -34,6 +34,8 @@ specified complexity.
 
 
 
+
+
 ## My disagreement with Dembski and Ewert's argument ##
 
 I have previously reviewed Dembski and Ewert's argument 
@@ -48,3 +50,18 @@ Ewert's Algoirthmic Specified Complexity criterion,
 and [here](https://pandasthumb.org/archives/2021/12/worst-of-2021.html).
 
 
+I pointed out that they never relate it to fitness, let alone show
+that natural selection cannot achieve it.  They simply leave
+those essential points unaddressed.
+
+Cosgrove does not discuss the relation of their ASC criterion
+to fitness.  Even if it could be shown that a short string
+codes for the development of a very elaborate structure,
+there needs to be some connection to fitness.  A whale
+whose genotype makes it grow up to look exactly like
+a sequoia tree will not be well-adapted.  But it will have
+lots of D&E's ASC.
+
+Bringing fitness in does enable us to show that a
+string has functional information.  Cosgrove does not
+get into that.
