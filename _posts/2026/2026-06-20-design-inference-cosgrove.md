@@ -32,8 +32,8 @@ that a string is described by a much shorter program
 does not inherently show that the string exhibits 
 specified complexity.
 
-
-
+His argument starts where Dembski and Ewert started, with 
+Kolmogorov's algorithmic information theory.  In it, 
 
 
 ## My disagreement with Dembski and Ewert's argument ##
