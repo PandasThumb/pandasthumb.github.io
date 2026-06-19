@@ -25,7 +25,7 @@ It will be found here:
 <i>Synthese</i> <b>204 (6):</b> 1-17](https://philpapers.org/go.pl?id=COSOOA&proxyId=&u=https%3A%2F%2Fdx.doi.org%2F10.1007%2Fs11229-024-04806-6)
 where there is open access.
 
-## Cosgrove's argumeent ##
+## Cosgrove's argument ##
 
 Cosgrove's paper concludes (correctly) that establishing 
 that a string is described by a much shorter program 
