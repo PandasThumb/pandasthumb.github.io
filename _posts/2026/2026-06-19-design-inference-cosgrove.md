@@ -35,7 +35,7 @@ In my 2024 review(s) of the 2nd edition of The Design
 Inference here at PT:
 [First part](https://pandasthumb.org/archives/2024/06/dembskiewert1.html),
 [second part](https://pandasthumb.org/archives/2024/11/dembskiewert2.html),
-and also in previous posts expressing puzzlement at Dembski and 
+and also in previous posts of mine expressing puzzlement at Dembski and 
 Ewert's Algoirthmic Specified Complexity criterion,
 [here](https://pandasthumb.org/archives/2019/12/Is-Algorithmic-Specified-Complexity-Useless-for-Analyzing-Evolution.html), 
 [here](https://pandasthumb.org/archives/2020/12/Any-new-arguments.html), 
