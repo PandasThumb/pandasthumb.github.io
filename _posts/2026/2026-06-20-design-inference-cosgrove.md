@@ -60,12 +60,15 @@ is small.
 ## Dembski and Ewert's argument ##
 
 Dembski and Ewert replace the program with a "description" of 
-the string.  In an example, they have the number indicate the 
-sequence of a 
+the string.  In examples in their Chapter 7, section 6, they 
+use simple phrases like "binds ATP" or "electron transport". 
+None of these is a computer program.
+
 
 ## Cosgrove's disagreement with Dembski and Ewert ##
 
-
+Cosgrove starts with a bit string that might contain ASC, and 
+asks whether we can recognize that.  He 
 
 
 ## My disagreement with Dembski and Ewert's argument ##
