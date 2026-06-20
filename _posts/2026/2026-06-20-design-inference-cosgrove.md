@@ -59,7 +59,9 @@ is small.
 
 ## Dembski and Ewert's argument ##
 
-Dembski and Ewert
+Dembski and Ewert replace the program with a "description" of 
+the string.  In an example, they have the number indicate the 
+sequence of a 
 
 ## Cosgrove's disagreement with Dembski and Ewert ##
 
