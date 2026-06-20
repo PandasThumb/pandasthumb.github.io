@@ -1,6 +1,6 @@
 ---
 title: 'A philosopher reviews "The Design Inference", 2nd edition'
-date: 2026-06-20 12:00:01 -08:00
+date: 2026-06-21 12:00:01 -08:00
 author: Joe Felsenstein
 ---
 
