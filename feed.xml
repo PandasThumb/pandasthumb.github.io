@@ -1,4 +1,161 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://pandasthumb.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pandasthumb.org/" rel="alternate" type="text/html" /><updated>2026-06-21T12:42:30-07:00</updated><id>https://pandasthumb.org/feed.xml</id><title type="html">The Panda’s Thumb</title><entry><title type="html">Araneus diadematus</title><link href="https://pandasthumb.org/archives/2026/06/araneus-diadematus.html" rel="alternate" type="text/html" title="Araneus diadematus" /><published>2026-06-08T11:00:00-07:00</published><updated>2026-06-08T11:00:00-07:00</updated><id>https://pandasthumb.org/archives/2026/06/araneus-diadematus</id><content type="html" xml:base="https://pandasthumb.org/archives/2026/06/araneus-diadematus.html">&lt;p&gt;Photograph by &lt;strong&gt;Joel Eissenberg&lt;/strong&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://pandasthumb.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pandasthumb.org/" rel="alternate" type="text/html" /><updated>2026-06-21T13:58:12-07:00</updated><id>https://pandasthumb.org/feed.xml</id><title type="html">The Panda’s Thumb</title><entry><title type="html">A philosopher reviews “The Design Inference”, 2nd edition</title><link href="https://pandasthumb.org/archives/2026/06/design-inference-cosgrove.html" rel="alternate" type="text/html" title="A philosopher reviews “The Design Inference”, 2nd edition" /><published>2026-06-21T13:00:01-07:00</published><updated>2026-06-21T13:00:01-07:00</updated><id>https://pandasthumb.org/archives/2026/06/design-inference-cosgrove</id><content type="html" xml:base="https://pandasthumb.org/archives/2026/06/design-inference-cosgrove.html">&lt;div align=&quot;center&quot;&gt;
+&lt;figure&gt;&lt;img width=&quot;500&quot; src=&quot;https://pandasthumb.org/uploads/2023/Six_Grandfathers.jpg&quot; /&gt;&lt;br /&gt;
+&lt;figcaption&gt;The cliff known to the Lakota people as Six Grandfathers, now&lt;br /&gt;
+known as Mount Rushmore.  From Wikimedia, public domain.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Glenn Branch has pointed out that there is now a 
+paper in the philosophy literature reviewing 
+William Dembski and Winston Ewert’s 2nd edition of 
+“The Design Inference”.  It is written by 
+Joseph K. Cosgrove, a philosopher of science at 
+Providence College.&lt;/p&gt;
+
+&lt;p&gt;It will be found here:
+&lt;a href=&quot;https://philpapers.org/go.pl?id=COSOOA&amp;amp;proxyId=&amp;amp;u=https%3A%2F%2Fdx.doi.org%2F10.1007%2Fs11229-024-04806-6&quot;&gt;Joseph K. Cosgrove. 2024. Order, organization, and randomness: on the mathematical formulation of life.
+&lt;i&gt;Synthese&lt;/i&gt; &lt;b&gt;204 (6):&lt;/b&gt; 1-17&lt;/a&gt;
+where there is open access.&lt;/p&gt;
+
+&lt;p&gt;Let me try to summarize these issues.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h3 id=&quot;cosgroves-argument&quot;&gt;Cosgrove’s argument&lt;/h3&gt;
+
+&lt;p&gt;Cosgrove’s paper concludes (correctly) that establishing 
+that a string is described by a much shorter program 
+does not inherently show that the string exhibits 
+specified complexity.&lt;/p&gt;
+
+&lt;h3 id=&quot;two-complexities&quot;&gt;Two complexities&lt;/h3&gt;
+
+&lt;p&gt;His argument starts where Dembski and Ewert started, with 
+Kolmogorov complexity.  (We’re going to see that the words 
+“complexity” and “complex” are going to have multiple meanings 
+in this discussion).  In Kolmogorov’s Algorithmic Information 
+Theory, there is a number expressed in binary bits, and it 
+can be computed by a shorter program, itself expressed in 
+binary bits.  The computation is done on a universal computer, 
+such as a Turing Machine. (That is distinct from a Touring 
+Car – we do not sing “Come, Geraldine, in my Turing Machine”).&lt;/p&gt;
+
+&lt;p&gt;The Kolmogorov Complexity of the number is the length of 
+the program that computes it.  If a number has Kolmogorov 
+Complexity much less than its length, that indicates that it 
+is not a random number, in the Algorithmic Information 
+Theory sense of randomness.&lt;/p&gt;
+
+&lt;p&gt;Dembski and Ewert’s Algorithmic Specified Complexity (ASC) 
+is not the Kolmogorov Complexity but the difference between the 
+length of the number and its Kolmogorov complexity.  Thus a 
+number that is much longer than its program has high ASC.  In 
+such a case the ASC is large and the Kolmogorov Complexity 
+is small.&lt;/p&gt;
+
+&lt;h3 id=&quot;dembski-and-ewerts-argument&quot;&gt;Dembski and Ewert’s argument&lt;/h3&gt;
+
+&lt;p&gt;Dembski and Ewert replace the program with a “description” of 
+the string.  In examples in their Chapter 7, section 6, they 
+use simple phrases like “binds ATP” or “electron transport”. 
+None of these is a computer program.&lt;/p&gt;
+
+&lt;h3 id=&quot;cosgroves-disagreement-with-dembski-and-ewert&quot;&gt;Cosgrove’s disagreement with Dembski and Ewert&lt;/h3&gt;
+
+&lt;p&gt;Cosgrove starts with a bit string that might contain ASC, and 
+asks whether we can recognize that.  He He argues that we can 
+only determine that such a string contains ASC if we can 
+distinguish between a random string and one which 
+describes the target string.  If the string which is 
+doing the describing is a program, it cannot be compressed.
+As an incompressible string cannot be distinguished from a 
+random string, we cannot determine whether a string 
+contains ASC.&lt;/p&gt;
+
+&lt;p&gt;This argument seems tied to the idea that the 
+“description” string is actually a program.  However later 
+in Cosgrove’s paper he dismisses Dembski and Ewert’s 
+notion of a “description” as inadequate.  A mere “description”
+is not a program, and cannot be used to compute 
+anything.&lt;/p&gt;
+
+&lt;h3 id=&quot;my-disagreement-with-dembski-and-ewerts-argument&quot;&gt;My disagreement with Dembski and Ewert’s argument&lt;/h3&gt;
+
+&lt;p&gt;I have previously reviewed Dembski and Ewert’s argument 
+in my 2024 review(s) of the 2nd edition of The Design 
+Inference here at PT:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pandasthumb.org/archives/2024/06/dembskiewert1.html&quot;&gt;First part&lt;/a&gt;,&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pandasthumb.org/archives/2024/11/dembskiewert2.html&quot;&gt;second part&lt;/a&gt;,&lt;/p&gt;
+
+&lt;p&gt;and also in previous posts of mine expressing puzzlement at Dembski and 
+Ewert’s Algoirthmic Specified Complexity criterion,
+&lt;a href=&quot;https://pandasthumb.org/archives/2019/12/Is-Algorithmic-Specified-Complexity-Useless-for-Analyzing-Evolution.html&quot;&gt;here&lt;/a&gt;, 
+&lt;a href=&quot;https://pandasthumb.org/archives/2020/12/Any-new-arguments.html&quot;&gt;here&lt;/a&gt;, 
+and &lt;a href=&quot;https://pandasthumb.org/archives/2021/12/worst-of-2021.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In the examples in William Dembski’s “specified complexity” 
+arguments, he attempted to define a quantity that one 
+could compute, one that was large when we considered a 
+well-adapted organism or well-adapted phenotype.  Then 
+there had to be an argument that this large a value could 
+not be produced by natural selection.&lt;/p&gt;
+
+&lt;p&gt;Originally, in Dembski’s 2002 book “No Free Lunch: Why 
+Specified Complexity Cannot be Purchased Without Intelligence”,
+this was supposed to be accomplished by his Law of Conservation 
+of Complex Specified Information.  This failed, and the LCCSI 
+faded away and has not been heard from in years. There was an 
+interim, about 2005, in which Complex Specified Information was 
+a label assigned &lt;em&gt;after&lt;/em&gt; it had been shown by unrelated means that 
+the adaptation could not arise by natural selection.&lt;/p&gt;
+
+&lt;p&gt;There followed Dembski and Ewert’s Algorithmic Specified 
+Complexity.   This is explained in detail in their second
+edition of Dembski’s 1996 book “The Design Inference. Eliminating 
+Chance Through Small Probabilities”.   In the two-part review 
+of the second edition of the book, linked above, and in the 2019 post here at 
+Panda’s Thumb, I raised some questions about the use of ASC 
+to show that anything could not evolve by natural selection.&lt;/p&gt;
+
+&lt;p&gt;Most importantly: how did their argument work? Was it 
+essential that a short program (or “description”) be able 
+to compute the details of the phenotype?  Why? Even if it could 
+be shown that this was essential, was it impossible to 
+evolve step-by-step?  Their book did not grapple with any&lt;br /&gt;
+of these questions.  Instead it spent a lot of time 
+complaining about Dawkins’s Weasel and about “bad design” 
+arguments, and other side issues.&lt;/p&gt;
+
+&lt;p&gt;I pointed out that they never relate ASC to fitness, let alone show
+that natural selection cannot achieve it.  They simply leave
+those essential points unaddressed.  In discussions of 
+Kolmogorov Complexity, it can be argued that a long string 
+has low probability.  But the distribution being used is 
+arbitrary, and has nothing to do with probability of 
+being evolved by natural selection.&lt;/p&gt;
+
+&lt;h3 id=&quot;my-worries-about-cosgroves-argument&quot;&gt;My worries about Cosgrove’s argument&lt;/h3&gt;
+
+&lt;p&gt;Cosgrove also does not discuss the relation of the ASC criterion
+to fitness.  Even if it could be shown that a short string
+codes for the development of a very elaborate structure,
+there needs to be some connection to fitness.  A whale
+whose genotype makes it grow up to look exactly like
+a sequoia tree will not be well-adapted.  But it will have
+lots of D&amp;amp;E’s ASC.&lt;/p&gt;
+
+&lt;p&gt;Bringing fitness in does enable us to show that a
+string has functional information.  Cosgrove does not
+get into that.  As far as I can tell, any argument like 
+Dembski’s, or Dembski and Ewert’s, must bring in fitness 
+or fit adaptations at some point.&lt;/p&gt;
+
+&lt;p&gt;I hope that Cosgrove, and/or Dembski or Ewert, can make 
+comments here explaining why my concerns are misguided.&lt;/p&gt;</content><author><name>Joe Felsenstein</name></author><summary type="html">The cliff known to the Lakota people as Six Grandfathers, now known as Mount Rushmore. From Wikimedia, public domain. &amp;nbsp; Glenn Branch has pointed out that there is now a paper in the philosophy literature reviewing William Dembski and Winston Ewert’s 2nd edition of “The Design Inference”. It is written by Joseph K. Cosgrove, a philosopher of science at Providence College. It will be found here: Joseph K. Cosgrove. 2024. Order, organization, and randomness: on the mathematical formulation of life. Synthese 204 (6): 1-17 where there is open access. Let me try to summarize these issues.</summary></entry><entry><title type="html">Araneus diadematus</title><link href="https://pandasthumb.org/archives/2026/06/araneus-diadematus.html" rel="alternate" type="text/html" title="Araneus diadematus" /><published>2026-06-08T11:00:00-07:00</published><updated>2026-06-08T11:00:00-07:00</updated><id>https://pandasthumb.org/archives/2026/06/araneus-diadematus</id><content type="html" xml:base="https://pandasthumb.org/archives/2026/06/araneus-diadematus.html">&lt;p&gt;Photograph by &lt;strong&gt;Joel Eissenberg&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Photography Contest, &lt;strong&gt;Honorable Mention&lt;/strong&gt;.&lt;/p&gt;
 
@@ -151,68 +308,4 @@ Jablonka and Lamb and The Princeton Guide to Evolution.&lt;/p&gt;
 
 &lt;figure&gt;
 &lt;img src=&quot;/uploads/2026/Pierce_Dayton_Anna_Hummingbird_With_Aloe_600_2.jpg&quot; alt=&quot;Anna's hummingbird dining on aloe flowers, Take 2&quot; /&gt;
-&lt;/figure&gt;</content><author><name>Matt Young</name></author><summary type="html">Photograph by Pierce Dayton. Calypte anna &amp;ndash; Anna's hummingbird, dining on aloe flowers. Pierce Dayton is the grandson of Vivian Dullien, whose photographs we posted here and here. He took the picture with his cell phone. More below the fold. (Added 4/17/26: Apparently it is an Allen's hummingbird; see the comments by John Harshman and others.)</summary></entry><entry><title type="html">Debates between different perspectives at DI site</title><link href="https://pandasthumb.org/archives/2026/04/debatesandcomments.html" rel="alternate" type="text/html" title="Debates between different perspectives at DI site" /><published>2026-04-01T07:00:01-07:00</published><updated>2026-04-01T07:00:01-07:00</updated><id>https://pandasthumb.org/archives/2026/04/debatesandcomments</id><content type="html" xml:base="https://pandasthumb.org/archives/2026/04/debatesandcomments.html">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;div align=&quot;center&quot;&gt;
-&lt;figure&gt;&lt;img src=&quot;/uploads/2026/IDfolks.jpg&quot; /&gt;&lt;br /&gt;
-&lt;figcaption&gt;Finally, we will get to hear how and why these folks' views &lt;br /&gt;
-differ from each other, and whether they can all 
-be right.&lt;br /&gt;  Photos all from Wikimedia.  I would be happy to 
-  add photos of the other 6 folks if they give permission.
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Today, April 1, the Discovery Institute’s &lt;a href=&quot;https://scienceandculture.com/&quot;&gt;“Science and 
-Culture Today”&lt;/a&gt; site will host a number of debates 
-between leading figures in the Intelligent Design 
-movement, highlighting their diverse perspectives, 
-filling in the missing steps in their previous 
-arguments, 
-and giving an opportunity for readers of that site to 
-leave comments on those posts, comments that will be 
-as lively, instructive and stimulating as comments 
-there usually are:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;William Dembski, Winston Ewert, Robert Marks, and
-George Montañez will explain how having a large
-value of their Algorithmically Specified Complexity
-measure cannot have happened by
-natural selection making the value gradually larger.
-And why high functional information requires that
-the “description” of the phenotype (or is it genotype?)
-needs to be short.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Eric Hedin and Granville Sewell will explain what
-law of physics prevents any favorable mutation that
-improves functional information from increasing in
-frequency in any population.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Casey Luskin and Michael Behe will debate whether
-or not there is good evidence for common ancestry of primates,
-common ancestry of cercopithecoid monkeys, and common
-ancestry of apes (including humans).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;John West and David Klinghoffer will explain why
-any scientific result that seems to them to make
-organisms behave immorally must therefore be scientifically invalid.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These discussions will be accompanied, as usual, by 
-comments supplied by the enthusiastic and knowledgable 
-S&amp;amp;CT readers, who appreciate the lively, honest and 
-informative back-and-forth that signals 
-the intellectual vitality of the “cdesign proponensist” movement.&lt;/p&gt;
-
-&lt;p&gt;Explanation here:
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;april-fools&quot;&gt;April Fools!&lt;/h3&gt;</content><author><name>Joe Felsenstein</name></author><summary type="html">&amp;nbsp; Finally, we will get to hear how and why these folks' views differ from each other, and whether they can all be right. Photos all from Wikimedia. I would be happy to add photos of the other 6 folks if they give permission. &amp;nbsp; Today, April 1, the Discovery Institute’s “Science and Culture Today” site will host a number of debates between leading figures in the Intelligent Design movement, highlighting their diverse perspectives, filling in the missing steps in their previous arguments, and giving an opportunity for readers of that site to leave comments on those posts, comments that will be as lively, instructive and stimulating as comments there usually are: William Dembski, Winston Ewert, Robert Marks, and George Montañez will explain how having a large value of their Algorithmically Specified Complexity measure cannot have happened by natural selection making the value gradually larger. And why high functional information requires that the “description” of the phenotype (or is it genotype?) needs to be short. Eric Hedin and Granville Sewell will explain what law of physics prevents any favorable mutation that improves functional information from increasing in frequency in any population. Casey Luskin and Michael Behe will debate whether or not there is good evidence for common ancestry of primates, common ancestry of cercopithecoid monkeys, and common ancestry of apes (including humans). John West and David Klinghoffer will explain why any scientific result that seems to them to make organisms behave immorally must therefore be scientifically invalid. These discussions will be accompanied, as usual, by comments supplied by the enthusiastic and knowledgable S&amp;amp;CT readers, who appreciate the lively, honest and informative back-and-forth that signals the intellectual vitality of the “cdesign proponensist” movement. Explanation here:</summary></entry></feed>
+&lt;/figure&gt;</content><author><name>Matt Young</name></author><summary type="html">Photograph by Pierce Dayton. Calypte anna &amp;ndash; Anna's hummingbird, dining on aloe flowers. Pierce Dayton is the grandson of Vivian Dullien, whose photographs we posted here and here. He took the picture with his cell phone. More below the fold. (Added 4/17/26: Apparently it is an Allen's hummingbird; see the comments by John Harshman and others.)</summary></entry></feed>
