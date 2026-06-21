@@ -6,8 +6,8 @@ author: Joe Felsenstein
 
 <div align="center">
 <figure><img width="500" src="https://pandasthumb.org/uploads/2023/Six_Grandfathers.jpg" /><br/>
-<figcaption>The cliff known to the Lakota people as Six Grandfathers,<br/>
-now known as Mount Rushmore.  From Wikimedia, public domain.</figcaption>
+<figcaption>The cliff known to the Lakota people as Six Grandfathers, now<br/>
+known as Mount Rushmore.  From Wikimedia, public domain.</figcaption>
 </figure>
 </div>
 
@@ -68,7 +68,19 @@ None of these is a computer program.
 ## Cosgrove's disagreement with Dembski and Ewert ##
 
 Cosgrove starts with a bit string that might contain ASC, and 
-asks whether we can recognize that.  He 
+asks whether we can recognize that.  He He argues that we can 
+only determine that such a string contains ASC if we can 
+distinguish between a random string and one which 
+describes the target string.  If the string which is 
+doing the describing is a program, it cannot be compressed.
+As an incompressible string cannot be distinguished from a 
+random string, we cannot determine whether a string 
+contains ASC.
+
+This argument seems tied to the idea that the 
+"description" string is a program.  However later 
+in Cosgrove's paper he dismisses Dembski and Ewert's 
+notion of a "description" as inadequate.
 
 
 ## My disagreement with Dembski and Ewert's argument ##
