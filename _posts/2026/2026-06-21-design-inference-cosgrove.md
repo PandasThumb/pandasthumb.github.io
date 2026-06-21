@@ -25,6 +25,10 @@ It will be found here:
 <i>Synthese</i> <b>204 (6):</b> 1-17](https://philpapers.org/go.pl?id=COSOOA&proxyId=&u=https%3A%2F%2Fdx.doi.org%2F10.1007%2Fs11229-024-04806-6)
 where there is open access.
 
+Let me try to summarize these issues.
+
+<!--more-->
+
 ## Cosgrove's argument ##
 
 Cosgrove's paper concludes (correctly) that establishing 
@@ -78,9 +82,11 @@ random string, we cannot determine whether a string
 contains ASC.
 
 This argument seems tied to the idea that the 
-"description" string is a program.  However later 
+"description" string is actually a program.  However later 
 in Cosgrove's paper he dismisses Dembski and Ewert's 
-notion of a "description" as inadequate.
+notion of a "description" as inadequate.  A mere "description"
+is not a program, and cannot be used to compute 
+anything.
 
 
 ## My disagreement with Dembski and Ewert's argument ##
@@ -88,20 +94,61 @@ notion of a "description" as inadequate.
 I have previously reviewed Dembski and Ewert's argument 
 in my 2024 review(s) of the 2nd edition of The Design 
 Inference here at PT:
+
 [First part](https://pandasthumb.org/archives/2024/06/dembskiewert1.html),
+
 [second part](https://pandasthumb.org/archives/2024/11/dembskiewert2.html),
+
 and also in previous posts of mine expressing puzzlement at Dembski and 
 Ewert's Algoirthmic Specified Complexity criterion,
 [here](https://pandasthumb.org/archives/2019/12/Is-Algorithmic-Specified-Complexity-Useless-for-Analyzing-Evolution.html), 
 [here](https://pandasthumb.org/archives/2020/12/Any-new-arguments.html), 
 and [here](https://pandasthumb.org/archives/2021/12/worst-of-2021.html).
 
+In the examples in William Dembski's "specified complexity" 
+arguments, he attempted to define a quantity that one 
+could compute, one that was large when we considered a 
+well-adapted organism or well-adapted phenotype.  Then 
+there had to be an argument that this large a value could 
+not be produced by natural selection.
 
-I pointed out that they never relate it to fitness, let alone show
+Originally, in Dembski's 2002 book "No Free Lunch: Why 
+Specified Complexity Cannot be Purchased Without Intelligence",
+this was supposed to be accomplished by his Law of Conservation 
+of Complex Specified Information.  This failed, and the LCCSI 
+faded away and has not been heard from in years. There was an 
+interim, about 2005, in which Complex Specified Information was 
+a label assigned _after_ it had been shown by unrelated means that 
+the adaptation could not arise by natural selection.
+
+There followed Dembski and Ewert's Algorithmic Specified 
+Complexity.   This is explained in detail in their second
+edition of Dembski's 1996 book "The Design Inference. Eliminating 
+Chance Through Small Probabilities".   In the two-part review 
+of the second edition of the book, linked above, and in the 2019 post here at 
+Panda's Thumb, I raised some questions about the use of ASC 
+to show that anything could not evolve by natural selection.
+
+Most importantly: how did their argument work? Was it 
+essential that a short program (or "description") be able 
+to compute the details of the phenotype?  Why? Even if it could 
+be shown that this was essential, was it impossible to 
+evolve step-by-step?  Their book did not grapple with any  
+of these questions.  Instead it spent a lot of time 
+complaining about Dawkins's Weasel and about "bad design" 
+arguments, and other side issues.
+
+I pointed out that they never relate ASC to fitness, let alone show
 that natural selection cannot achieve it.  They simply leave
-those essential points unaddressed.
+those essential points unaddressed.  In discussions of 
+Kolmogorov Complexity, it can be argued that a long string 
+has low probability.  But the distribution being used is 
+arbitrary, and has nothing to do with probability of 
+being evolved by natural selection.
 
-Cosgrove does not discuss the relation of their ASC criterion
+## My worries about Cosgrove's argument ##
+
+Cosgrove also does not discuss the relation of the ASC criterion
 to fitness.  Even if it could be shown that a short string
 codes for the development of a very elaborate structure,
 there needs to be some connection to fitness.  A whale
@@ -111,4 +158,9 @@ lots of D&E's ASC.
 
 Bringing fitness in does enable us to show that a
 string has functional information.  Cosgrove does not
-get into that.
+get into that.  As far as I can tell, any argument like 
+Dembski's, or Dembski and Ewert's, must bring in fitness 
+or fit adaptations at some point.  
+
+I hope that Cosgrove, and/or Dembski or Ewert, can make 
+comments here explaining why my concerns are misguided.
