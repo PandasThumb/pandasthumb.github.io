@@ -72,7 +72,7 @@ None of these is a computer program.
 ## Cosgrove's disagreement with Dembski and Ewert ##
 
 Cosgrove starts with a bit string that might contain ASC, and 
-asks whether we can recognize that.  He He argues that we can 
+asks whether we can recognize that.  He argues that we can 
 only determine that such a string contains ASC if we can 
 distinguish between a random string and one which 
 describes the target string.  If the string which is 
