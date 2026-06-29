@@ -7,7 +7,7 @@ The 17th annual Panda’s Thumb Photography Contest begins now, Monday, June 29,
 
 We encourage entries in a single, general category, which includes pictures of just about anything of scientific interest: any object of experimentation or observation, from single-celled organisms, through nematodes, fruit flies, rats, chimpanzees, and college sophomores to volcanoes, stars, and galaxies. In order not to omit theoreticians, we will consider computer-generated pictures and also photographs of equipment. Photomicrographs and electron micrographs are likewise welcomed.
 
-Prizes TBA.
+Glenn Branch of <a href="https://ncse.ngo/">NCSE</a> has generously offered the following books as prizes: Edward Humes, <i>Monkey Girl</i> (2007), and Larry A. Witham, <i>Where Darwin Meets the Bible</i> (2002). The winner may have his or her choice; the runner-up will be offered the remaining book.
 
 If we get enough entries, consistently with Rules 11 and 12, we may add categories and award additional prizes, presuming, of course, that we can find more prizes.
 
