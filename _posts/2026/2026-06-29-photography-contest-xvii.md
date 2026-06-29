@@ -12,7 +12,9 @@ Glenn Branch of <a href="https://ncse.ngo/">NCSE</a> has generously offered the 
 If we get enough entries, consistently with Rules 11 and 12, we may add categories and award additional prizes, presuming, of course, that we can find more prizes.
 
 The rules of the contest are simple:
+
 <!--more-->
+
 1.	We will consider any photograph that displays scientific interest – biological, paleontological, geological, or astronomical, for example.
 
 3.	Submit photographs in JPEG format.
