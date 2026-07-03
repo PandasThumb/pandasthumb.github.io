@@ -45,22 +45,44 @@ composition of the population.
 
 Wasn't Coppege taught this in his high school (secondary school) biology class? 
 Or in college? He has a B.S. degree in science education.  Maybe he missed a 
-few lectures.
+few lectures.  The university where he studied was Bob Jones University.  Maybe 
+there was no good lecture on natural selection.
+
+<!--more-->
+
+Coppege then says that none of the following forms of "selection" (which he uses with those scare quotes) can "add new functional information".   (Note that functional information, as defined by Jack Szostak, Robert Hazen, and colleagues, means any change in the genomes of the population that gives the organisms higher fitness).
+
+> Artificial selection. By definition, this can only be done by intelligent design. Darwin was notorious for analogizing human breeding into an argument for natural selection. As Robert Shedinger shows in his book Darwin’s Bluff, Darwin never corrected this fallacy even when it was pointed out to him. Artificial selection includes so-called “directed evolution” experiments that employ random variations, because the “selector” is a human with foresight.
+
+This is confused.  Coppege is mad at Darwin for analogizing natural selection to artificial selection.  And Darwin did not "correct" himself.  Probably because Darwin did not agree that he had been incorrect.  Coppege knows artificial selection works, and wants us to ignore the conclusion that natural selection -- situations where a character has higher or lower fitnesses depending on its value -- would by direct analogy, result in change.  
+
+For an explanation of why artificial selection is _not_ a form of intelligent design, but is more similar to 
+natural selection, see my [post of 15 September 2024 at PT](https://pandasthumb.org/archives/2024/09/artificial.html).
+
+Coppege again:
+
+> Negative selection. This only eliminates information or weeds out the “unfit.”
+
+In standard information theory,there is no difference between choosing an outcome or eliminating all other outcomes.  In evolutionary biology we are interested in the frequencies of genotypes in the population.  If you kill off some, then the fraction of the population that consists of the other genotypes gets larger.  And of course species have an excess of offspring, so the unfit are replaced. 
+
+> Purifying selection, stabilizing selection, and balancing selection. These only remove harmful variations or preserve existing information.
+
+Same problem with Coppege's argument.
+
+And we have already had a post at PT on this, 
+[my post of 6 June 2023 at PT](https://pandasthumb.org/archives/2023/06/diexperts.html)
 
 
+> Conservation. Genes that have been “conserved” over time imply that nothing has evolved.
+
+If they're not completely conserved, then they are evidence both for common ancestry 
+and for change since then.
 
 
+> Hybridization. This combines existing information but does not add information.
 
+It may form the basis for extra change by natural selection.
 
-
-Useless vs Useful Selection
-Let us first dispense with certain notions of selection that are of no use to evolutionists. If they want to explain the vast diversity of life with NS, it must be capable of adding new functional information to a genome, body plan, or population. None of the following kinds of “selection,” therefore, will help:
-
-Artificial selection. By definition, this can only be done by intelligent design. Darwin was notorious for analogizing human breeding into an argument for natural selection. As Robert Shedinger shows in his book Darwin’s Bluff, Darwin never corrected this fallacy even when it was pointed out to him. Artificial selection includes so-called “directed evolution” experiments that employ random variations, because the “selector” is a human with foresight.
-Negative selection. This only eliminates information or weeds out the “unfit.”
-Purifying selection, stabilizing selection, and balancing selection. These only remove harmful variations or preserve existing information.
-Conservation. Genes that have been “conserved” over time imply that nothing has evolved.
-Hybridization. This combines existing information but does not add information.
 Introgression. This inserts existing information from another source. Same with horizontal gene transfer.
 Genetic drift. This is neutral variation without innovation, foresight or purpose. As geneticist John Sanford has shown, the accumulation of non-lethal mutations leads to genetic entropy, which trends toward extinction.
 Polyploidy and gene duplication. These events merely copy existing information.
