@@ -5,7 +5,7 @@ Author: Joe Felsenstein
 ---
 
 <div align="center">
-<figure><img src="/uploads/2026/Tuatarab.jpg" alt="[A tuatara, which is not a lizard]" />
+<figure><img src="/uploads/2026/Tuatarab.jpg" alt="[A tuatara, which is not a lizard]" /><br/>
 <figcaption>Like Coppege's post, this one shows an image of a Tuatara.  I think<br/>
 that this one is better.  Like his image, this one is from Wikimedia.</figcaption>
 </figure>
