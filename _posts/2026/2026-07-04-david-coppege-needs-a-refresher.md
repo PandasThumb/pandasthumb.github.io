@@ -44,7 +44,8 @@ bookkeeping.  And that bookkeeping results in changes in the genetic
 composition of the population.
 
 Wasn't Coppege taught this in his high school (secondary school) biology class? 
-Or in college?
+Or in college? He has a B.S. degree in science education.  Maybe he missed a 
+few lectures.
 
 
 
