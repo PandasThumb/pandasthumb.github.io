@@ -39,7 +39,7 @@ Oy!  "impersonal happenstance" does not tend to result in organisms with greater
 happenstances that we talk about when we call them natural selection certainly do.  Fitness is 
 a combination of viability and fertility.  And when an indvidual has higher fitness, it survives 
 better and/or has greater fertility.   Its descendants are better-represented in the next 
-generation.  By definition.  No personification needed.  It is just a matter of 
+generation.  _By definition.  No personification needed._  It is just a matter of 
 bookkeeping.  And that bookkeeping results in changes in the genetic 
 composition of the population.
 
