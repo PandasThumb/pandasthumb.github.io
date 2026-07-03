@@ -4,10 +4,12 @@ Date: 2026-07-03 12:00:01 -08:00
 Author: Joe Felsenstein
 ---
 
-<figure><img src="/uploads/2026/Tuatara.jpg" alt="[A tuatara, which is not a lizard]" />
+<div align="center">
+<figure><img src="/uploads/2026/Tuatarab.jpg" alt="[A tuatara, which is not a lizard]" />
 <figcaption>Like Coppege's post, this one shows an image of a Tuatara.  I think<br/>
 that this one is better.  Like his image, this one is from Wikimedia.</figcaption>
 </figure>
+</div>
 
 <p>&nbsp;</p>
 
