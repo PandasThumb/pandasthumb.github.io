@@ -14,7 +14,7 @@ that this one is better.  Like his image, this one is from Wikimedia.</figcaptio
 <p>&nbsp;</p>
 
 A frequent contributor of posts at the Discovery Institute's 
-site "Science and Culture Today", David Coppege, has sternly lectured us 
+site "Science and Culture Today", David Coppege, has [sternly lectured](https://scienceandculture.com/2026/06/evolutionists-need-a-refresher-course-in-natural-selection/) us 
 evolutionary biologists: we "need a refresher course in natural selection".  He is 
 really trying to straighten us out, wagging finger and all.
 
@@ -27,22 +27,30 @@ of them are misconceptions, particularly ones we have
 exposed here as misconceptions, long before Coppege's 
 call for a refresher course.
 
-<!--more-->
+Coppege sets out his task thusly:
 
-Evolutionists Need a Refresher Course in Natural Selection
-David Coppedge June 9, 2026Evolution, Scientific Reasoning
-Share 
- 
- 
- 
- 
- 
- 
-Abuses of the concept of natural selection abound not only in science news articles but in research papers in major scientific journals as well. It’s time for a remedial course.
+> Abuses of the concept of natural selection abound not only in science news articles but in research papers in major scientific journals as well. It’s time for a remedial course.
+>
+> At best, natural selection allows the fortunate to continue existing. I say fortunate, because a mindless process could not care what exists or not, and there is no guarantee that survivors will represent an improvement over what existed before; the survivors might be lucky bums. At worst, natural selection (hereafter NS) commits the fallacy of personification, ascribing the power of choice to impersonal happenstance. This makes as much sense as speaking of “natural voting.” NS doesn’t care who wins. NS is not a person. Extinction is just as valid an outcome of “selection” as innovating a new organ, eye, or wing. Other blatant cases of personification can be found in descriptions of NS as a “blind watchmaker” or a “tinkerer” or a “driver” and in Dawkins’ concept of “selfish genes.”
+> 
+> Before continuing, clear your mind of any idea of foresight, plan, or purpose as we consider what natural selection means and does not mean. Notice I do not call NS a process. The word “process” carries with it the baggage of programming or an algorithm. NS has neither.
 
-At best, natural selection allows the fortunate to continue existing. I say fortunate, because a mindless process could not care what exists or not, and there is no guarantee that survivors will represent an improvement over what existed before; the survivors might be lucky bums. At worst, natural selection (hereafter NS) commits the fallacy of personification, ascribing the power of choice to impersonal happenstance. This makes as much sense as speaking of “natural voting.” NS doesn’t care who wins. NS is not a person. Extinction is just as valid an outcome of “selection” as innovating a new organ, eye, or wing. Other blatant cases of personification can be found in descriptions of NS as a “blind watchmaker” or a “tinkerer” or a “driver” and in Dawkins’ concept of “selfish genes.”
+Oy!  "impersonal happenstance" does not tend to result in organisms with greater fitness?  The particular 
+happenstances that we talk about when we call them natural selection certainly do.  Fitness is 
+a combination of viability and fertility.  And when an indvidual has higher fitness, it survives 
+better and/or has greater fertility.   Its descendants are better-represented in the next 
+generation.  By definition.  No personification needed.  It is just a matter of 
+bookkeeping.  And that bookkeeping results in changes in the genetic 
+composition of the population.
 
-Before continuing, clear your mind of any idea of foresight, plan, or purpose as we consider what natural selection means and does not mean. Notice I do not call NS a process. The word “process” carries with it the baggage of programming or an algorithm. NS has neither.
+Wasn't Coppege taught this in his high school (secondary school) biology class? 
+Or in college?
+
+
+
+
+
+
 
 Useless vs Useful Selection
 Let us first dispense with certain notions of selection that are of no use to evolutionists. If they want to explain the vast diversity of life with NS, it must be capable of adding new functional information to a genome, body plan, or population. None of the following kinds of “selection,” therefore, will help:
