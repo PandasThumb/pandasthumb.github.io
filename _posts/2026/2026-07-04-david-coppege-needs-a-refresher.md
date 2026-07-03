@@ -1,6 +1,6 @@
 ---
 Title: David Coppege makes it clear a refresher course is needed
-Date: 2026-07-03 12:00:01 -08:00
+Date: 2026-07-04 12:00:01 -08:00
 Author: Joe Felsenstein
 ---
 
