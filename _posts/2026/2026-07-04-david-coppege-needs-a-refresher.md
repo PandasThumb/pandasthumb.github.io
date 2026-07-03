@@ -9,15 +9,16 @@ Author: Joe Felsenstein
 that this one is better.  Like his image, this one is from Wikimedia.</figcaption>
 </figure>
 
+<p>&nbsp;</p>
 
 A frequent contributor of posts at the Discovery Institute's 
 site "Science and Culture Today", David Coppege, has sternly lectured us 
-evolutionary biologists: we "need a refresher".  He is 
+evolutionary biologists: we "need a refresher course in natural selection".  He is 
 really trying to straighten us out, wagging finger and all.
 
 I agree that someone needs a refresher, but in this case 
 think it's David Coppege.  Did he ever get "freshed" in the 
-first case.
+first case?
 
 Let's look at the points he made, and see whether any 
 of them are misconceptions, particularly ones we have 
