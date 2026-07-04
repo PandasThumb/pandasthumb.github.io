@@ -94,7 +94,7 @@ not explain.
 > Genetic drift. This is neutral variation without innovation, foresight or purpose. As geneticist John Sanford has shown, the accumulation of non-lethal mutations leads to genetic entropy, which trends toward extinction.
 
 I'm not sure anyone thinks genetic drift, by itself, has a tendency to 
-make adaptive change.  It can cause the g2enotypes to wander into 
+make adaptive change.  It can cause the genotypes to wander into 
 an area of genotypic space that has new peaks.  But it can equally-well 
 do the opposite.
 
