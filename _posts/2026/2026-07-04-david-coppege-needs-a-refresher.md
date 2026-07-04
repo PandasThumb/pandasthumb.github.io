@@ -6,8 +6,10 @@ Author: Joe Felsenstein
 
 <div align="center">
 <figure><img src="/uploads/2026/Tuatarab.jpg" alt="[A tuatara, which is not a lizard]" /><br/>
-<figcaption>Like Coppege's post, this one shows an image of a Tuatara.  I think<br/>
-that this one is better.  Like his image, this one is from Wikimedia.</figcaption>
+<figcaption>Like Coppege's post, this one shows an image of a Tuatara.  It is by 
+Michael Hamilton<br/>and is from Wikimedia and is under
+Creative Commons Attribution-Share Alike 3.0 <br/>I think 
+that this one is better.</figcaption>
 </figure>
 </div>
 
