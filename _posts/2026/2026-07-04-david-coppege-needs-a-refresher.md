@@ -63,7 +63,7 @@ Coppege again:
 
 > Negative selection. This only eliminates information or weeds out the “unfit.”
 
-In standard information theory,there is no difference between choosing an outcome or eliminating all other outcomes.  In evolutionary biology we are interested in the frequencies of genotypes in the population.  If you kill off some, then the fraction of the population that consists of the other genotypes gets larger.  And of course species have an excess of offspring, so the unfit are replaced. 
+In standard information theory,there is no difference between choosing an outcome or eliminating all other outcomes.  In evolutionary biology we are interested in the frequencies of genotypes in the population.  If you kill off some, then the fraction of the population that consists of the other genotypes gets larger.  And of course species have an excess of offspring, so the unfit are then replaced. 
 
 > Purifying selection, stabilizing selection, and balancing selection. These only remove harmful variations or preserve existing information.
 
@@ -104,7 +104,7 @@ And so on ...
 > 
 > Evolutionists sometimes claim that items in the above list, particularly 5 through 9, help the theory because they create opportunities for evolution. This is like saying that duplicating a dictionary, or splitting it in half, allows for new words with new meanings to “emerge.” Such question-begging is unlikely to convince a critical thinker.
 
-The dictionary example is lame.
+The dictionary example is particularly lame.
 
 > Does Positive Selection Exist?
 
