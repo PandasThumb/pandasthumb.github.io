@@ -3,6 +3,7 @@ title: 'Urophora cardui'
 date: '2026-07-06 12:00:00 -06:00'
 author: Matt Young
 ---
+<strong>Please do not forget the Photography Contest.  Entries close next Monday.</strong><br/>
 
 <figure>
 <img src="/uploads/2026/Thistle_Stem_Gall_Fly_600.jpg" alt="Photo of thistle stem gall fly"/>
