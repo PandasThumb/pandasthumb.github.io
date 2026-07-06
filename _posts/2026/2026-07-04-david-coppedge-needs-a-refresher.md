@@ -1,12 +1,12 @@
 ---
-title: David Coppege makes it clear a refresher course is needed
+title: David Coppedge makes it clear a refresher course is needed
 date: 2026-07-04 12:00:01 -08:00
 author: Joe Felsenstein
 ---
 
 <div align="center">
 <figure><img src="/uploads/2026/Tuatarab.jpg" alt="[A tuatara, which is not a lizard]" /><br/>
-<figcaption>Like Coppege's post, this one shows an image of a Tuatara.  It is by 
+<figcaption>Like Coppedge's post, this one shows an image of a Tuatara.  It is by 
 Michael Hamilton<br/>and is from Wikimedia and is under
 Creative Commons Attribution-Share Alike 3.0 <br/>license. I think 
 that this one is better.</figcaption>
@@ -16,12 +16,12 @@ that this one is better.</figcaption>
 <p>&nbsp;</p>
 
 A frequent contributor of posts at the Discovery Institute's 
-site "Science and Culture Today", David Coppege, has [sternly lectured](https://scienceandculture.com/2026/06/evolutionists-need-a-refresher-course-in-natural-selection/) us 
+site "Science and Culture Today", David Coppedge, has [sternly lectured](https://scienceandculture.com/2026/06/evolutionists-need-a-refresher-course-in-natural-selection/) us 
 evolutionary biologists: we "need a refresher course in natural selection".  He is 
 really trying to straighten us out, wagging finger and all.
 
 I agree that someone needs a refresher, but in this case 
-think it's David Coppege.  Did he ever get "freshed" in the 
+think it's David Coppedge.  Did he ever get "freshed" in the 
 first case?
 
 Let's look at the points he made, and see whether any 
@@ -29,7 +29,7 @@ of them are misconceptions, particularly ones we have
 exposed here as misconceptions, long before Coppege's 
 call for a refresher course.
 
-Coppege sets out his task thusly:
+Coppedge sets out his task thusly:
 
 > Abuses of the concept of natural selection abound not only in science news articles but in research papers in major scientific journals as well. It’s time for a remedial course.
 >
@@ -45,31 +45,31 @@ generation.  _By definition.  No personification needed._  It is just a matter o
 bookkeeping.  And that bookkeeping results in changes in the genetic 
 composition of the population.
 
-Wasn't Coppege taught this in his high school (secondary school) biology class? 
+Wasn't Coppedge taught this in his high school (secondary school) biology class? 
 Or in college? He has a B.S. degree in science education.  Maybe he missed a 
 few lectures.  The university where he studied was Bob Jones University.  Maybe 
 there was no good lecture on natural selection.
 
 <!--more-->
 
-Coppege then says that none of the following forms of "selection" (which he uses with those scare quotes) can "add new functional information".   (Note that functional information, as defined by Jack Szostak, Robert Hazen, and colleagues, means any change in the genomes of the population that gives the organisms higher fitness).
+Coppedge then says that none of the following forms of "selection" (which he uses with those scare quotes) can "add new functional information".   (Note that functional information, as defined by Jack Szostak, Robert Hazen, and colleagues, means any change in the genomes of the population that gives the organisms higher fitness).
 
 > Artificial selection. By definition, this can only be done by intelligent design. Darwin was notorious for analogizing human breeding into an argument for natural selection. As Robert Shedinger shows in his book Darwin’s Bluff, Darwin never corrected this fallacy even when it was pointed out to him. Artificial selection includes so-called “directed evolution” experiments that employ random variations, because the “selector” is a human with foresight.
 
-This is confused.  Coppege is mad at Darwin for analogizing natural selection to artificial selection.  And Darwin did not "correct" himself.  Probably because Darwin did not agree that he had been incorrect.  Coppege knows artificial selection works, and wants us to ignore the conclusion that natural selection -- situations where a character has higher or lower fitnesses depending on its value -- would by direct analogy, result in change.  
+This is confused.  Coppedge is mad at Darwin for analogizing natural selection to artificial selection.  And Darwin did not "correct" himself.  Probably because Darwin did not agree that he had been incorrect.  Coppedge knows artificial selection works, and wants us to ignore the conclusion that natural selection -- situations where a character has higher or lower fitnesses depending on its value -- would by direct analogy, result in change.  
 
 For an explanation of why artificial selection is _not_ a form of intelligent design, but is more similar to 
 natural selection, see my [post of 15 September 2024 at PT](https://pandasthumb.org/archives/2024/09/artificial.html).
 
-Coppege again:
+Coppedge again:
 
 > Negative selection. This only eliminates information or weeds out the “unfit.”
 
-In standard information theory,there is no difference between choosing an outcome or eliminating all other outcomes.  In evolutionary biology we are interested in the frequencies of genotypes in the population.  If you kill off some, then the fraction of the population that consists of the other genotypes gets larger.  And of course species have an excess of offspring, so the unfit are then replaced. 
+In standard information theory, there is no difference between choosing an outcome or eliminating all other outcomes.  In evolutionary biology we are interested in the frequencies of genotypes in the population.  If you kill off some, then the fraction of the population that consists of the other genotypes gets larger.  And of course species have an excess of offspring, so the unfit are then replaced. 
 
 > Purifying selection, stabilizing selection, and balancing selection. These only remove harmful variations or preserve existing information.
 
-Same problem with Coppege's argument.
+Same problem with Coppedge's argument.
 
 And we have already had a post at PT on this, 
 [my post of 6 June 2023 at PT](https://pandasthumb.org/archives/2023/06/diexperts.html)
@@ -110,10 +110,10 @@ The dictionary example is particularly lame.
 
 > Does Positive Selection Exist?
 
-The rest of Coppege's post is a diatribe about how positive selection can 
+The rest of Coppedge's post is a diatribe about how positive selection can 
 only succeed if it can bring about "voluminous instances of innovation".
 This is the same old argument we have seen many times from ID advocates 
-and creationists. Coppege actually admits that positive selection exists while 
+and creationists. Coppedge actually admits that positive selection exists while 
 trying to make it sound as if it can't accomplish anything of interest.
 
 He ends by citing some examples of biologists invoking selection 
