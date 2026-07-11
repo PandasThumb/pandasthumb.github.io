@@ -22,7 +22,7 @@ really trying to straighten us out, wagging finger and all.
 
 I agree that someone needs a refresher, but in this case 
 think it's David Coppedge.  Did he ever get "freshed" in the 
-first case?
+first place?
 
 Let's look at the points he made, and see whether any 
 of them are misconceptions, particularly ones we have 
