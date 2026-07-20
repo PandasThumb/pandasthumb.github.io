@@ -1,5 +1,5 @@
 ---
-title: Can natural selection make ordered complexity? 
+title: Can natural selection make organized complexity? 
 date: 2026-07-20 12:00:01 -0.8:00
 author: Joe Felsenstein
 ---
