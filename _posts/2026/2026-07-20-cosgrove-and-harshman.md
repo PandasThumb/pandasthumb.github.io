@@ -6,10 +6,9 @@ author: Joe Felsenstein
 
 <div align="center">
 <figure><img width="500" src="https://pandasthumb.org/uploads/2023/Six_Grandfathers.jpg" /><br/>
-<figcaption>The cliff known to the Lakota people as Six Grandfathers, now<br/>
-known as Mount Rushmore.  From Wikimedia, public domain. (We've been using<br/>
-this for all posts concerning reviews of the 2nd edition of <em>The Design<br/>
-Inference</em></figcaption>
+<figcaption>The cliff known to the Lakota people as Six Grandfathers, now known<br/?
+as Mount Rushmore.  From Wikimedia, public domain. (We've been using this for<br/>
+all posts concerning reviews of the 2nd edition of <em>The Design Inference</em></figcaption>
 </figure>
 </div>
 
