@@ -1,6 +1,6 @@
 ---
 title: 'An unhappy birthday: Lamarck is misrepresented'
-date: 2026-08-01 23:00:01 -08:00
+date: 2026-08-01 22:00:01 -08:00
 author: Joe Felsenstein
 ---
 
