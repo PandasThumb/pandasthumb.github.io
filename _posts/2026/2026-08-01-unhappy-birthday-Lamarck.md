@@ -4,7 +4,7 @@ date: 2026-08-01 20:00:01 -08:00
 author: Joe Felsenstein
 ---
 
-<figure><img src="LamarckStatue.JPG" alt="[Leon Fagel statue of Lamarck]" />
+<figure><img src="/uploads/2026/LamarckStatue.JPG" alt="[Leon Fagel statue of Lamarck]" />
 <center>
 <figcaption>1909 Statue of Lamarck by L&eacute;on Fagel in the Jardin des Plantes, Paris.<br/>
 Image by or	Cedricguppy - Loury Cédric.  Wikimedia Creative Commons license v4.0.</figcaption>
