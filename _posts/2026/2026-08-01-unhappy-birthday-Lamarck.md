@@ -56,3 +56,4 @@ posted this at Science &&amp; Culture Today:
 book on the role of epigenetics by Thomas Woodward and James Gillis, published this year by Discovery Institute Press.</item>item>
 </ul>
 
+https://news.stanford.edu/stories/2026/03/diving-mind-pioneering-french-biologist-jean-baptiste-lamarck  Jessica Riskin
