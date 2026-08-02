@@ -63,7 +63,7 @@ Pim Edelaar has recently published a book calling for evolutionary
 biology to be reconceived with Lamarckian mechanisms in a central role.
 [__Here__](https://theconversation.com/updating-darwin-biologists-are-returning-to-an-older-theory-to-explain-anomalies-in-evolution-276549) is a post at The Conversation in which he summarizes the book.
 
-And [__here__](https://news.stanford.edu/stories/2026/03/diving-mind-pioneering-french-biologist-jean-baptiste-lamarck) is an article on a new book by Jessica Riskin arguing that Lamarckian though should be given a central place in evolutionary biology.
+And [__here__](https://news.stanford.edu/stories/2026/03/diving-mind-pioneering-french-biologist-jean-baptiste-lamarck) is an article on a new book by Jessica Riskin arguing that Lamarckian thought should be given a central place in evolutionary biology.
 
-I think that all this is wrong.  Let's dicuss ...
+I think that all this is wrong.  Let's discuss ...
 
