@@ -46,10 +46,13 @@ The discovery of "epigenetic" modifications of genes, ones
 which can be influenced by the environment has led 
 enthusiasts for them to declare that they vindicate 
 Lamarck's theory.  
-Here are some other interpretations of Lamarck promoted by the Discovery Institute
+Here are some interpretations of Lamarck along those lines promoted by the Discovery Institute
 
-Michael Flannery, a historian associated with the old-earth creationist site Reasons To Believe, 
+<ul>
+<item>Michael Flannery, a historian associated with the old-earth creationist site Reasons To Believe, 
 posted this at Science &&amp; Culture Today:
-https://scienceandculture.com/2026/07/re-evaluating-lamarcks-contribution-to-evolutionary-thought/
-Andrew Macdiarmid, a Discovery Institute staff member, has posted [__here__](https://scienceandculture.com/2026/06/new-book-epigenome-is-the-genomes-sophisticated-dance-partner/) promoting a 
-book on the role of epigenetics by Thomas Woodward and James Gillis, published by Discovery Institute Press. 
+[https://scienceandculture.com/2026/07/re-evaluating-lamarcks-contribution-to-evolutionary-thought/](https://scienceandculture.com/2026/07/re-evaluating-lamarcks-contribution-to-evolutionary-thought/)</item>
+<item>Andrew Macdiarmid, a Discovery Institute staff member, has posted [__here__](https://scienceandculture.com/2026/06/new-book-epigenome-is-the-genomes-sophisticated-dance-partner/) promoting a 
+book on the role of epigenetics by Thomas Woodward and James Gillis, published this year by Discovery Institute Press.</item>item>
+</ul>
+
