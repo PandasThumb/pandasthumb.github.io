@@ -48,12 +48,24 @@ enthusiasts for them to declare that they vindicate
 Lamarck's theory.  
 Here are some interpretations of Lamarck along those lines promoted by the Discovery Institute
 
-<ul>
-<item>Michael Flannery, a historian associated with the old-earth creationist site Reasons To Believe, 
+* Michael Flannery, a historian associated with the old-earth creationist site Reasons To Believe, 
 posted this at Science &&amp; Culture Today:
-[https://scienceandculture.com/2026/07/re-evaluating-lamarcks-contribution-to-evolutionary-thought/](https://scienceandculture.com/2026/07/re-evaluating-lamarcks-contribution-to-evolutionary-thought/)</item>
-<item>Andrew Macdiarmid, a Discovery Institute staff member, has posted [__here__](https://scienceandculture.com/2026/06/new-book-epigenome-is-the-genomes-sophisticated-dance-partner/) promoting a 
-book on the role of epigenetics by Thomas Woodward and James Gillis, published this year by Discovery Institute Press.</item>item>
-</ul>
+[https://scienceandculture.com/2026/07/re-evaluating-lamarcks-contribution-to-evolutionary-thought/](https://scienceandculture.com/2026/07/re-evaluating-lamarcks-contribution-to-evolutionary-thought/)
 
-https://news.stanford.edu/stories/2026/03/diving-mind-pioneering-french-biologist-jean-baptiste-lamarck  Jessica Riskin
+* Andrew Macdiarmid, a Discovery Institute staff member, has posted [__here__](https://scienceandculture.com/2026/06/new-book-epigenome-is-the-genomes-sophisticated-dance-partner/) promoting a 
+book on the role of epigenetics by Thomas Woodward and James Gillis, published this year by Discovery Institute Press.
+
+There are a number of other books arguing that evolutionary biologists have been 
+neglecting Lamarckian mechanisms:
+
+Eva Jablonka has written or edited a quite a few books arguing that.  [__Here__](https://www.amazon.com/Transformations-Lamarckism-Vienna-Theoretical-Biology/dp/0262527502/) is 
+an edited volume on this.
+
+Pim Edelaar has recently published a book calling for evolutionary 
+biology to be reconceived with Lamarckian mechanisms in a central role.
+[__Here__](https://theconversation.com/updating-darwin-biologists-are-returning-to-an-older-theory-to-explain-anomalies-in-evolution-276549) is a post at The Conversation in which he summarizes the book.
+
+And [__here__](https://news.stanford.edu/stories/2026/03/diving-mind-pioneering-french-biologist-jean-baptiste-lamarck) is an article on a new book by Jessica Riskin arguing that Lamarckian though should be given a central place in evolutionary biology.
+
+I think that all this is wrong.  Let's dicuss ...
+
