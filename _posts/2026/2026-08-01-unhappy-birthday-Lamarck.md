@@ -1,5 +1,5 @@
 ---
-title: An unhappy birthday: Lamarck is misrepresented
+title: An unhappy birthday\: Lamarck is misrepresented
 date: 2026-08-01 20:00:01 -08:00
 author: Joe Felsenstein
 ---
