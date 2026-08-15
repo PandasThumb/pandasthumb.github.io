@@ -1,6 +1,6 @@
 ---
 title: 'Is evolution defied because life is an "idea"? '
-date: 2026-08-16 -08:00
+date: 2026-08-15 -08:00
 author: Joe Felsenstein
 ---
 
