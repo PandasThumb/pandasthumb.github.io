@@ -5,7 +5,7 @@ author: Joe Felsenstein
 ---
 
 <div align="center">
-<figure><img src="Ursusarctos.jpg" alt="[Brown Bear]" />
+<figure><img src="/upload/2026/Ursusarctos.jpg" alt="[Brown Bear]" />
 <figcaption>Kamchatka Brown Bear (<em>Ursus arctos</em>), By Robert F. Tobler Wikimedia CC BY-SA 4.0<figcaption>
 </figure></div>
 
