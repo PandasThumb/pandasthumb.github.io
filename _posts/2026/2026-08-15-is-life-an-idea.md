@@ -13,7 +13,7 @@ author: Joe Felsenstein
 
 Eric Hedin had a post at Science & Culture Today (The Discovery Institute's former 
 Evolution News) that seems to fully commit to Platonic idealism and to teleology. 
-Which is surprising since he is a Ph.D. in particle physice, from my own 
+Which is surprising since he is a Ph.D. in particle physics, from my own 
 University.  It will be found [__here__](https://scienceandculture.com/2026/07/in-defiance-of-evolution-life-is-an-idea/).
 
 Its final two paragraphs will give you the general drift, but you should read Hedin's post, which is short:
