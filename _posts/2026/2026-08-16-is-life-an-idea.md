@@ -1,5 +1,5 @@
 ---
-title: 'Is evolutuion defied and is life an "idea"? '
+title: 'Is evolution defied because life is an "idea"? '
 date: 2026-08-16 -08:00
 author: Joe Felsenstein
 ---
