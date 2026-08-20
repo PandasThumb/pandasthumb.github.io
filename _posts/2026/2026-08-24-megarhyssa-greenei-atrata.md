@@ -31,6 +31,6 @@ He continues, In Charles Darwin's 1860 letter to Asa Gray, he wrote:
 
 <img src="/uploads/2026/4b-Schongalla_Megarhyssa_atrata.jpg" alt=""/>
 
-<figcaption><i><a href=""></a></i> &ndash; </figcaption>
+<figcaption><i>M. atrata.</i> </figcaption>
 
 </figure>
