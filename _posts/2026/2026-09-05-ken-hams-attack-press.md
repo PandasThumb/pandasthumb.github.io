@@ -7,7 +7,7 @@ author: Dan Phelps
 
 <img src="/uploads/2026/Phelps_Ark_On_Opening_Day.jpg" alt="The fake ark on opening day, by Dan Phelps."/>
 
-<figcaption>The "Ark" on opening day. <small>Photograph by Dan Phelps. <small></figcaption>
+<figcaption>The "Ark" on opening day. <small>Photograph by Dan Phelps. </small></figcaption>
 
 </figure>
 
