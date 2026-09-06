@@ -1,0 +1,290 @@
+---
+title: 'Ken Ham&apos;s attack on the press'
+date: '2026-09-05 19:36:00 -06:00'
+author: Dan Phelps
+---
+<figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
+
+<img src="/uploads/2026/Phelps_Ark_On_Opening_Day.jpg" alt="The fake ark on opening day, by Dan Phelps"/>
+
+<figcaption>The "Ark" on opening day. <small>Photograph by Dan Phelps.<a href=""></a>. <small></figcaption>
+
+</figure>
+
+Recently, Marina Johnson of the Louisville Courier-Journal and Jolene Almendarez of the Cincinnati Enquirer <a href="https://www.courier-journal.com/story/news/local/2026/08/21/kentuckys-ark-encounter-ticket-sales-are-down-over-past-decade/91402856007/">duplicated some of my work and documented declining Ark ticket sales</a> (they confirmed what I have been documenting for many months. They also confirmed that the sales tax rebate incentive from Kentucky Tourism ended in mid-August, 2026).  
+
+Tellingly, <i>Ken Ham refused to be interviewed for this story.</i> Rather, on August 25, Mr. Ham responded with an <a href="https://youtu.be/i9WPEFfKNPM?is=YIVzzJTirjV_ChED">AIG-produced video</a>. The video is filled with "jokes" and brief cuts of Donald Trump. 
+
+Apparently, Mr. Ham doesn't like speaking to reporters who might ask him difficult questions. Mr. Ham spent more time in this video discussing declining newspaper sales than the fact that his Ark is selling fewer tickets every year. He basically admitted that ticket sales are declining but deflected the issue by pointing out that the newspaper that originally published the story (the Cincinnati <i>Enquirer</i>) has declining sales. Mr. Ham is such a master of obfuscation that his followers are likely to not understand the deceitful and irrelevant switch in topics.
+
+<!--more-->
+
+<strong>Ark Attendance through July 2026</strong>
+
+According to my monthly Kentucky Open Records Act (KORA) request, in July 2026 the Ark sold 105,911 tickets. This is approximately 1,700 more than were sold in July 2025, but far less than July of any other year except 2020 (which is easily attributable to COVID).
+
+Although there was a tiny increase in July, these numbers indicate that the Ark will never come near the 1.2 to 2.2 million projected by Answers in Genesis when they were begging and bullying to get numerous perks from Kentucky State Government, Grant County, and the City of Williamstown. To the contrary, they could possibly sell 700,000 tickets this year (the Ark sold 652,342 tickets in 2025). These attendance numbers don't include children under 10 and lifetime pass holders, but it is difficult to see how these additional factors would total more than a half-million additional visitors.
+
+These declining numbers matter because the Ark lied to the Commonwealth of Kentucky, Grant County, Williamstown, and others when they were bullying these entities into providing incentives, free land, tax breaks, and many other perks when the Ark was first proposed. William Trollinger has documented that in the Ark's <a href="https://highyieldmunicipals.wordpress.com/wp-content/uploads/2013/10/williamstown-ky-ark-encounter-pos.pdf">own feasibility study</a> when it was yet to be built, the theme park would be getting around 2.5 million visitors per year by now. (See also <a href="https://rightingamerica.net/sinking-further-and-further-below-their-projections-the-facts-of-ark-encounter-attendance">here</a>.
+
+I am still predicting that in coming months the Ark will switch from for-profit status to non-profit because the tax rebate incentives are ending. This will result in a financial loss for the City of Williamstown, which gets a 50 cents per ticket safety fee for each ticket the Ark sells. This safety fee is how I monitor Ark ticket sales every month. The safety fee supports Williamstown EMT/police/fire department because of the possible effects of the Ark on these services. When the safety fee ends we will be in the dark as to ticket sales. The attendance numbers don't include free admission for children under 10 and yearly or lifetime pass holders, as Mr. Ham asserted. However, Mr. Ham knows what the precise attendance is and could easily release his numbers, but tellingly he declines to do so. He will continue to avoid a skeptical press and merely produce propaganda for his followers.
+
+<strong>Appendix. Ark Safety Numbers via Kentucky Open Records Act Requests from Williamstown, Ky. </strong>
+
+<i>Dan Phelps has doggedly been monitoring the attendance at the Ark Park since its inception in 2017. Specifically, he uses the Kentucky Open Records Act to obtain the $0.50/ticket safety fee that the Ark pays to the municipality each month and thereby estimates the total attendance. There may be one more entry for August.</i> 
+
+2017: (July-December total 514,162) 
+
+July: 142,626 (Safety Fee amount: $71,313.00) 
+
+August: 106,161 ($53,080.50) 
+
+September: 83,330 ($41,665.00) 
+
+October: 93,659 ($46,829.50) 
+
+November: 51,914 ($25,957.00) 
+
+December: 36,472 ($18,236.00) 
+
+
+
+<br/>2018: (Total 827,591) 
+
+January: 13,250 ($6,625.00) 
+
+February: 17,961 ($8,980.50) 
+
+March: 62,251 ($31,125.50) 
+
+April: 67,613 ($33,806.50) 
+
+May: 73,353 ($36,676.50) 
+
+June: 113,901 ($56,950.50) 
+
+July: 135,922 ($67,961.00)  
+
+August: 98,106 ($49,053.00) 
+
+September: 69,207 ($34,603.50)  
+
+October: 89,434 ($44,717.00)  
+
+November: 40,193 ($20,096.50) 
+
+December: 46,400 ($24,200.00) 
+
+
+
+<br/>2019: (Total 897,189) 
+
+January: 14,885 ($7,442.50) 
+
+February: 16,328 ($8,164.00) 
+
+March 2019: 70,466 ($35,233.00) 
+
+April 2019: 79,908 ($39,554.00) 
+
+May 2019: 90,803 ($45,401.50) 
+
+June 2019: 124,230 ($62,115.00) 
+
+July 2019: 160,124 ($80,062.00) 
+
+August 2019: 104,350 ($52,175) 
+
+September 2019: 73,541 ($36,770.50) 
+
+October 2019: 86,998 ($43,494.00) 
+
+November 2019: 37,686 ($18,881) 
+
+December 2019: 37,880 ($18,940) 
+
+
+
+<br/>2020: (Total 347,684* Covid year) 
+
+January 2020: 15,790 ($7,895.00) 
+
+February 2020: 17,290 ($8,645.00) 
+
+March 2020: 15,145($7572.50) 
+
+April 2020: 0 ($0) 
+
+May 2020: 2,047 ($1,023.50) 
+
+June 2020: 40,434 ($20,217.00) 
+
+July 2020: 57,632 ($28,816.00) 
+
+August 2020: 46,562 ($23,281.00) 
+
+September 2020: 44,571 ($22,285.50) 
+
+October 2020: 49,835 ($24,917.50) 
+
+November 2020: 24,105 ($12,052.50) 
+
+December 2020: 34,273 ($17,136.50) 
+
+
+
+<br/>2021: (Total 772,156) 
+
+January 2021: 11,354 ($5,677) 
+
+February 2021: 11,577 ($5,788.50) 
+
+March 2021: 57, 801 ($28,900.50) 
+
+April 2021: 64,479 ($32,239.50) 
+
+May 2021: 76,089 ($38,044.50) 
+
+June 2021: 109,694 ($54,847) 
+
+July 2021: 134,945 ($67,472.50) 
+
+August 2021: 83,826 ($41,913.00) 
+
+September 2021: 64,301 ($32,150.50) 
+
+October 2021: 73,328 ($36,664.00) 
+
+November 2021: 44,291 ($22,145.50) 
+
+December 2021: 40,671 ($20,335.50) 
+
+
+
+<br/>2022: (Total 748,354) 
+
+January 2022: 11,030 ($5,515.00) 
+
+February 2022: 10,826 ($5,413.00) 
+
+March 2022: 59,428 ($29,714.00) 
+
+April 2022: 69,068 ($34 534.00) 
+
+May 2022: 81,378 ($40,689.00) 
+
+June 2022: 102,639 ($51,319.50) 
+
+July 2022: 110,098 ($55,049.00) 
+
+August 2022: 83,638 ($41,819.00) 
+
+September 2022: 68,301 ($34,150.50) 
+
+October 2022: 74,864 ($37,432.00) 
+
+November 2022: 39,125 ($19562.50) 
+
+December 2022: 37,959 ($18,979.50) 
+
+
+
+<br/>2023: (Total 786,829) 
+
+January 2023: 14,724 ($7,362.00) 
+
+February 2023: 23,020 ($11,510.00) 
+
+March 2023: 66,390 ($33,195.00) 
+
+April 2023: 70,700 ($35,350.00) 
+
+May 2023:82,585 ($41,292.50) 
+
+June 2023: 111,256 ($55,628.00) 
+
+July 2023: 123,777 ($61,888.50) 
+
+August 2023: 79,576 ($39,798.00) 
+
+September 2023: 66,460 ($33,230.00) 
+
+October 2023: 69,773 ($34,886.50) 
+
+November 2023: 38,768 ($19,384.00) 
+
+December 2023: 39,780 ($19,890.00) 
+
+
+
+<br/>2024: (Total 743,572) 
+
+January 2024: 13,405 ($6,702.50) 
+
+February 2024: 21,351 ($10,675.50) 
+
+March 2024: 67,582 ($33,791.00) 
+
+April 2024: 66,681 ($33,340.50) 
+
+May 2024: 75,546 ($37,773.00) 
+
+June 2024: 101,559 ($50,799.50) 
+
+July 2024: 116,908 ($58,454.00) 
+
+August 2024: 82,477 ($41,238.50) 
+
+September 2024: 54,378 ($27,189.00) 
+
+October 2024: 63,912 ($31,956.00) 
+
+November 2024: 40,572 ($20,286.00) 
+
+December 2024: 39,201 ($19,600.50) 
+
+
+
+<br/>2025: (Total 652,342) 
+
+January 2025: 17,846 ($8,923.00) 
+
+February 2025: 15,699 ($7,849.50) 
+
+March 2025: 57,337 ($28,668.50) 
+
+April 2025: 43,019 ($21,509.50) 
+
+May 2025: 59,268 ($29,634.00) 
+
+June 2025: 91,484 ($45,742.00) 
+
+July 2025: 104,136 ($52,068.00) 
+
+August 2025: 73,313 ($36,656.50) 
+
+September 2025: 53,425 ($26,712.50) 
+
+October 2025: 66,158 ($33,079.00) 
+
+November 2025: 35,434 ($17,717.50)
+
+December 2025: 35,223 ($17,611.50)
+
+
+
+<br/>2026
+
+January 2026: 17,845 ($8,922.50) 
+
+February 2026: 17,326 ($8,663.00)
+
+March 2026: 54,042 ($27,042.00 [sic - should be $27,021.00]
+
+April 2026: 57,159 ($28,579.50) 
+
+May 2026: 67,204 ($33,602.00)
+
+June 2026: 96,004 ($48,002.00)
+
+July 2026: 105,911 ($53,680.50)
