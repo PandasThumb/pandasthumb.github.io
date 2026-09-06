@@ -5,9 +5,9 @@ author: Dan Phelps
 ---
 <figure class="on-the-left-side" style="margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;">
 
-<img src="/uploads/2026/Phelps_Ark_On_Opening_Day.jpg" alt="The fake ark on opening day, by Dan Phelps"/>
+<img src="/uploads/2026/Phelps_Ark_On_Opening_Day.jpg" alt="The fake ark on opening day, by Dan Phelps."/>
 
-<figcaption>The "Ark" on opening day. <small>Photograph by Dan Phelps.<a href=""></a>. <small></figcaption>
+<figcaption>The "Ark" on opening day. <small>Photograph by Dan Phelps. <small></figcaption>
 
 </figure>
 
