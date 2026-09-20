@@ -80,10 +80,12 @@ I contacted a reporter from the Grant County News about this matter. She said th
 There is no public record of the decision to reacquire the property, and no vote, no discussion of why it was deemed to not be suitable for a fire station in 2022 (but suddenly the property is or might be suitable in 2026).
 
 Questions for the Mayor and City Council of Williamstown include:
-<ul><li>Is Williamstown going to build a fire station on the property or not?  
+<ul>
+  <li>Is Williamstown going to build a fire station on the property or not?</li>    
 <li>If not, what are the plans for the property since it is landlocked by Ark property? </li> 
 <li>Since it is surrounded by Ark property, which is private, how can the city and its residents possibly make use of that property? </li> 
-<li>There is no record of any public vote on reacquiring the property. Why?</li></ul>
+<li>There is no record of any public vote on reacquiring the property. Why?</li>
+</ul>
 
 Interestingly enough, AIG probably could easily raise its own funds to build their own fire station without getting the City to build it or finance it any way. In spite of declining ticket sales, the Ark is afloat in cash from donations. As I write this, Ken Ham has announced a <a href="https://answersingenesis.org/blogs/ken-ham/2026/09/15/engine-of-answers-in-genesis/">$24 million fundraiser</a>. A day and a half after the announcement, the multi-month fundraiser has already raised more than $2.4 million.
 
