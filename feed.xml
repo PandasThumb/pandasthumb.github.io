@@ -1,238 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://pandasthumb.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pandasthumb.org/" rel="alternate" type="text/html" /><updated>2026-09-27T16:54:29-07:00</updated><id>https://pandasthumb.org/feed.xml</id><title type="html">The Panda’s Thumb</title><entry><title type="html">Was I wrong about fitness surfaces? Reply to reply to reply to Dembski</title><link href="https://pandasthumb.org/archives/2026/09/Reply-to-Dembski.html" rel="alternate" type="text/html" title="Was I wrong about fitness surfaces? Reply to reply to reply to Dembski" /><published>2026-09-27T13:00:01-07:00</published><updated>2026-09-27T13:00:01-07:00</updated><id>https://pandasthumb.org/archives/2026/09/Reply-to-Dembski</id><content type="html" xml:base="https://pandasthumb.org/archives/2026/09/Reply-to-Dembski.html">&lt;p&gt;========================================
-Dembski’s critique:&lt;/p&gt;
-
-&lt;p&gt;By themselves, the no-free-lunch theorems do not
-refute Darwinism, nor have I ever claimed that they
-do. Yes, I wrote a book titled No Free Lunch (pub
-lished in 2002) that used the no-free-lunch theorems as
-a springboard to critically re-examine the power of the
-Darwinian mechanism in explaining biological complexity
-and from there to argue that design is a better expla
-nation of biological complexity. Yet Darwinian critics
-of conservation of information have ever since conflated
-Volume 2025 | Issue 2 | Page 32
-conservation of information with no free lunch, arguing
-The Law of Conservation of Information
-(rightly) that no free lunch fails to refute Darwinism, but
-then claiming (wrongly) that conservation of information
-is identical with no free lunch and thus likewise fails.
-Hence the fallacy of false equivalence, in which these
-critics refute what was not contested and then claim that
-the refutation refutes something else.
-Joseph Felsenstein is a case in point, but he is rep
-resentative of Jason Rosenhouse, the late Mark Perakh,
-Richard Wein, Erik Tellgren, Ole H¨aggstr¨om, and the
-duo of Wesley Elsberry and Jeffrey Shallit.43 The no
-free-lunch theorems show that any algorithm averaged
-over fitness landscapes (Felsenstein calls them “fitness
-surfaces”) is equivalent to any other algorithm when aver
-aged in this way. It then follows that any such averaged
-algorithm is equivalent to blind search. In the statement
-of these theorems, no restriction is placed on the fitness
-landscapes. Thus they can be completely jagged, with
-one member of the configuration space having a com
-pletely different fitness value from an immediate neighbor.
-Most fitness landscapes would thus be like hash functions
-in cryptography (Felsenstein describes them as “white
-noise fitness surfaces”) where the slightest change in an
-input completely alters the numerical output [42].
-Now Felsenstein’s point is that such jagged fitness
-landscapes, as allowed by no-free-lunch theorems, violate
-biological reality. The fitness landscapes conducive to
-evolvability, such as might characterize how genotypes
-promote reproductive success, must, according to him,
-be smooth. Why? Because of physics. Thus he remarks:
-[I]t seems reasonable that physics itself predis
-poses fitness surfaces to be smooth. After all,
-the forces of physics tend to be local in time
-and space and to lose influence with greater
-distance. If I gesture with my fingers, there
-is hardly any effect on objects at a distance.
-The floor of our room does not collapse, nor
-does the ceiling cave in. Different objects are
-scarcely affected by each other.44
-The problems with this reasoning are numerous. In the
-first place, physics does have a place for precipitous and
-even nonlocal effects. Quantum entanglement is instan
-taneous and unaffected by distance. Phase transitions
-in nonlinear dynamics may produce radical changes in
-the behavior of a system with but the slightest change
-in a parameter. Felsenstein’s argument is based on folk
-physics, not modern physics and as such is unconvincing.
-43See
-guments,”
-Joseph
-Felsenstein,
-Panda’s
-“Conservation
-Thumb
-(February
-6,
-of
-Ar
-2025):
-https://pandasthumb.org/archives/2025/02/Conservation
-of-arguments.html (last accessed February 24, 2025). For the
-criticisms by Rosenhouse et al., see the relevant links in the
-Felsenstein article.
-44Felsenstein, “Conservation of Arguments.”
-Leaving aside physics, Felsenstein cites mutational
-effects as empirical evidence for smoothness of fitness
-landscapes. In fact, he defines smoothness to mean
-that small mutational changes lead to small functional
-changes. According to Felsenstein, the empirical evidence
-shows that single mutations typically result in small, pre
-dictable changes rather than chaotic, random effects. But
-smoothness in this sense admits striking exceptions. A
-host of serious genetic diseases such as sickle cell ane
-mia, phenylketonuria, and Tay-Sachs disease all result
-from single point mutations. Nonsense mutations, where
-a single nucleotide substitution produces a stop codon
-within a coding sequence, cause premature termination
-of protein synthesis, sometimes with lethal consequences.
-Frameshift mutations, which may be caused by a single
-nucleotide insertion or deletion, completely disrupt pro
-tein synthesis downstream of the mutation, often with
-huge consequences. And even single amino-acid substitu
-tions caused by single nucleotide substitutions can have
-drastic effects, depending on the location and the role of
-the protein. Thus, contrary to Felsenstein’s smoothness
-hypothesis, minor genetic change can and does lead to a
-catastrophic loss of function.
-According to Bill Gates, “DNA is like a computer pro
-gram but far, far more advanced than any software ever
-created” [43, p. 188]. But, as we just saw, smoothness
-admits exceptions with digital codes in cells. Likewise,
-it admits exceptions with digital codes in computer soft
-ware. In fact, it is fairer to say that smoothness is the
-exception rather than the rule in computer programs.
-Indeed, one stray letter, one comma out of place, can sub
-vert a program, preventing it from achieving its objective,
-if it even functions at all.
-Evolutionists never define smoothness of fitness land
-scapes with anything like mathematical precision. But
-let us say that smoothness could be made mathemati
-cally precise and that for biological evolution to work it
-requires smooth fitness landscapes. Smoothness, even
-then, cannot guarantee the evolvability needed for Dar
-winian theory to be successful. Smoothness has to mean
-something like that by moving to near neighbors, fitness
-should not change drastically. Empirical evidence from
-some genetic diseases, as noted, contradicts smoothness
-in this sense. But even if smoothness could be said to
-hold most of the time, it says nothing about regions
-of a biological configuration space where fitness is zero.
-Indeed, fitness landscapes that are zero over such regions
-are as smooth as they can be over those regions. More
-over, if fitness is zero over sufficiently vast regions of
-a configuration space, the viable candidates for evolu
-tion will be sparsely distributed, drastically curtailing
-evolvability.
-Additionally, smoothness does nothing to assuage the
-problem of multiple local optima where fitness cannot be
-improved by gradual evolution. In this case, evolution
-Volume 2025 | Issue 2 | Page 33
-The Law of Conservation of Information
-gets stuck because it cannot break away from those
-local optima, there being no gradual way for fitness to
-improve. Fortunately, evolution allows for more radical
-genetic events than point mutations, such as inversions,
-translocations, deletions, and duplications. But in that
-case, smoothness loses its hold because, with such large
-scale structural changes, all bets are off as to what effect
-they may have on evolution. Smoothness is essentially a
-continuity condition, and continuity is always a matter
-of small local changes in an independent variable leading
-to small changes in a dependent variable. Smoothness
-says nothing about how the dependent variable may
-change in response to large-scale non-local changes in the
-independent variable. And genetics allows such changes.
-Felsenstein’s argument can thus be summarized as
-follows:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Real-life biological evolution requires smooth fit
-ness landscapes.&lt;/li&gt;
-  &lt;li&gt;Physics and chemistry guarantee that real-life fit
-ness landscapes are smooth.&lt;/li&gt;
-  &lt;li&gt;Any probability estimates of smooth fitness land
-scapes among the totality of fitness landscapes are
-therefore irrelevant.&lt;/li&gt;
-  &lt;li&gt;No-free-lunch theorems hold for the totality of fit
-ness landscapes, both smooth and non-smooth.&lt;/li&gt;
-  &lt;li&gt;No-free-lunch theorems therefore do not apply to
-real-life biological evolution.&lt;/li&gt;
-  &lt;li&gt;Conservation of information is equivalent to no free
-lunch, so conservation of information is likewise
-irrelevant to real-life biological evolution.
-Felsenstein’s argument is problematic for more than
-just point 6. As we’ve seen, smoothness as applied to
-fitness landscapes in evolution is questionable on both
-theoretical and empirical grounds. Points 1 to 3 are
-therefore problematic. But even granting points 1 to
-5, the falsity point 6 means conservation of information
-puts design back in the running in biology. Even though
-Felsenstein mistakenly conflates of the two, conservation
-of information is distinct from no free lunch. Whatever
-fitness landscapes and other conditions on evolvability
-are needed to bring about a system like Douglas Axe’s
-beta-lactamase, if those conditions raise the probability
-of success of evolving such a system, those conditions
-themselves become highly improbable and require expla
-nation.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The baseline probability for a system like beta
-lactamase is indeed small because of the radical con
-tingency and numerous degrees of freedom of its peptide
-constituents (see Subsection 10.4). Evolvability therefore
-grinds to a halt unless it can overcome these otherwise
-inherent improbabilities (just as, in Section 8, Dawkins’
-hill-climbing algorithm overcame the inherent improba
-bility of generating by purely random means the target
-phrase METHINKS IT IS LIKE A WEASEL). Conser
-vation of information tracks the probabilistic cost of
-overcoming improbability. As such, conservation of infor
-mation is not concerned with the details of how evolution
-does it. In particular, it is irrelevant if smooth fitness
-landscapes, however these are defined, are improbable
-within a wider class of fitness landscapes, and whether a
-no-free-lunch theorem exists or does not exist to tease
-apart the fitness landscapes that facilitate evolution from
-those that do not.&lt;/p&gt;
-
-&lt;p&gt;The fundamental problem with Felsenstein’s critique
-of conservation of information is this: it is simply irrel
-evant whether no-free-lunch theorems undercut or fail
-to undercut Darwinian evolution. What is relevant is
-that no-free-lunch theorems have no way to undercut
-conservation of information. Conflating the two is ille
-gitimate. True, in the history of scientific discovery, no
-free lunch preceded and provided inspiration for conser
-vation of information. No free lunch showed that when
-averaged over fitness landscapes, no search algorithm
-outperformed any other. But some search algorithms
-do outperform others for given problems. What, then,
-empowers some algorithms to outperform others? The
-short answer: information.&lt;/p&gt;
-
-&lt;p&gt;No free lunch raises the right question but by itself
-does not answer it. The answer depends on conservation
-of information. Conservation of information characterizes
-the performance of algorithms in terms of their proba
-bility of successfully carrying out searches (the bigger
-the probability, the better the performance). The very
-statement of the Law of Conservation of Information, by
-being framed strictly in terms of probabilities, contains
-no reference to fitness landscapes and in no way depends
-on the statements or proofs of the no-free-lunch theo
-rems. That is not to say that fitness may not arise in
-some applications of conservation of information. Ap
-pendix 2, for instance, in recapping previously proven
-conservation-of-information theorems, states a fitness
-theoretic conservation-of-information theorem. But in
-any discussions of evolvability, conservation of informa
-tion can be considered on its own terms irrespective of
-no free lunch&lt;/p&gt;</content><author><name>Joe Felsenstein</name></author><summary type="html">======================================== Dembski’s critique: By themselves, the no-free-lunch theorems do not refute Darwinism, nor have I ever claimed that they do. Yes, I wrote a book titled No Free Lunch (pub lished in 2002) that used the no-free-lunch theorems as a springboard to critically re-examine the power of the Darwinian mechanism in explaining biological complexity and from there to argue that design is a better expla nation of biological complexity. Yet Darwinian critics of conservation of information have ever since conflated Volume 2025 | Issue 2 | Page 32 conservation of information with no free lunch, arguing The Law of Conservation of Information (rightly) that no free lunch fails to refute Darwinism, but then claiming (wrongly) that conservation of information is identical with no free lunch and thus likewise fails. Hence the fallacy of false equivalence, in which these critics refute what was not contested and then claim that the refutation refutes something else. Joseph Felsenstein is a case in point, but he is rep resentative of Jason Rosenhouse, the late Mark Perakh, Richard Wein, Erik Tellgren, Ole H¨aggstr¨om, and the duo of Wesley Elsberry and Jeffrey Shallit.43 The no free-lunch theorems show that any algorithm averaged over fitness landscapes (Felsenstein calls them “fitness surfaces”) is equivalent to any other algorithm when aver aged in this way. It then follows that any such averaged algorithm is equivalent to blind search. In the statement of these theorems, no restriction is placed on the fitness landscapes. Thus they can be completely jagged, with one member of the configuration space having a com pletely different fitness value from an immediate neighbor. Most fitness landscapes would thus be like hash functions in cryptography (Felsenstein describes them as “white noise fitness surfaces”) where the slightest change in an input completely alters the numerical output [42]. Now Felsenstein’s point is that such jagged fitness landscapes, as allowed by no-free-lunch theorems, violate biological reality. The fitness landscapes conducive to evolvability, such as might characterize how genotypes promote reproductive success, must, according to him, be smooth. Why? Because of physics. Thus he remarks: [I]t seems reasonable that physics itself predis poses fitness surfaces to be smooth. After all, the forces of physics tend to be local in time and space and to lose influence with greater distance. If I gesture with my fingers, there is hardly any effect on objects at a distance. The floor of our room does not collapse, nor does the ceiling cave in. Different objects are scarcely affected by each other.44 The problems with this reasoning are numerous. In the first place, physics does have a place for precipitous and even nonlocal effects. Quantum entanglement is instan taneous and unaffected by distance. Phase transitions in nonlinear dynamics may produce radical changes in the behavior of a system with but the slightest change in a parameter. Felsenstein’s argument is based on folk physics, not modern physics and as such is unconvincing. 43See guments,” Joseph Felsenstein, Panda’s “Conservation Thumb (February 6, of Ar 2025): https://pandasthumb.org/archives/2025/02/Conservation of-arguments.html (last accessed February 24, 2025). For the criticisms by Rosenhouse et al., see the relevant links in the Felsenstein article. 44Felsenstein, “Conservation of Arguments.” Leaving aside physics, Felsenstein cites mutational effects as empirical evidence for smoothness of fitness landscapes. In fact, he defines smoothness to mean that small mutational changes lead to small functional changes. According to Felsenstein, the empirical evidence shows that single mutations typically result in small, pre dictable changes rather than chaotic, random effects. But smoothness in this sense admits striking exceptions. A host of serious genetic diseases such as sickle cell ane mia, phenylketonuria, and Tay-Sachs disease all result from single point mutations. Nonsense mutations, where a single nucleotide substitution produces a stop codon within a coding sequence, cause premature termination of protein synthesis, sometimes with lethal consequences. Frameshift mutations, which may be caused by a single nucleotide insertion or deletion, completely disrupt pro tein synthesis downstream of the mutation, often with huge consequences. And even single amino-acid substitu tions caused by single nucleotide substitutions can have drastic effects, depending on the location and the role of the protein. Thus, contrary to Felsenstein’s smoothness hypothesis, minor genetic change can and does lead to a catastrophic loss of function. According to Bill Gates, “DNA is like a computer pro gram but far, far more advanced than any software ever created” [43, p. 188]. But, as we just saw, smoothness admits exceptions with digital codes in cells. Likewise, it admits exceptions with digital codes in computer soft ware. In fact, it is fairer to say that smoothness is the exception rather than the rule in computer programs. Indeed, one stray letter, one comma out of place, can sub vert a program, preventing it from achieving its objective, if it even functions at all. Evolutionists never define smoothness of fitness land scapes with anything like mathematical precision. But let us say that smoothness could be made mathemati cally precise and that for biological evolution to work it requires smooth fitness landscapes. Smoothness, even then, cannot guarantee the evolvability needed for Dar winian theory to be successful. Smoothness has to mean something like that by moving to near neighbors, fitness should not change drastically. Empirical evidence from some genetic diseases, as noted, contradicts smoothness in this sense. But even if smoothness could be said to hold most of the time, it says nothing about regions of a biological configuration space where fitness is zero. Indeed, fitness landscapes that are zero over such regions are as smooth as they can be over those regions. More over, if fitness is zero over sufficiently vast regions of a configuration space, the viable candidates for evolu tion will be sparsely distributed, drastically curtailing evolvability. Additionally, smoothness does nothing to assuage the problem of multiple local optima where fitness cannot be improved by gradual evolution. In this case, evolution Volume 2025 | Issue 2 | Page 33 The Law of Conservation of Information gets stuck because it cannot break away from those local optima, there being no gradual way for fitness to improve. Fortunately, evolution allows for more radical genetic events than point mutations, such as inversions, translocations, deletions, and duplications. But in that case, smoothness loses its hold because, with such large scale structural changes, all bets are off as to what effect they may have on evolution. Smoothness is essentially a continuity condition, and continuity is always a matter of small local changes in an independent variable leading to small changes in a dependent variable. Smoothness says nothing about how the dependent variable may change in response to large-scale non-local changes in the independent variable. And genetics allows such changes. Felsenstein’s argument can thus be summarized as follows: Real-life biological evolution requires smooth fit ness landscapes. Physics and chemistry guarantee that real-life fit ness landscapes are smooth. Any probability estimates of smooth fitness land scapes among the totality of fitness landscapes are therefore irrelevant. No-free-lunch theorems hold for the totality of fit ness landscapes, both smooth and non-smooth. No-free-lunch theorems therefore do not apply to real-life biological evolution. Conservation of information is equivalent to no free lunch, so conservation of information is likewise irrelevant to real-life biological evolution. Felsenstein’s argument is problematic for more than just point 6. As we’ve seen, smoothness as applied to fitness landscapes in evolution is questionable on both theoretical and empirical grounds. Points 1 to 3 are therefore problematic. But even granting points 1 to 5, the falsity point 6 means conservation of information puts design back in the running in biology. Even though Felsenstein mistakenly conflates of the two, conservation of information is distinct from no free lunch. Whatever fitness landscapes and other conditions on evolvability are needed to bring about a system like Douglas Axe’s beta-lactamase, if those conditions raise the probability of success of evolving such a system, those conditions themselves become highly improbable and require expla nation. The baseline probability for a system like beta lactamase is indeed small because of the radical con tingency and numerous degrees of freedom of its peptide constituents (see Subsection 10.4). Evolvability therefore grinds to a halt unless it can overcome these otherwise inherent improbabilities (just as, in Section 8, Dawkins’ hill-climbing algorithm overcame the inherent improba bility of generating by purely random means the target phrase METHINKS IT IS LIKE A WEASEL). Conser vation of information tracks the probabilistic cost of overcoming improbability. As such, conservation of infor mation is not concerned with the details of how evolution does it. In particular, it is irrelevant if smooth fitness landscapes, however these are defined, are improbable within a wider class of fitness landscapes, and whether a no-free-lunch theorem exists or does not exist to tease apart the fitness landscapes that facilitate evolution from those that do not. The fundamental problem with Felsenstein’s critique of conservation of information is this: it is simply irrel evant whether no-free-lunch theorems undercut or fail to undercut Darwinian evolution. What is relevant is that no-free-lunch theorems have no way to undercut conservation of information. Conflating the two is ille gitimate. True, in the history of scientific discovery, no free lunch preceded and provided inspiration for conser vation of information. No free lunch showed that when averaged over fitness landscapes, no search algorithm outperformed any other. But some search algorithms do outperform others for given problems. What, then, empowers some algorithms to outperform others? The short answer: information. No free lunch raises the right question but by itself does not answer it. The answer depends on conservation of information. Conservation of information characterizes the performance of algorithms in terms of their proba bility of successfully carrying out searches (the bigger the probability, the better the performance). The very statement of the Law of Conservation of Information, by being framed strictly in terms of probabilities, contains no reference to fitness landscapes and in no way depends on the statements or proofs of the no-free-lunch theo rems. That is not to say that fitness may not arise in some applications of conservation of information. Ap pendix 2, for instance, in recapping previously proven conservation-of-information theorems, states a fitness theoretic conservation-of-information theorem. But in any discussions of evolvability, conservation of informa tion can be considered on its own terms irrespective of no free lunch</summary></entry><entry><title type="html">Marmota flaviventer</title><link href="https://pandasthumb.org/archives/2026/09/marmota-flaviventer.html" rel="alternate" type="text/html" title="Marmota flaviventer" /><published>2026-09-21T11:00:00-07:00</published><updated>2026-09-21T11:00:00-07:00</updated><id>https://pandasthumb.org/archives/2026/09/marmota-flaviventer</id><content type="html" xml:base="https://pandasthumb.org/archives/2026/09/marmota-flaviventer.html">&lt;p&gt;&lt;strong&gt;Photography Contest.&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://pandasthumb.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pandasthumb.org/" rel="alternate" type="text/html" /><updated>2026-09-27T18:08:18-07:00</updated><id>https://pandasthumb.org/feed.xml</id><title type="html">The Panda’s Thumb</title><entry><title type="html">Marmota flaviventer</title><link href="https://pandasthumb.org/archives/2026/09/marmota-flaviventer.html" rel="alternate" type="text/html" title="Marmota flaviventer" /><published>2026-09-21T11:00:00-07:00</published><updated>2026-09-21T11:00:00-07:00</updated><id>https://pandasthumb.org/archives/2026/09/marmota-flaviventer</id><content type="html" xml:base="https://pandasthumb.org/archives/2026/09/marmota-flaviventer.html">&lt;p&gt;&lt;strong&gt;Photography Contest.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;C Joseph Long, Honorable Mention.&lt;/strong&gt;&lt;/p&gt;
 
@@ -696,4 +462,25 @@ University.  It will be found &lt;a href=&quot;https://scienceandculture.com/202
 
 &lt;p&gt;But roots run deep in south-central Pennsylvania, and history repeats itself. Some on the religious right quietly started preparing for the next opportunity.&lt;/p&gt;
 
-&lt;p&gt;I still get asked about comparisons between Kitzmiller v. Dover and attacks today on our public schools. Particularly, what did we learn about defeating school boards pushing a religious agenda? In &lt;a href=&quot;https://ncse.ngo/two-decades-ago-dover-showed-how-win-elections-conservative-towns-theyre-still-fighting&quot;&gt;this article&lt;/a&gt; in the &lt;strike&gt;Reviews&lt;/strike&gt; Reports of the National Center for Science Education, I delve into what worked then and what works today.&lt;/p&gt;</content><author><name>Lauri Lebo</name></author><summary type="html">Lauri Lebo is an advocacy coordinator and organizer for the Pennsylvania State Education Association. As a reporter, she covered the Kitzmiller v. Dover trial and wrote a book about her coverage, The Devil in Dover. She is a recipient of NCSE’s Friend of Darwin award in 2026. We asked her to write a few paragraphs linking to her recent article in the Reviews Reports of the National Center for Science Education. – Matt Young It’s been 21 years since the First Amendment test case of Kitzmiller v. Dover, in which U.S. District Court judge John E. Jones III ruled that “intelligent design,” a form of revamped creationism, is unconstitutional to teach in the public schools. While the parents who sued and science teachers celebrated, the school board members and their legal team had little to say. Looking back, most people involved in the trial said that few minds were changed. Many were just glad the national spotlight was no longer shining on Dover. But roots run deep in south-central Pennsylvania, and history repeats itself. Some on the religious right quietly started preparing for the next opportunity. I still get asked about comparisons between Kitzmiller v. Dover and attacks today on our public schools. Particularly, what did we learn about defeating school boards pushing a religious agenda? In this article in the Reviews Reports of the National Center for Science Education, I delve into what worked then and what works today.</summary></entry></feed>
+&lt;p&gt;I still get asked about comparisons between Kitzmiller v. Dover and attacks today on our public schools. Particularly, what did we learn about defeating school boards pushing a religious agenda? In &lt;a href=&quot;https://ncse.ngo/two-decades-ago-dover-showed-how-win-elections-conservative-towns-theyre-still-fighting&quot;&gt;this article&lt;/a&gt; in the &lt;strike&gt;Reviews&lt;/strike&gt; Reports of the National Center for Science Education, I delve into what worked then and what works today.&lt;/p&gt;</content><author><name>Lauri Lebo</name></author><summary type="html">Lauri Lebo is an advocacy coordinator and organizer for the Pennsylvania State Education Association. As a reporter, she covered the Kitzmiller v. Dover trial and wrote a book about her coverage, The Devil in Dover. She is a recipient of NCSE’s Friend of Darwin award in 2026. We asked her to write a few paragraphs linking to her recent article in the Reviews Reports of the National Center for Science Education. – Matt Young It’s been 21 years since the First Amendment test case of Kitzmiller v. Dover, in which U.S. District Court judge John E. Jones III ruled that “intelligent design,” a form of revamped creationism, is unconstitutional to teach in the public schools. While the parents who sued and science teachers celebrated, the school board members and their legal team had little to say. Looking back, most people involved in the trial said that few minds were changed. Many were just glad the national spotlight was no longer shining on Dover. But roots run deep in south-central Pennsylvania, and history repeats itself. Some on the religious right quietly started preparing for the next opportunity. I still get asked about comparisons between Kitzmiller v. Dover and attacks today on our public schools. Particularly, what did we learn about defeating school boards pushing a religious agenda? In this article in the Reviews Reports of the National Center for Science Education, I delve into what worked then and what works today.</summary></entry><entry><title type="html">Zeugomantispa minuta</title><link href="https://pandasthumb.org/archives/2026/08/Zeugomantispa-minuta.html" rel="alternate" type="text/html" title="Zeugomantispa minuta" /><published>2026-08-03T11:00:00-07:00</published><updated>2026-08-03T11:00:00-07:00</updated><id>https://pandasthumb.org/archives/2026/08/Zeugomantispa-minuta</id><content type="html" xml:base="https://pandasthumb.org/archives/2026/08/Zeugomantispa-minuta.html">&lt;p&gt;&lt;strong&gt;Photography Contest.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Al Denelsbeck, Runner-up.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+
+&lt;img src=&quot;/uploads/2026/2-Denelsbeck_Zeugomantispa_minuta.jpg&quot; alt=&quot;Northern green mantidfly with 2 views, one of which shows an unusual pattern in the eye.&quot; /&gt;
+
+&lt;figcaption&gt;&lt;i&gt;&lt;a href=&quot;https://www.bugguide.net/node/view/40288&quot;&gt;Zeugomantispa minuta&lt;/a&gt;&lt;/i&gt; &amp;ndash; northern green mantidfly. Mr. Denelsbeck writes, &quot;I was delighted to find a northern green mantidfly having only spotted one over a decade previously, and captured this one for a studio session. However, two different lenses captured two different effects from the compound eyes under near-identical conditions and lighting. The left version is with a reversed 28-105 lens at approximately F/16 with a custom softbox on the flash, from a very short distance, while the right is with a 180&amp;nbsp;mm macro, also at F/16 and the same softbox, but significantly greater working distance. I have not yet determined if the different effects were from the working distance and perhaps diffusion of the lighting (the left version being more diffuse because the softbox was more above the subject and broader in 'source,') or it was a product of the optics of the two lenses - the 28-105 lens was never intended to be used in reverse, and might have suffered from the methods used to reduce chromatic aberration. The right version is much more stunning, but also a bit distracting. My subject was released back where found after the session. Overall body length just 12&amp;nbsp;mm.&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;
+Another &lt;a href=&quot;https://pandasthumb.org/archives/2026/07/araneus-diadematus.html&quot;&gt;optics problem&lt;/a&gt;! The submission was by design relatively low in resolution, so I asked for the original and cropped it so as to reveal more information. More below the fold.
+&lt;!--more--&gt;
+Hard to say, but it looks to me like the diffraction pattern of a hexagonal array, probably seen as an image in the “len” formed by the eye (a “&lt;a href=&quot;https://www.amazon.com/dp/3540570985&quot;&gt;len&lt;/a&gt;” is half a thin lens). I would have expected it to be rotated by 30°, though, and the colors in the secondary maxima do not look right. Maybe someone else can weigh in.&lt;/p&gt;
+&lt;figure&gt;
+
+&lt;img src=&quot;/uploads/2026/2-Denelsbeck_Mantid_Eye_.jpg&quot; alt=&quot;The mantidfly, hreadshot, showing eye and the pattern in more detail.&quot; /&gt;
+
+&lt;figcaption&gt;&lt;i&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/i&gt; &amp;ndash; &lt;/figcaption&gt;
+
+&lt;/figure&gt;</content><author><name>Matt Young</name></author><summary type="html">Photography Contest. Al Denelsbeck, Runner-up. Zeugomantispa minuta &amp;ndash; northern green mantidfly. Mr. Denelsbeck writes, &quot;I was delighted to find a northern green mantidfly having only spotted one over a decade previously, and captured this one for a studio session. However, two different lenses captured two different effects from the compound eyes under near-identical conditions and lighting. The left version is with a reversed 28-105 lens at approximately F/16 with a custom softbox on the flash, from a very short distance, while the right is with a 180&amp;nbsp;mm macro, also at F/16 and the same softbox, but significantly greater working distance. I have not yet determined if the different effects were from the working distance and perhaps diffusion of the lighting (the left version being more diffuse because the softbox was more above the subject and broader in 'source,') or it was a product of the optics of the two lenses - the 28-105 lens was never intended to be used in reverse, and might have suffered from the methods used to reduce chromatic aberration. The right version is much more stunning, but also a bit distracting. My subject was released back where found after the session. Overall body length just 12&amp;nbsp;mm. Another optics problem! The submission was by design relatively low in resolution, so I asked for the original and cropped it so as to reveal more information. More below the fold.</summary></entry></feed>
