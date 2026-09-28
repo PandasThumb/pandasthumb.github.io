@@ -1,8 +1,14 @@
 ---
 title: Was I wrong about fitness surfaces? Reply to reply to reply to Dembski
-date: 2026-09-27 12:00:01 -08:00
+date: 2026-09-29 12:00:01 -08:00
 author: Joe Felsenstein
 ---
+
+
+oops, folks.  Have not written most of post yet.  Will 
+be reposted in a day or two.  Right now just some 
+quoted stuff from Dembski, not all of which will be in 
+the final post.
 
 ========================================
 Dembski's critique:
