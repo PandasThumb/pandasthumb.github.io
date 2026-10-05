@@ -5,7 +5,9 @@ author: Matt Young
 ---
 <figure>
 <img src="/uploads/2026/Willow_Roots_Boulder_Creek.jpg" alt=""/>
-<figcaption>Photograph of reddish growth along the edge of Boulder Creek, taken with a cell phone, August, 2026. Seek, by iNaturalist, identified it as <i>Oncorhynchus nerka</i> &ndash; sockeye salmon. Clearly it is not that. Is it some kind of algae? See below the fold ....</figcaption>
+<figcaption>Photograph of reddish growth along the edge of Boulder Creek, taken with a cell phone, August, 2026.<br/> 
+Seek, by iNaturalist, identified it as <i>Oncorhynchus nerka</i> &ndash; sockeye salmon.<br/>
+Clearly it is not that. Is it some kind of algae? See below the fold ....</figcaption>
 </figure>
 
 
