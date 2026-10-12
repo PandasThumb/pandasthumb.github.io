@@ -4,7 +4,7 @@ date: '2026-10-11 20:30:00 -06:00'
 author: Matt Young
 ---
 
-<figure><img src-"/uploads/2026/Three-wise-monkeys-figure.JPG" alt="[Three wise monkeys]"/>
+<figure><img src-"/uploads/2026/Three-wise-monkeys-figure.jpg" alt="[Three wise monkeys]"/>
 <figcaption>This sculpture, image from Wikimedia. is based on an image from a Japanese temple. It is often <br/>
 called the Three Wise Monkeys. who neither hear, see or speak evil.  Do the<br/>
 people discussed in this article believe that they are being wise? JF</figcaption></figure>
