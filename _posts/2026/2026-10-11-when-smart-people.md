@@ -14,6 +14,8 @@ I belong to a discussion list that is at least nominally related to The Panda’
 
 <p>I throw this out to the group because it might point to finding more effective ways of combatting all of this nonsense.  Clearly, facts are water off a duck’s back to creationists and other science deniers.  They have a mental force field to keep facts and logic out.  To me the question becomes, “What is the emotional payoff for this behaviour?”  It appears to be overwhelming and compelling for those who adopt this way of thinking.</p></blockquote>
 
+<!--more-->
+
 A psychiatrist, to whom the question was originally directed, responded:
 
 <blockquote><p>TBH, I don’t know if I have a good answer to this question, even though it is at least adjacent to my field of expertise.  But I do have thoughts.</p>
