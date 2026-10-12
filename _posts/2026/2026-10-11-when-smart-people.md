@@ -5,7 +5,7 @@ author: Matt Young
 ---
 
 <div align="center">
-<figure><img src="/uploads/2026/Three_wise_monkeys_figure.JPG" alt="[Three wise monkeys]"/><br/></figure>
+<figure><img src="/uploads/2026/Three_wise_monkeys_figure.JPG" alt="[Three wise monkeys]"/><br/>
 <figcaption>This sculpture, image from Wikimedia, is based on an image from a Japanese temple. It is<br/>
 often called the Three Wise Monkeys. who neither hear, see or speak evil.  Posted by Joe<br/>
 Felsenstein, who asks whether the people discussed in this article believe that<br/>
