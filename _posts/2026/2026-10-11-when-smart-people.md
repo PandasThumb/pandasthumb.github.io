@@ -3,7 +3,7 @@ title: 'When smart people believe stupid things'
 date: '2026-10-11 20:30:00 -06:00'
 author: Matt Young
 ---
-I belong to a discussion list that is at least nominally related to The Panda’s Thumb.  Recently, someone asked the following question:
+A penpal of mine, Scott Goodmasn, recently asked the following question:
 
 <blockquote><p>What is the psychology behind contrarian belief systems?  Having been involved in this now for some 30 years, I have concluded, as have others, that this phenomenon of latching on to a nonsense belief and defending it to the death against all reason is, at its root, psychologically and emotionally driven.  And it certainly isn’t limited to creationism.  Across the board, from climate change denial to anti-vaccine hysteria to insisting that elections are rigged, I believe the same thing is at work.  Consider the characteristics:</p>
 
