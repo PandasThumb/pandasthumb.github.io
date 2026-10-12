@@ -4,7 +4,7 @@ date: '2026-10-11 20:30:00 -06:00'
 author: Matt Young
 ---
 
->div align="center">
+<div align="center">
 <figure><img src="/uploads/2026/Three_wise_monkeys_figure.JPG" alt="[Three wise monkeys]"/>
 <figcaption>This sculpture, image from Wikimedia. is based on an image from a Japanese temple. It is often <br/>
 called the Three Wise Monkeys. who neither hear, see or speak evil.  Posted by Joe Felsenstein, <br/>
