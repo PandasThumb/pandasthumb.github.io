@@ -3,6 +3,14 @@ title: 'When smart people believe stupid things'
 date: '2026-10-11 20:30:00 -06:00'
 author: Matt Young
 ---
+
+<figure><img src-"/uploads/2026/Three-wise-monkeys.jpg" alt="[Three wise monkeys]"/>
+<figcaption>This sculpture, image from Wikimedia. is based on an image from a Japanese temple. It is often <br/>
+called the Three Wise Monkeys. who neither hear, see or speak evil.  Do the<br/>
+people discussed in this article believe that they are being wise? JF</figcaption></figure>
+
+<p>&nbsp;</p>
+
 A penpal of mine, Scott Goodman, recently asked the following question:
 
 <blockquote><p>What is the psychology behind contrarian belief systems?  Having been involved in this now for some 30 years, I have concluded, as have others, that this phenomenon of latching on to a nonsense belief and defending it to the death against all reason is, at its root, psychologically and emotionally driven.  And it certainly isn’t limited to creationism.  Across the board, from climate change denial to anti-vaccine hysteria to insisting that elections are rigged, I believe the same thing is at work.  Consider the characteristics:</p>
