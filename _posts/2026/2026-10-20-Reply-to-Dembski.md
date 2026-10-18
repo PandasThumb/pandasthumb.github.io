@@ -13,6 +13,7 @@ A fitness landscape computed from an NK-algorithm.<br/>  By <a href="//commons.w
 </figure>
 </div>
 
+<p>&nbsp;</p>
 
 Not too long ago I became aware that William Dembski had a new 
 article in BIO-Complexity (the Discovery Institute's house 
