@@ -6,7 +6,7 @@ author: Joe Felsenstein
 
 <div align="center">
 <figure>
-<img src="/uploads/2026/fitness-landscape.png" "alt=[fitness-landscape.png]" /><br/>
+<img src="/uploads/2026/fitness_landscape.png" alt="[Fitness Landscape]" /><br/>
 <figcaption>
 A fitness landscape computed from an NK-algorithm.  By <a href="//commons.wikimedia.org/w/index.php?title=User:Rhiever&amp;action=edit&amp;redlink=1" class="new" title="User:Rhiever (page does not exist)">Randy Olson</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=32274330">Link</a>
 </figcaption>
