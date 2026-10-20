@@ -23,7 +23,7 @@ surfaces).
 
 He is replying to a post by me here at Panda's Thumb on 
 6 February 2025 ([**here**](https://pandasthumb.org/archives/2025/02/Conservation-of-arguments.html)).  He and Robert Marks
-had argued that there was a Conservation of Information 
+(and also Winston Ewert) had argued that there was a Conservation of Information 
 law, that showed that when information gets into 
 genomes, it must have already existed elsewhere. 
 They said that this was even true when natural 
