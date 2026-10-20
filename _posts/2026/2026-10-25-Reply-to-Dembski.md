@@ -1,6 +1,6 @@
 ---
 title: Was I wrong about fitness surfaces? Reply to reply to reply to Dembski
-date: 2026-10-20 12:00:01 -08:00
+date: 2026-10-25 12:00:01 -08:00
 author: Joe Felsenstein
 ---
 
@@ -17,9 +17,28 @@ A fitness landscape computed from an NK-algorithm.<br/>  By <a href="//commons.w
 
 Not too long ago I became aware that William Dembski had a new 
 article in BIO-Complexity (the Discovery Institute's house 
-journal).  And that a section of the article disputed my 
+journal).  And that a section of that article disputed my 
 statements about smooth fitness landscapes (or fitness 
 surfaces).
+
+He is replying to a post by me here at Panda's Thumb on 
+6 February 2025 ([**here**](https://pandasthumb.org/archives/2025/02/Conservation-of-arguments.html)).  He and Robert Marks
+had argued that there was a Conservation of Information 
+law, that showed that when information gets into 
+genomes, it must have already existed elsewhere. 
+They said that this was even true when natural 
+evolutionary processes put adaptive information 
+into the genome -- it must have already existed, 
+for example, in the fitness landscape.
+
+Their argument (which can be seen [**here**]() and
+[**here**]())
+
+
+
+
+
+
 
 oops, folks.  Have not written most of post yet.  Will 
 be reposted in a day or two.  Right now just some 
