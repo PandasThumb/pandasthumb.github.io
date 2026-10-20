@@ -31,8 +31,45 @@ evolutionary processes put adaptive information
 into the genome -- it must have already existed, 
 for example, in the fitness landscape.
 
-Their argument (which can be seen [**here**]() and
-[**here**]())
+Their argument (which can be seen [**here**](https://www.evoinfo.org/papers/2009_ConservationOfInformationInSearch.pdf) and
+[**here**](https://bio-complexity.org/ojs/index.php/main/article/download/BIO-C.2013.4/BIO-C.2013.4)) 
+uses the concept of "active information".  For situations in which 
+there is a population evolving on a fitness landscape, active 
+information can include the information embodied in the 
+assignment of fitnesses to genotypes.  
+
+Dembski, in his BIO-Complexity paper, summarizes 
+my arguments thusly:
+
+1. Real-life biological evolution requires smooth fitness landscapes.
+2. Physics and chemistry guarantee that real-life fitness landscapes are smooth.
+3. Any probability estimates of smooth fitness landscapes among the totality of fitness landscapes are
+therefore irrelevant.
+4. No-free-lunch theorems hold for the totality of fitness landscapes, both smooth and non-smooth.
+5. No-free-lunch theorems therefore do not apply toreal-life biological evolution.
+6. Conservation of information is equivalent to no freelunch, so conservation of information is likewise
+irrelevant to real-life biological evolution.
+
+He argues that there are exceptions to all fitness landscapes being smooth, 
+and that I have conflated the No Free Lunch argument with his 
+Conservation of Information argument, and that the 
+latter is his essential argument.
+
+Let's look at his refutation in some detail:
+
+<!--more-->
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
