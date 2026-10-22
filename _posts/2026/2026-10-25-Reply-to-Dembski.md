@@ -59,7 +59,11 @@ Let's look at his refutation in some detail:
 
 <!--more-->
 
-
+William Dembski has put forward a number of arguments over the years, 
+intended to find criteria that can be used to show that 
+adaptations could not have arisen by natural evolutionary 
+processes, and therefore are evidence for supernatural 
+processes namely Intelligent Design.
 
 
 
