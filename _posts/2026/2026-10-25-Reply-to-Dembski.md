@@ -65,6 +65,15 @@ adaptations could not have arisen by natural evolutionary
 processes, and therefore are evidence for supernatural 
 processes namely Intelligent Design.
 
+Here are most of them, each accompanied by a link 
+to the his papers and a link to arguments against 
+that argument:
+
+1. The Complex Specified Information argument.
+2. The No Free Lunch argument.
+3. The Specified Complexity argument.
+4. The Evolutionary Algorithms argument.
+5. The Algorithmic Specified Complexity argument.
 
 
 
@@ -72,8 +81,9 @@ processes namely Intelligent Design.
 
 
 
-
-
+================================================================================================
+================================================================================================
+================================================================================================
 
 
 
