@@ -41,13 +41,13 @@ assignment of fitnesses to genotypes.
 Dembski, in his BIO-Complexity paper, summarizes 
 my arguments thusly:
 
-1. Real-life biological evolution requires smooth fitness landscapes.
-2. Physics and chemistry guarantee that real-life fitness landscapes are smooth.
-3. Any probability estimates of smooth fitness landscapes among the totality of fitness landscapes are
+> 1. Real-life biological evolution requires smooth fitness landscapes.
+> 2. Physics and chemistry guarantee that real-life fitness landscapes are smooth.
+> 3. Any probability estimates of smooth fitness landscapes among the totality of fitness landscapes are
 therefore irrelevant.
-4. No-free-lunch theorems hold for the totality of fitness landscapes, both smooth and non-smooth.
-5. No-free-lunch theorems therefore do not apply toreal-life biological evolution.
-6. Conservation of information is equivalent to no freelunch, so conservation of information is likewise
+> 4. No-free-lunch theorems hold for the totality of fitness landscapes, both smooth and non-smooth.
+> 5. No-free-lunch theorems therefore do not apply toreal-life biological evolution.
+> 6. Conservation of information is equivalent to no freelunch, so conservation of information is likewise
 irrelevant to real-life biological evolution.
 
 He argues that there are exceptions to all fitness landscapes being smooth, 
@@ -59,21 +59,17 @@ Let's look at his refutation in some detail:
 
 <!--more-->
 
-William Dembski has put forward a number of arguments over the years, 
-intended to find criteria that can be used to show that 
-adaptations could not have arisen by natural evolutionary 
-processes, and therefore are evidence for supernatural 
-processes namely Intelligent Design.
+We'll consider a simple case of evolution.  A case where we have a 
+set of genotypes, and each possible one has a fitness.  Where 
+there is a simple form of mutation which changes a genotype by 
+substituting one base for another at one of the sites of 
+the genotype.  The mapping between genotype and fitness 
+is the fitness landscape.
 
-Here are most of them, each accompanied by a link 
-to the his papers and a link to arguments against 
-that argument:
+If we go back to his 2002 book
 
-1. The Complex Specified Information argument.
-2. The No Free Lunch argument.
-3. The Specified Complexity argument.
-4. The Evolutionary Algorithms argument.
-5. The Algorithmic Specified Complexity argument.
+
+
 
 
 
