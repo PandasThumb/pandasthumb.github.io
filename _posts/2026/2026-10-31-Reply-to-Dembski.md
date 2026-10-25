@@ -66,8 +66,46 @@ substituting one base for another at one of the sites of
 the genotype.  The mapping between genotype and fitness 
 is the fitness landscape.
 
-If we go back to his 2002 book
+## Dembski's 2002 argument ##
 
+If we go back to his 2002 book, Dembski poses tne 
+question of whether "algorithms" such as natural 
+selection can explain the origin of Complex Specified 
+information.  He argues (on page 149) that
+
+> Algorithms and natural laws are in principle incapable
+> of explaining the origin of CSI.  To be sure, algorithms
+> and natural laws can explain the flow of CSI.  Indeed,
+> algorithms and natural laws are ideal for transmitting
+> already existing CSI.
+
+Taking that position, in the case of a fitness landscape, 
+if natural selection and other evolutionary processes 
+achieve an increase in fitness great enough to be counted 
+as Complex Specified Information, that information must 
+be already existing in the form of the fitness landscape 
+(or as he called them in 2002, fitness functions).
+
+Dembski concludes (p. 195), for the case of an evolutionary 
+algorithm, that it
+
+> has borrowed specified complexity 
+> from a higher-order phase space, namely, the phase space 
+> of fitness functions".
+
+
+
+## Where No Free Lunch comes in ##
+
+## Is Intelligence required? ##
+
+## Is there a predisposition to CSI in real fitness functions ##
+
+## What did I say about physics and fitness landscapes ##
+
+## A strawman, but no refutation ##
+
+## No Free Lunch versus conservation of information ##
 
 
 
