@@ -89,9 +89,9 @@ be already existing in the form of the fitness landscape
 Dembski concludes (p. 195), for the case of an evolutionary 
 algorithm, that it
 
-> has borrowed specified complexity 
+> has borrowed specified complexity  
 > from a higher-order phase space, namely, the phase space 
-> of fitness functions".
+> of fitness functions.
 
 
 
