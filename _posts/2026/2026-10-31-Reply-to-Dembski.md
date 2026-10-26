@@ -109,16 +109,16 @@ the probabilities of all possible combinations of fitnesses.
 That is a very big space.
 
 A much smaller and simpler space is the one considered 
-by Wolpert and Macready ([**here**](https://www.cs.ubc.ca/~hutter/earg/papers07/00585893.pdf)) in their No Free 
-Lunch theorem.
+by Wolpert and Macready in their No Free 
+Lunch theorem ([**here**](https://www.cs.ubc.ca/~hutter/earg/papers07/00585893.pdf)).
 
 
 
-## Is Intelligence required? ##
+## Is intelligence required? ##
 
 ## Is there a predisposition to CSI in real fitness functions ##
 
-## What did I say about physics and fitness landscapes ##
+## What did I say about physics and fitness landscapes? ##
 
 ## A strawman, but no refutation ##
 
