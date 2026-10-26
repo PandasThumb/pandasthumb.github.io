@@ -108,6 +108,10 @@ the particular fitness landscape, we need to know
 the probabilities of all possible combinations of fitnesses.
 That is a very big space.
 
+A much smaller and simpler space is the one considered 
+by Wolpert and Macready ([**here**](https://www.cs.ubc.ca/~hutter/earg/papers07/00585893.pdf)) in their No Free 
+Lunch theorem.
+
 
 
 ## Is Intelligence required? ##
