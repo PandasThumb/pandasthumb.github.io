@@ -97,6 +97,19 @@ algorithm, that it
 
 ## Where No Free Lunch comes in ##
 
+For all possible genotypes (say 3 billion bases in a 
+hapoid genome, with each base being one of A, C, G or T) 
+the fitness is a nonnegative real number.  That's a very big 
+space, and does not even consider variation in the 
+length of the genome.
+
+To consider how much specified information comes from 
+the particular fitness landscape, we need to know 
+the probabilities of all possible combinations of fitnesses.
+That is a very big space.
+
+
+
 ## Is Intelligence required? ##
 
 ## Is there a predisposition to CSI in real fitness functions ##
