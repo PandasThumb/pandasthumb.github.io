@@ -111,7 +111,18 @@ That is a very big space.
 
 A much smaller and simpler space is the one considered 
 by Wolpert and Macready in their No Free 
-Lunch theorem ([**here**](https://www.cs.ubc.ca/~hutter/earg/papers07/00585893.pdf)).
+Lunch theorem ([**here**](https://www.cs.ubc.ca/~hutter/earg/papers07/00585893.pdf)). 
+They consider one assignment of fitnesses to all of the 
+possible sequences, and then permute those assignments in 
+all possible ways.  Their No Free Lunch theorem shows that, 
+averaged over all of these ass9gnments, when they were 
+weighted equally and the search algorithm looked at K genotypes in all, the success of search for higher 
+fitnesses would be no better than choosing the best out of arandomly chosen 
+K genotypes.
+
+This means that when the search algorithm found success by 
+moving in a particular direction, continuing to move further 
+that direction would not help with further gains.
 
 
 
