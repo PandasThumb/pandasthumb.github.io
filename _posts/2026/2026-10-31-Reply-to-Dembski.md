@@ -125,6 +125,19 @@ moving in a particular direction, continuing to move further
 that direction would not help with further gains.
 
 
+NOTE:
+1. Specification increases at each step, 
+whether in a white-noise surface or in a 
+smooth one.
+2. Kauffman and Levin (?) simulatiom
+3. So both within-landscape and in choice of 
+landscapes information is gained.
+4. We are stuck with the rules of physics.
+
+
+
+
+
 
 ## Is intelligence required? ##
 
