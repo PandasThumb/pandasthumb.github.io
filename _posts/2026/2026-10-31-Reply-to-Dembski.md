@@ -16,7 +16,8 @@ A fitness landscape computed from an NK-algorithm.<br/>  By <a href="//commons.w
 <p>&nbsp;</p>
 
 Not too long ago I became aware that William Dembski had a new 
-article ([**here**](https://bio-complexity.org/ojs/index.php/main/article/view/BIO-C.2025.2/BIO-C.2025.2)) in BIO-Complexity (the Discovery Institute's house 
+article ([**here**](https://bio-complexity.org/ojs/index.php/main/article/view/BIO-C.2025.2/BIO-C.2025.2)) in the 
+BIO-Complexity (the Discovery Institute's house 
 journal).  And that a section of that article disputed my 
 statements about smooth fitness landscapes (or fitness 
 surfaces).
