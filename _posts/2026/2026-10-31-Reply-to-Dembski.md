@@ -122,20 +122,36 @@ fitnesses would be no better than choosing the best out of arandomly chosen
 K genotypes.
 
 This means that when the search algorithm found success by 
-moving in a particular direction, an algorithm that continues to move further 
-that direction would not help with further gains.  When we 
+moving one step in a particular direction, an algorithm that 
+continues to move further 
+that direction would not help with further gains.  When 
 the fitness landscape is equally likely to see any permutation of fitnesses, 
 there is no way to choose any good direction to move.
 
-## Interactions between sites ##
+## Strong and unpredictable interactions between sites ##
 
 In the No Free Lunch case, there are also typically very strong 
 and unpredictable interactions between sites.  If we have two 
 different sites in the genome, and find a favorable substitution 
 at each of them, what happens when both of these substitutions 
-occur?  The combination of them is yet another haploid genome, 
-and there is no way to predict what the fitness will be when 
-both changes have occurred.  It is quite 
+have occurred?  The combination of them is yet another haploid genome, 
+so that there is no way to predict what the fitness will be when 
+both changes have occurred.  
+
+# Is the No Free Lunch case the worst case for evolution? ##
+
+The point of invoking the No Free Lunch theorem is to show 
+a situation in which evolutionary change will do not better 
+than a search that looked at the same number of genotypes, 
+but picked at random from all possible genotypes.  Is that 
+case one in which no progress is made?  Some progress will 
+be made.  By finding the highest fitness among K genotypes, 
+we do put some functional information into the organism's 
+genome.
+
+K+L simulations
+stalling on local peaks
+
 
 
 NOTE:
