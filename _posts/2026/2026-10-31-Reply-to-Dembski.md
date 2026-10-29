@@ -116,14 +116,26 @@ Lunch theorem ([**here**](https://www.cs.ubc.ca/~hutter/earg/papers07/00585893.p
 They consider one assignment of fitnesses to all of the 
 possible sequences, and then permute those assignments in 
 all possible ways.  Their No Free Lunch theorem shows that, 
-averaged over all of these ass9gnments, when they were 
+averaged over all of these assignments, when they were 
 weighted equally and the search algorithm looked at K genotypes in all, the success of search for higher 
 fitnesses would be no better than choosing the best out of arandomly chosen 
 K genotypes.
 
 This means that when the search algorithm found success by 
-moving in a particular direction, continuing to move further 
-that direction would not help with further gains.
+moving in a particular direction, an algorithm that continues to move further 
+that direction would not help with further gains.  When we 
+are equally likely to see any permutation of fitnesses, 
+there is no way to choose any direction to move.
+
+## Interactions between sites ##
+
+In the No Free Lunch case, there are also typically very strong 
+and unpredictable interactions between sites.  If we have two 
+different sites in the genome, and find a favorable substitution 
+at each of them, what happens when both of these substitutions 
+occur?  The combination of them is yet another haploid genome, 
+and there is no way to predict what the fitness will be when 
+both changes have occurred.  It is quite 
 
 
 NOTE:
