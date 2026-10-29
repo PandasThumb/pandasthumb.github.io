@@ -1,5 +1,5 @@
 ---
-title: Was I wrong about fitness surfaces&quest; Reply to reply to reply to Dembski
+title: Was I wrong about fitness surfaces&#63; Reply to reply to reply to Dembski
 date: 2026-10-31 12:00:01 -08:00
 author: Joe Felsenstein
 ---
