@@ -1,5 +1,5 @@
 ---
-title: 'Jared Diamond: What if Darwin had died in childbirth?'
+title: 'Jared Diamond: What if Darwin had died in childbirth&quest;'
 date: '2026-10-29 11:50:00 -06:00'
 author: Matt Young
 ---
