@@ -124,8 +124,8 @@ K genotypes.
 This means that when the search algorithm found success by 
 moving in a particular direction, an algorithm that continues to move further 
 that direction would not help with further gains.  When we 
-are equally likely to see any permutation of fitnesses, 
-there is no way to choose any direction to move.
+the fitness landscape is equally likely to see any permutation of fitnesses, 
+there is no way to choose any good direction to move.
 
 ## Interactions between sites ##
 
