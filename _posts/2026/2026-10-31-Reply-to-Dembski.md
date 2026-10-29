@@ -138,7 +138,7 @@ have occurred?  The combination of them is yet another haploid genome,
 so that there is no way to predict what the fitness will be when 
 both changes have occurred.  
 
-# Is the No Free Lunch case the worst case for evolution? ##
+## Is the No Free Lunch case the worst case for evolution? ##
 
 The point of invoking the No Free Lunch theorem is to show 
 a situation in which evolutionary change will do not better 
