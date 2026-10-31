@@ -1,421 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://pandasthumb.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pandasthumb.org/" rel="alternate" type="text/html" /><updated>2026-10-31T14:30:29-07:00</updated><id>https://pandasthumb.org/feed.xml</id><title type="html">The Panda’s Thumb</title><entry><title type="html">Was I wrong about fitness surfaces? Reply to reply to reply to Dembski</title><link href="https://pandasthumb.org/archives/2026/10/Reply-to-Dembski.html" rel="alternate" type="text/html" title="Was I wrong about fitness surfaces? Reply to reply to reply to Dembski" /><published>2026-10-31T13:00:01-07:00</published><updated>2026-10-31T13:00:01-07:00</updated><id>https://pandasthumb.org/archives/2026/10/Reply-to-Dembski</id><content type="html" xml:base="https://pandasthumb.org/archives/2026/10/Reply-to-Dembski.html">&lt;div align=&quot;center&quot;&gt;
-&lt;figure&gt;
-&lt;img src=&quot;/uploads/2026/fitness_landscape.png&quot; alt=&quot;[Fitness Landscape]&quot; /&gt;&lt;br /&gt;
-&lt;figcaption&gt;
-A fitness landscape computed from an NK-algorithm.&lt;br /&gt;  By &lt;a href=&quot;//commons.wikimedia.org/w/index.php?title=User:Rhiever&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new&quot;&gt;Randy Olson&lt;/a&gt; - &lt;span class=&quot;int-own-work&quot; lang=&quot;en&quot;&gt;Own work&lt;/span&gt;, &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/3.0&quot; title=&quot;Creative Commons Attribution-Share Alike 3.0&quot;&gt;CC BY-SA 3.0&lt;/a&gt;, &lt;a href=&quot;https://commons.wikimedia.org/w/index.php?curid=32274330&quot;&gt;Link&lt;/a&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Not too long ago I became aware that William Dembski had a new 
-article (&lt;a href=&quot;https://bio-complexity.org/ojs/index.php/main/article/view/BIO-C.2025.2/BIO-C.2025.2&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;) in the 
-BIO-Complexity (the Discovery Institute’s house 
-journal).  And that a section of that article disputed my 
-statements about smooth fitness landscapes (or fitness 
-surfaces).&lt;/p&gt;
-
-&lt;p&gt;He is replying to a post by me here at Panda’s Thumb on 
-6 February 2025 (&lt;a href=&quot;https://pandasthumb.org/archives/2025/02/Conservation-of-arguments.html&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;).  He and Robert Marks
-(and also Winston Ewert) had argued that there was a Conservation of Information 
-law, that showed that when information gets into 
-genomes, it must have already existed elsewhere. 
-They said that this was even true when natural 
-evolutionary processes put adaptive information 
-into the genome – it must have already existed, 
-for example, in the fitness landscape.&lt;/p&gt;
-
-&lt;p&gt;Their argument (which can be seen &lt;a href=&quot;https://www.evoinfo.org/papers/2009_ConservationOfInformationInSearch.pdf&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt; and
-&lt;a href=&quot;https://bio-complexity.org/ojs/index.php/main/article/download/BIO-C.2013.4/BIO-C.2013.4&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;) 
-uses the concept of “active information”.  For situations in which 
-there is a population evolving on a fitness landscape, active 
-information can include the information embodied in the 
-assignment of fitnesses to genotypes.&lt;/p&gt;
-
-&lt;p&gt;Dembski, in his BIO-Complexity paper, summarizes 
-my arguments thusly:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;ol&gt;
-    &lt;li&gt;Real-life biological evolution requires smooth fitness landscapes.&lt;/li&gt;
-    &lt;li&gt;Physics and chemistry guarantee that real-life fitness landscapes are smooth.&lt;/li&gt;
-    &lt;li&gt;Any probability estimates of smooth fitness landscapes among the totality of fitness landscapes are
-therefore irrelevant.&lt;/li&gt;
-    &lt;li&gt;No-free-lunch theorems hold for the totality of fitness landscapes, both smooth and non-smooth.&lt;/li&gt;
-    &lt;li&gt;No-free-lunch theorems therefore do not apply to real-life biological evolution.&lt;/li&gt;
-    &lt;li&gt;Conservation of information is equivalent to no freelunch, so conservation of information is likewise
-irrelevant to real-life biological evolution.&lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;He argues that there are exceptions to all fitness landscapes being smooth, 
-and that I have conflated the No Free Lunch argument with his 
-Conservation of Information argument, and that the 
-latter is his essential argument.&lt;/p&gt;
-
-&lt;p&gt;Let’s look at his refutation in some detail:&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;We’ll consider a simple case of evolution.  A case where we have a 
-set of genotypes, and each possible one has a fitness.  Where 
-there is a simple form of mutation which changes a genotype by 
-substituting one base for another at one of the sites of 
-the genotype.  The mapping between genotype and fitness 
-is the fitness landscape.&lt;/p&gt;
-
-&lt;h3 id=&quot;dembskis-2002-argument&quot;&gt;Dembski’s 2002 argument&lt;/h3&gt;
-
-&lt;p&gt;If we go back to his 2002 book, Dembski poses tne 
-question of whether “algorithms” such as natural 
-selection can explain the origin of Complex Specified 
-information.  He argues (on page 149) that&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Algorithms and natural laws are in principle incapable
-of explaining the origin of CSI.  To be sure, algorithms
-and natural laws can explain the flow of CSI.  Indeed,
-algorithms and natural laws are ideal for transmitting
-already existing CSI.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Taking that position, in the case of a fitness landscape, 
-if natural selection and other evolutionary processes 
-achieve an increase in fitness great enough to be counted 
-as Complex Specified Information, that information must 
-be already existing in the form of the fitness landscape 
-(or as he called them in 2002, fitness functions).&lt;/p&gt;
-
-&lt;p&gt;Dembski concludes (p. 195), for the case of an evolutionary 
-algorithm, that it&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;has borrowed specified complexity&lt;br /&gt;
-from a higher-order phase space, namely, the phase space 
-of fitness functions.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;where-no-free-lunch-comes-in&quot;&gt;Where No Free Lunch comes in&lt;/h3&gt;
-
-&lt;p&gt;For all possible genotypes (say 3 billion bases in a 
-hapoid genome, with each base being one of A, C, G or T) 
-the fitness is a nonnegative real number.  The set of 
-all possible combinations of fitnesses is a &lt;em&gt;very&lt;/em&gt; big 
-space, and that does not even consider variation in the 
-length of the genome.&lt;/p&gt;
-
-&lt;p&gt;To consider how much specified information comes from 
-the particular fitness landscape, we need to know 
-the probabilities of all possible combinations of fitnesses.
-That is a very big space.&lt;/p&gt;
-
-&lt;p&gt;A much smaller and simpler space is the one considered 
-by Wolpert and Macready in their No Free 
-Lunch theorem (&lt;a href=&quot;https://www.cs.ubc.ca/~hutter/earg/papers07/00585893.pdf&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;). 
-They consider one assignment of fitnesses to all of the 
-possible sequences, and then permute those assignments in 
-all possible ways.  Their No Free Lunch theorem shows that, 
-averaged over all of these assignments, when they were 
-weighted equally and the search algorithm looked at K genotypes in all, the success of search for higher 
-fitnesses would be no better than choosing the best out of arandomly chosen 
-K genotypes.&lt;/p&gt;
-
-&lt;p&gt;This means that when the search algorithm found success by 
-moving one step in a particular direction, an algorithm that 
-continues to move further 
-that direction would not help with further gains.  When 
-the fitness landscape is equally likely to see any permutation of fitnesses, 
-there is no way to choose any good direction to move.&lt;/p&gt;
-
-&lt;h3 id=&quot;strong-and-unpredictable-interactions-between-sites&quot;&gt;Strong and unpredictable interactions between sites&lt;/h3&gt;
-
-&lt;p&gt;In the No Free Lunch case, there are also typically very strong 
-and unpredictable interactions between sites.  If we have two 
-different sites in the genome, and find a favorable substitution 
-at each of them, what happens when both of these substitutions 
-have occurred?  The combination of them is yet another haploid genome, 
-so that there is no way to predict what the fitness will be when 
-both changes have occurred.&lt;/p&gt;
-
-&lt;h3 id=&quot;is-the-no-free-lunch-case-the-worst-case-for-evolution&quot;&gt;Is the No Free Lunch case the worst case for evolution?&lt;/h3&gt;
-
-&lt;p&gt;The point of invoking the No Free Lunch theorem is to show 
-a situation in which evolutionary change will do not better 
-than a search that looked at the same number of genotypes, 
-but picked at random from all possible genotypes.  Is that 
-case one in which no progress is made?  Some progress will 
-be made.  By finding the highest fitness among K genotypes, 
-we do put some functional information into the organism’s 
-genome.&lt;/p&gt;
-
-&lt;p&gt;K+L simulations
-stalling on local peaks&lt;/p&gt;
-
-&lt;p&gt;NOTE:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Specification increases at each step, 
-whether in a white-noise surface or in a 
-smooth one.&lt;/li&gt;
-  &lt;li&gt;Kauffman and Levin (?) simulatiom&lt;/li&gt;
-  &lt;li&gt;So both within-landscape and in choice of 
-landscapes information is gained.&lt;/li&gt;
-  &lt;li&gt;We are stuck with the rules of physics.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;is-intelligence-required&quot;&gt;Is intelligence required?&lt;/h3&gt;
-
-&lt;h3 id=&quot;is-there-a-predisposition-to-csi-in-real-fitness-functions&quot;&gt;Is there a predisposition to CSI in real fitness functions&lt;/h3&gt;
-
-&lt;h3 id=&quot;what-did-i-say-about-physics-and-fitness-landscapes&quot;&gt;What did I say about physics and fitness landscapes?&lt;/h3&gt;
-
-&lt;h3 id=&quot;a-strawman-but-no-refutation&quot;&gt;A strawman, but no refutation&lt;/h3&gt;
-
-&lt;h3 id=&quot;no-free-lunch-versus-conservation-of-information&quot;&gt;No Free Lunch versus conservation of information&lt;/h3&gt;
-
-&lt;h2&gt;================================================================================================&lt;/h2&gt;
-&lt;p&gt;================================================================================================&lt;/p&gt;
-
-&lt;p&gt;oops, folks.  Have not written most of post yet.  Will 
-be reposted in a day or two.  Right now just some 
-quoted stuff from Dembski, not all of which will be in 
-the final post.&lt;/p&gt;
-
-&lt;p&gt;========================================
-Dembski’s critique:&lt;/p&gt;
-
-&lt;p&gt;By themselves, the no-free-lunch theorems do not
-refute Darwinism, nor have I ever claimed that they
-do. Yes, I wrote a book titled No Free Lunch (pub
-lished in 2002) that used the no-free-lunch theorems as
-a springboard to critically re-examine the power of the
-Darwinian mechanism in explaining biological complexity
-and from there to argue that design is a better expla
-nation of biological complexity. Yet Darwinian critics
-of conservation of information have ever since conflated
-Volume 2025 | Issue 2 | Page 32
-conservation of information with no free lunch, arguing
-The Law of Conservation of Information
-(rightly) that no free lunch fails to refute Darwinism, but
-then claiming (wrongly) that conservation of information
-is identical with no free lunch and thus likewise fails.
-Hence the fallacy of false equivalence, in which these
-critics refute what was not contested and then claim that
-the refutation refutes something else.
-Joseph Felsenstein is a case in point, but he is rep
-resentative of Jason Rosenhouse, the late Mark Perakh,
-Richard Wein, Erik Tellgren, Ole H¨aggstr¨om, and the
-duo of Wesley Elsberry and Jeffrey Shallit.43 The no
-free-lunch theorems show that any algorithm averaged
-over fitness landscapes (Felsenstein calls them “fitness
-surfaces”) is equivalent to any other algorithm when aver
-aged in this way. It then follows that any such averaged
-algorithm is equivalent to blind search. In the statement
-of these theorems, no restriction is placed on the fitness
-landscapes. Thus they can be completely jagged, with
-one member of the configuration space having a com
-pletely different fitness value from an immediate neighbor.
-Most fitness landscapes would thus be like hash functions
-in cryptography (Felsenstein describes them as “white
-noise fitness surfaces”) where the slightest change in an
-input completely alters the numerical output [42].
-Now Felsenstein’s point is that such jagged fitness
-landscapes, as allowed by no-free-lunch theorems, violate
-biological reality. The fitness landscapes conducive to
-evolvability, such as might characterize how genotypes
-promote reproductive success, must, according to him,
-be smooth. Why? Because of physics. Thus he remarks:
-[I]t seems reasonable that physics itself predis
-poses fitness surfaces to be smooth. After all,
-the forces of physics tend to be local in time
-and space and to lose influence with greater
-distance. If I gesture with my fingers, there
-is hardly any effect on objects at a distance.
-The floor of our room does not collapse, nor
-does the ceiling cave in. Different objects are
-scarcely affected by each other.44
-The problems with this reasoning are numerous. In the
-first place, physics does have a place for precipitous and
-even nonlocal effects. Quantum entanglement is instan
-taneous and unaffected by distance. Phase transitions
-in nonlinear dynamics may produce radical changes in
-the behavior of a system with but the slightest change
-in a parameter. Felsenstein’s argument is based on folk
-physics, not modern physics and as such is unconvincing.
-43See
-guments,”
-Joseph
-Felsenstein,
-Panda’s
-“Conservation
-Thumb
-(February
-6,
-of
-Ar
-2025):
-https://pandasthumb.org/archives/2025/02/Conservation
-of-arguments.html (last accessed February 24, 2025). For the
-criticisms by Rosenhouse et al., see the relevant links in the
-Felsenstein article.
-44Felsenstein, “Conservation of Arguments.”
-Leaving aside physics, Felsenstein cites mutational
-effects as empirical evidence for smoothness of fitness
-landscapes. In fact, he defines smoothness to mean
-that small mutational changes lead to small functional
-changes. According to Felsenstein, the empirical evidence
-shows that single mutations typically result in small, pre
-dictable changes rather than chaotic, random effects. But
-smoothness in this sense admits striking exceptions. A
-host of serious genetic diseases such as sickle cell ane
-mia, phenylketonuria, and Tay-Sachs disease all result
-from single point mutations. Nonsense mutations, where
-a single nucleotide substitution produces a stop codon
-within a coding sequence, cause premature termination
-of protein synthesis, sometimes with lethal consequences.
-Frameshift mutations, which may be caused by a single
-nucleotide insertion or deletion, completely disrupt pro
-tein synthesis downstream of the mutation, often with
-huge consequences. And even single amino-acid substitu
-tions caused by single nucleotide substitutions can have
-drastic effects, depending on the location and the role of
-the protein. Thus, contrary to Felsenstein’s smoothness
-hypothesis, minor genetic change can and does lead to a
-catastrophic loss of function.
-According to Bill Gates, “DNA is like a computer pro
-gram but far, far more advanced than any software ever
-created” [43, p. 188]. But, as we just saw, smoothness
-admits exceptions with digital codes in cells. Likewise,
-it admits exceptions with digital codes in computer soft
-ware. In fact, it is fairer to say that smoothness is the
-exception rather than the rule in computer programs.
-Indeed, one stray letter, one comma out of place, can sub
-vert a program, preventing it from achieving its objective,
-if it even functions at all.
-Evolutionists never define smoothness of fitness land
-scapes with anything like mathematical precision. But
-let us say that smoothness could be made mathemati
-cally precise and that for biological evolution to work it
-requires smooth fitness landscapes. Smoothness, even
-then, cannot guarantee the evolvability needed for Dar
-winian theory to be successful. Smoothness has to mean
-something like that by moving to near neighbors, fitness
-should not change drastically. Empirical evidence from
-some genetic diseases, as noted, contradicts smoothness
-in this sense. But even if smoothness could be said to
-hold most of the time, it says nothing about regions
-of a biological configuration space where fitness is zero.
-Indeed, fitness landscapes that are zero over such regions
-are as smooth as they can be over those regions. More
-over, if fitness is zero over sufficiently vast regions of
-a configuration space, the viable candidates for evolu
-tion will be sparsely distributed, drastically curtailing
-evolvability.
-Additionally, smoothness does nothing to assuage the
-problem of multiple local optima where fitness cannot be
-improved by gradual evolution. In this case, evolution
-Volume 2025 | Issue 2 | Page 33
-The Law of Conservation of Information
-gets stuck because it cannot break away from those
-local optima, there being no gradual way for fitness to
-improve. Fortunately, evolution allows for more radical
-genetic events than point mutations, such as inversions,
-translocations, deletions, and duplications. But in that
-case, smoothness loses its hold because, with such large
-scale structural changes, all bets are off as to what effect
-they may have on evolution. Smoothness is essentially a
-continuity condition, and continuity is always a matter
-of small local changes in an independent variable leading
-to small changes in a dependent variable. Smoothness
-says nothing about how the dependent variable may
-change in response to large-scale non-local changes in the
-independent variable. And genetics allows such changes.
-Felsenstein’s argument can thus be summarized as
-follows:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Real-life biological evolution requires smooth fit
-ness landscapes.&lt;/li&gt;
-  &lt;li&gt;Physics and chemistry guarantee that real-life fit
-ness landscapes are smooth.&lt;/li&gt;
-  &lt;li&gt;Any probability estimates of smooth fitness land
-scapes among the totality of fitness landscapes are
-therefore irrelevant.&lt;/li&gt;
-  &lt;li&gt;No-free-lunch theorems hold for the totality of fit
-ness landscapes, both smooth and non-smooth.&lt;/li&gt;
-  &lt;li&gt;No-free-lunch theorems therefore do not apply to
-real-life biological evolution.&lt;/li&gt;
-  &lt;li&gt;Conservation of information is equivalent to no free
-lunch, so conservation of information is likewise
-irrelevant to real-life biological evolution.
-Felsenstein’s argument is problematic for more than
-just point 6. As we’ve seen, smoothness as applied to
-fitness landscapes in evolution is questionable on both
-theoretical and empirical grounds. Points 1 to 3 are
-therefore problematic. But even granting points 1 to
-5, the falsity point 6 means conservation of information
-puts design back in the running in biology. Even though
-Felsenstein mistakenly conflates of the two, conservation
-of information is distinct from no free lunch. Whatever
-fitness landscapes and other conditions on evolvability
-are needed to bring about a system like Douglas Axe’s
-beta-lactamase, if those conditions raise the probability
-of success of evolving such a system, those conditions
-themselves become highly improbable and require expla
-nation.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The baseline probability for a system like beta
-lactamase is indeed small because of the radical con
-tingency and numerous degrees of freedom of its peptide
-constituents (see Subsection 10.4). Evolvability therefore
-grinds to a halt unless it can overcome these otherwise
-inherent improbabilities (just as, in Section 8, Dawkins’
-hill-climbing algorithm overcame the inherent improba
-bility of generating by purely random means the target
-phrase METHINKS IT IS LIKE A WEASEL). Conser
-vation of information tracks the probabilistic cost of
-overcoming improbability. As such, conservation of infor
-mation is not concerned with the details of how evolution
-does it. In particular, it is irrelevant if smooth fitness
-landscapes, however these are defined, are improbable
-within a wider class of fitness landscapes, and whether a
-no-free-lunch theorem exists or does not exist to tease
-apart the fitness landscapes that facilitate evolution from
-those that do not.&lt;/p&gt;
-
-&lt;p&gt;The fundamental problem with Felsenstein’s critique
-of conservation of information is this: it is simply irrel
-evant whether no-free-lunch theorems undercut or fail
-to undercut Darwinian evolution. What is relevant is
-that no-free-lunch theorems have no way to undercut
-conservation of information. Conflating the two is ille
-gitimate. True, in the history of scientific discovery, no
-free lunch preceded and provided inspiration for conser
-vation of information. No free lunch showed that when
-averaged over fitness landscapes, no search algorithm
-outperformed any other. But some search algorithms
-do outperform others for given problems. What, then,
-empowers some algorithms to outperform others? The
-short answer: information.&lt;/p&gt;
-
-&lt;p&gt;No free lunch raises the right question but by itself
-does not answer it. The answer depends on conservation
-of information. Conservation of information characterizes
-the performance of algorithms in terms of their proba
-bility of successfully carrying out searches (the bigger
-the probability, the better the performance). The very
-statement of the Law of Conservation of Information, by
-being framed strictly in terms of probabilities, contains
-no reference to fitness landscapes and in no way depends
-on the statements or proofs of the no-free-lunch theo
-rems. That is not to say that fitness may not arise in
-some applications of conservation of information. Ap
-pendix 2, for instance, in recapping previously proven
-conservation-of-information theorems, states a fitness
-theoretic conservation-of-information theorem. But in
-any discussions of evolvability, conservation of informa
-tion can be considered on its own terms irrespective of
-no free lunch&lt;/p&gt;</content><author><name>Joe Felsenstein</name></author><summary type="html">A fitness landscape computed from an NK-algorithm. By Randy Olson - Own work, CC BY-SA 3.0, Link &amp;nbsp; Not too long ago I became aware that William Dembski had a new article (here) in the BIO-Complexity (the Discovery Institute’s house journal). And that a section of that article disputed my statements about smooth fitness landscapes (or fitness surfaces). He is replying to a post by me here at Panda’s Thumb on 6 February 2025 (here). He and Robert Marks (and also Winston Ewert) had argued that there was a Conservation of Information law, that showed that when information gets into genomes, it must have already existed elsewhere. They said that this was even true when natural evolutionary processes put adaptive information into the genome – it must have already existed, for example, in the fitness landscape. Their argument (which can be seen here and here) uses the concept of “active information”. For situations in which there is a population evolving on a fitness landscape, active information can include the information embodied in the assignment of fitnesses to genotypes. Dembski, in his BIO-Complexity paper, summarizes my arguments thusly: Real-life biological evolution requires smooth fitness landscapes. Physics and chemistry guarantee that real-life fitness landscapes are smooth. Any probability estimates of smooth fitness landscapes among the totality of fitness landscapes are therefore irrelevant. No-free-lunch theorems hold for the totality of fitness landscapes, both smooth and non-smooth. No-free-lunch theorems therefore do not apply to real-life biological evolution. Conservation of information is equivalent to no freelunch, so conservation of information is likewise irrelevant to real-life biological evolution. He argues that there are exceptions to all fitness landscapes being smooth, and that I have conflated the No Free Lunch argument with his Conservation of Information argument, and that the latter is his essential argument. Let’s look at his refutation in some detail:</summary></entry><entry><title type="html">Jared Diamond: What if Darwin had died in childbirth&amp;amp;quest;</title><link href="https://pandasthumb.org/archives/2026/10/jared-diamond-what-if-darwin.html" rel="alternate" type="text/html" title="Jared Diamond: What if Darwin had died in childbirth&amp;amp;quest;" /><published>2026-10-29T10:50:00-07:00</published><updated>2026-10-29T10:50:00-07:00</updated><id>https://pandasthumb.org/archives/2026/10/jared-diamond-what-if-darwin</id><content type="html" xml:base="https://pandasthumb.org/archives/2026/10/jared-diamond-what-if-darwin.html">&lt;figure class=&quot;on-the-left-side&quot; style=&quot;margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://pandasthumb.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pandasthumb.org/" rel="alternate" type="text/html" /><updated>2026-10-31T16:23:30-07:00</updated><id>https://pandasthumb.org/feed.xml</id><title type="html">The Panda’s Thumb</title><entry><title type="html">Jared Diamond: What if Darwin had died in childbirth&amp;amp;quest;</title><link href="https://pandasthumb.org/archives/2026/10/jared-diamond-what-if-darwin.html" rel="alternate" type="text/html" title="Jared Diamond: What if Darwin had died in childbirth&amp;amp;quest;" /><published>2026-10-29T10:50:00-07:00</published><updated>2026-10-29T10:50:00-07:00</updated><id>https://pandasthumb.org/archives/2026/10/jared-diamond-what-if-darwin</id><content type="html" xml:base="https://pandasthumb.org/archives/2026/10/jared-diamond-what-if-darwin.html">&lt;figure class=&quot;on-the-left-side&quot; style=&quot;margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;&quot;&gt;
 
 &lt;img src=&quot;/uploads/2026/Charles_Darwin_1816_600.jpg&quot; alt=&quot;Portrait of Darwin aged 6&quot; /&gt;
 
@@ -637,4 +220,270 @@ this is a test to see what is the problem.&lt;/p&gt;
 
 &lt;figcaption&gt;&lt;i&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Elephant&quot;&gt;Loxodonta cyclotis&lt;/a&gt;&lt;/i&gt; &amp;ndash; African elephant. Dr. Eissenberg writes, &quot;Image taken at Roger Williams Park Zoo in Providence RI. Elephants have &lt;a href=&quot;https://www.smithsonianmag.com/smart-news/How-African-Elephants-Get-Their-Wrinkles-180970463/&quot;&gt;wrinkled skin&lt;/a&gt; composed of a dense network of fractures that helps them survive in hot climates. The deep creases form a web of microvalleys that trap moisture, allowing their skin to retain up to ten times more water than a smooth surface. This trapped moisture cools them through evaporation.&quot; &lt;/figcaption&gt;
 
-&lt;/figure&gt;</content><author><name>Matt Young</name></author><summary type="html">Photography Contest. Joel Eissenberg, Honorable Mention. Loxodonta cyclotis &amp;ndash; African elephant. Dr. Eissenberg writes, &quot;Image taken at Roger Williams Park Zoo in Providence RI. Elephants have wrinkled skin composed of a dense network of fractures that helps them survive in hot climates. The deep creases form a web of microvalleys that trap moisture, allowing their skin to retain up to ten times more water than a smooth surface. This trapped moisture cools them through evaporation.&quot;</summary></entry></feed>
+&lt;/figure&gt;</content><author><name>Matt Young</name></author><summary type="html">Photography Contest. Joel Eissenberg, Honorable Mention. Loxodonta cyclotis &amp;ndash; African elephant. Dr. Eissenberg writes, &quot;Image taken at Roger Williams Park Zoo in Providence RI. Elephants have wrinkled skin composed of a dense network of fractures that helps them survive in hot climates. The deep creases form a web of microvalleys that trap moisture, allowing their skin to retain up to ten times more water than a smooth surface. This trapped moisture cools them through evaporation.&quot;</summary></entry><entry><title type="html">Ken Ham's attack on the press</title><link href="https://pandasthumb.org/archives/2026/09/ken-hams-attack-press.html" rel="alternate" type="text/html" title="Ken Ham's attack on the press" /><published>2026-09-05T18:36:00-07:00</published><updated>2026-09-05T18:36:00-07:00</updated><id>https://pandasthumb.org/archives/2026/09/ken-hams-attack-press</id><content type="html" xml:base="https://pandasthumb.org/archives/2026/09/ken-hams-attack-press.html">&lt;figure class=&quot;on-the-left-side&quot; style=&quot;margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;&quot;&gt;
+
+&lt;img src=&quot;/uploads/2026/Phelps_Ark_On_Opening_Day.jpg&quot; alt=&quot;The fake ark on opening day, by Dan Phelps.&quot; /&gt;
+
+&lt;figcaption&gt;The &quot;Ark&quot; on opening day. &lt;small&gt;Photograph by Dan Phelps. &lt;/small&gt;&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;Recently, Marina Johnson of the Louisville Courier-Journal and Jolene Almendarez of the Cincinnati Enquirer &lt;a href=&quot;https://www.courier-journal.com/story/news/local/2026/08/21/kentuckys-ark-encounter-ticket-sales-are-down-over-past-decade/91402856007/&quot;&gt;duplicated some of my work and documented declining Ark ticket sales&lt;/a&gt; (they confirmed what I have been documenting for many months. They also confirmed that the sales tax rebate incentive from Kentucky Tourism ended in mid-August, 2026).&lt;/p&gt;
+
+&lt;p&gt;Tellingly, &lt;i&gt;Ken Ham refused to be interviewed for this story.&lt;/i&gt; Rather, on August 25, Mr. Ham responded with an &lt;a href=&quot;https://youtu.be/i9WPEFfKNPM?is=YIVzzJTirjV_ChED&quot;&gt;AIG-produced video&lt;/a&gt;. The video is filled with “jokes” and brief cuts of Donald Trump.&lt;/p&gt;
+
+&lt;p&gt;Apparently, Mr. Ham doesn’t like speaking to reporters who might ask him difficult questions. Mr. Ham spent more time in this video discussing declining newspaper sales than the fact that his Ark is selling fewer tickets every year. He basically admitted that ticket sales are declining but deflected the issue by pointing out that the newspaper that originally published the story (the Cincinnati &lt;i&gt;Enquirer&lt;/i&gt;) has declining sales. Mr. Ham is such a master of obfuscation that his followers are likely to not understand the deceitful and irrelevant switch in topics.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;strong&gt;Ark Attendance through July 2026&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;According to my monthly Kentucky Open Records Act (KORA) request, in July 2026 the Ark sold 105,911 tickets. This is approximately 1,700 more than were sold in July 2025, but far less than July of any other year except 2020 (which is easily attributable to COVID).&lt;/p&gt;
+
+&lt;p&gt;Although there was a tiny increase in July, these numbers indicate that the Ark will never come near the 1.2 to 2.2 million projected by Answers in Genesis when they were begging and bullying to get numerous perks from Kentucky State Government, Grant County, and the City of Williamstown. To the contrary, they could possibly sell 700,000 tickets this year (the Ark sold 652,342 tickets in 2025). These attendance numbers don’t include children under 10 and lifetime pass holders, but it is difficult to see how these additional factors would total more than a half-million additional visitors.&lt;/p&gt;
+
+&lt;p&gt;These declining numbers matter because the Ark lied to the Commonwealth of Kentucky, Grant County, Williamstown, and others when they were bullying these entities into providing incentives, free land, tax breaks, and many other perks when the Ark was first proposed. William Trollinger has documented that in the Ark’s &lt;a href=&quot;https://highyieldmunicipals.wordpress.com/wp-content/uploads/2013/10/williamstown-ky-ark-encounter-pos.pdf&quot;&gt;own feasibility study&lt;/a&gt; when it was yet to be built, the theme park would be getting around 2.5 million visitors per year by now. (See also &lt;a href=&quot;https://rightingamerica.net/sinking-further-and-further-below-their-projections-the-facts-of-ark-encounter-attendance&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I am still predicting that in coming months the Ark will switch from for-profit status to non-profit because the tax rebate incentives are ending. This will result in a financial loss for the City of Williamstown, which gets a 50 cents per ticket safety fee for each ticket the Ark sells. This safety fee is how I monitor Ark ticket sales every month. The safety fee supports Williamstown EMT/police/fire department because of the possible effects of the Ark on these services. When the safety fee ends we will be in the dark as to ticket sales. The attendance numbers don’t include free admission for children under 10 and yearly or lifetime pass holders, as Mr. Ham asserted. However, Mr. Ham knows what the precise attendance is and could easily release his numbers, but tellingly he declines to do so. He will continue to avoid a skeptical press and merely produce propaganda for his followers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Appendix. Ark Safety Numbers via Kentucky Open Records Act Requests from Williamstown, Ky. &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;Dan Phelps has doggedly been monitoring the attendance at the Ark Park since its inception in 2017. Specifically, he uses the Kentucky Open Records Act to obtain the $0.50/ticket safety fee that the Ark pays to the municipality each month and thereby estimates the total attendance. There may be one more entry for August.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;2017: (July-December total 514,162)&lt;/p&gt;
+
+&lt;p&gt;July: 142,626 (Safety Fee amount: $71,313.00)&lt;/p&gt;
+
+&lt;p&gt;August: 106,161 ($53,080.50)&lt;/p&gt;
+
+&lt;p&gt;September: 83,330 ($41,665.00)&lt;/p&gt;
+
+&lt;p&gt;October: 93,659 ($46,829.50)&lt;/p&gt;
+
+&lt;p&gt;November: 51,914 ($25,957.00)&lt;/p&gt;
+
+&lt;p&gt;December: 36,472 ($18,236.00)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;2018: (Total 827,591)&lt;/p&gt;
+
+&lt;p&gt;January: 13,250 ($6,625.00)&lt;/p&gt;
+
+&lt;p&gt;February: 17,961 ($8,980.50)&lt;/p&gt;
+
+&lt;p&gt;March: 62,251 ($31,125.50)&lt;/p&gt;
+
+&lt;p&gt;April: 67,613 ($33,806.50)&lt;/p&gt;
+
+&lt;p&gt;May: 73,353 ($36,676.50)&lt;/p&gt;
+
+&lt;p&gt;June: 113,901 ($56,950.50)&lt;/p&gt;
+
+&lt;p&gt;July: 135,922 ($67,961.00)&lt;/p&gt;
+
+&lt;p&gt;August: 98,106 ($49,053.00)&lt;/p&gt;
+
+&lt;p&gt;September: 69,207 ($34,603.50)&lt;/p&gt;
+
+&lt;p&gt;October: 89,434 ($44,717.00)&lt;/p&gt;
+
+&lt;p&gt;November: 40,193 ($20,096.50)&lt;/p&gt;
+
+&lt;p&gt;December: 46,400 ($24,200.00)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;2019: (Total 897,189)&lt;/p&gt;
+
+&lt;p&gt;January: 14,885 ($7,442.50)&lt;/p&gt;
+
+&lt;p&gt;February: 16,328 ($8,164.00)&lt;/p&gt;
+
+&lt;p&gt;March 2019: 70,466 ($35,233.00)&lt;/p&gt;
+
+&lt;p&gt;April 2019: 79,908 ($39,554.00)&lt;/p&gt;
+
+&lt;p&gt;May 2019: 90,803 ($45,401.50)&lt;/p&gt;
+
+&lt;p&gt;June 2019: 124,230 ($62,115.00)&lt;/p&gt;
+
+&lt;p&gt;July 2019: 160,124 ($80,062.00)&lt;/p&gt;
+
+&lt;p&gt;August 2019: 104,350 ($52,175)&lt;/p&gt;
+
+&lt;p&gt;September 2019: 73,541 ($36,770.50)&lt;/p&gt;
+
+&lt;p&gt;October 2019: 86,998 ($43,494.00)&lt;/p&gt;
+
+&lt;p&gt;November 2019: 37,686 ($18,881)&lt;/p&gt;
+
+&lt;p&gt;December 2019: 37,880 ($18,940)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;2020: (Total 347,684* Covid year)&lt;/p&gt;
+
+&lt;p&gt;January 2020: 15,790 ($7,895.00)&lt;/p&gt;
+
+&lt;p&gt;February 2020: 17,290 ($8,645.00)&lt;/p&gt;
+
+&lt;p&gt;March 2020: 15,145($7572.50)&lt;/p&gt;
+
+&lt;p&gt;April 2020: 0 ($0)&lt;/p&gt;
+
+&lt;p&gt;May 2020: 2,047 ($1,023.50)&lt;/p&gt;
+
+&lt;p&gt;June 2020: 40,434 ($20,217.00)&lt;/p&gt;
+
+&lt;p&gt;July 2020: 57,632 ($28,816.00)&lt;/p&gt;
+
+&lt;p&gt;August 2020: 46,562 ($23,281.00)&lt;/p&gt;
+
+&lt;p&gt;September 2020: 44,571 ($22,285.50)&lt;/p&gt;
+
+&lt;p&gt;October 2020: 49,835 ($24,917.50)&lt;/p&gt;
+
+&lt;p&gt;November 2020: 24,105 ($12,052.50)&lt;/p&gt;
+
+&lt;p&gt;December 2020: 34,273 ($17,136.50)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;2021: (Total 772,156)&lt;/p&gt;
+
+&lt;p&gt;January 2021: 11,354 ($5,677)&lt;/p&gt;
+
+&lt;p&gt;February 2021: 11,577 ($5,788.50)&lt;/p&gt;
+
+&lt;p&gt;March 2021: 57, 801 ($28,900.50)&lt;/p&gt;
+
+&lt;p&gt;April 2021: 64,479 ($32,239.50)&lt;/p&gt;
+
+&lt;p&gt;May 2021: 76,089 ($38,044.50)&lt;/p&gt;
+
+&lt;p&gt;June 2021: 109,694 ($54,847)&lt;/p&gt;
+
+&lt;p&gt;July 2021: 134,945 ($67,472.50)&lt;/p&gt;
+
+&lt;p&gt;August 2021: 83,826 ($41,913.00)&lt;/p&gt;
+
+&lt;p&gt;September 2021: 64,301 ($32,150.50)&lt;/p&gt;
+
+&lt;p&gt;October 2021: 73,328 ($36,664.00)&lt;/p&gt;
+
+&lt;p&gt;November 2021: 44,291 ($22,145.50)&lt;/p&gt;
+
+&lt;p&gt;December 2021: 40,671 ($20,335.50)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;2022: (Total 748,354)&lt;/p&gt;
+
+&lt;p&gt;January 2022: 11,030 ($5,515.00)&lt;/p&gt;
+
+&lt;p&gt;February 2022: 10,826 ($5,413.00)&lt;/p&gt;
+
+&lt;p&gt;March 2022: 59,428 ($29,714.00)&lt;/p&gt;
+
+&lt;p&gt;April 2022: 69,068 ($34 534.00)&lt;/p&gt;
+
+&lt;p&gt;May 2022: 81,378 ($40,689.00)&lt;/p&gt;
+
+&lt;p&gt;June 2022: 102,639 ($51,319.50)&lt;/p&gt;
+
+&lt;p&gt;July 2022: 110,098 ($55,049.00)&lt;/p&gt;
+
+&lt;p&gt;August 2022: 83,638 ($41,819.00)&lt;/p&gt;
+
+&lt;p&gt;September 2022: 68,301 ($34,150.50)&lt;/p&gt;
+
+&lt;p&gt;October 2022: 74,864 ($37,432.00)&lt;/p&gt;
+
+&lt;p&gt;November 2022: 39,125 ($19562.50)&lt;/p&gt;
+
+&lt;p&gt;December 2022: 37,959 ($18,979.50)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;2023: (Total 786,829)&lt;/p&gt;
+
+&lt;p&gt;January 2023: 14,724 ($7,362.00)&lt;/p&gt;
+
+&lt;p&gt;February 2023: 23,020 ($11,510.00)&lt;/p&gt;
+
+&lt;p&gt;March 2023: 66,390 ($33,195.00)&lt;/p&gt;
+
+&lt;p&gt;April 2023: 70,700 ($35,350.00)&lt;/p&gt;
+
+&lt;p&gt;May 2023:82,585 ($41,292.50)&lt;/p&gt;
+
+&lt;p&gt;June 2023: 111,256 ($55,628.00)&lt;/p&gt;
+
+&lt;p&gt;July 2023: 123,777 ($61,888.50)&lt;/p&gt;
+
+&lt;p&gt;August 2023: 79,576 ($39,798.00)&lt;/p&gt;
+
+&lt;p&gt;September 2023: 66,460 ($33,230.00)&lt;/p&gt;
+
+&lt;p&gt;October 2023: 69,773 ($34,886.50)&lt;/p&gt;
+
+&lt;p&gt;November 2023: 38,768 ($19,384.00)&lt;/p&gt;
+
+&lt;p&gt;December 2023: 39,780 ($19,890.00)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;2024: (Total 743,572)&lt;/p&gt;
+
+&lt;p&gt;January 2024: 13,405 ($6,702.50)&lt;/p&gt;
+
+&lt;p&gt;February 2024: 21,351 ($10,675.50)&lt;/p&gt;
+
+&lt;p&gt;March 2024: 67,582 ($33,791.00)&lt;/p&gt;
+
+&lt;p&gt;April 2024: 66,681 ($33,340.50)&lt;/p&gt;
+
+&lt;p&gt;May 2024: 75,546 ($37,773.00)&lt;/p&gt;
+
+&lt;p&gt;June 2024: 101,559 ($50,799.50)&lt;/p&gt;
+
+&lt;p&gt;July 2024: 116,908 ($58,454.00)&lt;/p&gt;
+
+&lt;p&gt;August 2024: 82,477 ($41,238.50)&lt;/p&gt;
+
+&lt;p&gt;September 2024: 54,378 ($27,189.00)&lt;/p&gt;
+
+&lt;p&gt;October 2024: 63,912 ($31,956.00)&lt;/p&gt;
+
+&lt;p&gt;November 2024: 40,572 ($20,286.00)&lt;/p&gt;
+
+&lt;p&gt;December 2024: 39,201 ($19,600.50)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;2025: (Total 652,342)&lt;/p&gt;
+
+&lt;p&gt;January 2025: 17,846 ($8,923.00)&lt;/p&gt;
+
+&lt;p&gt;February 2025: 15,699 ($7,849.50)&lt;/p&gt;
+
+&lt;p&gt;March 2025: 57,337 ($28,668.50)&lt;/p&gt;
+
+&lt;p&gt;April 2025: 43,019 ($21,509.50)&lt;/p&gt;
+
+&lt;p&gt;May 2025: 59,268 ($29,634.00)&lt;/p&gt;
+
+&lt;p&gt;June 2025: 91,484 ($45,742.00)&lt;/p&gt;
+
+&lt;p&gt;July 2025: 104,136 ($52,068.00)&lt;/p&gt;
+
+&lt;p&gt;August 2025: 73,313 ($36,656.50)&lt;/p&gt;
+
+&lt;p&gt;September 2025: 53,425 ($26,712.50)&lt;/p&gt;
+
+&lt;p&gt;October 2025: 66,158 ($33,079.00)&lt;/p&gt;
+
+&lt;p&gt;November 2025: 35,434 ($17,717.50)&lt;/p&gt;
+
+&lt;p&gt;December 2025: 35,223 ($17,611.50)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;2026&lt;/p&gt;
+
+&lt;p&gt;January 2026: 17,845 ($8,922.50)&lt;/p&gt;
+
+&lt;p&gt;February 2026: 17,326 ($8,663.00)&lt;/p&gt;
+
+&lt;p&gt;March 2026: 54,042 ($27,042.00 [sic - should be $27,021.00]&lt;/p&gt;
+
+&lt;p&gt;April 2026: 57,159 ($28,579.50)&lt;/p&gt;
+
+&lt;p&gt;May 2026: 67,204 ($33,602.00)&lt;/p&gt;
+
+&lt;p&gt;June 2026: 96,004 ($48,002.00)&lt;/p&gt;
+
+&lt;p&gt;July 2026: 105,911 ($53,680.50)&lt;/p&gt;</content><author><name>Dan Phelps</name></author><summary type="html">The &quot;Ark&quot; on opening day. Photograph by Dan Phelps. Recently, Marina Johnson of the Louisville Courier-Journal and Jolene Almendarez of the Cincinnati Enquirer duplicated some of my work and documented declining Ark ticket sales (they confirmed what I have been documenting for many months. They also confirmed that the sales tax rebate incentive from Kentucky Tourism ended in mid-August, 2026). Tellingly, Ken Ham refused to be interviewed for this story. Rather, on August 25, Mr. Ham responded with an AIG-produced video. The video is filled with “jokes” and brief cuts of Donald Trump. Apparently, Mr. Ham doesn’t like speaking to reporters who might ask him difficult questions. Mr. Ham spent more time in this video discussing declining newspaper sales than the fact that his Ark is selling fewer tickets every year. He basically admitted that ticket sales are declining but deflected the issue by pointing out that the newspaper that originally published the story (the Cincinnati Enquirer) has declining sales. Mr. Ham is such a master of obfuscation that his followers are likely to not understand the deceitful and irrelevant switch in topics.</summary></entry></feed>
