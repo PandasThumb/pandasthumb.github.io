@@ -143,32 +143,47 @@ both changes have occurred.
 The point of invoking the No Free Lunch theorem is to show 
 a situation in which evolutionary change will do not better 
 than a search that looked at the same number of genotypes, 
-but picked at random from all possible genotypes.  Is that 
-case one in which no progress is made?  Some progress will 
-be made.  By finding the highest fitness among K genotypes, 
+but which are picked at random from all possible genotypes.  Is that 
+case one in which no progress is made?  No, some progress will 
+be made.  By natural selection finding the highest fitness among K genotypes, 
 we do put some functional information into the organism's 
-genome.
+genome in the NFL case.
 
-K+L simulations
-stalling on local peaks
+Stewart Kauffman and Simon Levin ([**here**](https://www.sciencedirect.com/science/article/abs/pii/S0022519387800292)) have done 
+computer simulations on similar cases in genomes that 
+have 0s and 1s instead of four bases.  There can be 
+considerable progress, even in their NFL cases.
 
+A worse case would be if the nest step were simply to 
+a genotype randomly selected from those looked at; a 
+case where there was no natural selection.
 
+## How smoothness of the fitness landscape helps ##
 
-NOTE:
-1. Specification increases at each step, 
-whether in a white-noise surface or in a 
-smooth one.
-2. Kauffman and Levin (?) simulatiom
-3. So both within-landscape and in choice of 
-landscapes information is gained.
-4. We are stuck with the rules of physics.
+We get even more functional information if we have a relatively 
+smooth fitness landscape.  In that case after each step, 
+there is quite often a chance for further progress on the 
+next step.  The hazard is getting stuck on a local 
+optimum, forever.  With an NFL landscape one gets stuck 
+on a local peak rather quickly; on a fairly smooth 
+landscape one can keep climbing for many steps.
 
-
-
-
-
+An important point is that even in very rough 
+fitness landscapes, natural selection can make some 
+progress.  Even if we are not on a smooth surface.
+So a predisposition to having a smooth surface 
+is not the only reason for progress.
 
 ## Is intelligence required? ##
+
+In William Dembbski's 2002 book "No Free Lunch: Why Specified 
+Complexity Cannot Be Purchased Without Intelligence" 
+
+
+
+
+
+
 
 ## Is there a predisposition to CSI in real fitness functions ##
 
