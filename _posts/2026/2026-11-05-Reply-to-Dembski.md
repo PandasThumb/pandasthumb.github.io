@@ -176,7 +176,7 @@ is not the only reason for progress.
 
 ## Is intelligence required? ##
 
-In William Dembbski's 2002 book "No Free Lunch: Why Specified 
+In William Dembski's 2002 book "No Free Lunch: Why Specified 
 Complexity Cannot Be Purchased Without Intelligence" 
 
 
