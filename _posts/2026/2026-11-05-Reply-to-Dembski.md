@@ -177,7 +177,35 @@ is not the only reason for progress.
 ## Is intelligence required? ##
 
 In William Dembski's 2002 book "No Free Lunch: Why Specified 
-Complexity Cannot Be Purchased Without Intelligence" 
+Complexity Cannot Be Purchased Without Intelligence", he argues 
+that any evolution of specified complexity is due to 
+choice of a special fitness landscape out of the 
+set of all possible fitness landscapes:
+
+> The upshot of these theorems is that averaged over all possible
+> fitness functions, no search oprocedure outperforms any
+> other.  It follows that any success an evolutionary
+> algorithm has in outputting specified complexity must
+> ultimately be referred to the fitness function that
+> the evolutionary algorithm employs in conducting its
+> search. The No Free Lunch theorems dash any hope of 
+> generating specialized complexity via evolutionary
+> algorithms.  (p. 196)
+
+He identifies the source of the specified complexity 
+as intelligence:
+
+> The No Free Lunch theorems show that for evolutionary
+> algorithms to output CSI they first had to receive
+> a prior input of CSI.  And since CSI is reliably linked
+> to intelligence, evolutionary algorithms, insofar as
+> they output CSI, do so on account of a guiding
+> intelligence.
+
+
+
+
+
 
 
 
