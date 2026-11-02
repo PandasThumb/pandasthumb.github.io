@@ -183,7 +183,7 @@ choice of a special fitness landscape out of the
 set of all possible fitness landscapes:
 
 > The upshot of these theorems is that averaged over all possible
-> fitness functions, no search oprocedure outperforms any
+> fitness functions, no search procedure outperforms any
 > other.  It follows that any success an evolutionary
 > algorithm has in outputting specified complexity must
 > ultimately be referred to the fitness function that
@@ -202,18 +202,20 @@ as intelligence:
 > they output CSI, do so on account of a guiding
 > intelligence.
 
+## Is there a predisposition to smoothness in real fitness functions? ##
 
+There is.  The easiest way to see this is to consider 
+the effect on fitness of a single base change.  This can be 
+bad, or even lethal, but in a great many cases it will 
+only reduce the fitness moderately. 
 
-
-
-
-
-
-
-
-
-
-## Is there a predisposition to CSI in real fitness functions ##
+Compare that to the effect of a single base substitution in 
+the No Free Lunch world.  A single base substitution carries 
+the genotype to the fitness of a randomly chosen other 
+genotype.  A randomly chosen genotype differs from the 
+previous one at 3/4 of all sites.  In humans that would 
+be one that differs from the previous genotype in 2,225,000,000 
+bases.
 
 ## What did I say about physics and fitness landscapes? ##
 
