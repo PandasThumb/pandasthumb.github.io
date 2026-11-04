@@ -263,7 +263,7 @@ His summary of my argument, in that paper, is:
 
 > Felsenstein’s argument can thus be summarized as
 follows:
-1. Real-life biological evolution requires smooth fit
+> 1. Real-life biological evolution requires smooth fit
 ness landscapes.
 2. Physics and chemistry guarantee that real-life fit
 ness landscapes are smooth.
