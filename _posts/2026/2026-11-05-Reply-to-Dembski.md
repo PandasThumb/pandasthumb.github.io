@@ -259,13 +259,39 @@ the behavior of a system with but the slightest change
 in a parameter. Felsenstein’s argument is based on folk
 physics, not modern physics and as such is unconvincing.
  
-
+Did I say that _all_ fitness landscapes in biology are 
+completely smooth.  No.  But Dembski's refutation 
+cites "precipitous" effects in physics as if I had 
+made a statement about all such effects, without 
+exception.  Fitness landscapes _tend_ to be smooth, 
+that's all.  Enough to allow natural selection to 
+often make progress.
 
 ## A strawman, but no refutation ##
 
+Dembski's reply is a strawman, or rather a 
+straw-fitness-landscape.  It would be relevant if 
+I had argued that all fitness landscapes are 
+pleasantly smooth.  I am not refuted.
+
 ## No Free Lunch versus conservation of information ##
 
+There is also the matter of whether Dembski did or 
+did not use the NFL theorem to argue against the 
+ability of natural selection to put specified 
+information into genomes.  His 2025 BIO_Complexity 
+paper says
 
+> By themselves, the no-free-lunch theorems do not
+refute Darwinism, nor have I ever claimed that they
+do. Yes, I wrote a book titled No Free Lunch (pub
+lished in 2002) that used the no-free-lunch theorems as
+a springboard to critically re-examine the power of the
+Darwinian mechanism in explaining biological complexity
+and from there to argue that design is a better expla
+nation of biological complexity. Yet Darwinian critics
+of conservation of information have ever since conflated
+conservation of information with no free lunch,
 
 
 
