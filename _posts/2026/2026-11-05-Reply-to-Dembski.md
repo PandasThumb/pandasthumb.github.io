@@ -213,11 +213,52 @@ Compare that to the effect of a single base substitution in
 the No Free Lunch world.  A single base substitution carries 
 the genotype to the fitness of a randomly chosen other 
 genotype.  A randomly chosen genotype differs from the 
-previous one at 3/4 of all sites.  In humans that would 
+previous one at about 3/4 of all sites.  In humans that would 
 be one that differs from the previous genotype in 2,225,000,000 
 bases.
 
+If we were near the NFL type of fitness landscape, the 
+average effect of a single base mutation would be similar to 
+the effect of 2 billion mutations.  We obviously aren't 
+anywhere near that.  Mutations can be lethal, a fraction of 
+the time.  But 2 billion mutations will essentially _always_ 
+be lethal.  The difference between these shows that fitness 
+landscapes are mostly much smoother than NFL landscapes.
+
+
 ## What did I say about physics and fitness landscapes? ##
+
+Dembski's criticizes me arguments about smoothness of 
+fitness landscapes thusly:
+
+> Most fitness landscapes would thus be like hash functions
+> in cryptography (Felsenstein describes them as “white
+noise fitness surfaces”) where the slightest change in an
+input completely alters the numerical output [42].
+Now Felsenstein’s point is that such jagged fitness
+landscapes, as allowed by no-free-lunch theorems, violate
+biological reality. The fitness landscapes conducive to
+evolvability, such as might characterize how genotypes
+promote reproductive success, must, according to him,
+be smooth. Why? Because of physics. Thus he remarks:
+>> [I]t seems reasonable that physics itself predisposes fitness surfaces to be smooth. After all,
+the forces of physics tend to be local in time
+and space and to lose influence with greater
+distance. If I gesture with my fingers, there
+is hardly any effect on objects at a distance.
+The floor of our room does not collapse, nor
+does the ceiling cave in. Different objects are
+scarcely affected by each other.
+> The problems with this reasoning are numerous. In the
+first place, physics does have a place for precipitous and
+even nonlocal effects. Quantum entanglement is instan
+taneous and unaffected by distance. Phase transitions
+in nonlinear dynamics may produce radical changes in
+the behavior of a system with but the slightest change
+in a parameter. Felsenstein’s argument is based on folk
+physics, not modern physics and as such is unconvincing.
+ 
+
 
 ## A strawman, but no refutation ##
 
