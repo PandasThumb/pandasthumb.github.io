@@ -258,7 +258,26 @@ in nonlinear dynamics may produce radical changes in
 the behavior of a system with but the slightest change
 in a parameter. Felsenstein’s argument is based on folk
 physics, not modern physics and as such is unconvincing.
- 
+
+His summary of my argument, in that paper, is:
+
+> Felsenstein’s argument can thus be summarized as
+follows:
+1. Real-life biological evolution requires smooth fit
+ness landscapes.
+2. Physics and chemistry guarantee that real-life fit
+ness landscapes are smooth.
+3. Any probability estimates of smooth fitness land
+scapes among the totality of fitness landscapes are
+therefore irrelevant.
+4. No-free-lunch theorems hold for the totality of fit
+ness landscapes, both smooth and non-smooth.
+5. No-free-lunch theorems therefore do not apply to
+real-life biological evolution.
+6. Conservation of information is equivalent to no free
+lunch, so conservation of information is likewise
+irrelevant to real-life biological evolution.
+
 Did I say that _all_ fitness landscapes in biology are 
 completely smooth.  No.  But Dembski's refutation 
 cites "precipitous" effects in physics as if I had 
@@ -292,24 +311,6 @@ and from there to argue that design is a better explanation of biological comple
 of conservation of information have ever since conflated
 conservation of information with no free lunch,
 
-His summary of my argument, in that paper, is:
-
-> Felsenstein’s argument can thus be summarized as
-follows:
-1. Real-life biological evolution requires smooth fit
-ness landscapes.
-2. Physics and chemistry guarantee that real-life fit
-ness landscapes are smooth.
-3. Any probability estimates of smooth fitness land
-scapes among the totality of fitness landscapes are
-therefore irrelevant.
-4. No-free-lunch theorems hold for the totality of fit
-ness landscapes, both smooth and non-smooth.
-5. No-free-lunch theorems therefore do not apply to
-real-life biological evolution.
-6. Conservation of information is equivalent to no free
-lunch, so conservation of information is likewise
-irrelevant to real-life biological evolution.
 
 
 
