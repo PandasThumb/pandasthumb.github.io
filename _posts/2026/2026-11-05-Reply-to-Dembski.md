@@ -249,6 +249,7 @@ is hardly any effect on objects at a distance.
 The floor of our room does not collapse, nor
 does the ceiling cave in. Different objects are
 scarcely affected by each other.
+
 > The problems with this reasoning are numerous. In the
 first place, physics does have a place for precipitous and
 even nonlocal effects. Quantum entanglement is instan
