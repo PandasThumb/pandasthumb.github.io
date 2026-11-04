@@ -219,7 +219,8 @@ bases.
 
 If we were near the NFL type of fitness landscape, the 
 average effect of a single base mutation would be similar to 
-the effect of 2 billion mutations.  We obviously aren't 
+the effect of  over 2 billion simultaneous mutations.  With a 
+single base change, We obviously aren't 
 anywhere near that.  Mutations can be lethal, a fraction of 
 the time.  But 2 billion mutations will essentially _always_ 
 be lethal.  The difference between these shows that fitness 
