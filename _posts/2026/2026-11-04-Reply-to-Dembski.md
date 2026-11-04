@@ -1,6 +1,6 @@
 ---
 title: 'Was I wrong about fitness surfaces? Reply to reply to reply to Dembski'
-date: 2026-11-05 12:00:01 -08:00:00
+date: 2026-11-04 14:00:01 -08:00:00
 author: Joe Felsenstein
 ---
 
