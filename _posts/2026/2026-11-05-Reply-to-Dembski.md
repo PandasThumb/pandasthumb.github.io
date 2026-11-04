@@ -288,10 +288,40 @@ do. Yes, I wrote a book titled No Free Lunch (pub
 lished in 2002) that used the no-free-lunch theorems as
 a springboard to critically re-examine the power of the
 Darwinian mechanism in explaining biological complexity
-and from there to argue that design is a better expla
-nation of biological complexity. Yet Darwinian critics
+and from there to argue that design is a better explanation of biological complexity. Yet Darwinian critics
 of conservation of information have ever since conflated
 conservation of information with no free lunch,
+
+His summary of my argument, in that paper, is:
+
+> Felsenstein’s argument can thus be summarized as
+follows:
+1. Real-life biological evolution requires smooth fit
+ness landscapes.
+2. Physics and chemistry guarantee that real-life fit
+ness landscapes are smooth.
+3. Any probability estimates of smooth fitness land
+scapes among the totality of fitness landscapes are
+therefore irrelevant.
+4. No-free-lunch theorems hold for the totality of fit
+ness landscapes, both smooth and non-smooth.
+5. No-free-lunch theorems therefore do not apply to
+real-life biological evolution.
+6. Conservation of information is equivalent to no free
+lunch, so conservation of information is likewise
+irrelevant to real-life biological evolution.
+
+
+
+
+
+
+e have seen, above, his statements from the 2002 
+book.   In that book, he argued from a Law of Conservation 
+of Complex Specified Information.  Lately he has been 
+arguing that the law that counts is the Law of 
+Conservation of Information.  Yet in his recent 
+second edition of 
 
 
 
@@ -375,6 +405,10 @@ in nonlinear dynamics may produce radical changes in
 the behavior of a system with but the slightest change
 in a parameter. Felsenstein’s argument is based on folk
 physics, not modern physics and as such is unconvincing.
+
+
+
+
 43See
 guments,”
 Joseph
