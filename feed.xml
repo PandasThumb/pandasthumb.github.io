@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://pandasthumb.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pandasthumb.org/" rel="alternate" type="text/html" /><updated>2026-11-04T15:01:34-07:00</updated><id>https://pandasthumb.org/feed.xml</id><title type="html">The Panda’s Thumb</title><entry><title type="html">Was I wrong about fitness surfaces? Reply to reply to reply to Dembski</title><link href="https://pandasthumb.org/archives/2026/11/Reply-to-Dembski.html" rel="alternate" type="text/html" title="Was I wrong about fitness surfaces? Reply to reply to reply to Dembski" /><published>2026-11-04T15:00:01-07:00</published><updated>2026-11-04T15:00:01-07:00</updated><id>https://pandasthumb.org/archives/2026/11/Reply-to-Dembski</id><content type="html" xml:base="https://pandasthumb.org/archives/2026/11/Reply-to-Dembski.html">&lt;div align=&quot;center&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://pandasthumb.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pandasthumb.org/" rel="alternate" type="text/html" /><updated>2026-11-04T15:34:22-07:00</updated><id>https://pandasthumb.org/feed.xml</id><title type="html">The Panda’s Thumb</title><entry><title type="html">Was I wrong about fitness surfaces? Reply to reply to reply to Dembski</title><link href="https://pandasthumb.org/archives/2026/11/Reply-to-Dembski.html" rel="alternate" type="text/html" title="Was I wrong about fitness surfaces? Reply to reply to reply to Dembski" /><published>2026-11-04T15:00:01-07:00</published><updated>2026-11-04T15:00:01-07:00</updated><id>https://pandasthumb.org/archives/2026/11/Reply-to-Dembski</id><content type="html" xml:base="https://pandasthumb.org/archives/2026/11/Reply-to-Dembski.html">&lt;div align=&quot;center&quot;&gt;
 &lt;figure&gt;
 &lt;img src=&quot;/uploads/2026/fitness_landscape.png&quot; alt=&quot;[Fitness Landscape]&quot; /&gt;&lt;br /&gt;
 &lt;figcaption&gt;
@@ -50,7 +50,7 @@ irrelevant to real-life biological evolution.&lt;/li&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;He argues that there are exceptions to all fitness landscapes being smooth, 
-and that I have conflated the No Free Lunch argument with his 
+that I have conflated the No Free Lunch argument with his 
 Conservation of Information argument, and that the 
 latter is his essential argument.&lt;/p&gt;
 
@@ -146,8 +146,8 @@ than a search that looked at the same number of genotypes,
 but which are picked at random from all possible genotypes.  Is that 
 case one in which no progress is made?  No, some progress will 
 be made.  By natural selection finding the highest fitness among K genotypes, 
-we do put some functional information into the organism’s 
-genome in the NFL case.&lt;/p&gt;
+we actually do put some functional information into the organism’s 
+genome even in the NFL case.&lt;/p&gt;
 
 &lt;p&gt;Stewart Kauffman and Simon Levin (&lt;a href=&quot;https://www.sciencedirect.com/science/article/abs/pii/S0022519387800292&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;) have done 
 computer simulations on similar cases in genomes that 
@@ -203,7 +203,7 @@ algorithms to output CSI they first had to receive
 a prior input of CSI.  And since CSI is reliably linked
 to intelligence, evolutionary algorithms, insofar as
 they output CSI, do so on account of a guiding
-intelligence.&lt;/p&gt;
+intelligence. (p. 223)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h3 id=&quot;is-there-a-predisposition-to-smoothness-in-real-fitness-functions&quot;&gt;Is there a predisposition to smoothness in real fitness functions?&lt;/h3&gt;
@@ -261,8 +261,8 @@ scarcely affected by each other.&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;The problems with this reasoning are numerous. In the
 first place, physics does have a place for precipitous and
-even nonlocal effects. Quantum entanglement is instan
-taneous and unaffected by distance. Phase transitions
+even nonlocal effects. Quantum entanglement is instantaneous
+and unaffected by distance. Phase transitions
 in nonlinear dynamics may produce radical changes in
 the behavior of a system with but the slightest change
 in a parameter. Felsenstein’s argument is based on folk
@@ -277,7 +277,7 @@ made a statement about all such effects, without
 exception.  Fitness landscapes &lt;em&gt;tend&lt;/em&gt; to be smooth, 
 that’s all.  Enough to allow natural selection to 
 often make progress.  And not always.  Ask the 
-dinosaurs, the ammonites, the pelycosaurs, the 
+ammonites, the pelycosaurs, the 
 seed ferns.&lt;/p&gt;
 
 &lt;h3 id=&quot;a-strawman-but-no-refutation&quot;&gt;A strawman, but no refutation&lt;/h3&gt;
@@ -339,7 +339,7 @@ because then we could evaluate their current
 not-the-same-as-No-Free-Lunch conservation-of-information 
 argument against the ability of natural selection 
 to incorporate specified information into a genome. 
-It is currently missing.  Or does it simply not exist?&lt;/p&gt;</content><author><name>Joe Felsenstein</name></author><summary type="html">A fitness landscape computed from an NK-algorithm. By Randy Olson - Own work, CC BY-SA 3.0, Link &amp;nbsp; Not too long ago I became aware that William Dembski had a new article (here) in the BIO-Complexity (the Discovery Institute’s house journal). And that a section of that article disputed my statements about smooth fitness landscapes (or fitness surfaces). He is replying to a post by me here at Panda’s Thumb on 6 February 2025 (here). He and Robert Marks (and also Winston Ewert) had argued that there was a Conservation of Information law, that showed that when information gets into genomes, it must have already existed elsewhere. They said that this was even true when natural evolutionary processes put adaptive information into the genome – it must have already existed, for example, in the fitness landscape. Their argument (which can be seen here and here) uses the concept of “active information”. For situations in which there is a population evolving on a fitness landscape, active information can include the information embodied in the assignment of fitnesses to genotypes. Dembski, in his BIO-Complexity paper, summarizes my arguments thusly: Real-life biological evolution requires smooth fitness landscapes. Physics and chemistry guarantee that real-life fitness landscapes are smooth. Any probability estimates of smooth fitness landscapes among the totality of fitness landscapes are therefore irrelevant. No-free-lunch theorems hold for the totality of fitness landscapes, both smooth and non-smooth. No-free-lunch theorems therefore do not apply to real-life biological evolution. Conservation of information is equivalent to no freelunch, so conservation of information is likewise irrelevant to real-life biological evolution. He argues that there are exceptions to all fitness landscapes being smooth, and that I have conflated the No Free Lunch argument with his Conservation of Information argument, and that the latter is his essential argument. Let’s look at his refutation in some detail:</summary></entry><entry><title type="html">Phidippus sp.</title><link href="https://pandasthumb.org/archives/2026/11/phidippus-sp.html" rel="alternate" type="text/html" title="Phidippus sp." /><published>2026-11-02T12:00:00-07:00</published><updated>2026-11-02T12:00:00-07:00</updated><id>https://pandasthumb.org/archives/2026/11/phidippus-sp</id><content type="html" xml:base="https://pandasthumb.org/archives/2026/11/phidippus-sp.html">&lt;figure&gt;
+It is currently missing.  Or does it simply not exist?&lt;/p&gt;</content><author><name>Joe Felsenstein</name></author><summary type="html">A fitness landscape computed from an NK-algorithm. By Randy Olson - Own work, CC BY-SA 3.0, Link &amp;nbsp; Not too long ago I became aware that William Dembski had a new article (here) in the BIO-Complexity (the Discovery Institute’s house journal). And that a section of that article disputed my statements about smooth fitness landscapes (or fitness surfaces). He is replying to a post by me here at Panda’s Thumb on 6 February 2025 (here). He and Robert Marks (and also Winston Ewert) had argued that there was a Conservation of Information law, that showed that when information gets into genomes, it must have already existed elsewhere. They said that this was even true when natural evolutionary processes put adaptive information into the genome – it must have already existed, for example, in the fitness landscape. Their argument (which can be seen here and here) uses the concept of “active information”. For situations in which there is a population evolving on a fitness landscape, active information can include the information embodied in the assignment of fitnesses to genotypes. Dembski, in his BIO-Complexity paper, summarizes my arguments thusly: Real-life biological evolution requires smooth fitness landscapes. Physics and chemistry guarantee that real-life fitness landscapes are smooth. Any probability estimates of smooth fitness landscapes among the totality of fitness landscapes are therefore irrelevant. No-free-lunch theorems hold for the totality of fitness landscapes, both smooth and non-smooth. No-free-lunch theorems therefore do not apply to real-life biological evolution. Conservation of information is equivalent to no freelunch, so conservation of information is likewise irrelevant to real-life biological evolution. He argues that there are exceptions to all fitness landscapes being smooth, that I have conflated the No Free Lunch argument with his Conservation of Information argument, and that the latter is his essential argument. Let’s look at his refutation in some detail:</summary></entry><entry><title type="html">Phidippus sp.</title><link href="https://pandasthumb.org/archives/2026/11/phidippus-sp.html" rel="alternate" type="text/html" title="Phidippus sp." /><published>2026-11-02T12:00:00-07:00</published><updated>2026-11-02T12:00:00-07:00</updated><id>https://pandasthumb.org/archives/2026/11/phidippus-sp</id><content type="html" xml:base="https://pandasthumb.org/archives/2026/11/phidippus-sp.html">&lt;figure&gt;
 &lt;img src=&quot;/uploads/2026/P1052230_Spider_Crop2_600.jpg&quot; alt=&quot;Jumping spider lounging on a pod of showy milkweed.&quot; /&gt;
 &lt;figcaption&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Phidippus&quot;&gt;&lt;i&gt;Phidippus&lt;/i&gt;&lt;/a&gt; sp., possibly &lt;i&gt;P. audax&lt;/i&gt; (help?) &amp;ndash; jumping spider, lounging on a pod of &lt;a href=&quot;https://en.wikipedia.org/wiki/Asclepias_speciosa&quot;&gt;&lt;i&gt;Asclepias speciosa&lt;/i&gt;&lt;/a&gt; &amp;ndash; showy milkweed, University of Colorado campus, October, 2026.&lt;/figcaption&gt;
 &lt;/figure&gt;</content><author><name>Matt Young</name></author><summary type="html">Phidippus sp., possibly P. audax (help?) &amp;ndash; jumping spider, lounging on a pod of Asclepias speciosa &amp;ndash; showy milkweed, University of Colorado campus, October, 2026.</summary></entry><entry><title type="html">Jared Diamond: What if Darwin had died in childbirth at birth&amp;amp;quest;</title><link href="https://pandasthumb.org/archives/2026/10/jared-diamond-what-if-darwin.html" rel="alternate" type="text/html" title="Jared Diamond: What if Darwin had died in childbirth at birth&amp;amp;quest;" /><published>2026-10-29T10:50:00-07:00</published><updated>2026-10-29T10:50:00-07:00</updated><id>https://pandasthumb.org/archives/2026/10/jared-diamond-what-if-darwin</id><content type="html" xml:base="https://pandasthumb.org/archives/2026/10/jared-diamond-what-if-darwin.html">&lt;figure class=&quot;on-the-left-side&quot; style=&quot;margin-top: 10px; margin-right: 40px; margin-bottom: 10px; margin-left: 10px;&quot;&gt;
