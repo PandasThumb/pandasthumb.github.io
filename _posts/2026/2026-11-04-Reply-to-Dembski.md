@@ -52,7 +52,7 @@ therefore irrelevant.
 irrelevant to real-life biological evolution.
 
 He argues that there are exceptions to all fitness landscapes being smooth, 
-and that I have conflated the No Free Lunch argument with his 
+that I have conflated the No Free Lunch argument with his 
 Conservation of Information argument, and that the 
 latter is his essential argument.
 
@@ -146,8 +146,8 @@ than a search that looked at the same number of genotypes,
 but which are picked at random from all possible genotypes.  Is that 
 case one in which no progress is made?  No, some progress will 
 be made.  By natural selection finding the highest fitness among K genotypes, 
-we do put some functional information into the organism's 
-genome in the NFL case.
+we actually do put some functional information into the organism's 
+genome even in the NFL case.
 
 Stewart Kauffman and Simon Levin ([**here**](https://www.sciencedirect.com/science/article/abs/pii/S0022519387800292)) have done 
 computer simulations on similar cases in genomes that 
@@ -200,7 +200,7 @@ as intelligence:
 > a prior input of CSI.  And since CSI is reliably linked
 > to intelligence, evolutionary algorithms, insofar as
 > they output CSI, do so on account of a guiding
-> intelligence.
+> intelligence. (p. 223)
 
 ## Is there a predisposition to smoothness in real fitness functions? ##
 
@@ -253,8 +253,8 @@ scarcely affected by each other.
 
 > The problems with this reasoning are numerous. In the
 first place, physics does have a place for precipitous and
-even nonlocal effects. Quantum entanglement is instan
-taneous and unaffected by distance. Phase transitions
+even nonlocal effects. Quantum entanglement is instantaneous
+and unaffected by distance. Phase transitions
 in nonlinear dynamics may produce radical changes in
 the behavior of a system with but the slightest change
 in a parameter. Felsenstein’s argument is based on folk
@@ -268,7 +268,7 @@ made a statement about all such effects, without
 exception.  Fitness landscapes _tend_ to be smooth, 
 that's all.  Enough to allow natural selection to 
 often make progress.  And not always.  Ask the 
-dinosaurs, the ammonites, the pelycosaurs, the 
+ammonites, the pelycosaurs, the 
 seed ferns.
 
 ## A strawman, but no refutation ##
