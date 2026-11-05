@@ -40,7 +40,7 @@ information can include the information embodied in the
 assignment of fitnesses to genotypes.  
 
 Dembski, in his BIO-Complexity paper, summarizes 
-my arguments thusly (the list is quoted from that article):
+my arguments thusly (the list is quoted from that article): 
 
 1. Real-life biological evolution requires smooth fitness landscapes.
 2. Physics and chemistry guarantee that real-life fitness landscapes are smooth.
