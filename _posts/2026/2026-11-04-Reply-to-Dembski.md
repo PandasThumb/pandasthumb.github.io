@@ -44,11 +44,11 @@ my arguments thusly:
 
 > 1. Real-life biological evolution requires smooth fitness landscapes.
 > 2. Physics and chemistry guarantee that real-life fitness landscapes are smooth.
-3. Any probability estimates of smooth fitness landscapes among the totality of fitness landscapes are
+> 3. Any probability estimates of smooth fitness landscapes among the totality of fitness landscapes are
 therefore irrelevant.
-4. No-free-lunch theorems hold for the totality of fitness landscapes, both smooth and non-smooth.
-5. No-free-lunch theorems therefore do not apply to real-life biological evolution.
-6. Conservation of information is equivalent to no freelunch, so conservation of information is likewise
+> 4. No-free-lunch theorems hold for the totality of fitness landscapes, both smooth and non-smooth.
+> 5. No-free-lunch theorems therefore do not apply to real-life biological evolution.
+> 6. Conservation of information is equivalent to no freelunch, so conservation of information is likewise
 irrelevant to real-life biological evolution.
 
 He argues that there are exceptions to all fitness landscapes being smooth, 
