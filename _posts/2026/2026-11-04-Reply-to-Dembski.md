@@ -99,7 +99,7 @@ algorithm, that it
 ## Where No Free Lunch comes in ##
 
 For all possible genotypes (say 3 billion bases in a 
-hapoid genome, with each base being one of A, C, G or T) 
+haploid genome, with each base being one of A, C, G or T) 
 the fitness is a nonnegative real number.  The set of 
 all possible combinations of fitnesses is a *very* big 
 space, and that does not even consider variation in the 
