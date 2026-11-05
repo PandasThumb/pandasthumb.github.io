@@ -301,7 +301,7 @@ book.   In that book, he argued from a Law of Conservation
 of Complex Specified Information.  Lately he has been 
 arguing that the law that counts is not No Free 
 Lunch, but the Law of 
-Conservation of Information.  Yet in his recent 
+Conservation of Information.  In his recent 
 second edition of _The Design Inference_, with 
 Winston Ewert as co-author, he presents an extended 
 argument, defining Algorithmically Specified 
