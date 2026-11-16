@@ -1,6 +1,6 @@
 ---
 title: 'Agelaius phoeniceus'
-date: '2026-10-15 12:00:00 -07:00'
+date: '2026-11-15 12:00:00 -07:00'
 author: Matt Young
 ---
 
