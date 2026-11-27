@@ -316,7 +316,7 @@ increase fitness must have a simple description.
 a short description, natural selection could not
 bring that about.
 
-I short, their book of over 700 pages leaves their 
+In short, their book of over 700 pages leaves their 
 supposedly-essential conservation of information 
 argument unable to connect to adaptation by natural 
 selection.
